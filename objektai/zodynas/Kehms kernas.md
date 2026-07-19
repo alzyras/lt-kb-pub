@@ -49,7 +49,7 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172188
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu.'
@@ -69,8 +69,7 @@ Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189301
 ## Citatos
 
 - id: c-172188

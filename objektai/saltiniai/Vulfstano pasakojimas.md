@@ -119,7 +119,6 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193063
-
 - id: c-175830
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -142,7 +141,6 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193064
-
 - id: c-175831
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

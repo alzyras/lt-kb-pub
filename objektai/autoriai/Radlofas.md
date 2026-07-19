@@ -63,7 +63,7 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174500
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius.'
@@ -84,8 +84,7 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191618
 - c-003
   santrauka: 'Narbutas mini Radlofo nuomonę, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -117,8 +116,6 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-174499
@@ -145,7 +142,6 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191617
-
 - id: c-174500
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

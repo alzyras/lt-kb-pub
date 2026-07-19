@@ -83,7 +83,6 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72656
-
 - id: c-71052
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

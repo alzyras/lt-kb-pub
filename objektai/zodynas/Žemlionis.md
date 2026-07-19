@@ -102,8 +102,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-09781
@@ -119,7 +117,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70425
-
 - id: c-09782
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -142,29 +139,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   pagrindzia:
     - t-70424
     - t-70426
-
-- id: c-09783
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
-  citata_originali: |
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 285124-286031; match: ocr_normalized_gapped
-    - santrauka: Šiame tekste išvardijamos įvairios pilies ir rūmų pareigybės.; Šios pareigybės siejamos su raktų, vėliavos, ūkės žymės ir rūmų tvarkos priežiūra.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        Kožnoj tėvūnijoj buvo dar tie vyresnieji: raktininkas, kurs lobius didžiojo kunigaikščio už raktui laikė ir saugojo, jo pripadėtojas vadinos parakčia; buvo dar pilies ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 , kurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba pulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas, kurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062.
-  citata_rodoma: "ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 ,\nkurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba\npulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas,\nkurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-70424
-
 - id: c-09783
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

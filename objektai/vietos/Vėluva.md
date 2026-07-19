@@ -461,7 +461,6 @@ media_all_json: |-
   pagrindzia:
     - t-99865
     - t-99867
-
 - id: c-93817
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -486,7 +485,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99869
-
 - id: c-93820
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -509,7 +507,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99868
-
 - id: c-93821
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -539,7 +536,6 @@ media_all_json: |-
   pagrindzia:
     - t-99858
     - t-99860
-
 - id: c-93822
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -559,7 +555,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99859
-
 - id: c-93824
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -583,7 +578,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99866
-
 - id: c-93825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -606,7 +600,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99864
-
 - id: c-93826
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -635,7 +628,6 @@ media_all_json: |-
   pagrindzia:
     - t-99861
     - t-194553
-
 - id: c-93827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -657,7 +649,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99862
-
 - id: c-168574
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -682,7 +673,6 @@ media_all_json: |-
   pagrindzia:
     - t-185213
     - t-196761
-
 - id: c-171762
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -706,7 +696,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188873
-
 - id: c-184470
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -735,6 +724,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201120
-
 ## Ryšiai
 - Apgulė Vėluvą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]]

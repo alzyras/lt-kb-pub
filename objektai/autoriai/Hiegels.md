@@ -48,7 +48,7 @@ Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173310
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų upių santakos statyti šventoves ir garbinti upes.'
@@ -64,8 +64,7 @@ Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190427
 ## Citatos
 
 - id: c-173310

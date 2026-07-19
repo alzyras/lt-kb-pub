@@ -71,7 +71,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-31248
-
+    - c-167704
 <a id="claim-t-96869"></a>
 - t-003
   global_id: t-96869
@@ -133,7 +133,6 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96869
-
 - id: c-31248
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -151,7 +150,6 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96867
-
 - id: c-91460
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -171,7 +169,6 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96866
-
 - id: c-167704
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -207,6 +204,5 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193561
-
 ## Ryšiai
 - Riurikaičių dinastija valdė [[objektai/vietos/Rusija]]

@@ -59,7 +59,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-181606
-
+    - c-160206
 <a id="claim-t-12390"></a>
 - t-002
   global_id: t-12390
@@ -135,7 +135,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Pašalintas antraštinis triukšmas ir suformuotas glaustas sakinys."
   pagrindžia:
     - c-160199
-
+    - c-160203
 <a id="claim-t-176121"></a>
 - t-006
   global_id: t-176121
@@ -281,7 +281,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-46423
-
+    - c-166333
 <a id="claim-t-176135"></a>
 - t-014
   global_id: t-176135
@@ -1225,8 +1225,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Mitologinis aukojimo motyvas paliktas su Narbuto atribucija ir žodžiu „esą“. Nepridėta paaiškinimų apie dainos kilmę ar istoriškumą.'
   susije_objektai: 'mentioned_place: Pajūris'
   pagrindžia:
-    - c-181594
-
+    - c-171257
 <a id="claim-t-199157"></a>
 - t-066
   global_id: t-199157
@@ -1237,8 +1236,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Mitologinis vaizdinys paliktas kaip Narbuto aprašymas. Pašalintos OCR klaidos ir neperkelti papildomi pasakojimo motyvai apie jaunikaičius.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Čeltyčios|Čeltyčios]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_place: Baltija; mentioned_place: Pajūris'
   pagrindžia:
-    - c-181571
-
+    - c-171259
 <a id="claim-t-199162"></a>
 - t-070
   global_id: t-199162
@@ -1248,8 +1246,7 @@ media_all_json: |-
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Religinis aiškinimas ir Lasickio pozicija palikti su atribucija. Neaiškus „naminių gyvulių grupės“ fragmentas neplėtotas už citatos ribų.'
   pagrindžia:
-    - c-181570
-
+    - c-171260
 <a id="claim-t-199165"></a>
 - t-073
   global_id: t-199165
@@ -1263,8 +1260,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistas straipsnio autorius, data ir ryšys su Žemaičių istorijos rašymu. Vertinimas „bene geriausiai“ neperkeltas kaip neutralus faktas.'
   pagrindžia:
-    - c-181600
-
+    - c-045
 <a id="claim-t-199167"></a>
 - t-075
   global_id: t-199167
@@ -1275,8 +1271,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
   susije_objektai: 'llm_object: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Trakai'
   pagrindžia:
-    - c-181602
-
+    - c-041
 <a id="claim-t-199173"></a>
 - t-081
   global_id: t-199173
@@ -1287,8 +1282,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Patikslintas veiksmo kontekstas ir pašalinta citatoje tiesiogiai nepasakyta naudos formuluotė.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vasilka|Vasilka]]; mentioned_place: Palenkė'
   pagrindžia:
-    - c-181556
-
+    - c-039
 <a id="claim-t-199175"></a>
 - t-083
   global_id: t-199175
@@ -1299,8 +1293,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Religinė interpretacija palikta su Narbuto atribucija. Neišplėsta Naruševičiaus pastaba apie slavų ugnį, nes ji nėra tiesiogiai apie Žemaičius.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]'
   pagrindžia:
-    - c-181613
-
+    - c-171261
 <a id="claim-t-199178"></a>
 - t-086
   global_id: t-199178
@@ -1311,8 +1304,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Pirmojo asmens pasakojimas perrašytas kaip Narbuto saviapibūdinimas. Įtrauktos tik citatoje nurodytos rinkinių rūšys ir vietovės.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
-    - c-181614
-
+    - c-046
 <a id="claim-t-199200"></a>
 - t-108
   global_id: t-199200
@@ -1321,7 +1313,7 @@ media_all_json: |-
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181596
+    - c-171258
 - susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-184372|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
 - susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-30223|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51026|Jadvyga (Jogailos duktė)]]: Jogailos duktės Jadvygos vardu buvo įteiktas protestas prieš Žemaičių krašto atidavimą Ordinui po tėvų mirties.
@@ -1521,8 +1513,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-081
-
+    - t-199173
 - c-041
   santrauka: 'Kęstutis valdė Trakus ir Žemaičių žemę ir turėjo šešis sūnus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1542,8 +1533,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-075
-
+    - t-199167
 - c-042
   santrauka: 'Lietuvos metraštis aiškina, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami būti vokiečių valdžioje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1577,8 +1567,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-093
-
 - c-043
   santrauka: 'Lietuvos metraštyje žemaičiai Palangoje nuo kopų akmenimis sumušė prieš juos sutelktą Prūsijos ir Livonijos vokiečių kariuomenę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1611,8 +1599,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056
-
 - c-044
   santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis nujojo į Žemaičius ieškoti pagalbos ir su žemaičiais atėjo prie Trakų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1631,8 +1617,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-104
-
 - c-045
   santrauka: 'Dionizo Poškos 1829 m. straipsnis „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“ siejamas su Žemaičių istorijos rašymo atmosfera.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1650,8 +1634,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-073
-
+    - t-199165
 - c-046
   santrauka: 'Narbutas savo Lietuvos senovės tyrimų lobiu vadino papročius, prietarus, pasakojimus, padavimus ir dainas, rinktus iš Žemaičių, Lietuvos, Prūsų ir Latvijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1671,8 +1654,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-086
-
+    - t-199178
 - c-047
   santrauka: 'Narbutas mini pajūrio žemaičių dainą, kurioje apverkiami jūreiviai, esą pagrobti paaukoti audrai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1691,8 +1673,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062
-
 - c-048
   santrauka: 'Yra padavimas, jog Žemaičiuose buvę septynios deivės par kos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1712,8 +1692,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-108
-
 - c-049
   santrauka: 'Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1736,8 +1714,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-066
-
 - c-050
   santrauka: 'Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių siejo su atsargiu elgesiu su ugnimi ir teigė, kad Žemaičiuose jis buvo dievinamas „Dims tipo“ vardu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1761,8 +1737,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-070
-
 - c-051
   santrauka: 'Narbutas rašė, kad žemaičiai religijos pasikeitimą aiškino krikščionių užgesinta amžinąja ugnimi, dėl kurios Perkūnas sušals, o dievai užmigs.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1780,8 +1754,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-083
-
 - c-054
   santrauka: 'Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daug kaimiečių nepažino krikščioniško tikėjimo tiesų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1801,8 +1773,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-116
-
 ## Citatos
 
 - id: c-00356
@@ -1824,7 +1794,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193134
-
 - id: c-00357
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1843,7 +1812,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193135
-
 - id: c-00358
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1863,7 +1831,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193136
-
 - id: c-14994
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1883,7 +1850,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199156
-
 - id: c-14998
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1907,7 +1873,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199190
-
 - id: c-14999
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1928,7 +1893,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199190
-
 - id: c-21447
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1949,7 +1913,6 @@ media_all_json: |-
   pagrindzia:
     - t-176121
     - t-176122
-
 - id: c-31292
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1967,7 +1930,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176156
-
 - id: c-36981
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1986,7 +1948,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199198
-
 - id: c-46423
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2004,7 +1965,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176134
-
 - id: c-160170
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2030,7 +1990,6 @@ media_all_json: |-
   pagrindzia:
     - t-176132
     - t-176158
-
 - id: c-160171
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2066,7 +2025,6 @@ media_all_json: |-
   pagrindzia:
     - t-176141
     - t-176164
-
 - id: c-160172
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2100,7 +2058,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176148
-
 - id: c-160173
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2121,7 +2078,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176152
-
 - id: c-160177
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2142,7 +2098,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176126
-
 - id: c-160178
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2172,7 +2127,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176145
-
 - id: c-160180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2209,7 +2163,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176123
-
 - id: c-160181
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2230,7 +2183,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176133
-
 - id: c-160184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2290,7 +2242,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176165
-
 - id: c-160186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2320,7 +2271,6 @@ media_all_json: |-
   pagrindzia:
     - t-176140
     - t-176161
-
 - id: c-160189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2342,7 +2292,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176117
-
 - id: c-160194
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2396,7 +2345,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176150
-
 - id: c-160197
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2418,7 +2366,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176163
-
 - id: c-160199
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2449,8 +2396,8 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176116
+    - t-176149
     - t-176157
-
 - id: c-160203
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2479,8 +2426,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176119
-
+    - t-176149
 - id: c-160208
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2495,7 +2441,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176135
-
 - id: c-160210
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2516,7 +2461,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176155
-
 - id: c-166332
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2534,7 +2478,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176125
-
 - id: c-166333
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2570,7 +2513,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183907
-
 - id: c-167952
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2609,7 +2551,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184591
-
 - id: c-167953
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2635,7 +2576,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184592
-
 - id: c-167954
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2667,7 +2607,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184593
-
 - id: c-167955
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2694,7 +2633,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184594
-
 - id: c-167956
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2736,7 +2674,6 @@ media_all_json: |-
     - t-184595
     - t-196130
     - t-196131
-
 - id: c-167957
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2768,7 +2705,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184596
-
 - id: c-167958
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2797,7 +2733,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184597
-
 - id: c-170692
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2819,7 +2754,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187753
-
 - id: c-176789
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2847,7 +2781,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194178
-
 - id: c-181557
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2888,7 +2821,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199168
-
 - id: c-181560
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2928,7 +2860,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199208
-
 - id: c-181563
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2968,7 +2899,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199194
-
 - id: c-181565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3016,7 +2946,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12390
-
 - id: c-181568
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3043,7 +2972,6 @@ media_all_json: |-
   pagrindzia:
     - t-199172
     - t-199181
-
 - id: c-181572
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3095,7 +3023,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199196
-
 - id: c-181575
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3178,7 +3105,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199147
-
 - id: c-181579
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3200,7 +3126,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199140
-
 - id: c-181580
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3218,7 +3143,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199163
-
 - id: c-181581
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3240,7 +3164,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199186
-
 - id: c-181582
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3294,7 +3217,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199194
-
 - id: c-181585
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3321,7 +3243,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12390
-
 - id: c-181586
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3399,7 +3320,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12390
-
 - id: c-181589
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3443,7 +3363,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199185
-
 - id: c-181591
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3673,7 +3592,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199141
-
 - id: c-181604
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3694,7 +3612,6 @@ media_all_json: |-
   pagrindzia:
     - t-199152
     - t-199158
-
 - id: c-181605
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3714,7 +3631,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199145
-
 - id: c-181606
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3736,7 +3652,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12388
-
 - id: c-181607
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3847,7 +3762,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199177
-
 - id: c-181612
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3929,7 +3843,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200931
-
 - id: c-184282
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -3958,7 +3871,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200932
-
 - id: c-184283
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -3985,7 +3897,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200933
-
 - id: c-184284
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -4013,7 +3924,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200934
-
 - id: c-184285
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -4035,7 +3945,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200935
-
 - id: c-184286
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -4057,7 +3966,115 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200936
+- id: c-160206
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Taip pat šiuo laiku Nemunu buvo plukdoma ir daug
+    medžių. Žemaičiai, kurie pirmaisiais metais neturėjo teisių pre­
+    kiauti su Aukštaičiais, jas dabar vėl atgavo.
+    Tačiau šie geri prekybos santykiai neilgai truko.
+  citata_rodoma: "Žemaičiai, kurie pirmaisiais metais neturėjo teisių pre­\nkiauti su Aukštaičiais, jas dabar vėl atgavo.\nTačiau šie geri prekybos santykiai neilgai truko."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12388
+- id: c-171257
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 105."
+  citata_originali: |
+    Valdant Hote-
+    riui, Balderis pakeitė ją žmonių auka (Eddy). Esama dainos,
+    iki šiol pajūrio žemaičių tebedainuojamos, kurioje dainuojan­
+    tis apverkia žuvusius jūreivius, pagrobtus paaukoti audrai, Ju-
+    dime. Juos laukinių žmonių rankos nužudžiusios kaip juodus
+    gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­
+    ta atnašauti audrų dievui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199153
+- id: c-171258
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 141"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 141."
+  citata_originali: |
+    Yra padavimas, jog Žemaičiuose buvę septynios deivės par­
+    kos. Jas vadino Deivėmis Valdytojomis (Dejwe-Walditoje). Pir­
+    moji verpdavo žmogaus gyvenimą kuodeliu, gautu iš Ukapirmo;
+    ji buvo vadinama Verpėja (Werpentie).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199200
+- id: c-171259
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Čeltyčios (Czeltice)
+    Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių
+    vaizduotėje jos įgaudavo dailių nuogiį merginų, gyvenančių gin­
+    152
 
+    ## Puslapis 152
+
+    taro rūmuose, jūros gelmėse, pavidalą. Jos sugundydavo, nusivi­
+    liodavo į savo slėptuves dailius jaunikaičius, kurie jau niekuo­
+    met iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo
+    Jūratė .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199157
+- id: c-171260
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 162"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
+  citata_originali: |
+    Trotytojas kibirkščių (Trotitas-Kirbixtu)
+    Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats
+    pavadinimas reiškia kibirkščių gesintoją. Žemaičiuose jis buvo
+    dievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­
+    pei*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199162
+- id: c-171261
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 225"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 225."
+  citata_originali: |
+    Žyniai iš jų burdavo. Žemaičiai
+    manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
+    užmigs; religijos pasikeitimą aiškino tuo, kad krikščionys tą ugnį
+    užgesino .
+    Kaip mano Naruševičius', slavai taip pat žinojo panašią
+    ugnį, vadintą Zwicz.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199175
 ## Ryšiai
 - Rėmė Žemaičiai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Žemaičiai puolė [[objektai/vietos/Klaipėda]], [[objektai/vietos/Klaipėda Memelis]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Memelis]], [[objektai/vietos/Semba]], [[objektai/vietos/Skirsnemunė]]

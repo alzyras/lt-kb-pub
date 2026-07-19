@@ -94,7 +94,6 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195084
-
 - id: c-177468
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

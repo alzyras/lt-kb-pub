@@ -93,7 +93,6 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40547
-
 - id: c-44582
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

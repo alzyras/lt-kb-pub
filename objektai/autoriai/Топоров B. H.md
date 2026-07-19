@@ -82,7 +82,6 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175153
-
 - id: c-159307
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -50,6 +50,7 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171892
+    - c-001
 - susijęs iš [[objektai/daiktai/Heiligenbeilio kirvis.md#claim-t-189721|Heiligenbeilio kirvis]]: Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.
 - susijęs iš Heiligenbeilis Šventasis Kirvelis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
 - susijęs iš Heiligenbeilis Šventasis Kirvelis: Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.
@@ -71,8 +72,7 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189003
 ## Citatos
 
 - id: c-171892

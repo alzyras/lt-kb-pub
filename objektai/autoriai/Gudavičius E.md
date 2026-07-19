@@ -94,7 +94,6 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91931
-
 - id: c-178996
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

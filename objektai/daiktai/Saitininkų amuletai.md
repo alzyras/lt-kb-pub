@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172627
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas saitininkus apibūdina kaip pranašautojus gydytojus, kurie ligas gydydavo ant ligonio kaklo kabinamais amuletais.'
@@ -84,8 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189744
 ## Citatos
 
 - id: c-172627

@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172589
-
+    - c-001
 <a id="claim-t-194612"></a>
 - t-002
   global_id: t-194612
@@ -78,6 +78,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177011
+    - c-002
 - susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189375|Senovės romėnai]]: Narbutas lygina, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus atskiriems dievams.
 - susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, malkos ir pelenai.md#claim-t-189673|Amžinosios ugnies aukuras, malkos ir pelenai]]: Narbutas nuolatinės aukos esme laikė niekad negęstančios ugnies kurstymą Praurimės, Kurko, Perkūno ir Amžinosios ugnies aukuruose.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188277|Lietuviai]]: Narbutas teigė, kad lietuviai senojoje religijoje daug reikšmės skyrė ugniai ir šventiesiems aukurų židiniams.
@@ -123,8 +124,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189706
 - c-002
   santrauka: 'Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -140,8 +140,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194612
 ## Citatos
 
 - id: c-172589
@@ -170,7 +169,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189706
-
 - id: c-177011
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -194,6 +192,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194612
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Graikai]], [[objektai/grupes/Senovės romėnai]]

@@ -57,7 +57,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175096
-
+    - c-001
 <a id="claim-t-192267"></a>
 - t-002
   global_id: t-192267
@@ -69,7 +69,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175096
-
+    - c-001
 <a id="claim-t-192571"></a>
 - t-003
   global_id: t-192571
@@ -91,7 +91,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175348
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -111,9 +111,8 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-192266
+    - t-192267
 - c-002
   santrauka: 'Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -132,8 +131,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192571
 ## Citatos
 
 - id: c-175096
@@ -162,7 +160,6 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   pagrindzia:
     - t-192266
     - t-192267
-
 - id: c-175348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

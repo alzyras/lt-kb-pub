@@ -42,7 +42,7 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172445
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstiečių dar mokėtą liudijimą apie Pilvytės mito žinomumą.'
@@ -66,8 +66,6 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas aiškino, kad Strijkovskio Pilwitos arba Pilwite reiškia turto deivę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -84,8 +82,7 @@ Narbutas dainelę „Weju, weju tau, Pilwite!“ pateikė kaip vietos valstieči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189557
 ## Citatos
 
 - id: c-172445

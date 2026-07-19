@@ -71,7 +71,7 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174157
-
+    - c-002
 <a id="claim-t-197735"></a>
 - t-003
   global_id: t-197735
@@ -118,8 +118,7 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191275
 ## Citatos
 
 - id: c-174156
@@ -142,7 +141,6 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191274
-
 - id: c-174157
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -168,7 +166,6 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191275
-
 - id: c-179316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -188,6 +185,5 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197735
-
 ## Ryšiai
 - Goteris kariavo prieš [[objektai/asmenys/Bojas]]

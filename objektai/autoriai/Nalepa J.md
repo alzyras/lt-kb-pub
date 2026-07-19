@@ -108,7 +108,6 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60518
-
 - id: c-61149
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -125,7 +124,6 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60516
-
 - id: c-61150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

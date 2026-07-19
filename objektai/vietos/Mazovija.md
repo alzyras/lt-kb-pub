@@ -269,7 +269,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   sudarymo_pagrindimas: 'Legendinis ir religinis motyvas suformuluotas kaip Narbuto pasakojimas. Nepridėtas vėlesnis plėšimo ir grįžimo su grobiu epizodas.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
   pagrindžia:
-    - c-171660
+    - c-009
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191002|Ziemovitas]]: Ziemovitas valdė Mazoviją.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89381|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190991|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vaizduoja kaip valdovą, rengusį plėšikiškus žygius į Lenkiją, Rusią ir Mazoviją bei tironiškai elgusįsi su valdiniais.
@@ -573,8 +573,7 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-188771
 ## Citatos
 
 - id: c-166238
@@ -594,7 +593,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182832
-
 - id: c-167247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -614,7 +612,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183862
-
 - id: c-167248
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -637,7 +634,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183863
-
 - id: c-167249
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -660,7 +656,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183864
-
 - id: c-167567
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -677,7 +672,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184182
-
 - id: c-167568
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -698,7 +692,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184183
-
 - id: c-168404
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -740,7 +733,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185043
-
 - id: c-168405
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -776,7 +768,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185044
-
 - id: c-178863
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -808,7 +799,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196717
-
 - id: c-178864
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -843,7 +833,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196718
-
 - id: c-179386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -866,7 +855,6 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197894
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Konradas]]
 - Buvo valdoma: [[objektai/asmenys/Ziemovitas]]

@@ -177,7 +177,6 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   pagrindzia:
     - t-49288
     - t-49290
-
 - id: c-12591
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -202,7 +201,6 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   pagrindzia:
     - t-49286
     - t-49290
-
 - id: c-51283
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

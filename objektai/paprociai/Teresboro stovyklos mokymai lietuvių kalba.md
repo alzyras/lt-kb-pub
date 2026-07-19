@@ -75,7 +75,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-43175
-
+    - c-43176
 <a id="claim-t-78721"></a>
 - t-002
   global_id: t-78721
@@ -113,8 +113,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-78720
     - t-78721
-
 - id: c-43176
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -134,4 +134,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78718
+    - t-78720

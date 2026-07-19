@@ -47,7 +47,7 @@ Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių. Vytautas ir Maskvo
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170377
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštis Vytauto žygį prie Ugros ir Okos aiškina kaip kerštą Maskvos didžiajam kunigaikščiui už įžeidimą.'
@@ -67,8 +67,7 @@ Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių. Vytautas ir Maskvo
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187364
 ## Citatos
 
 - id: c-170377

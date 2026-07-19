@@ -174,7 +174,6 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87520
-
 - id: c-83500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -193,7 +192,6 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87521
-
 - id: c-168074
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -224,7 +222,6 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184713
-
 - id: c-176538
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -255,6 +252,5 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193913
-
 ## Ryšiai
 - Ivanas Vasiljevičius valdė [[objektai/vietos/Viazma]]

@@ -70,7 +70,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175795
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas cituoja pasakojimą, kad oonai, vadinami kiaušinėdžiais, mito vandens paukščių kiaušiniais ir avižomis.'
@@ -87,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193025
 ## Citatos
 
 - id: c-175795

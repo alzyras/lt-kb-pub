@@ -88,6 +88,5 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
   pagrindzia:
     - t-60131
     - t-197091
-
 ## Ryšiai
 - Puolė Henriką (Vroclavo kunigaikštis): [[objektai/grupes/Totoriai]]

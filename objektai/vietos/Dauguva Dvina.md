@@ -88,8 +88,7 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-
+    - t-188983
 - id: c-171873
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -110,4 +109,4 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-188984

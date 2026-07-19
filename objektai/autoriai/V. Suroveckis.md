@@ -60,8 +60,7 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
   sudarymo_pagrindimas: 'Išskleistas citatoje nurodytas Suroveckio teiginio turinys apie slavų plėtrą ir budinų kraštus. Atribucija palikta, nes tai Narbuto perteikiama istorinė interpretacija.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Budinai|Budinai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Vysla; mentioned_place: Natangija'
   pagrindžia:
-    - c-174441
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pasak Narbuto, V. Suroveckis teigė, kad VI amžiaus pradžioje slavai plačiai išplito dešiniojoje Vyslos pakrantėje ir užėmė budinų kraštus.'
@@ -87,8 +86,7 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191559
 ## Citatos
 
 - id: c-174440

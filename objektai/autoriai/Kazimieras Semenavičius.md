@@ -175,7 +175,6 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26715
-
 - id: c-70088
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -192,7 +191,6 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23234
-
 - id: c-70089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -83,6 +83,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65487
+    - c-001
 - susijęs iš [[objektai/asmenys/Arnoldas Krofas.md#claim-t-60240|Arnoldas Krofas]]: Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175080|Sembai]]: Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59180|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.
@@ -106,8 +107,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-64900
 ## Citatos
 
 - id: c-65487
@@ -133,7 +133,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64900
-
 - id: c-65488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

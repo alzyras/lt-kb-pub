@@ -372,7 +372,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54931
-
 - id: c-55304
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -400,7 +399,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54932
-
 - id: c-157453
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -437,7 +435,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   pagrindzia:
     - t-54934
     - t-173118
-
 - id: c-157455
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -463,6 +460,5 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   pagrindzia:
     - t-54933
     - t-173117
-
 ## Ryšiai
 - Aleksandras Balinskis keliavo į [[objektai/vietos/Krokuva]]

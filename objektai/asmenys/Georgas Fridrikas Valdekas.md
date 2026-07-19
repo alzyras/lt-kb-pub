@@ -93,7 +93,6 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40123
-
 - id: c-44335
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -76,6 +76,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59191
+    - c-002
 - susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60168|Luterbergas]]: Luterbergas, Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras, pastatė miestą prie Ilienburgo pilies.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
@@ -101,8 +102,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58559
 ## Citatos
 
 - id: c-59190
@@ -123,7 +123,6 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58558
-
 - id: c-59191
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

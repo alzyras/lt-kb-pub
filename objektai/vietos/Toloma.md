@@ -84,6 +84,5 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192905
-
 ## Ryšiai
 - Toloma priklausė [[objektai/vietos/Uždauguvis]]

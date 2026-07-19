@@ -61,7 +61,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173954
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '94 m. pr. Kr. roksolanai, vadovaujami Pasijaus, Paiako sūnaus, padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.'
@@ -83,8 +83,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191072
 ## Citatos
 
 - id: c-173954

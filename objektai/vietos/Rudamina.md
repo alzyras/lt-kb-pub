@@ -253,7 +253,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - t-114965
     - t-114967
     - t-114968
-
 - id: c-105966
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -278,7 +277,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   pagrindzia:
     - t-114961
     - t-114964
-
 - id: c-105967
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -313,7 +311,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114962
-
 - id: c-105970
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -341,7 +338,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114969
-
 - id: c-105972
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -361,7 +357,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114963
-
 - id: c-105973
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

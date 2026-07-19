@@ -81,7 +81,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168933
-
+    - c-168934
 <a id="claim-t-185574"></a>
 - t-003
   global_id: t-185574
@@ -161,7 +161,6 @@ Nenurodyta
     - t-185572
     - t-185573
     - t-196162
-
 - id: c-168935
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -183,3 +182,21 @@ Nenurodyta
   pagrindzia:
     - t-185574
     - t-196163
+- id: c-168934
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
+  citata_originali: |
+    Nepakęsdami žiauraus Kerim Berdžio viešpatavimo,
+    daugybė skitų iš visos šalies suplaukė į Jerim Berdžio
+    stovyklą. Šio jėgos smarkiai išaugo. Tačiau Kerim Ber­
+    dis nė trupučio nesutriko, drąsos jam teikė prisimini­
+    mai apie ankstesnę pergalę. Jis ryžtingai užpuolė su
+    kariuomene brolį netoli Volgos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185573

@@ -84,7 +84,6 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86228
-
 - id: c-184126
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

@@ -134,7 +134,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   pagrindzia:
     - t-58480
     - t-194550
-
 - id: c-59112
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -155,7 +154,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58478
-
 - id: c-167593
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -177,6 +175,5 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58479
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Sventopelkas]]

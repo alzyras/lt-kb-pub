@@ -85,7 +85,6 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193703
-
 - id: c-176373
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -95,7 +95,6 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34253
-
 - id: c-35477
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -111,7 +110,6 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34252
-
 - id: c-35478
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

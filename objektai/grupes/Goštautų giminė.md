@@ -101,8 +101,7 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus faktinis teiginys apie Goštautų giminę ir paremtas citata.'
   pagrindžia:
-    - c-170697
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.'
@@ -123,8 +122,7 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187758
 ## Citatos
 
 - id: c-170699
@@ -152,7 +150,6 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187760
-
 - id: c-176475
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

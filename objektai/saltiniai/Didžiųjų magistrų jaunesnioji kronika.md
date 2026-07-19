@@ -81,7 +81,7 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61582
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.'
@@ -96,8 +96,7 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60952
 ## Citatos
 
 - id: c-61582
@@ -118,7 +117,6 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60952
-
 - id: c-61583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -137,7 +135,6 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60950
-
 - id: c-61584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

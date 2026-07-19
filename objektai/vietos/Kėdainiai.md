@@ -212,7 +212,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182770
-
 - id: c-166433
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -231,7 +230,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183041
-
 - id: c-175944
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -252,7 +250,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193200
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/J. Variakojis]]
 - Gynė Kėdainiai: [[objektai/asmenys/J. Mikoliūnas]], [[objektai/asmenys/K. Dragunevičius]]

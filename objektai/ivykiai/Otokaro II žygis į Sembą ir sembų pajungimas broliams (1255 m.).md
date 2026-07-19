@@ -88,8 +88,7 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-66937
-
+    - c-005
 <a id="claim-t-66807"></a>
 - t-003
   global_id: t-66807
@@ -140,7 +139,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-66933
-
+    - c-66937
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Otokaras II, Otonas Brandenburgietis, vyskupai ir kiti kilmingieji dalyvavo žygyje sembams pavergti.'
@@ -162,8 +161,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-66806
 ## Citatos
 
 - id: c-66932
@@ -185,7 +183,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66808
-
 - id: c-66933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -214,7 +211,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66809
-
 - id: c-66935
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -261,7 +257,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66807
-
 - id: c-66936
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -280,7 +275,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66805
-
 - id: c-66937
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -304,7 +298,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-66806
-
+    - t-66809
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Otokaras II]]

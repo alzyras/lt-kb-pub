@@ -43,7 +43,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173193
-
+    - c-173194
 <a id="claim-t-190312"></a>
 - t-002
   global_id: t-190312
@@ -184,9 +184,6 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-    - t-008
-
 ## Citatos
 
 - id: c-173193
@@ -208,7 +205,6 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190310
-
 - id: c-173194
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -249,7 +245,6 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190312
-
 - id: c-173196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -272,7 +267,6 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190313
-
 - id: c-173197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -300,7 +294,6 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190314
-
 - id: c-173582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -331,7 +324,6 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   pagrindzia:
     - t-190700
     - t-197591
-
 - id: c-173583
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

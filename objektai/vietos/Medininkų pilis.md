@@ -173,7 +173,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109759
-
 - id: c-101739
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -194,7 +193,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109758
-
 - id: c-101740
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -219,7 +217,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109762
-
 - id: c-101741
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -246,7 +243,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109761
-
 - id: c-101742
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

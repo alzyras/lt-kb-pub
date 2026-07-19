@@ -84,7 +84,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177014
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų, skirtų tam tikroms religinėms apeigoms.'
@@ -108,8 +108,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194615
 ## Citatos
 
 - id: c-172541
@@ -132,7 +131,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189658
-
 - id: c-177014
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

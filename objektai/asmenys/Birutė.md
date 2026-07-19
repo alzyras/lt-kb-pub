@@ -414,7 +414,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176313
-
 - id: c-160327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -444,7 +443,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176314
-
 - id: c-160328
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -467,7 +465,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176315
-
 - id: c-160331
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -492,7 +489,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   pagrindzia:
     - t-176317
     - t-176318
-
 - id: c-160333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -511,7 +507,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176319
-
 - id: c-160334
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -552,7 +547,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176321
-
 - id: c-168036
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -581,7 +575,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   pagrindzia:
     - t-184675
     - t-196428
-
 - id: c-168037
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -607,7 +600,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184676
-
 - id: c-171404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -631,7 +623,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188514
-
 - id: c-171405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -656,7 +647,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188515
-
 - id: c-171406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -678,7 +668,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188516
-
 - id: c-171407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -700,7 +689,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188517
-
 - id: c-171408
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -723,7 +711,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   pagrindzia:
     - t-188518
     - t-197391
-
 - id: c-179162
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -746,7 +733,6 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197390
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Tėvai: [[objektai/asmenys/Vydimantas]]

@@ -114,7 +114,6 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193140
-
 - id: c-24791
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -134,7 +133,6 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169911
-
 - id: c-24792
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

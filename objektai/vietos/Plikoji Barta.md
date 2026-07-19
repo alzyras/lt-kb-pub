@@ -83,7 +83,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58614
-
 - id: c-59247
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -105,6 +104,5 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58615
-
 ## Ryšiai
 - Plikoji Barta priklausė [[objektai/vietos/Barta]], [[objektai/vietos/Prūsija]]

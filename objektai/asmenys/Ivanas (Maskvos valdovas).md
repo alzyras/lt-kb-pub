@@ -154,7 +154,6 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185944
-
 - id: c-169306
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -173,7 +172,6 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196477
-
 - id: c-169308
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -195,7 +193,6 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185947
-
 - id: c-169309
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -226,7 +223,6 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   pagrindzia:
     - t-185948
     - t-193391
-
 - id: c-176115
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

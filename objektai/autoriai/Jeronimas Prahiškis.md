@@ -60,7 +60,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173205
-
+    - c-001
 <a id="claim-t-194661"></a>
 - t-002
   global_id: t-194661
@@ -74,7 +74,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177058
-
+    - c-002
 <a id="claim-t-197302"></a>
 - t-003
   global_id: t-197302
@@ -110,8 +110,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190322
 - c-002
   santrauka: 'Jeronimas Prahiškis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakanka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažnyčioje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -143,8 +142,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194661
 ## Citatos
 
 - id: c-173205
@@ -172,7 +170,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190322
-
 - id: c-177058
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -207,7 +204,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194661
-
 - id: c-179114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

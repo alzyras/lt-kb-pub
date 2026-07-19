@@ -125,7 +125,6 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
     - t-60399
     - t-194506
     - t-197136
-
 - id: c-184370
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -155,7 +154,6 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201020
-
 - id: c-184371
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

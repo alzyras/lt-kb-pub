@@ -130,6 +130,5 @@ Politinė ir karinė kunigaikščių grupė.
     - t-55065
     - t-55066
     - t-80832
-
 ## Ryšiai
 - Haličo kunigaikščiai puolė [[objektai/vietos/Lietuva]]

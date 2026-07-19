@@ -48,7 +48,7 @@ Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalb�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174671
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalbėjo lietuviams nesuprantama ir nuo slavų bei lietuvių kalbų besiskyrusia kalba.'
@@ -66,8 +66,7 @@ Kromerio veikale, Narbuto perteikimu, jotvingių likučiai apie Drohiciną kalb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191789
 ## Citatos
 
 - id: c-174671

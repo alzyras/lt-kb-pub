@@ -250,7 +250,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78000
-
 - id: c-75312
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -272,7 +271,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77997
-
 - id: c-75313
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -291,7 +289,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78001
-
 - id: c-75314
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -310,7 +307,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78003
-
 - id: c-75315
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -339,7 +335,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77996
-
 - id: c-75316
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -363,7 +358,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78002
-
 - id: c-75317
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -387,7 +381,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77998
-
 - id: c-75318
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -422,7 +415,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77999
-
 ## Ryšiai
 - Rėmė A. Voldemarą: [[objektai/grupes/Voldemarininkai]]
 - A. Voldemaras keliavo į [[objektai/vietos/Paryžius]]

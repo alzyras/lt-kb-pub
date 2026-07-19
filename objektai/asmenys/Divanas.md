@@ -58,7 +58,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir OCR triukšmas, paliktas pagrįstas faktas."
   pagrindžia:
     - c-60542
-
+    - c-001
 <a id="claim-t-59911"></a>
 - t-002
   global_id: t-59911
@@ -95,7 +95,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60546
-
+    - c-006
 <a id="claim-t-59913"></a>
 - t-004
   global_id: t-59913
@@ -131,6 +131,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   semantiniai_rysiai: "Bartai paskyrė Divanas (0.90)"
   pagrindžia:
     - c-60544
+    - c-002
 - susijęs iš [[objektai/asmenys/Arnoldas Krofas.md#claim-t-60240|Arnoldas Krofas]]: Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88530|Bartai]]: Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88535|Bartai]]: Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.
@@ -176,8 +177,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59910
 - c-002
   santrauka: 'Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -196,8 +196,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-59914
 - c-006
   santrauka: 'Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -211,8 +210,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-59912
 ## Citatos
 
 - id: c-60542
@@ -241,7 +239,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59910
-
 - id: c-60544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -264,7 +261,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59914
-
 - id: c-60545
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -286,7 +282,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59913
-
 - id: c-60546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -303,7 +298,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59912
-
 - id: c-167440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -324,7 +318,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59911
-
 - id: c-167441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

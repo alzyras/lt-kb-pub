@@ -67,7 +67,8 @@ Nenurodyta
   pagrindžia:
     - c-63462
     - c-63463
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prūsų krašte nebuvo leidžiama elgetauti, o pavargėliai galėjo vaikščioti nuo namo prie namo ir valgyti kada tinkami.'
@@ -85,8 +86,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62706
 - c-002
   santrauka: 'Prūsų krašte nebuvo leidžiama elgetauti, o pavargėliai galėjo vaikščioti nuo namo prie namo ir valgyti kada tinkami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,8 +103,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62706
 ## Citatos
 
 - id: c-63462
@@ -126,7 +125,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62706
-
 - id: c-63463
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -135,7 +135,6 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19868
-
 - id: c-22597
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -155,7 +154,6 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19867
-
 - id: c-166541
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

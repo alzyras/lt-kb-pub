@@ -102,7 +102,6 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70060
-
 - id: c-09756
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -117,7 +116,6 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   pagrindzia:
     - t-70059
     - t-70061
-
 - id: c-184309
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

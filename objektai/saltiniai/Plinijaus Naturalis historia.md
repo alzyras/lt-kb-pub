@@ -48,7 +48,7 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174631
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įlanka ir to paties pavadinimo miestelis prie Boristenio ir Bugo žiočių.'
@@ -72,8 +72,7 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191749
 ## Citatos
 
 - id: c-174631

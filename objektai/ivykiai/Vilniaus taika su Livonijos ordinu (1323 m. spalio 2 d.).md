@@ -230,7 +230,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau įvardyti danų vietininko sritį."
   pagrindžia:
     - c-96898
-
+    - c-004
 <a id="claim-t-103836"></a>
 - t-010
   global_id: t-103836
@@ -265,8 +265,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-103835
 ## Citatos
 
 - id: c-04999
@@ -293,7 +292,6 @@ Nenurodyta
     - t-103830
     - t-103833
     - t-103836
-
 - id: c-96895
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -320,7 +318,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103834
-
 - id: c-96897
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -341,7 +338,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103832
-
 - id: c-96898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -364,7 +360,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103835
-
 - id: c-96899
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -394,7 +389,6 @@ Nenurodyta
   pagrindzia:
     - t-103827
     - t-103831
-
 - id: c-96901
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

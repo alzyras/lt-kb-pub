@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
   semantiniai_rysiai: "Flandrai kariavo prieš Prancūzai (0.84)"
   pagrindžia:
     - c-63900
-
+    - c-002
 <a id="claim-t-62997"></a>
 - t-002
   global_id: t-62997
@@ -103,8 +103,7 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62996
 ## Citatos
 
 - id: c-63899
@@ -126,7 +125,6 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62997
-
 - id: c-63900
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -149,7 +147,6 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62996
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Prancūzai]]
 - Flandrai kariavo prieš [[objektai/grupes/Prancūzai]]

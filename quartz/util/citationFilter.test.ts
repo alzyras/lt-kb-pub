@@ -10,8 +10,12 @@ import {
   normalizeCitationSourceId,
   parseEvidenceSections,
 } from "./citationFilter"
-import { buildCitationSourceRegistry, buildSourceCatalog } from "../plugins/emitters/citationSources"
+import {
+  buildCitationSourceRegistry,
+  buildSourceCatalog,
+} from "../plugins/emitters/citationSources"
 import { defaultProcessedContent } from "../plugins/vfile"
+import { collectEvidenceIntegrityIssues } from "./evidenceIntegrity"
 import type { FilePath, FullSlug } from "./path"
 
 const markdown = `---
@@ -185,23 +189,34 @@ describe("citationFilter metadata", () => {
       `Expected at least 40 Vytautas original quote blocks, got ${originalQuoteBlockCount}`,
     )
 
-      for (const claim of claims) {
-        const supports = claim.lists.get("pagrindžia") ?? []
-        const resolvedSupports = supports.filter((citationId) => citationIds.has(citationId))
-        if (claim.fields.get("statusas") === "patvirtinta") {
-          assert.notEqual(
-            supports.length,
-            0,
-            `Confirmed claim ${claim.id} has no supporting citations`,
-          )
-        }
-        if (supports.length > 0) {
-          assert.ok(
-            resolvedSupports.length > 0,
-            `Claim ${claim.id} has no resolvable supporting citation`,
-          )
-        }
+    const leadershipClaim = claims.find((entry) => entry.fields.get("global_id") === "t-198399")
+    assert.ok(leadershipClaim, "Expected the Žalgirio leadership claim to remain present")
+    assert.deepEqual(leadershipClaim?.lists.get("pagrindžia"), ["c-184812"])
+    const leadershipCitation = citationLookup.find((entry) => entry.id === "c-184812")
+    const leadershipQuote = (leadershipCitation?.fields.get("citata_originali") ?? "").replace(
+      /\u00ad\s*/g,
+      "",
+    )
+    assert.match(leadershipQuote, /Vytautas savo kariuomenę pats vedė/)
+    assert.doesNotMatch(leadershipQuote, /Didelis ir darbininkas/)
+
+    for (const claim of claims) {
+      const supports = claim.lists.get("pagrindžia") ?? []
+      const resolvedSupports = supports.filter((citationId) => citationIds.has(citationId))
+      if (claim.fields.get("statusas") === "patvirtinta") {
+        assert.notEqual(
+          supports.length,
+          0,
+          `Confirmed claim ${claim.id} has no supporting citations`,
+        )
       }
+      if (supports.length > 0) {
+        assert.ok(
+          resolvedSupports.length > 0,
+          `Claim ${claim.id} has no resolvable supporting citation`,
+        )
+      }
+    }
 
     for (const citation of citationBacklinks) {
       for (const claimId of citation.lists.get("pagrindžia") ?? []) {
@@ -251,5 +266,20 @@ describe("citationFilter metadata", () => {
         }
       }
     }
+  })
+
+  test("keeps the full object corpus render-safe", () => {
+    const failures: string[] = []
+    for (const filePath of listMarkdownFiles(path.resolve("objektai"))) {
+      const issues = collectEvidenceIntegrityIssues(fs.readFileSync(filePath, "utf8")).filter(
+        (issue) => issue.severity === "error",
+      )
+      for (const issue of issues) {
+        failures.push(
+          `${path.relative(process.cwd(), filePath)}: ${issue.code} ${issue.entryId}${issue.relatedId ? ` -> ${issue.relatedId}` : ""}`,
+        )
+      }
+    }
+    assert.deepEqual(failures, [])
   })
 })

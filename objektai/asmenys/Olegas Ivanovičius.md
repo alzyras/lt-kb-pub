@@ -70,4 +70,4 @@ Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194120

@@ -47,6 +47,7 @@ Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Brac
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168667
+    - c-001
 - susijęs iš Braclavas: Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,8 +74,7 @@ Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Brac
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185306
 ## Citatos
 
 - id: c-168667

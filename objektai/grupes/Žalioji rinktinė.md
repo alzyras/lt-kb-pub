@@ -95,7 +95,6 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41219
-
 - id: c-44885
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

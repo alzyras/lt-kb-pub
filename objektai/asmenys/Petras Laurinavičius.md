@@ -59,7 +59,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174336
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius jo pirkimus.'
@@ -74,8 +74,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191454
 ## Citatos
 
 - id: c-174336

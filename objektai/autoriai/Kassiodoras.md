@@ -93,7 +93,6 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30756
-
 - id: c-33004
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

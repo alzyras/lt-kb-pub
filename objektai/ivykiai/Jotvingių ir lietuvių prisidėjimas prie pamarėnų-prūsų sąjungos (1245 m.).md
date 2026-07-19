@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatos faktą."
   pagrindžia:
     - c-63619
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1245 m. prie pamarėnų ir prūsų sąjungos prisidėjo jotvingiai ir lietuviai.'
@@ -88,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62809
 ## Citatos
 
 - id: c-63619

@@ -45,7 +45,7 @@ Dusburgietis teigia, kad wróblewski R.
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti sakinį apie autoriaus publikaciją."
   pagrindžia:
     - c-61453
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Wróblewskis 1970 m. Lodzėje paskelbė straipsnį apie jotvingių problemą Boleslovo Droviojo politikoje 1248–1264 m.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad wróblewski R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60821
 ## Citatos
 
 - id: c-61453

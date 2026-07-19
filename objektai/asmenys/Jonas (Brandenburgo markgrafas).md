@@ -81,6 +81,5 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60341
-
 ## Ryšiai
 - Jonas (Brandenburgo markgrafas) keliavo į [[objektai/vietos/Prūsija]]

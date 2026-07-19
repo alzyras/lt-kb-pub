@@ -49,6 +49,7 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174150
+    - c-001
 - susijęs iš [[objektai/ivykiai/Fridleifo Danijos sosto susigrąžinimas.md#claim-t-191061|Fridleifo Danijos sosto susigrąžinimas]]: Narbuto pasakojimu, Frotono III sūnus Fridleifas buvo auklėjamas Rusioje ir, padedamas rusnėnų karaliuko, susigrąžino Danijos sostą.
 - susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191317|Starkateras]]: Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku.
 - susijęs iš [[objektai/asmenys/Sterverkas.md#claim-t-191982|Sterverkas]]: Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyrio Starkatero tėvu.
@@ -77,8 +78,7 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191268
 ## Citatos
 
 - id: c-174150

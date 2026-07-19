@@ -112,7 +112,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93283
-
 - id: c-36310
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -133,7 +132,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93285
-
 - id: c-88681
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -155,6 +153,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93284
-
 ## Ryšiai
 - Gregorijus Cemblakas keliavo į [[objektai/vietos/Vilnius]]

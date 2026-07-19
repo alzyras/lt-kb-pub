@@ -52,7 +52,7 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
   sudarymo_pagrindimas: 'Padavimo pobūdis paliktas su Narbuto atribucija, o vieta ir asmuo įvardyti aiškiai. Nepridėta vėlesnė informacija apie karo laužus.'
   susije_objektai: 'mentioned_place: Rinava'
   pagrindžia:
-    - c-175607
+    - c-001
 - susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192101|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
 - susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192510|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
 ## Reikšmingi paminėjimai
@@ -78,8 +78,7 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192837
 ## Citatos
 
 - id: c-179377

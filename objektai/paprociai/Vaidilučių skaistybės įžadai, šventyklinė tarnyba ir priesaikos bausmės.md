@@ -57,7 +57,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177035
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vaidilutes apibūdina kaip žynes, davusias amžinos skaistybės įžadus ir už priesaikos sulaužymą baustas žiauria mirtimi.'
@@ -84,8 +84,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -103,8 +101,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194637
 ## Citatos
 
 - id: c-177035

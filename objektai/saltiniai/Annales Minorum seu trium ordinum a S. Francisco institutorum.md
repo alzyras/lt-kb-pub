@@ -115,7 +115,6 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54685
-
 - id: c-55617
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

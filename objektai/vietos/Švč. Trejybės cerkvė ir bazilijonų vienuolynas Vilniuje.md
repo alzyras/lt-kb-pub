@@ -66,6 +66,5 @@ Trejybės cerkvę ir prie jos įkur­ dino Šv.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86133
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Konstantinas Ostrogiškis]]

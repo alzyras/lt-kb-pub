@@ -62,7 +62,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85545
-
+    - c-001
 <a id="claim-t-89606"></a>
 - t-003
   global_id: t-89606
@@ -79,7 +79,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85546
-
+    - c-167425
 <a id="claim-t-89607"></a>
 - t-004
   global_id: t-89607
@@ -127,8 +127,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-89605
 ## Citatos
 
 - id: c-85545
@@ -152,7 +151,6 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89605
-
 - id: c-85546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -173,7 +171,6 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
     - t-89604
     - t-89606
     - t-197054
-
 - id: c-85548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -193,7 +190,6 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89607
-
 - id: c-167425
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

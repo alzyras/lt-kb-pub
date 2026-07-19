@@ -41,7 +41,7 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-177308
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą trumpo išrašo iš kažkokios senos kronikos; XIV am žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio; pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.'
@@ -65,8 +65,7 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194912
 ## Citatos
 
 - id: c-177308

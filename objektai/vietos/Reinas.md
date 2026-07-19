@@ -71,7 +71,7 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175508
-
+    - c-002
 <a id="claim-t-197915"></a>
 - t-003
   global_id: t-197915
@@ -189,8 +189,7 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192738
 ## Citatos
 
 - id: c-59347
@@ -213,7 +212,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58715
-
 - id: c-175508
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -236,7 +234,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192738
-
 - id: c-179395
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

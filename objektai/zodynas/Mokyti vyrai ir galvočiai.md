@@ -48,7 +48,7 @@ S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems v
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172119
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams ir galvočiams, o motinoms, pasakojančioms vaikams protėvių darbus.'
@@ -65,8 +65,7 @@ S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189231
 ## Citatos
 
 - id: c-172119

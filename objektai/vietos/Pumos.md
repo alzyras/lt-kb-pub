@@ -47,7 +47,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170340
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.'
@@ -62,8 +62,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187298
 ## Citatos
 
 - id: c-170340

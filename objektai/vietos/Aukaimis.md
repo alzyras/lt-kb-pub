@@ -96,7 +96,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168284
-
+    - c-003
 <a id="claim-t-188669"></a>
 - t-004
   global_id: t-188669
@@ -219,8 +219,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-184923
 ## Citatos
 
 - id: c-67480
@@ -243,7 +242,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67659
-
 - id: c-67481
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -268,7 +266,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67660
-
 - id: c-168284
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -294,7 +291,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184923
-
 - id: c-171558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -322,7 +318,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188669
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Girdila]]
 - Puolė Aukaimį: [[objektai/asmenys/Folradas]], [[objektai/grupes/Kryžiuočių ordinas]]

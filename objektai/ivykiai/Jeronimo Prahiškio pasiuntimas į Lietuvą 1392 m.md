@@ -70,7 +70,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172507
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1392 m. Vladislovas Jogaila nusiuntė Jeronimą Prahiškį į Lietuvą pas Vytautą su laišku skelbti krikščionių tikėjimo.'
@@ -95,8 +95,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189624
 ## Citatos
 
 - id: c-172507

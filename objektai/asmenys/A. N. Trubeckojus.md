@@ -82,6 +82,5 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39979
-
 ## Ryšiai
 - A. N. Trubeckojus užėmė [[objektai/vietos/Mstislavlis]]

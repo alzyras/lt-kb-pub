@@ -53,6 +53,7 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-167830
+    - c-001
 - susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186443|Juozas Jurginis]]: Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus.
 - susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): 1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.
 ## Reikšmingi paminėjimai
@@ -85,8 +86,7 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-184471
 ## Citatos
 
 - id: c-167830

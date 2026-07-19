@@ -49,7 +49,7 @@ Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni spor
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172473
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni sporzjadają“, aiškindami, jog jos per daug suėda.'
@@ -71,8 +71,7 @@ Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni spor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189587
 ## Citatos
 
 - id: c-172473

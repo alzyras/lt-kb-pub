@@ -82,6 +82,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39558
-
 ## Ryšiai
 - Jonas (Čekijos karalius) keliavo į [[objektai/vietos/Prūsija]]

@@ -50,7 +50,7 @@ Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172436
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipimosi į Vilijos upę pradžią.'
@@ -75,8 +75,7 @@ Narbutas posakį „Rzeko, ktdrędy lz} poniesiesz moję“ pateikia kaip kreipi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189548
 ## Citatos
 
 - id: c-172436

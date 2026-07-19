@@ -66,7 +66,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia išnašoje pateiktą informaciją apie Konradą."
   pagrindžia:
     - c-86520
-
+    - c-006
 <a id="claim-t-90738"></a>
 - t-002
   global_id: t-90738
@@ -248,7 +248,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175449
-
+    - c-009
 <a id="claim-t-197174"></a>
 - t-012
   global_id: t-197174
@@ -358,8 +358,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-90737
 - c-009
   santrauka: 'Teodoro Narbuto pasakojime kujavai vėliau persikėlė prie Vyslos žemupio ir įsikūrė jos kairiajame krante, Kujavijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -383,8 +382,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-192679
 ## Citatos
 
 - id: c-37485
@@ -409,7 +407,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90744
-
 - id: c-86515
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -427,7 +424,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90743
-
 - id: c-86516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -450,7 +446,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90745
-
 - id: c-86518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -474,7 +469,6 @@ media_all_json: |-
   pagrindzia:
     - t-90739
     - t-90741
-
 - id: c-86519
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -494,7 +488,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90738
-
 - id: c-86520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -518,7 +511,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90737
-
 - id: c-86522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -538,7 +530,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90740
-
 - id: c-167554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -567,7 +558,6 @@ media_all_json: |-
   pagrindzia:
     - t-90742
     - t-184169
-
 - id: c-175449
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -597,7 +587,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192679
-
 - id: c-179047
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -618,7 +607,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197174
-
 - id: c-184420
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -640,7 +628,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201070
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Zemislovas]]
 - Puolė Kujaviją: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sventopelkas]]

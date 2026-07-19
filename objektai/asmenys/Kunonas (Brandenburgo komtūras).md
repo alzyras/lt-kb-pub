@@ -150,7 +150,6 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
   pagrindzia:
     - t-60163
     - t-197123
-
 - id: c-60796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -177,7 +176,6 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
   pagrindzia:
     - t-60164
     - t-197124
-
 - id: c-168121
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -205,7 +205,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119674
-
 - id: c-109854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -236,7 +235,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   pagrindzia:
     - t-119672
     - t-119676
-
 - id: c-109855
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -263,7 +261,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119675
-
 - id: c-109856
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -287,7 +284,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119671
-
 - id: c-109858
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

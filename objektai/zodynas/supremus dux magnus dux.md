@@ -101,7 +101,6 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36840
-
 - id: c-38764
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

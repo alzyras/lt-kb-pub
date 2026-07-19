@@ -80,7 +80,6 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42342
-
 - id: c-45446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -101,6 +100,5 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42341
-
 ## Ryšiai
 - Užėmė Vyžuonos: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]

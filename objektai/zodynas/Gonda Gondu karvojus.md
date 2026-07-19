@@ -42,7 +42,7 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172112
-
+    - c-001
 <a id="claim-t-189225"></a>
 - t-002
   global_id: t-189225
@@ -56,7 +56,7 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172113
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvių karalienę, išleidžiančią mergaites už vyrų.'
@@ -78,8 +78,7 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189224
 - c-002
   santrauka: 'Narbutas skiria Gondu nuo karvojaus: Gondu esą puošdavo vestuvių apeigas ir likdavo ant stalo neliestas, o karvojų suvalgydavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -97,8 +96,7 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189225
 ## Citatos
 
 - id: c-172112
@@ -122,7 +120,6 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189224
-
 - id: c-172113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

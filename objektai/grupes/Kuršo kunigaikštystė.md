@@ -155,7 +155,6 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   pagrindzia:
     - t-71645
     - t-71648
-
 - id: c-42755
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -181,7 +180,6 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   pagrindzia:
     - t-71646
     - t-71647
-
 - id: c-46335
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

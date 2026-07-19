@@ -138,7 +138,6 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   patikimumo_saltinis: ai
   pagrindzia:
     - t-115143
-
 - id: c-106105
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -166,6 +165,5 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   patikimumo_saltinis: ai
   pagrindzia:
     - t-115142
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lenkijos kariuomenė]]

@@ -55,7 +55,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-75699
-
+    - c-002
 <a id="claim-t-78415"></a>
 - t-002
   global_id: t-78415
@@ -74,7 +74,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - c-75704
     - c-75712
-
+    - c-006
+    - c-011
 <a id="claim-t-78417"></a>
 - t-003
   global_id: t-78417
@@ -92,7 +93,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - c-75698
     - c-75702
-
+    - c-005
 <a id="claim-t-78419"></a>
 - t-004
   global_id: t-78419
@@ -129,7 +130,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   semantiniai_rysiai: "Belichovas priklausė Pamedėnai (0.84)"
   pagrindžia:
     - c-75711
-
+    - c-010
 <a id="claim-t-78421"></a>
 - t-006
   global_id: t-78421
@@ -146,7 +147,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75705
-
+    - c-007
 <a id="claim-t-78422"></a>
 - t-007
   global_id: t-78422
@@ -204,7 +205,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - c-75701
     - c-75706
-
+    - c-004
 <a id="claim-t-188290"></a>
 - t-010
   global_id: t-188290
@@ -224,6 +225,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171183
+    - c-012
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-184083|Henrikas iš Veidos]]: Henrikas iš Veidos užimtoje pamedėnų pilyje įkurdino brolius ir daug ginklanešių.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90018|Sventopelkas]]: Sventopelkas sutelkė savo kariuomenę ir Prūsijos naujakrikščius keršyti broliams dėl jų užimtos pamedėnų pilies.
@@ -274,8 +276,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-78414
 - c-004
   santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -296,8 +297,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-78424
 - c-005
   santrauka: 'Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -316,8 +316,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-78417
 - c-006
   santrauka: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -337,8 +336,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-78415
 - c-007
   santrauka: 'Per naują atsimetimą ištikimieji pamedėnai liko tarp tų, kurie nesusimokė atsimesti nuo krikščionybės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -356,8 +354,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-78421
 - c-010
   santrauka: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -376,8 +373,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-78420
 - c-011
   santrauka: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -394,8 +390,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-78415
 - c-012
   santrauka: 'Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -412,8 +407,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-188290
 ## Citatos
 
 - id: c-75698
@@ -437,7 +431,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78417
-
 - id: c-75699
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -456,7 +449,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78414
-
 - id: c-75700
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -485,7 +477,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindzia:
     - t-78422
     - t-78423
-
 - id: c-75701
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -510,7 +501,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78424
-
 - id: c-75702
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -536,7 +526,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78417
-
 - id: c-75704
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -560,7 +549,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78415
-
 - id: c-75705
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -586,7 +574,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78421
-
 - id: c-75706
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -610,7 +597,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78424
-
 - id: c-75709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -631,7 +617,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78419
-
 - id: c-75711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -654,7 +639,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78420
-
 - id: c-75712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -675,7 +659,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78415
-
 - id: c-171183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

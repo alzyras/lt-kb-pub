@@ -78,6 +78,5 @@ Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191433
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Šafranas]]

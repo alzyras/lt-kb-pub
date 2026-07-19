@@ -48,7 +48,7 @@ Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžu
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173030
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžuolas ir Perkūno, Pokliaus bei Atrimpo stabai.'
@@ -65,8 +65,7 @@ Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190147
 ## Citatos
 
 - id: c-173030

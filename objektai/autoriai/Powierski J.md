@@ -50,7 +50,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61143
-
+    - c-005
 <a id="claim-t-60507"></a>
 - t-002
   global_id: t-60507
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61144
-
+    - c-006
 <a id="claim-t-60509"></a>
 - t-004
   global_id: t-60509
@@ -162,7 +162,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   temporalinis_llm_pakomentavimas: "Citata palaiko autoriaus ryšį su Hugono Butyro veiklos aiškinimu."
   pagrindžia:
     - c-61145
-
+    - c-007
 <a id="claim-t-60514"></a>
 - t-008
   global_id: t-60514
@@ -217,8 +217,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60506
 - c-006
   santrauka: 'J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -232,8 +231,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60508
 - c-007
   santrauka: 'J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -250,8 +248,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-60513
 ## Citatos
 
 - id: c-61138
@@ -272,7 +269,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60509
-
 - id: c-61139
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -291,7 +287,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60512
-
 - id: c-61141
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -309,7 +304,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60507
-
 - id: c-61142
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -329,7 +323,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   pagrindzia:
     - t-60511
     - t-197008
-
 - id: c-61143
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -349,7 +342,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60506
-
 - id: c-61144
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -368,7 +360,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60508
-
 - id: c-61145
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -389,7 +380,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60513
-
 - id: c-61146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -172,7 +172,6 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-152691
-
 - id: c-139020
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -196,7 +195,6 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-152692
-
 - id: c-139021
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -218,7 +216,6 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   pagrindzia:
     - t-152689
     - t-152690
-
 - id: c-166287
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

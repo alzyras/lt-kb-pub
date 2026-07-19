@@ -110,7 +110,6 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40405
-
 - id: c-171495
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

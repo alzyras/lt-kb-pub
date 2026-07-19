@@ -164,7 +164,6 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
   pagrindzia:
     - t-42462
     - t-42463
-
 - id: c-167098
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

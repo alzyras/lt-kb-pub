@@ -60,7 +60,7 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai atitinka citatos informaciją."
   pagrindžia:
     - c-03973
-
+    - c-30456
 <a id="claim-t-71507"></a>
 - t-002
   global_id: t-71507
@@ -117,5 +117,5 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71504
+    - t-71506
     - t-71507

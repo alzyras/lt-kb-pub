@@ -58,7 +58,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   semantiniai_rysiai: "Kryžius priklausė Fridrichas II (0.70); Venedai rėmė Fridrichas II (0.68); Kryžius priklausė Elbingas (0.66)"
   pagrindžia:
     - c-60489
-
+    - c-001
 <a id="claim-t-59858"></a>
 - t-002
   global_id: t-59858
@@ -152,7 +152,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60493
-
+    - c-005
 <a id="claim-t-59863"></a>
 - t-007
   global_id: t-59863
@@ -165,7 +165,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   temporalinis_llm_pakomentavimas: "Perrašyta, kad teiginys aiškiau sietųsi su Fridrichu II."
   pagrindžia:
     - c-60491
-
+    - c-003
 <a id="claim-t-197080"></a>
 - t-008
   global_id: t-197080
@@ -227,8 +227,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59857
 - c-003
   santrauka: 'Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -246,8 +245,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-59863
 - c-005
   santrauka: 'Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -270,8 +268,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-59862
 ## Citatos
 
 - id: c-60489
@@ -298,7 +295,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59857
-
 - id: c-60490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -324,7 +320,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59858
-
 - id: c-60491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -347,7 +342,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59863
-
 - id: c-60492
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -366,7 +360,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59859
-
 - id: c-60493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -395,7 +388,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59862
-
 - id: c-60494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -420,7 +412,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   pagrindzia:
     - t-59860
     - t-197080
-
 - id: c-60495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -440,7 +431,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59861
-
 - id: c-184335
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

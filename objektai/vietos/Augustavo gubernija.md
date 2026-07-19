@@ -131,7 +131,6 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171614
-
 - id: c-156102
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -158,7 +157,6 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171616
-
 - id: c-166976
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -178,6 +176,5 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183583
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuvos Užnemunė]], [[objektai/vietos/Užnemunė]]

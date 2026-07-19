@@ -61,7 +61,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59044
-
+    - c-002
 <a id="claim-t-58412"></a>
 - t-002
   global_id: t-58412
@@ -102,7 +102,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie palaidojimą Kulmenzės katedroje, pradinėje versijoje yra antraštės triukšmo."
   pagrindžia:
     - c-59046
-
+    - c-004
 <a id="claim-t-58414"></a>
 - t-004
   global_id: t-58414
@@ -119,7 +119,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59047
-
+    - c-005
 <a id="claim-t-58415"></a>
 - t-005
   global_id: t-58415
@@ -137,7 +137,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   semantiniai_rysiai: "Ninerikas keliavo į Chełmža (0.82)"
   pagrindžia:
     - c-59043
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skomantui priartėjus prie Chełmžos, lenkų karys Ninerikas įsigavo į miestą ir pažadėjo jį išduoti Skomantui.'
@@ -157,8 +157,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-58415
 - c-002
   santrauka: 'Prūsų kariuomenė apsiautė Chełmžą, o vyskupas sušaukė kilminguosius ir vasalus išžvalgyti priešo kariuomenės dydį bei stiprumą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -174,8 +173,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58411
 - c-004
   santrauka: 'Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -192,8 +190,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-58413
 - c-005
   santrauka: 'Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango, kol Chełmžos miestiečiai išėjo pjauti javų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -211,8 +208,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-58414
 ## Citatos
 
 - id: c-59043
@@ -240,7 +236,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58415
-
 - id: c-59044
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -262,7 +257,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58411
-
 - id: c-59045
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -284,7 +278,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58412
-
 - id: c-59046
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -305,7 +298,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58413
-
 - id: c-59047
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -325,6 +317,5 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58414
-
 ## Ryšiai
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Liudvikas iš Šipeno]]

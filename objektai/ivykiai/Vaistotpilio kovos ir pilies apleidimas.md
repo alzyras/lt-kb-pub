@@ -63,7 +63,7 @@ Nenurodyta
   semantiniai_rysiai: "Vaistotpilis priklausė Barta (0.80)"
   pagrindžia:
     - c-85373
-
+    - c-002
 <a id="claim-t-89413"></a>
 - t-002
   global_id: t-89413
@@ -81,7 +81,7 @@ Nenurodyta
   pagrindžia:
     - c-85372
     - c-85373
-
+    - c-002
 <a id="claim-t-89414"></a>
 - t-003
   global_id: t-89414
@@ -148,9 +148,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-89412
+    - t-89413
 ## Citatos
 
 - id: c-85372
@@ -169,7 +168,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89413
-
 - id: c-85373
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -190,7 +188,6 @@ Nenurodyta
   pagrindzia:
     - t-89412
     - t-89413
-
 - id: c-85375
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

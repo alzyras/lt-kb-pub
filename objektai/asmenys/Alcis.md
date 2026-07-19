@@ -103,7 +103,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172932
-
+    - c-003
 <a id="claim-t-194697"></a>
 - t-004
   global_id: t-194697
@@ -137,8 +137,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190049
 ## Citatos
 
 - id: c-172929
@@ -158,7 +157,6 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190046
-
 - id: c-172931
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -180,7 +178,6 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190048
-
 - id: c-172932
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -222,7 +219,6 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190049
-
 - id: c-177094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

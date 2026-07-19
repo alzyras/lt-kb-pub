@@ -48,7 +48,7 @@ Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama ka
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174677
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama kaip šaltinis sudargų genties pavadinimo kilmei aiškinti.'
@@ -64,8 +64,7 @@ Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191795
 ## Citatos
 
 - id: c-174677

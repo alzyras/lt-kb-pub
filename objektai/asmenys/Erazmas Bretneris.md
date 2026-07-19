@@ -87,6 +87,5 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87660
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Namas]]

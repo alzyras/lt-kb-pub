@@ -79,6 +79,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38668
-
 ## Ryšiai
 - Užėmė Vilijandį: [[objektai/grupes/Rusai]]

@@ -73,7 +73,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra apie kronikos chronologinį išdėstymą, todėl reikalinga autoriaus atribucija."
   pagrindžia:
     - c-63173
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m.'
@@ -92,8 +92,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62501
 ## Citatos
 
 - id: c-63173

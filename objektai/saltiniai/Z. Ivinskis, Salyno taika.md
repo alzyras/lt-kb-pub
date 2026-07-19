@@ -87,7 +87,6 @@ Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32014
-
 - id: c-33770
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

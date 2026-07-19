@@ -45,7 +45,7 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59765
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Petras Dusburgietis teigė, kad moteriškos vilionės palaužė Samsoną, Dovydą ir Saliamoną, bet aprašytasis vyras jas nugalėjo.'
@@ -62,8 +62,7 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59133
 ## Citatos
 
 - id: c-59765

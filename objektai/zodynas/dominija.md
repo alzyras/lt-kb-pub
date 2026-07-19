@@ -89,7 +89,6 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173016
-
 - id: c-157355
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

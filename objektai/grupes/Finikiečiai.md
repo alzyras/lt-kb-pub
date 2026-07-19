@@ -69,7 +69,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171077
-
+    - c-003
 <a id="claim-t-192380"></a>
 - t-003
   global_id: t-192380
@@ -155,8 +155,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188183
 ## Citatos
 
 - id: c-10064
@@ -176,7 +175,6 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07833
-
 - id: c-171077
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -203,7 +201,6 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188183
-
 - id: c-175174
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -226,7 +223,6 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192380
-
 - id: c-176964
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -244,7 +240,6 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194564
-
 - id: c-177255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

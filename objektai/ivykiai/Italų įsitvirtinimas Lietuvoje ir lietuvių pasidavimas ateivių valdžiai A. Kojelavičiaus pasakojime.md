@@ -98,7 +98,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196161
-
 - id: c-169065
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

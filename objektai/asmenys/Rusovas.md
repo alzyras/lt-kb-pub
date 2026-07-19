@@ -56,7 +56,7 @@ Rusovas, Narbuto perteikimu, teigė, kad latvių jaunimas garbino deivę Dahklą
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173090
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rusovas, Narbuto perteikimu, teigė, kad latvių jaunimas garbino deivę Dahklą kaip laisvės ir vyriškumo globėją.'
@@ -76,8 +76,7 @@ Rusovas, Narbuto perteikimu, teigė, kad latvių jaunimas garbino deivę Dahklą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190207
 ## Citatos
 
 - id: c-173090

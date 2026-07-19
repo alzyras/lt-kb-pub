@@ -93,7 +93,6 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21442
-
 - id: c-166986
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

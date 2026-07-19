@@ -119,7 +119,6 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86455
-
 - id: c-82433
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,7 +140,6 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86453
-
 - id: c-82434
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

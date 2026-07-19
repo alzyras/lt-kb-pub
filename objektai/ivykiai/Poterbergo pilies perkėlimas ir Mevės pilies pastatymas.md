@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą pilies perkėlimą ir Mevės pilies įkūrimą."
   pagrindžia:
     - c-63760
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1283 m. Teutonų ordino broliai perkėlė Poterbergo pilį iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.'
@@ -90,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62901
 ## Citatos
 
 - id: c-63760

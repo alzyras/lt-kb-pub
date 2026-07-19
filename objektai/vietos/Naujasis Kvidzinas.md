@@ -97,7 +97,6 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36434
-
 - id: c-38580
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -121,7 +120,6 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36432
-
 - id: c-38581
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

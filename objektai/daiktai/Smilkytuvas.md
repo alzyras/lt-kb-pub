@@ -57,7 +57,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177201
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigia, kad tiesą sako „Antilukrecijaus“ auto rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi namomis su smilkytuvu rankose“1.'
@@ -78,8 +78,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194805
 ## Citatos
 
 - id: c-177201

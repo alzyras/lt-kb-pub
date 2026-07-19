@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, instituciją ir pripažinimo veiksmą."
   pagrindžia:
     - c-73064
-
+    - c-166639
 <a id="claim-t-75172"></a>
 - t-002
   global_id: t-75172
@@ -130,7 +130,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75173
-
 - id: c-73064
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,7 +156,6 @@ Nenurodyta
   pagrindzia:
     - t-75171
     - t-75172
-
 - id: c-166639
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

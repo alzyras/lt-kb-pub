@@ -106,6 +106,5 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   pagrindzia:
     - t-60413
     - t-197146
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Draika]]

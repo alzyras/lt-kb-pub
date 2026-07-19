@@ -77,7 +77,7 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174233
-
+    - c-002
 <a id="claim-t-197770"></a>
 - t-003
   global_id: t-197770
@@ -123,8 +123,7 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191351
 ## Citatos
 
 - id: c-174232
@@ -152,7 +151,6 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191350
-
 - id: c-174233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -179,7 +177,6 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191351
-
 - id: c-179332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

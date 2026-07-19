@@ -91,7 +91,6 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49257
-
 - id: c-11256
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

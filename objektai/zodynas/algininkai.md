@@ -124,7 +124,6 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185364
-
 - id: c-168726
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

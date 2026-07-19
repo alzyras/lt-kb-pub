@@ -49,7 +49,7 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173001
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius.'
@@ -70,8 +70,7 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190118
 ## Citatos
 
 - id: c-173001
@@ -97,6 +96,5 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190118
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Palemonas]]

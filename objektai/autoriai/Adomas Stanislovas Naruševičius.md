@@ -67,7 +67,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170918
-
+    - c-001
 <a id="claim-t-187942"></a>
 - t-003
   global_id: t-187942
@@ -85,7 +85,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170919
-
+    - c-002
 <a id="claim-t-187943"></a>
 - t-004
   global_id: t-187943
@@ -140,7 +140,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-170919
-
+    - c-002
 <a id="claim-t-190672"></a>
 - t-007
   global_id: t-190672
@@ -186,7 +186,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173555
-
+    - c-007
 <a id="claim-t-190674"></a>
 - t-009
   global_id: t-190674
@@ -208,7 +208,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173556
-
+    - c-008
 <a id="claim-t-190675"></a>
 - t-010
   global_id: t-190675
@@ -229,7 +229,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173557
-
+    - c-009
 <a id="claim-t-190676"></a>
 - t-011
   global_id: t-190676
@@ -292,7 +292,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173564
-
+    - c-013
 <a id="claim-t-190683"></a>
 - t-014
   global_id: t-190683
@@ -313,7 +313,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173565
-
+    - c-014
 <a id="claim-t-191874"></a>
 - t-015
   global_id: t-191874
@@ -334,7 +334,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174756
-
+    - c-015
 <a id="claim-t-192517"></a>
 - t-016
   global_id: t-192517
@@ -368,7 +368,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170919
-
+    - c-002
 <a id="claim-t-197274"></a>
 - t-018
   global_id: t-197274
@@ -462,8 +462,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187941
 - c-002
   santrauka: 'Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -480,10 +479,9 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-006
-    - t-018
-
+    - t-187942
+    - t-188396
+    - t-194644
 - c-007
   santrauka: 'Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -501,8 +499,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: zemas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-190673
 - c-008
   santrauka: 'Naruševičių Narbutas mini tarp autorių, kurių požiūris turėjo pagrįsti nuomonę, kad venedams priklausė Lietuvos istorijai svarbios gentys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -525,8 +522,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-190674
 - c-009
   santrauka: 'Naruševičius, Narbuto perteikimu, Ptolemėjo chunus siejo su graikų-skitų gentimi ir galimu atsikėlimu iš Chijo salos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -545,8 +541,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-190675
 - c-013
   santrauka: 'Naruševičių Narbutas mini kaip vieną senovės tyrinėtojų, aptikusių gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -568,8 +563,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-190682
 - c-014
   santrauka: 'Naruševičius, Narbuto teigimu, daugelyje darbų patvirtino nuomonę apie gelonų tautos gyvenimą Nemuno aukštupyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -589,8 +583,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-190683
 - c-015
   santrauka: 'Naruševičius Lenkijos istorijos I tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -609,8 +602,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-191874
 ## Citatos
 
 - id: c-170918
@@ -632,7 +624,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187941
-
 - id: c-170919
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -655,7 +646,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
     - t-187942
     - t-188396
     - t-194644
-
 - id: c-170920
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -674,7 +664,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187940
-
 - id: c-170927
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -695,7 +684,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187943
-
 - id: c-171286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -716,7 +704,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188395
-
 - id: c-173554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -740,7 +727,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190672
-
 - id: c-173555
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -762,7 +748,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190673
-
 - id: c-173556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -788,7 +773,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190674
-
 - id: c-173557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -811,7 +795,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190675
-
 - id: c-173558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -834,7 +817,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190676
-
 - id: c-173560
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -856,7 +838,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190678
-
 - id: c-173564
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -883,7 +864,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190682
-
 - id: c-173565
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -908,7 +888,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   pagrindzia:
     - t-190683
     - t-197576
-
 - id: c-174756
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -932,7 +911,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   pagrindzia:
     - t-191874
     - t-197577
-
 - id: c-175305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -959,7 +937,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192517
-
 - id: c-179097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -976,7 +953,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197274
-
 - id: c-179248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -999,7 +975,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197572
-
 - id: c-179249
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1022,7 +997,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197573
-
 - id: c-179250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

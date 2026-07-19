@@ -93,7 +93,6 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40217
-
 - id: c-44380
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

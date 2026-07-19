@@ -54,7 +54,7 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173447
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono Potockio raštuose bei Suroveckio studijoje.'
@@ -71,8 +71,7 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano ir Jono 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190564
 ## Citatos
 
 - id: c-173447

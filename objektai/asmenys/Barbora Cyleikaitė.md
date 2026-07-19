@@ -72,6 +72,5 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35031
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

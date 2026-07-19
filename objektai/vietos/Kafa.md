@@ -75,6 +75,5 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41752
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Musat-chanas]]

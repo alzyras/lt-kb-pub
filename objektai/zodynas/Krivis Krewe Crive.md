@@ -106,7 +106,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177080
-
+    - c-004
 <a id="claim-t-194684"></a>
 - t-005
   global_id: t-194684
@@ -120,7 +120,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177081
-
+    - c-005
 <a id="claim-t-197364"></a>
 - t-006
   global_id: t-197364
@@ -180,8 +180,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194683
 - c-005
   santrauka: 'Pasak jo, Kre ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego rijos teisėjais arba žyniais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -199,8 +198,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-194684
 ## Citatos
 
 - id: c-171993
@@ -227,7 +225,6 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   pagrindzia:
     - t-189105
     - t-197364
-
 - id: c-171994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -251,7 +248,6 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189106
-
 - id: c-171997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -284,7 +280,6 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   pagrindzia:
     - t-189109
     - t-197366
-
 - id: c-177080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -307,7 +302,6 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194683
-
 - id: c-177081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -336,7 +330,6 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194684
-
 - id: c-179150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

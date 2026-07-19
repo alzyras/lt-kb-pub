@@ -98,7 +98,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173695
-
+    - c-003
 <a id="claim-t-190814"></a>
 - t-004
   global_id: t-190814
@@ -159,8 +159,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190813
 ## Citatos
 
 - id: c-173343
@@ -182,7 +181,6 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190460
-
 - id: c-173694
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -204,7 +202,6 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190812
-
 - id: c-173695
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -229,7 +226,6 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190813
-
 - id: c-173696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -248,7 +244,6 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190814
-
 - id: c-179283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -271,7 +266,6 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197654
-
 - id: c-179284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

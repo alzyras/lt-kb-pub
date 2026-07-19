@@ -61,7 +61,7 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Zemislovo valdas ir konfliktą su ordinu."
   pagrindžia:
     - c-169629
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.'
@@ -81,8 +81,7 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186268
 ## Citatos
 
 - id: c-169629
@@ -113,6 +112,5 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186268
-
 ## Ryšiai
 - Zemislovas valdė [[objektai/vietos/Kujavija]], [[objektai/vietos/Lenčica]]

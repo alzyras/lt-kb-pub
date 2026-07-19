@@ -74,7 +74,6 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70079
-
 - id: c-69190
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -72,7 +72,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   semantiniai_rysiai: "Skalva priklausė Prūsija (0.82)"
   pagrindžia:
     - c-59009
-
+    - c-005
 <a id="claim-t-58375"></a>
 - t-003
   global_id: t-58375
@@ -146,7 +146,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59008
-
+    - c-004
 <a id="claim-t-185144"></a>
 - t-007
   global_id: t-185144
@@ -166,6 +166,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168505
+    - c-007
 - susijęs iš Gardinas: 1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59874|Meinhardas Saksas iš Kverfurto]]: 1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59874|Meinhardas Saksas iš Kverfurto]]: 1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.
@@ -225,8 +226,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-58378
 - c-005
   santrauka: 'Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -245,8 +245,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58374
 - c-007
   santrauka: 'Pirmasis staigus smūgis buvo planuotas prieš Skalvių miestą ir pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -266,8 +265,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-185144
 ## Citatos
 
 - id: c-59005
@@ -288,7 +286,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58375
-
 - id: c-59006
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -305,7 +302,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58376
-
 - id: c-59007
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -324,7 +320,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58377
-
 - id: c-59008
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -346,7 +341,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58378
-
 - id: c-59009
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -369,7 +363,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58374
-
 - id: c-59010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -389,7 +382,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58373
-
 - id: c-168505
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -415,7 +407,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185144
-
 ## Ryšiai
 - Puolė Skalvą: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
 - Skalva priklausė [[objektai/vietos/Žemaitija]]

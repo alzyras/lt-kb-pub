@@ -169,7 +169,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173182
-
 - id: c-157511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -192,7 +191,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173181
-
 - id: c-157512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -228,7 +226,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173185
-
 - id: c-157513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -244,7 +241,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173180
-
 - id: c-157515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -271,6 +267,5 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173184
-
 ## Ryšiai
 - Paskyrė Jonas Hozijų: [[objektai/asmenys/Žygimantas Senasis]]

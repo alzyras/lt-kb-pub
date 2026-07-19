@@ -86,6 +86,5 @@ media_all_json: |-
   pagrindzia:
     - t-51016
     - t-51017
-
 ## Ryšiai
 - Ghillebert de Lannoy keliavo į [[objektai/vietos/Galvės ežero salos pilis|Galvės ežero salos pilis (pilis)]]

@@ -49,6 +49,7 @@ Narbutas Nikono pataisytą Bibliją ir liturgiją sieja su rusų sentikių atsir
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173007
+    - c-001
 - susijęs iš [[objektai/grupes/Rusinai ir rusų sektantai.md#claim-t-189440|Rusinai ir rusų sektantai]]: Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekiojami rusų sentikiai, nepritarę patriarcho Nikono pataisoms.
 - susijęs iš [[objektai/zodynas/Raskolnikai atskalūnai.md#claim-t-189247|Raskolnikai atskalūnai]]: Narbutas rašo, kad sektantai nuo seno vadinti raskolnikais, tai yra atskalūnais.
 ## Reikšmingi paminėjimai
@@ -70,8 +71,7 @@ Narbutas Nikono pataisytą Bibliją ir liturgiją sieja su rusų sentikių atsir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190124
 ## Citatos
 
 - id: c-173007

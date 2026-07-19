@@ -50,7 +50,7 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174155
-
+    - c-001
 <a id="claim-t-197734"></a>
 - t-002
   global_id: t-197734
@@ -92,8 +92,7 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191273
 ## Citatos
 
 - id: c-174155
@@ -116,7 +115,6 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191273
-
 - id: c-179315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -136,6 +134,5 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197734
-
 ## Ryšiai
 - Gotbrodas buvo valdovas [[objektai/grupes/Švedai]]

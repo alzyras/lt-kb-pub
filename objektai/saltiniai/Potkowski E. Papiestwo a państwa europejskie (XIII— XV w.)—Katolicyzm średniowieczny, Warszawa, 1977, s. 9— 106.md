@@ -53,7 +53,7 @@ Dusburgietis teigia, kad potkowski E.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį šaltinio įrašą su leidimo vieta ir metais."
   pagrindžia:
     - c-61868
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'E. Potkowskio tekstas „Papiestwo a państwa europejskie (XIII—XV w.)“ paskelbtas 1977 m. Varšuvoje leidinyje „Katolicyzm średniowieczny“.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad potkowski E.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61236
 ## Citatos
 
 - id: c-61868

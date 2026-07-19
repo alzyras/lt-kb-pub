@@ -135,7 +135,6 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
   pagrindzia:
     - t-186118
     - t-196506
-
 - id: c-169480
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

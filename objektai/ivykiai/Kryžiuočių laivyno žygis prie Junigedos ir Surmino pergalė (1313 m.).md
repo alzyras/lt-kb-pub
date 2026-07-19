@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys užterštas OCR triukšmu ir per ilgas."
   pagrindžia:
     - c-168886
-
+    - c-001
 <a id="claim-t-185526"></a>
 - t-002
   global_id: t-185526
@@ -89,7 +89,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168887
-
+    - c-002
 <a id="claim-t-185527"></a>
 - t-003
   global_id: t-185527
@@ -110,7 +110,7 @@ Nenurodyta
   semantiniai_rysiai: "Surminas dalyvavo mūšyje Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.) (0.78)"
   pagrindžia:
     - c-168888
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ragainės komtūras Verneris pasiūlė kryžiuočiams laivais pulti prie Nemuno ir kitų upių stovėjusias lietuvių pilis.'
@@ -144,8 +144,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185525
 - c-002
   santrauka: 'Kryžiuočiai su judama tvirtove ir parengtu laivynu patraukė prie Junigedos, kur audra beveik nustūmė didįjį laivą gynėjams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -178,8 +177,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185526
 - c-003
   santrauka: 'Surminas po pergalės grįžo pas valdovą, tačiau mūšyje neteko brolio Goštauto ir kitų karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -204,8 +202,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-185527
 ## Citatos
 
 - id: c-168886
@@ -245,7 +242,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185525
-
 - id: c-168887
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -286,7 +282,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185526
-
 - id: c-168888
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

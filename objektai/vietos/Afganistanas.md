@@ -97,7 +97,6 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21336
-
 - id: c-24035
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

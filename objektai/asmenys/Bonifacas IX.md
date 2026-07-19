@@ -133,7 +133,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35040
-
 - id: c-37993
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -159,7 +158,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35042
-
 - id: c-167638
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -178,7 +176,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184254
-
 ## Ryšiai
 - Bonifacas IX siuntė į [[objektai/vietos/Malburgas]]
 - Bonifacas IX paskyrė [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]

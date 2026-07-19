@@ -47,7 +47,7 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175005
-
+    - c-001
 <a id="claim-t-194906"></a>
 - t-002
   global_id: t-194906
@@ -84,8 +84,7 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192122
 ## Citatos
 
 - id: c-175005
@@ -113,7 +112,6 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192122
-
 - id: c-177302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

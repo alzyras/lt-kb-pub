@@ -92,7 +92,6 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191579
-
 - id: c-179253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

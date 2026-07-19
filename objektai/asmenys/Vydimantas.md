@@ -73,6 +73,5 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35338
-
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Birutė]]

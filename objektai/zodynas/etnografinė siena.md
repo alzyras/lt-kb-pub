@@ -138,7 +138,6 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   pagrindzia:
     - t-72688
     - t-72690
-
 - id: c-71070
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

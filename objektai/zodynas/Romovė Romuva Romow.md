@@ -49,7 +49,7 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172026
-
+    - c-001
 <a id="claim-t-189139"></a>
 - t-002
   global_id: t-189139
@@ -113,8 +113,7 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189138
 ## Citatos
 
 - id: c-172026
@@ -143,7 +142,6 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189138
-
 - id: c-172027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -168,7 +166,6 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189139
-
 - id: c-172028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

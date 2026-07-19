@@ -99,7 +99,6 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97202
-
 - id: c-91688
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

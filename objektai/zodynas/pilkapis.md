@@ -102,7 +102,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175102
-
+    - c-003
 <a id="claim-t-192279"></a>
 - t-004
   global_id: t-192279
@@ -140,7 +140,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175102
-
+    - c-003
 <a id="claim-t-192282"></a>
 - t-006
   global_id: t-192282
@@ -185,9 +185,8 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-005
-
+    - t-192278
+    - t-192281
 ## Citatos
 
 - id: c-175100
@@ -212,7 +211,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192277
-
 - id: c-175101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -248,7 +246,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     - t-192276
     - t-192279
     - t-192282
-
 - id: c-175102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

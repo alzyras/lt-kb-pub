@@ -228,7 +228,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10253
-
 - id: c-169730
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -255,7 +254,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186372
-
 - id: c-169731
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -282,7 +280,6 @@ Nenurodyta
   pagrindzia:
     - t-10254
     - t-10255
-
 - id: c-169732
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -307,6 +304,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186371
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/grupes/Totoriai]]

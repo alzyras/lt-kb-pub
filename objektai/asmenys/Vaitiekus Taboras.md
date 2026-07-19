@@ -181,7 +181,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87413
-
 - id: c-83391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -202,7 +201,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87414
-
 - id: c-83392
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -223,7 +221,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87411
-
 - id: c-83393
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -246,7 +243,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87412
-
 - id: c-168213
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -278,7 +274,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184852
-
 - id: c-168214
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

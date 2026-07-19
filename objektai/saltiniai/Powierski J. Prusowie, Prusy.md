@@ -44,7 +44,7 @@ Dusburgietis teigia, kad powierski J.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61874
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio tekstas „Prusowie, Prusy“ paskelbtas SSS 4 tomo 1 dalyje, 368–371 puslapiuose.'
@@ -57,8 +57,7 @@ Dusburgietis teigia, kad powierski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61242
 ## Citatos
 
 - id: c-61874

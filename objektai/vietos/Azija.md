@@ -43,7 +43,7 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171833
-
+    - c-001
 <a id="claim-t-192609"></a>
 - t-002
   global_id: t-192609
@@ -64,7 +64,7 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175379
-
+    - c-002
 <a id="claim-t-192610"></a>
 - t-003
   global_id: t-192610
@@ -134,8 +134,7 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188944
 - c-002
   santrauka: 'Narbutas Aziją laikė žmonių giminės lopšiu, o Europą, palyginti su Azija ir Afrika, vadino vėliau apgyvendintu ir civilizuotu naujuoju pasauliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -155,8 +154,7 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192609
 ## Citatos
 
 - id: c-171833
@@ -184,7 +182,6 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188944
-
 - id: c-175379
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -210,7 +207,6 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192609
-
 - id: c-175380
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

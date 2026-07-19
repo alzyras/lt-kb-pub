@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-169902
-
+    - c-001
 <a id="claim-t-186628"></a>
 - t-005
   global_id: t-186628
@@ -84,7 +84,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169902
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -110,9 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-002
-
+    - t-186625
+    - t-186628
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -139,10 +138,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-004
-    - t-001
-
 ## Citatos
 
 - id: c-169902

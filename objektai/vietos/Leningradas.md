@@ -118,7 +118,6 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99931
-
 - id: c-167759
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

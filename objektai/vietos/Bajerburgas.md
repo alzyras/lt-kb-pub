@@ -265,7 +265,6 @@ media_all_json: |-
   pagrindzia:
     - t-71844
     - t-71846
-
 - id: c-31958
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -283,7 +282,6 @@ media_all_json: |-
   pagrindzia:
     - t-71845
     - t-71847
-
 - id: c-37296
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -305,7 +303,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71843
-
 - id: c-171559
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -325,7 +322,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188670
-
 - id: c-175918
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -345,6 +341,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193169
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -159,7 +159,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171567
-
+    - c-006
 <a id="claim-t-188679"></a>
 - t-007
   global_id: t-188679
@@ -183,6 +183,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171568
+    - c-007
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
 - susijęs iš [[objektai/daiktai/Apgulties mašinos.md#claim-t-179463|Apgulties mašinos]]: 1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.
 - susijęs iš [[objektai/asmenys/Liudvikas Pliateris.md#claim-t-40308|Liudvikas Pliateris]]: Po nesėkmingo Liudviko Pliaterio antpuolio prieš į Daugpilį vykusią Rusijos karinę gurguolę sukilėliai atsisakė Daugpilio tvirtovės puolimo.
@@ -254,8 +255,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-188678
 - c-007
   santrauka: 'Narbutas rašo, kad 1618 m. Rezeknės, Daugpilio ir kitose Livonijos apylinkėse buvo 418 neapkrikštytų suaugusiųjų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -274,8 +274,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188679
 ## Citatos
 
 - id: c-43377
@@ -298,7 +297,6 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181496
-
 - id: c-43379
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -316,7 +314,6 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181498
-
 - id: c-165040
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -339,7 +336,6 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181497
-
 - id: c-165041
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -365,7 +361,6 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181499
-
 - id: c-168299
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -397,7 +392,6 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184938
-
 - id: c-171567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -425,7 +419,6 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188678
-
 - id: c-171568
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -450,7 +443,6 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188679
-
 ## Ryšiai
 - Apgulė Daugpilį: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

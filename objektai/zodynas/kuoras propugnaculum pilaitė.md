@@ -102,7 +102,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59417
-
+    - c-001
 <a id="claim-t-58789"></a>
 - t-005
   global_id: t-58789
@@ -136,7 +136,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59418
-
+    - c-002
 <a id="claim-t-184006"></a>
 - t-007
   global_id: t-184006
@@ -170,7 +170,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59417
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -188,10 +188,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-008
-    - t-009
-
+    - t-58788
+    - t-194455
 - c-002
   santrauka: 'Karaliaučiaus, Kroicburgo ir Bartenšteino pilys buvo apsuptos trimis stipriais kuorais, kad apsuptieji negalėtų įeiti ar išeiti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -208,8 +206,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-58790
 ## Citatos
 
 - id: c-59417
@@ -235,7 +232,6 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   pagrindzia:
     - t-58788
     - t-194455
-
 - id: c-59418
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -259,7 +255,6 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58790
-
 - id: c-59419
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -278,7 +273,6 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58786
-
 - id: c-59420
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -301,7 +295,6 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58785
-
 - id: c-59422
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -322,7 +315,6 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58787
-
 - id: c-59423
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -348,7 +340,6 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58789
-
 - id: c-167391
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

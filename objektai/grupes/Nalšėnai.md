@@ -75,7 +75,6 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194993
-
 - id: c-177376
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

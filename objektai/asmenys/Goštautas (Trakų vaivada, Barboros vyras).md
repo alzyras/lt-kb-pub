@@ -85,6 +85,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87680
-
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]

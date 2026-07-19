@@ -101,7 +101,6 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89577
-
 - id: c-85519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

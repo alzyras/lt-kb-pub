@@ -110,7 +110,6 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
   pagrindzia:
     - t-45725
     - t-45726
-
 - id: c-48431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

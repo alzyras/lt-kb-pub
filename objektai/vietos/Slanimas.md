@@ -175,7 +175,6 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   pagrindzia:
     - t-169169
     - t-169174
-
 - id: c-153911
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -196,7 +195,6 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169166
-
 - id: c-153915
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -221,7 +219,6 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169171
-
 - id: c-153917
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -241,7 +238,6 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169170
-
 - id: c-175968
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -259,6 +255,5 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193230
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

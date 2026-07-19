@@ -399,7 +399,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   pagrindzia:
     - t-169682
     - t-169694
-
 - id: c-154384
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -420,7 +419,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169681
-
 - id: c-154385
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -437,7 +435,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169689
-
 - id: c-154386
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -460,7 +457,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169687
-
 - id: c-154387
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -485,7 +481,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169697
-
 - id: c-154388
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -506,7 +501,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169685
-
 - id: c-154389
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -528,7 +522,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169686
-
 - id: c-154391
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -548,7 +541,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169690
-
 - id: c-154393
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -580,7 +572,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169684
-
 - id: c-154394
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -599,7 +590,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169683
-
 - id: c-154396
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -625,7 +615,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169691
-
 - id: c-154398
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -648,7 +637,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169692
-
 - id: c-154399
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -666,7 +654,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169698
-
 - id: c-154400
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -688,7 +675,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169696
-
 - id: c-166539
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -708,7 +694,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169693
-
 - id: c-176230
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

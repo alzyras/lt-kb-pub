@@ -134,7 +134,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195185
-
 - id: c-177550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -165,7 +164,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   pagrindzia:
     - t-195185
     - t-195187
-
 - id: c-177551
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -205,7 +203,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195186
-
 - id: c-177552
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -232,7 +229,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   pagrindzia:
     - t-195188
     - t-195189
-
 - id: c-177553
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -282,7 +278,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195189
-
 - id: c-177554
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -305,6 +300,5 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195185
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Ulrikas Hozijus]]

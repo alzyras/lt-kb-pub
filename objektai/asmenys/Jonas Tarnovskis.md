@@ -85,7 +85,6 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63737
-
 - id: c-42029
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

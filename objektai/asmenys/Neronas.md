@@ -49,8 +49,7 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174100
-
+    - c-001
 <a id="claim-t-194918"></a>
 - t-002
   global_id: t-194918
@@ -64,7 +63,7 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177314
-
+    - c-174100
 <a id="claim-t-197779"></a>
 - t-003
   global_id: t-197779
@@ -113,8 +112,7 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191218
 ## Citatos
 
 - id: c-174100
@@ -138,8 +136,7 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191218
-
+    - t-194918
 - id: c-177314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -166,7 +163,6 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   pagrindzia:
     - t-194918
     - t-197779
-
 - id: c-184367
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -197,6 +193,5 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201017
-
 ## Ryšiai
 - Neronas siuntė į [[objektai/ivykiai/Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro]]

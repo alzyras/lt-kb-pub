@@ -85,5 +85,5 @@ Odojevas lokalizuojamas prie Upos upės. Upa šiame gabale apibūdinama kaip Oko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-187367
+    - t-187368

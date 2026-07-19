@@ -75,4 +75,4 @@ Tado Volianskio laiške Narbutas pateikia formulę apie Lietuvos vardo senumą r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192123

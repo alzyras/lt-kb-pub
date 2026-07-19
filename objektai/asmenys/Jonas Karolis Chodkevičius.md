@@ -96,7 +96,6 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18977
-
 ## Ryšiai
 - Jonas Karolis Chodkevičius keliavo į [[objektai/vietos/Livonija]]
 - Jonas Karolis Chodkevičius puolė [[objektai/vietos/Daugavgryva]], [[objektai/vietos/Piarnu]]

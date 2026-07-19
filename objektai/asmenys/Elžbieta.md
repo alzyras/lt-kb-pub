@@ -51,7 +51,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-78776
-
+    - c-007
 <a id="claim-t-82292"></a>
 - t-002
   global_id: t-82292
@@ -297,8 +297,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-82291
 ## Citatos
 
 - id: c-78770
@@ -321,7 +320,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82292
-
 - id: c-78771
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -343,7 +341,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82295
-
 - id: c-78772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -364,7 +361,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82293
-
 - id: c-78773
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -386,7 +382,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82298
-
 - id: c-78774
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -413,7 +408,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   pagrindzia:
     - t-82296
     - t-82299
-
 - id: c-78775
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -435,7 +429,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82297
-
 - id: c-78776
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -455,7 +448,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82291
-
 - id: c-78778
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -477,7 +469,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82294
-
 - id: c-167641
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -498,7 +489,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184257
-
 - id: c-168057
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -532,7 +522,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184696
-
 - id: c-179023
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -551,6 +540,5 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197075
-
 ## Ryšiai
 - Elžbieta keliavo į [[objektai/vietos/Vilnius]]

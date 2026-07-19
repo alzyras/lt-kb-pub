@@ -101,7 +101,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93492
-
 - id: c-88853
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -118,6 +117,5 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93490
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]], [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]]

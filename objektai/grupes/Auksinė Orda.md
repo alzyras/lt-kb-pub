@@ -215,7 +215,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Valdovo titulas ir politinis apibūdinimas palikti su komentaro atribucija. Sąmoningai neperimtas motyvinis teiginys apie siekį pajungti Maskvą kaip neutralus faktas.'
   pagrindžia:
-    - c-170644
+    - c-010
 - susijęs iš Volynė: 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.
 - susijęs iš Kijevas: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
@@ -355,8 +355,7 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-187705
 ## Citatos
 
 - id: c-05786
@@ -378,7 +377,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05238
-
 - id: c-05787
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -397,7 +395,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05239
-
 - id: c-05788
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -419,7 +416,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05240
-
 - id: c-14960
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -439,7 +435,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12353
-
 - id: c-14961
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -461,7 +456,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12354
-
 - id: c-14962
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -483,7 +477,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12355
-
 - id: c-87634
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -504,7 +497,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92026
-
 - id: c-87636
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -525,7 +517,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92027
-
 - id: c-87638
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -545,7 +536,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92025
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Volynė]]
 - Auksinė Orda priklausė [[objektai/grupes/Mongolų imperija]]

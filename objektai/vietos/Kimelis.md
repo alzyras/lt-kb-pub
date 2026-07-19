@@ -46,7 +46,7 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   semantiniai_rysiai: "Kryžiuočių ordinas puolė Kimelis (0.93); Kryžiuočių ordinas užėmė Kimelis (0.84)"
   pagrindžia:
     - c-167548
-
+    - c-002
 <a id="claim-t-58575"></a>
 - t-002
   global_id: t-58575
@@ -88,9 +88,7 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-001
-
+    - t-58574
 ## Citatos
 
 - id: c-59206
@@ -117,7 +115,6 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58575
-
 - id: c-167548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -143,6 +140,5 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58574
-
 ## Ryšiai
 - Puolė Kimelį: [[objektai/grupes/Kryžiuočių ordinas]]

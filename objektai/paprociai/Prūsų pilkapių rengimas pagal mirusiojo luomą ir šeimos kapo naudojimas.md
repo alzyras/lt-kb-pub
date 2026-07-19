@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172742
-
+    - c-001
 <a id="claim-t-189860"></a>
 - t-002
   global_id: t-189860
@@ -141,8 +141,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189859
 ## Citatos
 
 - id: c-172742
@@ -169,7 +168,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189859
-
 - id: c-172743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -189,7 +187,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189860
-
 - id: c-172744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -212,7 +209,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189861
-
 - id: c-177028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

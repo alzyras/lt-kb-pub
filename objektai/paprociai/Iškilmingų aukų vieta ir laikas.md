@@ -57,7 +57,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177213
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro nikininkai specialistai to neaprašo, tik priduria, kad senais lai kais, kai svarbiausioji šventykla - prūsų Romovė - dar nebuvo galutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų.'
@@ -77,8 +77,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194817
 ## Citatos
 
 - id: c-177213

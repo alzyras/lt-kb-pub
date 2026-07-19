@@ -83,7 +83,6 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60996
-
 - id: c-61629
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -189,7 +189,6 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
   pagrindzia:
     - t-102933
     - t-102934
-
 - id: c-96149
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -211,7 +210,6 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102939
-
 - id: c-96151
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -232,7 +230,6 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102936
-
 - id: c-96152
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -260,7 +257,6 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102938
-
 - id: c-96153
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

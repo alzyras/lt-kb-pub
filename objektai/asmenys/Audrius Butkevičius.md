@@ -92,7 +92,6 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40046
-
 - id: c-44294
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

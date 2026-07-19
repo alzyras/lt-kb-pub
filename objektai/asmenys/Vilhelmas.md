@@ -150,7 +150,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   pagrindzia:
     - t-51186
     - t-51187
-
 - id: c-184394
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -174,7 +173,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201044
-
 - id: c-184395
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -189,7 +187,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201045
-
 - id: c-184396
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

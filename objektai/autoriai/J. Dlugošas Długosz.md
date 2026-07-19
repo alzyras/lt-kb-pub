@@ -109,7 +109,6 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87985
-
 - id: c-83964
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -132,7 +131,6 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87984
-
 - id: c-83966
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -101,6 +101,7 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85513
+    - c-003
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
 - susijęs iš [[objektai/asmenys/Sarkis.md#claim-t-60065|Sarkis]]: Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55082|Vilniaus miestiečių luomas]]: Vilniaus pilininkas ir miestiečiai palaikė Jogailą prieš Kęstutį ir perdavė jam Žemutinę bei Aukštutinę pilis.
@@ -149,8 +150,7 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-89572
 ## Citatos
 
 - id: c-55815
@@ -181,7 +181,6 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55266
-
 - id: c-55816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -204,7 +203,6 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55267
-
 - id: c-85513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -113,7 +113,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   semantiniai_rysiai: "Mstivojus buvo valdovas Pomeranija (0.85)"
   pagrindžia:
     - c-60528
-
+    - c-003
 <a id="claim-t-59898"></a>
 - t-005
   global_id: t-59898
@@ -177,8 +177,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-59897
 ## Citatos
 
 - id: c-60526
@@ -202,7 +201,6 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59899
-
 - id: c-60527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -230,7 +228,6 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59896
-
 - id: c-60528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -253,7 +250,6 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59897
-
 - id: c-60529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -273,7 +269,6 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59898
-
 - id: c-60530
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -297,7 +292,6 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59894
-
 - id: c-60531
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -319,6 +313,5 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59895
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sventopelkas]]

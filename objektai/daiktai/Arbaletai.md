@@ -67,7 +67,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170014
-
+    - c-001
 <a id="claim-t-193865"></a>
 - t-002
   global_id: t-193865
@@ -80,6 +80,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170014
+    - c-001
 - susijęs iš [[objektai/daiktai/Arbaletas.md#claim-t-64900|Arbaletas]]: Sembų puolimo metu vienas Ordino brolis, gindamas pilį, paliko įtemptą arbaletą ir pabėgo.
 - susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40714|Geležinėmis grandinėmis kaustyti vežimai]]: Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų.
 - susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40715|Geležinėmis grandinėmis kaustyti vežimai]]: Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.
@@ -106,9 +107,8 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-186830
+    - t-193865
 ## Citatos
 
 - id: c-170014

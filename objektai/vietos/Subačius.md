@@ -107,7 +107,6 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42171
-
 - id: c-45349
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,6 +131,5 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42170
-
 ## Ryšiai
 - Užėmė Subačių: [[objektai/grupes/Panevėžio rinktinė]]

@@ -46,7 +46,7 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40246
-
+    - c-167163
 ## Citatos
 
 - id: c-40246
@@ -68,7 +68,6 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38442
-
 - id: c-167163
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

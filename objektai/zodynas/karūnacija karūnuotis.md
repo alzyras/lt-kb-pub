@@ -111,7 +111,6 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   pagrindzia:
     - t-104168
     - t-104171
-
 - id: c-97128
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -131,7 +130,6 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104169
-
 - id: c-97129
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -151,7 +149,6 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104170
-
 - id: c-175901
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

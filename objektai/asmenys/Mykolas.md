@@ -166,6 +166,5 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64008
-
 ## Ryšiai
 - Mykolas puolė [[objektai/grupes/Totoriai]]

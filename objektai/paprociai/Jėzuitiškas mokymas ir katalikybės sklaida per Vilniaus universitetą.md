@@ -98,7 +98,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Vilniaus universitetą ir pagrįstas citata."
   pagrindžia:
     - c-55144
-
+    - c-166702
 <a id="claim-t-183311"></a>
 - t-003
   global_id: t-183311
@@ -148,7 +148,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54245
-
 - id: c-55145
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -168,7 +167,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54244
-
 - id: c-166701
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -190,7 +188,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183311
-
 - id: c-166702
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

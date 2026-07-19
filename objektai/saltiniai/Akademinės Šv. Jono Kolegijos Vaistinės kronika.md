@@ -91,7 +91,6 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88233
-
 - id: c-84213
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

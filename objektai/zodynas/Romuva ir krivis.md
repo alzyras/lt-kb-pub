@@ -115,7 +115,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75583
-
 - id: c-73317
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -130,7 +129,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75584
-
 - id: c-73318
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -148,7 +146,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75585
-
 - id: c-73319
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

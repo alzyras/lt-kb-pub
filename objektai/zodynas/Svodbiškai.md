@@ -99,7 +99,6 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195625
-
 - id: c-178027
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

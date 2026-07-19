@@ -99,7 +99,6 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41203
-
 - id: c-44873
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

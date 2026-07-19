@@ -39,6 +39,7 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59312
+    - c-001
 - susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67239|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,8 +58,7 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58680
 ## Citatos
 
 - id: c-59312

@@ -96,7 +96,6 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60201
-
 - id: c-60834
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

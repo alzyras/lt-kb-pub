@@ -151,9 +151,6 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-004
-
 ## Citatos
 
 - id: c-175597
@@ -181,7 +178,6 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   pagrindzia:
     - t-192827
     - t-197903
-
 - id: c-175598
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -199,7 +195,6 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192828
-
 - id: c-175599
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -118,7 +118,6 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30656
-
 - id: c-32951
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -142,7 +141,6 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30654
-
 - id: c-32952
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

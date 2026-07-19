@@ -68,4 +68,4 @@ Iš Origeno, iš aštuntosios knygos, ži nome, kad Celsas sakydavo krikščioni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194858

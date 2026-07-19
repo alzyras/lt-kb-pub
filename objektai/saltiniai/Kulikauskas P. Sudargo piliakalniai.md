@@ -53,7 +53,7 @@ Dusburgietis teigia, kad kulikauskas P.
   temporalinis_llm_pakomentavimas: "Citata leidžia pateikti aiškų bibliografinį faktą."
   pagrindžia:
     - c-61741
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Kulikausko straipsnis „Sudargo piliakalniai“ paskelbtas leidinyje „Istorija“ Vilniuje 1975 m.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad kulikauskas P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61109
 ## Citatos
 
 - id: c-61741

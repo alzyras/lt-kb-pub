@@ -130,6 +130,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101544
+    - t-101547
     - t-101545
     - t-101546

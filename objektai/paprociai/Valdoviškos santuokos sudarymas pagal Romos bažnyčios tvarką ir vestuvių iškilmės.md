@@ -84,7 +84,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169224
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.'
@@ -111,8 +111,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185863
 ## Citatos
 
 - id: c-169223
@@ -137,7 +136,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185862
-
 - id: c-169224
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

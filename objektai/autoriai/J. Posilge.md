@@ -92,7 +92,6 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-29505
-
 - id: c-167720
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -73,7 +73,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174902
-
+    - c-002
 <a id="claim-t-192021"></a>
 - t-002
   global_id: t-192021
@@ -136,8 +136,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192020
 ## Citatos
 
 - id: c-174901
@@ -166,7 +165,6 @@ Nenurodyta
   pagrindzia:
     - t-192021
     - t-192022
-
 - id: c-174902
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

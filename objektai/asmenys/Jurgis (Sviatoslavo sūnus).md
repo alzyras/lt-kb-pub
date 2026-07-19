@@ -65,6 +65,5 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30317
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sviatoslavas]]

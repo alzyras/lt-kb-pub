@@ -92,7 +92,6 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38912
-
 - id: c-176404
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

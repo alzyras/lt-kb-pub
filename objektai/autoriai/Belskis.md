@@ -118,7 +118,6 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190381
-
 - id: c-173265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

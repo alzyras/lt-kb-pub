@@ -100,9 +100,6 @@ Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis. N
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-174280
@@ -129,7 +126,6 @@ Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis. N
   pagrindzia:
     - t-191398
     - t-197730
-
 - id: c-174281
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -245,6 +245,5 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   pagrindzia:
     - t-60338
     - t-197105
-
 ## Ryšiai
 - Jonas puolė [[objektai/asmenys/Slavka]]

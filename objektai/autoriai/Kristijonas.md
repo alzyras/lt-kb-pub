@@ -126,7 +126,6 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190394
-
 - id: c-173278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -147,7 +146,6 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190395
-
 - id: c-173633
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -174,7 +172,6 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190751
-
 - id: c-173634
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

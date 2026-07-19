@@ -180,7 +180,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   pagrindzia:
     - t-186169
     - t-196624
-
 - id: c-173877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -208,7 +207,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   pagrindzia:
     - t-190995
     - t-197839
-
 - id: c-173878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -228,7 +226,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190996
-
 - id: c-176630
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -259,7 +256,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194005
-
 ## Ryšiai
 - Vasilka siuntė į [[objektai/vietos/Haličas]]
 - Vasilka kariavo prieš [[objektai/grupes/Jotvingiai]]

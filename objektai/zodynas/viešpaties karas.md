@@ -45,7 +45,7 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59573
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Petras Dusburgietis užkariavimus ir žudynes „viešpaties kare“ vaizdavo kaip šventus Ordino riterių veiksmus.'
@@ -63,8 +63,7 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58941
 ## Citatos
 
 - id: c-59573

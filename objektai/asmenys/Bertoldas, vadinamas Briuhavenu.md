@@ -55,7 +55,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   semantiniai_rysiai: "Bertoldas, vadinamas Briuhavenu puolė Medraba (0.86); Bertoldas, vadinamas Briuhavenu užėmė Medraba (0.73)"
   pagrindžia:
     - c-60513
-
+    - c-006
 <a id="claim-t-59877"></a>
 - t-002
   global_id: t-59877
@@ -136,7 +136,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia Bertoldo paskyrimą ginti Ragainę."
   pagrindžia:
     - c-60511
-
+    - c-004
 <a id="claim-t-59881"></a>
 - t-006
   global_id: t-59881
@@ -153,7 +153,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60512
-
+    - c-005
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: '1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.'
@@ -175,8 +175,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-59880
 - c-005
   santrauka: 'Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -196,8 +195,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-59881
 - c-006
   santrauka: 'Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -213,8 +211,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59876
 ## Citatos
 
 - id: c-60508
@@ -239,7 +236,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59878
-
 - id: c-60509
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -259,7 +255,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59877
-
 - id: c-60510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -286,7 +281,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59879
-
 - id: c-60511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -310,7 +304,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59880
-
 - id: c-60512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -338,7 +331,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59881
-
 - id: c-60513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -57,7 +57,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174625
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“.'
@@ -73,8 +73,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191743
 ## Citatos
 
 - id: c-174625

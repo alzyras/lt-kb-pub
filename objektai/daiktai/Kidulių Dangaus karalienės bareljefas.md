@@ -74,7 +74,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172540
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas 1805 m. Kidulių pilies bokštelio sienoje matė seną Dangaus karalienės bareljefinę figūrą iš patvaraus gipso.'
@@ -96,8 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189657
 ## Citatos
 
 - id: c-172540

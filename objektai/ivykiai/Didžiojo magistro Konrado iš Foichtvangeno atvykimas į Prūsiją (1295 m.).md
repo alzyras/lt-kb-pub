@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata."
   pagrindžia:
     - c-62739
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.'
@@ -89,8 +89,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62238
 ## Citatos
 
 - id: c-62739

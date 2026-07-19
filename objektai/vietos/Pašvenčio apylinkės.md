@@ -49,7 +49,7 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171851
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologinį pasakojimą apie Krūminę ir jos dukterį.'
@@ -68,8 +68,7 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188962
 ## Citatos
 
 - id: c-171851

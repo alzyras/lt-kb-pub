@@ -49,7 +49,7 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174003
-
+    - c-001
 <a id="claim-t-191122"></a>
 - t-002
   global_id: t-191122
@@ -70,7 +70,7 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174004
-
+    - c-002
 <a id="claim-t-191123"></a>
 - t-003
   global_id: t-191123
@@ -91,7 +91,7 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174005
-
+    - c-003
 <a id="claim-t-197817"></a>
 - t-004
   global_id: t-197817
@@ -124,8 +124,7 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191121
 - c-002
   santrauka: 'Narbutas mini spėjimą, kad Strabonas, kaip šališkas Pitėjo aiškintojas, daug ką jam priskyrė svetimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -141,8 +140,7 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191122
 - c-003
   santrauka: 'Narbutas nurodo Straboną tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -169,8 +167,7 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191123
 ## Citatos
 
 - id: c-174003
@@ -197,7 +194,6 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191121
-
 - id: c-174004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -220,7 +216,6 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191122
-
 - id: c-174005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -251,7 +246,6 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191123
-
 - id: c-179352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

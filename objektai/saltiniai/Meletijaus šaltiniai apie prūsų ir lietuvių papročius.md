@@ -48,7 +48,7 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173400
-
+    - c-001
 <a id="claim-t-197353"></a>
 - t-002
   global_id: t-197353
@@ -80,8 +80,7 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190517
 ## Citatos
 
 - id: c-173400
@@ -112,7 +111,6 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190517
-
 - id: c-179147
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

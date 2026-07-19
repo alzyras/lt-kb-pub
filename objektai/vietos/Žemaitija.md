@@ -180,7 +180,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
   pagrindžia:
     - c-112499
-
+    - c-167041
 <a id="claim-t-123008"></a>
 - t-007
   global_id: t-123008
@@ -674,7 +674,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-112533
-
+    - c-167040
 <a id="claim-t-123036"></a>
 - t-034
   global_id: t-123036
@@ -731,7 +731,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-112504
-
+    - c-167039
 <a id="claim-t-123039"></a>
 - t-037
   global_id: t-123039
@@ -787,7 +787,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Sakinys aiškiai teigia faktą apie Žemaitiją."
   pagrindžia:
     - c-112517
-
+    - c-167038
 <a id="claim-t-123043"></a>
 - t-040
   global_id: t-123043
@@ -1049,7 +1049,7 @@ media_all_json: |-
   semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Semba (0.92); Mindaugas (valdovas, XIII a.) puolė Prūsija (0.88)"
   pagrindžia:
     - c-168580
-
+    - c-168579
 <a id="claim-t-185221"></a>
 - t-054
   global_id: t-185221
@@ -1689,7 +1689,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Išskleistas objektas ir Narbuto veiksmas su užrašu. Hipotezė apie Biarmijos raidyno paplitimą neperkelta kaip faktas.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Biarmija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
-    - c-173550
+    - c-064
 - susijęs iš [[objektai/ivykiai/Žalgirio mūšis (1410 m.).md#claim-t-63387|Žalgirio mūšis (1410 m.)]]: Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
 - susijęs iš Michalovos žemės: Lenkija siekė atgauti Michalovos žemes, o lietuviams rūpėjo faktiškai jų valdyta Žemaitija.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
@@ -1793,8 +1793,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-080
-
+    - t-190667
 ## Citatos
 
 - id: c-37880
@@ -1821,7 +1820,6 @@ media_all_json: |-
     - t-123005
     - t-123014
     - t-123027
-
 - id: c-37881
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1847,7 +1845,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123002
-
 - id: c-37882
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1875,7 +1872,6 @@ media_all_json: |-
     - t-123006
     - t-123031
     - t-123053
-
 - id: c-37883
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1900,7 +1896,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123015
-
 - id: c-37884
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1926,7 +1921,6 @@ media_all_json: |-
     - t-123045
     - t-123048
     - t-123051
-
 - id: c-37886
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1949,7 +1943,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123003
-
 - id: c-112487
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1979,7 +1972,6 @@ media_all_json: |-
   pagrindzia:
     - t-123041
     - t-123052
-
 - id: c-112489
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2018,7 +2010,6 @@ media_all_json: |-
     - t-123004
     - t-123034
     - t-123037
-
 - id: c-112490
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2045,7 +2036,6 @@ media_all_json: |-
   pagrindzia:
     - t-123012
     - t-123026
-
 - id: c-112491
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2067,7 +2057,6 @@ media_all_json: |-
   pagrindzia:
     - t-123013
     - t-123055
-
 - id: c-112492
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2091,7 +2080,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123036
-
 - id: c-112494
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2110,7 +2098,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123028
-
 - id: c-112495
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2133,7 +2120,6 @@ media_all_json: |-
   pagrindzia:
     - t-123024
     - t-123049
-
 - id: c-112498
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2156,7 +2142,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123019
-
 - id: c-112499
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2173,7 +2158,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123007
-
 - id: c-112500
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2195,7 +2179,6 @@ media_all_json: |-
   pagrindzia:
     - t-123023
     - t-123032
-
 - id: c-112501
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2217,7 +2200,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123018
-
 - id: c-112502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2248,7 +2230,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123033
-
 - id: c-112503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2270,7 +2251,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123047
-
 - id: c-112504
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2290,7 +2270,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123038
-
 - id: c-112505
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2310,7 +2289,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123054
-
 - id: c-112507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2338,7 +2316,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123039
-
 - id: c-112508
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2354,7 +2331,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123009
-
 - id: c-112509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2384,7 +2360,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123008
-
 - id: c-112511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2406,7 +2381,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123050
-
 - id: c-112513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2429,7 +2403,6 @@ media_all_json: |-
   pagrindzia:
     - t-123016
     - t-123017
-
 - id: c-112517
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2452,7 +2425,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123042
-
 - id: c-112518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2477,7 +2449,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123011
-
 - id: c-112520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2498,7 +2469,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123022
-
 - id: c-112521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2524,8 +2494,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-123020
-
+    - t-123029
 - id: c-112522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2550,7 +2519,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123046
-
 - id: c-112523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2576,7 +2544,6 @@ media_all_json: |-
   pagrindzia:
     - t-123021
     - t-123025
-
 - id: c-112527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2598,7 +2565,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123043
-
 - id: c-112531
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2622,7 +2588,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123010
-
 - id: c-112533
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2642,7 +2607,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123035
-
 - id: c-112535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2662,7 +2626,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123030
-
 - id: c-167038
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2765,7 +2728,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185218
-
+    - t-185219
 - id: c-168580
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2809,7 +2772,6 @@ media_all_json: |-
   pagrindzia:
     - t-185219
     - t-196764
-
 - id: c-168582
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2841,7 +2803,6 @@ media_all_json: |-
   pagrindzia:
     - t-185221
     - t-196765
-
 - id: c-168583
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2883,7 +2844,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185222
-
 - id: c-168584
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2910,7 +2870,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185223
-
 - id: c-168585
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2943,7 +2902,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185224
-
 - id: c-168586
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2969,7 +2927,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185225
-
 - id: c-168587
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2998,7 +2955,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185226
-
 - id: c-168588
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3028,7 +2984,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185227
-
 - id: c-170633
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3053,7 +3008,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187694
-
 - id: c-171769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3080,7 +3034,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188880
-
 - id: c-171770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3100,7 +3053,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188881
-
 - id: c-171772
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3122,7 +3074,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188883
-
 - id: c-171773
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3146,7 +3097,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188884
-
 - id: c-171774
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3167,7 +3117,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188885
-
 - id: c-171775
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3189,7 +3138,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188886
-
 - id: c-171776
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3209,7 +3157,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188887
-
 - id: c-171777
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3225,7 +3172,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188888
-
 - id: c-171778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3245,7 +3191,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188889
-
 - id: c-171779
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3267,7 +3212,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188890
-
 - id: c-171780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3287,7 +3231,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188891
-
 - id: c-173548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3317,7 +3260,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190665
-
 - id: c-173549
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3345,7 +3287,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190666
-
 - id: c-175561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3364,7 +3305,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192791
-
 - id: c-175562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3386,7 +3326,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192792
-
 - id: c-175994
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3405,7 +3344,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193264
-
 - id: c-175995
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3423,7 +3361,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193265
-
 - id: c-177157
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3446,7 +3383,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194761
-
 - id: c-177158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3470,7 +3406,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194762
-
 - id: c-178901
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3491,7 +3426,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196767
-
 - id: c-179055
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3517,7 +3451,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197183
-
 - id: c-179218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3537,7 +3470,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197488
-
 - id: c-179410
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3559,7 +3491,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197943
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Dormunimundas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sutinkąs]], [[objektai/grupes/Vokiečių ordinas]]
 - Gimimo vieta: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

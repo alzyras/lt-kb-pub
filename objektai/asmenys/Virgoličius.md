@@ -105,7 +105,6 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40510
-
 - id: c-44560
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -89,6 +89,5 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42174
-
 ## Ryšiai
 - Užėmė Svėdasai: [[objektai/asmenys/P. Genys]]

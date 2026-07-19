@@ -56,7 +56,7 @@ Dusburgietis teigia, kad zimmermann P.
   temporalinis_llm_pakomentavimas: "Citata pateikia aiškų autoriaus knygos bibliografinį įrašą."
   pagrindžia:
     - c-61460
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad zimmermann P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60828
 ## Citatos
 
 - id: c-61460

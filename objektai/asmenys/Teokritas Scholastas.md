@@ -49,7 +49,7 @@ Narbutas remiasi Teokritu Scholastu teigdamas, kad varpai priklausė slaptoms Ka
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173098
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas remiasi Teokritu Scholastu teigdamas, kad varpai priklausė slaptoms Kabirų garbinimo apeigoms.'
@@ -72,8 +72,7 @@ Narbutas remiasi Teokritu Scholastu teigdamas, kad varpai priklausė slaptoms Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190215
 ## Citatos
 
 - id: c-173098

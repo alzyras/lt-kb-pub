@@ -64,7 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60318
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sudarę sandėrį ar sutartį, žmonės dienas iki susitarimo vykdymo žymėdavo įkirtomis medyje arba mazgais apyvaruose ar juostoje.'
@@ -82,8 +82,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59686
 ## Citatos
 
 - id: c-60318

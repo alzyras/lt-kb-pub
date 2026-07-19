@@ -177,7 +177,6 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87558
-
 - id: c-83538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -199,7 +198,6 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87559
-
 - id: c-168155
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -226,7 +224,6 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184794
-
 - id: c-168158
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -258,7 +255,6 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196567
-
 - id: c-168159
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -295,7 +291,6 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   pagrindzia:
     - t-184798
     - t-196568
-
 ## Ryšiai
 - Rėmė Mykolą (Žygimanto sūnus): [[objektai/grupes/Žemaičiai]]
 - Mykolas (Žygimanto sūnus) keliavo į [[objektai/vietos/Mazovija]]

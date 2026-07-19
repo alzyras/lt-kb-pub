@@ -62,4 +62,4 @@ Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194771

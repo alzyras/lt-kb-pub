@@ -129,7 +129,6 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
   pagrindzia:
     - t-40019
     - t-183726
-
 - id: c-44276
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

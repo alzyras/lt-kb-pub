@@ -49,6 +49,7 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172163
+    - c-001
 - susijęs iš [[objektai/paprociai/Laukų apvalymas arba pašventinimas apeinant javus su auka.md#claim-t-189842|Laukų apvalymas arba pašventinimas apeinant javus su auka]]: Narbutas laukų apvalymo apeigas siejo su antikos praktika ir nurodė, kad romėnai jas vadino Ambervales.
 - susijęs iš [[objektai/paprociai/Lietuvių priesaikos formulės ir užkeikimai.md#claim-t-189844|Lietuvių priesaikos formulės ir užkeikimai]]: Narbutas lietuvių priesaikas lygino su antikos priesaikomis ir nurodė formules „dėl Dievo“ bei „Kad aš skradžiai prapultau“.
 - susijęs iš [[objektai/zodynas/Gabija Gabie.md#claim-t-189294|Gabija Gabie]]: Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir vardais Gabalus bei Heliogabalus.
@@ -85,8 +86,7 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189275
 ## Citatos
 
 - id: c-172163

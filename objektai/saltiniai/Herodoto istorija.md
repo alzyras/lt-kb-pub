@@ -48,7 +48,7 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174571
-
+    - c-001
 <a id="claim-t-191690"></a>
 - t-002
   global_id: t-191690
@@ -146,8 +146,7 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191689
 - c-004
   santrauka: 'Teodoras Narbutas Herodoto pasakojime nurodė persų karaliaus kelią nuo Maetis ežero į žemyno gilumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -167,9 +166,6 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-005
-
 ## Citatos
 
 - id: c-174571
@@ -192,7 +188,6 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191689
-
 - id: c-174572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -215,7 +210,6 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191690
-
 - id: c-174573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -237,7 +231,6 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191691
-
 - id: c-174802
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

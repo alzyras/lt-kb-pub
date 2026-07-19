@@ -105,7 +105,6 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190166
-
 - id: c-173780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

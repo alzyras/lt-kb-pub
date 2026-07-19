@@ -166,7 +166,6 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86724
-
 - id: c-82702
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -200,7 +199,6 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86723
-
 - id: c-171182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -221,6 +219,5 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188289
-
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Lietuviai]]

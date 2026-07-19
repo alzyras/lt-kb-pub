@@ -41,7 +41,7 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177226
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą.'
@@ -58,8 +58,7 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194830
 ## Citatos
 
 - id: c-177226

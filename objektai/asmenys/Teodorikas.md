@@ -173,7 +173,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   susije_objektai: 'llm_object: Italija; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Italija'
   semantiniai_rysiai: '[[objektai/asmenys/Teodorikas|Teodorikas]] surengė žygį į Italija'
   pagrindžia:
-    - c-174114
+    - c-003
 - susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191156|Teodorikas Didysis]]: Narbutas rašo, kad Zenonas slapta susitarė su Teodoriku ir, vildamasis barbarų valdovų tarpusavio karo, leido ostrogotams grobti Romą ir Italiją.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-190945|Odoakras]]: Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas.
 - susijęs iš [[objektai/asmenys/Baza.md#claim-t-191375|Baza]]: Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas savo kariuomenių vadų pasitarimą.
@@ -232,8 +232,7 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191232
 ## Citatos
 
 - id: c-174112
@@ -257,7 +256,6 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191230
-
 - id: c-174113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -290,7 +288,6 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   pagrindzia:
     - t-191231
     - t-197829
-
 - id: c-174115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -315,7 +312,6 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   pagrindzia:
     - t-191233
     - t-197830
-
 - id: c-178792
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -345,7 +341,6 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196603
-
 - id: c-184387
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -365,7 +360,6 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201037
-
 - id: c-184388
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

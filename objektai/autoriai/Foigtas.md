@@ -48,7 +48,7 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173272
-
+    - c-001
 <a id="claim-t-194652"></a>
 - t-002
   global_id: t-194652
@@ -62,6 +62,7 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177049
+    - c-002
 - susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190032|Johanas Foigtas]]: Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188616|Simonas Grunau]]: Narbutas gynė Grunau nuo Foigto kritikos ir manė, kad žinią apie vyriausiuosius žynius jis paėmė iš vyskupo Kristijono kronikos.
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-188412|Johanas Foigtas]]: Narbutas rašo, kad Foigtas legendą apie vyriausiuosius žynius laikė tuščiagarbio vienuolio išmone.
@@ -95,8 +96,7 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190389
 - c-002
   santrauka: 'Ponas Foigtas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -112,8 +112,7 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194652
 ## Citatos
 
 - id: c-173272
@@ -136,7 +135,6 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190389
-
 - id: c-177049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

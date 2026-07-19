@@ -117,6 +117,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-175362
+    - c-004
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-188409|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dėstė Vilniaus universitete tuo metu, kai buvo didelis susidomėjimas istorija.
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63305|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto.
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63306|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų.
@@ -148,8 +149,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192591
 ## Citatos
 
 - id: c-21725
@@ -173,7 +173,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78033
-
 - id: c-75345
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -201,7 +200,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78034
-
 - id: c-171430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -223,7 +221,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188541
-
 - id: c-175362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

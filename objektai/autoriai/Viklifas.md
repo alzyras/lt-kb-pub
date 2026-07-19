@@ -60,7 +60,7 @@ Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173291
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė Viklifo raštus.'
@@ -83,8 +83,7 @@ Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190408
 ## Citatos
 
 - id: c-173291

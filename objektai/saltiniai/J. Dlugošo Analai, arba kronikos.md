@@ -60,7 +60,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir paremtas citatoje pateikta informacija."
   pagrindžia:
     - c-85467
-
+    - c-004
 <a id="claim-t-89517"></a>
 - t-002
   global_id: t-89517
@@ -97,7 +97,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Dlugošo veikalo šaltinį ir rašymo laiką."
   pagrindžia:
     - c-85466
-
+    - c-003
 <a id="claim-t-89519"></a>
 - t-004
   global_id: t-89519
@@ -137,7 +137,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą, susietą su Dlugošo veikalo duomenimis."
   pagrindžia:
     - c-85465
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'J. Dlugošo veikale 1282 m. lietuvių kariuomenės įsiveržimas į Sandomežo žemę siejamas su mūšiu Ruvne, į pietus nuo Drohičino.'
@@ -153,8 +153,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-89520
 - c-003
   santrauka: 'J. Dlugošas „Analuose, arba kronikose“, rašytuose 1455-1480 m., panaudojo Mikalojaus iš Jerošino eiliuotą vertimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -170,8 +169,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-89518
 - c-004
   santrauka: 'J. Dlugošas buvo susipažinęs su Mikalojaus iš Jerošino eiliuotu vertimu ir panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -186,8 +184,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89516
 ## Citatos
 
 - id: c-85464
@@ -207,7 +204,6 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89519
-
 - id: c-85465
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -227,7 +223,6 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89520
-
 - id: c-85466
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -248,7 +243,6 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89518
-
 - id: c-85467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -267,7 +261,6 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89516
-
 - id: c-85468
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

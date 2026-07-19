@@ -91,7 +91,6 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34361
-
 - id: c-167609
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

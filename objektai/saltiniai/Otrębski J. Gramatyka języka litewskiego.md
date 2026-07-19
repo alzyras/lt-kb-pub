@@ -53,7 +53,7 @@ Dusburgietis teigia, kad otrębski J.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį leidinio įrašą, todėl galima suformuluoti pilną faktinį sakinį."
   pagrindžia:
     - c-61838
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad otrębski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61206
 ## Citatos
 
 - id: c-61838

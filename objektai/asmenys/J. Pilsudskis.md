@@ -193,7 +193,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108753
-
 - id: c-100888
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -215,7 +214,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108750
-
 - id: c-100889
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -240,7 +238,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108751
-
 - id: c-100891
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -262,7 +259,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108754
-
 - id: c-100893
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -289,7 +285,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108755
-
 - id: c-166927
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

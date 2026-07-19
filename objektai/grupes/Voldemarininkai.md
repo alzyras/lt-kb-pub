@@ -178,7 +178,6 @@ Politinė grupuotė.
   pagrindzia:
     - t-45269
     - t-45270
-
 - id: c-26840
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -199,7 +198,6 @@ Politinė grupuotė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45271
-
 - id: c-48142
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -218,6 +216,5 @@ Politinė grupuotė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45272
-
 ## Ryšiai
 - Voldemarininkai rėmė [[objektai/asmenys/A. Voldemaras]]

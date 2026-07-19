@@ -70,7 +70,7 @@ Nenurodyta
   semantiniai_rysiai: "Vytenis surengė žygį į Livonija (0.91)"
   pagrindžia:
     - c-63737
-
+    - c-002
 <a id="claim-t-62886"></a>
 - t-002
   global_id: t-62886
@@ -89,7 +89,8 @@ Nenurodyta
   pagrindžia:
     - c-63736
     - c-63737
-
+    - c-001
+    - c-002
 <a id="claim-t-194411"></a>
 - t-004
   global_id: t-194411
@@ -102,7 +103,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63737
-
+    - c-002
 <a id="claim-t-196963"></a>
 - t-003
   global_id: t-196963
@@ -139,8 +140,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62886
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -161,11 +161,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-
+    - t-62885
+    - t-62886
+    - t-194411
 ## Citatos
 
 - id: c-63736
@@ -195,7 +193,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62886
-
 - id: c-63737
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -225,7 +222,6 @@ Nenurodyta
     - t-62885
     - t-62886
     - t-194411
-
 - id: c-178989
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

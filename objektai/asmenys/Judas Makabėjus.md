@@ -118,7 +118,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175239
-
 - id: c-159382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -147,7 +146,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175238
-
 - id: c-159384
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -167,7 +165,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175237
-
 - id: c-179028
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -186,6 +183,5 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197109
-
 ## Ryšiai
 - Judas Makabėjus kariavo prieš [[objektai/asmenys/Alchimas]], [[objektai/asmenys/Antiochas Eupatoras]], [[objektai/asmenys/Bachidas]]

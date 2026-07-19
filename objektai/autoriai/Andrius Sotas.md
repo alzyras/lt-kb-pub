@@ -53,7 +53,7 @@ Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia C
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174514
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia Christiana sive de introductione religionis Christiane in Prussia“.'
@@ -73,8 +73,7 @@ Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia C
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191632
 ## Citatos
 
 - id: c-174514

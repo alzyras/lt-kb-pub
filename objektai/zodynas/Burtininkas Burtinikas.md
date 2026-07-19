@@ -111,7 +111,6 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
   pagrindzia:
     - t-189286
     - t-197360
-
 - id: c-172175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

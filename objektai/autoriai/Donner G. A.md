@@ -44,7 +44,7 @@ Dusburgietis teigia, kad 140 Donner G.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61322
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Donner G. A. parašė darbą apie kardinolą Wilhelmą von Sabiną.'
@@ -57,8 +57,7 @@ Dusburgietis teigia, kad 140 Donner G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60690
 ## Citatos
 
 - id: c-61322

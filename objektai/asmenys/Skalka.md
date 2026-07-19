@@ -49,6 +49,7 @@ Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko �
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174347
+    - c-001
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-192481|Venedai]]: Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
@@ -72,8 +73,7 @@ Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191465
 ## Citatos
 
 - id: c-174347
@@ -96,6 +96,5 @@ Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191465
-
 ## Ryšiai
 - Skalka buvo valdovas [[objektai/grupes/Venedai]]

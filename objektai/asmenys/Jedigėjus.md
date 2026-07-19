@@ -85,6 +85,5 @@ Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87703
-
 ## Ryšiai
 - Jedigėjus siuntė į [[objektai/vietos/Vilnius]]

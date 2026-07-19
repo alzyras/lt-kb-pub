@@ -122,7 +122,6 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195288
-
 - id: c-177653
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -144,7 +143,6 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195290
-
 - id: c-177654
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -165,7 +163,6 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195291
-
 - id: c-177655
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

@@ -109,7 +109,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   semantiniai_rysiai: "Sembai siuntė į Baiga (0.93)"
   pagrindžia:
     - c-86158
-
+    - c-003
 <a id="claim-t-90294"></a>
 - t-005
   global_id: t-90294
@@ -126,7 +126,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86157
-
+    - c-002
 <a id="claim-t-90295"></a>
 - t-006
   global_id: t-90295
@@ -146,7 +146,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai remia faktinį teiginį apie Baigą ir apsuptus brolius."
   pagrindžia:
     - c-86165
-
+    - c-009
 <a id="claim-t-90296"></a>
 - t-007
   global_id: t-90296
@@ -239,7 +239,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turėjo neaiškų įvardį; citata remia užpuolikų įvardijimą ir pasikartojusius grobimus."
   pagrindžia:
     - c-86162
-
+    - c-006
 <a id="claim-t-90301"></a>
 - t-012
   global_id: t-90301
@@ -533,8 +533,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-90294
 - c-003
   santrauka: 'Pastačius Baigos pilį, sembai pasiuntė vieną vyresnįjį į Baigą ištirti brolių gyvenimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -555,8 +554,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-90293
 - c-006
   santrauka: '1260 m. nuo tikėjimo atsimetę varmiai, notangai ir bartai kelis kartus puolė Baigą ir grobė brolių arklius bei gyvulius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -574,8 +572,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-90300
 - c-009
   santrauka: 'Pasak kronikos, Kristus padėjo Baigoje apsuptiems broliams, paragindamas vieną prūsą išduoti saviškius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -591,8 +588,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-90295
 ## Citatos
 
 - id: c-86156
@@ -620,7 +616,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90301
-
 - id: c-86157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -649,7 +644,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90294
-
 - id: c-86158
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -674,7 +668,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90293
-
 - id: c-86160
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -690,7 +683,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90297
-
 - id: c-86161
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -713,7 +705,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   pagrindzia:
     - t-90292
     - t-194527
-
 - id: c-86162
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -738,7 +729,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90300
-
 - id: c-86163
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -766,7 +756,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   pagrindzia:
     - t-90298
     - t-90302
-
 - id: c-86164
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -788,7 +777,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   pagrindzia:
     - t-90291
     - t-194528
-
 - id: c-86165
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -809,7 +797,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90295
-
 - id: c-86166
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -843,7 +830,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90299
-
 - id: c-86167
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -864,7 +850,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90290
-
 - id: c-86168
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -883,7 +868,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90303
-
 - id: c-86169
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -906,7 +890,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90296
-
 - id: c-167529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -926,7 +909,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184144
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Otokaras II]]
 - Puolė Baigą: [[objektai/grupes/Bartai]], [[objektai/grupes/Notangai]]

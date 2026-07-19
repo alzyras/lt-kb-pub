@@ -78,9 +78,6 @@ Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė o
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-87542

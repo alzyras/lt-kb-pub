@@ -79,14 +79,12 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 
 <a id="claim-t-87490"></a>
 - t-001
-  global_id: t-87490
   teiginys: 'Prancūzų vadas Boucicaut''as per kautynes buvo pridaręs nemažai žalos apgultiesiems.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Boucicaut''o vaidmenį, bet pradinis tekstas yra nutrūkęs ir per ilgas.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]'
   semantiniai_rysiai: '[[objektai/asmenys/Boucicaut|Boucicaut]] puolė [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]'
   pagrindžia:
-    - c-001
-
+    - c-83468
 ## Citatos
 
 - id: c-83468
@@ -116,7 +114,7 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87489
-
+    - t-001
 - id: c-83469
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -133,7 +133,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   pagrindzia:
     - t-77713
     - t-77714
-
 - id: c-171764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -157,7 +156,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188875
-
 - id: c-175559
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

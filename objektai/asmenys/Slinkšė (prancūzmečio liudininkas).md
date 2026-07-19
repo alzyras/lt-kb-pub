@@ -97,7 +97,6 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195562
-
 - id: c-177980
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

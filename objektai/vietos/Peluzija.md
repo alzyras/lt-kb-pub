@@ -50,6 +50,7 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175570
+    - c-001
 - susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,8 +83,7 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192800
 ## Citatos
 
 - id: c-175570

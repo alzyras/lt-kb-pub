@@ -109,7 +109,6 @@ Norvegija šiame šaltinyje yra valstybė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195655
-
 - id: c-184442
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

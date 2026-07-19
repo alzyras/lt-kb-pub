@@ -46,7 +46,7 @@ Dusburgietis teigia, kad schmid B.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidinį, metus ir sąsiuvinį."
   pagrindžia:
     - c-61919
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'B. Schmido „Die Gründung der Marienburg“ paskelbtas „Altpreussische Forschungen“ 1929 m. antrajame sąsiuvinyje.'
@@ -60,8 +60,7 @@ Dusburgietis teigia, kad schmid B.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61287
 ## Citatos
 
 - id: c-61919

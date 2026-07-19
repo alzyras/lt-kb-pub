@@ -145,7 +145,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175298
-
+    - c-007
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Narbutas, remdamasis Nestoro išsaugotu gyvenimo paveikslu, rašo, kad krivičiai degindavo mirusiuosius ir laidotuvėse rengdavo turnyrus.'
@@ -166,8 +166,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-192508
 ## Citatos
 
 - id: c-00230
@@ -191,7 +190,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192096
-
 - id: c-00231
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -212,7 +210,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192097
-
 - id: c-05407
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -232,7 +229,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192100
-
 - id: c-14479
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -255,7 +251,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192099
-
 - id: c-14480
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -275,7 +270,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12418
-
 - id: c-174967
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -292,7 +286,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05332
-
 - id: c-175298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

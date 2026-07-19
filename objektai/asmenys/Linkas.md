@@ -57,6 +57,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Linko veiksmą ir yra tiesiogiai paremtas citata."
   pagrindžia:
     - c-61007
+    - c-001
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59910|Divanas]]: Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184373|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88524|Bartai]]: Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.
@@ -103,8 +104,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60375
 ## Citatos
 
 - id: c-61007
@@ -133,7 +133,6 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60375
-
 ## Ryšiai
 - Linkas puolė [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmo žemė]]
 - Linkas surengė žygį į [[objektai/vietos/Kulmas]]

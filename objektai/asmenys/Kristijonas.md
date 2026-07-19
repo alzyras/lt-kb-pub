@@ -194,7 +194,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-88796
-
+    - c-008
 <a id="claim-t-183554"></a>
 - t-009
   global_id: t-183554
@@ -295,7 +295,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173790
-
+    - c-013
 <a id="claim-t-190909"></a>
 - t-014
   global_id: t-190909
@@ -351,7 +351,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173794
-
+    - c-016
 <a id="claim-t-191959"></a>
 - t-017
   global_id: t-191959
@@ -372,7 +372,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174841
-
+    - c-017
 <a id="claim-t-197771"></a>
 - t-018
   global_id: t-197771
@@ -489,8 +489,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-93437
 - c-013
   santrauka: 'Narbuto nuomone, senojoje prūsų vyskupo Kristijono kronikoje galėjo būti žinių apie sieros šaltinį prie Romovės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -505,8 +504,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-190908
 - c-016
   santrauka: 'Narbutas vyskupo Kristijono žinias vertino kaip tiesos išlaikiusį liudijimą apie senąjį kraštą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -523,8 +521,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-190912
 - c-017
   santrauka: 'Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -547,8 +544,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
+    - t-191959
 ## Citatos
 
 - id: c-04161
@@ -573,7 +569,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93433
-
 - id: c-04162
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -592,7 +587,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93429
-
 - id: c-21837
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -609,7 +603,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93427
-
 - id: c-88792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -637,7 +630,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93436
-
 - id: c-88793
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -661,7 +653,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93428
-
 - id: c-88794
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -682,7 +673,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93430
-
 - id: c-88795
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -702,7 +692,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93432
-
 - id: c-88796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -726,7 +715,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93437
-
 - id: c-166947
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -745,7 +733,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183554
-
 - id: c-171457
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -763,7 +750,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188568
-
 - id: c-171458
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -788,7 +774,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188569
-
 - id: c-171459
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -813,7 +798,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188570
-
 - id: c-173790
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -835,7 +819,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190908
-
 - id: c-173791
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -862,7 +845,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190909
-
 - id: c-173792
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -885,7 +867,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190910
-
 - id: c-173794
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -907,7 +888,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   pagrindzia:
     - t-190912
     - t-197771
-
 - id: c-174841
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -935,7 +915,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191959
-
 - id: c-184355
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -966,7 +945,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201005
-
 - id: c-184356
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -989,7 +967,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201006
-
 - id: c-184357
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -1009,6 +986,5 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201007
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lubavos žemė]]

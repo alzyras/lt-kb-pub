@@ -67,7 +67,7 @@ Nenurodyta
   pagrindžia:
     - c-63447
     - c-63448
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Aukštos kilmės naujakrikščiai gaudavo žemės be prievolių, o nekilmingieji turėjo tarnauti broliams pagal Prūsijos papročius.'
@@ -88,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62695
 ## Citatos
 
 - id: c-63447
@@ -116,7 +115,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62695
-
 - id: c-63448
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

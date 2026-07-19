@@ -38,6 +38,7 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-23689
+    - c-166907
 - susijęs iš [[objektai/posakiai/„Prokrusto komunistinė lova“.md#claim-t-20866|„Prokrusto komunistinė lova“]]: Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“.
 - susijęs iš [[objektai/zodynas/socialistinis realizmas.md#claim-t-22301|socialistinis realizmas]]: Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.
 ## Citatos
@@ -62,7 +63,6 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20963
-
 - id: c-166907
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

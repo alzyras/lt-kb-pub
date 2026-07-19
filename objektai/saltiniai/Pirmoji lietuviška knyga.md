@@ -53,7 +53,7 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi klaidingą atribuciją Dusburgiečiui, o citata palaiko trumpą faktą apie Mažvydą."
   pagrindžia:
     - c-61858
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Mažvydas 1547 m. burtininkę vadina šventąja.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61226
 ## Citatos
 
 - id: c-61858

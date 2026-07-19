@@ -49,6 +49,7 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171813
+    - c-002
 - susijęs iš [[objektai/asmenys/Šventasis Steponas (Permės vyskupas).md#claim-t-190059|Šventasis Steponas (Permės vyskupas)]]: Narbutas Šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo jį su senovinės Biarmijos krikštijimu.
 - susijęs iš [[objektai/autoriai/Šventasis Steponas.md#claim-t-190464|Šventasis Steponas]]: Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apaštalą, kurio veikla esą paskatino Biarmiją priimti krikščionybę.
 - susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189431|Biarmiai]]: Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.
@@ -100,8 +101,6 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -126,8 +125,7 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188924
 - c-003
   santrauka: 'Narbutas rašė, kad išaugus rusų valstybės galiai Biarmija turėjo tapti jos provincija, bet biarmiečiai laikėsi senosios stabmeldystės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -157,8 +155,6 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-171813

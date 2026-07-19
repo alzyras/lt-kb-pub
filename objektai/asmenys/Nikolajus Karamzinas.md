@@ -49,7 +49,7 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174024
-
+    - c-001
 <a id="claim-t-191143"></a>
 - t-002
   global_id: t-191143
@@ -91,7 +91,7 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174026
-
+    - c-003
 <a id="claim-t-191145"></a>
 - t-004
   global_id: t-191145
@@ -152,8 +152,7 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191142
 - c-003
   santrauka: 'Teodoras Narbutas remiasi Karamzinu teigdamas, kad poloviečiai patys save vadino Kipczak.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -168,8 +167,7 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191144
 ## Citatos
 
 - id: c-174024
@@ -195,7 +193,6 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191142
-
 - id: c-174025
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -217,7 +214,6 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191143
-
 - id: c-174026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -239,7 +235,6 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191144
-
 - id: c-174027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -260,7 +255,6 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191145
-
 - id: c-174028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

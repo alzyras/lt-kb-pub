@@ -71,7 +71,7 @@ Ragainė ir Christmemelis išliko nepaimti.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-69736
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,8 +89,7 @@ Ragainė ir Christmemelis išliko nepaimti.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-70964
 ## Citatos
 
 - id: c-69736

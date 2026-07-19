@@ -100,7 +100,6 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86747
-
 - id: c-82727
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

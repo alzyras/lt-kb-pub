@@ -61,7 +61,7 @@ Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas �
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173288
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas „Annales, sive de origine et rebus gestis Polonorum et Lituanorum“.'
@@ -77,8 +77,7 @@ Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190405
 ## Citatos
 
 - id: c-173288

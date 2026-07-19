@@ -44,7 +44,7 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59723
-
+    - c-001
 <a id="claim-t-194466"></a>
 - t-003
   global_id: t-194466
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59723
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -75,10 +75,8 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
+    - t-59091
+    - t-194466
 ## Citatos
 
 - id: c-59723

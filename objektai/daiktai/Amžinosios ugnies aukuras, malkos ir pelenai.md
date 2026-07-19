@@ -63,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172554
-
+    - c-001
 <a id="claim-t-189672"></a>
 - t-002
   global_id: t-189672
@@ -84,7 +84,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172555
-
+    - c-002
 <a id="claim-t-189673"></a>
 - t-003
   global_id: t-189673
@@ -119,7 +119,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177008
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo.'
@@ -141,8 +141,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189671
 - c-002
   santrauka: 'Narbutas aprašo apeigą, kai užsitęsus ligai iš Amžinosios ugnies aukuro atnešti pelenai buvo naudojami ligai išginti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -163,8 +162,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189672
 - c-004
   santrauka: 'Narbutas teigia, kad dievo Perkūno šventykloje, senovės Romovėje, švento jo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku ras su Amžinąja ugnimi, kurstoma ąžuolinėmis malkomis, ku ri degė prižiūrima paties vyriausiojo žynio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -181,8 +179,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194609
 ## Citatos
 
 - id: c-172554
@@ -209,7 +206,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189671
-
 - id: c-172555
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -238,7 +234,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189672
-
 - id: c-172556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -258,7 +253,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189673
-
 - id: c-177008
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

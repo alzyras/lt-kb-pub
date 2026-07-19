@@ -120,7 +120,7 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   temporalinis_llm_pakomentavimas: "Citata sieja Ewaldo veikalą su Herkaus Manto žūties datavimu."
   pagrindžia:
     - c-61503
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti.'
@@ -134,8 +134,7 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-60876
 ## Citatos
 
 - id: c-61502
@@ -154,7 +153,6 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60872
-
 - id: c-61503
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -174,7 +172,6 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60876
-
 - id: c-61504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -189,7 +186,6 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60873
-
 - id: c-61505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

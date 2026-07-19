@@ -177,7 +177,6 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   pagrindzia:
     - t-82253
     - t-82255
-
 - id: c-78742
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -201,7 +200,6 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82257
-
 - id: c-78743
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -222,7 +220,6 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82256
-
 - id: c-78744
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -246,6 +243,5 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82254
-
 ## Ryšiai
 - Paskyrė Dobrogostą: [[objektai/asmenys/Urbonas VI]]

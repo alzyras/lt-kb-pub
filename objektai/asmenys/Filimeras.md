@@ -144,7 +144,6 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190149
-
 - id: c-173736
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -167,7 +166,6 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190854
-
 - id: c-173737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

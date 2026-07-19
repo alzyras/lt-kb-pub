@@ -49,7 +49,7 @@ Narbuto pasakojime kunigaikštis Įminas vaikystėje buvo išvestas į Lietuvai 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173106
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto pasakojime kunigaikštis Įminas vaikystėje buvo išvestas į Lietuvai draugiškų dregovičių žemę.'
@@ -66,8 +66,7 @@ Narbuto pasakojime kunigaikštis Įminas vaikystėje buvo išvestas į Lietuvai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190223
 ## Citatos
 
 - id: c-173106

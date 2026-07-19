@@ -105,7 +105,6 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58590
-
 - id: c-59223
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -50,7 +50,7 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173108
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalbertą prie Fišhauzeno užpuolusių prūsų miniai vadovavo žynys Siggo.'
@@ -71,8 +71,7 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190225
 ## Citatos
 
 - id: c-173108

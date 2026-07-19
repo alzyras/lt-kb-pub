@@ -50,6 +50,7 @@ Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175736
+    - c-002
 - susijęs iš [[objektai/ivykiai/Vilkų-liutikų jūros žygis ir įsitvirtinimas Vakaruose.md#claim-t-191055|Vilkų-liutikų jūros žygis ir įsitvirtinimas Vakaruose]]: Narbutas rašo, kad pirmaisiais mūsų eros amžiais vilkai-liutikai išsirengė į jūros žygį, pasiuntė įgulas į vakarus ir buvo atstumti nuo Lietuvos sienos.
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,8 +82,6 @@ Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas rašo, kad vilkų tauta laikyta sena slavų gentimi, mūsų eroje persikėlusia prie Oderio žemupio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -101,8 +100,7 @@ Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192966
 ## Citatos
 
 - id: c-175736

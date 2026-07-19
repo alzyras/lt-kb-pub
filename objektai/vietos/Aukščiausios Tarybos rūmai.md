@@ -94,7 +94,6 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46506
-
 - id: c-49076
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

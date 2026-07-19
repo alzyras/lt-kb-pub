@@ -73,7 +73,7 @@ Nenurodyta
   pagrindžia:
     - c-63835
     - c-63836
-
+    - c-002
 <a id="claim-t-62952"></a>
 - t-002
   global_id: t-62952
@@ -92,7 +92,7 @@ Nenurodyta
   pagrindžia:
     - c-63834
     - c-63835
-
+    - c-002
 <a id="claim-t-196977"></a>
 - t-003
   global_id: t-196977
@@ -125,9 +125,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-62951
+    - t-62952
 - c-004
   santrauka: 'Vizenburgo pilies kautynėse prūsai prie Vangrapės įveikė brolius ir nukovė dvidešimt brolių bei visą jų kariuomenę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -164,7 +163,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62952
-
 - id: c-63835
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -189,7 +187,6 @@ Nenurodyta
   pagrindzia:
     - t-62951
     - t-62952
-
 - id: c-63836
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

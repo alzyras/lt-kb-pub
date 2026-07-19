@@ -121,7 +121,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35897
-
 - id: c-38329
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

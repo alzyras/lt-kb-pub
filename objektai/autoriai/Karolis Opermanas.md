@@ -49,7 +49,7 @@ Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žini
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174532
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žinias surinko inžinierius generolas Karolis Ojpermanas.'
@@ -68,8 +68,7 @@ Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191650
 ## Citatos
 
 - id: c-174532

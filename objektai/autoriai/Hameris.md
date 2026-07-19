@@ -41,7 +41,7 @@ Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senov
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174490
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė trečios eilutės pirmą žodį.'
@@ -58,8 +58,7 @@ Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191608
 ## Citatos
 
 - id: c-174490

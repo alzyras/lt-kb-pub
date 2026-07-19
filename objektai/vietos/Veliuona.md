@@ -81,7 +81,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-164339
-
+    - c-164335
 <a id="claim-t-180738"></a>
 - t-003
   global_id: t-180738
@@ -653,7 +653,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180752
-
 - id: c-37790
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -677,7 +676,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180755
-
 - id: c-43974
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -700,7 +698,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180757
-
 - id: c-164323
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -722,8 +719,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180744
-
+    - t-180753
 - id: c-164324
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -741,7 +737,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180758
-
 - id: c-164325
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -763,7 +758,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   pagrindzia:
     - t-180740
     - t-180754
-
 - id: c-164326
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -802,7 +796,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   pagrindzia:
     - t-180738
     - t-180751
-
 - id: c-164327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -825,7 +818,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   pagrindzia:
     - t-180748
     - t-180756
-
 - id: c-164328
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -851,7 +843,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180736
-
 - id: c-164332
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -874,7 +865,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   pagrindzia:
     - t-180739
     - t-180760
-
 - id: c-164335
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -895,8 +885,7 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180737
-
+    - t-180742
 - id: c-164336
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -922,7 +911,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180746
-
 - id: c-164339
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -962,7 +950,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180759
-
 - id: c-164341
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -994,7 +981,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   pagrindzia:
     - t-180743
     - t-194261
-
 - id: c-164343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1014,7 +1000,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180741
-
 - id: c-164345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1036,7 +1021,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180747
-
 - id: c-168533
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1073,7 +1057,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185172
-
 - id: c-177154
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1095,7 +1078,6 @@ Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194758
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Veliuoną: [[objektai/asmenys/Ditrichas fon Altenburgas]], [[objektai/grupes/Kryžiuočių ordinas]]

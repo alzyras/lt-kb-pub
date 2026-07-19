@@ -68,7 +68,7 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174928
-
+    - c-002
 <a id="claim-t-192057"></a>
 - t-002
   global_id: t-192057
@@ -111,8 +111,7 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192056
 ## Citatos
 
 - id: c-174927
@@ -135,7 +134,6 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192057
-
 - id: c-174928
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

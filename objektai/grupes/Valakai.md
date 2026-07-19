@@ -96,8 +96,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -109,8 +107,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-88325
@@ -132,7 +128,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92846
-
 - id: c-88326
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

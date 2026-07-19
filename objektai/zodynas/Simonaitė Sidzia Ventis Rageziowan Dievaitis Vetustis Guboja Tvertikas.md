@@ -49,7 +49,7 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172139
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, kurį garbino Mikuckių giminė.'
@@ -72,8 +72,7 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189251
 - c-002
   santrauka: 'Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -93,8 +92,6 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172139

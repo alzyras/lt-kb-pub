@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Santyro perkėlimą ir pervadinimą."
   pagrindžia:
     - c-63114
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventos Marijos pilimi.'
@@ -89,8 +89,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62465
 ## Citatos
 
 - id: c-63114

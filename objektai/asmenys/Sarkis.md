@@ -62,7 +62,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60697
-
+    - c-002
 <a id="claim-t-60066"></a>
 - t-003
   global_id: t-60066
@@ -97,8 +97,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60065
 ## Citatos
 
 - id: c-60696
@@ -122,7 +121,6 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60064
-
 - id: c-60697
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -143,7 +141,6 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60065
-
 - id: c-60698
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -99,7 +99,6 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88327
-
 - id: c-84306
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

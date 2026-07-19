@@ -67,8 +67,7 @@ Nenurodyta
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas subjektas ir sutarties kontekstas su Olbrachtu. Vertinamasis kronikos vaizdavimas paliktas su atribucija, o džiaugsmo ir gėdos motyvai neplėtoti.'
   pagrindžia:
-    - c-176688
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po sutarties su karaliumi Olbrachtu Moldavijos vaivada Steponas, Lietuvos metraščio vaizdavimu, nepaisė priesaikos ir amžinosios taikos sutarties ir telkė sąjungininkų kariuomenę.'
@@ -101,8 +100,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194075
 ## Citatos
 
 - id: c-178916

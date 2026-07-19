@@ -1017,7 +1017,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179652
-
 - id: c-30281
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1037,7 +1036,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179663
-
 - id: c-36502
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1054,7 +1052,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179671
-
 - id: c-36503
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1074,7 +1071,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179668
-
 - id: c-36504
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1093,7 +1089,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179674
-
 - id: c-163314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1124,7 +1119,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   pagrindzia:
     - t-179642
     - t-179667
-
 - id: c-163315
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1151,7 +1145,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   pagrindzia:
     - t-179650
     - t-179675
-
 - id: c-163316
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1179,7 +1172,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   pagrindzia:
     - t-179656
     - t-179669
-
 - id: c-163318
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1204,7 +1196,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179676
-
 - id: c-163320
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1229,7 +1220,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179678
-
 - id: c-163321
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1250,7 +1240,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   pagrindzia:
     - t-179672
     - t-179673
-
 - id: c-163322
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1272,7 +1261,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179660
-
 - id: c-163324
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1299,8 +1287,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179665
-
+    - t-179680
 - id: c-163325
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1326,7 +1313,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179659
-
 - id: c-163327
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1356,7 +1342,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   pagrindzia:
     - t-179645
     - t-179649
-
 - id: c-163328
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1381,7 +1366,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   pagrindzia:
     - t-179654
     - t-179666
-
 - id: c-163333
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1405,7 +1389,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   pagrindzia:
     - t-179641
     - t-179662
-
 - id: c-163335
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1425,7 +1408,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179647
-
 - id: c-163336
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1445,7 +1427,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179658
-
 - id: c-163337
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1472,7 +1453,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179664
-
 - id: c-163338
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1502,7 +1482,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179677
-
 - id: c-163339
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1523,7 +1502,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179670
-
 - id: c-163340
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1551,7 +1529,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179644
-
 - id: c-163341
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1572,7 +1549,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179643
-
 - id: c-163342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1591,7 +1567,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179657
-
 - id: c-163343
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1613,7 +1588,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179655
-
 - id: c-163344
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1635,7 +1609,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179661
-
 - id: c-163346
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1659,7 +1632,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179646
-
 - id: c-167746
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1677,7 +1649,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184377
-
 - id: c-171506
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1698,7 +1669,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188617
-
 - id: c-173853
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1734,7 +1704,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190971
-
 - id: c-176604
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1757,7 +1726,6 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193979
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vladislovas Jogaila]]
 - Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

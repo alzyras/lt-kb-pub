@@ -61,6 +61,7 @@ Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174262
+    - c-001
 - susijęs iš [[objektai/asmenys/Ketleris.md#claim-t-191432|Ketleris]]: Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadinamas Ketleris 1605 m. rugsėjo 27 d. atvyko pagelbėti Chodkevičiui.
 - susijęs iš [[objektai/asmenys/Ketleris.md#claim-t-191432|Ketleris]]: Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadinamas Ketleris 1605 m. rugsėjo 27 d. atvyko pagelbėti Chodkevičiui.
 ## Reikšmingi paminėjimai
@@ -89,8 +90,7 @@ Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191380
 ## Citatos
 
 - id: c-174262

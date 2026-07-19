@@ -172,7 +172,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08491
-
 - id: c-177462
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -196,7 +195,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195081
-
 - id: c-177463
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -228,7 +226,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     - t-195080
     - t-195081
     - t-195082
-
 - id: c-177464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -249,7 +246,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195081
-
 - id: c-177465
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -276,7 +272,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195081
-
 - id: c-184404
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -303,7 +298,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201054
-
 - id: c-184405
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

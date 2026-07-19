@@ -139,6 +139,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171731
+    - c-005
 - susijęs iš Ukmergės apskritis: 1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
 - susijęs iš [[objektai/grupes/Didžiosios kovos apygarda (DKA).md#claim-t-40874|Didžiosios kovos apygarda (DKA)]]: Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.
 - susijęs iš Kaišiadorys: Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.
@@ -161,8 +162,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188842
 ## Citatos
 
 - id: c-43915
@@ -181,7 +181,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42201
-
 - id: c-45367
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -202,7 +201,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42202
-
 - id: c-171729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -222,7 +220,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188840
-
 - id: c-171730
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -245,7 +242,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188841
-
 - id: c-171731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

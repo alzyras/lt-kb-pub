@@ -102,6 +102,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   semantiniai_rysiai: "Petras Atsiskyrėlis gyveno Prancūzija (0.78)"
   pagrindžia:
     - c-85909
+    - c-167503
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.
 ## Citatos
 
@@ -127,7 +128,6 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90008
-
 - id: c-85910
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -154,7 +154,6 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90005
-
 - id: c-85911
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -181,7 +180,6 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   pagrindzia:
     - t-90006
     - t-90007
-
 - id: c-167503
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -88,7 +88,6 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191415
-
 - id: c-184346
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60649
-
+    - c-002
 <a id="claim-t-60017"></a>
 - t-002
   global_id: t-60017
@@ -82,7 +82,7 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-60648
-
+    - c-167453
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.'
@@ -106,8 +106,7 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60016
 ## Citatos
 
 - id: c-60648
@@ -131,7 +130,6 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60018
-
 - id: c-60649
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -160,7 +158,6 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60016
-
 - id: c-60650
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -181,7 +178,6 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60017
-
 - id: c-167453
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

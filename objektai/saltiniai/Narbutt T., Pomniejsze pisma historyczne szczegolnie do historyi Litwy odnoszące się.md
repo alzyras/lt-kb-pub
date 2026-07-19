@@ -57,7 +57,7 @@ T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173434
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczegolnie do historyi Litwy odnoszące się“.'
@@ -73,8 +73,7 @@ T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190551
 ## Citatos
 
 - id: c-173434

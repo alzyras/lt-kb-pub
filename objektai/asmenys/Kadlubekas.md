@@ -49,7 +49,7 @@ Teodoras Narbutas Kadlubekui priskyrė pasakojimą, kad Maslavo kariuomenėje pr
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174230
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Kadlubekui priskyrė pasakojimą, kad Maslavo kariuomenėje prieš Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų.'
@@ -70,8 +70,7 @@ Teodoras Narbutas Kadlubekui priskyrė pasakojimą, kad Maslavo kariuomenėje pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191348
 ## Citatos
 
 - id: c-174230

@@ -102,7 +102,7 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173880
-
+    - c-003
 <a id="claim-t-197841"></a>
 - t-004
   global_id: t-197841
@@ -136,8 +136,7 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190998
 ## Citatos
 
 - id: c-83865
@@ -162,7 +161,6 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87886
-
 - id: c-173879
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -189,7 +187,6 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190997
-
 - id: c-173880
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -217,7 +214,6 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190998
-
 - id: c-179358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -242,6 +238,5 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197841
-
 ## Ryšiai
 - Vladislovas Varnietis sudarė sutartį su [[objektai/asmenys/Rusdorfas]]

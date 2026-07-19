@@ -46,7 +46,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59070
-
+    - c-003
 <a id="claim-t-58437"></a>
 - t-002
   global_id: t-58437
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59069
-
+    - c-002
 <a id="claim-t-58438"></a>
 - t-003
   global_id: t-58438
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59068
-
+    - c-001
 <a id="claim-t-184155"></a>
 - t-004
   global_id: t-184155
@@ -100,6 +100,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167540
+    - c-004
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60020|Gotfridas Hohenlohė]]: 1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/ivykiai/Rygos apsiausties pralaužimas (1298 m. birželio 29 d.).md#claim-t-62913|Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)]]: 1298 m. birželio 29 d. Prūsijos ir Livonijos ordino pajėgos nukovė per 4 tūkst. Rygos miestiečių ir lietuvių.
@@ -122,8 +123,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-58438
 - c-002
   santrauka: 'Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -139,8 +139,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58437
 - c-003
   santrauka: 'Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis Kulmo žemės kaimus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -157,8 +156,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58436
 - c-004
   santrauka: 'Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis kaimus ir paėmė į nelaisvę arba nužudė daug krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -180,8 +178,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-184155
 ## Citatos
 
 - id: c-59068
@@ -206,7 +203,6 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58438
-
 - id: c-59069
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -226,7 +222,6 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58437
-
 - id: c-59070
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -247,7 +242,6 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58436
-
 - id: c-167540
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

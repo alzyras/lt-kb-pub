@@ -66,7 +66,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170443
-
+    - c-001
 <a id="claim-t-187475"></a>
 - t-002
   global_id: t-187475
@@ -85,7 +85,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170443
-
+    - c-001
 <a id="claim-t-187476"></a>
 - t-003
   global_id: t-187476
@@ -104,7 +104,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170443
-
+    - c-001
 <a id="claim-t-187477"></a>
 - t-004
   global_id: t-187477
@@ -124,7 +124,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170443
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -147,11 +147,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-002
-    - t-003
-    - t-001
-
+    - t-187474
+    - t-187475
+    - t-187476
+    - t-187477
 ## Citatos
 
 - id: c-170443

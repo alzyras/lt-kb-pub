@@ -50,7 +50,7 @@ Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasi
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170504
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.'
@@ -76,8 +76,7 @@ Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187554
 ## Citatos
 
 - id: c-170504

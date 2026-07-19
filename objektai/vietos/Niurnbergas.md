@@ -108,7 +108,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47037
-
 - id: c-175963
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

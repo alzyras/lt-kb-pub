@@ -72,7 +72,7 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175112
-
+    - c-001
 <a id="claim-t-192299"></a>
 - t-002
   global_id: t-192299
@@ -113,8 +113,7 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192298
 ## Citatos
 
 - id: c-175112
@@ -141,7 +140,6 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192298
-
 - id: c-175113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

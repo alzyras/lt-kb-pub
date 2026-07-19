@@ -137,11 +137,6 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-002
-    - t-001
-    - t-004
-
 ## Citatos
 
 - id: c-175093

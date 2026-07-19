@@ -50,7 +50,7 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61895
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rinkinį „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ sudarė P. Pakarklis, redagavo K. Jablonskis.'
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61263
 ## Citatos
 
 - id: c-61895

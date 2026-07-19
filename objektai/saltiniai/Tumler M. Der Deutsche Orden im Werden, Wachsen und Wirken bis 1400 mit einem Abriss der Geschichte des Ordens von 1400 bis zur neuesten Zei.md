@@ -55,7 +55,7 @@ Dusburgietis teigia, kad tumler M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio pavadinimą, vietą ir metus."
   pagrindžia:
     - c-61960
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Tumlerio „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“ išleista Vienoje 1954 m.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad tumler M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61328
 ## Citatos
 
 - id: c-61960

@@ -94,7 +94,6 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59068
-
 - id: c-179020
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

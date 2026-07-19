@@ -165,7 +165,6 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   pagrindzia:
     - t-78744
     - t-78746
-
 - id: c-42398
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -183,7 +182,6 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78743
-
 - id: c-75923
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

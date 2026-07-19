@@ -49,7 +49,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-91695
-
+    - c-002
 <a id="claim-t-97211"></a>
 - t-002
   global_id: t-97211
@@ -67,7 +67,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-91699
-
+    - c-005
 <a id="claim-t-97212"></a>
 - t-003
   global_id: t-97212
@@ -129,6 +129,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   temporalinis_llm_pakomentavimas: "Citata palaiko autoriaus ryšį su Saulės mūšio aiškinimu."
   pagrindžia:
     - c-91697
+    - c-004
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78783|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m.“ autoriai.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78784|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.
 - susijęs iš GEDIMINO UŽSIENIO POLITIKA: P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
@@ -149,8 +150,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-97209
 - c-004
   santrauka: 'Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -169,8 +169,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-97214
 - c-005
   santrauka: '191—192; Batūra R., Karinė..., р.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -187,8 +186,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-97211
 ## Citatos
 
 - id: c-30822
@@ -209,7 +207,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97213
-
 - id: c-91695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -231,7 +228,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97209
-
 - id: c-91696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -258,7 +254,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97212
-
 - id: c-91697
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -288,7 +283,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97214
-
 - id: c-91699
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -189,7 +189,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00043
-
 - id: c-03994
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -207,7 +206,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64669
-
 - id: c-03996
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -227,7 +225,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64668
-
 - id: c-03998
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

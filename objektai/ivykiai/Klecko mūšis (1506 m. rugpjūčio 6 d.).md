@@ -122,8 +122,7 @@ Nenurodyta
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tinkamai atribuuoja religinį vertinimą kronikai.'
   pagrindžia:
-    - c-177395
-
+    - c-007
 <a id="claim-t-195012"></a>
 - t-004
   global_id: t-195012
@@ -131,8 +130,7 @@ Nenurodyta
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Reikia įvardyti veikėjus ir aiškiau susieti faktą su Klecko mūšiu.'
   pagrindžia:
-    - c-177395
-
+    - c-007
 <a id="claim-t-195015"></a>
 - t-007
   global_id: t-195015
@@ -140,9 +138,8 @@ Nenurodyta
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Taisytina didžioji raidė po „kad“ ir paliekama būtina metraščio atribucija.'
   pagrindžia:
+    - c-007
     - c-177394
-    - c-177395
-
 <a id="claim-t-195016"></a>
 - t-008
   global_id: t-195016
@@ -153,8 +150,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Nutrūkęs ir triukšmingas sakinys perrašytas į vieną aiškią mintį apie Mykolą Glinskį, Lietuvos kariuomenę ir veiksmą prie Cepros. Priešo žudymo vaizdinys paliktas su metraščio atribucija.'
   pagrindžia:
     - c-177392
-    - c-177395
-
+    - c-007
 <a id="claim-t-195018"></a>
 - t-010
   global_id: t-195018
@@ -162,8 +158,7 @@ Nenurodyta
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Reikia konkretesnio, citata paremto sakinio ir aiškaus objekto.'
   pagrindžia:
-    - c-177395
-
+    - c-007
 ## Reikšmingi paminėjimai
 - c-006
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -191,8 +186,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
 - c-007
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -217,11 +210,11 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-    - t-003
-    - t-007
-    - t-008
-
+    - t-195010
+    - t-195012
+    - t-195015
+    - t-195016
+    - t-195018
 ## Citatos
 
 - id: c-11860
@@ -240,7 +233,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10226
-
 - id: c-43056
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -267,8 +259,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-195013
-
+    - t-195014
 - id: c-43057
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -299,7 +290,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10230
-
 - id: c-177392
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -327,7 +317,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195017
-
+    - t-195016
 - id: c-177393
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -356,6 +346,30 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195017
-
+- id: c-177394
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tą pačią dieną, antradienį didikai su savo ka­
+    riuomene nakvojo kaime prie Lipos l9 , nepriėję Male-
+    vo 2 0 , o rytojaus dieną, trečiadienį, rugpjūčio mėnesio
+    šeštąją, mūsų viešpaties Jėzaus Kristaus persimainymo
+    dieną, anksti atsikėlę ir, kaip pridera prieš mūšį. su­
+    tvarkę būrius, nuėjo tiesiai į Klecką. Etmonas ponas
+    Stanislovas Petravičius Kiška tuo melu sunkiai susirgo
+    ir visai nebegalėjo išsilaikyti balne, bet dėl didelio svar­
+    bumo įsakė vežioti jį su vežimu.
+    Ir didikai, matydami, kad etmonas labai serga ir kad
+    be jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­
+    vedė tą sykį etmono pareigas kunigaikščiui Mykolui
+    Glinskiui ir teikėsi būti visi jam paklusnūs.
+  citata_rodoma: "Tą pačią dieną, antradienį didikai su savo ka­\nriuomene nakvojo kaime prie Lipos l9 , nepriėję Male- \nvo 2 0 , o rytojaus dieną, trečiadienį, rugpjūčio mėnesio \nšeštąją, mūsų viešpaties Jėzaus Kristaus persimainymo \ndieną, anksti atsikėlę ir, kaip pridera prieš mūšį. su­\ntvarkę būrius, nuėjo tiesiai į Klecką. Etmonas ponas \nStanislovas Petravičius Kiška tuo melu sunkiai susirgo \nir visai nebegalėjo išsilaikyti balne, bet dėl didelio svar­\nbumo įsakė vežioti jį su vežimu.\nIr didikai, matydami, kad etmonas labai serga ir kad \nbe jo kariuomenėje nebus jokios tvarkos, nutarė ir pa­\nvedė tą sykį etmono pareigas kunigaikščiui Mykolui \nGlinskiui ir teikėsi būti visi jam paklusnūs."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195015
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Totoriai]]

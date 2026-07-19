@@ -177,7 +177,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63849
-
 - id: c-04160
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -199,7 +198,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63842
-
 - id: c-64767
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -221,7 +219,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63844
-
 - id: c-64769
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -241,7 +238,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63840
-
 - id: c-64773
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -262,7 +258,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63843
-
 - id: c-177311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -290,7 +285,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194915
-
 - id: c-177312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

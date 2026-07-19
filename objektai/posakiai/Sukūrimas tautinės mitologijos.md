@@ -61,7 +61,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171029
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Posakis „Sukūrimas tautinės mitologijos“ cituojamas kaip bendro patriotinio reikalo grandis, kai mitologija laikyta tautinės kultūros dalimi.'
@@ -79,8 +79,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189599
 ## Citatos
 
 - id: c-171029

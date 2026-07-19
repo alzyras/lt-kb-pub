@@ -78,6 +78,5 @@ Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191379
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Borėjas]]

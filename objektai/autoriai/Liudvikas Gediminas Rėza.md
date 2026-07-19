@@ -41,7 +41,7 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173182
-
+    - c-001
 <a id="claim-t-197318"></a>
 - t-002
   global_id: t-197318
@@ -71,8 +71,7 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190299
 ## Citatos
 
 - id: c-173182
@@ -98,7 +97,6 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190299
-
 - id: c-179127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

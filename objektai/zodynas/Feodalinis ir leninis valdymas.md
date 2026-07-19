@@ -126,7 +126,6 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86458
-
 - id: c-82436
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,7 +158,6 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86456
-
 - id: c-82437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

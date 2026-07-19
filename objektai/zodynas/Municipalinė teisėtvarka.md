@@ -122,7 +122,6 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54792
-
 - id: c-55791
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -147,7 +146,6 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54793
-
 - id: c-55792
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

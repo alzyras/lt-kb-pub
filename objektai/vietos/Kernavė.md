@@ -468,7 +468,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173446
-
 - id: c-157744
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -496,7 +495,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   pagrindzia:
     - t-173445
     - t-173453
-
 - id: c-157747
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -516,7 +514,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173452
-
 - id: c-157748
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -556,7 +553,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173454
-
 - id: c-157750
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -575,7 +571,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173447
-
 - id: c-157751
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -596,7 +591,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173444
-
 - id: c-157754
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -618,7 +612,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173449
-
 - id: c-157755
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -641,7 +634,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173455
-
 - id: c-168343
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -672,7 +664,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184982
-
 - id: c-168345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -703,7 +694,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184984
-
 - id: c-171609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -731,7 +721,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188720
-
 - id: c-171610
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -755,7 +744,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188721
-
 - id: c-171611
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -776,7 +764,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188722
-
 - id: c-171612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -797,7 +784,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188723
-
 - id: c-178845
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -829,7 +815,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196692
-
 - id: c-178846
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -869,7 +854,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196693
-
 - id: c-184414
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -889,7 +873,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201064
-
 - id: c-184415
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -911,6 +894,5 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201065
-
 ## Ryšiai
 - Užėmė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]]

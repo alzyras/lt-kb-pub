@@ -235,7 +235,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12411
-
 - id: c-14184
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -261,7 +260,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12412
-
 - id: c-14185
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -282,7 +280,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12413
-
 - id: c-66972
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -302,7 +299,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66871
-
 - id: c-66973
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -324,7 +320,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66868
-
 - id: c-66974
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -344,7 +339,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66870
-
 - id: c-66975
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -57,7 +57,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172849
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas spėja, kad mirusiųjų atminimo apeigos baigdavosi vaišių liekanas atiduodant pavargėliams arba paliekant ant kapų.'
@@ -82,8 +82,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189966
 ## Citatos
 
 - id: c-172849

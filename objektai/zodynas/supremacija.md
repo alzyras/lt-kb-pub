@@ -45,7 +45,7 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37957
-
+    - c-167633
 <a id="claim-t-36839"></a>
 - t-002
   global_id: t-36839
@@ -85,7 +85,6 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36838
-
 - id: c-38763
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -109,7 +108,6 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36839
-
 - id: c-167633
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

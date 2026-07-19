@@ -114,7 +114,6 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28544
-
 - id: c-28449
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -132,7 +131,6 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28545
-
 - id: c-28450
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -50,7 +50,7 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174294
-
+    - c-001
 <a id="claim-t-197742"></a>
 - t-002
   global_id: t-197742
@@ -88,8 +88,7 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191412
 ## Citatos
 
 - id: c-174294
@@ -117,7 +116,6 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191412
-
 - id: c-179321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -137,6 +135,5 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197742
-
 ## Ryšiai
 - Rėmė Helgę: [[objektai/asmenys/Jarmerikas]]

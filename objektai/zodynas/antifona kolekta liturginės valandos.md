@@ -54,7 +54,7 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
   temporalinis_llm_pakomentavimas: "Citata pagrindžia liturginį nurodymą, o pradinis teiginys nutrūkęs."
   pagrindžia:
     - c-59524
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1309 m. magistras Zigfridas nurodė broliams vienuoliams po liturginių valandų giedoti antifoną ir kolektą.'
@@ -75,8 +75,7 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58892
 ## Citatos
 
 - id: c-59524

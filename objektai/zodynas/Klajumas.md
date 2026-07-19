@@ -76,7 +76,6 @@ Papildomos aiškios formos neišskirtos.
   pagrindzia:
     - t-07677
     - t-07678
-
 - id: c-09609
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

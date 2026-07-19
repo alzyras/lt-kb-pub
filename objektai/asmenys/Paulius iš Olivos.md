@@ -92,7 +92,6 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87818
-
 ## Ryšiai
 - Paulius iš Olivos gynė [[objektai/grupes/Kryžiuočių ordinas]]
 - Paulius iš Olivos rėmė [[objektai/grupes/Kryžiuočių ordinas]]

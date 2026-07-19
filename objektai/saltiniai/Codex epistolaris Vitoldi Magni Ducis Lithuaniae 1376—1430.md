@@ -56,7 +56,7 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
   temporalinis_llm_pakomentavimas: "Citata palaiko leidinio laikotarpį ir leidimo duomenis."
   pagrindžia:
     - c-61692
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Codex epistolaris Vitoldi Magni Ducis Lithuaniae apima 1376–1430 m. laiškus ir buvo išleistas Krokuvoje 1882 m.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad codex epistolaris Vitoldi Magni Ducis Lithuaniae: 1376�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61060
 ## Citatos
 
 - id: c-61692

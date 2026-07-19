@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   semantiniai_rysiai: "Girdila keliavo į Aukaimis (0.88)"
   pagrindžia:
     - c-60755
-
+    - c-001
 <a id="claim-t-60124"></a>
 - t-002
   global_id: t-60124
@@ -73,6 +73,7 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo apkrautas antrašte ir boilerplate."
   pagrindžia:
     - c-60755
+    - c-001
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184828|Skomantas]]: Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis.md#claim-t-183921|Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis (pilis, XIII a.)]]: 1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.
 - susijęs iš [[objektai/ivykiai/Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis.md#claim-t-62269|Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis (pilis, XIII a.)]]: 1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.
@@ -93,9 +94,8 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-60123
+    - t-60124
 ## Citatos
 
 - id: c-60755
@@ -125,6 +125,5 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   pagrindzia:
     - t-60123
     - t-60124
-
 ## Ryšiai
 - Girdila keliavo į [[objektai/vietos/Aukaimis]]

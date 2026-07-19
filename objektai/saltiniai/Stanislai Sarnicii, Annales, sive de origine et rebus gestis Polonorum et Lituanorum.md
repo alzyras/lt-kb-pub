@@ -59,7 +59,7 @@ Stanislovo Sarnickio veikalas „Annales, sive de origine et rebus gestis Polono
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173444
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Stanislovo Sarnickio veikalas „Annales, sive de origine et rebus gestis Polonorum et Lituanorum“ 1587 m. išleistas Krokuvoje.'
@@ -75,8 +75,7 @@ Stanislovo Sarnickio veikalas „Annales, sive de origine et rebus gestis Polono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190561
 ## Citatos
 
 - id: c-173444

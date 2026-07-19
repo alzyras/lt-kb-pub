@@ -49,6 +49,7 @@ Narbutas tikybinį sugedimą aiškino kaip kylantį iš pačių religijos sargų
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172477
+    - c-001
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188253|Lietuviai]]: Narbutas manė, kad lietuviai į daugiadievystę ėjo tuo pačiu keliu kaip helenai, nes juos siejo kilmė ir panaši religija.
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,8 +70,7 @@ Narbutas tikybinį sugedimą aiškino kaip kylantį iš pačių religijos sargų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189591
 ## Citatos
 
 - id: c-172477

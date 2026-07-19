@@ -156,7 +156,7 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173681
-
+    - c-006
 <a id="claim-t-190800"></a>
 - t-007
   global_id: t-190800
@@ -177,7 +177,7 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173682
-
+    - c-007
 <a id="claim-t-197644"></a>
 - t-008
   global_id: t-197644
@@ -212,8 +212,7 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190799
 - c-007
   santrauka: 'Teodoras Narbutas nurodo, kad Tacitas jazigus laikė karinga gentimi, turėjusia rinktinę raitąją kariuomenę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -231,8 +230,7 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-190800
 ## Citatos
 
 - id: c-64410
@@ -254,7 +252,6 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63355
-
 - id: c-64411
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -274,7 +271,6 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63356
-
 - id: c-173678
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -298,7 +294,6 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190796
-
 - id: c-173679
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -321,7 +316,6 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190797
-
 - id: c-173680
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -342,7 +336,6 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190798
-
 - id: c-173681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -371,7 +364,6 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190799
-
 - id: c-173682
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -397,7 +389,6 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190800
-
 - id: c-179277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -57,7 +57,7 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-57641
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius.'
@@ -84,8 +84,7 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-56938
 ## Citatos
 
 - id: c-57641

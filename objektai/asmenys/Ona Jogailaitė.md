@@ -247,7 +247,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   pagrindzia:
     - t-54979
     - t-54980
-
 - id: c-55525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -301,7 +300,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54981
-
 - id: c-55526
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -324,7 +322,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54982
-
 - id: c-55527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -371,7 +368,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54983
-
 - id: c-55528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -396,7 +392,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54984
-
 - id: c-55530
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -428,7 +423,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54986
-
 - id: c-79102
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

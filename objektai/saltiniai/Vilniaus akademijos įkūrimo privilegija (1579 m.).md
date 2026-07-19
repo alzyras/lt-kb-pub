@@ -68,7 +68,6 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67569
-
 - id: c-67425
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

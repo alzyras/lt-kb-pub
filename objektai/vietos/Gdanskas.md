@@ -182,7 +182,6 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114281
-
 - id: c-24130
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -201,7 +200,6 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114285
-
 - id: c-105403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,8 +232,7 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114280
-
+    - t-114282
 - id: c-105404
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -252,7 +249,6 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114284
-
 - id: c-105407
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -275,7 +271,6 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114283
-
 - id: c-166983
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -298,6 +293,5 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183591
-
 ## Ryšiai
 - Prekiavo su: [[objektai/vietos/Vilnius]]

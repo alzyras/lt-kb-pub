@@ -73,6 +73,5 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39502
-
 ## Ryšiai
 - Chadžibėjus kariavo prieš [[objektai/grupes/Lietuvos kariuomenė]]

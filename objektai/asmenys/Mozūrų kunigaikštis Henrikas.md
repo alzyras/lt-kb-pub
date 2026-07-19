@@ -76,6 +76,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34819
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Ringailė]]

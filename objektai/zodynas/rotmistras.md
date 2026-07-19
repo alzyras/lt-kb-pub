@@ -65,7 +65,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44217
-
+    - c-44219
 <a id="claim-t-70312"></a>
 - t-002
   global_id: t-70312
@@ -132,7 +132,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   pagrindzia:
     - t-70312
     - t-70314
-
 - id: c-44217
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -151,7 +150,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70311
-
 - id: c-44219
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

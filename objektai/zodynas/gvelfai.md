@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
   temporalinis_llm_pakomentavimas: "Reikia suvienodinti rašybą su citata ir palikti aiškų faktą."
   pagrindžia:
     - c-59536
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gveltas rėmė bažnyčią, o Gibelinas - imperatorių.'
@@ -71,8 +71,7 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58904
 ## Citatos
 
 - id: c-59536

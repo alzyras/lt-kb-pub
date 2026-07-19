@@ -80,7 +80,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   semantiniai_rysiai: "Gediminas buvo valdovas Lietuva (0.90)"
   pagrindžia:
     - c-25142
-
+    - c-181407
 <a id="claim-t-108283"></a>
 - t-005
   global_id: t-108283
@@ -100,7 +100,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   temporalinis_llm_pakomentavimas: "Pašalintas šaltinio boilerplate ir suformuluotas pilnas faktinis sakinys."
   pagrindžia:
     - c-100496
-
+    - c-181408
 <a id="claim-t-108284"></a>
 - t-006
   global_id: t-108284
@@ -571,8 +571,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginys: '1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir tiksliai atitinka citatą.'
   pagrindžia:
-    - c-34229
-
+    - c-007
 <a id="claim-t-108279"></a>
 - t-003
   global_id: t-108279
@@ -580,24 +579,21 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Pirminis fragmentas silpnai siejosi su objektu, bet citata remia aiškų faktą.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
-    - c-181388
-
+    - c-020
 <a id="claim-t-108286"></a>
 - t-009
   global_id: t-108286
   teiginys: 'Karalius atėmė iš pranciškonų jurisdikciją mieste ir priemiesčiuose turėtiems valdiniams.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Vilnius'
   pagrindžia:
-    - c-181386
-
+    - c-034
 <a id="claim-t-108287"></a>
 - t-010
   global_id: t-108287
   teiginys: 'Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.'
   susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Saksonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
-    - c-181392
-
+    - c-023
 <a id="claim-t-108290"></a>
 - t-013
   global_id: t-108290
@@ -605,16 +601,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta neenciklopedinė formuluotė.'
   susije_objektai: 'mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Strėva'
   pagrindžia:
-    - c-34234
-
+    - c-005
 <a id="claim-t-108292"></a>
 - t-015
   global_id: t-108292
   teiginys: 'Gediminas Saksų pranciškonų prašė atsiųsti į Lietuvą vienuolių ir minėjo savo statytas katalikų bažnyčias Vilniuje bei Naugarduke.'
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilnius'
   pagrindžia:
-    - c-34236
-
+    - c-004
 <a id="claim-t-108294"></a>
 - t-017
   global_id: t-108294
@@ -622,8 +616,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Pradinis teiginys labiau apie katalikų skaičių, o ne apie Pranciškonų ordiną.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-181414
-
+    - c-002
 <a id="claim-t-108296"></a>
 - t-019
   global_id: t-108296
@@ -631,8 +624,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas glaustas faktas.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
-    - c-181388
-
+    - c-020
 <a id="claim-t-108298"></a>
 - t-021
   global_id: t-108298
@@ -640,8 +632,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos informaciją apie pranciškonus.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
-    - c-181404
-
+    - c-025
 <a id="claim-t-108301"></a>
 - t-024
   global_id: t-108301
@@ -652,16 +643,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą dekretą ir jo padarinį.'
   pagrindžia:
-    - c-181401
-
+    - c-038
 <a id="claim-t-108307"></a>
 - t-029
   global_id: t-108307
   teiginys: 'Pranciškonai toliau veikė sostinėje ir joje turėjo savo vienuolyną.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-181414
-
+    - c-002
 <a id="claim-t-108309"></a>
 - t-031
   global_id: t-108309
@@ -669,8 +658,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Pašalintas dokumento antraštės triukšmas ir paliktas faktas.'
   susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Saksonija'
   pagrindžia:
-    - c-181392
-
+    - c-023
 <a id="claim-t-108317"></a>
 - t-037
   global_id: t-108317
@@ -678,32 +666,28 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Teiginys aiškus ir paremtas citata apie Andriaus iš Vasilevo paskyrimą.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Vasilevas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
-    - c-181405
-
+    - c-032
 <a id="claim-t-108318"></a>
 - t-038
   global_id: t-108318
   teiginys: 'Lietuvoje apaštalavę pranciškonai dėl uolaus žmonių atvertimo į tikėjimą patirdavo skaudžių kančių.'
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
-    - c-181397
-
+    - c-024
 <a id="claim-t-108320"></a>
 - t-040
   global_id: t-108320
   teiginys: 'Iš Gedimino laikais nubaustų dviejų pranciškonų fakto XVI a. rusų ir lenkų šaltiniuose sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija'
   pagrindžia:
-    - c-181414
-
+    - c-002
 <a id="claim-t-108322"></a>
 - t-042
   global_id: t-108322
   teiginys: 'XVI a. rusų ir lenkų šaltiniuose iš dviejų Gedimino laikais nubaustų pranciškonų fakto sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.'
   susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
-    - c-34237
-
+    - c-009
 <a id="claim-t-108323"></a>
 - t-043
   global_id: t-108323
@@ -714,8 +698,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia įvardyti Gediminą ir datą, kurią citata palaiko.'
   pagrindžia:
-    - c-34235
-
+    - c-003
 <a id="claim-t-108324"></a>
 - t-044
   global_id: t-108324
@@ -723,16 +706,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo asmenį, pareigas ir priklausymą ordinui.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vasilevas; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-181405
-
+    - c-032
 <a id="claim-t-108329"></a>
 - t-049
   global_id: t-108329
   teiginys: 'Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
-    - c-181402
-
+    - c-001
 <a id="claim-t-187742"></a>
 - t-051
   global_id: t-187742
@@ -743,8 +724,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Pasakojimas paliktas su metraščio atribucija, nes šalia esantis komentaras jį sieja su legenda. Nepridėtas teiginys apie Romos tikėjimo atnešimą į Lietuvą.'
   susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tverė; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
-    - c-181411
-
+    - c-170681
 <a id="claim-t-199023"></a>
 - t-055
   global_id: t-199023
@@ -755,8 +735,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   sudarymo_pagrindimas: 'Religinio konflikto ir priešiško vaizdavimo pasakojimą reikia priskirti šaltiniui.'
   susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius; llm_object: Maskva'
   pagrindžia:
-    - c-181412
-
+    - c-170682
 <a id="claim-t-199064"></a>
 - t-096
   global_id: t-199064
@@ -771,7 +750,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Vilniaus pranciškonų kilmę ir vienuolyno vietą. Legenda apie Petrą Goštautą neįtraukta, nes ji nėra šio teiginio pagrindas.'
   pagrindžia:
-    - c-181411
+    - c-042
 - susijęs iš [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas.md#claim-t-86508|Romos tikėjimas graikų apeigų tikėjimas]]: Romos tikėjimo skelbėjais vadinti Vilniaus pranciškonai, kuriuos 1341 m. užpuolė sukurstyti pagonys.
 - susijęs iš [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas.md#claim-t-86572|Stabmeldystė pagoniškas tikėjimas]]: Balińskis Vilniaus pranciškonų žudynes vaizdavo kaip bevaises stabmeldystės pastangas prieš Romos tikėjimo skelbėjus.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173207|Petras Goštautas]]: Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje.
@@ -962,8 +941,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-090
-
+    - t-108329
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -981,11 +959,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-063
-    - t-029
-    - t-017
-    - t-022
-
+    - t-108294
+    - t-108307
+    - t-108320
 - c-003
   santrauka: '1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1003,8 +979,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043
-
+    - t-108323
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1021,8 +996,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-108292
 - c-005
   santrauka: 'Kryžiuočiai Strėvos laimėjimui atminti pastatė pranciškonų vienuolynus Karaliaučiuje ir Vėluvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1039,8 +1013,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-100
-
+    - t-108290
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1055,9 +1028,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-034
-
+    - t-108280
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1075,8 +1046,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042
-
+    - t-108322
 - c-020
   santrauka: 'Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1103,9 +1073,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-075
-    - t-003
-
+    - t-108279
+    - t-108296
 - c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1132,9 +1101,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062
-    - t-031
-
+    - t-108287
+    - t-108309
 - c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1155,8 +1123,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-083
-
+    - t-108318
 - c-025
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1174,8 +1141,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-074
-
+    - t-108298
 - c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1198,9 +1164,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056
-    - t-044
-
+    - t-108317
+    - t-108324
 - c-034
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1231,8 +1196,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-108286
 - c-038
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1258,8 +1222,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-064
-
+    - t-108301
 - c-042
   santrauka: 'Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1277,8 +1240,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-096
-
+    - t-199064
 - c-043
   santrauka: 'Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1304,8 +1266,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-082
-
 - c-044
   santrauka: 'Lietuvos metraštis pasakoja, kad Algirdui žygiuojant prieš Maskvą Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1337,8 +1297,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055
-
 ## Citatos
 
 - id: c-25142
@@ -1358,7 +1316,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108282
-
 - id: c-100492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1388,7 +1345,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108308
-
 - id: c-100496
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1409,7 +1365,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108283
-
 - id: c-100500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1434,7 +1389,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-108281
     - t-108300
-
 - id: c-100502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1461,7 +1415,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-108289
     - t-108327
-
 - id: c-100503
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1500,7 +1453,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-108316
     - t-108328
-
 - id: c-100507
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1521,7 +1473,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108321
-
 - id: c-100508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1543,7 +1494,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-108284
     - t-108319
-
 - id: c-100509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1567,7 +1517,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108306
-
 - id: c-100511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1586,7 +1535,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108325
-
 - id: c-100517
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1609,7 +1557,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108326
-
 - id: c-100518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1634,7 +1581,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108295
-
 - id: c-100519
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1679,7 +1625,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-108297
     - t-108311
-
 - id: c-100521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1703,7 +1648,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108305
-
 - id: c-100527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1734,7 +1678,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108293
-
 - id: c-167938
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1759,7 +1702,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-184577
     - t-196115
-
 - id: c-181385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1803,7 +1745,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199055
-
 - id: c-181390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1843,7 +1784,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199036
-
 - id: c-181394
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1886,7 +1826,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199066
-
 - id: c-181398
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2068,7 +2007,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199022
-
 - id: c-181410
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2124,7 +2062,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199041
-
 - id: c-181416
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2163,7 +2100,50 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-199025
     - t-199046
-
+- id: c-170681
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Neilgai trukus, didysis kunigaikštis Algirdas davė
+    Petrui Goštautui Vilnių. Būdamas Vilniaus vaivada \
+    didžiajam kunigaikščiui Algirdui leidus, jis pirmą kar­
+    tą parsikvietė iš Lenkijos 14 vienuolių pranciškonų5 ,
+    ir savo rūmuose Vilniuje, kur dabar yra Vilniaus vys­
+    kupo rūmai6 , įsteigė dievo motinos vienuolyną, o sau
+    rūmus pasistatė Smėlynėje7 , priešais Vingrius8 , kur
+    dabar dievo motinos vienuolynas9 . Tasai Petras Goš­
+    tautas pirmas priėmė Romos tikėjimą ir parnešė jį
+    j Lietuvą l0 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187742
+- id: c-170682
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
+    VILNIUJE
+    Tuo melu kai didysis kunigaikštis Algirdas žy­
+    giavo prieš Maskvą, o su juo buvo jo vaivada Petras
+    Goštautas, susirinko Vilniaus miesliečiai pagonys ir di­
+    deliu būriu atėjo prie vienuolyno; nenorėdami, kad
+    būtų Romos tikėjimo krikščionių, vienuolyną sudegino
+    ir septynis vienuolius sukapojo, o kitus septynis vie­
+    nuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­
+    kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
+    kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
+    kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199023
 ## Ryšiai
 - Puolė Pranciškonų ordiną: [[objektai/grupes/Vilniaus prastuomenė]]
 - Pranciškonų ordinas keliavo į [[objektai/vietos/Vilnius]]

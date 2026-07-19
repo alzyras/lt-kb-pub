@@ -84,7 +84,6 @@ Dusburgietis teigia, kad kubicka W.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60733
-
 - id: c-176938
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -121,7 +121,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01934
-
 - id: c-02173
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -140,7 +139,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01937
-
 - id: c-02174
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

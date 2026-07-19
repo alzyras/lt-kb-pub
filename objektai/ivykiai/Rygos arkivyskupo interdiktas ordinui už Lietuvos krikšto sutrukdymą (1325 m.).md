@@ -91,7 +91,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pakeista šnekamesnė formuluotė ir sutvarkyta vietovardžio rašyba."
   pagrindžia:
     - c-04995
-
+    - c-04996
 <a id="claim-t-97035"></a>
 - t-003
   global_id: t-97035
@@ -155,7 +155,6 @@ Nenurodyta
   pagrindzia:
     - t-97034
     - t-97035
-
 - id: c-04996
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -176,7 +175,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97033
-
+    - t-97034
 - id: c-91584
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

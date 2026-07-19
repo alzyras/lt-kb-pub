@@ -84,7 +84,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170350
-
+    - c-001
 <a id="claim-t-187320"></a>
 - t-004
   global_id: t-187320
@@ -120,7 +120,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170350
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -146,11 +146,8 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-    - t-003
-    - t-006
-    - t-004
-
+    - t-187318
+    - t-187322
 ## Citatos
 
 - id: c-170350
@@ -190,8 +187,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187318
-    - t-187321
-
+    - t-187322
 - id: c-170351
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -213,7 +209,6 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187317
-
 - id: c-170352
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -232,7 +227,6 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187320
-
 - id: c-170353
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

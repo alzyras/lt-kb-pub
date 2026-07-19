@@ -66,5 +66,5 @@ Jurgis Abramovičius tuo metu buvo Vilniuje kartu su Antanu Davainiu Solohubu, B
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-200513
+    - t-200514

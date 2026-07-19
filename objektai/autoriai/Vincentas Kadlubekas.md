@@ -77,7 +77,7 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173699
-
+    - c-002
 <a id="claim-t-190818"></a>
 - t-003
   global_id: t-190818
@@ -98,7 +98,7 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173700
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto cituotas Vincentas Kadlubekas aprašė Maslavo karą su Lenkijos karaliumi Kazimieru, kurio kariuomenėje kovojo jotvingiai, mozūrai ir prūsai.'
@@ -119,8 +119,7 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190817
 - c-003
   santrauka: 'Išnašoje teigiama, kad Teodoras Narbutas tikriausiai naudojo lotynišką Vincento Kadlubeko kronikos variantą ir jos vertimą į lenkų kalbą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -140,8 +139,7 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190818
 ## Citatos
 
 - id: c-173227
@@ -162,7 +160,6 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190344
-
 - id: c-173699
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -188,7 +185,6 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190817
-
 - id: c-173700
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

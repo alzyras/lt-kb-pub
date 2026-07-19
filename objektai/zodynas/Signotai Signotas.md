@@ -49,7 +49,7 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172096
-
+    - c-001
 <a id="claim-t-189209"></a>
 - t-002
   global_id: t-189209
@@ -71,7 +71,7 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172097
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvejų žuvų aukomis.'
@@ -86,8 +86,7 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189208
 - c-002
   santrauka: 'Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių būta pajūrio srityse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -107,8 +106,7 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189209
 ## Citatos
 
 - id: c-172096
@@ -130,7 +128,6 @@ Narbutas signotą (Sigonotta) įvardija kaip žynį, siejamą su pajūrio žvej�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189208
-
 - id: c-172097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

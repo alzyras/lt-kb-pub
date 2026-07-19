@@ -45,6 +45,7 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41478
+    - c-167156
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
@@ -72,7 +73,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39674
-
 - id: c-167156
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

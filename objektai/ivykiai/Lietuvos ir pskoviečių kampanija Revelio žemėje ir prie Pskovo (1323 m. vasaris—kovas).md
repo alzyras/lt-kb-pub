@@ -76,7 +76,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-63697
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę.'
@@ -97,8 +97,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62860
 ## Citatos
 
 - id: c-63697

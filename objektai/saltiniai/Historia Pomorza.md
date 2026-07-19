@@ -55,7 +55,7 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
   temporalinis_llm_pakomentavimas: "Citata palaiko leidinio redaktorių, tomo dalį, chronologinę aprėptį, vietą ir metus."
   pagrindžia:
     - c-61711
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61079
 ## Citatos
 
 - id: c-61711

@@ -46,7 +46,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170309
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.'
@@ -61,8 +61,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187251
 ## Citatos
 
 - id: c-170309

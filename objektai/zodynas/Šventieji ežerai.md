@@ -63,7 +63,7 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177089
-
+    - c-002
 <a id="claim-t-197380"></a>
 - t-003
   global_id: t-197380
@@ -102,8 +102,7 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194692
 ## Citatos
 
 - id: c-172078
@@ -125,7 +124,6 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189190
-
 - id: c-177089
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -152,7 +150,6 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194692
-
 - id: c-179158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

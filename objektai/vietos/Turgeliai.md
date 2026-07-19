@@ -102,7 +102,6 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43916
-
 - id: c-47158
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

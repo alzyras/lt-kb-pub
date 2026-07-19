@@ -90,7 +90,6 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28968
-
 - id: c-167744
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

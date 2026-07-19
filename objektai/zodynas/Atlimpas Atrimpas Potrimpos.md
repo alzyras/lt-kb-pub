@@ -67,7 +67,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-175115
-
+    - c-001
 <a id="claim-t-192306"></a>
 - t-003
   global_id: t-192306
@@ -105,8 +105,7 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192305
 ## Citatos
 
 - id: c-175115
@@ -133,7 +132,6 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192305
-
 - id: c-175116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

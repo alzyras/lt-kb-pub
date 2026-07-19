@@ -604,7 +604,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-161824
-
+    - c-167254
 <a id="claim-t-178051"></a>
 - t-030
   global_id: t-178051
@@ -658,7 +658,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Prūsiją."
   pagrindžia:
     - c-43769
-
+    - c-161836
 <a id="claim-t-178054"></a>
 - t-033
   global_id: t-178054
@@ -752,7 +752,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-161843
-
+    - c-161866
 <a id="claim-t-178061"></a>
 - t-038
   global_id: t-178061
@@ -1373,7 +1373,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168464
-
+    - c-168463
 <a id="claim-t-185105"></a>
 - t-072
   global_id: t-185105
@@ -1938,7 +1938,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 
 <a id="claim-t-185107"></a>
 - t-107
-  global_id: t-185107
   teiginys: "Galima būtų stebėtis, jei karšto klimato medis Phyllantus Emblica būtų atsidū ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą ,,De fructibus et seminibus plantarum\", kad įsitikintume, jog minėtas vaisius neišaugo jokioje Emblikoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -1959,8 +1958,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   sudarymo_pagrindimas: 'Kronikininkų mitologinė interpretacija palikta su Narbuto tarpininkaujama atribucija. Nepridėtas neįvardytas dievo vardas, nes citatos ištraukoje jo nėra.'
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Prūsijos kronikininkai|Prūsijos kronikininkai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Lubavas; mentioned_place: Varmė'
   pagrindžia:
-    - c-171698
-
+    - c-072
 <a id="claim-t-188813"></a>
 - t-092
   global_id: t-188813
@@ -1971,8 +1969,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   sudarymo_pagrindimas: 'Tai vertinamasis istoriografinis teiginys, todėl jis aiškiai priskirtas Narbutui. Neperimta kategoriška formuluotė apie „jokios abejonės“ kaip neutralus faktas.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-171702
-
+    - c-075
 <a id="claim-t-188815"></a>
 - t-094
   global_id: t-188815
@@ -1983,8 +1980,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   sudarymo_pagrindimas: 'Sąrašo ir puslapio fragmentas perrašytas į aiškų sakinį apie Prūsijoje vartotą lietuvių kalbą. Maldos teksto turinys neplėtotas, nes claim objektas yra vieta.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]'
   pagrindžia:
-    - c-171704
-
+    - c-077
 <a id="claim-t-188816"></a>
 - t-095
   global_id: t-188816
@@ -1996,7 +1992,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Bysleida; mentioned_place: Prūsa; mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Romovė'
   semantiniai_rysiai: 'Romovė priklausė Prūsija'
   pagrindžia:
-    - c-171705
+    - c-078
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš Salavija: Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
@@ -3680,8 +3676,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-089
-
+    - t-188809
 - c-075
   santrauka: 'Narbutas Dusburgiečio pasakojimą apie senovės Prūsiją laiko patikimu krivio istorinės egzistencijos argumentu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3705,8 +3700,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-092
-
+    - t-188813
 - c-077
   santrauka: 'Narbutas pateikia Hartknocho duomenis apie lietuvių kalbą, vartotą Prūsijoje, Nemuno žemupyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3730,8 +3724,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-094
-
+    - t-188815
 - c-078
   santrauka: 'Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3753,8 +3746,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-095
-
+    - t-188816
 ## Citatos
 
 - id: c-24417
@@ -3776,7 +3768,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183083
-
 - id: c-32359
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3797,7 +3788,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178029
-
 - id: c-43769
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3815,7 +3805,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178053
-
 - id: c-43770
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3838,8 +3827,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178058
-
+    - t-178093
 - id: c-43771
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3860,7 +3848,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178040
-
 - id: c-161812
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3891,7 +3878,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178061
-
 - id: c-161813
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3930,7 +3916,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178078
-
 - id: c-161814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3950,7 +3935,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178041
-
 - id: c-161815
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3969,8 +3953,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178031
-
+    - t-178066
 - id: c-161816
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3988,7 +3971,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178046
-
 - id: c-161818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4022,7 +4004,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178092
-
 - id: c-161819
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4053,7 +4034,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178028
     - t-178032
-
 - id: c-161820
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4082,7 +4062,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178025
     - t-178074
-
 - id: c-161821
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4104,7 +4083,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178073
-
 - id: c-161822
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4128,7 +4106,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178033
     - t-178096
-
 - id: c-161823
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4162,7 +4139,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178051
-
 - id: c-161824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4180,7 +4156,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178050
-
 - id: c-161826
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4203,7 +4178,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178030
     - t-178068
-
 - id: c-161828
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4224,7 +4198,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178097
-
 - id: c-161829
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4246,7 +4219,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178091
-
 - id: c-161830
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4267,7 +4239,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178070
-
 - id: c-161831
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4286,7 +4257,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178037
-
 - id: c-161832
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4315,7 +4285,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178052
-
 - id: c-161833
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4339,7 +4308,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178088
-
 - id: c-161834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4371,7 +4339,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178064
-
 - id: c-161835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4398,7 +4365,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178059
     - t-178087
-
 - id: c-161836
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -4430,7 +4396,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178085
-
 - id: c-161839
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4454,7 +4419,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178038
     - t-178090
-
 - id: c-161840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4484,7 +4448,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178024
     - t-178048
-
 - id: c-161842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4516,8 +4479,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178027
-
+    - t-178044
 - id: c-161843
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4541,7 +4503,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178060
-
 - id: c-161847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4568,7 +4529,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178034
-
 - id: c-161849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4595,7 +4555,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178018
-
 - id: c-161850
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4617,7 +4576,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178036
-
 - id: c-161851
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4646,7 +4604,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178089
-
 - id: c-161853
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4670,7 +4627,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178065
-
 - id: c-161854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4700,7 +4656,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178026
     - t-178075
-
 - id: c-161855
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4726,7 +4681,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178022
     - t-178043
-
 - id: c-161857
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4757,7 +4711,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178072
-
 - id: c-161859
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4781,7 +4734,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178045
-
 - id: c-161860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4818,7 +4770,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178084
     - t-178099
-
 - id: c-161862
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4840,7 +4791,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178062
-
 - id: c-161865
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4856,7 +4806,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178020
-
 - id: c-161866
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4903,7 +4852,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178042
     - t-178080
-
 - id: c-161869
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4927,7 +4875,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178021
     - t-178023
-
 - id: c-161873
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4948,7 +4895,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178071
-
 - id: c-161875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4972,7 +4918,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178057
-
 - id: c-161877
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4993,7 +4938,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178076
-
 - id: c-161879
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5015,7 +4959,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-178094
     - t-178095
-
 - id: c-161880
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -5036,7 +4979,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178077
-
 - id: c-161884
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5058,7 +5000,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178054
-
 - id: c-161885
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5077,7 +5018,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178069
-
 - id: c-161887
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5098,7 +5038,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178083
-
 - id: c-161889
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5117,7 +5056,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178039
-
 - id: c-161890
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5147,7 +5085,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178019
-
 - id: c-166472
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5165,7 +5102,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183084
-
 - id: c-167254
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5215,7 +5151,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185102
-
+    - t-185103
 - id: c-168464
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5259,7 +5195,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-185103
     - t-196731
-
 - id: c-168466
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5284,7 +5219,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185105
-
 - id: c-168467
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5317,7 +5251,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185106
-
 - id: c-168468
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5364,7 +5297,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185107
-
 - id: c-168470
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5391,7 +5323,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185109
-
 - id: c-168471
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5423,7 +5354,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185110
-
 - id: c-168472
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5458,7 +5388,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-185111
     - t-196734
-
 - id: c-168473
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5481,7 +5410,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185112
-
 - id: c-168475
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5509,7 +5437,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185114
-
 - id: c-168476
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5537,7 +5464,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185115
-
 - id: c-171697
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5558,7 +5484,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindzia:
     - t-188808
     - t-197475
-
 - id: c-171700
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5582,7 +5507,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188811
-
 - id: c-171701
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5605,7 +5529,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188812
-
 - id: c-171703
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5630,7 +5553,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188814
-
 - id: c-175497
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5653,7 +5575,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192727
-
 - id: c-175498
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5676,7 +5597,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192728
-
 - id: c-175499
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5698,7 +5618,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192729
-
 - id: c-175500
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5720,7 +5639,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192730
-
 - id: c-175502
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5744,7 +5662,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192732
-
 - id: c-175504
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5768,7 +5685,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192734
-
 - id: c-175505
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5790,7 +5706,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192735
-
 - id: c-177141
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5813,7 +5728,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194745
-
 - id: c-177331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5836,7 +5750,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194935
-
 - id: c-177332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5857,7 +5770,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194936
-
 - id: c-178875
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5893,7 +5805,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196732
-
 - id: c-178876
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -5916,7 +5827,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196733
-
 - id: c-179052
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5940,7 +5850,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197179
-
 - id: c-179391
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5963,7 +5872,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197909
-
 - id: c-179392
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5989,7 +5897,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197910
-
 - id: c-179393
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -6014,8 +5921,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197911
-
+    - t-107
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]], [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]], [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Henrikas (Meiseno markgrafas)]], [[objektai/asmenys/Henrikas iš Kunceno]], [[objektai/asmenys/Henrikas Lankasteris]], [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Jonas (Čekijos karalius)]], [[objektai/asmenys/Konradas iš Foichtvangeno]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Odoničius]], [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]], [[objektai/asmenys/Petras iš Rozenbergo]], [[objektai/asmenys/Pilypas]], [[objektai/grupes/Prancūzai]], [[objektai/asmenys/Vaidila]], [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]], [[objektai/grupes/Vokietijos maldininkai]]
 - Mirties vieta: [[objektai/asmenys/Henrikas iš Kunceno]]

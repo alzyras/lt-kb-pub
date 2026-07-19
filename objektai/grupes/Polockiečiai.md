@@ -123,7 +123,6 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185445
-
 - id: c-171184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -149,6 +148,5 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188291
-
 ## Ryšiai
 - Puolė Polockiečiai: [[objektai/asmenys/Mingaila]]

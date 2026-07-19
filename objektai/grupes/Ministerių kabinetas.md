@@ -96,7 +96,6 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19944
-
 - id: c-22674
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

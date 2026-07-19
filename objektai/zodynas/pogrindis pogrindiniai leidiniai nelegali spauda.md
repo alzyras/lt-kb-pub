@@ -121,7 +121,6 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23534
-
 - id: c-24935
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -142,7 +141,6 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23536
-
 - id: c-25134
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

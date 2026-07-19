@@ -191,7 +191,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   pagrindzia:
     - t-169878
     - t-169881
-
 - id: c-26847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -228,7 +227,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   pagrindzia:
     - t-169877
     - t-169880
-
 - id: c-154566
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

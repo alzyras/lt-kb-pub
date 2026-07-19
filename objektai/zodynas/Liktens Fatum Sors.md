@@ -50,7 +50,7 @@ Narbutas Liktens aiškina per Antikos dievybes Sors ir Fatum, kurioms priskiria 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172118
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Liktens aiškina per Antikos dievybes Sors ir Fatum, kurioms priskiria lemties ir vienvaldės galios viskam reikšmes.'
@@ -67,8 +67,7 @@ Narbutas Liktens aiškina per Antikos dievybes Sors ir Fatum, kurioms priskiria 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189230
 ## Citatos
 
 - id: c-172118

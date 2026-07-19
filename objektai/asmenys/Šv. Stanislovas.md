@@ -137,7 +137,6 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64437
-
 - id: c-166972
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -153,7 +152,6 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183579
-
 - id: c-166973
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

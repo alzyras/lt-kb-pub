@@ -119,7 +119,6 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   pagrindzia:
     - t-186316
     - t-196349
-
 - id: c-169678
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

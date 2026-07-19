@@ -47,7 +47,7 @@ Dusburgietis teigia, kad zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-61461
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.'
@@ -63,8 +63,7 @@ Dusburgietis teigia, kad zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60829
 ## Citatos
 
 - id: c-61461

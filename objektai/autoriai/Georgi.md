@@ -48,7 +48,7 @@ Pono Georgi nuomone, japonų dievai Kami buvo visiškai tapatūs egiptiečių Ka
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173306
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pono Georgi nuomone, japonų dievai Kami buvo visiškai tapatūs egiptiečių Kamefiams, o šie, matyt, atitiko slavų Tryzną.'
@@ -66,8 +66,7 @@ Pono Georgi nuomone, japonų dievai Kami buvo visiškai tapatūs egiptiečių Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190423
 ## Citatos
 
 - id: c-173306

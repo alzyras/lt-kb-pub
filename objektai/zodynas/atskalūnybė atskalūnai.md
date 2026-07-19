@@ -62,7 +62,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59438
-
+    - c-001
 <a id="claim-t-58808"></a>
 - t-003
   global_id: t-58808
@@ -79,7 +79,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59441
-
+    - c-167386
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje.'
@@ -99,8 +99,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58807
 ## Citatos
 
 - id: c-59438
@@ -125,7 +124,6 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58807
-
 - id: c-59440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -146,7 +144,6 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58806
-
 - id: c-59441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -171,7 +168,6 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58808
-
 - id: c-167386
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

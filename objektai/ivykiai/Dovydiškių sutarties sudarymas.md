@@ -172,7 +172,6 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12402
-
 - id: c-66735
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -193,7 +192,6 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66523
-
 - id: c-66736
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -213,7 +211,6 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66524
-
 - id: c-66737
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -231,7 +228,6 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66525
-
 - id: c-66738
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

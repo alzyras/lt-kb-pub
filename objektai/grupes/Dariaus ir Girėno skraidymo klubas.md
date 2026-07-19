@@ -80,4 +80,4 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78164
+    - t-78165

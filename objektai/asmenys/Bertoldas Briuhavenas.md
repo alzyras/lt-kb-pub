@@ -122,7 +122,6 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   pagrindzia:
     - t-186098
     - t-196426
-
 - id: c-178679
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -160,6 +159,5 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196427
-
 ## Ryšiai
 - Bertoldas Briuhavenas surengė žygį į [[objektai/vietos/Junigeda]]

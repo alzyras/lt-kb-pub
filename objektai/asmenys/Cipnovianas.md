@@ -61,6 +61,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174265
+    - c-001
 - susijęs iš [[objektai/asmenys/Bojaduras.md#claim-t-191378|Bojaduras]]: 1223 m. Bojaduras su Cipnovianu vadovavo Čingischano pasiųstam būriui į vakarinę Kaspijos pakrantę užimti Samachos ir Derbento.
 - susijęs iš [[objektai/asmenys/Čingischanas.md#claim-t-191490|Čingischanas]]: 1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vadovaujamą kariuomenės būrį užimti Samachos ir Derbento vakarinėje Kaspijos pakrantėje.
 ## Reikšmingi paminėjimai
@@ -84,8 +85,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191383
 ## Citatos
 
 - id: c-174265

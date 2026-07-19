@@ -62,7 +62,7 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
   pagrindžia:
     - c-69854
-
+    - c-166822
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -100,7 +100,6 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23436
-
 - id: c-166822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

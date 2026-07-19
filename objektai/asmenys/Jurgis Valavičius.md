@@ -59,4 +59,3 @@ Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per gi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

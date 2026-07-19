@@ -61,8 +61,7 @@ media_all_json: |-
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys performuluotas kaip pilnas teiginys apie Danielių Romanovičių per jo brolį Vasilką. Palikti tik citatos duomenys, pašalinus išnašos numerį ir OCR klaidą.'
   pagrindžia:
-    - c-176720
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vasilka Romanovičius buvo Haličo-Volynės didžiojo kunigaikščio Danieliaus Romanovičiaus brolis ir politinis bendradarbis.'
@@ -82,8 +81,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194107
 ## Citatos
 
 - id: c-176719

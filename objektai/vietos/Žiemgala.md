@@ -209,7 +209,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   pagrindzia:
     - t-99906
     - t-99908
-
 - id: c-93856
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -243,7 +242,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   pagrindzia:
     - t-99905
     - t-99907
-
 - id: c-93857
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -265,7 +263,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99904
-
 - id: c-166502
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

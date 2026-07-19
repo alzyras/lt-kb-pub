@@ -87,7 +87,6 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88032
-
 - id: c-176803
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

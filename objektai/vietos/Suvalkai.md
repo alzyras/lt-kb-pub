@@ -231,7 +231,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182781
-
 - id: c-166479
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -249,7 +248,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183091
-
 - id: c-167030
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -41,7 +41,7 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174743
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė lietuvių vardo žinomumo Julijaus Cezario laikais liudijimu.'
@@ -56,8 +56,7 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191861
 ## Citatos
 
 - id: c-174743

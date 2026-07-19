@@ -111,7 +111,6 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87775
-
 - id: c-83755
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

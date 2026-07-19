@@ -49,7 +49,7 @@ Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais V
   semantiniai_rysiai: "Mikalojus iš Moskožovo kariavo prieš Vytautas (Lietuvos valdovas, XIV–XV a.) (0.73)"
   pagrindžia:
     - c-169511
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais Vytauto puolimo pastangas.'
@@ -73,8 +73,7 @@ Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186150
 ## Citatos
 
 - id: c-169511

@@ -48,7 +48,7 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
   semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.95); Lunenburgas priklausė Barta (0.78)"
   pagrindžia:
     - c-59262
-
+    - c-001
 <a id="claim-t-58631"></a>
 - t-002
   global_id: t-58631
@@ -58,6 +58,7 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59263
+    - c-002
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-62387|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
 - susijęs iš Lunenburgas: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.
@@ -80,8 +81,7 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58630
 - c-002
   santrauka: 'Saina, dar vadinama Sajna, yra kairysis Gubros intakas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -94,8 +94,7 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58631
 ## Citatos
 
 - id: c-59262
@@ -120,7 +119,6 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58630
-
 - id: c-59263
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

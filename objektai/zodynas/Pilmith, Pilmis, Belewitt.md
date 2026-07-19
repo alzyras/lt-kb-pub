@@ -60,7 +60,7 @@ Vartojama kaip trumpas senovės vokiečių dievaičių sąrašas.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175122
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žinia apie dievaites Pilmith, Pilmis ir Belewitt pateikta kaip sakinys, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą.'
@@ -80,8 +80,7 @@ Vartojama kaip trumpas senovės vokiečių dievaičių sąrašas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192316
 ## Citatos
 
 - id: c-175122

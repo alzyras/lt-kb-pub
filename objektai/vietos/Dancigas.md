@@ -193,7 +193,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193176
-
 - id: c-166136
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -216,7 +215,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182720
-
 - id: c-166398
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -235,7 +233,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183004
-
 - id: c-166399
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -255,6 +252,5 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183006
-
 ## Ryšiai
 - Prekiavo su: [[objektai/vietos/Lietuva]]

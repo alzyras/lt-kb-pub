@@ -90,6 +90,5 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60245
-
 ## Ryšiai
 - Baltramiejus (Aleto vyskupas) keliavo į [[objektai/vietos/Ryga]]

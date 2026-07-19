@@ -126,7 +126,6 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85947
-
 - id: c-81929
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -161,7 +160,6 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85948
-
 - id: c-81930
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

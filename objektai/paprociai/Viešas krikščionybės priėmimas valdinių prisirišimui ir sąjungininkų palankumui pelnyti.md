@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169266
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius.'
@@ -88,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185905
 ## Citatos
 
 - id: c-169266

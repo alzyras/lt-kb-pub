@@ -393,7 +393,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114010
-
 - id: c-22047
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -415,7 +414,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   pagrindzia:
     - t-114004
     - t-114012
-
 - id: c-105173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -436,7 +434,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114005
-
 - id: c-105174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -455,7 +452,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114006
-
 - id: c-105175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -482,7 +478,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   pagrindzia:
     - t-114009
     - t-114018
-
 - id: c-105176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -511,7 +506,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114017
-
 - id: c-105177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -538,7 +532,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114013
-
 - id: c-105178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -574,7 +567,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114008
-
 - id: c-105179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -627,7 +619,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114011
-
 - id: c-105180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -650,7 +641,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114001
-
 - id: c-105181
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -667,7 +657,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114016
-
 - id: c-105182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -695,7 +684,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114003
-
 - id: c-105183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -720,7 +708,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   pagrindzia:
     - t-114002
     - t-114014
-
 - id: c-105184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -747,7 +734,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114015
-
 - id: c-105187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -82,7 +82,6 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58993
-
 - id: c-59627
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

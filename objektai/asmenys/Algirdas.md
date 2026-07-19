@@ -86,8 +86,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė teritoriją Kijevo Rusia (0.74)"
   pagrindžia:
     - c-160288
-    - c-179474
-
+    - c-179457
 <a id="claim-t-10070"></a>
 - t-003
   global_id: t-10070
@@ -127,8 +126,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Algirdo reikalavimą derybose."
   pagrindžia:
     - c-41820
-    - c-035
-
+    - c-160296
 <a id="claim-t-10072"></a>
 - t-005
   global_id: t-10072
@@ -147,8 +145,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-41820
-    - c-036
-
+    - c-160283
 <a id="claim-t-10666"></a>
 - t-006
   global_id: t-10666
@@ -426,7 +423,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas, sakinys suformuluotas taisyklingai."
   pagrindžia:
     - c-160290
-
+    - c-167113
 <a id="claim-t-176292"></a>
 - t-021
   global_id: t-176292
@@ -952,7 +949,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-179434
-
+    - c-037
 <a id="claim-t-197961"></a>
 - t-051
   global_id: t-197961
@@ -1052,8 +1049,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   susije_objektai: "mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Lietuva; mentioned_place: Perudžija; mentioned_place: Poznanė; mentioned_place: Viena"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-179421
-
+    - c-160317
 <a id="claim-t-197980"></a>
 - t-057
   global_id: t-197980
@@ -1146,7 +1142,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-179447
-
+    - c-179421
 <a id="claim-t-197991"></a>
 - t-062
   global_id: t-197991
@@ -1252,8 +1248,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Julijona buvo žmona Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su Algirdu per jo žmoną Julijoną. Religinis maldyklos ir cerkvės kontekstas paliktas su Narbuto atribucija.'
   pagrindžia:
-    - c-179440
-
+    - c-171402
 <a id="claim-t-198008"></a>
 - t-118
   global_id: t-198008
@@ -1267,7 +1262,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistas Algirdo ryšys su motina ir gimimo data. Vardo reikšmė palikta su Narbuto atribucija, nepridedant kitų genealoginių duomenų.'
   pagrindžia:
-    - c-179459
+    - c-171401
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40370|Narimantas Gediminaitis]]: Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
 - susijęs iš [[objektai/asmenys/Marija (Algirdo žmona).md#claim-t-87545|Marija (Algirdo žmona)]]: Marija buvo Tverės kunigaikštytė ir Algirdo žmona.
@@ -1856,8 +1851,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039
-
+    - t-197946
 - c-045
   santrauka: 'Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1876,8 +1870,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-118
-
 - c-046
   santrauka: 'Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1899,8 +1891,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-101
-
 ## Citatos
 
 - id: c-00136
@@ -1920,7 +1910,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10667
-
 - id: c-21572
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1955,7 +1944,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197984
-
 - id: c-36244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1976,7 +1964,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197980
-
 - id: c-41820
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1999,7 +1986,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - t-10071
     - t-10072
     - t-176301
-
 - id: c-160283
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2020,8 +2006,8 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-10072
     - t-176287
-
 - id: c-160284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2043,7 +2029,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176304
-
 - id: c-160286
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2062,7 +2047,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10670
-
 - id: c-160287
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2081,7 +2065,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176283
-
 - id: c-160288
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2100,7 +2083,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05159
-
 - id: c-160290
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2125,7 +2107,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-10070
     - t-176291
-
 - id: c-160292
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2144,7 +2125,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10666
-
 - id: c-160296
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2168,9 +2148,9 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-10071
     - t-176293
     - t-176300
-
 - id: c-160298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2193,7 +2173,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176279
-
 - id: c-160299
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2217,7 +2196,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176311
-
 - id: c-160300
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2249,7 +2227,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176282
-
 - id: c-160301
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2275,7 +2252,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176299
-
 - id: c-160302
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2317,7 +2293,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176310
-
 - id: c-160306
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2338,7 +2313,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176294
-
 - id: c-160308
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2364,7 +2338,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176305
-
 - id: c-160309
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2404,7 +2377,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176276
-
 - id: c-160311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2424,7 +2396,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176292
-
 - id: c-160312
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2441,7 +2412,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10672
-
 - id: c-160315
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2459,7 +2429,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176288
-
 - id: c-160316
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2480,7 +2449,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176281
-
 - id: c-160319
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2503,7 +2471,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176289
-
 - id: c-160322
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2528,7 +2495,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176274
-
 - id: c-160323
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2547,7 +2513,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10671
-
 - id: c-167113
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2596,7 +2561,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183838
-
 - id: c-168025
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2623,7 +2587,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184664
-
 - id: c-168026
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2647,7 +2610,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-184665
     - t-196416
-
 - id: c-168027
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2681,7 +2643,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-184666
     - t-197964
-
 - id: c-168028
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2730,7 +2691,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-184667
     - t-196418
-
 - id: c-168029
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2760,7 +2720,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
     - t-184668
     - t-196419
     - t-197977
-
 - id: c-168030
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2790,7 +2749,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184669
-
 - id: c-168031
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2830,7 +2788,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184670
-
 - id: c-173728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2854,7 +2811,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190846
-
 - id: c-176288
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2875,7 +2831,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193617
-
 - id: c-176289
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2892,7 +2847,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193618
-
 - id: c-176516
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2919,7 +2873,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-193891
     - t-196809
-
 - id: c-176822
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2964,7 +2917,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194221
-
 - id: c-178673
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2990,7 +2942,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196417
-
 - id: c-178675
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3021,7 +2972,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196420
-
 - id: c-179418
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3055,7 +3005,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197994
-
 - id: c-179421
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3076,8 +3025,7 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-197978
-
+    - t-197990
 - id: c-179423
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3320,7 +3268,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   pagrindzia:
     - t-197972
     - t-197981
-
 - id: c-179434
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3342,7 +3289,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197946
-
 - id: c-179435
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3417,7 +3363,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198004
-
 - id: c-179438
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3516,7 +3461,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197990
-
 - id: c-179448
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3551,7 +3495,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197963
-
 - id: c-179451
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3591,7 +3534,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197961
-
 - id: c-179455
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3680,7 +3622,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198011
-
 - id: c-179462
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3700,7 +3641,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197991
-
 - id: c-179463
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3742,7 +3682,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197989
-
 - id: c-179465
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3839,8 +3778,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05156
-
 - id: c-179471
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3910,7 +3847,6 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200967
-
 - id: c-184318
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -3928,7 +3864,68 @@ Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200968
-
+- id: c-160317
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tuo reikalu pas popiežių buvo
+    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
+    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
+    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
+    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
+    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
+    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
+    kunigaikščio Algirdo. Pasiuntiniai rado popiežių Perudžijoje
+    (Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę
+    (1388.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197978
+- id: c-171401
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  citata_originali: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198008
+- id: c-171402
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
+  citata_originali: |
+    Viena tokia buvo Didžiojoje
+    gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių
+    kunigų unitų mūrinis namas, stovintis tos maldyklos vietoje.
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-197988
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Julijona Vitebskietė]], [[objektai/asmenys/Marija (Algirdo žmona)]]
 - Sutuoktiniai: [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė)]]

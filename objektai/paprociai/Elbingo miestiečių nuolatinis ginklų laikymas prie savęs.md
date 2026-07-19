@@ -76,7 +76,7 @@ Nenurodyta
   pagrindžia:
     - c-63410
     - c-63411
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1273 m. Elbingo miestiečiai nuolat laikė prie savęs kovai parengtus ginklus ir vijosi prie miesto pasirodžiusius pagudėnų raitelius.'
@@ -97,8 +97,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62674
 ## Citatos
 
 - id: c-63410
@@ -122,7 +121,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62674
-
 - id: c-63411
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

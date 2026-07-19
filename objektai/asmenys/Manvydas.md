@@ -174,6 +174,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171471
+    - c-007
 - susijęs iš Manvydo rūmai: Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus.
 - susijęs iš Manvydo rūmai: Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes.
 - susijęs iš [[objektai/asmenys/Astikas.md#claim-t-186182|Astikas]]: Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais.
@@ -225,8 +226,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188582
 ## Citatos
 
 - id: c-83353
@@ -268,7 +268,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87375
-
 - id: c-83354
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -292,7 +291,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87374
-
 - id: c-83355
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -321,7 +319,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87376
-
 - id: c-83356
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -342,7 +339,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87378
-
 - id: c-83357
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -365,7 +361,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87377
-
 - id: c-168141
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -388,7 +383,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184780
-
 - id: c-171471
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -409,6 +403,5 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188582
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Manvydo rūmai]]

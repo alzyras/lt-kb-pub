@@ -75,6 +75,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus parengėjo vaidmenį ir leidinio duomenis."
   pagrindžia:
     - c-91657
+    - c-002
 - susijęs iš [[objektai/autoriai/S. Matulaitytė.md#claim-t-30970|S. Matulaitytė]]: S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179533|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.
 ## Reikšmingi paminėjimai
@@ -90,8 +91,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-97147
 ## Citatos
 
 - id: c-30442
@@ -113,8 +113,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97146
-
+    - t-97148
 - id: c-91657
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

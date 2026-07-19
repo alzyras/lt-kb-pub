@@ -56,7 +56,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36971
-
+    - c-167612
 <a id="claim-t-50767"></a>
 - t-002
   global_id: t-50767
@@ -301,7 +301,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50767
-
 - id: c-36971
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -321,7 +320,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50766
-
 - id: c-36973
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -344,7 +342,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50768
-
 - id: c-36974
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -365,7 +362,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50769
-
 - id: c-167612
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -422,7 +418,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184590
-
 - id: c-178547
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -456,7 +451,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196128
-
 - id: c-178548
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

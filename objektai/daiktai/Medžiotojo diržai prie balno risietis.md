@@ -108,7 +108,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189688
-
 - id: c-172572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

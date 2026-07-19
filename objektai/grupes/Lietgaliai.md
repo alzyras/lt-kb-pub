@@ -62,6 +62,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-31173
+    - c-167701
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184328|Kuršiai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65556|Kuršiai]]: Istorijos priešaušryje kuršių žemėse turėjo būti gana daug atskirų sričių kunigų, atlikdavusių aukojimus.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65559|Kuršiai]]: Istorijos priešaušryje kuršių ir kitų baltų žemėse turėjo būti daug atskirų sričių kunigų.
@@ -90,7 +91,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31268
-
 - id: c-33309
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -109,7 +109,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31267
-
 - id: c-167701
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

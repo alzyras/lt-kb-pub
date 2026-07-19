@@ -280,7 +280,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Herulai paskyrė Odoakras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skiriai paskyrė Odoakras“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Odoakro paskelbimą vadu ir karaliumi 476 m. pradžioje. Atribucija palikta dėl valdovo titulo ir kronikinio pasakojimo pobūdžio.'
   pagrindžia:
-    - c-173824
+    - c-005
 - susijęs iš [[objektai/asmenys/Telanas.md#claim-t-191477|Telanas]]: Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
 - susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191036|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Teodorikas ir Odoakras sudarė taiką, kurios sąlygos Narbuto pasakojime lieka nežinomos, išskyrus pažadą išsaugoti Odoakro gyvybę ir turtus.
 - susijęs iš [[objektai/zodynas/patricijus.md#claim-t-192240|patricijus]]: Pasak Teodoro Narbuto, imperatorius Julijus Nepas po Odoakro pergalės paskyrė Odoakrą patricijumi.
@@ -379,8 +379,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190942
 ## Citatos
 
 - id: c-171488
@@ -406,7 +405,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188599
-
 - id: c-173821
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -428,7 +426,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190939
-
 - id: c-173822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -468,7 +465,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   pagrindzia:
     - t-190940
     - t-197783
-
 - id: c-173823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -487,7 +483,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190941
-
 - id: c-173825
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -519,7 +514,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   pagrindzia:
     - t-190943
     - t-197784
-
 - id: c-173826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -549,7 +543,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   pagrindzia:
     - t-190944
     - t-197785
-
 - id: c-173827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -574,7 +567,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190945
-
 - id: c-173828
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -598,7 +590,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190946
-
 - id: c-179184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -621,7 +612,6 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197433
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Telanas]]
 - Broliai: [[objektai/asmenys/Onulfas]]

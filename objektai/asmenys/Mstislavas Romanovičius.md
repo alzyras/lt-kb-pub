@@ -106,7 +106,6 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186072
-
 - id: c-178771
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -137,6 +136,5 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196566
-
 ## Ryšiai
 - Mstislavas Romanovičius keliavo į [[objektai/vietos/Luckas]]

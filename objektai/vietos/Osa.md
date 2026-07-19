@@ -52,7 +52,7 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-68327
-
+    - c-002
 <a id="claim-t-68846"></a>
 - t-002
   global_id: t-68846
@@ -88,8 +88,7 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-68845
 ## Citatos
 
 - id: c-24347
@@ -111,7 +110,6 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68846
-
 - id: c-68327
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

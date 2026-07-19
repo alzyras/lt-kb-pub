@@ -83,7 +83,7 @@ Nenurodyta
   pagrindžia:
     - c-85403
     - c-85404
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo.'
@@ -101,8 +101,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-89447
 ## Citatos
 
 - id: c-85403
@@ -124,7 +123,6 @@ Nenurodyta
   pagrindzia:
     - t-89446
     - t-89447
-
 - id: c-85404
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

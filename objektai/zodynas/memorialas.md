@@ -99,7 +99,6 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03078
-
 - id: c-166359
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

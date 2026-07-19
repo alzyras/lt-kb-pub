@@ -68,7 +68,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61564
-
+    - c-002
 <a id="claim-t-60932"></a>
 - t-003
   global_id: t-60932
@@ -121,8 +121,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60931
 ## Citatos
 
 - id: c-61562
@@ -143,7 +142,6 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60930
-
 - id: c-61564
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -164,7 +162,6 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60931
-
 - id: c-61565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -184,7 +181,6 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60932
-
 - id: c-61566
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

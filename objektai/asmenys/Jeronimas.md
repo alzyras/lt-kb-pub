@@ -130,7 +130,6 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60149
-
 - id: c-167478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,7 +156,6 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60150
-
 - id: c-178720
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

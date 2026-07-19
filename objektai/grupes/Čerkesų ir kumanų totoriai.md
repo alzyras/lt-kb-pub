@@ -49,7 +49,7 @@ Narbutas rašė, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172435
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius.'
@@ -66,8 +66,7 @@ Narbutas rašė, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189547
 ## Citatos
 
 - id: c-172435

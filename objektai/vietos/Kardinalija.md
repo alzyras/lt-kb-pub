@@ -160,7 +160,6 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85934
-
 - id: c-81914
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -190,7 +189,6 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85932
-
 - id: c-81915
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -217,7 +215,6 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85935
-
 - id: c-81916
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

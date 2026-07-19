@@ -115,7 +115,6 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30358
-
 - id: c-32790
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -134,7 +133,6 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30359
-
 - id: c-32791
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

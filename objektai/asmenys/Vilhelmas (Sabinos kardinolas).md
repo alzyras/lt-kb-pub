@@ -58,7 +58,7 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
   temporalinis_llm_pakomentavimas: "Teiginys apie kronikininko klaidą reikalauja atribucijos, bet pradinė formuluotė yra nutrūkusi."
   pagrindžia:
     - c-60852
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV.'
@@ -76,8 +76,7 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60221
 ## Citatos
 
 - id: c-60852

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   semantiniai_rysiai: "Stanta puolė Bartenšteinas (0.86)"
   pagrindžia:
     - c-60839
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Stanta su bendrais slapta įsibrovė į Bartenšteino pilį ir paėmė į nelaisvę brolius Rudolfą Bodemerą ir Fridrichą iš Libencelės.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60207
 ## Citatos
 
 - id: c-60839

@@ -157,8 +157,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į Elbingas (0.90)"
   pagrindžia:
-    - c-56083
-
+    - c-56082
 <a id="claim-t-89825"></a>
 - t-007
   global_id: t-89825
@@ -191,7 +190,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   pagrindžia:
     - c-56084
     - c-56085
-
+    - c-56083
 <a id="claim-t-89827"></a>
 - t-009
   global_id: t-89827
@@ -226,8 +225,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į Elbingas (0.90)"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-56083
-
+    - c-56082
 <a id="claim-t-89829"></a>
 - t-011
   global_id: t-89829
@@ -313,7 +311,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85749
-
+    - c-007
 <a id="claim-t-89834"></a>
 - t-016
   global_id: t-89834
@@ -368,8 +366,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Livonija priklausė Kryžiuočių ordinas (0.70)"
   pagrindžia:
-    - c-56082
-
+    - c-001
 <a id="claim-t-197101"></a>
 - t-019
   global_id: t-197101
@@ -441,8 +438,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-
+    - t-89836
 - c-007
   santrauka: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras ir buvo palaidotas Barletoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -463,8 +459,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-89833
 ## Citatos
 
 - id: c-56082
@@ -488,8 +483,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89836
-
+    - t-89824
+    - t-89828
 - id: c-56083
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -513,9 +508,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89824
-    - t-89828
-
+    - t-89826
 - id: c-56084
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -539,7 +532,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89826
-
 - id: c-56085
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -564,7 +556,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-89821
     - t-89826
     - t-89830
-
 - id: c-85746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -580,7 +571,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89835
-
 - id: c-85747
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -605,7 +595,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-89823
     - t-89827
     - t-89829
-
 - id: c-85749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -628,7 +617,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89833
-
 - id: c-85750
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -647,7 +635,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89832
-
 - id: c-85751
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -667,7 +654,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89820
-
 - id: c-85752
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -691,7 +677,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89831
-
 - id: c-85753
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -711,7 +696,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89825
-
 - id: c-85754
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -739,7 +723,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   pagrindzia:
     - t-89834
     - t-197101
-
 ## Ryšiai
 - Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mirė [[objektai/vietos/Salernas]]
 - Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo palaidotas [[objektai/vietos/Barleta]]

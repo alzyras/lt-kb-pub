@@ -53,7 +53,7 @@ Dusburgietis teigia, kad ivinskis Z.
   temporalinis_llm_pakomentavimas: "Citata palaiko autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61716
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad ivinskis Z.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61084
 ## Citatos
 
 - id: c-61716

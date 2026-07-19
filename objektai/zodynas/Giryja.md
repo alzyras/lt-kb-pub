@@ -96,7 +96,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175342
-
+    - c-003
 <a id="claim-t-192560"></a>
 - t-004
   global_id: t-192560
@@ -144,8 +144,7 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192559
 ## Citatos
 
 - id: c-175064
@@ -171,7 +170,6 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   pagrindzia:
     - t-192201
     - t-197693
-
 - id: c-175065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -192,7 +190,6 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   pagrindzia:
     - t-192202
     - t-192560
-
 - id: c-175342
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

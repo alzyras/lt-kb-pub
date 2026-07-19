@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172680
-
+    - c-001
 <a id="claim-t-189798"></a>
 - t-002
   global_id: t-189798
@@ -78,7 +78,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172681
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas padėkos auką už karo pergalę aprašė kaip didžiąją auką ir vaišes, per kurias ant laužo sudegindavo žymų belaisvį su žirgu ir ginklais.'
@@ -99,8 +99,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189797
 - c-002
   santrauka: 'Narbutas rašė, kad kai būdavo keli vienodai kilmingi belaisviai, aukai parenkamą belaisvį nulemdavo burtai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -118,8 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189798
 ## Citatos
 
 - id: c-172680
@@ -148,7 +146,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189797
-
 - id: c-172681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

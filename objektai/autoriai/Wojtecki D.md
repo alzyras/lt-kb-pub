@@ -56,7 +56,7 @@ Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 3; Wojtecki D., Studien...,
   temporalinis_llm_pakomentavimas: "Citata nurodo D. Wojteckio poziciją dėl Sembos puolimo datavimo."
   pagrindžia:
     - c-61451
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'D. Wojteckis Sembos puolimą datavo 1252–1253 m. žiema.'
@@ -71,8 +71,7 @@ Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 3; Wojtecki D., Studien...,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60819
 ## Citatos
 
 - id: c-61451

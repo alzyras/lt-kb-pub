@@ -101,7 +101,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26327
-
 - id: c-166977
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -118,6 +117,5 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183584
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

@@ -105,7 +105,6 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86102
-
 - id: c-82081
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -139,6 +138,5 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86101
-
 ## Ryšiai
 - Puolė Revelio žemę: [[objektai/grupes/Lietuviai]]

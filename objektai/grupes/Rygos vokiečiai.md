@@ -69,6 +69,5 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31351
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Tautvilas]]

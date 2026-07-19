@@ -55,7 +55,7 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171829
-
+    - c-001
 <a id="claim-t-188941"></a>
 - t-002
   global_id: t-188941
@@ -95,8 +95,7 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188940
 ## Citatos
 
 - id: c-171829
@@ -120,7 +119,6 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188940
-
 - id: c-171830
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

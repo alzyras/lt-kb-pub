@@ -49,6 +49,7 @@ Narbutas rašė, kad senovės germanai Herta vadino Motiną žemę.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172422
+    - c-001
 - susijęs iš [[objektai/asmenys/Tavernjė.md#claim-t-190214|Tavernjė]]: Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado tam tikrą Motinos žemės kulto panašybę.
 - susijęs iš [[objektai/autoriai/Tavernjė.md#claim-t-190407|Tavernjė]]: Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius.
 - susijęs iš [[objektai/grupes/Graikai.md#claim-t-189509|Graikai]]: Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, Minervą - Alkida ir turėjo atskiras Alkidėmis vadintas dievybes.
@@ -74,8 +75,7 @@ Narbutas rašė, kad senovės germanai Herta vadino Motiną žemę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189534
 ## Citatos
 
 - id: c-172422

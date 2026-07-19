@@ -97,7 +97,6 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41469
-
 - id: c-44965
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

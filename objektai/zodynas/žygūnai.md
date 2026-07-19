@@ -114,7 +114,6 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58933
-
 - id: c-168013
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -143,7 +142,6 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184652
-
 - id: c-168014
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

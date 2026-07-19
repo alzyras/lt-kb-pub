@@ -102,7 +102,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31517
-
 - id: c-33451
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

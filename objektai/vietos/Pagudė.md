@@ -97,7 +97,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   temporalinis_llm_pakomentavimas: "Teiginys paremtas citata ir yra susijęs su Pagude."
   pagrindžia:
     - c-86948
-
+    - c-003
 <a id="claim-t-91226"></a>
 - t-004
   global_id: t-91226
@@ -115,7 +115,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   semantiniai_rysiai: "Heilsbergas priklausė Pagudėnai (0.90)"
   pagrindžia:
     - c-86946
-
+    - c-001
 <a id="claim-t-91227"></a>
 - t-005
   global_id: t-91227
@@ -132,7 +132,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86953
-
+    - c-006
 <a id="claim-t-91228"></a>
 - t-006
   global_id: t-91228
@@ -149,7 +149,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86951
-
+    - c-004
 <a id="claim-t-91229"></a>
 - t-007
   global_id: t-91229
@@ -201,7 +201,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175482
-
+    - c-008
 <a id="claim-t-197178"></a>
 - t-010
   global_id: t-197178
@@ -293,8 +293,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-91226
 - c-003
   santrauka: 'Kai pavergta Pagudė ir kitos prūsų žemės vėl bandė sukilti prieš kryžiuočius, Skomanto vadovaujama kariuomenė 1277 m. siaubė Ordino valdas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -311,8 +310,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-91225
 - c-004
   santrauka: 'Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -331,8 +329,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-91228
 - c-006
   santrauka: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -352,8 +349,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-91227
 - c-008
   santrauka: 'Narbutas Pagudės pavadinimą kildino iš Jesse arba Wesseke upės, prie kurios, jo aiškinimu, buvo šios žemės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -370,8 +366,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-192712
 ## Citatos
 
 - id: c-86946
@@ -394,7 +389,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91226
-
 - id: c-86947
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -418,7 +412,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindzia:
     - t-91224
     - t-91229
-
 - id: c-86948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -441,7 +434,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91225
-
 - id: c-86951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -464,7 +456,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91228
-
 - id: c-86952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -481,7 +472,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91230
-
 - id: c-86953
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -507,7 +497,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91227
-
 - id: c-86954
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -530,7 +519,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91223
-
 - id: c-175482
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -557,7 +545,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192712
-
 - id: c-179051
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -576,7 +563,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197178
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Glotava]]
 - Pagudė priklausė [[objektai/vietos/Prūsų žemė]]

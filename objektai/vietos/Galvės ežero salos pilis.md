@@ -138,6 +138,5 @@ Nenurodyta
   pagrindzia:
     - t-11046
     - t-11047
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ghillebert de Lannoy]]

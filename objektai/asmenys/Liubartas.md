@@ -405,7 +405,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05195
-
 - id: c-06239
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -425,7 +424,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05197
-
 - id: c-15266
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -446,7 +444,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   pagrindzia:
     - t-12192
     - t-93458
-
 - id: c-15267
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -473,7 +470,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-12192
     - t-12193
     - t-93463
-
 - id: c-88823
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -493,7 +489,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93460
-
 - id: c-88825
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -514,7 +509,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93461
-
 - id: c-168134
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -537,7 +531,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184773
-
 - id: c-168135
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -557,7 +550,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184774
-
 - id: c-168136
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -582,7 +574,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   pagrindzia:
     - t-184775
     - t-196546
-
 - id: c-168138
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -614,7 +605,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184777
-
 - id: c-168139
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -655,7 +645,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   pagrindzia:
     - t-184778
     - t-196547
-
 - id: c-184360
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -685,7 +674,6 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201010
-
 - id: c-184361
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -713,6 +701,5 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201011
-
 ## Ryšiai
 - Liubartas valdė [[objektai/vietos/Karačevas]]

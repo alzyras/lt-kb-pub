@@ -411,7 +411,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
   pagrindžia:
     - c-178657
-
+    - c-167994
 <a id="claim-t-200955"></a>
 - t-021
   global_id: t-200955
@@ -462,7 +462,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58777
-
 - id: c-59405
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -486,7 +485,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58775
-
 - id: c-59406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -506,7 +504,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58783
-
 - id: c-59407
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -528,7 +525,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58778
-
 - id: c-59408
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -553,7 +549,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58782
-
 - id: c-59409
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -577,7 +572,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58784
     - t-184012
     - t-194458
-
 - id: c-59410
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -604,7 +598,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-58779
     - t-184013
     - t-194459
-
 - id: c-59411
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -630,7 +623,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58772
-
 - id: c-59412
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -653,7 +645,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58773
-
 - id: c-59413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -671,7 +662,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58774
-
 - id: c-59414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -692,7 +682,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   pagrindzia:
     - t-58780
     - t-194457
-
 - id: c-59416
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -720,7 +709,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58776
-
 - id: c-167394
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -743,7 +731,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184009
-
 - id: c-167395
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -766,7 +753,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184010
-
 - id: c-178657
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -793,7 +779,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196384
-
 - id: c-184305
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -813,3 +798,35 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200955
+- id: c-167994
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Pridarė ten lietuviai daug siaubingų šventvagysčių
+    krikščionių šventyklose, bjauriai išniekino šventuosius
+    indus; vis dėlto retai kada po tokių nusikaltimų ilgai
+    užtrunka bausmė; grįždami atgal, šventvagiškieji plė­
+    šikai patyrė kerštą už dievybės paniekinimą: Kulmo
+    komtūras Konradas Žakas juos visus ligi vieno išžudė.
+    Kur kas didesnės sėkmės kitais metais susilaukė šeši
+    178
+
+    ## Puslapis 177
+
+    šimtai
+    raitelių.
+    Kanonas,
+    1299 m e ta i
+    Brandenburgo komtūras, su
+    nemaža kariuomene įsibro­
+    vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos
+    bei Pieštvės papilyse namus, o po to, papildęs kariuo­
+    menę stipriu Ragainės būriu, nugabeno ją laivais į
+    krašto gilumą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-196384

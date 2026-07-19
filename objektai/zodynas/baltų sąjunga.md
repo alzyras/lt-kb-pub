@@ -69,7 +69,7 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
   temporalinis_llm_pakomentavimas: "Citata remia sąvokos aiškinimą, o pradinis tekstas nutrūkęs ir perteklinis."
   pagrindžia:
     - c-69852
-
+    - c-002
 <a id="claim-t-197030"></a>
 - t-002
   global_id: t-197030
@@ -126,8 +126,7 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-71208
 ## Citatos
 
 - id: c-69852
@@ -155,7 +154,6 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71208
-
 - id: c-179010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

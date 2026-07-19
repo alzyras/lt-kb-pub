@@ -57,7 +57,7 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174455
-
+    - c-001
 <a id="claim-t-191574"></a>
 - t-002
   global_id: t-191574
@@ -78,7 +78,7 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174456
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė vieną žodį.'
@@ -95,8 +95,7 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191573
 - c-002
   santrauka: 'Narbuto tekstas buvo parengtas remiantis T. Volianskio tyrinėjimais ir J. Hamerio monografija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -112,8 +111,7 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191574
 ## Citatos
 
 - id: c-174455
@@ -137,7 +135,6 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191573
-
 - id: c-174456
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

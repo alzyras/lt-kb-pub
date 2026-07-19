@@ -54,7 +54,7 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170799
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas posakį „Tas, kuris vežime turi pasikinkęs šešis arklius“ pateikia kaip labai seną patarlę iš XVI a. vietinių dokumentų.'
@@ -74,8 +74,7 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187840
 ## Citatos
 
 - id: c-170799

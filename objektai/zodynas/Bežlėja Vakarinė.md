@@ -49,7 +49,7 @@ Pasak Lasickio, Bežlėja, kitaip Vakarinė, buvo vakaro deivė, kartu su Aušra
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172168
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Lasickio, Bežlėja, kitaip Vakarinė, buvo vakaro deivė, kartu su Aušra tarnavusi saulei.'
@@ -67,8 +67,7 @@ Pasak Lasickio, Bežlėja, kitaip Vakarinė, buvo vakaro deivė, kartu su Aušra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189280
 ## Citatos
 
 - id: c-172168

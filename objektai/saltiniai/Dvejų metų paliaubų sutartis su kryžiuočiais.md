@@ -117,7 +117,6 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
   pagrindzia:
     - t-186309
     - t-196346
-
 - id: c-169671
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

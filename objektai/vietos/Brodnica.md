@@ -124,7 +124,6 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83245
-
 - id: c-79612
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -147,7 +146,6 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83243
-
 - id: c-79613
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -169,4 +167,4 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-83242
+    - t-83244

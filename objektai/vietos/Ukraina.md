@@ -334,7 +334,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122429
-
 - id: c-112014
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -363,7 +362,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   pagrindzia:
     - t-122425
     - t-122427
-
 - id: c-112015
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -388,7 +386,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122422
-
 - id: c-112017
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -412,7 +409,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122421
-
 - id: c-112022
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -430,7 +426,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122426
-
 - id: c-168529
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -457,7 +452,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185168
-
 - id: c-175976
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -474,7 +468,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193239
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
 - Ukraina priklausė [[objektai/vietos/Lenkija]]

@@ -70,7 +70,6 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86835
-
 ## Ryšiai
 - Vokiečių pirkliai keliavo į [[objektai/vietos/Krėva]]
 - Vokiečių pirkliai prekiavo su [[objektai/grupes/Aisčiai]], [[objektai/grupes/Lybiai]]

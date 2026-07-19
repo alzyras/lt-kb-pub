@@ -121,7 +121,6 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85970
-
 - id: c-81952
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -152,7 +151,6 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85972
-
 - id: c-81953
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

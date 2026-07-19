@@ -104,7 +104,6 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21225
-
 - id: c-166772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

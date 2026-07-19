@@ -53,7 +53,7 @@ Dusburgietis teigia, kad wiliński K.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, leidinį, vietą ir metus."
   pagrindžia:
     - c-62000
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Wilińskio straipsnis apie lenkų ir prūsų kovas X-XIII a. paskelbtas 1984 m. Lodzės universiteto istorijos leidinyje.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad wiliński K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61368
 ## Citatos
 
 - id: c-62000

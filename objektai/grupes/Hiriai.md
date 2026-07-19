@@ -168,9 +168,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-005
-
 ## Citatos
 
 - id: c-175696
@@ -194,7 +191,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192926
-
 - id: c-175697
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -225,7 +221,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   pagrindzia:
     - t-192927
     - t-197505
-
 - id: c-175698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -256,6 +251,5 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
   pagrindzia:
     - t-192928
     - t-197506
-
 ## Ryšiai
 - Hiriai keliavo į [[objektai/vietos/Dnepras]]

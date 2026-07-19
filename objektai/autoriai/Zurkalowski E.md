@@ -52,7 +52,7 @@ Dusburgietis teigia, kad zurkalowski E.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61462
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Zurkalowski E. paskelbė darbą apie tai, į kuriuos metus datuotina sembų surengta Klaipėdos apgultis.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad zurkalowski E.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60830
 ## Citatos
 
 - id: c-61462

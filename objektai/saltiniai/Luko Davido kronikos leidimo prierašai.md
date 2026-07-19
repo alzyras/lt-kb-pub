@@ -49,7 +49,7 @@ Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Hen
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174674
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Henningo leidinio I tomo 158 puslapiu.'
@@ -64,8 +64,7 @@ Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Hen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191792
 ## Citatos
 
 - id: c-174674

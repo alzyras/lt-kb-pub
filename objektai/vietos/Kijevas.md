@@ -262,8 +262,8 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporalinis_llm_pakomentavimas: "Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas."
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
-    - c-181804
-
+    - c-181815
+    - c-163654
 <a id="claim-t-180020"></a>
 - t-016
   global_id: t-180020
@@ -1021,8 +1021,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-181797
-
+    - c-163636
 <a id="claim-t-199259"></a>
 - t-061
   global_id: t-199259
@@ -1061,8 +1060,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
-    - c-181797
-
+    - c-163636
 <a id="claim-t-199278"></a>
 - t-064
   global_id: t-199278
@@ -1082,7 +1080,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-181807
-
+    - c-181797
 <a id="claim-t-199285"></a>
 - t-065
   global_id: t-199285
@@ -1137,8 +1135,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-181797
-
+    - c-163636
 <a id="claim-t-199304"></a>
 - t-068
   global_id: t-199304
@@ -1181,7 +1178,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-181801
-
+    - c-031
 <a id="claim-t-201066"></a>
 - t-070
   global_id: t-201066
@@ -1214,8 +1211,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   teiginys: 'Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais.'
   susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Podolė; mentioned_place: Volynė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva'
   pagrindžia:
-    - c-181826
-
+    - c-010
 <a id="claim-t-180005"></a>
 - t-006
   global_id: t-180005
@@ -1223,8 +1219,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia kalba apie Lietuvą, todėl susiaurintas iki fakto apie Kijevą.'
   susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Polockas; mentioned_place: Voluinė'
   pagrindžia:
-    - c-181805
-
+    - c-011
 <a id="claim-t-180019"></a>
 - t-015
   global_id: t-180019
@@ -1232,16 +1227,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus enciklopedinio fakto apie Kijevą.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Krokuva'
   pagrindžia:
-    - c-181826
-
+    - c-010
 <a id="claim-t-180047"></a>
 - t-031
   global_id: t-180047
   teiginys: 'Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų.'
   susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Polockas; mentioned_place: Voluinė'
   pagrindžia:
-    - c-181805
-
+    - c-011
 <a id="claim-t-187582"></a>
 - t-042
   global_id: t-187582
@@ -1252,8 +1245,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   sudarymo_pagrindimas: 'Įvardytas Vytautas ir išskleistas Kijevo kontekstas, o kronikos pasakojimas paliktas atribucijoje. Nepridėta metų ar politinių motyvų, kurių citata nenurodo.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Vladimiras'
   pagrindžia:
-    - c-181786
-
+    - c-170529
 <a id="claim-t-199308"></a>
 - t-125
   global_id: t-199308
@@ -1264,7 +1256,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir fragmentiška sakinio pradžia.'
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Podolė; mentioned_place: Vitebskas; mentioned_place: Vladimiras'
   pagrindžia:
-    - c-181799
+    - c-170528
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 - susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
@@ -1766,9 +1758,8 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-101
-    - t-015
-
+    - t-180001
+    - t-180019
 - c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1785,9 +1776,8 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031
-    - t-006
-
+    - t-180005
+    - t-180047
 - c-029
   santrauka: 'Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1811,8 +1801,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-125
-
 - c-030
   santrauka: 'Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1837,8 +1825,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-124
-
 - c-031
   santrauka: 'Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1862,8 +1848,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043
-
+    - t-199305
 ## Citatos
 
 - id: c-32127
@@ -1882,7 +1867,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199267
-
 - id: c-163633
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1907,7 +1891,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180012
     - t-180055
-
 - id: c-163635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1927,7 +1910,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180006
     - t-180026
-
 - id: c-163638
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1947,7 +1929,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180021
     - t-180027
-
 - id: c-163639
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1967,8 +1948,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180002
-
+    - t-180028
 - id: c-163640
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2001,7 +1981,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180040
     - t-180057
-
 - id: c-163642
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2024,7 +2003,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180008
-
 - id: c-163645
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2046,7 +2024,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180038
-
 - id: c-163649
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2067,7 +2044,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180044
     - t-197172
-
 - id: c-163654
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2086,8 +2062,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180017
-
+    - t-180050
 - id: c-163655
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2107,7 +2082,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180022
-
 - id: c-163661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2138,7 +2112,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180000
     - t-180013
-
 - id: c-163665
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2164,7 +2137,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180016
     - t-180033
-
 - id: c-163669
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2185,7 +2157,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180003
     - t-180030
-
 - id: c-163672
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2208,7 +2179,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180010
     - t-180020
-
 - id: c-163674
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2231,7 +2201,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180004
-
 - id: c-163677
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2267,7 +2236,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180014
-
 - id: c-163678
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2287,7 +2255,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-180048
     - t-180052
-
 - id: c-163682
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2312,7 +2279,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180039
-
 - id: c-163683
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2343,7 +2309,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - t-180031
     - t-180056
     - t-193766
-
 - id: c-163687
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2379,7 +2344,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180046
-
 - id: c-166420
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2400,7 +2364,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183028
-
 - id: c-168346
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2433,7 +2396,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-184985
     - t-196694
-
 - id: c-168347
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2466,7 +2428,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-184986
     - t-196695
-
 - id: c-168348
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2488,7 +2449,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184987
-
 - id: c-171613
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2512,7 +2472,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188724
-
 - id: c-175441
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2536,7 +2495,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192671
-
 - id: c-175442
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2564,7 +2522,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192672
-
 - id: c-175443
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2588,7 +2545,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192673
-
 - id: c-175445
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2620,7 +2576,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192675
-
 - id: c-175446
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2649,7 +2604,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-192676
     - t-197883
-
 - id: c-175447
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2675,7 +2629,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-192677
     - t-197884
-
 - id: c-175934
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2694,7 +2647,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193190
-
 - id: c-175935
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2712,7 +2664,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193191
-
 - id: c-175936
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2737,7 +2688,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193192
-
 - id: c-176421
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2755,7 +2705,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193765
-
 - id: c-179379
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2782,7 +2731,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197882
-
 - id: c-181784
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2806,7 +2754,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - t-199255
     - t-199259
     - t-199293
-
 - id: c-181787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3000,10 +2947,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199256
-    - t-199270
-    - t-199303
-
+    - t-199278
 - id: c-181798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3096,7 +3040,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199305
-
 - id: c-181802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3177,7 +3120,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199278
-
 - id: c-181808
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3292,7 +3234,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199285
-
 - id: c-181813
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3436,7 +3377,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindzia:
     - t-199251
     - t-199304
-
 - id: c-181821
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3695,7 +3635,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201066
-
 - id: c-184417
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -3714,7 +3653,69 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201067
-
+- id: c-163636
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Podolėje Karijotaičiai
+    ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir
+    kt.), užvesti ūkinį gyvenimą.
+    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
+    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
+    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
+    brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
+    įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
+  citata_rodoma: "), užvesti ūkinį gyvenimą.\nDrauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo\nkunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos\nkunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino\nbrolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių\nįtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199256
+    - t-199270
+    - t-199303
+- id: c-170528
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    APIE ALGIRDO ŠONŲ JOGAILA IR JO  PINKLES PRIEŠ SAVO
+    DĖDĘ KĘSTUTI
+    Didysis kunigaikštis Algirdas turėjo dvylika sūnų
+    O štai jo sūnūs, sugyventi su ta žmona, kurią jis buvo
+    paėmęs pas Vitebsko kunigaikštį2  su kuria ir Vitebs­
+    ką buvo gavęs; Įsu ja] turėjo šešis sūnus 3 . Pirmas bu­
+    vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
+    kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
+    mę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199308
+- id: c-170529
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Pas jį iš
+    Kijevo atvyko kunigaikštis Vladimiras. Tais pačiais
+    metais rudenį didysis kunigaikštis Vytautas iškėlė jį
+    iš Kijevo 1 3  ir davė jam Kopylį M , o Kijeve pasodino
+    Skirgailą Algirdaitį; pats didysis kunigaikštis Vytautas
+    išžygiavo į Podolės žemę l5 , o kunigaikščiui Skirgailai
+    liepė iš Kijevo žygiuoti į Čerkasus ir į Zvenigorodą l6 .
+    Didysis kunigaikštis Skirgaila, dievui padėjus ir didžia­
+    jam kunigaikščiui Vytautui įsakius, paėmė Čerkasus
+    ir Zvenigorodą ir sugrįžo atgal į Kijevą l7.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187582
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]]
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]]

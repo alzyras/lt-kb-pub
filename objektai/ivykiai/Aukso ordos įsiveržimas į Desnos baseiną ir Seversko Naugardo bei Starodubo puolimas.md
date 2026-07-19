@@ -94,8 +94,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta įžanga ir išlaikyta citatos paremta informacija.'
   pagrindžia:
-    - c-169978
-
+    - c-001
 <a id="claim-t-186785"></a>
 - t-003
   global_id: t-186785
@@ -107,8 +106,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys padarytas tiesioginis ir įtrauktas citatoje nurodytas laiko patikslinimas.'
   pagrindžia:
-    - c-169978
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -127,9 +125,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-001
-
+    - t-186782
+    - t-186785
 ## Citatos
 
 - id: c-169979

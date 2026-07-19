@@ -104,7 +104,6 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22088
-
 - id: c-166799
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

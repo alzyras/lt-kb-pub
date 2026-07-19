@@ -117,7 +117,6 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68891
-
 - id: c-68355
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -137,6 +136,5 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68892
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

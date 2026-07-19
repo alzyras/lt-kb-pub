@@ -155,7 +155,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10815
-
 - id: c-00234
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -173,7 +172,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10816
-
 - id: c-14481
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -197,7 +195,6 @@ Nenurodyta
   pagrindzia:
     - t-12421
     - t-93015
-
 - id: c-14482
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

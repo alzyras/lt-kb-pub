@@ -88,7 +88,6 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192999
-
 - id: c-179230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

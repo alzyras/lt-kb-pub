@@ -77,7 +77,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citata apie Vėluvos pilį prie Priegliaus."
   pagrindžia:
     - c-59004
-
+    - c-004
 <a id="claim-t-58370"></a>
 - t-003
   global_id: t-58370
@@ -204,8 +204,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58369
 ## Citatos
 
 - id: c-59000
@@ -226,7 +225,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58370
-
 - id: c-59002
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -250,7 +248,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58368
-
 - id: c-59003
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -276,7 +273,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58372
-
 - id: c-59004
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -298,7 +294,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58369
-
 - id: c-167578
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

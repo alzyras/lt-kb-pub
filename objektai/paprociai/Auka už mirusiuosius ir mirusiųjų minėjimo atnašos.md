@@ -74,8 +74,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys jau yra glaustas ir pilnas sakinys apie auką už mirusius bičiulius. Narbuto atribucija tinkama, o Strijkovskio citatos detalės nepridėtos.'
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_object: [[objektai/daiktai/Smilkalai|Smilkalai]]'
   pagrindžia:
-    - c-171000
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.'
@@ -100,8 +99,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187991
 ## Citatos
 
 - id: c-177020

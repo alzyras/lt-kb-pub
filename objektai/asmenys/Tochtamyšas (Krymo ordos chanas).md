@@ -81,6 +81,5 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35297
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]

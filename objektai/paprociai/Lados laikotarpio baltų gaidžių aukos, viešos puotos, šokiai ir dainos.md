@@ -71,7 +71,7 @@ Nenurodyta.
   vertinimo_atnaujinta: "2026-07-02T04:21:55Z"
   pagrindžia:
     - c-170787
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Lados laikotarpiu laiko gegužės 25–birželio 25 d. tarpsnį, kai, jo teigimu, lietuviai aukodavo baltus gaidžius, rengdavo puotas, šokdavo ir dainuodavo.'
@@ -89,8 +89,7 @@ Nenurodyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187837
 ## Citatos
 
 - id: c-170787

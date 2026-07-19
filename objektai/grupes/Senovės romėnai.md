@@ -70,7 +70,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172255
-
+    - c-002
 <a id="claim-t-189372"></a>
 - t-004
   global_id: t-189372
@@ -91,7 +91,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172259
-
+    - c-004
 <a id="claim-t-189373"></a>
 - t-003
   global_id: t-189373
@@ -159,7 +159,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172262
-
+    - c-007
 <a id="claim-t-189376"></a>
 - t-008
   global_id: t-189376
@@ -180,7 +180,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172263
-
+    - c-008
 <a id="claim-t-189377"></a>
 - t-009
   global_id: t-189377
@@ -201,7 +201,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172264
-
+    - c-009
 <a id="claim-t-189378"></a>
 - t-010
   global_id: t-189378
@@ -250,7 +250,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176988
-
+    - c-012
 <a id="claim-t-194590"></a>
 - t-013
   global_id: t-194590
@@ -264,7 +264,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176989
-
+    - c-013
 <a id="claim-t-194591"></a>
 - t-011
   global_id: t-194591
@@ -320,7 +320,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176993
-
+    - c-017
 <a id="claim-t-197221"></a>
 - t-016
   global_id: t-197221
@@ -376,8 +376,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189368
 - c-004
   santrauka: 'Narbutas rašo, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -394,8 +393,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-189372
 - c-007
   santrauka: 'Narbutas lygina, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus atskiriems dievams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -412,8 +410,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-189375
 - c-008
   santrauka: 'Narbutas perteikia Strijkovskio teiginį, kad ugnies apeigomis buvo pamėgdžiojami romėnai per Palilėjų šventes deivės Palės garbei.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -432,8 +429,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-189376
 - c-009
   santrauka: 'Narbutas rašo, kad romėnai laukų apvalymo apeigas vadino Ambervales arba Cum solemnia vota lustrare agros.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -451,8 +447,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-189377
 - c-010
   santrauka: 'Narbutas rašo, kad romėnai per vestuves nukirpdavo kasas, aukodavo jas Junonai ir šią pakirptuvių apeigą vadino Heratelea.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -468,9 +463,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-    - t-020
-
 - c-012
   santrauka: 'Graikai bei romėnai, kuriuos šiame veikale minėsime va dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas dievybes - Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia viskam.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -488,8 +480,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-194589
 - c-013
   santrauka: 'Narbutas teigia, kad šio dievo mitas taip pat sutampa su senovės persų Oromazu ir Arimanu, iš kurių, matyt, ir kilęs.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -504,8 +495,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-194590
 - c-017
   santrauka: 'Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie toj parašų patvirtindavo savo raštus - taip, kaip romėnai9.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -523,8 +513,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
+    - t-194594
 ## Citatos
 
 - id: c-172251
@@ -551,7 +540,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189364
-
 - id: c-172255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -577,7 +565,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189368
-
 - id: c-172259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -599,7 +586,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189372
-
 - id: c-172260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -616,7 +602,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189373
-
 - id: c-172261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -639,7 +624,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189374
-
 - id: c-172262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -662,7 +646,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189375
-
 - id: c-172263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -684,7 +667,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189376
-
 - id: c-172264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -706,7 +688,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189377
-
 - id: c-172265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -729,7 +710,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   pagrindzia:
     - t-189378
     - t-197223
-
 - id: c-176987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -754,7 +734,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   pagrindzia:
     - t-194588
     - t-197221
-
 - id: c-176988
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -777,7 +756,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194589
-
 - id: c-176989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -796,7 +774,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194590
-
 - id: c-176990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -819,7 +796,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194591
-
 - id: c-176991
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -837,7 +813,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194592
-
 - id: c-176992
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -856,7 +831,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194593
-
 - id: c-176993
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -880,7 +854,6 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194594
-
 - id: c-179072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -904,6 +877,5 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197222
-
 ## Ryšiai
 - Senovės romėnai pastatė [[objektai/daiktai/Aukurai]]

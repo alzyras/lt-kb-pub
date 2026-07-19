@@ -110,7 +110,6 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187386
-
 - id: c-170390
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -135,7 +134,6 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187385
-
 - id: c-175985
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

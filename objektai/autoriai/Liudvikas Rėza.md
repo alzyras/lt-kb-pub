@@ -74,8 +74,7 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Liudviką Rėzą ir išlaiko Narbuto atribuciją vertinimui. Citata palaiko Rėzos priekaištus skeptikams ir kronikininkų gynimą.'
   pagrindžia:
-    - c-174534
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kronikininkų pasakojimų patikimumą.'
@@ -101,8 +100,7 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191652
 ## Citatos
 
 - id: c-176260
@@ -122,7 +120,6 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193585
-
 - id: c-179128
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

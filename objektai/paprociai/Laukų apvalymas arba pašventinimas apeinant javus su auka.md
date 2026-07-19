@@ -66,7 +66,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172725
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas laukų apvalymo apeigas siejo su antikos praktika ir nurodė, kad romėnai jas vadino Ambervales.'
@@ -85,8 +85,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189842
 ## Citatos
 
 - id: c-172725

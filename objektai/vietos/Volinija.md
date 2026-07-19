@@ -186,7 +186,6 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   pagrindzia:
     - t-48791
     - t-48792
-
 - id: c-50923
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -207,7 +206,6 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-48790
-
 - id: c-50924
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -226,7 +224,6 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-48793
-
 - id: c-50925
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -245,7 +242,6 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-48789
-
 - id: c-50926
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

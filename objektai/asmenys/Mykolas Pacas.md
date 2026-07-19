@@ -119,7 +119,6 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79144
-
 - id: c-76226
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,7 +139,6 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79142
-
 - id: c-184110
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

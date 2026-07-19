@@ -100,9 +100,8 @@ Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-
+    - t-187234
+    - t-187236
 - id: c-170301
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -122,4 +121,4 @@ Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-187235

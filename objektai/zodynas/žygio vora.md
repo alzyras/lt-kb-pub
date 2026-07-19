@@ -49,7 +49,7 @@ media_all_json: |-
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Kryžiuočių ordinas (0.68)"
   pagrindžia:
     - c-168723
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žygyje kartu su Algirdu kariuomenė buvo padalyta į tris žygio voras.'
@@ -69,8 +69,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185362
 ## Citatos
 
 - id: c-168723

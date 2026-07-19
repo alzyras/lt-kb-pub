@@ -82,7 +82,6 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191265
-
 - id: c-174829
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

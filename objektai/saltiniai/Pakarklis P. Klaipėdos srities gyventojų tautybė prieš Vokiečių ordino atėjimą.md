@@ -53,7 +53,7 @@ Dusburgietis teigia, kad pakarklis P.
   temporalinis_llm_pakomentavimas: "Citata pateikia pakankamą bibliografinį faktą apie publikavimo vietą ir metus."
   pagrindžia:
     - c-61842
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Pakarklio „Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą“ 1933 m. publikuotas „Mūsų žinyne“.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad pakarklis P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61210
 ## Citatos
 
 - id: c-61842

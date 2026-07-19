@@ -71,7 +71,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159385
-
+    - c-001
 <a id="claim-t-175242"></a>
 - t-003
   global_id: t-175242
@@ -88,7 +88,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159386
-
+    - c-002
 <a id="claim-t-175243"></a>
 - t-004
   global_id: t-175243
@@ -105,6 +105,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159387
+    - c-003
 - susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-183952|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis po Pakimos nusiaubimo su kariuomene vakare perėjo užšalusį Nagutino ežerą.
 - susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-62425|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis įsiveržė į Sūduvos žemės Pakimos valsčių, jį nusiaubė, sudegino ir apiplėšė.
 ## Reikšmingi paminėjimai
@@ -125,8 +126,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-175241
 - c-002
   santrauka: 'Konradas iš Tirbergo Jaunesnysis, būdamas Prūsijos žemės maršalas, įsiveržė į Pakimos valsčių Sūduvoje ir jį smarkiai nusiaubė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -145,8 +145,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-175242
 - c-003
   santrauka: 'Konradas iš Tirbergo Jaunesnysis su didele kariuomene puolė Bisenės pilį, ją užėmė ir pavertė pelenais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -165,8 +164,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-175243
 ## Citatos
 
 - id: c-159385
@@ -191,7 +189,6 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175241
-
 - id: c-159386
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -214,7 +211,6 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175242
-
 - id: c-159387
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -244,7 +240,6 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175243
-
 - id: c-159388
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -266,6 +261,5 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175240
-
 ## Ryšiai
 - Konradas iš Tirbergo Jaunesnysis puolė [[objektai/vietos/Sūduva]]

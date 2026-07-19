@@ -444,7 +444,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171747
-
+    - c-018
 <a id="claim-t-193246"></a>
 - t-022
   global_id: t-193246
@@ -553,8 +553,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021
-
+    - t-188858
 ## Citatos
 
 - id: c-24572
@@ -573,7 +572,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110155
-
 - id: c-24573
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -591,7 +589,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110158
-
 - id: c-24574
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -609,7 +606,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193246
-
 - id: c-24575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -630,7 +626,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110148
-
 - id: c-37803
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -648,7 +643,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110166
-
 - id: c-37804
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -665,7 +659,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110152
-
 - id: c-37805
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -686,7 +679,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   pagrindzia:
     - t-110164
     - t-110165
-
 - id: c-102046
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -716,7 +708,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   pagrindzia:
     - t-110150
     - t-110160
-
 - id: c-102048
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -748,7 +739,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   pagrindzia:
     - t-110149
     - t-110163
-
 - id: c-102049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -774,7 +764,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   pagrindzia:
     - t-110153
     - t-110157
-
 - id: c-102050
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -797,7 +786,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110154
-
 - id: c-102051
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -823,7 +811,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110151
-
 - id: c-102052
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -847,7 +834,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110146
-
 - id: c-102056
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -868,7 +854,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110161
-
 - id: c-102057
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -910,7 +895,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110159
-
 - id: c-102058
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -932,7 +916,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110162
-
 - id: c-167260
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -956,7 +939,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183875
-
 - id: c-171747
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -977,7 +959,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188858
-
 - id: c-184128
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -997,7 +978,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200783
-
 - id: c-184129
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1017,7 +997,6 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200784
-
 - id: c-184130
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1039,6 +1018,5 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200785
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

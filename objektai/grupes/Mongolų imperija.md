@@ -114,8 +114,7 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74873
-
+    - t-74874
 - id: c-22678
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -136,7 +135,6 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74872
-
 - id: c-72858
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,6 +154,5 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74875
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Auksinė Orda]]

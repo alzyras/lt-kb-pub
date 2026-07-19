@@ -73,6 +73,18 @@ test("PII-like search terms are suppressed while ordinary history terms remain",
 test("event allowlist and dedupe keys are deterministic", () => {
   assert.deepEqual(ANALYTICS_EVENT_NAMES.includes("deep_exploration"), true)
   assert.deepEqual(ANALYTICS_EVENT_NAMES.includes("map_interaction"), true)
+  for (const name of [
+    "object_view",
+    "citation_open",
+    "deep_exploration",
+    "gallery_open",
+    "map_open",
+    "rss_click",
+    "newsletter_signup",
+    "outbound_source_click",
+  ] as const) {
+    assert.equal(ANALYTICS_EVENT_NAMES.includes(name), true)
+  }
   assert.deepEqual(ANALYTICS_MAP_ACTIONS.includes("node_select"), true)
   assert.deepEqual(ANALYTICS_CUSTOM_DIMENSIONS.includes("map_action"), true)
   assert.deepEqual(ANALYTICS_CUSTOM_METRICS.includes("result_count"), true)

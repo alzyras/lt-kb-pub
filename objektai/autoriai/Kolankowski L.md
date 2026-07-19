@@ -56,7 +56,7 @@ Dusburgietis teigia, kad kolankowski L.
   temporalinis_llm_pakomentavimas: "Citata pateikia autoriaus darbą, leidinį, vietą ir metus."
   pagrindžia:
     - c-61360
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad kolankowski L.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60728
 ## Citatos
 
 - id: c-61360

@@ -105,7 +105,6 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71297
-
 - id: c-21751
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,6 +131,5 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71296
-
 ## Ryšiai
 - Jonas Paulius II keliavo į [[objektai/vietos/Kryžių kalnas]], [[objektai/vietos/Lietuva]]

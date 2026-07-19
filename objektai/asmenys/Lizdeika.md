@@ -65,7 +65,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-170881
-
+    - c-001
 <a id="claim-t-188580"></a>
 - t-003
   global_id: t-188580
@@ -103,6 +103,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177111
+    - c-005
 - susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-183829|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.
 - susijęs iš M. Strijkovskio kronika: Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą.
 - susijęs iš Tauro kalnas: Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.
@@ -146,8 +147,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187903
 - c-005
   santrauka: 'Strijkovskis, dėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo lat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria buvus Lizdeiką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -164,8 +164,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-194715
 ## Citatos
 
 - id: c-170881
@@ -192,7 +191,6 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187903
-
 - id: c-170882
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -225,7 +223,6 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187902
-
 - id: c-171469
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -247,7 +244,6 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188580
-
 - id: c-177111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

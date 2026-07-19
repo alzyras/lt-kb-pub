@@ -92,7 +92,6 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58598
-
 - id: c-59231
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -116,6 +115,5 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58599
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]

@@ -151,7 +151,6 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66507
-
 - id: c-66719
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

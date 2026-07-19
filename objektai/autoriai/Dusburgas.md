@@ -133,7 +133,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55992
-
+    - c-006
 <a id="claim-t-102846"></a>
 - t-006
   global_id: t-102846
@@ -167,7 +167,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-55989
-
+    - c-004
 <a id="claim-t-102848"></a>
 - t-008
   global_id: t-102848
@@ -186,7 +186,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55994
-
+    - c-008
 <a id="claim-t-102849"></a>
 - t-009
   global_id: t-102849
@@ -206,7 +206,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55990
-
+    - c-005
 <a id="claim-t-102850"></a>
 - t-010
   global_id: t-102850
@@ -298,7 +298,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-55993
-
+    - c-007
 <a id="claim-t-102855"></a>
 - t-015
   global_id: t-102855
@@ -549,8 +549,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-102847
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -567,8 +566,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-102849
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -585,8 +583,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-102845
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -603,8 +600,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-102854
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -625,8 +621,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-102848
 ## Citatos
 
 - id: c-11407
@@ -648,7 +643,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102850
-
 - id: c-30477
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -669,7 +663,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindzia:
     - t-102841
     - t-102855
-
 - id: c-30478
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -692,7 +685,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindzia:
     - t-102852
     - t-102853
-
 - id: c-55989
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -718,7 +710,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102847
-
 - id: c-55990
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -742,7 +733,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102849
-
 - id: c-55992
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -765,7 +755,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102845
-
 - id: c-55993
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -790,7 +779,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102854
-
 - id: c-55994
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -820,7 +808,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102848
-
 - id: c-96077
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -851,7 +838,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindzia:
     - t-102844
     - t-102856
-
 - id: c-96082
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -886,7 +872,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindzia:
     - t-102843
     - t-102851
-
 - id: c-96084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -918,7 +903,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102846
-
 - id: c-96085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -943,7 +927,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102840
-
 - id: c-167968
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -968,7 +951,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184607
-
 - id: c-176800
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

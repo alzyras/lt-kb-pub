@@ -89,7 +89,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171399
-
+    - c-003
 <a id="claim-t-197387"></a>
 - t-004
   global_id: t-197387
@@ -129,8 +129,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188509
 ## Citatos
 
 - id: c-60858
@@ -159,7 +158,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60226
-
 - id: c-171398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -183,7 +181,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   pagrindzia:
     - t-188508
     - t-197387
-
 - id: c-171399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -103,7 +103,6 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58650
-
 - id: c-59283
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -125,6 +124,5 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58651
-
 ## Ryšiai
 - Puolė Vartenbergą: [[objektai/grupes/Sūduviai]]

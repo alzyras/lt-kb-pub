@@ -112,7 +112,6 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58542
-
 - id: c-59175
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

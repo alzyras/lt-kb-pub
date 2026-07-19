@@ -208,7 +208,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189410
-
 - id: c-172298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -228,7 +227,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189411
-
 - id: c-172299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -254,7 +252,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189412
-
 - id: c-172300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -272,7 +269,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189413
-
 - id: c-172301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

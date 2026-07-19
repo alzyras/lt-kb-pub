@@ -86,7 +86,6 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86782
-
 - id: c-176786
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

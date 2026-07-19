@@ -82,7 +82,6 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194302
-
 - id: c-176895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

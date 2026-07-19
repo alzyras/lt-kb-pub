@@ -85,7 +85,6 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192596
-
 - id: c-184364
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

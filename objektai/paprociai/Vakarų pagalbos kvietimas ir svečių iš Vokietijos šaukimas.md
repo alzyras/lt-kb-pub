@@ -146,7 +146,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10819
-
 - id: c-00238
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,7 +164,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10820
-
 - id: c-00239
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -184,7 +182,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10821
-
 - id: c-05451
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

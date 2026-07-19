@@ -87,7 +87,6 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86070
-
 - id: c-82049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

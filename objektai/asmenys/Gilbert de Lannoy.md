@@ -69,6 +69,5 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35079
-
 ## Ryšiai
 - Gilbert de Lannoy keliavo į [[objektai/vietos/Krymas]]

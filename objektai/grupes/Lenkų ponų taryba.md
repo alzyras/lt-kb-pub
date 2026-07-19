@@ -100,7 +100,6 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01378
-
 - id: c-01616
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

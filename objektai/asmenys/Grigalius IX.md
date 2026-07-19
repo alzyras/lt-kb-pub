@@ -84,7 +84,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir remiasi citatoje nurodytais Grigaliaus IX veiksmais."
   pagrindžia:
     - c-167459
-
+    - c-002
 <a id="claim-t-197085"></a>
 - t-003
   global_id: t-197085
@@ -129,8 +129,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184074
 ## Citatos
 
 - id: c-41926
@@ -154,7 +153,6 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79023
-
 - id: c-167459
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

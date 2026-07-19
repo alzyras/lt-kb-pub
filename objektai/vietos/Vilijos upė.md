@@ -96,7 +96,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86158
-
 - id: c-82138
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

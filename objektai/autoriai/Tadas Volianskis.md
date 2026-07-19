@@ -225,7 +225,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173683
-
+    - c-010
 <a id="claim-t-190802"></a>
 - t-011
   global_id: t-190802
@@ -246,7 +246,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173684
-
+    - c-011
 <a id="claim-t-190803"></a>
 - t-009
   global_id: t-190803
@@ -330,7 +330,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173688
-
+    - c-015
 <a id="claim-t-190807"></a>
 - t-014
   global_id: t-190807
@@ -420,8 +420,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-190801
 - c-011
   santrauka: 'Teodoras Narbutas Tado Volianskio išvadomis pildė parankinio „Lietuvių tautos istorijos“ egzemplioriaus tomus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -438,8 +437,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-190802
 - c-015
   santrauka: 'Teodoras Narbutas nurodo, kad Tadas Volianskis runų užrašą skaitė kaip Simeonas (SI-ME-ON).'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -460,8 +458,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-190806
 ## Citatos
 
 - id: c-173165
@@ -482,7 +479,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190282
-
 - id: c-173166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -498,7 +494,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190283
-
 - id: c-173167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -517,7 +512,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190284
-
 - id: c-173168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -535,7 +529,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190285
-
 - id: c-173170
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -560,7 +553,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190287
-
 - id: c-173171
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -578,7 +570,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190288
-
 - id: c-173172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -600,7 +591,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   pagrindzia:
     - t-190289
     - t-197338
-
 - id: c-173173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -621,7 +611,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190290
-
 - id: c-173683
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -648,7 +637,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190801
-
 - id: c-173684
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -674,7 +662,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190802
-
 - id: c-173685
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -698,7 +685,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   pagrindzia:
     - t-190803
     - t-197646
-
 - id: c-173686
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -724,7 +710,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190804
-
 - id: c-173687
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -749,7 +734,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190805
-
 - id: c-173688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -774,7 +758,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190806
-
 - id: c-173689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -798,7 +781,6 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   pagrindzia:
     - t-190807
     - t-197647
-
 - id: c-179278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -101,7 +101,6 @@ Ažytė šiame šaltinyje yra upelis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195474
-
 - id: c-177895
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -122,7 +121,6 @@ Ažytė šiame šaltinyje yra upelis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195475
-
 - id: c-177896
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

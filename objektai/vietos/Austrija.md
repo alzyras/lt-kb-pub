@@ -247,7 +247,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182996
-
 - id: c-165561
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

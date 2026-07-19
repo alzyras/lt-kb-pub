@@ -69,6 +69,5 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32431
-
 ## Ryšiai
 - Užėmė Padauguvio Sėlą: [[objektai/grupes/Lietuviai]]

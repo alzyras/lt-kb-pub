@@ -48,7 +48,7 @@ Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarin�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174633
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarinę pusę senovės geografų darbuose.'
@@ -71,8 +71,7 @@ Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarin�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191751
 ## Citatos
 
 - id: c-174633

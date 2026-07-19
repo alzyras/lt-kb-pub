@@ -632,7 +632,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180762
-
 - id: c-164348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -655,7 +654,6 @@ media_all_json: |-
   pagrindzia:
     - t-180765
     - t-180773
-
 - id: c-164349
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -675,7 +673,6 @@ media_all_json: |-
   pagrindzia:
     - t-180766
     - t-180768
-
 - id: c-164351
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -698,7 +695,6 @@ media_all_json: |-
   pagrindzia:
     - t-180763
     - t-180770
-
 - id: c-164352
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -720,7 +716,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180775
-
 - id: c-164354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -740,7 +735,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180767
-
 - id: c-164355
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -760,7 +754,6 @@ media_all_json: |-
   pagrindzia:
     - t-180772
     - t-180774
-
 - id: c-164356
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -786,7 +779,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180764
-
 - id: c-168534
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -824,7 +816,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185173
-
 - id: c-175539
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -845,7 +836,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192769
-
 - id: c-175980
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -863,7 +853,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193244
-
 - id: c-184064
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
@@ -882,7 +871,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200719
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Motiejus Huniadis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]]

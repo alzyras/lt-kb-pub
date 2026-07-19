@@ -45,7 +45,7 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60713
-
+    - c-003
 <a id="claim-t-60080"></a>
 - t-002
   global_id: t-60080
@@ -100,8 +100,7 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60079
 ## Citatos
 
 - id: c-60711
@@ -122,7 +121,6 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60080
-
 - id: c-60712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -142,7 +140,6 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60081
-
 - id: c-60713
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

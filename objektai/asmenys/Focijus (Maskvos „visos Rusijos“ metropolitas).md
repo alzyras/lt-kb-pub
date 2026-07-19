@@ -96,7 +96,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia aiškų faktą apie Focijų, o pradinis teiginys yra apie platesnį kontekstą."
   pagrindžia:
     - c-36288
-
+    - c-88595
 <a id="claim-t-93201"></a>
 - t-004
   global_id: t-93201
@@ -254,7 +254,6 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   pagrindzia:
     - t-93202
     - t-93204
-
 - id: c-36293
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -276,7 +275,6 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   pagrindzia:
     - t-93201
     - t-93207
-
 - id: c-88595
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -301,8 +299,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93200
-
+    - t-93203
 - id: c-88598
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -328,7 +325,6 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   pagrindzia:
     - t-93198
     - t-93199
-
 - id: c-167642
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -100,7 +100,6 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78040
-
 - id: c-22042
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -48,7 +48,7 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174807
-
+    - c-001
 <a id="claim-t-197677"></a>
 - t-002
   global_id: t-197677
@@ -82,8 +82,7 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191925
 ## Citatos
 
 - id: c-174807
@@ -110,7 +109,6 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191925
-
 - id: c-179292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

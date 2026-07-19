@@ -41,7 +41,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174705
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Laiškai nuo Kražantės krantų“ trejus metus buvo spausdinami „Gazeta Warszawska“ puslapiuose.'
@@ -65,8 +65,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191823
 ## Citatos
 
 - id: c-174705

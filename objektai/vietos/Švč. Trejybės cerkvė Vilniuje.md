@@ -101,7 +101,6 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86134
-
 - id: c-82114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

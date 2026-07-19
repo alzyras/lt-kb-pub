@@ -50,7 +50,7 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171991
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeigas laikė labai panašiomis į jo aptariamas apeigas.'
@@ -73,8 +73,7 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189103
 ## Citatos
 
 - id: c-171991
@@ -101,6 +100,5 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189103
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Huronai]]

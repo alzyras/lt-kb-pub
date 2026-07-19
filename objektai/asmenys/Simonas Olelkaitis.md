@@ -110,7 +110,6 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186076
-
 - id: c-169438
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

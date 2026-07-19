@@ -192,7 +192,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168114
-
+    - c-168112
 <a id="claim-t-184752"></a>
 - t-010
   global_id: t-184752
@@ -448,7 +448,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82514
-
 - id: c-78979
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -470,7 +469,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82513
-
 - id: c-78983
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -487,7 +485,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82512
-
 - id: c-78984
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -509,7 +506,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82507
-
 - id: c-78986
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -527,7 +523,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82508
-
 - id: c-78987
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -546,7 +541,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82505
-
 - id: c-168110
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -576,7 +570,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196513
-
 - id: c-168111
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -633,7 +626,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184749
-
+    - t-184751
 - id: c-168113
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -670,7 +663,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184750
-
 - id: c-168114
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -707,7 +699,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   pagrindzia:
     - t-184751
     - t-184753
-
 - id: c-168115
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -746,7 +737,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   pagrindzia:
     - t-184752
     - t-184754
-
 - id: c-176560
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -771,7 +761,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193935
-
 - id: c-178741
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -797,7 +786,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196514
-
 - id: c-178742
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -828,7 +816,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196515
-
 - id: c-178743
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -851,7 +838,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196516
-
 - id: c-178745
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -889,7 +875,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196518
-
 - id: c-178936
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -913,7 +898,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196839
-
 - id: c-179823
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -954,7 +938,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198145
-
 - id: c-179826
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -972,7 +955,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198131
-
 - id: c-179830
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1052,7 +1034,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198141
-
 - id: c-179836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1090,7 +1071,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198136
-
 - id: c-179838
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1163,7 +1143,6 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198148
-
 - id: c-179845
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

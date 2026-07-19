@@ -53,7 +53,7 @@ Dusburgietis teigia, kad powierski J.
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną bibliografinį sakinį."
   pagrindžia:
     - c-61879
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio straipsnis „Uwagi o starożytnych dziejach ziem pruskich“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad powierski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61247
 ## Citatos
 
 - id: c-61879

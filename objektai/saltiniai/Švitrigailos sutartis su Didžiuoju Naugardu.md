@@ -87,7 +87,6 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88366
-
 - id: c-84345
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

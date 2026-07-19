@@ -86,6 +86,5 @@ media_all_json: |-
   pagrindzia:
     - t-200475
     - t-200476
-
 ## Ryšiai
 - Juozapas Tiškevičius (Vilniaus tijūnas, XVIII a.) keliavo į [[objektai/vietos/Vilnius]]

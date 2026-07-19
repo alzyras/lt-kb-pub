@@ -46,7 +46,7 @@ Dusburgietis teigia, kad mikalauskaitė E.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia publikavimo vietą ir metus."
   pagrindžia:
     - c-61813
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'E. Mikalauskaitės straipsnis „Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa“ paskelbtas 1938 m. „Archivum philologicum“ 7 knygoje.'
@@ -61,8 +61,7 @@ Dusburgietis teigia, kad mikalauskaitė E.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61181
 ## Citatos
 
 - id: c-61813

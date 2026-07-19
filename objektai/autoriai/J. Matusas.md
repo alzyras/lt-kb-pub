@@ -93,7 +93,6 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30688
-
 - id: c-32974
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

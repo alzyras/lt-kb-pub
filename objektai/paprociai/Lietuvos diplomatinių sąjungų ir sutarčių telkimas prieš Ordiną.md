@@ -100,7 +100,7 @@ Nenurodyta
   pagrindžia:
     - c-63439
     - c-63440
-
+    - c-002
 <a id="claim-t-62692"></a>
 - t-003
   global_id: t-62692
@@ -121,7 +121,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Perrašyta, kad teiginys aiškiau sietųsi su sąjungų ir veikimo prieš Ordiną tema."
   pagrindžia:
     - c-63441
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą.'
@@ -140,8 +140,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62691
 - c-003
   santrauka: 'Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -161,8 +160,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-62692
 ## Citatos
 
 - id: c-63439
@@ -186,7 +184,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62691
-
 - id: c-63440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -209,7 +206,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62691
-
 - id: c-63441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -234,7 +230,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62692
-
 - id: c-63442
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

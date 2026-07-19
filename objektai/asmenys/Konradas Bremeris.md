@@ -46,6 +46,7 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60996
+    - c-001
 - susijęs iš [[objektai/ivykiai/Laivų kautynės prie Santyro.md#claim-t-62359|Laivų kautynės prie Santyro]]: Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.
 - susijęs iš Santyras: Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.
 - susijęs iš Santyras: Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.
@@ -70,8 +71,7 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60364
 ## Citatos
 
 - id: c-60996

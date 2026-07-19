@@ -60,7 +60,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175050
-
+    - c-001
 <a id="claim-t-192177"></a>
 - t-002
   global_id: t-192177
@@ -140,7 +140,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175050
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -158,10 +158,8 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-005
-    - t-006
-
+    - t-192176
+    - t-192575
 ## Citatos
 
 - id: c-175050
@@ -188,7 +186,6 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   pagrindzia:
     - t-192176
     - t-192575
-
 - id: c-175051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

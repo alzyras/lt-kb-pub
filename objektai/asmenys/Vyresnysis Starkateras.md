@@ -51,7 +51,7 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174121
-
+    - c-001
 <a id="claim-t-191240"></a>
 - t-002
   global_id: t-191240
@@ -117,8 +117,7 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191239
 ## Citatos
 
 - id: c-174121
@@ -148,7 +147,6 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191239
-
 - id: c-174122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -169,7 +167,6 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191240
-
 - id: c-174123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

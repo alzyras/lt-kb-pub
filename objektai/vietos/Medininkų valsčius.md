@@ -225,7 +225,6 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58353
-
 - id: c-58986
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -249,7 +248,6 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58354
-
 - id: c-58987
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -271,7 +269,6 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58355
-
 - id: c-58988
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -295,7 +292,6 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   pagrindzia:
     - t-58357
     - t-194541
-
 - id: c-58989
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -320,7 +316,6 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58356
-
 - id: c-168407
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -346,7 +341,6 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   pagrindzia:
     - t-185046
     - t-196719
-
 - id: c-178865
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

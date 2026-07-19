@@ -50,7 +50,7 @@ Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174169
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam vadovaujant šios gentys kūrėsi Mažojoje Skitijoje ir žemutinėje Mezijoje.'
@@ -76,8 +76,7 @@ Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191287
 ## Citatos
 
 - id: c-174169

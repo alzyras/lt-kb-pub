@@ -43,7 +43,7 @@ Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kn
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177230
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kninskis.'
@@ -63,8 +63,7 @@ Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194834
 ## Citatos
 
 - id: c-177230

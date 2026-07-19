@@ -47,6 +47,7 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168614
+    - c-001
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184493|Kryžiuočių ordinas]]: Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles.
 - susijęs iš [[objektai/grupes/Sūduvos prūsai.md#claim-t-185461|Sūduvos prūsai]]: Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos.
@@ -85,8 +86,7 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185253
 ## Citatos
 
 - id: c-168614

@@ -146,7 +146,6 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187448
-
 - id: c-170427
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -172,7 +171,6 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
   pagrindzia:
     - t-05262
     - t-05263
-
 - id: c-170428
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -195,4 +193,4 @@ Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187449
+    - t-187450

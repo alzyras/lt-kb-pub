@@ -49,7 +49,7 @@ Dusburgietis teigia, kad trautmann R.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį leidinio miestą ir metus."
   pagrindžia:
     - c-61958
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Trautmanno „Die altpreussischen Sprachdenkmäler“ išleista Getingene 1910 m.'
@@ -63,8 +63,7 @@ Dusburgietis teigia, kad trautmann R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61326
 ## Citatos
 
 - id: c-61958

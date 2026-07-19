@@ -100,7 +100,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87545
-
 - id: c-83525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -153,6 +152,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87546
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

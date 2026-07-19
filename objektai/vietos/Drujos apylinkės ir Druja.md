@@ -66,8 +66,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Drujos pardavimo epizodas suformuluotas pilnu sakiniu ir išskleistas objektas. Nepalikti puslapio triukšmai ir nepridėti duomenys apie liudytoją už būtino teiginio ribų.'
   susije_objektai: 'mentioned_place: Druja; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Viena'
   pagrindžia:
-    - c-171879
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.'
@@ -91,8 +90,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188990
 ## Citatos
 
 - id: c-171878

@@ -101,7 +101,6 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30723
-
 - id: c-32987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

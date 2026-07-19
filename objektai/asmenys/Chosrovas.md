@@ -84,6 +84,5 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60257
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Heraklijus]]

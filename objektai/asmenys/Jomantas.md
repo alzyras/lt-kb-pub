@@ -103,7 +103,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63713
-
 - id: c-64667
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -125,6 +124,5 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63714
-
 ## Ryšiai
 - Paskyrė Jomantą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

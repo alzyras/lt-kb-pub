@@ -119,7 +119,6 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
   pagrindzia:
     - t-186090
     - t-196658
-
 - id: c-169452
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -155,6 +154,5 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186091
-
 ## Ryšiai
 - Šindekopfas užėmė [[objektai/vietos/Bajorų pilaitė]]

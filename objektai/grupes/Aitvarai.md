@@ -69,7 +69,7 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172333
-
+    - c-002
 <a id="claim-t-189447"></a>
 - t-003
   global_id: t-189447
@@ -121,9 +121,6 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-004
-
 - c-002
   santrauka: 'Narbutas rašė, kad lietuvių pasakojimuose aitvaras užpuola miegančias moteris arba pasirodo skraidančio ugnies meteoro pavidalu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -141,8 +138,7 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189446
 ## Citatos
 
 - id: c-172332
@@ -167,7 +163,6 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   pagrindzia:
     - t-189445
     - t-197184
-
 - id: c-172333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -191,7 +186,6 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189446
-
 - id: c-172334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

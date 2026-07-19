@@ -105,7 +105,6 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86127
-
 - id: c-82107
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

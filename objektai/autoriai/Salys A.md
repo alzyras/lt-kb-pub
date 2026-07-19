@@ -91,7 +91,6 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64846
-
 - id: c-65433
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

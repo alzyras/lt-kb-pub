@@ -49,7 +49,7 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174575
-
+    - c-001
 <a id="claim-t-194679"></a>
 - t-002
   global_id: t-194679
@@ -91,8 +91,7 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191693
 ## Citatos
 
 - id: c-174575
@@ -118,7 +117,6 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191693
-
 - id: c-177076
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -140,7 +138,6 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194679
-
 - id: c-179295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

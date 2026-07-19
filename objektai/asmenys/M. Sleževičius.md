@@ -109,7 +109,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79104
-
 - id: c-76194
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

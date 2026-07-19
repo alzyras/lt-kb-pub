@@ -153,8 +153,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-10521
@@ -171,7 +169,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92022
-
 - id: c-10522
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -186,7 +183,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92018
-
 - id: c-10523
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -215,7 +211,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92020
-
 - id: c-10524
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -229,7 +224,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92021
-
 - id: c-10525
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -243,32 +237,3 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92017
-
-- id: c-10523
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
-  citata_originali: |
-    - status: unused
-    - claim_role: new_claim
-    - kategorija: vieta
-    - kandidatas: Parusis
-    - potencialus_teiginys: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: match: normalized_whitespace
-    - santrauka: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        Kiti vadino Žemaičių kraštą, pajūry esantį, tarp upės Išlos ir Nemuno, Prūsais, arba Parusais, nuo didžiai garsios žinyčios, senovėj Nemuno įtakos saloje
-        buvusios, kurioje žinyčioj amžina ugnis ant dievo garbės rusėjo, nuo ko ne vien pati sala Rusnės vardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių
-        gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
-  citata_rodoma: "nuo ko ne vien pati sala Rusnės\nvardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių\ngyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-92020

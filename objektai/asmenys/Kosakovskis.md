@@ -49,6 +49,7 @@ Generolo grafo Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rut
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173056
+    - c-001
 - susijęs iš [[objektai/asmenys/Mykolas Kosakovskis.md#claim-t-190061|Mykolas Kosakovskis]]: Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu globėju, kurį esą rodė karūna.
 - susijęs iš Kaunas: Narbutas perteikia Kosakovskio nuomonę, kad rastasis atvaizdas buvęs Kauno miesto dievas globėjas, kaip rodžiusi jo karūna.
 - susijęs iš Kauno apskritis: Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas Kauno apskrityje prie Lukoinių dvaro greta skeleto.
@@ -70,8 +71,7 @@ Generolo grafo Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190173
 ## Citatos
 
 - id: c-173056

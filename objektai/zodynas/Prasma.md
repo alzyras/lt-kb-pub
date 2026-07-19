@@ -75,7 +75,6 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07658
-
 - id: c-09592
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

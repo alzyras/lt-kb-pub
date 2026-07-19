@@ -101,7 +101,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02409
-
 - id: c-166401
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -128,6 +127,5 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183008
-
 ## Ryšiai
 - Didlenkiai priklausė [[objektai/vietos/Lenkija]]

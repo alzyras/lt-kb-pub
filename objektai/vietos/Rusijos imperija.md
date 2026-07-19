@@ -119,7 +119,6 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47172
-
 - id: c-24448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -139,7 +138,6 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47170
-
 - id: c-49692
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -1133,7 +1133,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75737
-
 - id: c-73420
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1152,7 +1151,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75734
-
 - id: c-73421
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1179,7 +1177,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75713
     - t-75718
     - t-75760
-
 - id: c-73422
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1214,7 +1211,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75714
     - t-75732
-
 - id: c-73423
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1236,7 +1232,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75736
     - t-75763
-
 - id: c-73425
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1255,7 +1250,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75744
-
 - id: c-73426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1276,7 +1270,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75724
     - t-75748
-
 - id: c-73427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1305,7 +1298,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75721
     - t-75725
     - t-75751
-
 - id: c-73428
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1327,7 +1319,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75731
     - t-75741
     - t-75743
-
 - id: c-73430
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1350,7 +1341,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75715
     - t-75750
-
 - id: c-73431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1374,7 +1364,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75712
     - t-75758
-
 - id: c-73432
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1396,7 +1385,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75730
     - t-75753
-
 - id: c-73433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1418,7 +1406,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75726
     - t-75766
-
 - id: c-73434
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1441,7 +1428,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75728
     - t-75749
-
 - id: c-73435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1466,7 +1452,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75739
-
 - id: c-73436
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1491,7 +1476,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75710
     - t-75711
-
 - id: c-73437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1517,7 +1501,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-75716
     - t-75733
     - t-75747
-
 - id: c-73438
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1543,7 +1526,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75717
     - t-75754
-
 - id: c-73439
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1561,7 +1543,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75723
-
 - id: c-73440
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1585,7 +1566,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75755
-
 - id: c-73441
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1608,7 +1588,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75761
-
 - id: c-73442
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1632,7 +1611,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75729
-
 - id: c-73443
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1655,7 +1633,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75738
     - t-75746
-
 - id: c-73444
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1688,7 +1665,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75719
     - t-75745
-
 - id: c-73445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1708,7 +1684,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75757
     - t-75764
-
 - id: c-73446
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1732,7 +1707,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75709
     - t-75740
-
 - id: c-73447
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1754,7 +1728,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75752
     - t-75756
-
 - id: c-73448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1774,7 +1747,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75722
     - t-75742
-
 - id: c-73449
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1794,7 +1766,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75735
     - t-75744
-
 - id: c-73450
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1816,7 +1787,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindzia:
     - t-75720
     - t-75727
-
 - id: c-166919
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1838,7 +1808,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183525
-
 ## Ryšiai
 - Antanas Smetona (Lietuvos prezidentas, XX a.) valdė [[objektai/vietos/Lietuva]]
 - Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į [[objektai/vietos/Berlynas]], [[objektai/vietos/Portugalija]], [[objektai/vietos/Šveicarija]]

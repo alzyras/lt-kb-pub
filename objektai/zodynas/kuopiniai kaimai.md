@@ -100,7 +100,6 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32791
-
 - id: c-32661
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -121,7 +120,6 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32789
-
 - id: c-34163
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad mažiulis V.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą."
   pagrindžia:
     - c-61799
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio straipsnis „Jotvingiai“ paskelbtas MG 1966 m. Nr. 1, p. 32–33.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad mažiulis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61167
 ## Citatos
 
 - id: c-61799

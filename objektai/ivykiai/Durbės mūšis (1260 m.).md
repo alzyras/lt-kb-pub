@@ -183,7 +183,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66529
-
 - id: c-66740
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -220,7 +219,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66527
-
 - id: c-66741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -245,7 +243,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66530
-
 - id: c-66742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -200,7 +200,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176649
-
+    - c-180487
 <a id="claim-t-194729"></a>
 - t-009
   global_id: t-194729
@@ -214,7 +214,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-177125
-
+    - c-180490
 <a id="claim-t-196671"></a>
 - t-011
   global_id: t-196671
@@ -275,7 +275,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-180493
-
+    - c-180480
 <a id="claim-t-198508"></a>
 - t-014
   global_id: t-198508
@@ -296,8 +296,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   ryšio_paaiskinimas: "Bažnyčia nurodyta esanti Pabaiske, bet atskiro bažnyčios objekto nėra, todėl ryšys nukreiptas į vietą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-180480
-
+    - c-105266
 <a id="claim-t-198511"></a>
 - t-015
   global_id: t-198511
@@ -334,7 +333,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-180492
-
+    - c-180491
+    - c-105267
 <a id="claim-t-198517"></a>
 - t-018
   global_id: t-198517
@@ -457,8 +457,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
 ## Citatos
 
 - id: c-105258
@@ -482,7 +480,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114103
-
 - id: c-105268
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -507,7 +504,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114108
-
 - id: c-168276
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -552,7 +548,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - t-184915
     - t-196672
     - t-198514
-
 - id: c-168277
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -586,7 +581,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184916
-
 - id: c-168279
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -616,7 +610,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184918
-
 - id: c-168280
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -650,7 +643,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184919
-
 - id: c-168281
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -672,7 +664,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindzia:
     - t-184920
     - t-196674
-
 - id: c-176649
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -703,7 +694,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194024
-
 - id: c-177125
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -746,7 +736,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194729
-
 - id: c-178831
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -770,7 +759,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196671
-
 - id: c-180479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -794,7 +782,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198525
-
 - id: c-180480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -814,8 +801,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198508
-
+    - t-198503
 - id: c-180481
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -835,7 +821,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198517
-
 - id: c-180483
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -857,7 +842,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198520
-
 - id: c-180484
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -880,7 +864,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198523
-
 - id: c-180487
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -947,7 +930,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindzia:
     - t-198511
     - t-198526
-
 - id: c-180490
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -987,8 +969,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198515
-
+    - t-198524
 - id: c-180492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1030,6 +1011,73 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198503
+- id: c-105267
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Švitrigai­
+    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
+    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
+    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
+    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
+    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
+    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
+    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
+    skandinti. O Manvydas, Trakų vaivada, buvo sučiuptas ir,
+    Žygimanto įsakymu, nukirsdintas20.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198524
+- id: c-105266
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d. Ind. Cod. Hist. Dipl. Livon.,
+    I, Nr. 1330.
+    18
+    Kryžiuočių knechtas Hansas Baigas
+    1432 metų rugsėjo 8 dieną iš Trakų
+    rašo didžiajam magistrui, kad: „Žy­
+    gimantas, naujas Lietuvos didysis
+    kunigaikštis, visiems, turintiems iš
+    tėvų paveldėto turto, suteikia garan­
+    tijų pagal Magdeburgo teises, kaip
+    ir tiems, kuriems seniau jo brolis Vy­
+    tautas paskyrė dovanojimus, ir taip
+    pelno miestiečių palankumą. Visi
+    kalba: „O, koks mums maloningas
+    yra mūsų valdovas, Švitrigaila to ne­
+    darė. Už mūsų Žygimantą esame
+    pasirengę numirti/' Kotzebue
+    Switrig., p . 8 6 .
+    217
 
+    ## Puslapis 234
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    teisių atnaujinimą ir patvirtinimą dviem privilegijomis lo­
+    tynų ir rusų kalbomis - katalikų ir stačiatikių tikėjimo gy­
+    ventojams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198508
 ## Ryšiai
 - Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Trakai]]

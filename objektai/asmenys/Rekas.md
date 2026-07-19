@@ -86,7 +86,6 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190111
-
 - id: c-172995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

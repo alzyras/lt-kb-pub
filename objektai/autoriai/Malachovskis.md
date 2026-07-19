@@ -48,7 +48,7 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173323
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.'
@@ -68,8 +68,7 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190440
 ## Citatos
 
 - id: c-173323

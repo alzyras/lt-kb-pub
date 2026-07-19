@@ -54,7 +54,7 @@ XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus univer
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173397
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių.'
@@ -73,8 +73,7 @@ XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus univer
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190514
 ## Citatos
 
 - id: c-173397

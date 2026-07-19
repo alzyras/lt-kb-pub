@@ -105,7 +105,6 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78425
-
 - id: c-75715
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

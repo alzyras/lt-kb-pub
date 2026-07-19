@@ -138,7 +138,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84381
-
 - id: c-80553
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -154,7 +153,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84379
-
+    - t-84380
 ## Ryšiai
 - Olyka priklausė [[objektai/vietos/Voluinė]]

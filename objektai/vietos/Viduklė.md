@@ -99,7 +99,6 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69562
-
 - id: c-68865
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

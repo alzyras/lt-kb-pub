@@ -82,7 +82,8 @@ Nenurodyta
   pagrindžia:
     - c-63532
     - c-63534
-
+    - c-001
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.'
@@ -101,8 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62752
 - c-003
   santrauka: 'Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -120,8 +120,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62752
 ## Citatos
 
 - id: c-63532
@@ -148,7 +147,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62752
-
 - id: c-63533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -170,7 +168,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62751
-
 - id: c-63534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

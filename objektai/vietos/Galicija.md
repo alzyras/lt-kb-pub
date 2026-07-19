@@ -72,6 +72,5 @@ Galicijoje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02443
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Vladislovas iš Opolės]]

@@ -120,7 +120,6 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22118
-
 - id: c-24805
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -141,7 +140,6 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22119
-
 - id: c-176277
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -58,7 +58,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per trumpas ir neinformatyvus; citata pagrindžia parengto katalogo faktą."
   pagrindžia:
     - c-65249
-
+    - c-166731
 <a id="claim-t-183340"></a>
 - t-002
   global_id: t-183340
@@ -105,7 +105,6 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64534
-
 - id: c-166730
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -121,7 +120,6 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183340
-
 - id: c-166731
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

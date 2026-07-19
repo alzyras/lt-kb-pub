@@ -56,7 +56,7 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
   temporalinis_llm_pakomentavimas: "Teiginys yra išsamus ir tiesiogiai atitinka citatos informaciją."
   pagrindžia:
     - c-30097
-
+    - c-167739
 <a id="claim-t-30194"></a>
 - t-002
   global_id: t-30194
@@ -92,7 +92,6 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30193
-
 - id: c-32703
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -114,7 +113,6 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30194
-
 - id: c-167739
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

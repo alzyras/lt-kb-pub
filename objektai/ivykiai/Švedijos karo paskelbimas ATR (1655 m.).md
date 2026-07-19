@@ -74,7 +74,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Sakinys tiksliai perteikia citatoje nurodytą faktą."
   pagrindžia:
     - c-40962
-
+    - c-167071
 ## Puslapis 129 PROSTKŲ MŪŠIS 1656 PRŪSIJOS KUNIGAIKŠTYSTĖ Mūšio išvakarėse 1655 m. Švedija paskelbė karą ATR ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.
 
 Nenurodyta
@@ -107,7 +107,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39158
-
 - id: c-167071
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

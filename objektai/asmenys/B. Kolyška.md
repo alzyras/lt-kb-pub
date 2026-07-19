@@ -125,7 +125,6 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40056
-
 - id: c-44299
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -149,7 +148,6 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40054
-
 - id: c-44300
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -170,7 +168,6 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40055
-
 - id: c-44301
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

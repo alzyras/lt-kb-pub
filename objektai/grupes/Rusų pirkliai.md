@@ -118,7 +118,6 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86770
-
 - id: c-82750
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,7 +140,6 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86771
-
 ## Ryšiai
 - Rusų pirkliai keliavo į [[objektai/vietos/Vilnius]]
 - Rusų pirkliai prekiavo su [[objektai/grupes/Vokiečiai]]

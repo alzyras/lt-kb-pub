@@ -147,7 +147,6 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75531
-
 - id: c-24005
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -167,7 +166,6 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75529
-
 - id: c-24007
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,7 +186,6 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75532
-
 - id: c-25075
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -211,7 +208,6 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75528
-
 - id: c-73285
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

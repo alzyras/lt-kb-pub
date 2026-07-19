@@ -102,6 +102,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-25169
-
 ## Ryšiai
 - Pramonės ir prekybos rūmai Kaune priklausė [[objektai/vietos/Kaunas]]

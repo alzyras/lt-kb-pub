@@ -204,8 +204,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-174042
@@ -235,7 +233,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191160
-
 - id: c-174043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -257,7 +254,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191161
-
 - id: c-178928
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -281,7 +277,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196816
-
 - id: c-179305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -300,7 +295,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197720
-
 - id: c-179306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -320,7 +314,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197721
-
 - id: c-184325
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -339,7 +332,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200975
-
 - id: c-184326
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -358,7 +350,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200976
-
 - id: c-184327
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

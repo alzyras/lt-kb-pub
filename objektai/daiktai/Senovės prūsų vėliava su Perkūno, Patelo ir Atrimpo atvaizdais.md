@@ -65,7 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172649
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.'
@@ -80,8 +80,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189766
 ## Citatos
 
 - id: c-172649

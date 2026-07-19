@@ -166,6 +166,5 @@ media_all_json: |-
     - t-200679
     - t-200680
     - t-200681
-
 ## Ryšiai
 - Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760) mirė [[objektai/vietos/Slonimas]]

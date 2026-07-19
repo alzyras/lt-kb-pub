@@ -75,7 +75,8 @@ Nenurodyta
   pagrindžia:
     - c-63818
     - c-63819
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.'
@@ -92,8 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62940
 - c-002
   santrauka: '1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -111,8 +111,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62940
 ## Citatos
 
 - id: c-63818
@@ -136,7 +135,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62940
-
 - id: c-63819
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

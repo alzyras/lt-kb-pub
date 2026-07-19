@@ -125,8 +125,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir paliktas faktinis ryšys su L. A. Jucevičiaus veikalu. Nepridėta papildomos informacijos apie PEĮ lapą ar leidimo rengimo aplinkybes.'
   pagrindžia:
-    - c-183828
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“.'
@@ -144,8 +143,6 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
 - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -159,8 +156,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-190756
 ## Citatos
 
 - id: c-170947
@@ -178,7 +174,6 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187952
-
 - id: c-173637
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -196,7 +191,6 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190755
-
 - id: c-183829
   autorius: "Teodoras Narbutas"
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -216,7 +210,6 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188442
-
 - id: c-183830
   autorius: "Teodoras Narbutas"
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)

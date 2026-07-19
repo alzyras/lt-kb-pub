@@ -93,7 +93,6 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174023
-
 - id: c-158256
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -83,6 +83,5 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60263
-
 ## Ryšiai
 - Ditrichas (Meiseno markos valdovas) keliavo į [[objektai/vietos/Prūsija]]

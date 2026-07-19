@@ -141,8 +141,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Taisyta gramatika ir išlaikyta atribucija redakcinei pastabai.'
   pagrindžia:
-    - c-169954
-
+    - c-001
 <a id="claim-t-186741"></a>
 - t-004
   global_id: t-186741
@@ -154,8 +153,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Vertinimas „vienas svarbiausių“ turi būti aiškiai atribuuotas.'
   pagrindžia:
-    - c-169958
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.'
@@ -176,8 +174,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186739
 - c-004
   santrauka: 'Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -195,8 +192,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-186741
 ## Citatos
 
 - id: c-169956
@@ -227,7 +223,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186742
-
 - id: c-169957
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

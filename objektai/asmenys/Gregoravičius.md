@@ -102,7 +102,6 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190095
-
 - id: c-172979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

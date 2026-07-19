@@ -188,7 +188,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173820
-
+    - c-008
 <a id="claim-t-192598"></a>
 - t-009
   global_id: t-192598
@@ -272,8 +272,7 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-190938
 - c-009
   santrauka: 'Teodoro Narbuto teigimu, Nestoras IX amžiuje žinojo šį kraštą ir jo gyventojus priskirdavo prie rusų variagų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -291,9 +290,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-    - t-011
-
 ## Citatos
 
 - id: c-173073
@@ -316,7 +312,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190190
-
 - id: c-173813
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -337,7 +332,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190931
-
 - id: c-173814
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -358,7 +352,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190932
-
 - id: c-173815
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -382,7 +375,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190933
-
 - id: c-173818
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -406,7 +398,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   pagrindzia:
     - t-190936
     - t-197782
-
 - id: c-173819
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -430,7 +421,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190937
-
 - id: c-173820
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -457,7 +447,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190938
-
 - id: c-175369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -481,7 +470,6 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   pagrindzia:
     - t-192598
     - t-197781
-
 - id: c-179337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

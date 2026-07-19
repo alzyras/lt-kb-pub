@@ -92,7 +92,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys pataisytas gramatiškai, išlaikant citatos palaikomą prasmę."
   pagrindžia:
     - c-33392
-
+    - c-33393
 ## Citatos
 
 - id: c-33392
@@ -119,7 +119,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31415
-
+    - t-31417
 - id: c-33393
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -141,4 +141,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-31416
+    - t-31417

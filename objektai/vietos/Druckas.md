@@ -176,7 +176,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67840
-
 - id: c-43409
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -205,7 +204,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67842
-
 - id: c-67601
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -224,7 +222,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67841
-
 - id: c-168308
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -259,7 +256,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184947
-
 - id: c-170522
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -277,6 +273,5 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187574
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Petras Šuiskis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

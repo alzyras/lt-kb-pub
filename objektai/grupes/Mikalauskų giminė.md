@@ -42,7 +42,7 @@ Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių gimi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177188
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių giminė.'
@@ -60,8 +60,7 @@ Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių gimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194792
 ## Citatos
 
 - id: c-177188

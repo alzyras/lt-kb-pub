@@ -51,7 +51,7 @@ Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174369
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje pusėje užjūrio krašte dvikovoje nukovė norvegų valdovas Halfadanas.'
@@ -73,8 +73,7 @@ Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191487
 ## Citatos
 
 - id: c-174369

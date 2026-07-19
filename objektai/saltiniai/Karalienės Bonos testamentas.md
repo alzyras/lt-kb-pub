@@ -57,7 +57,7 @@ Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turt
   temporalinis_llm_pakomentavimas: "Citata pagrindžia testamento turinį ir jo neįvykdymą."
   pagrindžia:
     - c-169693
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.'
@@ -89,8 +89,7 @@ Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186332
 ## Citatos
 
 - id: c-169693

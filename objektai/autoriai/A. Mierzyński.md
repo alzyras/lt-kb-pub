@@ -85,7 +85,6 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71486
-
 - id: c-70062
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

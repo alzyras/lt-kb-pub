@@ -73,7 +73,7 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177096
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Iškalti Dmitrijaus Doniškio laikų rusiški žen klai ir kitokie lietuvių kariški ženklai 2 pav.'
@@ -99,8 +99,7 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194700
 ## Citatos
 
 - id: c-83631
@@ -145,7 +144,6 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87652
-
 - id: c-177096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -165,6 +163,5 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194700
-
 ## Ryšiai
 - Dmitrijus Doniškis kariavo prieš [[objektai/grupes/Totoriai]]

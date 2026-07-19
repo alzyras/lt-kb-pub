@@ -118,7 +118,6 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173127
-
 - id: c-157464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

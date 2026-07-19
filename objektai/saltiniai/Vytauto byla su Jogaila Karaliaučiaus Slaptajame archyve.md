@@ -100,7 +100,6 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88355
-
 - id: c-84335
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

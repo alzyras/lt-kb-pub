@@ -117,7 +117,6 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22025
-
 - id: c-24709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,7 +134,6 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22026
-
 - id: c-166860
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

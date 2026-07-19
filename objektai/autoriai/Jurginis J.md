@@ -81,6 +81,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65329
+    - c-002
 - susijęs iš Lietuvos TSR istorija: „Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.
 ## Reikšmingi paminėjimai
 - c-002
@@ -95,8 +96,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-64667
 ## Citatos
 
 - id: c-65327
@@ -121,7 +121,6 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64662
-
 - id: c-65329
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -139,7 +138,6 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64667
-
 - id: c-65330
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

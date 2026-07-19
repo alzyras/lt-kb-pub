@@ -185,8 +185,6 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-
 ## Citatos
 
 - id: c-165127
@@ -206,7 +204,6 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181590
-
 - id: c-166946
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,7 +224,6 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183553
-
 - id: c-168116
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -258,7 +254,6 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184755
-
 - id: c-168118
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -284,7 +279,6 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184757
-
 - id: c-168120
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -311,7 +305,6 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184759
-
 - id: c-176120
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -337,6 +330,5 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193396
-
 ## Ryšiai
 - Konstantinas Ostrogiškis pastatė [[objektai/vietos/Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje]]

@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85898
-
+    - c-001
 <a id="claim-t-89994"></a>
 - t-002
   global_id: t-89994
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85899
-
+    - c-002
 <a id="claim-t-89995"></a>
 - t-003
   global_id: t-89995
@@ -65,6 +65,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85899
+    - c-002
 - susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89601|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą.
 - susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89603|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.
 - susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60205|Sklodas iš Kvedenavos]]: Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.
@@ -92,8 +93,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89993
 - c-002
   santrauka: 'Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -110,9 +110,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
+    - t-89994
+    - t-89995
 ## Citatos
 
 - id: c-85898
@@ -137,7 +136,6 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89993
-
 - id: c-85899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -164,6 +162,5 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   pagrindzia:
     - t-89994
     - t-89995
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sklodas iš Kvedenavos]]

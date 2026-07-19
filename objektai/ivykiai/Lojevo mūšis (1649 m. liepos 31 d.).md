@@ -160,7 +160,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49172
-
 - id: c-11879
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,7 +191,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49173
-
 - id: c-51239
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -221,6 +219,5 @@ Nenurodyta
   pagrindzia:
     - t-49171
     - t-49174
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]]

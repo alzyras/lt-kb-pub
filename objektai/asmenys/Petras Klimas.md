@@ -115,7 +115,6 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46283
-
 - id: c-48884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

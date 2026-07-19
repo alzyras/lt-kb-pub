@@ -216,7 +216,6 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187773
-
 - id: c-175235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -241,7 +240,6 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   pagrindzia:
     - t-192441
     - t-197512
-
 - id: c-175236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -267,7 +265,6 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192442
-
 - id: c-175237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -291,7 +288,6 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192443
-
 - id: c-179225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -316,6 +312,5 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197513
-
 ## Ryšiai
 - Poloviečiai apgulė [[objektai/vietos/Giurgevo tvirtovė]]

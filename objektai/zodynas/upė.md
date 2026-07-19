@@ -60,7 +60,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175077
-
+    - c-001
 <a id="claim-t-192579"></a>
 - t-002
   global_id: t-192579
@@ -81,7 +81,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175352
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.'
@@ -103,8 +103,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192230
 - c-002
   santrauka: 'Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -123,8 +122,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192579
 ## Citatos
 
 - id: c-175077
@@ -154,7 +152,6 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192230
-
 - id: c-175352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

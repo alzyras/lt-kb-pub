@@ -137,7 +137,6 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63521
-
 - id: c-21630
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,7 +158,6 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63519
-
 - id: c-41877
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -181,7 +179,6 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63520
-
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Vytautas Landsbergis]]
 - Borisas Jelcinas sudarė sutartį su [[objektai/asmenys/Vytautas Landsbergis]]

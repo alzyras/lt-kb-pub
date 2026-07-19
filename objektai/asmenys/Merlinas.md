@@ -89,7 +89,6 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39605
-
 - id: c-41410
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

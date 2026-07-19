@@ -99,7 +99,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171291
-
+    - c-003
 <a id="claim-t-190698"></a>
 - t-004
   global_id: t-190698
@@ -120,7 +120,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173580
-
+    - c-004
 <a id="claim-t-197297"></a>
 - t-005
   global_id: t-197297
@@ -188,8 +188,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188401
 - c-004
   santrauka: 'Hartknocho išleistame Dusburgo veikale Ragainė, Narbuto teigimu, klaidingai pavadinta Ramige.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -206,8 +205,7 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190698
 ## Citatos
 
 - id: c-84002
@@ -235,7 +233,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88023
-
 - id: c-171290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -259,7 +256,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188400
-
 - id: c-171291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -285,7 +281,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   pagrindzia:
     - t-188401
     - t-197297
-
 - id: c-173580
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -307,7 +302,6 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   pagrindzia:
     - t-190698
     - t-197590
-
 - id: c-179255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

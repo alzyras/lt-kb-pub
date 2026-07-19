@@ -72,7 +72,6 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190506
-
 - id: c-173390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

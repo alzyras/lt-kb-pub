@@ -211,7 +211,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172856
-
 - id: c-157217
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -230,7 +229,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172855
-
 - id: c-157218
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -268,7 +266,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172852
-
 - id: c-157219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -308,7 +305,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172851
-
 - id: c-157220
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -384,7 +380,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172857
-
 - id: c-157222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -406,7 +401,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172858
-
 - id: c-157223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -436,7 +430,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172854
-
 - id: c-157224
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -465,6 +458,5 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172850
-
 ## Ryšiai
 - Rėmė Vilniaus pirkliai: [[objektai/asmenys/Mikalojus Radvila Rudasis]]

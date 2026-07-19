@@ -67,7 +67,7 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169684
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.'
@@ -88,8 +88,7 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186323
 ## Citatos
 
 - id: c-169683
@@ -121,7 +120,6 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186322
-
 - id: c-169684
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

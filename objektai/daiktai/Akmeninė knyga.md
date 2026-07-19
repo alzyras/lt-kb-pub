@@ -75,7 +75,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir turi antraštės triukšmo."
   pagrindžia:
     - c-60308
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1232 m. Tolede vienas žydas surado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.'
@@ -96,8 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59676
 ## Citatos
 
 - id: c-60308

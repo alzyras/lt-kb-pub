@@ -91,7 +91,6 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194155
-
 - id: c-178919
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

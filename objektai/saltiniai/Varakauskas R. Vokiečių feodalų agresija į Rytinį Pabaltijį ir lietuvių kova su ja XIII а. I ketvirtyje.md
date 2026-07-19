@@ -53,7 +53,7 @@ Dusburgietis teigia, kad varakauskas R.
   temporalinis_llm_pakomentavimas: "Citata leidžia pagrįsti publikacijos temą ir metus."
   pagrindžia:
     - c-61980
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Varakausko straipsnis apie vokiečių feodalų agresiją į Rytinį Pabaltijį XIII a. I ketvirtyje paskelbtas 1957 m.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad varakauskas R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61348
 ## Citatos
 
 - id: c-61980

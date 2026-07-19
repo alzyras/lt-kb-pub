@@ -106,7 +106,6 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97510
-
 - id: c-91985
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

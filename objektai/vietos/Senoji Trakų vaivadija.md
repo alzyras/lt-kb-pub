@@ -49,7 +49,7 @@ Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171954
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų vaivadijoje, taip pat latviai ir estai.'
@@ -68,8 +68,7 @@ Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189065
 ## Citatos
 
 - id: c-171954

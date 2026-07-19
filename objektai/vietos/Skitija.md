@@ -179,7 +179,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185274
-
 - id: c-175531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -200,7 +199,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192761
-
 - id: c-179405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -227,7 +225,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197929
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Herodotas]], [[objektai/asmenys/Jerim Berdis]]
 - Puolė Skitiją: [[objektai/grupes/Persai]]

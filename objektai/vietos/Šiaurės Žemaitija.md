@@ -81,6 +81,5 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42371
-
 ## Ryšiai
 - Puolė Šiaurės Žemaitiją: [[objektai/grupes/Livonijos ordinas]]

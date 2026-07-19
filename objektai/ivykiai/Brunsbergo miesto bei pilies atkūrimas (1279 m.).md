@@ -71,7 +71,7 @@ Nenurodyta
   pagrindžia:
     - c-63549
     - c-63550
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie tebestovėjo Dusburgiečio laikais.'
@@ -88,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62761
 ## Citatos
 
 - id: c-63549
@@ -112,7 +111,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62761
-
 - id: c-63550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

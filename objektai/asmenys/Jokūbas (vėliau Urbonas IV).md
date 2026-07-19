@@ -144,7 +144,6 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60337
-
 - id: c-171437
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

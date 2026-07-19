@@ -169,7 +169,6 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   pagrindzia:
     - t-12397
     - t-12398
-
 - id: c-15978
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -188,7 +187,6 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12398
-
 - id: c-15979
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -209,7 +207,6 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12399
-
 - id: c-160212
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -229,7 +226,6 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176170
-
 - id: c-160214
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

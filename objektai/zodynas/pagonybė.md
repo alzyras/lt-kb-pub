@@ -123,7 +123,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101592
-
 - id: c-26890
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -147,5 +146,5 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101593
+    - t-101596
     - t-101594

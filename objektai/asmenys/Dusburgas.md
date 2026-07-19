@@ -63,7 +63,7 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174224
-
+    - c-002
 <a id="claim-t-197725"></a>
 - t-003
   global_id: t-197725
@@ -111,8 +111,7 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191342
 ## Citatos
 
 - id: c-174223
@@ -138,7 +137,6 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   pagrindzia:
     - t-191341
     - t-197725
-
 - id: c-174224
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -167,7 +165,6 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191342
-
 - id: c-179310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

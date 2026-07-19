@@ -45,6 +45,7 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59329
+    - c-001
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179239|Lietuviai]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų Kersovu vadintoje Lenkijos žemės dalyje ir pasitraukė su dideliu grobiu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179239|Lietuviai]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų Kersovu vadintoje Lenkijos žemės dalyje ir pasitraukė su dideliu grobiu.
 - susijęs iš [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka.md#claim-t-62312|Kersovo antpuolis ir Lešeko kontrataka]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.
@@ -67,8 +68,7 @@ Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58697
 ## Citatos
 
 - id: c-59329

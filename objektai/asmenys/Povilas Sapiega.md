@@ -121,7 +121,6 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79152
-
 - id: c-42197
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -142,7 +141,6 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79154
-
 - id: c-76233
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata palaiko pilies užėmimą ir sugriovimą, o pradinis teiginys turi antraštės ir OCR triukšmo."
   pagrindžia:
     - c-63226
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų.'
@@ -95,8 +95,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62533
 ## Citatos
 
 - id: c-63226

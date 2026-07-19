@@ -94,6 +94,5 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19156
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

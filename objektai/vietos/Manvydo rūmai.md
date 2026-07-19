@@ -92,7 +92,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86088
-
 - id: c-82067
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -112,6 +111,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86087
-
 ## Ryšiai
 - Manvydo rūmai priklausė [[objektai/asmenys/Manvydas]]

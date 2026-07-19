@@ -89,7 +89,7 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Egiptiečiai|Egiptiečiai]]; mentioned_group: [[objektai/grupes/Kolchai|Kolchai]]; mentioned_place: Azovas; llm_object: Egiptas'
   semantiniai_rysiai: '[[objektai/grupes/Kolchai|Kolchai]] keliavo į Egiptas'
   pagrindžia:
-    - c-175424
+    - c-002
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-192376|Egiptiečiai]]: Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-192376|Egiptiečiai]]: Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.
 - susijęs iš Homero Odisėja: Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaurės Europa arba Lediniuotojoje jūroje dingusiomis salomis.
@@ -115,8 +115,7 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192654
 ## Citatos
 
 - id: c-171883
@@ -139,7 +138,6 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188994
-
 - id: c-175425
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

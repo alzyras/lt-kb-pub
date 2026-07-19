@@ -94,7 +94,6 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193762
-
 - id: c-45069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

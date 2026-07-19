@@ -178,7 +178,6 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193224
-
 - id: c-86955
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -198,7 +197,6 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91233
-
 - id: c-86956
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -216,7 +214,6 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91234
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Sventopelkas]]
 - Buvo valdoma: [[objektai/grupes/Vokiečių ordinas]]

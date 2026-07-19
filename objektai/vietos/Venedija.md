@@ -63,4 +63,4 @@ Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192909

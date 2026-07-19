@@ -76,7 +76,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   pagrindzia:
     - t-07649
     - t-07650
-
 - id: c-09582
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

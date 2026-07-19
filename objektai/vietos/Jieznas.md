@@ -140,7 +140,6 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79417
-
 - id: c-76412
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -167,7 +166,6 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79415
-
 - id: c-76413
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

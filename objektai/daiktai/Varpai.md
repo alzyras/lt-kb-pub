@@ -94,7 +94,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85396
-
+    - c-003
 <a id="claim-t-89439"></a>
 - t-003
   global_id: t-89439
@@ -193,8 +193,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-89438
 ## Citatos
 
 - id: c-14341
@@ -221,7 +220,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12333
-
 - id: c-22310
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -246,7 +244,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89440
-
 - id: c-85396
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -267,7 +264,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89438
-
 - id: c-85397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

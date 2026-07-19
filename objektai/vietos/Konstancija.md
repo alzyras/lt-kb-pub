@@ -202,7 +202,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36321
-
 - id: c-37466
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -224,7 +223,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36323
-
 - id: c-38525
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -249,7 +247,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36322
-
 - id: c-167677
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -272,7 +269,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184304
-
 - id: c-167678
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

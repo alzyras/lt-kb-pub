@@ -127,7 +127,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173148
-
 - id: c-157478
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -148,7 +147,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173147
-
 - id: c-157480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -174,6 +172,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173150
-
 ## Ryšiai
 - Elžbieta (Žygimanto Augusto žmona) mirė [[objektai/vietos/Vilnius]]

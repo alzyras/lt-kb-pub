@@ -115,7 +115,6 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60067
-
 - id: c-60700
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -156,7 +155,6 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60068
-
 - id: c-60701
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

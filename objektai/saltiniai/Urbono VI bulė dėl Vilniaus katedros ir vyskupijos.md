@@ -102,7 +102,6 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88344
-
 - id: c-84323
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

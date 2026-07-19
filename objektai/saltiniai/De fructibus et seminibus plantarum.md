@@ -48,7 +48,7 @@ Narbutas Gartnerio veikalu „De fructibus et seminibus plantarum“ rėmėsi te
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174712
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Gartnerio veikalu „De fructibus et seminibus plantarum“ rėmėsi teigdamas, kad minėtas vaisius neišaugo jokioje Emblikoje.'
@@ -67,8 +67,7 @@ Narbutas Gartnerio veikalu „De fructibus et seminibus plantarum“ rėmėsi te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191830
 ## Citatos
 
 - id: c-174712

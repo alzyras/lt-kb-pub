@@ -83,6 +83,5 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60279
-
 ## Ryšiai
 - Fridrichas iš Vildenbergo puolė [[objektai/vietos/Vaikiai]]

@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiksliai perteikia citatos faktą apie Karpantrą."
   pagrindžia:
     - c-59328
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1314 m. kovo 1 d. prie Karpantros, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės.'
@@ -72,8 +72,7 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58696
 ## Citatos
 
 - id: c-59328

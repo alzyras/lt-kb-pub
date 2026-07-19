@@ -172,7 +172,6 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   pagrindzia:
     - t-50969
     - t-50970
-
 - id: c-168052
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -199,7 +198,6 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184691
-
 - id: c-168053
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -235,7 +233,6 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   pagrindzia:
     - t-184692
     - t-196440
-
 - id: c-178690
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -263,6 +260,5 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196441
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

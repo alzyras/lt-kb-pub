@@ -57,7 +57,7 @@ Dusburgietis teigia, kad wermke E.
   temporalinis_llm_pakomentavimas: "Citata pateikia E. Wermke bibliografijos pavadinimą ir jos chronologines dalis."
   pagrindžia:
     - c-63394
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.'
@@ -72,8 +72,7 @@ Dusburgietis teigia, kad wermke E.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62664
 ## Citatos
 
 - id: c-63394

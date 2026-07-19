@@ -73,7 +73,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   semantiniai_rysiai: "Notangai paskyrė Herkus Mantas (0.93)"
   pagrindžia:
     - c-159340
-
+    - c-006
 <a id="claim-t-175188"></a>
 - t-003
   global_id: t-175188
@@ -91,7 +91,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   semantiniai_rysiai: "Herkus Mantas surengė žygį į Kulmas (0.86)"
   pagrindžia:
     - c-56078
-
+    - c-002
 <a id="claim-t-175189"></a>
 - t-004
   global_id: t-175189
@@ -108,7 +108,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56080
-
+    - c-004
 <a id="claim-t-175190"></a>
 - t-005
   global_id: t-175190
@@ -166,7 +166,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   semantiniai_rysiai: "Herkus Mantas surengė žygį į Kulmas (0.86)"
   pagrindžia:
     - c-159343
-
+    - c-008
 <a id="claim-t-175193"></a>
 - t-008
   global_id: t-175193
@@ -183,7 +183,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56080
-
+    - c-004
 <a id="claim-t-175194"></a>
 - t-009
   global_id: t-175194
@@ -204,7 +204,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   temporalinis_llm_pakomentavimas: "Reikia išplėsti pavardę į aiškų asmens vardą ir patikslinti mūšio aplinkybę."
   pagrindžia:
     - c-56148
-
+    - c-005
 <a id="claim-t-175195"></a>
 - t-010
   global_id: t-175195
@@ -221,7 +221,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159345
-
+    - c-010
 <a id="claim-t-175196"></a>
 - t-011
   global_id: t-175196
@@ -308,7 +308,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   semantiniai_rysiai: "Herkus Mantas surengė žygį į Kulmas (0.86)"
   pagrindžia:
     - c-56078
-
+    - c-002
 <a id="claim-t-175201"></a>
 - t-016
   global_id: t-175201
@@ -325,7 +325,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56080
-
+    - c-004
 <a id="claim-t-175202"></a>
 - t-017
   global_id: t-175202
@@ -357,7 +357,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56080
-
+    - c-004
 <a id="claim-t-197099"></a>
 - t-019
   global_id: t-197099
@@ -450,9 +450,8 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-    - t-003
-
+    - t-175188
+    - t-175200
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -469,11 +468,10 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-    - t-016
-    - t-004
-    - t-018
-
+    - t-175189
+    - t-175193
+    - t-175201
+    - t-194491
 - c-005
   santrauka: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -491,8 +489,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-175194
 - c-006
   santrauka: 'Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -509,8 +506,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-175187
 - c-008
   santrauka: 'Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -529,8 +525,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-175192
 - c-010
   santrauka: 'Herkus Mantas vokiškai išviliodavo besislapstančius krikščionis iš slėptuvių, o tada su saviškiais juos suimdavo arba nužudydavo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -551,8 +546,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-175195
 ## Citatos
 
 - id: c-56076
@@ -576,7 +570,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindzia:
     - t-175190
     - t-175199
-
 - id: c-56078
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -606,7 +599,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindzia:
     - t-175188
     - t-175200
-
 - id: c-56079
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -626,7 +618,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindzia:
     - t-175186
     - t-175190
-
 - id: c-56080
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -651,7 +642,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - t-175193
     - t-175201
     - t-194491
-
 - id: c-56148
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -673,7 +663,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175194
-
 - id: c-159340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -696,7 +685,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175187
-
 - id: c-159342
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -718,7 +706,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175202
-
 - id: c-159343
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -746,7 +733,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindzia:
     - t-175192
     - t-197100
-
 - id: c-159344
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -768,7 +754,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175191
-
 - id: c-159345
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -793,7 +778,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175195
-
 - id: c-159346
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -814,7 +798,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175198
-
 - id: c-159348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -835,7 +818,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindzia:
     - t-175196
     - t-175197
-
 - id: c-179027
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -856,7 +838,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197099
-
 ## Ryšiai
 - Paskyrė Herkus Mantą: [[objektai/grupes/Notangai]]
 - Herkus Mantas puolė [[objektai/asmenys/Henrikas Ulenbušas]]

@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai pateikia citatoje nurodytą Herkaus Manto žūties datavimą."
   pagrindžia:
     - c-63611
-
+    - c-001
 <a id="claim-t-62805"></a>
 - t-002
   global_id: t-62805
@@ -90,7 +90,7 @@ Nenurodyta
   semantiniai_rysiai: "Henrikas iš Šenenbergo puolė Herkus Mantas (0.84); Helvigas iš Goldbacho puolė Herkus Mantas (0.82)"
   pagrindžia:
     - c-63613
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Herkus Mantas žuvo 1273 m. vasarą arba rudenį.'
@@ -104,8 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62804
 - c-002
   santrauka: 'Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,8 +122,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62805
 ## Citatos
 
 - id: c-63611
@@ -146,7 +144,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62804
-
 - id: c-63613
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

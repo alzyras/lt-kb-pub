@@ -78,7 +78,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-22320
-
+    - c-65528
 <a id="claim-t-65005"></a>
 - t-002
   global_id: t-65005
@@ -135,7 +135,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65004
-
 - id: c-22321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,7 +158,6 @@ Nenurodyta
   pagrindzia:
     - t-65005
     - t-65007
-
 - id: c-65528
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

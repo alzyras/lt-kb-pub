@@ -104,7 +104,6 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86504
-
 - id: c-82483
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

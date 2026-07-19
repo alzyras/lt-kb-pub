@@ -59,7 +59,7 @@ Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuria
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174687
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuriame nurodyti 85 riteriai iš Angeširų apskrities.'
@@ -86,8 +86,7 @@ Narbutas mini lotynišką rankraštį apie 1605 m. rugsėjo 27 d. mūšį, kuria
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191805
 ## Citatos
 
 - id: c-174687

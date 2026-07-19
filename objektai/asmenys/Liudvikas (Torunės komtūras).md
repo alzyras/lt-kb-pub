@@ -98,7 +98,6 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186063
-
 - id: c-169426
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

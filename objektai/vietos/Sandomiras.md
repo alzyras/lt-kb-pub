@@ -208,7 +208,6 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-133640
-
 - id: c-121940
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -229,7 +228,6 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-133639
-
 - id: c-168489
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -270,7 +268,6 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   pagrindzia:
     - t-185128
     - t-196738
-
 - id: c-168490
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -306,7 +303,6 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185129
-
 - id: c-178881
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -334,7 +330,6 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196739
-
 ## Ryšiai
 - Puolė Sandomirą: [[objektai/grupes/Lietuviai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

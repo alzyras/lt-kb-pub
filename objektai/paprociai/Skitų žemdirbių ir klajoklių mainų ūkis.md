@@ -85,8 +85,7 @@ Nenurodyta
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Atsisakyta silpnai su note objektu susijusio budinų kilmės fragmento ir panaudota citatos dalis apie mainų ūkį. Nepridėta detalių už citatos ribų.'
   pagrindžia:
-    - c-175797
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skitų klajokliai maistą gaudavo augindami gyvulius, medžiodami ir žvejodami, o grūdus mainydavo iš žemdirbių.'
@@ -111,8 +110,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193027
 ## Citatos
 
 - id: c-177271

@@ -103,7 +103,6 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87399
-
 - id: c-83379
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -146,7 +145,6 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87401
-
 - id: c-83380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

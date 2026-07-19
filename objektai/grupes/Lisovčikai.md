@@ -71,6 +71,5 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41063
-
 ## Ryšiai
 - Lisovčikai puolė [[objektai/grupes/Janičarai]]

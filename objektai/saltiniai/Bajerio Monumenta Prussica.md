@@ -57,7 +57,7 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174710
-
+    - c-001
 <a id="claim-t-197665"></a>
 - t-002
   global_id: t-197665
@@ -88,8 +88,7 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191828
 ## Citatos
 
 - id: c-174710
@@ -113,7 +112,6 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191828
-
 - id: c-179286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

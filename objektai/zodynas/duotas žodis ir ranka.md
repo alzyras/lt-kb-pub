@@ -90,7 +90,6 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187538
-
 - id: c-170489
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

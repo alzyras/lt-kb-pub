@@ -117,7 +117,6 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192956
-
 - id: c-175727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -145,7 +144,6 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192957
-
 - id: c-175728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

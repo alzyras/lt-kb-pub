@@ -50,7 +50,7 @@ Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Pru
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174725
-
+    - c-001
 <a id="claim-t-197675"></a>
 - t-002
   global_id: t-197675
@@ -81,8 +81,7 @@ Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Pru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191843
 ## Citatos
 
 - id: c-174725
@@ -106,7 +105,6 @@ Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Pru
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191843
-
 - id: c-179291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

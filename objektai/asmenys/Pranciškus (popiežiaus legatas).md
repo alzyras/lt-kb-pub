@@ -96,7 +96,6 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87564
-
 - id: c-83544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

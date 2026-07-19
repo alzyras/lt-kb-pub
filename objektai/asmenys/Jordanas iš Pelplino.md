@@ -98,6 +98,5 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87529
-
 ## Ryšiai
 - Jordanas iš Pelplino rėmė [[objektai/grupes/Kryžiuočių ordinas]]

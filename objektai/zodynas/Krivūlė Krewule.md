@@ -50,7 +50,7 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172190
-
+    - c-001
 <a id="claim-t-189304"></a>
 - t-002
   global_id: t-189304
@@ -71,7 +71,7 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172191
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saugiai keliauti per tolimiausius tų tautų kraštus.'
@@ -95,8 +95,7 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189303
 - c-002
   santrauka: 'Narbutas remiasi Pretorijumi aiškindamas, kad „Krewule“ vadinti mažieji kriviai, žemesnės kategorijos teisėjai arba žyniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -114,8 +113,7 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189304
 ## Citatos
 
 - id: c-172190
@@ -148,7 +146,6 @@ Narbutas rašo, kad krivio pasiuntinys su krivūle ar duotu ženklu galėjo saug
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189303
-
 - id: c-172191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

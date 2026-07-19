@@ -89,7 +89,6 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193692
-
 - id: c-176362
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -111,7 +110,6 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193693
-
 - id: c-176363
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

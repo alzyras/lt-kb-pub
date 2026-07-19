@@ -62,7 +62,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22693
-
+    - c-166561
 ## Citatos
 
 - id: c-22693
@@ -83,7 +83,6 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19963
-
 - id: c-22694
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -104,7 +103,6 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19962
-
 - id: c-166561
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

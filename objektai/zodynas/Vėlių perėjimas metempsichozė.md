@@ -49,7 +49,7 @@ Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172148
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą po mirties, kol ji grįžta į kito žmogaus kūną.'
@@ -75,8 +75,7 @@ Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189260
 ## Citatos
 
 - id: c-172148

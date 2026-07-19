@@ -50,7 +50,7 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172198
-
+    - c-001
 <a id="claim-t-189312"></a>
 - t-002
   global_id: t-189312
@@ -71,7 +71,7 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172199
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo.'
@@ -91,8 +91,7 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189311
 - c-002
   santrauka: 'Narbutas Mildos garbinimą siejo su Kauno apylinkėmis ir Aleksoto priemiesčio vardu, o mildauninkais vadino meilėje padedančius kerėtojus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -110,8 +109,7 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189312
 ## Citatos
 
 - id: c-172198
@@ -136,7 +134,6 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189311
-
 - id: c-172199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

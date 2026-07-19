@@ -113,7 +113,6 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42133
-
 - id: c-168502
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -147,7 +146,6 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185141
-
 - id: c-171723
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -167,6 +165,5 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188834
-
 ## Ryšiai
 - Puolė Seversko žemę: [[objektai/asmenys/Šich Achmetas]]

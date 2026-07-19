@@ -76,7 +76,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159327
-
+    - c-003
 <a id="claim-t-175172"></a>
 - t-003
   global_id: t-175172
@@ -187,8 +187,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-175171
 ## Citatos
 
 - id: c-159324
@@ -217,7 +216,6 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   pagrindzia:
     - t-175170
     - t-197035
-
 - id: c-159326
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -237,7 +235,6 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   pagrindzia:
     - t-175172
     - t-194453
-
 - id: c-159327
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -261,7 +258,6 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175171
-
 - id: c-159328
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

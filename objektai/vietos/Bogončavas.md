@@ -90,6 +90,5 @@ Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miest
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192866
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Budinai]]

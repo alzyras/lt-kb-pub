@@ -75,6 +75,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-47007
+    - c-166314
 - susijęs iš Nemunas: 1812 m. Napoleono kariuomenė kėlėsi per Nemuną žygyje į Rusiją.
 ## Citatos
 
@@ -97,7 +98,6 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43517
-
 - id: c-47009
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -114,7 +114,6 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43516
-
 - id: c-166314
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

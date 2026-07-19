@@ -76,7 +76,6 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40318
-
 - id: c-44444
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

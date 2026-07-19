@@ -105,7 +105,6 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41997
-
 - id: c-45254
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -128,7 +127,6 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41996
-
 - id: c-45255
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

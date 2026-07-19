@@ -278,7 +278,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175292
-
+    - c-010
 <a id="claim-t-194182"></a>
 - t-012
   global_id: t-194182
@@ -530,8 +530,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-192502
 ## Citatos
 
 - id: c-05231
@@ -548,7 +547,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179486
-
 - id: c-163178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -583,7 +581,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179488
-
 - id: c-163179
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -605,7 +602,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12313
-
 - id: c-163180
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -629,7 +625,6 @@ Nenurodyta
   pagrindzia:
     - t-12314
     - t-179487
-
 - id: c-163181
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -651,7 +646,6 @@ Nenurodyta
   pagrindzia:
     - t-179484
     - t-179485
-
 - id: c-163183
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -673,7 +667,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179490
-
 - id: c-163185
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -692,7 +685,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179486
-
 - id: c-163186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -717,7 +709,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179483
-
 - id: c-163187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -744,7 +735,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179482
-
 - id: c-175292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -770,7 +760,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192502
-
 - id: c-176792
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -803,7 +792,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194182
-
 - id: c-184291
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -829,7 +817,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200941
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Enėjas]], [[objektai/asmenys/Verneris (Ragainės komtūras)]]
 - Laivai priklausė [[objektai/grupes/Kryžiuočių ordinas]]

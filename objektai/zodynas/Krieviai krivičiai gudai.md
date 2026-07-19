@@ -55,7 +55,7 @@ Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kil
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172114
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadinamų krieviais, pavadinimo.'
@@ -76,8 +76,7 @@ Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189226
 ## Citatos
 
 - id: c-172114

@@ -71,8 +71,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-02698
@@ -96,6 +94,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02460
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -80,6 +80,5 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40378
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]

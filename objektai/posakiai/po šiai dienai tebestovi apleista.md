@@ -45,6 +45,7 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59783
+    - c-001
 - susijęs iš Pamedė: Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,8 +64,7 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59151
 ## Citatos
 
 - id: c-59783

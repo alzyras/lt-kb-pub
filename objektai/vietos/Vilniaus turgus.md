@@ -92,6 +92,5 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86314
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Jurgis Astikas]]

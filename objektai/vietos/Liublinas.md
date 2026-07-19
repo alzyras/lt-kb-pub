@@ -184,7 +184,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-182280
-
+    - c-170545
 <a id="claim-t-199538"></a>
 - t-008
   global_id: t-199538
@@ -286,7 +286,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Lenkija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
-    - c-182284
+    - c-001
 - susijęs iš Sandomierius: 1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.
 - susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
 - susijęs iš [[objektai/ivykiai/Jogailos išrinkimas Lenkijos karaliumi.md#claim-t-28815|Jogailos išrinkimas Lenkijos karaliumi]]: 1386 m. vasario 2 d. Liubline kilmingųjų seimas Jogailą išrinko Lenkijos karaliumi.
@@ -543,8 +543,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-199532
 ## Citatos
 
 - id: c-157963
@@ -565,8 +564,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173694
-
+    - t-173697
 - id: c-157965
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -583,7 +581,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173696
-
 - id: c-157971
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -607,7 +604,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173688
-
 - id: c-157972
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -630,7 +626,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173691
-
 - id: c-168381
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -658,7 +653,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185020
-
 - id: c-182278
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -682,7 +676,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199539
-
 - id: c-182279
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -709,8 +702,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199533
-
+    - t-199534
 - id: c-182280
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -740,7 +732,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199537
-
 - id: c-182281
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -764,7 +755,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindzia:
     - t-199541
     - t-199543
-
 - id: c-182282
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -806,7 +796,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199538
-
 - id: c-182285
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -873,7 +862,32 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindzia:
     - t-199542
     - t-199544
-
+- id: c-170545
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199537
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Puolė Liubliną: [[objektai/grupes/Lietuviai]]

@@ -82,7 +82,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58646
-
 - id: c-59279
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

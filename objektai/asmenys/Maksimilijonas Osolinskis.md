@@ -88,7 +88,6 @@ Maksimilijonas Osolinskis aiškino, kad germanų giminėje jūros pakrančių gy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191213
-
 - id: c-179334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

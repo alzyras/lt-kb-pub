@@ -50,7 +50,7 @@ Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175630
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau Dunojaus žemupio, vadovaujami Kandakoso.'
@@ -76,8 +76,7 @@ Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192860
 ## Citatos
 
 - id: c-175630

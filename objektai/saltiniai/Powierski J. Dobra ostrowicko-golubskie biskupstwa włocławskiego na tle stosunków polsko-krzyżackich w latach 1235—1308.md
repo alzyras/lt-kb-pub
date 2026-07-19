@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-61593
-
+    - c-003
 <a id="claim-t-60960"></a>
 - t-002
   global_id: t-60960
@@ -73,7 +73,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR triukšmo; citata remia datavimo pataisą."
   pagrindžia:
     - c-61591
-
+    - c-001
 <a id="claim-t-60961"></a>
 - t-003
   global_id: t-60961
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61592
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio veikale Dusburgiečio 1292 m. datuotas puolimas siejamas su 1294 m. įvykiais.'
@@ -106,8 +106,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60960
 - c-002
   santrauka: 'J. Powierskis Goliubo pilį siejo ne su Konrado Žako statyba, o su jos pritaikymu kryžiuočių poreikiams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,8 +122,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60961
 - c-003
   santrauka: '555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -136,8 +134,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60959
 ## Citatos
 
 - id: c-61591
@@ -159,7 +156,6 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60960
-
 - id: c-61592
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -183,7 +179,6 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60961
-
 - id: c-61593
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

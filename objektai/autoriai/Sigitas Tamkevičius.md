@@ -106,7 +106,6 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63314
-
 - id: c-64351
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

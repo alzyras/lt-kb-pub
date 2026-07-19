@@ -127,7 +127,6 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42189
-
 - id: c-45360
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -154,7 +153,6 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42191
-
 - id: c-45361
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -53,7 +53,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173991
-
+    - c-001
 <a id="claim-t-191110"></a>
 - t-002
   global_id: t-191110
@@ -74,7 +74,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173992
-
+    - c-002
 <a id="claim-t-191112"></a>
 - t-004
   global_id: t-191112
@@ -95,7 +95,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173994
-
+    - c-004
 <a id="claim-t-191113"></a>
 - t-003
   global_id: t-191113
@@ -168,8 +168,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191109
 - c-002
   santrauka: 'Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-skitų gentimi kaip Geniui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -188,8 +187,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191110
 - c-004
   santrauka: 'Narbutas nurodo, kad Naruševičius daugelyje darbų patvirtino teiginį apie gelonų tautą Nemuno aukštupyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -206,8 +204,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-191112
 ## Citatos
 
 - id: c-173991
@@ -231,7 +228,6 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191109
-
 - id: c-173992
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -254,7 +250,6 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191110
-
 - id: c-173994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -275,7 +270,6 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191112
-
 - id: c-173995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -302,7 +296,6 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191113
-
 - id: c-173996
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

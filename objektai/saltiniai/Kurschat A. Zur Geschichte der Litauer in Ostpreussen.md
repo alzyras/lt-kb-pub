@@ -55,7 +55,7 @@ Dusburgietis teigia, kad kurschat A.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą, o pradinis teiginys neturi predikato."
   pagrindžia:
     - c-61744
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad kurschat A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61112
 ## Citatos
 
 - id: c-61744

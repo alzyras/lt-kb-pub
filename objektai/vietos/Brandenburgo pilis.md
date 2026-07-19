@@ -88,6 +88,5 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67728
-
 ## Ryšiai
 - Užėmė Brandenburgo pilį: [[objektai/asmenys/Glapas]]

@@ -82,6 +82,5 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30310
-
 ## Ryšiai
 - Jonas Liuksemburgietis buvo valdovas [[objektai/vietos/Čekija]]

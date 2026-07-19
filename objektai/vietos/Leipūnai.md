@@ -116,9 +116,8 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-111669
-    - t-111672
-
+    - t-111671
+    - t-002
 - id: c-166434
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

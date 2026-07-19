@@ -71,6 +71,5 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87838
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Namas]]

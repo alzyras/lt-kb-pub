@@ -108,7 +108,6 @@ tags:
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195217
-
 - id: c-177582
   šaltinis: "Mūsų tautosaka, t.4 (1931)"
   puslapiai: "PDF 1"
@@ -130,7 +129,6 @@ tags:
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195216
-
 - id: c-177583
   šaltinis: "Mūsų tautosaka, t.4 (1931) — Tautosakos komisijos gauta medžiaga ir perrašytos dainos"
   puslapiai: "p. 189 (PDF 187)"

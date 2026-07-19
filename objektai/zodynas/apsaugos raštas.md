@@ -98,7 +98,6 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36761
-
 - id: c-38718
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

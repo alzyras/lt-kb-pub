@@ -48,7 +48,7 @@ Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173284
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė, Francua Noelio ir Edvardo Mėjerio mitologinių žodynų.'
@@ -64,8 +64,7 @@ Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190401
 ## Citatos
 
 - id: c-173284

@@ -90,7 +90,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60695
-
+    - c-003
 <a id="claim-t-197153"></a>
 - t-004
   global_id: t-197153
@@ -124,9 +124,6 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-004
-
 - c-003
   santrauka: 'Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -145,8 +142,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60063
 ## Citatos
 
 - id: c-60693
@@ -168,7 +164,6 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60061
-
 - id: c-60694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -191,7 +186,6 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   pagrindzia:
     - t-60062
     - t-197153
-
 - id: c-60695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -218,6 +212,5 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60063
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sventopelkas]]

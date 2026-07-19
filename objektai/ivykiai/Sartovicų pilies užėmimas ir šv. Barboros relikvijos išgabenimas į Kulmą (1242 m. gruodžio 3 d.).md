@@ -81,7 +81,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85361
-
+    - c-004
 <a id="claim-t-89400"></a>
 - t-003
   global_id: t-89400
@@ -147,8 +147,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-89399
 ## Citatos
 
 - id: c-85357
@@ -179,7 +178,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89398
-
 - id: c-85358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -199,7 +197,6 @@ Nenurodyta
   pagrindzia:
     - t-89400
     - t-89402
-
 - id: c-85359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -218,7 +215,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89401
-
 - id: c-85361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

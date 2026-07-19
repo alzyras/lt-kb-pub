@@ -104,7 +104,6 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41108
-
 - id: c-44829
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

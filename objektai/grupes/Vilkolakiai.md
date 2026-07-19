@@ -49,7 +49,7 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172426
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti vilku, o rusinai ir lietuviai vartojo giminingus vardus.'
@@ -68,8 +68,7 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189538
 ## Citatos
 
 - id: c-172426

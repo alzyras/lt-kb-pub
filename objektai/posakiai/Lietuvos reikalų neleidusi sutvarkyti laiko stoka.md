@@ -99,7 +99,6 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67270
-
 - id: c-67247
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

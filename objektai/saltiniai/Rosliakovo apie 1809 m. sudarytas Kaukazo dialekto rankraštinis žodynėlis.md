@@ -58,7 +58,7 @@ Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodyn
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173439
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodynėlį siejo su Kaspijos jūros pavadinimo aiškinimu.'
@@ -77,8 +77,7 @@ Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodyn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190556
 ## Citatos
 
 - id: c-173439

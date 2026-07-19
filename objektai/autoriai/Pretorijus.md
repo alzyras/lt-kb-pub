@@ -157,7 +157,6 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190331
-
 - id: c-173215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -179,7 +178,6 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190332
-
 - id: c-173216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -207,7 +205,6 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190333
-
 - id: c-173668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -229,7 +226,6 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190786
-
 - id: c-179272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

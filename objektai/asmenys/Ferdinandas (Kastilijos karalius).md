@@ -47,7 +47,7 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-60745
-
+    - c-001
 <a id="claim-t-60114"></a>
 - t-002
   global_id: t-60114
@@ -94,8 +94,7 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60113
 ## Citatos
 
 - id: c-60745
@@ -115,7 +114,6 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60113
-
 - id: c-60746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

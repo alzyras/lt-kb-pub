@@ -49,7 +49,7 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171928
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos žiočių, su pylimu arba senos piliavietės liekana.'
@@ -73,8 +73,7 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189039
 ## Citatos
 
 - id: c-171928

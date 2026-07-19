@@ -50,6 +50,7 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171865
+    - c-001
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
 - susijęs iš [[objektai/asmenys/Araksa.md#claim-t-191366|Araksa]]: Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.
 - susijęs iš Volgos žemupys: Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio.
@@ -91,8 +92,7 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188976
 ## Citatos
 
 - id: c-171865
@@ -120,6 +120,5 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188976
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Budinai]]

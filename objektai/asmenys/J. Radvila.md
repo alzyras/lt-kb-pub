@@ -84,6 +84,5 @@ Radvilos pajėgos.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40164
-
 ## Ryšiai
 - J. Radvila surengė žygį į [[objektai/vietos/Lojevas]]

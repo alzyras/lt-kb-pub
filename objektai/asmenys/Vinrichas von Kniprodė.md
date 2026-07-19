@@ -116,7 +116,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117891
-
 - id: c-108470
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -143,7 +142,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117889
-
 - id: c-108471
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

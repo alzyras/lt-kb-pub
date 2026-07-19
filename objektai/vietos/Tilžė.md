@@ -187,7 +187,6 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183092
-
 - id: c-171727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -210,7 +209,6 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188838
-
 - id: c-171728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -232,7 +230,6 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188839
-
 - id: c-177345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -248,7 +245,6 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194949
-
 - id: c-178886
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

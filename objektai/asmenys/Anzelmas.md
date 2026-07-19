@@ -134,7 +134,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60084
-
 - id: c-171403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -159,7 +158,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188513
-
 - id: c-177306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -176,7 +174,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194910
-
 - id: c-184319
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -207,6 +204,5 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200969
-
 ## Ryšiai
 - Anzelmas (vyskupas, XIII a.) pastatė [[objektai/vietos/Brunsbergas]]

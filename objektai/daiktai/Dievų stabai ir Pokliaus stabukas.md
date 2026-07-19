@@ -56,7 +56,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172591
-
+    - c-001
 <a id="claim-t-189709"></a>
 - t-002
   global_id: t-189709
@@ -70,7 +70,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172592
-
+    - c-002
 <a id="claim-t-197239"></a>
 - t-003
   global_id: t-197239
@@ -102,8 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189708
 - c-002
   santrauka: 'Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi baisios išvaizdos Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -124,8 +123,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189709
 ## Citatos
 
 - id: c-172591
@@ -149,7 +147,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189708
-
 - id: c-172592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -177,7 +174,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189709
-
 - id: c-179080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

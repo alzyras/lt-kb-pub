@@ -80,6 +80,5 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21870
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

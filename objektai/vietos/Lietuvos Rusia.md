@@ -49,7 +49,7 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171906
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Lietuvos Rusios.'
@@ -68,8 +68,7 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189017
 ## Citatos
 
 - id: c-171906

@@ -75,4 +75,4 @@ Latkowski, Mendog król lit.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-47880
+    - t-47881

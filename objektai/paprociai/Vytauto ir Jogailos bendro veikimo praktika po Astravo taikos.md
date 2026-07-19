@@ -74,7 +74,7 @@ Nenurodyta
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.86)"
   pagrindžia:
     - c-28833
-
+    - c-167719
 ## Citatos
 
 - id: c-28833
@@ -96,7 +96,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28929
-
 - id: c-167719
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

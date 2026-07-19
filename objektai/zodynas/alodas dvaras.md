@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, pilnas ir pagrįstas citata."
   pagrindžia:
     - c-59519
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1324 m. kovo 1 d. trys broliai ir 600 Notangos vyrų užpuolė Dovydo Gardiniškio alodą, arba dvarą, ir jį sudegino.'
@@ -72,8 +72,7 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58887
 ## Citatos
 
 - id: c-59519

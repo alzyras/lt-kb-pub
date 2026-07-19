@@ -48,7 +48,7 @@ Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174644
-
+    - c-001
 <a id="claim-t-191763"></a>
 - t-002
   global_id: t-191763
@@ -69,7 +69,7 @@ Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174645
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei sarmatams, nei germanams, o jų vakarinė riba siejama su Vysla.'
@@ -91,8 +91,7 @@ Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191762
 - c-002
   santrauka: 'Narbuto perteikimu, Tacitas jazigus laikė karinga gentimi su rinktine raitąja kariuomene, o ne ramiais žemdirbiais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -110,8 +109,7 @@ Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191763
 ## Citatos
 
 - id: c-174644
@@ -142,7 +140,6 @@ Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191762
-
 - id: c-174645
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -106,7 +106,6 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58876
-
 - id: c-59509
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

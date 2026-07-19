@@ -120,7 +120,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171476
-
+    - c-004
 <a id="claim-t-188588"></a>
 - t-005
   global_id: t-188588
@@ -183,7 +183,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171480
-
+    - c-007
 <a id="claim-t-188592"></a>
 - t-008
   global_id: t-188592
@@ -204,7 +204,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171481
-
+    - c-008
 <a id="claim-t-188593"></a>
 - t-009
   global_id: t-188593
@@ -225,7 +225,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171482
-
+    - c-009
 <a id="claim-t-188594"></a>
 - t-010
   global_id: t-188594
@@ -246,7 +246,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171483
-
+    - c-010
 <a id="claim-t-188595"></a>
 - t-011
   global_id: t-188595
@@ -288,7 +288,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171485
-
+    - c-012
 <a id="claim-t-188597"></a>
 - t-013
   global_id: t-188597
@@ -309,7 +309,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171486
-
+    - c-013
 <a id="claim-t-190653"></a>
 - t-014
   global_id: t-190653
@@ -330,7 +330,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173536
-
+    - c-014
 <a id="claim-t-190923"></a>
 - t-015
   global_id: t-190923
@@ -372,7 +372,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173806
-
+    - c-016
 <a id="claim-t-190925"></a>
 - t-017
   global_id: t-190925
@@ -436,7 +436,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173809
-
+    - c-019
 <a id="claim-t-194716"></a>
 - t-020
   global_id: t-194716
@@ -525,8 +525,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188587
 - c-007
   santrauka: 'Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -540,8 +539,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188591
 - c-008
   santrauka: 'Narbutas rašo, kad Strijkovskis minėjo Vilniaus Perkūno šventykloje buvusį didelį juodą akmenį, iš kurio buvo įskeliama ugnis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -560,8 +558,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188592
 - c-009
   santrauka: 'Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį milžino išvaizdos Kukovaičio stabą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -576,8 +573,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-188593
 - c-010
   santrauka: 'Narbutas iš Strijkovskio šešių šventyklos kampų sprendė, kad stebuklingą ąžuolą supo šešiakampis mūrinis aptvaras.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -593,8 +589,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-188594
 - c-012
   santrauka: 'Narbutas rašo, kad Strijkovskis lietuvių ugnies apeigas aiškino kaip senovės romėnų Palilėjų švenčių pamėgdžiojimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -613,8 +608,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-188596
 - c-013
   santrauka: 'Narbutas rašo, kad, Strijkovskio teigimu, kai kurios Lietuvos kunigaikščių giminės turėjo tikrus savo herbus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -637,8 +631,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-188597
 - c-014
   santrauka: 'Narbutas rašo, kad Strijkovskis apie aukštas Lietuvos pareigas pateikė daugiau smulkmenų nei Prūsijos ir Livonijos kronikininkai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -663,8 +656,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-190653
 - c-016
   santrauka: 'Narbutas teigė, kad Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir taisė jo spragas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -684,8 +676,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-190924
 - c-019
   santrauka: 'Narbutas rašo, kad Strijkovskis savo laikais dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo ir kitur.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -708,8 +699,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-
+    - t-190927
 ## Citatos
 
 - id: c-170429
@@ -732,7 +722,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187452
-
 - id: c-170430
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -756,7 +745,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187451
-
 - id: c-171475
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -779,7 +767,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   pagrindzia:
     - t-188586
     - t-197428
-
 - id: c-171476
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -803,7 +790,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188587
-
 - id: c-171477
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -822,7 +808,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188588
-
 - id: c-171479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -843,7 +828,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   pagrindzia:
     - t-188590
     - t-197429
-
 - id: c-171480
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -864,7 +848,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188591
-
 - id: c-171481
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -883,7 +866,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188592
-
 - id: c-171482
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -903,7 +885,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188593
-
 - id: c-171483
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -923,7 +904,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188594
-
 - id: c-171484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -943,7 +923,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188595
-
 - id: c-171485
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -965,7 +944,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188596
-
 - id: c-171486
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -991,7 +969,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188597
-
 - id: c-173536
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1019,7 +996,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190653
-
 - id: c-173805
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1046,7 +1022,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190923
-
 - id: c-173806
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1077,7 +1052,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190924
-
 - id: c-173807
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1099,7 +1073,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190925
-
 - id: c-173808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1128,7 +1101,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190926
-
 - id: c-173809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1152,7 +1124,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190927
-
 - id: c-177112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

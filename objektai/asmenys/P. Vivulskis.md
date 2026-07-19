@@ -90,7 +90,6 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40384
-
 - id: c-44485
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

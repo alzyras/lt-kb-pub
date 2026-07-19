@@ -75,6 +75,5 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60261
-
 ## Ryšiai
 - Dargis gyveno [[objektai/vietos/Semba]]

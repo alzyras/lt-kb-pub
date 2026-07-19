@@ -66,4 +66,4 @@ Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75040
+    - t-75041

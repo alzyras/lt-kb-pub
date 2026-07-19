@@ -307,7 +307,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58656
-
 - id: c-59289
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -328,7 +327,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58657
-
 - id: c-168567
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -353,7 +351,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185206
-
 - id: c-168568
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -385,7 +382,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185207
-
 - id: c-168569
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -423,7 +419,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185208
-
 - id: c-168571
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -455,7 +450,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185210
-
 - id: c-170627
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -486,7 +480,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187686
-
 - id: c-178896
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -513,7 +506,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196759
-
 ## Ryšiai
 - Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Volynė priklausė [[objektai/grupes/Auksinė Orda]], [[objektai/vietos/Lenkija]]

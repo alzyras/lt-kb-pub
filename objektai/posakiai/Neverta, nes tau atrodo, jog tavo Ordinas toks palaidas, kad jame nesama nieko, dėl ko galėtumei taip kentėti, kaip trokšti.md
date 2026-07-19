@@ -62,7 +62,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59772
-
+    - c-002
 <a id="claim-t-194471"></a>
 - t-003
   global_id: t-194471
@@ -94,8 +94,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59141
 ## Citatos
 
 - id: c-59772
@@ -119,7 +118,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - t-59140
     - t-59141
     - t-194471
-
 - id: c-167423
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

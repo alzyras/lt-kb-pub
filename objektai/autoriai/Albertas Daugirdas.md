@@ -121,7 +121,6 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40588
-
 - id: c-42384
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

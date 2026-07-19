@@ -97,7 +97,6 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58570
-
 - id: c-59203
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

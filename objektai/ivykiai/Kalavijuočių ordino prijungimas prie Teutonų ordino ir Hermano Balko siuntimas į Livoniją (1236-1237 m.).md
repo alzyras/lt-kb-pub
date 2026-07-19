@@ -110,7 +110,7 @@ Nenurodyta
   semantiniai_rysiai: "Livonija priklausė Kryžiuočių ordinas (0.82)"
   pagrindžia:
     - c-63629
-
+    - c-003
 <a id="claim-t-62817"></a>
 - t-004
   global_id: t-62817
@@ -130,7 +130,7 @@ Nenurodyta
   pagrindžia:
     - c-63627
     - c-63628
-
+    - c-002
 <a id="claim-t-194391"></a>
 - t-005
   global_id: t-194391
@@ -170,8 +170,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-62817
 - c-003
   santrauka: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -186,8 +185,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-62816
 ## Citatos
 
 - id: c-63627
@@ -218,7 +216,6 @@ Nenurodyta
     - t-62817
     - t-194391
     - t-194392
-
 - id: c-63628
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -248,7 +245,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62817
-
 - id: c-63629
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

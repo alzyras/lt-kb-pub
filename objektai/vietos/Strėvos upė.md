@@ -101,7 +101,6 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42168
-
 - id: c-45347
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -155,7 +155,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173845
-
+    - c-006
 <a id="claim-t-190964"></a>
 - t-007
   global_id: t-190964
@@ -176,7 +176,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173846
-
+    - c-007
 <a id="claim-t-194719"></a>
 - t-008
   global_id: t-194719
@@ -222,8 +222,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190963
 - c-007
   santrauka: 'Teodoro Narbuto perteikimu, Pretorijus Sasavos tvirtovę lokalizavo prie Šyšos upės, kuri kitados turėjusi vadintis Cyse arba Sussa.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -245,8 +244,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-190964
 ## Citatos
 
 - id: c-172924
@@ -277,7 +275,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190041
-
 - id: c-172926
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -306,7 +303,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190043
-
 - id: c-172927
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -328,7 +324,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190044
-
 - id: c-173843
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -355,7 +350,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190961
-
 - id: c-173844
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -372,7 +366,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190962
-
 - id: c-173845
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -398,7 +391,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190963
-
 - id: c-173846
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -422,7 +414,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190964
-
 - id: c-177115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -446,7 +437,6 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194719
-
 - id: c-179349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

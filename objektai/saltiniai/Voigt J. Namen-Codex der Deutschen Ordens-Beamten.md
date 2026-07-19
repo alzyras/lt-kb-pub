@@ -48,7 +48,7 @@ Dusburgietis teigia, kad voigt J.
   temporalinis_llm_pakomentavimas: "Citata pateikia leidinio pavadinimą, vietą ir metus."
   pagrindžia:
     - c-61986
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Voigto „Namen-Codex der Deutschen Ordens-Beamten“ išleistas Karaliaučiuje 1843 m.'
@@ -63,8 +63,7 @@ Dusburgietis teigia, kad voigt J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61354
 ## Citatos
 
 - id: c-61986

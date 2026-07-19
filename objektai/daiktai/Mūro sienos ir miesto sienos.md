@@ -236,7 +236,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55045
-
 - id: c-55713
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -260,7 +259,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55047
-
 - id: c-85389
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -285,7 +283,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89428
-
 - id: c-85390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -308,7 +305,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89430
-
 - id: c-85391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -336,7 +332,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89431
-
 - id: c-85392
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

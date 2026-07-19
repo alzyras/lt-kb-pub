@@ -46,7 +46,7 @@ Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-61438
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vaitkunskienė L., Sidabras..., p. 10 ir kt.'
@@ -60,8 +60,7 @@ Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60806
 ## Citatos
 
 - id: c-61438

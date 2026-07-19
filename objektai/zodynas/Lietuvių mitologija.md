@@ -50,7 +50,7 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172045
-
+    - c-001
 <a id="claim-t-197372"></a>
 - t-002
   global_id: t-197372
@@ -94,8 +94,7 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189157
 - c-002
   santrauka: 'Narbutas lietuvių mitologijos medžiagą siejo su trisdešimt metų trukusiais Lietuvos senovės tyrimais ir surinkta tautosaka.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -122,8 +121,6 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172045
@@ -154,7 +151,6 @@ Lietuvių mitologiją Narbutas aiškina kaip vietinės tikybos, graikų ir romė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189157
-
 - id: c-179153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

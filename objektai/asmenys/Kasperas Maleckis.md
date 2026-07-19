@@ -89,7 +89,6 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40277
-
 - id: c-44420
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -54,7 +54,7 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-61639
-
+    - c-002
 <a id="claim-t-61007"></a>
 - t-002
   global_id: t-61007
@@ -89,8 +89,7 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61006
 ## Citatos
 
 - id: c-61638
@@ -108,7 +107,6 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61007
-
 - id: c-61639
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -66,7 +66,6 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07657
-
 - id: c-09590
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

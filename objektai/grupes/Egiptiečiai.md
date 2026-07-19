@@ -79,7 +79,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas iki citatos palaikomo kontakto su pietiniais Europos pakraščiais. Vertinamasis „lemtis lėmė iškilti“ neperimtas kaip neutralus faktas."
   pagrindžia:
     - c-171067
-
+    - c-002
 <a id="claim-t-188174"></a>
 - t-003
   global_id: t-188174
@@ -100,7 +100,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171068
-
+    - c-003
 <a id="claim-t-188175"></a>
 - t-004
   global_id: t-188175
@@ -142,7 +142,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171070
-
+    - c-005
 <a id="claim-t-188178"></a>
 - t-006
   global_id: t-188178
@@ -184,7 +184,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171073
-
+    - c-007
 <a id="claim-t-194563"></a>
 - t-008
   global_id: t-194563
@@ -269,8 +269,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188173
 - c-003
   santrauka: 'Narbutas aiškino, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -294,8 +293,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188174
 - c-005
   santrauka: 'Narbutas rašė, kad egiptiečiai turėjo Kamefius, o Georgi juos siejo su japonų Kami ir slavų Tryzna.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -312,8 +310,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188176
 - c-007
   santrauka: 'Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -337,8 +334,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188179
 ## Citatos
 
 - id: c-10063
@@ -358,7 +354,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07832
-
 - id: c-171067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -385,7 +380,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188173
-
 - id: c-171068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -410,7 +404,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188174
-
 - id: c-171069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -428,7 +421,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188175
-
 - id: c-171070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -452,7 +444,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188176
-
 - id: c-171072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -473,7 +464,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188178
-
 - id: c-171073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -500,7 +490,6 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188179
-
 - id: c-176963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

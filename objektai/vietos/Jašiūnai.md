@@ -141,7 +141,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85928
-
 - id: c-81910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -160,7 +159,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85930
-
 - id: c-81911
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -176,7 +174,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85929
-
 - id: c-81912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

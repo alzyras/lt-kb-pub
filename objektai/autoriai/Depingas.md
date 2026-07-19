@@ -48,7 +48,7 @@ Teodoro Narbuto teigimu, Depingas be pagrįstų įrodymų Pavyslę priskyrė kra
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174487
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto teigimu, Depingas be pagrįstų įrodymų Pavyslę priskyrė kraštui tarp Nemuno ir Dauguvos žemupių.'
@@ -66,8 +66,7 @@ Teodoro Narbuto teigimu, Depingas be pagrįstų įrodymų Pavyslę priskyrė kra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191605
 ## Citatos
 
 - id: c-174487

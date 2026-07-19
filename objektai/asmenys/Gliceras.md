@@ -70,7 +70,7 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174832
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės.'
@@ -90,8 +90,7 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191950
 ## Citatos
 
 - id: c-174153
@@ -115,7 +114,6 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191271
-
 - id: c-174832
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

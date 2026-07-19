@@ -142,7 +142,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174417
-
+    - c-006
 <a id="claim-t-194669"></a>
 - t-005
   global_id: t-194669
@@ -206,8 +206,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
 - c-006
   santrauka: 'Iš Nestoro, per Karamziną, Narbutui buvo žinoma, kad Kijevo slėnis anksčiau buvo užlietas vandens, o Dnepras tekėjo kita kryptimi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -223,8 +221,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-191535
 - c-007
   santrauka: 'Narbutas nurodė, kad Abulfedas ir Nestoras jūrai vartojo pavadinimą „Wariazskoje More“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -249,8 +246,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-174411
@@ -273,7 +268,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191529
-
 - id: c-174413
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -297,7 +291,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191531
-
 - id: c-174414
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -321,7 +314,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   pagrindzia:
     - t-191532
     - t-197630
-
 - id: c-174415
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -345,7 +337,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191533
-
 - id: c-174417
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -375,7 +366,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191535
-
 - id: c-177066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -396,7 +386,6 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194669
-
 - id: c-179268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

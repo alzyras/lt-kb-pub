@@ -78,4 +78,4 @@ Lietuvos seimas Gardine pradėjo posėdžiauti 1568 m. pavasarį, o balandžio 2
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189496

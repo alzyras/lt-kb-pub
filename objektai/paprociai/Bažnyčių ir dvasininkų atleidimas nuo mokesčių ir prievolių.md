@@ -98,7 +98,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93016
-
 - id: c-88430
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -49,7 +49,7 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175587
-
+    - c-001
 <a id="claim-t-192818"></a>
 - t-002
   global_id: t-192818
@@ -104,8 +104,7 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192817
 ## Citatos
 
 - id: c-175587
@@ -137,7 +136,6 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192817
-
 - id: c-175588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

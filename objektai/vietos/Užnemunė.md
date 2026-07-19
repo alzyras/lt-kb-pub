@@ -257,7 +257,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183098
-
 - id: c-46770
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -276,7 +275,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183097
-
 - id: c-166149
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -297,7 +295,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182735
-
 - id: c-166150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -316,7 +313,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182731
-
 - id: c-166152
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -336,7 +332,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182736
-
 - id: c-175977
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -357,7 +352,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193240
-
 - id: c-176322
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -377,6 +371,5 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193653
-
 ## Ryšiai
 - Užnemunė priklausė [[objektai/vietos/Augustavo gubernija]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Rusija]]

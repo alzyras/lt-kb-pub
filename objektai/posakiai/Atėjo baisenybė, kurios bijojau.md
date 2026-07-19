@@ -91,7 +91,6 @@ Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už j
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59083
-
 - id: c-179015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

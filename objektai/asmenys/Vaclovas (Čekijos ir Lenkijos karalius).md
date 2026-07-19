@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata."
   pagrindžia:
     - c-61085
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1300 m. Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.'
@@ -75,8 +75,7 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60453
 ## Citatos
 
 - id: c-61085

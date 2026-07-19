@@ -48,7 +48,7 @@ Vytautas pareikalavo keturiasdešimt tūkstančių lenkų auksinų, vadinamųjų
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168764
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas pareikalavo keturiasdešimt tūkstančių lenkų auksinų, vadinamųjų florinų, kaip atlyginimo už nusileidimą lenkams.'
@@ -74,8 +74,7 @@ Vytautas pareikalavo keturiasdešimt tūkstančių lenkų auksinų, vadinamųjų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185403
 ## Citatos
 
 - id: c-168764

@@ -71,6 +71,5 @@ Ciolką.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34827
-
 ## Ryšiai
 - Rėmė St. Ciolką: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -170,7 +170,6 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   pagrindzia:
     - t-47898
     - t-47899
-
 - id: c-30852
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -187,7 +186,6 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47900
-
 - id: c-50252
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -208,7 +206,6 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47895
-
 - id: c-50253
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -228,7 +225,6 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47901
-
 - id: c-50255
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

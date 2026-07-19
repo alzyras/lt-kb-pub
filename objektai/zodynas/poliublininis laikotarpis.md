@@ -176,7 +176,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05602
-
 - id: c-91775
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -201,7 +200,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - t-05602
     - t-05606
     - t-97286
-
 - id: c-91776
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -222,7 +220,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   pagrindzia:
     - t-05603
     - t-97287
-
 - id: c-91778
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -241,7 +238,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05602
-
 - id: c-91779
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -260,7 +256,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05602
-
 - id: c-91781
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

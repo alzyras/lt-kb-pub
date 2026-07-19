@@ -143,7 +143,6 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181560
-
 - id: c-165097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -174,6 +173,5 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181561
-
 ## Ryšiai
 - Abraomas Kulvietis keliavo į [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]]

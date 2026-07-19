@@ -49,7 +49,7 @@ Narbutas Piotrą Kunasowiczių Sahaidaczny mini kaip kazokų atamaną, kurio tė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173081
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Piotrą Kunasowiczių Sahaidaczny mini kaip kazokų atamaną, kurio tėvas turėjo ukrainiečių slavų krikšto vardą Kūnas.'
@@ -68,8 +68,7 @@ Narbutas Piotrą Kunasowiczių Sahaidaczny mini kaip kazokų atamaną, kurio tė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190198
 ## Citatos
 
 - id: c-173081

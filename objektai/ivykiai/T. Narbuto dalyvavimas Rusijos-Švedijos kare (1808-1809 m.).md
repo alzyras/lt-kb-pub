@@ -79,7 +79,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys jau sujungia karą, Abo mūšio kontūziją ir vėlesnį apkurtimą į pilną faktinį sakinį. Papildoma atribucija nereikalinga, nes nėra vertinamosios ar legendinės formuluotės."
   pagrindžia:
     - c-170757
-
+    - c-001
 <a id="claim-t-187806"></a>
 - t-002
   global_id: t-187806
@@ -100,7 +100,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai nusako note objektą. Citata jį pakankamai pagrindžia be papildomų neparemtų detalių."
   pagrindžia:
     - c-170757
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -116,9 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-187805
+    - t-187806
 ## Data ir vieta
 
 Data: 1808-1809 m.

@@ -314,7 +314,10 @@ function resolveCanonicalSlug(label: string, resolveIndex: SlugResolveIndex): Fu
 }
 
 function internalLinkHtml(href: string, label: string): string {
-  return `<a href="${escapeHtml(href)}">${escapeHtml(markdownText(label))}</a>`
+  const normalizedHref = /^(?:[a-z][a-z0-9+.-]*:|#|\/)/i.test(href)
+    ? href
+    : `/${href.replace(/^\/+/, "")}`
+  return `<a href="${escapeHtml(normalizedHref)}">${escapeHtml(markdownText(label))}</a>`
 }
 
 function renderWikilinkHtml(

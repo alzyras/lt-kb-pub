@@ -57,7 +57,7 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   temporalinis_llm_pakomentavimas: "Citata pakankamai pagrindžia redakcinės komisijos narystę."
   pagrindžia:
     - c-169786
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -73,8 +73,7 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186435
 ## Citatos
 
 - id: c-169786

@@ -287,7 +287,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10279
-
 - id: c-11902
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -313,7 +312,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10281
-
 - id: c-11903
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -334,7 +332,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10278
-
 - id: c-11905
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -362,7 +359,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10284
-
 - id: c-43116
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -390,7 +386,6 @@ Nenurodyta
   pagrindzia:
     - t-10283
     - t-195022
-
 - id: c-43117
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -409,7 +404,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10282
-
 - id: c-43118
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -432,7 +426,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10280
-
 - id: c-177396
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -454,7 +447,6 @@ Nenurodyta
   pagrindzia:
     - t-195020
     - t-195021
-
 - id: c-177397
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -473,7 +465,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195023
-
 - id: c-177398
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -492,7 +483,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195024
-
 - id: c-177399
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

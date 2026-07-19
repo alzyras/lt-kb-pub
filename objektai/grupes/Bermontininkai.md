@@ -171,7 +171,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40866
-
 - id: c-42652
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -196,7 +195,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40868
-
 - id: c-44726
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -221,7 +219,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40867
-
 ## Ryšiai
 - Puolė Bermontininkai: [[objektai/grupes/Panevėžio batalionas]]
 - Kariavo prieš: [[objektai/grupes/Lietuvos Respublika]]

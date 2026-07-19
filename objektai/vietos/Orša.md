@@ -87,8 +87,7 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-73348
-
+    - t-73351
 - id: c-71599
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

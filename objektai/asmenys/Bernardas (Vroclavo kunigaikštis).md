@@ -83,6 +83,5 @@ Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60249
-
 ## Ryšiai
 - Bernardas (Vroclavo kunigaikštis) keliavo į [[objektai/vietos/Prūsija]]

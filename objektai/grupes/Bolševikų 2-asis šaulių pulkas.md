@@ -101,7 +101,6 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40869
-
 - id: c-167045
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -130,7 +130,6 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184431
-
 - id: c-167791
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -149,7 +148,6 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184432
-
 - id: c-167792
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -173,6 +171,5 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184430
-
 ## Ryšiai
 - Engelhardas Rabė užėmė [[objektai/vietos/Maišiagala]]

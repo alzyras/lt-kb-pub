@@ -138,7 +138,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62688
-
 - id: c-63437
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -163,7 +162,6 @@ Nenurodyta
   pagrindzia:
     - t-62689
     - t-194446
-
 - id: c-63438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

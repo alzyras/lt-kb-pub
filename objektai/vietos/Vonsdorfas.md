@@ -45,6 +45,7 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59402
+    - c-001
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
 - susijęs iš Kapsteta: Sembų kariuomenė, vedama Tirsko, užkariavo Kapstetos pilį Vonsdorfo žemėje ir ją sudegino.
@@ -97,8 +98,7 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58770
 ## Citatos
 
 - id: c-59402

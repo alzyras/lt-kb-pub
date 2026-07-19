@@ -78,7 +78,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174419
-
+    - c-002
 <a id="claim-t-191538"></a>
 - t-003
   global_id: t-191538
@@ -102,7 +102,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
   pagrindžia:
     - c-174420
-
+    - c-003
 <a id="claim-t-197583"></a>
 - t-004
   global_id: t-197583
@@ -133,8 +133,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191537
 - c-003
   santrauka: 'Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -151,8 +150,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191538
 ## Citatos
 
 - id: c-174418
@@ -173,7 +171,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191536
-
 - id: c-174419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -194,7 +191,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191537
-
 - id: c-174420
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -216,7 +212,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191538
-
 - id: c-179252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

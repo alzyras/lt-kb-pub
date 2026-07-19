@@ -74,7 +74,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171441
-
+    - c-002
 <a id="claim-t-188553"></a>
 - t-003
   global_id: t-188553
@@ -109,7 +109,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171443
-
+    - c-004
 <a id="claim-t-188555"></a>
 - t-005
   global_id: t-188555
@@ -123,7 +123,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171444
-
+    - c-005
 <a id="claim-t-188557"></a>
 - t-006
   global_id: t-188557
@@ -144,7 +144,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171446
-
+    - c-007
 <a id="claim-t-188558"></a>
 - t-007
   global_id: t-188558
@@ -165,7 +165,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171447
-
+    - c-008
 <a id="claim-t-188559"></a>
 - t-008
   global_id: t-188559
@@ -186,7 +186,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171448
-
+    - c-009
 <a id="claim-t-188560"></a>
 - t-009
   global_id: t-188560
@@ -249,7 +249,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171451
-
+    - c-012
 <a id="claim-t-188563"></a>
 - t-012
   global_id: t-188563
@@ -270,7 +270,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171452
-
+    - c-013
 <a id="claim-t-190648"></a>
 - t-013
   global_id: t-190648
@@ -291,7 +291,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173531
-
+    - c-014
 <a id="claim-t-190649"></a>
 - t-014
   global_id: t-190649
@@ -333,7 +333,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173533
-
+    - c-016
 <a id="claim-t-190651"></a>
 - t-016
   global_id: t-190651
@@ -354,7 +354,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173534
-
+    - c-017
 <a id="claim-t-190652"></a>
 - t-017
   global_id: t-190652
@@ -375,7 +375,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173535
-
+    - c-018
 <a id="claim-t-190896"></a>
 - t-018
   global_id: t-190896
@@ -473,8 +473,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188552
 - c-004
   santrauka: 'Narbutas nurodo, kad Lasickis Patelo dievą žinojo Algio vardu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -491,8 +490,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188554
 - c-005
   santrauka: 'Lasickis Perkūnaitėlę apibūdino kaip žaibo ir griausmo motiną, kuri išprausia nuvargusią saulę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -510,8 +508,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188555
 - c-007
   santrauka: 'Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -526,8 +523,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188557
 - c-008
   santrauka: 'Narbutas cituoja Lasickio posakį „Kur tikėjimas, ten ir rezultatas“ prie Ratainyčios aprašymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -543,8 +539,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188558
 - c-009
   santrauka: 'Narbutas vertina, kad Lasickis apsiriko Ragutienę pačią laikydamas dievu, o ne aludarystę globojančia deive.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -560,8 +555,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-188559
 - c-012
   santrauka: 'Narbutas perteikia Lasickio teiginį, kad lietuviai kai kurias dievų garbinimo apeigas slėpdavo nuo krikščionių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -578,8 +572,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-188562
 - c-013
   santrauka: 'Narbutas aiškina, kad Lasickis fetišo termino nevartojo, bet aprašė asmeninius fetišus šventovėse, giminėse, namuose ir pas pavienius žmones.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -601,8 +594,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-188563
 - c-014
   santrauka: 'Narbutas nurodo, kad burtininkės pavadinimas Burte yra Lasickio mitologijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -617,8 +609,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-190648
 - c-016
   santrauka: 'Narbutas mano, kad Lasickis, cituodamas maldelę Perkūnui, padarė aiškią lietuvių kalbos klaidą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -640,8 +631,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-190650
 - c-017
   santrauka: 'Narbutas vertina, kad Lasickio paliktas pirmos alaus statinės pradėjimo apeigų aprašymas menkavertis, bet svarbus kaip senovės paminklas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -663,8 +653,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
+    - t-190651
 - c-018
   santrauka: 'Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų apeigų mirusiųjų garbei aprašymą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -683,8 +672,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-
+    - t-190652
 ## Citatos
 
 - id: c-83681
@@ -712,7 +700,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87702
-
 - id: c-171441
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -737,7 +724,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188552
-
 - id: c-171442
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -760,7 +746,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188553
-
 - id: c-171443
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -784,7 +769,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188554
-
 - id: c-171444
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -806,7 +790,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188555
-
 - id: c-171446
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -829,7 +812,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188557
-
 - id: c-171447
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -850,7 +832,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188558
-
 - id: c-171448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -870,7 +851,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188559
-
 - id: c-171449
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -895,7 +875,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188560
-
 - id: c-171450
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -914,7 +893,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188561
-
 - id: c-171451
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -944,7 +922,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188562
-
 - id: c-171452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -966,7 +943,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188563
-
 - id: c-173531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -995,7 +971,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190648
-
 - id: c-173532
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1019,7 +994,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190649
-
 - id: c-173533
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1046,7 +1020,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190650
-
 - id: c-173534
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1076,7 +1049,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190651
-
 - id: c-173535
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1106,7 +1078,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190652
-
 - id: c-173778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1127,7 +1098,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190896
-
 - id: c-179168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1146,7 +1116,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197404
-
 - id: c-179169
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1167,7 +1136,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197405
-
 - id: c-179170
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1185,7 +1153,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197406
-
 - id: c-179171
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -61,6 +61,7 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59713
+    - c-001
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78537|Varmiai]]: Glapas, varmių vadas, turėjo mėgstamą valdinį Steinavą, kurį daug kartų buvo gelbėjęs iš mirtino pavojaus.
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,8 +79,7 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59080
 ## Citatos
 
 - id: c-59713

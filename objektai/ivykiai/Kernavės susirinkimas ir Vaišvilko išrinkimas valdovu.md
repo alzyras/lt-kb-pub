@@ -60,7 +60,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168950
-
+    - c-001
 <a id="claim-t-185590"></a>
 - t-002
   global_id: t-185590
@@ -80,7 +80,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168951
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.'
@@ -102,8 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185589
 - c-002
   santrauka: 'Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -124,8 +123,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185590
 ## Citatos
 
 - id: c-168950
@@ -158,7 +156,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185589
-
 - id: c-168951
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

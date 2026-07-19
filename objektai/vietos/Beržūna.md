@@ -49,7 +49,7 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175582
-
+    - c-001
 <a id="claim-t-192813"></a>
 - t-002
   global_id: t-192813
@@ -70,7 +70,7 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175583
-
+    - c-002
 <a id="claim-t-197862"></a>
 - t-003
   global_id: t-197862
@@ -118,8 +118,7 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192812
 - c-002
   santrauka: 'Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -141,8 +140,7 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192813
 ## Citatos
 
 - id: c-175582
@@ -177,7 +175,6 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192812
-
 - id: c-175583
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -209,7 +206,6 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192813
-
 - id: c-179369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -74,7 +74,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir sutelktas į Pravieniškių įkalinimo koloniją."
   pagrindžia:
     - c-74640
-
+    - c-167014
 ## Citatos
 
 - id: c-74638
@@ -99,7 +99,6 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77207
-
 - id: c-74640
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,7 +119,6 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77208
-
 - id: c-167014
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-26615
-
+    - c-166603
 ## Citatos
 
 - id: c-26615
@@ -95,7 +95,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26390
-
 - id: c-166603
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -198,7 +198,6 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193781
-
 - id: c-158258
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -224,7 +223,6 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   pagrindzia:
     - t-174025
     - t-174027
-
 - id: c-158261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -246,6 +244,5 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174024
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Karolis XII]]

@@ -105,8 +105,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą ir predikatą, o citata tiesiogiai remia Mozyriaus įtakos bei prijungimo chronologiją. Vertinamoji formuluotė neišplečiama.'
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Kijevas; llm_object: Lietuva'
   pagrindžia:
-    - c-169927
-
+    - c-001
 <a id="claim-t-186689"></a>
 - t-003
   global_id: t-186689
@@ -115,8 +114,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie Mozyriaus prijungimo datavimo problemą. Nieko nepridėta už citatoje esančio nežinomumo.'
   susije_objektai: 'mentioned_place: Mozyrius; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
-    - c-169927
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -134,9 +132,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-001
-
+    - t-186687
+    - t-186689
 ## Citatos
 
 - id: c-169928

@@ -49,7 +49,7 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170509
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.'
@@ -74,8 +74,7 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187559
 ## Citatos
 
 - id: c-170509

@@ -48,6 +48,7 @@ Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, b
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174221
+    - c-001
 - susijęs iš [[objektai/asmenys/Araksa.md#claim-t-191366|Araksa]]: Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.
 - susijęs iš [[objektai/asmenys/Skitas.md#claim-t-191468|Skitas]]: Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir skitų genties protėviu.
 ## Reikšmingi paminėjimai
@@ -71,8 +72,7 @@ Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191339
 ## Citatos
 
 - id: c-174221

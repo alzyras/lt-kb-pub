@@ -109,7 +109,6 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192989
-
 - id: c-184277
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -135,7 +134,6 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200927
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Jonas Komninas]]
 - Pečenegai valdė [[objektai/vietos/Padneprė]]

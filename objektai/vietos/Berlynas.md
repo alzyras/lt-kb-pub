@@ -120,7 +120,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-154972
-
+    - c-154959
 <a id="claim-t-170289"></a>
 - t-005
   global_id: t-170289
@@ -476,7 +476,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170302
-
 - id: c-154956
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -495,7 +494,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170289
-
 - id: c-154957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -516,7 +514,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170292
-
 - id: c-154958
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -539,8 +536,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-170285
-
+    - t-170297
 - id: c-154959
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -589,7 +585,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   pagrindzia:
     - t-170295
     - t-170298
-
 - id: c-154961
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -616,7 +611,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170293
-
 - id: c-154962
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -641,7 +635,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   pagrindzia:
     - t-170287
     - t-170301
-
 - id: c-154963
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -662,7 +655,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170300
-
 - id: c-154964
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -688,7 +680,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170286
-
 - id: c-154968
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -707,7 +698,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170294
-
 - id: c-154970
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -725,7 +715,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170299
-
 - id: c-154971
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -745,7 +734,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170303
-
 - id: c-154972
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -768,7 +756,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170288
-
 - id: c-154973
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -786,6 +773,5 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170291
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

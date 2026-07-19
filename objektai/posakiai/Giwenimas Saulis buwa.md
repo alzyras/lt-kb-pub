@@ -78,8 +78,7 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-
+    - t-189572
 - id: c-177091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -108,4 +107,4 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-194694

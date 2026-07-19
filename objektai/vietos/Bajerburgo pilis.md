@@ -105,7 +105,6 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195053
-
 - id: c-177437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -144,7 +143,6 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
   pagrindzia:
     - t-195053
     - t-195054
-
 - id: c-177438
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -168,6 +166,5 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195053
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

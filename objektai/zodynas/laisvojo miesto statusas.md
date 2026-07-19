@@ -91,7 +91,6 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22205
-
 - id: c-166836
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

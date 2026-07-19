@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-86973
-
+    - c-003
 <a id="claim-t-91252"></a>
 - t-002
   global_id: t-91252
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86974
-
+    - c-004
 <a id="claim-t-91253"></a>
 - t-003
   global_id: t-91253
@@ -113,7 +113,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-86971
-
+    - c-001
 <a id="claim-t-91255"></a>
 - t-005
   global_id: t-91255
@@ -156,8 +156,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-91254
 - c-003
   santrauka: '1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė arba nukovė 500 žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -175,8 +174,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91251
 - c-004
   santrauka: 'Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -195,8 +193,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-91252
 ## Citatos
 
 - id: c-86971
@@ -221,7 +218,6 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91254
-
 - id: c-86972
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -242,7 +238,6 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   pagrindzia:
     - t-91253
     - t-91255
-
 - id: c-86973
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -262,7 +257,6 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91251
-
 - id: c-86974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

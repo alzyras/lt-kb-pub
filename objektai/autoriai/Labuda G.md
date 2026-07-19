@@ -126,7 +126,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65348
-
+    - c-003
 <a id="claim-t-197004"></a>
 - t-006
   global_id: t-197004
@@ -159,8 +159,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-64701
 ## Citatos
 
 - id: c-65346
@@ -183,7 +182,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64698
-
 - id: c-65347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -200,7 +198,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64699
-
 - id: c-65348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -221,7 +218,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64701
-
 - id: c-65349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -245,7 +241,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   pagrindzia:
     - t-64697
     - t-197004
-
 - id: c-65351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

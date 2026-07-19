@@ -88,6 +88,5 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87896
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Namas]]

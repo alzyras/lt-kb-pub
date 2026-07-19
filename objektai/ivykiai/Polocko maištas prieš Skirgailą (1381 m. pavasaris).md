@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-33423
-
+    - c-167711
 ## Citatos
 
 - id: c-33423
@@ -92,7 +92,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31465
-
 - id: c-167711
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

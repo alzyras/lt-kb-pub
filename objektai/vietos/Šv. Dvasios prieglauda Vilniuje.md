@@ -155,7 +155,6 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85853
-
 - id: c-81834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -187,7 +186,6 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85851
-
 - id: c-81835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -219,7 +217,6 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85855
-
 - id: c-81836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -248,7 +245,6 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85856
-
 - id: c-81837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -271,7 +267,6 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85854
-
 - id: c-81838
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

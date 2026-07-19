@@ -319,7 +319,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89627
-
 - id: c-85563
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -350,7 +349,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   pagrindzia:
     - t-89628
     - t-89629
-
 - id: c-85564
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -375,7 +373,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89626
-
 - id: c-173724
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -408,7 +405,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190842
-
 - id: c-178665
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -433,7 +429,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196407
-
 - id: c-184314
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -452,7 +447,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200964
-
 - id: c-184315
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -475,7 +469,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200965
-
 - id: c-184316
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -506,6 +499,5 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200966
-
 ## Ryšiai
 - Aleksandras keliavo į [[objektai/vietos/Krokuva]]

@@ -708,7 +708,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32483
-
 - id: c-184808
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -729,7 +728,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   pagrindzia:
     - t-201458
     - t-201462
-
 - id: c-184809
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -749,7 +747,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201459
-
 - id: c-184810
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -770,7 +767,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201460
-
 - id: c-184811
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -789,7 +785,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201461
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
 - Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]

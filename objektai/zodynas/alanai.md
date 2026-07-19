@@ -68,6 +68,7 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168740
+    - c-002
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184477|Herulai]]: Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.
 ## Reikšmingi paminėjimai
 - c-002
@@ -95,8 +96,7 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185379
 ## Citatos
 
 - id: c-168739
@@ -124,7 +124,6 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185378
-
 - id: c-168740
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

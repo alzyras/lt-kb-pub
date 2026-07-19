@@ -91,7 +91,6 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78925
-
 - id: c-76026
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

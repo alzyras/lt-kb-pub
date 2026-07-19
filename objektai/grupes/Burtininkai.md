@@ -42,7 +42,7 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172337
-
+    - c-001
 <a id="claim-t-189451"></a>
 - t-002
   global_id: t-189451
@@ -104,8 +104,7 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189450
 ## Citatos
 
 - id: c-172337
@@ -133,7 +132,6 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189450
-
 - id: c-172338
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

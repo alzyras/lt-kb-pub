@@ -57,7 +57,7 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
   temporalinis_llm_pakomentavimas: "Citata pagrindžia kronikos reikšmę, bet pradinis teiginys buvo gramatiškai netvarkingas ir per ilgas."
   pagrindžia:
     - c-63393
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vygando iš Marburgo XIV a. kronika laikoma svarbiu šaltiniu Lietuvos XIII-XIV a. feodalinio laikotarpio istorijai nušviesti.'
@@ -80,8 +80,7 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62663
 ## Citatos
 
 - id: c-63393

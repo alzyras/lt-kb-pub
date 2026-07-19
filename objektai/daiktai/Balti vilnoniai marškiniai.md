@@ -160,7 +160,6 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   pagrindzia:
     - t-12278
     - t-186424
-
 - id: c-169763
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

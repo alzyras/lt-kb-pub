@@ -130,7 +130,6 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55250
-
 - id: c-81208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

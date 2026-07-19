@@ -122,7 +122,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38783
-
+    - c-175820
 <a id="claim-t-193054"></a>
 - t-006
   global_id: t-193054
@@ -194,7 +194,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193053
-
 - id: c-43295
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -222,7 +221,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193051
-
 - id: c-43296
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -251,7 +249,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193052
-
 - id: c-175819
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -273,7 +270,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10540
-
 - id: c-175820
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -296,8 +292,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12462
+    - t-193053
     - t-193054
-
 - id: c-175821
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -333,7 +329,6 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193055
-
 - id: c-175822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

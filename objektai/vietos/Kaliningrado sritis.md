@@ -161,7 +161,6 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   pagrindzia:
     - t-76356
     - t-76358
-
 - id: c-73950
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,7 +182,6 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76355
-
 - id: c-73952
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -202,7 +200,6 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76357
-
 - id: c-166989
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

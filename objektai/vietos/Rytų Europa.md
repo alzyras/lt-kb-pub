@@ -88,7 +88,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77298
-
 - id: c-74726
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -107,6 +106,5 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77299
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

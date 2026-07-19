@@ -125,7 +125,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   semantiniai_rysiai: "Ziemovitas valdė Mazovija (0.98)"
   pagrindžia:
     - c-173884
-
+    - c-004
 <a id="claim-t-191003"></a>
 - t-007
   global_id: t-191003
@@ -146,7 +146,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173885
-
+    - c-005
 <a id="claim-t-191004"></a>
 - t-008
   global_id: t-191004
@@ -167,7 +167,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173886
-
+    - c-006
 <a id="claim-t-197847"></a>
 - t-009
   global_id: t-197847
@@ -213,8 +213,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-191002
 - c-005
   santrauka: 'Lenkams patekus į sunkią padėtį, Ziemovitas kreipėsi į rusų kunigaikščius, prašydamas atsiųsti šaulių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -231,8 +230,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-191003
 - c-006
   santrauka: 'Narbutas pasakoja, kad atvykus rezervui į Vasilkos ir Ziemovito kariuomenę kilo žiaurus mūšis, kuriame abu vadai narsiai kovėsi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -250,8 +248,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-191004
 ## Citatos
 
 - id: c-36611
@@ -283,7 +280,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   pagrindzia:
     - t-93745
     - t-93748
-
 - id: c-36612
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -304,7 +300,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   pagrindzia:
     - t-93744
     - t-93749
-
 - id: c-89060
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -328,8 +323,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-93746
-
+    - t-93747
 - id: c-173884
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -348,7 +342,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191002
-
 - id: c-173885
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -372,7 +365,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   pagrindzia:
     - t-191003
     - t-197847
-
 - id: c-173886
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -394,6 +386,5 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191004
-
 ## Ryšiai
 - Ziemovitas valdė [[objektai/vietos/Mazovija]]

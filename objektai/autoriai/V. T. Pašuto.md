@@ -102,7 +102,6 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31046
-
 - id: c-33181
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

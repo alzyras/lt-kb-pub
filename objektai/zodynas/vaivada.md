@@ -100,7 +100,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pagrįstas citata."
   pagrindžia:
     - c-168004
-
+    - c-004
 <a id="claim-t-187532"></a>
 - t-004
   global_id: t-187532
@@ -124,7 +124,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-170482
-
+    - c-005
 <a id="claim-t-193163"></a>
 - t-005
   global_id: t-193163
@@ -417,8 +417,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-184643
 - c-005
   santrauka: 'Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -435,8 +434,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-187532
 ## Citatos
 
 - id: c-14722
@@ -455,7 +453,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176248
-
 - id: c-46936
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -474,7 +471,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193163
-
 - id: c-160263
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -493,7 +489,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12600
-
 - id: c-168004
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -522,7 +517,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184643
-
 - id: c-170482
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

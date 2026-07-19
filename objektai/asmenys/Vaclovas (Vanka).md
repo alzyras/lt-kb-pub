@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
   temporalinis_llm_pakomentavimas: "Išplėstas asmens vaidmuo ir pašalinta nereikalinga šaltinio atribucija."
   pagrindžia:
     - c-61084
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį.'
@@ -71,8 +71,7 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60452
 ## Citatos
 
 - id: c-61084

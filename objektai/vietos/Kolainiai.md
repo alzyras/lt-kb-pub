@@ -145,7 +145,6 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02501
-
 - id: c-168350
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -177,7 +176,6 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184989
-
 - id: c-178848
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -203,6 +201,5 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196696
-
 ## Ryšiai
 - Gynė Kolainiai: [[objektai/asmenys/Surminas]]

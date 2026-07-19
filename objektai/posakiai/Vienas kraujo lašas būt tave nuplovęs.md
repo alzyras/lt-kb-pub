@@ -109,7 +109,6 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09679
-
 - id: c-12490
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

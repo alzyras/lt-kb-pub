@@ -42,7 +42,7 @@ Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177178
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Delrijus (Delno)'' priskiria prie žiniuonystės dalykų, vadinamų pi romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo je pusėje, praktikuodavo dar kitą piromantijos rūšį.'
@@ -67,8 +67,7 @@ Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194782
 ## Citatos
 
 - id: c-177178

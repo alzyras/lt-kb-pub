@@ -42,7 +42,7 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171881
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise užlietose vandeniu.'
@@ -62,8 +62,7 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188992
 ## Citatos
 
 - id: c-171881

@@ -56,7 +56,7 @@ Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupū�
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173111
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupūžės ir dobilo lapo atvaizdu.'
@@ -71,8 +71,7 @@ Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupū�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190228
 ## Citatos
 
 - id: c-173111

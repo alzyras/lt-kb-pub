@@ -83,6 +83,5 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26300
-
 ## Ryšiai
 - Šeinfeldas priklausė [[objektai/vietos/Vokietija]]

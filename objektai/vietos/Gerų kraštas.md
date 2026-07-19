@@ -92,9 +92,6 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 - c-002
   santrauka: 'Narbutas Gerų kraštą siejo su Herodoto minėta vieta, kur skitai nuo Dnepro žemupio esą veždavo laidoti mirusiuosius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -124,8 +121,6 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-175589

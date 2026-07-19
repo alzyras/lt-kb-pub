@@ -48,7 +48,7 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173240
-
+    - c-001
 <a id="claim-t-190359"></a>
 - t-002
   global_id: t-190359
@@ -69,7 +69,7 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173242
-
+    - c-002
 <a id="claim-t-194675"></a>
 - t-003
   global_id: t-194675
@@ -83,7 +83,7 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177072
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ąžuolo pasakojimą.'
@@ -103,8 +103,7 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190357
 - c-002
   santrauka: 'Narbutas vertino Treterį kaip tiksliausiai nurodžiusį, kur ieškoti Romovės šventyklos vietos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -122,8 +121,7 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190359
 - c-003
   santrauka: 'Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina 12 Treteris, Henenbergeris, Šiucas, Hartknochas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -138,8 +136,7 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194675
 ## Citatos
 
 - id: c-173240
@@ -168,7 +165,6 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190357
-
 - id: c-173242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -192,7 +188,6 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190359
-
 - id: c-177072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

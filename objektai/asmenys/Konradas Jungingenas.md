@@ -88,6 +88,5 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87535
-
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

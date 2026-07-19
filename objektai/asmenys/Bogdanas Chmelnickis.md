@@ -108,7 +108,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186099
-
 - id: c-169461
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

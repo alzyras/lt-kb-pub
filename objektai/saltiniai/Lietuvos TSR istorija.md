@@ -53,7 +53,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį faktą, o pradinė formuluotė nutrūkusi."
   pagrindžia:
     - c-61620
-
+    - c-001
 <a id="claim-t-60989"></a>
 - t-002
   global_id: t-60989
@@ -83,8 +83,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60988
 ## Citatos
 
 - id: c-61620
@@ -102,7 +101,6 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60988
-
 - id: c-61621
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

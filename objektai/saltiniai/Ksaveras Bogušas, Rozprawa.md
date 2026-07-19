@@ -103,9 +103,6 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-174584
@@ -128,7 +125,6 @@ Ksaveras Bogušas, Narbuto vertinimu, poloviečius priskyrė lietuvių genties t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191702
-
 - id: c-174585
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

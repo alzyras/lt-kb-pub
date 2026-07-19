@@ -94,7 +94,6 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86763
-
 - id: c-82742
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
   temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau nurodyti ir pilies užbaigimo datą."
   pagrindžia:
     - c-60945
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti ir birželio 29 d. užbaigė Girdavų pilį Bartos žemėje.'
@@ -80,8 +80,7 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60313
 ## Citatos
 
 - id: c-60945

@@ -45,7 +45,7 @@ Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visaga
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59793
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Henrikas ištarė „Tikiu dievą tėvą, visagalį“ ir kitus Apaštalų tikėjimo išpažinimo žodžius, kai buvo raginamas išpažinti žydų tikėjimą.'
@@ -63,8 +63,7 @@ Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visaga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59161
 ## Citatos
 
 - id: c-59793

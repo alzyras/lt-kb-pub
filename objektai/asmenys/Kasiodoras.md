@@ -65,7 +65,7 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177310
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kasiodoro raštų rinkinyje (Variarum. Lib.'
@@ -81,8 +81,7 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194914
 ## Citatos
 
 - id: c-174170
@@ -108,7 +107,6 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191288
-
 - id: c-177310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

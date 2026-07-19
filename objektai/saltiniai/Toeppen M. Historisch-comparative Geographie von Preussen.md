@@ -48,7 +48,7 @@ Dusburgietis teigia, kad toeppen M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia leidimo vietą ir metus."
   pagrindžia:
     - c-61949
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Toeppeno „Historisch-comparative Geographie von Preussen“ išleista Gotha mieste 1858 m.'
@@ -61,8 +61,7 @@ Dusburgietis teigia, kad toeppen M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61317
 ## Citatos
 
 - id: c-61949

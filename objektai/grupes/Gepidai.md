@@ -75,6 +75,7 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175186
+    - c-002
 - susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
 - susijęs iš [[objektai/ivykiai/Teodoriko Italijos žygis su ostrogotais ir kolonistais.md#claim-t-191053|Teodoriko Italijos žygis su ostrogotais ir kolonistais]]: Narbuto pasakojime Teodoriko Italijos žygį, pradėtą viduržiemį, lėtino dengti vežimai, įranga, kalnų keliai, šalčiai, sniegas ir gepidų bei bulgarų pasipriešinimas.
 - susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
@@ -105,8 +106,7 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192392
 ## Citatos
 
 - id: c-168820
@@ -140,7 +140,6 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185459
-
 - id: c-175186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

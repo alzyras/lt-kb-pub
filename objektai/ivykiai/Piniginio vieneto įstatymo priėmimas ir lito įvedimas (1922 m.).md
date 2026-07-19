@@ -114,7 +114,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-16900
-
+    - c-166655
 ## Citatos
 
 - id: c-16900
@@ -138,7 +138,6 @@ Nenurodyta
   pagrindzia:
     - t-23350
     - t-23352
-
 - id: c-16901
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,7 +156,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23351
-
 - id: c-166655
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

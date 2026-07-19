@@ -69,7 +69,7 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174057
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti.'
@@ -94,8 +94,7 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191175
 ## Citatos
 
 - id: c-174056
@@ -123,7 +122,6 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191174
-
 - id: c-174057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

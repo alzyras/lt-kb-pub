@@ -105,7 +105,6 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   pagrindzia:
     - t-34136
     - t-184308
-
 - id: c-35361
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

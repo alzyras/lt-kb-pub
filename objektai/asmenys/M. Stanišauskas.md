@@ -87,7 +87,6 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40321
-
 - id: c-44447
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -42,7 +42,7 @@ Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino l
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172179
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino ligas, ypač epilepsiją.'
@@ -59,8 +59,7 @@ Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189291
 ## Citatos
 
 - id: c-172179

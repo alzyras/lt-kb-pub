@@ -211,7 +211,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66810
-
 - id: c-13101
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -235,7 +234,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66813
-
 - id: c-13104
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -251,7 +249,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66811
-
 - id: c-43098
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -268,7 +265,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66812
-
 - id: c-43099
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -296,7 +292,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66814
-
 - id: c-43100
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -318,6 +313,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66815
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/asmenys/Kerskorfas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Švitrigaila]]

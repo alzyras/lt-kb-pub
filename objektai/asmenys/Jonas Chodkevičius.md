@@ -77,7 +77,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatos faktus."
   pagrindžia:
     - c-64668
-
+    - c-001
 <a id="claim-t-188549"></a>
 - t-003
   global_id: t-188549
@@ -119,8 +119,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-63716
 ## Citatos
 
 - id: c-64668
@@ -142,7 +141,6 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63716
-
 - id: c-64669
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -173,7 +171,6 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63715
-
 - id: c-171438
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

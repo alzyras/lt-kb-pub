@@ -143,7 +143,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173743
-
+    - c-005
 <a id="claim-t-190862"></a>
 - t-006
   global_id: t-190862
@@ -164,7 +164,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173744
-
+    - c-006
 <a id="claim-t-190863"></a>
 - t-007
   global_id: t-190863
@@ -262,8 +262,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190861
 - c-006
   santrauka: 'Hartknochas pateikė žinių, kad prie Baltijos jūros ilgai gyvavo padavimai apie tenykščių genčių, ypač prūsų, ištakas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -283,8 +282,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190862
 ## Citatos
 
 - id: c-172980
@@ -308,7 +306,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190097
-
 - id: c-172981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -330,7 +327,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190098
-
 - id: c-172982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -353,7 +349,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190099
-
 - id: c-173742
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -375,7 +370,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190860
-
 - id: c-173743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -409,7 +403,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190861
-
 - id: c-173744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -434,7 +427,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190862
-
 - id: c-173745
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -456,7 +448,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   pagrindzia:
     - t-190863
     - t-197740
-
 - id: c-179318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -486,7 +477,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197737
-
 - id: c-179319
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -514,7 +504,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197738
-
 - id: c-179320
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

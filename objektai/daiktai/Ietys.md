@@ -122,7 +122,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174936
-
+    - c-003
 <a id="claim-t-192499"></a>
 - t-005
   global_id: t-192499
@@ -182,8 +182,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192067
 ## Citatos
 
 - id: c-174934
@@ -207,7 +206,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192065
-
 - id: c-174935
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -231,7 +229,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192064
-
 - id: c-174936
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -253,7 +250,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192067
-
 - id: c-174937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -274,7 +270,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192066
-
 - id: c-175289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

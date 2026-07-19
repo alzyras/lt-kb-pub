@@ -46,7 +46,7 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   semantiniai_rysiai: "Marcinkonių batalionas puolė Perloja (0.72)"
   pagrindžia:
     - c-42868
-
+    - c-167054
 <a id="claim-t-41087"></a>
 - t-002
   global_id: t-41087
@@ -93,7 +93,6 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41086
-
 - id: c-44816
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -116,7 +115,6 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41087
-
 - id: c-167054
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

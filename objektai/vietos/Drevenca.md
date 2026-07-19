@@ -143,7 +143,6 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83306
-
 - id: c-79663
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -166,7 +165,6 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83307
-
 - id: c-79664
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -185,7 +183,6 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83305
-
 - id: c-167676
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -205,6 +202,5 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184303
-
 ## Ryšiai
 - Gynė Drevencą: [[objektai/grupes/Kryžiuočių ordinas]]

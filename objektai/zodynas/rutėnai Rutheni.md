@@ -84,7 +84,6 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58833
-
 - id: c-59465
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

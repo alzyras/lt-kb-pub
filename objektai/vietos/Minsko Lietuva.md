@@ -91,7 +91,7 @@ Nenurodyta
   semantiniai_rysiai: "Minsko Lietuva priklausė Lietuva (0.70)"
   pagrindžia:
     - c-16572
-
+    - c-16590
 <a id="claim-t-77012"></a>
 - t-003
   global_id: t-77012
@@ -190,7 +190,6 @@ Nenurodyta
   pagrindzia:
     - t-77011
     - t-77013
-
 - id: c-16573
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,7 +211,6 @@ Nenurodyta
   pagrindzia:
     - t-77014
     - t-77016
-
 - id: c-16590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -231,8 +229,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-77011
     - t-77012
-
 - id: c-74482
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

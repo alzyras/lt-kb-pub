@@ -267,7 +267,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54975
-
 - id: c-55521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -297,7 +296,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   pagrindzia:
     - t-54977
     - t-173188
-
 - id: c-55522
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -343,7 +341,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   pagrindzia:
     - t-54978
     - t-173194
-
 - id: c-55523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -366,7 +363,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173193
-
 - id: c-157519
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -400,7 +396,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   pagrindzia:
     - t-54976
     - t-173189
-
 - id: c-157520
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -453,7 +448,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173190
-
 - id: c-157523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -476,6 +470,5 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173192
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

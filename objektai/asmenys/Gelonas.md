@@ -42,7 +42,7 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172948
-
+    - c-001
 <a id="claim-t-190066"></a>
 - t-002
   global_id: t-190066
@@ -96,8 +96,7 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190065
 ## Citatos
 
 - id: c-172948
@@ -124,7 +123,6 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190065
-
 - id: c-172949
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -145,7 +143,6 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190066
-
 - id: c-179167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

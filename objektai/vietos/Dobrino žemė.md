@@ -67,6 +67,5 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28524
-
 ## Ryšiai
 - Puolė Dobrino žemę: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

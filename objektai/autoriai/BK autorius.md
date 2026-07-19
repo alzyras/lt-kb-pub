@@ -40,7 +40,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176759
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius ¡dėjo | tekstų, jo paimtų iš Lietuvos metraščių PS.'
@@ -58,8 +58,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194146
 ## Citatos
 
 - id: c-176759

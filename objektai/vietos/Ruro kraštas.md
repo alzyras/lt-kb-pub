@@ -46,7 +46,7 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   semantiniai_rysiai: "Prancūzai siuntė į Ruro kraštas (kraštas) (0.80)"
   pagrindžia:
     - c-24440
-
+    - c-167021
 ## Citatos
 
 - id: c-24440
@@ -69,7 +69,6 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21761
-
 - id: c-167021
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -106,7 +106,6 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97289
-
 - id: c-91783
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

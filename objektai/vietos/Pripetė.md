@@ -237,7 +237,6 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183082
-
 - id: c-168461
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -261,7 +260,6 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185100
-
 - id: c-175494
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -282,7 +280,6 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192724
-
 - id: c-175495
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -316,7 +313,6 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   pagrindzia:
     - t-192725
     - t-197907
-
 - id: c-175496
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -346,7 +342,6 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192726
-
 - id: c-179390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

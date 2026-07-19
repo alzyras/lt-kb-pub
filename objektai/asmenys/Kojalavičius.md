@@ -49,7 +49,7 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172964
-
+    - c-001
 <a id="claim-t-190082"></a>
 - t-002
   global_id: t-190082
@@ -100,8 +100,7 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190081
 ## Citatos
 
 - id: c-172964
@@ -123,7 +122,6 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190081
-
 - id: c-172965
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

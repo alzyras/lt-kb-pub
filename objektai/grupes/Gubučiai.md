@@ -73,7 +73,6 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183882
-
 ## Ryšiai
 - Gubučiai pastatė [[objektai/vietos/Partigala]]
 - Gubučiai gyveno [[objektai/vietos/Varmė]]

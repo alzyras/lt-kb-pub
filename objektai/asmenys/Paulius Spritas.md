@@ -57,7 +57,7 @@ Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173079
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą, kad Prūsijos lietuviai Pergrubei aukas atnašavo iki 1530 metų.'
@@ -76,8 +76,7 @@ Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190196
 ## Citatos
 
 - id: c-173079

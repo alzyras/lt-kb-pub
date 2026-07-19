@@ -100,6 +100,5 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186242
-
 ## Ryšiai
 - Nestanas valdė [[objektai/vietos/Podolė]]

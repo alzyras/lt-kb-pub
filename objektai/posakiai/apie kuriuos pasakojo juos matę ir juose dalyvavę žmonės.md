@@ -45,7 +45,7 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59705
-
+    - c-167408
 ## Citatos
 
 - id: c-59705
@@ -69,7 +69,6 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59073
-
 - id: c-167408
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

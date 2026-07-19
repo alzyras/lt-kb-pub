@@ -133,7 +133,6 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169936
-
 - id: c-154614
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -153,7 +152,6 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169935
-
 - id: c-166869
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -174,7 +172,6 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169934
-
 - id: c-166870
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

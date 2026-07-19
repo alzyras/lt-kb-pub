@@ -65,7 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172721
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad lietuviai turėję kilnojamųjų ugnies šventovių, kuriose apie dievams malonų medį išvyniodavo aštuonių uolekčių uždangą.'
@@ -83,8 +83,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189838
 ## Citatos
 
 - id: c-172721

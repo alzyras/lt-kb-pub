@@ -90,7 +90,6 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72696
-
 - id: c-71079
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -108,7 +107,6 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72699
-
 - id: c-175899
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

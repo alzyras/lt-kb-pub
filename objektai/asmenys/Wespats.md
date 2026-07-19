@@ -49,7 +49,7 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174368
-
+    - c-001
 <a id="claim-t-197844"></a>
 - t-002
   global_id: t-197844
@@ -84,8 +84,7 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191486
 ## Citatos
 
 - id: c-174368
@@ -112,7 +111,6 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191486
-
 - id: c-179360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

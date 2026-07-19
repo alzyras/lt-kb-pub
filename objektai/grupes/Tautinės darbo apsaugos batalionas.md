@@ -101,7 +101,6 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20039
-
 - id: c-166574
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

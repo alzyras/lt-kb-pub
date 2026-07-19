@@ -57,7 +57,7 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   temporalinis_llm_pakomentavimas: "Pradinis teiginys apie Liuterį pateiktas per neaiškų įvardį; citata remia aiškesnį sakinį."
   pagrindžia:
     - c-61012
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą.'
@@ -73,8 +73,7 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60380
 ## Citatos
 
 - id: c-61012

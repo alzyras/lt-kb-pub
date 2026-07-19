@@ -95,7 +95,6 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40145
-
 - id: c-44351
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

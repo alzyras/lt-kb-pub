@@ -98,7 +98,6 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69731
-
 - id: c-167034
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

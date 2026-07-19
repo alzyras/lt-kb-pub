@@ -90,7 +90,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau perteikti abi nurodytas datavimo alternatyvas."
   pagrindžia:
     - c-66769
-
+    - c-003
 <a id="claim-t-66562"></a>
 - t-003
   global_id: t-66562
@@ -122,8 +122,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-66561
 ## Citatos
 
 - id: c-66767
@@ -146,7 +145,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66562
-
 - id: c-66768
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -165,7 +163,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66560
-
 - id: c-66769
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -170,7 +170,6 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   pagrindzia:
     - t-131655
     - t-131656
-
 - id: c-120212
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -192,7 +191,6 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   patikimumo_saltinis: ai
   pagrindzia:
     - t-131657
-
 - id: c-120214
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -215,7 +213,6 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   patikimumo_saltinis: ai
   pagrindzia:
     - t-131654
-
 - id: c-166807
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

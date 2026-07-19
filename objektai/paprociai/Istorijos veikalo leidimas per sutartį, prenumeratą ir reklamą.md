@@ -69,7 +69,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172678
-
+    - c-001
 <a id="claim-t-189796"></a>
 - t-002
   global_id: t-189796
@@ -90,7 +90,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172679
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nuo 1837 metų A. Marcinovskis rūpinosi T. Narbuto „Lietuvių tautos istorijos“ leidyba, prenumerata ir reklama.'
@@ -108,8 +108,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189795
 - c-002
   santrauka: 'Narbutui artimas literatas A. Marcinovskis suprato „Lietuvių tautos istorijos“ reikšmę ir reklamos tekste veikė ne vien kaip prekiautojas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -127,8 +126,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189796
 ## Citatos
 
 - id: c-172678
@@ -156,7 +154,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189795
-
 - id: c-172679
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

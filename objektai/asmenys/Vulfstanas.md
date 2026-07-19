@@ -93,7 +93,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174071
-
+    - c-003
 <a id="claim-t-192605"></a>
 - t-004
   global_id: t-192605
@@ -158,8 +158,7 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191189
 ## Citatos
 
 - id: c-174068
@@ -183,7 +182,6 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191186
-
 - id: c-174069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -213,7 +211,6 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191187
-
 - id: c-174071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -235,7 +232,6 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191189
-
 - id: c-175376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -260,7 +256,6 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   pagrindzia:
     - t-192605
     - t-197843
-
 - id: c-184399
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -285,6 +280,5 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201049
-
 ## Ryšiai
 - Vulfstanas keliavo į [[objektai/vietos/Estija]]

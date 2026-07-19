@@ -115,7 +115,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171498
-
+    - c-004
 <a id="claim-t-188610"></a>
 - t-005
   global_id: t-188610
@@ -137,7 +137,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171499
-
+    - c-005
 <a id="claim-t-188611"></a>
 - t-006
   global_id: t-188611
@@ -151,7 +151,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171500
-
+    - c-006
 <a id="claim-t-188612"></a>
 - t-007
   global_id: t-188612
@@ -193,7 +193,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171502
-
+    - c-008
 <a id="claim-t-188614"></a>
 - t-009
   global_id: t-188614
@@ -235,7 +235,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171504
-
+    - c-010
 <a id="claim-t-188616"></a>
 - t-011
   global_id: t-188616
@@ -317,8 +317,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188609
 - c-005
   santrauka: 'Narbutas perteikė Grunau pasakojimą, kad šis atsitiktinai pateko į kaimą per ožio aukojimą ir turėjo prisiekti Perkūnui neišduoti apeigų vyskupui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -337,8 +336,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188610
 - c-006
   santrauka: 'Grunau pasakojime apie išpažintį vyrai klaupdavosi prieš vaidilą, išpažindavo nuodėmes ir kaip atgailą patirdavo fizines bausmes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -357,8 +355,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-188611
 - c-008
   santrauka: 'Narbutas nurodė, kad Henenbergeris ir Hartknochas iš Grunau perėmė žinią apie ypatingą senovės prūsų vėliavos užrašą nežinomomis raidėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -373,8 +370,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188613
 - c-010
   santrauka: 'Narbutas Simoną Grunau vadino seniausiu žinomu šio pasakojimo šaltiniu ir gynė jį kaip didesnės pagarbos vertą kronikininką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -395,8 +391,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-188615
 ## Citatos
 
 - id: c-21972
@@ -417,7 +412,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64053
-
 - id: c-64920
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -437,7 +431,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64054
-
 - id: c-166961
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -457,7 +450,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183568
-
 - id: c-171498
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -485,7 +477,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188609
-
 - id: c-171499
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -513,7 +504,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188610
-
 - id: c-171500
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -541,7 +531,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188611
-
 - id: c-171501
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -559,7 +548,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188612
-
 - id: c-171502
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -581,7 +569,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188613
-
 - id: c-171503
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -606,7 +593,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188614
-
 - id: c-171504
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -641,7 +627,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188615
-
 - id: c-171505
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -666,7 +651,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188616
-
 - id: c-173850
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -692,7 +676,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190968
-
 - id: c-179039
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

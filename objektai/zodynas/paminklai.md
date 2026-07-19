@@ -185,7 +185,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   pagrindzia:
     - t-192139
     - t-192567
-
 - id: c-175026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -214,7 +213,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192137
-
 - id: c-175027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -245,7 +243,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192138
-
 - id: c-175346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

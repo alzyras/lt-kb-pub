@@ -110,7 +110,6 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34764
-
 - id: c-35989
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -129,7 +128,6 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34763
-
 - id: c-167663
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

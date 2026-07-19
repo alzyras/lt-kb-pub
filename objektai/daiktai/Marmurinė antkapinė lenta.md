@@ -76,7 +76,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170040
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Iki XVII a. pradžios Agluonos vienuolyne buvo marmurinė antkapinė lenta su užrašu apie Mindaugo nužudymo vietos tradiciją.'
@@ -93,8 +93,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186857
 ## Citatos
 
 - id: c-170040

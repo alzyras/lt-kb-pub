@@ -60,7 +60,7 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173229
-
+    - c-001
 <a id="claim-t-190347"></a>
 - t-002
   global_id: t-190347
@@ -84,7 +84,7 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173230
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Raštams“.'
@@ -98,8 +98,7 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190346
 - c-002
   santrauka: 'D. Urbas išvertė 1959 m. Vilniuje išleistus L. A. Jucevičiaus „Raštus“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -112,8 +111,7 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190347
 ## Citatos
 
 - id: c-173229
@@ -138,7 +136,6 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190346
-
 - id: c-173230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

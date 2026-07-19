@@ -136,8 +136,6 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-169381
@@ -169,7 +167,6 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186020
-
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - Vasiljevičius (Maskvos valdovas) buvo valdovas [[objektai/vietos/Maskva]]

@@ -73,4 +73,4 @@ Pasak Narbuto, Ptolemėjas nuo Vyslos žiočių iki Panonijos skaičiavo tokį p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192890

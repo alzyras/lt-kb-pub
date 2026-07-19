@@ -116,7 +116,6 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70336
-
 - id: c-46929
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -135,7 +134,6 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70335
-
 - id: c-166376
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

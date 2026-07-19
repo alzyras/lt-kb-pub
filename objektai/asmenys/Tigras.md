@@ -86,7 +86,6 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40464
-
 - id: c-42265
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -102,6 +101,5 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40465
-
 ## Ryšiai
 - Tigras puolė [[objektai/asmenys/Marcinkevičius]]

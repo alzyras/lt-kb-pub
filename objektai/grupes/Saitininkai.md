@@ -49,6 +49,7 @@ Narbutas Saitininkus (Sejtones) apibūdino kaip pranašautojus gydytojus, ligas 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172419
+    - c-001
 - susijęs iš [[objektai/zodynas/Saitininkai Sejtones.md#claim-t-189330|Saitininkai Sejtones]]: Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas ant ligonio kaklo kabinamais amuletais.
 - susijęs iš [[objektai/daiktai/Saitininkų amuletai.md#claim-t-189744|Saitininkų amuletai]]: Narbutas saitininkus apibūdina kaip pranašautojus gydytojus, kurie ligas gydydavo ant ligonio kaklo kabinamais amuletais.
 - susijęs iš [[objektai/paprociai/Gydymas amuletais, kabinamais ant ligonio kaklo.md#claim-t-189917|Gydymas amuletais, kabinamais ant ligonio kaklo]]: Narbutas Saitininkus aprašo kaip pranašautojus gydytojus, kurie ligas gydydavo užkabindami ligoniui ant kaklo tam tikrus amuletus.
@@ -71,8 +72,7 @@ Narbutas Saitininkus (Sejtones) apibūdino kaip pranašautojus gydytojus, ligas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189531
 ## Citatos
 
 - id: c-172419

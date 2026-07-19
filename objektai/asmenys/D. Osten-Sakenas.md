@@ -98,7 +98,6 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40082
-
 - id: c-41888
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,7 +131,6 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40083
-
 - id: c-44317
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

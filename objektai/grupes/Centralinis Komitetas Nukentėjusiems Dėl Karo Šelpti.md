@@ -111,7 +111,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   semantiniai_rysiai: "Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) rėmė Lietuviai (0.83)"
   pagrindžia:
     - c-46268
-
+    - c-166289
 <a id="claim-t-193087"></a>
 - t-005
   global_id: t-193087
@@ -145,7 +145,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_saltinis: ai
   pagrindzia:
     - t-168140
-
 - id: c-46268
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,7 +164,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_saltinis: ai
   pagrindzia:
     - t-168144
-
 - id: c-46269
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -189,7 +187,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_saltinis: ai
   pagrindzia:
     - t-168139
-
 - id: c-152973
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -212,7 +209,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_saltinis: ai
   pagrindzia:
     - t-168143
-
 - id: c-166289
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

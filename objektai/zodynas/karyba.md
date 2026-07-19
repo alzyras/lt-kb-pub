@@ -84,7 +84,6 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42466
-
 - id: c-167101
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -99,7 +99,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87550
-
 - id: c-176829
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -124,6 +123,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194232
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

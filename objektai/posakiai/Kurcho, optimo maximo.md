@@ -48,7 +48,7 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174993
-
+    - c-001
 <a id="claim-t-192113"></a>
 - t-002
   global_id: t-192113
@@ -97,8 +97,7 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192112
 ## Citatos
 
 - id: c-174993
@@ -122,7 +121,6 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192112
-
 - id: c-174994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -144,7 +142,6 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192113
-
 - id: c-174995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

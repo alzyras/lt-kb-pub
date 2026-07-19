@@ -82,7 +82,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169990
-
+    - c-001
 <a id="claim-t-186808"></a>
 - t-002
   global_id: t-186808
@@ -101,7 +101,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169991
-
+    - c-002
 <a id="claim-t-186810"></a>
 - t-003
   global_id: t-186810
@@ -120,7 +120,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-169993
-
+    - c-004
 <a id="claim-t-186811"></a>
 - t-004
   global_id: t-186811
@@ -140,6 +140,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169992
+    - c-003
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
 - susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-200401|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
 ## Reikšmingi paminėjimai
@@ -164,8 +165,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186807
 - c-002
   santrauka: 'Kita Bychovco kronikos rankraščio spraga vertime buvo užpildyta tekstu iš Lietuvos metraščių PS Račinskio nuorašo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -180,8 +180,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186808
 - c-003
   santrauka: 'Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -197,8 +196,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-186811
 - c-004
   santrauka: 'Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -220,8 +218,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-186810
 ## Citatos
 
 - id: c-169990
@@ -248,7 +245,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186807
-
 - id: c-169991
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -270,7 +266,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186808
-
 - id: c-169992
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -293,7 +288,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186811
-
 - id: c-169993
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -318,6 +312,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186810
-
 ## Ryšiai
 - Bychovco kronikos rankraštis priklausė [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]

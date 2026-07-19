@@ -121,7 +121,6 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
   pagrindzia:
     - t-54387
     - t-54388
-
 - id: c-55232
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

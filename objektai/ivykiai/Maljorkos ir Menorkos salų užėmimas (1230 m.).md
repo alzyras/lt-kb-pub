@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, bet citata aiškiai remia glaustą faktą."
   pagrindžia:
     - c-62985
-
+    - c-001
 <a id="claim-t-194404"></a>
 - t-003
   global_id: t-194404
@@ -85,7 +85,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62985
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -102,10 +102,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
+    - t-62388
+    - t-194404
 ## Citatos
 
 - id: c-62985

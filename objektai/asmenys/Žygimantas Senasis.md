@@ -201,7 +201,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   semantiniai_rysiai: "Žygimantas Senasis buvo priešas Bajorai (0.72)"
   pagrindžia:
     - c-157645
-
+    - c-157649
 <a id="claim-t-173317"></a>
 - t-010
   global_id: t-173317
@@ -486,7 +486,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą."
   pagrindžia:
     - c-157659
-
+    - c-157644
 <a id="claim-t-173333"></a>
 - t-025
   global_id: t-173333
@@ -522,7 +522,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157634
-
+    - c-167240
 <a id="claim-t-173336"></a>
 - t-027
   global_id: t-173336
@@ -677,7 +677,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173307
-
 - id: c-157631
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -706,7 +705,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173326
-
 - id: c-157632
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -731,7 +729,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173315
-
 - id: c-157633
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -753,7 +750,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173309
-
 - id: c-157634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -773,7 +769,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173335
-
 - id: c-157635
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -801,7 +796,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173337
-
 - id: c-157636
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -824,7 +818,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173324
-
 - id: c-157637
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -858,7 +851,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindzia:
     - t-173310
     - t-173330
-
 - id: c-157638
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -882,7 +874,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindzia:
     - t-173321
     - t-173339
-
 - id: c-157639
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -911,7 +902,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173336
-
 - id: c-157640
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -933,7 +923,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173319
-
 - id: c-157641
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -963,7 +952,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173322
-
 - id: c-157642
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -988,7 +976,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   pagrindzia:
     - t-173325
     - t-173328
-
 - id: c-157643
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1017,7 +1004,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173317
-
 - id: c-157644
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1103,7 +1089,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173331
-
 - id: c-157648
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1125,7 +1110,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173311
-
 - id: c-157649
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1147,8 +1131,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-173316
-
+    - t-173323
 - id: c-157650
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1171,7 +1154,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173333
-
 - id: c-157651
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1212,7 +1194,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173308
-
 - id: c-157652
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1241,7 +1222,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173338
-
 - id: c-157653
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1283,7 +1263,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173329
-
 - id: c-157655
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1323,7 +1302,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173320
-
 - id: c-157657
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1357,7 +1335,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173314
-
 - id: c-157658
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1382,7 +1359,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173318
-
 - id: c-157659
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1402,7 +1378,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173332
-
 - id: c-157660
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1430,7 +1405,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173327
-
 - id: c-157661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1462,7 +1436,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173340
-
 - id: c-157662
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1513,7 +1486,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173313
-
 - id: c-167240
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

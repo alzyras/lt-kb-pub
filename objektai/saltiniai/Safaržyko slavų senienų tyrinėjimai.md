@@ -48,7 +48,7 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174737
-
+    - c-001
 <a id="claim-t-197689"></a>
 - t-002
   global_id: t-197689
@@ -80,8 +80,7 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191855
 ## Citatos
 
 - id: c-174737
@@ -106,7 +105,6 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191855
-
 - id: c-179296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

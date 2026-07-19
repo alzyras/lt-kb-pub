@@ -76,6 +76,5 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87796
-
 ## Ryšiai
 - Motiejus Kaviečnijskis siuntė į [[objektai/vietos/Varšuva]]

@@ -68,4 +68,4 @@ Narbutas, remdamasis Lasickiu, Alabatį apibūdina kaip deivę, kurios šauktasi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189272

@@ -76,4 +76,4 @@ Narbutas rašo, kad 1805 m. vieną sekmadienį Kalnėnuose prie vainikais papuo�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189006

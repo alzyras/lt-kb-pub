@@ -47,7 +47,7 @@ Is Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikš tystės buvo sura�
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176777
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Is Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikš tystės buvo surašyta 1494.11.5 Maskvoje, Ivano Ilt-ojo prisiekta 1494.11.7.'
@@ -62,8 +62,7 @@ Is Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikš tystės buvo sura�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194164
 ## Citatos
 
 - id: c-176777

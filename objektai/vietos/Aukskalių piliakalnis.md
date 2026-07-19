@@ -93,7 +93,6 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58519
-
 - id: c-59152
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

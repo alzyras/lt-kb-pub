@@ -197,7 +197,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05469
-
 - id: c-05599
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -219,7 +218,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   pagrindzia:
     - t-05470
     - t-05471
-
 - id: c-05600
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -242,7 +240,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   pagrindzia:
     - t-05472
     - t-05473
-
 - id: c-05601
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

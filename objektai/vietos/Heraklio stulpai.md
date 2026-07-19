@@ -48,7 +48,7 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175609
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir Heraklio stulpus.'
@@ -65,8 +65,7 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192839
 - c-002
   santrauka: 'Romėnai, sužinoję apie pūnų laivus už Heraklio stulpų keliaujant į šiaurines jūras, pasiuntė jūrų keliautoją sekti vieną tokį laivą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -95,8 +94,6 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-175609

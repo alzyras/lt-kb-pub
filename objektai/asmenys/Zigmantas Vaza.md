@@ -147,7 +147,6 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82988
-
 - id: c-79402
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,7 +164,6 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82984
-
 - id: c-79403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -185,7 +183,6 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82987
-
 - id: c-79405
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -202,7 +199,6 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82985
-
 - id: c-176844
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -225,6 +221,5 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194248
-
 ## Ryšiai
 - Zigmantas Vaza keliavo į [[objektai/vietos/Švedija]]

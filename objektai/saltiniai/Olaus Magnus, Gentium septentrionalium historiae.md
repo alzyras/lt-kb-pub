@@ -52,7 +52,7 @@ Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Ola
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173402
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Olafo Monsono „Šiaurės tautų istorija“, išleista 1652 m.'
@@ -68,8 +68,7 @@ Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Ola
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190519
 ## Citatos
 
 - id: c-173402

@@ -72,7 +72,8 @@ Nenurodyta
   pagrindžia:
     - c-63666
     - c-63667
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno, o lietuviai ją sunaikino.'
@@ -89,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62839
 - c-002
   santrauka: '1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno, o lietuviai ją sunaikino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,8 +106,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62839
 ## Citatos
 
 - id: c-63666
@@ -133,7 +132,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62839
-
 - id: c-63667
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

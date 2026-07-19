@@ -97,7 +97,6 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67257
-
 - id: c-14556
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -117,7 +116,6 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67256
-
 - id: c-14557
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

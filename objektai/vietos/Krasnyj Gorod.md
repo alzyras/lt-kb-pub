@@ -86,6 +86,7 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170534
+    - c-002
 - susijęs iš Veližas: Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
 - susijęs iš Krasnogorodskoje: Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos.
 - susijęs iš Krasnogorodskoje: Krasnyj gorod komentare tapatinamas su Krasnogorodskoje.
@@ -121,8 +122,7 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187587
 ## Citatos
 
 - id: c-170304
@@ -142,7 +142,6 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   pagrindzia:
     - t-187241
     - t-187242
-
 - id: c-170534
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

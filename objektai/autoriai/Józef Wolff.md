@@ -97,7 +97,6 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-11262
-
 - id: c-13912
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

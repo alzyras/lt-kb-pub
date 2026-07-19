@@ -72,7 +72,7 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175703
-
+    - c-002
 <a id="claim-t-192934"></a>
 - t-003
   global_id: t-192934
@@ -93,6 +93,7 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175704
+    - c-003
 - susijęs iš [[objektai/asmenys/Cyras-Karbo.md#claim-t-191384|Cyras-Karbo]]: Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur jie 190 m. pr. Kr. pirmą kartą kovėsi su Cyras-Karbo vadovaujamais romėnais.
 - susijęs iš [[objektai/asmenys/Biorntelis.md#claim-t-191377|Biorntelis]]: Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Trento gyvena iki 60 000 senovės kimbrų palikuonių.
 - susijęs iš [[objektai/asmenys/Hartknochas.md#claim-t-190860|Hartknochas]]: Narbuto perteikimu Hartknochas tvirtino, kad kimbrai gyveno vėlesnių prūsų žemėje ir ten buvo vadinami sembais.
@@ -147,8 +148,7 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192933
 - c-003
   santrauka: 'Narbutas, remdamasis Herodotu ir senovės tyrinėtojais, kimbrus laiko kadaise Prūsijoje viešėjusia gentimi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -170,8 +170,7 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192934
 ## Citatos
 
 - id: c-175702
@@ -195,7 +194,6 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192932
-
 - id: c-175703
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -224,7 +222,6 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192933
-
 - id: c-175704
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -248,7 +245,6 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192934
-
 ## Ryšiai
 - Kimbrai keliavo į [[objektai/vietos/Vakarų Europa]]
 - Kimbrai kariavo prieš [[objektai/asmenys/Scipionas]]

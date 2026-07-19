@@ -46,7 +46,7 @@ Dusburgietis teigia, kad mažiulis V.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą."
   pagrindžia:
     - c-61806
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad mažiulis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61174
 ## Citatos
 
 - id: c-61806

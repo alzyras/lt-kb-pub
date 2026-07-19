@@ -94,7 +94,6 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19296
-
 - id: c-22039
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -149,7 +149,6 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08810
-
 - id: c-11107
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -169,7 +168,6 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08806
-
 - id: c-11108
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -200,7 +198,6 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08804
-
 - id: c-11111
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

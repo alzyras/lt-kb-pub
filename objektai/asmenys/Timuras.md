@@ -99,7 +99,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30398
-
 - id: c-32812
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

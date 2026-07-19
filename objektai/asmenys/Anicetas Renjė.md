@@ -124,7 +124,7 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170878
-
+    - c-003
 <a id="claim-t-190847"></a>
 - t-004
   global_id: t-190847
@@ -148,6 +148,7 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173729
+    - c-004
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-188395|Adomas Stanislovas Naruševičius]]: Narbutas laiške Anicetui Renjė kritikavo Naruševičių, kad šis rašė apie valdžios veiksmus ir karo įvykius, bet ne apie tautą.
 - susijęs iš [[objektai/daiktai/Briliantinis žiedas.md#claim-t-187978|Briliantinis žiedas]]: 1839 m. T. Narbutas, nusiuntęs penkis savo istorijos veikalo tomus Rusijos imperatoriui, gavo briliantinį žiedą, įvertintą 1000 aukso rublių.
 ## Reikšmingi paminėjimai
@@ -166,8 +167,7 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187897
 - c-004
   santrauka: '1839 m. gruodžio 15 d. laiške iš Vilniaus medicinos daktaras Anicetas Renjė rašė, kad Podčašinskis pastebėjimą padarė prieš Renjė aprašymą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -190,8 +190,7 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190847
 ## Citatos
 
 - id: c-170876
@@ -215,7 +214,6 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187895
-
 - id: c-170877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -236,7 +234,6 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187896
-
 - id: c-170878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -262,7 +259,6 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187897
-
 - id: c-173729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

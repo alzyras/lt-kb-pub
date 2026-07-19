@@ -96,7 +96,6 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72795
-
 - id: c-46441
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -90,7 +90,6 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60985
-
 - id: c-61618
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

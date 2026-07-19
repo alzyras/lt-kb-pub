@@ -100,7 +100,6 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64206
-
 - id: c-65022
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

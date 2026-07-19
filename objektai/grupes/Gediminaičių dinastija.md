@@ -340,7 +340,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-180598
-
+    - c-024
 <a id="claim-t-198549"></a>
 - t-017
   global_id: t-198549
@@ -401,7 +401,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-180600
-
+    - c-025
 <a id="claim-t-198556"></a>
 - t-020
   global_id: t-198556
@@ -469,8 +469,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023
-
+    - t-198548
 - c-025
   santrauka: 'Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -486,8 +485,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
-
+    - t-198552
 ## Citatos
 
 - id: c-14965
@@ -509,7 +507,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12360
-
 - id: c-14966
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -531,7 +528,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12361
-
 - id: c-14967
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -550,7 +546,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12362
-
 - id: c-14968
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -570,7 +565,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindzia:
     - t-12363
     - t-96101
-
 - id: c-22398
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -593,7 +587,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96117
-
 - id: c-22400
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -613,7 +606,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96109
-
 - id: c-31065
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -633,7 +625,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198551
-
 - id: c-36778
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -656,7 +647,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96112
-
 - id: c-36779
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -678,7 +668,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96108
-
 - id: c-90821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -704,7 +693,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96113
-
 - id: c-90830
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -725,7 +713,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96106
-
 - id: c-180583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -843,7 +830,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198542
-
 - id: c-180590
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -882,8 +868,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198544
-
+    - t-198545
 - id: c-180592
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -909,7 +894,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182889
-
 - id: c-180593
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -973,7 +957,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198561
-
 - id: c-180597
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -994,7 +977,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198556
-
 - id: c-180598
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1022,7 +1004,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198548
-
 - id: c-180599
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1044,7 +1025,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198560
-
 - id: c-180600
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1067,7 +1047,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198552
-
 - id: c-180601
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1090,7 +1069,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12359
-
 - id: c-180604
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1110,7 +1088,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198549
-
 - id: c-180606
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

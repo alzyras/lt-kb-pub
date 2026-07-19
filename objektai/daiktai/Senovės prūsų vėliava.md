@@ -65,7 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172596
-
+    - c-001
 <a id="claim-t-189714"></a>
 - t-002
   global_id: t-189714
@@ -87,6 +87,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172597
+    - c-002
 - susijęs iš [[objektai/daiktai/Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais.md#claim-t-189766|Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188304|Prūsai]]: Narbutas Perkūno, Patelo ir Atrimpo atvaizdus sieja su senovės prūsų vėliava.
 ## Reikšmingi paminėjimai
@@ -107,8 +108,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189713
 - c-002
   santrauka: 'Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -122,8 +122,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189714
 ## Citatos
 
 - id: c-172596
@@ -148,7 +147,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189713
-
 - id: c-172597
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

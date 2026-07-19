@@ -65,7 +65,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168883
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prieš mirtį Jogaila pasikvietė karalystės didikus ir paprašė, kad rinkdami sosto įpėdinį jie neaplenktų jo sūnaus Vladislovo.'
@@ -87,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185522
 ## Citatos
 
 - id: c-168883

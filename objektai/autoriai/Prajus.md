@@ -41,7 +41,7 @@ Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174472
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose nubraižytu žemėlapiu.'
@@ -60,8 +60,7 @@ Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191590
 ## Citatos
 
 - id: c-174472

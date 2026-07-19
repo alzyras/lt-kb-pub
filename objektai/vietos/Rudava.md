@@ -143,7 +143,6 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69176
-
 - id: c-68581
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -160,7 +159,6 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69177
-
 - id: c-68582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

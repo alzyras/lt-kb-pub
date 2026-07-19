@@ -57,6 +57,7 @@ Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisc
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus veikalo temą, leidimo vietą ir metus."
   pagrindžia:
     - c-61432
+    - c-001
 - susijęs iš Toppen M Einleitung: M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,8 +72,7 @@ Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60800
 ## Citatos
 
 - id: c-61432

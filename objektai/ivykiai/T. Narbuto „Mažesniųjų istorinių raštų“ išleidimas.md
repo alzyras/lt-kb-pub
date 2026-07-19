@@ -128,7 +128,6 @@ Nenurodyta
   pagrindzia:
     - t-192018
     - t-192019
-
 - id: c-174900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

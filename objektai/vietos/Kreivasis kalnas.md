@@ -76,5 +76,5 @@ Kreivasis, arba Pilkasis, kalnas tapatinamas su Trijų Kryžių kalnu. Kalnas lo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-187243
+    - t-187244

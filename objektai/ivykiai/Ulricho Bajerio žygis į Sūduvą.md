@@ -69,7 +69,7 @@ Nenurodyta
   semantiniai_rysiai: "Ulrichas Bajeris surengė žygį į Sūduva (0.95); Ulrichas Bajeris puolė Sūduviai (0.86)"
   pagrindžia:
     - c-63195
-
+    - c-001
 <a id="claim-t-196976"></a>
 - t-002
   global_id: t-196976
@@ -103,8 +103,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62515
 ## Citatos
 
 - id: c-63195
@@ -131,7 +130,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62515
-
 - id: c-178991
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

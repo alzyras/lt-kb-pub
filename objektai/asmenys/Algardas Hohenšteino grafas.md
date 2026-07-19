@@ -99,6 +99,5 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87618
-
 ## Ryšiai
 - Algardas Hohenšteino grafas mirė [[objektai/vietos/Vilnius]]

@@ -75,6 +75,7 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-177307
+    - c-002
 - susijęs iš [[objektai/ivykiai/Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m.md#claim-t-191042|Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m]]: Apie 269 m. Aurelianas Klaudijus prie Naisos Dardanijoje sumušė gotus, tarp kurių, Narbuto pasakojimu, buvo ir herulų.
 - susijęs iš Naisa: Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumušė gotų kariuomenę.
 ## Reikšmingi paminėjimai
@@ -96,8 +97,7 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194911
 ## Citatos
 
 - id: c-174220
@@ -121,7 +121,6 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191338
-
 - id: c-177307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -144,6 +143,5 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194911
-
 ## Ryšiai
 - Aurelianas Klaudijus kariavo prieš [[objektai/grupes/Gotai]]

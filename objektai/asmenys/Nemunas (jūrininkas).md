@@ -86,7 +86,6 @@ Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190076
-
 - id: c-179183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

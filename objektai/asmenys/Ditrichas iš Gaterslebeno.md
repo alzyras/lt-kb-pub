@@ -57,6 +57,7 @@ Dusburgietis teigia, kad apie brolį Ditrichą, aštuntą Prūsijos magistrą Br
   temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-60897
+    - c-001
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-184101|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis buvo maršalas tuo metu, kai Ditrichas iš Gaterslebeno ėjo Prūsijos žemės magistro pareigas.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89913|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis buvo maršalas tuo metu, kai Ditrichas iš Gaterslebeno ėjo Prūsijos žemės magistro pareigas.
 ## Reikšmingi paminėjimai
@@ -75,8 +76,7 @@ Dusburgietis teigia, kad apie brolį Ditrichą, aštuntą Prūsijos magistrą Br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60265
 ## Citatos
 
 - id: c-60897

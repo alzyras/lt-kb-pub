@@ -94,7 +94,6 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30830
-
 - id: c-33052
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

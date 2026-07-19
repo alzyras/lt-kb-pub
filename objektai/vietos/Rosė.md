@@ -72,7 +72,7 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175515
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Rosę aprašė kaip upę, tekančią per tankiai gyvenamas, gražias ir derlingas Volkovysko apskrities apylinkes.'
@@ -96,8 +96,7 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192745
 ## Citatos
 
 - id: c-171857
@@ -126,7 +125,6 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188968
-
 - id: c-175515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

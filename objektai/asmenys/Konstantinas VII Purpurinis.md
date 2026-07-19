@@ -49,7 +49,7 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174234
-
+    - c-001
 <a id="claim-t-191353"></a>
 - t-002
   global_id: t-191353
@@ -88,8 +88,7 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191352
 ## Citatos
 
 - id: c-174234
@@ -115,7 +114,6 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191352
-
 - id: c-174235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

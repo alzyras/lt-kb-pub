@@ -99,7 +99,6 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170076
-
 - id: c-154757
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

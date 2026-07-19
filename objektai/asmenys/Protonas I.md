@@ -145,7 +145,6 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
   pagrindzia:
     - t-191224
     - t-197808
-
 - id: c-174107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -167,7 +166,6 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191225
-
 - id: c-174108
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -188,7 +186,6 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191226
-
 - id: c-184374
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

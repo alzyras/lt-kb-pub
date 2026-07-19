@@ -107,7 +107,6 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40412
-
 - id: c-42210
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -125,7 +124,6 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40411
-
 - id: c-44503
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

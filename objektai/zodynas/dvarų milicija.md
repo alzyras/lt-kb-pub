@@ -89,7 +89,6 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02981
-
 - id: c-166342
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

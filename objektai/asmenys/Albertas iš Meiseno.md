@@ -97,7 +97,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56140
-
+    - c-002
 <a id="claim-t-89612"></a>
 - t-005
   global_id: t-89612
@@ -114,7 +114,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56139
-
+    - c-001
 <a id="claim-t-89613"></a>
 - t-006
   global_id: t-89613
@@ -131,7 +131,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85553
-
+    - c-006
 <a id="claim-t-89614"></a>
 - t-007
   global_id: t-89614
@@ -148,7 +148,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85550
-
+    - c-004
 <a id="claim-t-89615"></a>
 - t-008
   global_id: t-89615
@@ -166,7 +166,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-85552
-
+    - c-005
 <a id="claim-t-184655"></a>
 - t-009
   global_id: t-184655
@@ -187,7 +187,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   semantiniai_rysiai: "Albertas iš Meiseno rėmė Pelužis (0.78)"
   pagrindžia:
     - c-168016
-
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -202,8 +202,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-89612
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -218,8 +217,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-89611
 - c-004
   santrauka: 'Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -236,8 +234,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-89614
 - c-005
   santrauka: 'Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -253,8 +250,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-89615
 - c-006
   santrauka: 'Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -268,8 +264,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-89613
 - c-007
   santrauka: 'Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -288,8 +283,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-184655
 ## Citatos
 
 - id: c-56139
@@ -313,7 +307,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89612
-
 - id: c-56140
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -340,7 +333,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89611
-
 - id: c-85549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -365,7 +357,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-89608
     - t-89609
     - t-89610
-
 - id: c-85550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -392,7 +383,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89614
-
 - id: c-85552
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -416,7 +406,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89615
-
 - id: c-85553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -439,7 +428,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89613
-
 - id: c-168016
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

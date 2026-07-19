@@ -48,7 +48,7 @@ I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui,
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174698
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto Saurų dvaro bibliotekoje.'
@@ -68,8 +68,7 @@ I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191816
 ## Citatos
 
 - id: c-174698

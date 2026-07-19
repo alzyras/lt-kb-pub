@@ -212,7 +212,6 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
   pagrindzia:
     - t-72004
     - t-72005
-
 - id: c-178659
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

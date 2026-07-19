@@ -77,6 +77,5 @@ Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vado
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191452
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Pasijus]]

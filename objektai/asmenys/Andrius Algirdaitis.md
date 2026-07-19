@@ -180,7 +180,7 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinti puslapio numeriai, OCR klaidos ir nutrūkęs sakinio galas. Priešiškos koalicijos motyvas neįtrauktas, nes jis jautrus ir čia nereikalingas.'
   pagrindžia:
-    - c-176519
+    - c-005
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40018|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis su Kęstučiu ir Vytautu Kęstutaičiu puolė Perejeslavlį.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
@@ -212,8 +212,7 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-193894
 ## Citatos
 
 - id: c-55314
@@ -237,7 +236,6 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54943
-
 - id: c-55316
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -267,7 +265,6 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54946
-
 - id: c-78714
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -313,7 +310,6 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
     - t-54944
     - t-54945
     - t-82220
-
 - id: c-78715
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -342,7 +338,6 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82221
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Andrius Algirdaitis mirė [[objektai/vietos/Vorskla]]

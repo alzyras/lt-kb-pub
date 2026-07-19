@@ -82,6 +82,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34713
-
 ## Ryšiai
 - Chudandachas puolė [[objektai/vietos/Odojevas]], [[objektai/vietos/Riazanė]]

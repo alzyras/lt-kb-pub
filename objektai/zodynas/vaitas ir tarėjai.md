@@ -97,7 +97,6 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86560
-
 - id: c-82539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

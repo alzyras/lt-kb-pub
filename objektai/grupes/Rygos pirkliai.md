@@ -75,6 +75,5 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86821
-
 ## Ryšiai
 - Rygos pirkliai prekiavo su [[objektai/vietos/Vilnius]]

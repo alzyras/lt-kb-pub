@@ -92,7 +92,6 @@ Teodoras Narbutas Malabato vardą aiškina kaip lietuvišką ir sieja jį su mit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191292
-
 - id: c-174175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

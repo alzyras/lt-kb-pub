@@ -98,7 +98,6 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78927
-
 - id: c-76028
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

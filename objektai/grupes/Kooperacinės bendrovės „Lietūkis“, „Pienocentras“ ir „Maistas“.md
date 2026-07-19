@@ -100,7 +100,6 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65315
-
 - id: c-65735
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

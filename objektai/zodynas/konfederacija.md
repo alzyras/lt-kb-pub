@@ -140,7 +140,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70189
-
 - id: c-46906
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -162,7 +161,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70186
-
 - id: c-166353
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

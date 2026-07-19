@@ -62,4 +62,4 @@ Biufono sistema, kaip ją pateikia Narbutas, teigė, kad organinis pasaulis pras
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191635

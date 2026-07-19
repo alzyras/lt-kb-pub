@@ -120,7 +120,6 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   pagrindzia:
     - t-60443
     - t-197161
-
 - id: c-168200
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

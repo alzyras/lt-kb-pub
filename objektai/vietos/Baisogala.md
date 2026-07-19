@@ -58,7 +58,7 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako įvykį, vietą ir datą."
   pagrindžia:
     - c-114632
-
+    - c-114631
 <a id="claim-t-125426"></a>
 - t-002
   global_id: t-125426
@@ -113,9 +113,8 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-125424
+    - t-125425
     - t-125426
-
 - id: c-114632
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

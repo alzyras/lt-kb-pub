@@ -116,7 +116,6 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-121039
-
 - id: c-110943
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

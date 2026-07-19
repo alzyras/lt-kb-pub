@@ -95,7 +95,6 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195635
-
 - id: c-178037
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

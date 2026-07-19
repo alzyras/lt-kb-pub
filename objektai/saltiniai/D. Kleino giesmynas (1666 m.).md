@@ -71,7 +71,6 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67365
-
 - id: c-67303
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

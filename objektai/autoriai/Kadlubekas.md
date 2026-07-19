@@ -50,7 +50,7 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174462
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotvingiai kovojo šalia mozūrų ir prūsų.'
@@ -71,8 +71,7 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191580
 ## Citatos
 
 - id: c-174462

@@ -131,7 +131,6 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86452
-
 - id: c-82430
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,7 +158,6 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86451
-
 - id: c-82431
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -185,7 +183,6 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86449
-
 - id: c-176820
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -142,7 +142,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189771
-
 - id: c-172655
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -163,7 +162,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189772
-
 - id: c-172656
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -185,7 +183,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189773
-
 - id: c-172657
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

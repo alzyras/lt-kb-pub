@@ -123,7 +123,6 @@ Baltų / prūsų regioninė grupė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188047
-
 - id: c-175248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -146,7 +145,6 @@ Baltų / prūsų regioninė grupė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192454
-
 - id: c-179227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -48,7 +48,7 @@ Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapi
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173012
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapio statulą su į kryžių panašiu ženklu.'
@@ -67,8 +67,7 @@ Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190129
 ## Citatos
 
 - id: c-173012

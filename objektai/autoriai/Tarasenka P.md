@@ -88,7 +88,6 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64857
-
 - id: c-65446
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

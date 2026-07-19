@@ -48,7 +48,7 @@ Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173369
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio veikalo „O prawach“ pirmajame tome.'
@@ -62,8 +62,7 @@ Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190486
 ## Citatos
 
 - id: c-173369

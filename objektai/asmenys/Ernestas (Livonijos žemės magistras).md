@@ -56,7 +56,7 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   temporalinis_llm_pakomentavimas: "Citata apie Ernestą palaiko tik jo žūtį ir pareigas, o ne visą pradinę konstrukciją."
   pagrindžia:
     - c-85639
-
+    - c-001
 <a id="claim-t-89709"></a>
 - t-002
   global_id: t-89709
@@ -96,8 +96,7 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89708
 ## Citatos
 
 - id: c-85639
@@ -120,7 +119,6 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89708
-
 - id: c-85640
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

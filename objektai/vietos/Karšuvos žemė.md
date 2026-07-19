@@ -53,7 +53,7 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   semantiniai_rysiai: "Karšuvos žemė priklausė Karšuva (0.78)"
   pagrindžia:
     - c-86348
-
+    - c-001
 <a id="claim-t-90535"></a>
 - t-002
   global_id: t-90535
@@ -111,8 +111,7 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-90534
 ## Citatos
 
 - id: c-86348
@@ -139,7 +138,6 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90534
-
 - id: c-86350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -63,7 +63,7 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60825
-
+    - c-001
 <a id="claim-t-197147"></a>
 - t-003
   global_id: t-197147
@@ -98,8 +98,7 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60194
 ## Citatos
 
 - id: c-60825
@@ -124,7 +123,6 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60194
-
 - id: c-60826
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -147,7 +145,6 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60193
-
 - id: c-179037
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -79,9 +79,6 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-59808

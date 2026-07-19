@@ -261,7 +261,6 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45651
-
 - id: c-171363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -284,7 +283,6 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188473
-
 - id: c-171364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -308,7 +306,6 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188474
-
 - id: c-176099
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -335,7 +332,6 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193374
-
 - id: c-176262
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -365,7 +361,6 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193587
-
 - id: c-176263
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -387,7 +382,6 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193588
-
 - id: c-176809
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

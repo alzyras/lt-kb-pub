@@ -188,6 +188,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168104
+    - c-006
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97457|Kaributas]]: Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
 - susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63794|Karigaila]]: Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179723|Švitrigaila]]: Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
@@ -256,8 +257,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-184743
 ## Citatos
 
 - id: c-04832
@@ -285,7 +285,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindzia:
     - t-05185
     - t-176502
-
 - id: c-160500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -314,7 +313,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176505
-
 - id: c-160501
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -334,7 +332,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05184
-
 - id: c-160504
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -358,7 +355,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindzia:
     - t-05186
     - t-176503
-
 - id: c-160505
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -382,7 +378,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176500
-
 - id: c-168104
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

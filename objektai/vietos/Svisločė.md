@@ -66,4 +66,4 @@ Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192901

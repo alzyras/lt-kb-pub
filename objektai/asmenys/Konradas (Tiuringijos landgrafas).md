@@ -103,7 +103,6 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59991
-
 - id: c-60622
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -128,7 +127,6 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59990
-
 - id: c-60623
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

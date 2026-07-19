@@ -42,6 +42,7 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177328
+    - c-001
 - susijęs iš [[objektai/grupes/Graikai.md#claim-t-192406|Graikai]]: 514 metais prieš Kristų persų būriai, remiami graikų sąjungininkų, įžengė į Europą ir brovėsi Dunojaus link.
 - susijęs iš [[objektai/grupes/Skitai.md#claim-t-192464|Skitai]]: 514 metais prieš Kristų Darijus patraukė prieš Indatirą, kai skitai, Narbuto žodžiais, neketino žemintis.
 - susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191007|Darijaus žygis prieš skitus]]: Narbuto pasakojimu, 514 m. pr. Kr. Darijus patraukė prieš Indatirą, kai skitai neketino žemintis.
@@ -64,8 +65,7 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194932
 ## Citatos
 
 - id: c-177328

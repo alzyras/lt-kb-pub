@@ -49,7 +49,7 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175585
-
+    - c-001
 <a id="claim-t-197870"></a>
 - t-002
   global_id: t-197870
@@ -85,8 +85,7 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192815
 - c-002
   santrauka: 'Narbutas rašo, kad 1290 m. Christburgas buvo prie pat Drūsinės ežero, nors jo laikais nuo ežero nutolęs penkias mylias.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -109,8 +108,6 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-175585
@@ -143,7 +140,6 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192815
-
 - id: c-179373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

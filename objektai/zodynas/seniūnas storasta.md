@@ -92,7 +92,6 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36834
-
 - id: c-37953
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

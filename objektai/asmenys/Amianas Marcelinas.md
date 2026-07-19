@@ -49,7 +49,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174053
-
+    - c-001
 <a id="claim-t-191172"></a>
 - t-002
   global_id: t-191172
@@ -141,8 +141,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191171
 - c-002
   santrauka: 'Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnus, keliavusius per Dneprą ir alanų kraštą pas Saporą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -161,9 +160,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-004
-
 - c-003
   santrauka: 'Narbutas agazirus tapatina su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -183,9 +179,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-005
-
 ## Citatos
 
 - id: c-174053
@@ -217,7 +210,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191171
-
 - id: c-174054
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -244,7 +236,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
   pagrindzia:
     - t-191172
     - t-197708
-
 - id: c-174820
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

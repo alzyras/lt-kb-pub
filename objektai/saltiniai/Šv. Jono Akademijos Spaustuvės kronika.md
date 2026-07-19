@@ -117,7 +117,6 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88362
-
 - id: c-84341
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

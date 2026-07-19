@@ -46,7 +46,7 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   semantiniai_rysiai: "Kulmas priklausė Lenkai (0.87); Kryžiuočių ordinas užkariavo Prūsija (0.78)"
   pagrindžia:
     - c-59552
-
+    - c-167404
 <a id="claim-t-58921"></a>
 - t-002
   global_id: t-58921
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsija (0.78)"
   pagrindžia:
     - c-59553
-
+    - c-167403
 ## Citatos
 
 - id: c-59552
@@ -86,7 +86,6 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58920
-
 - id: c-59553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -107,7 +106,6 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58921
-
 - id: c-167403
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

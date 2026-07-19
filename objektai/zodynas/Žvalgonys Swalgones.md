@@ -49,7 +49,7 @@ Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apei
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172241
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ir sakiusius kalbas.'
@@ -70,8 +70,7 @@ Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189354
 ## Citatos
 
 - id: c-172241

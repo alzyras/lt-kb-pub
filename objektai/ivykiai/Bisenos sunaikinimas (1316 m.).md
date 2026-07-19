@@ -71,7 +71,7 @@ Pilis sudeginta ir liko apleista.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-91569
-
+    - c-002
 <a id="claim-t-97016"></a>
 - t-002
   global_id: t-97016
@@ -109,8 +109,7 @@ Pilis sudeginta ir liko apleista.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-97014
 ## Citatos
 
 - id: c-91568
@@ -130,8 +129,7 @@ Pilis sudeginta ir liko apleista.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97015
-
+    - t-97016
 - id: c-91569
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -63,7 +63,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59087
-
+    - c-002
 <a id="claim-t-58456"></a>
 - t-003
   global_id: t-58456
@@ -106,6 +106,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59087
+    - c-002
 - susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60169|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.
 - susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60169|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.
 - susijęs iš [[objektai/autoriai/Engel C.md#claim-t-60696|Engel C]]: Engelio darbas cituojamas lokalizuojant centrinę Kresmenos, arba Skomanto, pilį prie Skomanto ežero pietinės pakrantės.
@@ -132,10 +133,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-005
-    - t-007
-
+    - t-58455
+    - t-194535
 ## Citatos
 
 - id: c-59086
@@ -161,7 +160,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   pagrindzia:
     - t-58456
     - t-194534
-
 - id: c-59087
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -186,7 +184,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   pagrindzia:
     - t-58455
     - t-194535
-
 - id: c-59088
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

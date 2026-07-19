@@ -68,6 +68,5 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41703
-
 ## Ryšiai
 - Puolė Duobelės pilį (pilis): [[objektai/grupes/Lietuviai]]

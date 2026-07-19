@@ -254,7 +254,6 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86689
-
 - id: c-82669
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -284,7 +283,6 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86692
-
 - id: c-82670
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -309,7 +307,6 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86691
-
 - id: c-82671
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -332,7 +329,6 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86693
-
 - id: c-82672
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -353,7 +349,6 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86696
-
 - id: c-82673
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -376,7 +371,6 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86694
-
 - id: c-82674
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -399,7 +393,6 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86690
-
 - id: c-82675
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -420,6 +413,5 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86695
-
 ## Ryšiai
 - Vilniaus gyventojai gyveno [[objektai/vietos/Vilnius]]

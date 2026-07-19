@@ -41,7 +41,7 @@ Narbutas posakį „Gamtoje nėra nieko neišbaigto“ pateikia kaip senovės li
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172448
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas posakį „Gamtoje nėra nieko neišbaigto“ pateikia kaip senovės lietuviams priskirtą astronomijos supratimo dalį.'
@@ -61,8 +61,7 @@ Narbutas posakį „Gamtoje nėra nieko neišbaigto“ pateikia kaip senovės li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189560
 ## Citatos
 
 - id: c-172448

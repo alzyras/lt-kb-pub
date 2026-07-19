@@ -63,6 +63,7 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172967
+    - c-002
 - susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-188380|Dievų stabai]]: Luno Heliogabalo stabas, Aurelijus Antonino pastatytas Romos Kapitolijuje, buvo didžiulis juodas akmuo, laikytas iš dangaus nukritusiu meteoritu.
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-188548|Jokūbas (vėliau Urbonas IV)]]: Jokūbas nukritęs iš dangaus (akmuo - meteoritas).
 ## Reikšmingi paminėjimai
@@ -86,8 +87,7 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190084
 ## Citatos
 
 - id: c-172966
@@ -111,7 +111,6 @@ Narbutas rašo, kad Aurelijus Antoninas Romos Kapitolijuje pastatė Luno Helioga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190083
-
 - id: c-172967
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

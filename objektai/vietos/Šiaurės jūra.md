@@ -70,7 +70,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175560
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad Dionyzas iš Charakso minėjo gintarą ten, kur Aldeskos upė įteka į Šiaurės jūrą.'
@@ -91,8 +91,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192790
 ## Citatos
 
 - id: c-166497
@@ -116,7 +115,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02923
-
 - id: c-175560
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

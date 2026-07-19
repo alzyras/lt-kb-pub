@@ -48,7 +48,7 @@ Narbutas rašo, kad Hartknochas abejojo, ar prūsai mokėjo gaminti alų iki kry
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173360
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Hartknochas abejojo, ar prūsai mokėjo gaminti alų iki kryžiuočių atsikraustymo.'
@@ -65,8 +65,7 @@ Narbutas rašo, kad Hartknochas abejojo, ar prūsai mokėjo gaminti alų iki kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190477
 ## Citatos
 
 - id: c-173360

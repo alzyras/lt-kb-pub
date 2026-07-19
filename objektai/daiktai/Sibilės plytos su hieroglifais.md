@@ -73,7 +73,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172530
-
+    - c-001
 <a id="claim-t-189648"></a>
 - t-002
   global_id: t-189648
@@ -94,7 +94,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172531
-
+    - c-002
 <a id="claim-t-189649"></a>
 - t-003
   global_id: t-189649
@@ -131,8 +131,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189647
 - c-002
   santrauka: 'Narbutas perpasakojo legendą, kad Nemuno orakulas liepė pagaminti 122 plytas su hieroglifais, iš kurių turėjo būti pranašaujami metai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -155,8 +154,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189648
 ## Citatos
 
 - id: c-172530
@@ -184,7 +182,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189647
-
 - id: c-172531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -210,7 +207,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189648
-
 - id: c-172532
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

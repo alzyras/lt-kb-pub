@@ -136,7 +136,6 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85893
-
 - id: c-81873
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -162,7 +161,6 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85892
-
 - id: c-81874
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -188,7 +186,6 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85891
-
 - id: c-81875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -213,6 +210,5 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85890
-
 ## Ryšiai
 - Apgulė Gedimino pilis Castrum Gedemini: [[objektai/asmenys/Fridrichas de Libencelė]]

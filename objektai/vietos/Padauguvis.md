@@ -174,7 +174,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-73355
-
 - id: c-46659
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -196,7 +195,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-73356
-
 - id: c-184443
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -216,7 +214,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201093
-
 - id: c-184444
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -237,7 +234,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201094
-
 - id: c-184445
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -258,7 +254,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201095
-
 - id: c-184446
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -284,6 +279,5 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201096
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Vokiečiai]]

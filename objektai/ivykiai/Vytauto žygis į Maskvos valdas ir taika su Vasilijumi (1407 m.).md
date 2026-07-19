@@ -159,7 +159,6 @@ Nenurodyta
   pagrindzia:
     - t-185668
     - t-196279
-
 - id: c-169030
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -189,7 +188,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185669
-
 - id: c-178912
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

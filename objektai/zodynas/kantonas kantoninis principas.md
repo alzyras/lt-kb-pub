@@ -107,7 +107,6 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104192
-
 - id: c-97150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -129,7 +128,6 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104189
-
 - id: c-176279
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

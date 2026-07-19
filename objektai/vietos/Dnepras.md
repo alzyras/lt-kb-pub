@@ -327,7 +327,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   sudarymo_pagrindimas: 'Hidrologinis palyginimas paliktas kaip Narbuto teiginys. Nepridėta papildomo aiškinimo apie Baltijos jūros upes.'
   susije_objektai: 'mentioned_place: Baltija; mentioned_place: Kijevas'
   pagrindžia:
-    - c-175418
+    - c-010
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191285|Jonas Komninas]]: Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius.
 - susijęs iš [[objektai/grupes/Gelonai.md#claim-t-192385|Gelonai]]: Narbutas gelonus apibūdina kaip su graikų persikėlėliais siejamą tautą, kurios kolonija buvo kairiajame Dnepro krante tarp budinų.
 - susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191012|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto pasakojime III a. pabaigoje ar IV a. pradžioje slavų tiveriečiai persikėlė nuo Dnestro žemupio prie Dnepro ir pasiekė Rosės žiotis.
@@ -524,8 +524,7 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-192648
 ## Citatos
 
 - id: c-168597
@@ -557,7 +556,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185236
-
 - id: c-171575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -582,7 +580,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188686
-
 - id: c-175411
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -604,7 +601,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192641
-
 - id: c-175412
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -624,7 +620,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192642
-
 - id: c-175413
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -651,7 +646,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192643
-
 - id: c-175414
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -672,7 +666,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192644
-
 - id: c-175415
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -698,7 +691,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192645
-
 - id: c-175416
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -728,7 +720,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   pagrindzia:
     - t-192646
     - t-197867
-
 - id: c-175417
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -762,7 +753,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   pagrindzia:
     - t-192647
     - t-197868
-
 - id: c-175419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -792,7 +782,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192649
-
 - id: c-179370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -813,7 +802,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197865
-
 - id: c-179371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -834,7 +822,6 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197866
-
 - id: c-179372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -860,6 +847,5 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197869
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Hiriai]], [[objektai/asmenys/Kaidanas]]

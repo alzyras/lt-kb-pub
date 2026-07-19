@@ -90,6 +90,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173671
+    - c-003
 - susijęs iš [[objektai/autoriai/E. Aleksandravičius.md#claim-t-187793|E. Aleksandravičius]]: E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš [[objektai/autoriai/V. Visockas.md#claim-t-187944|V. Visockas]]: V. Visockas buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
@@ -123,8 +124,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190789
 ## Citatos
 
 - id: c-84019
@@ -145,7 +145,6 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88041
-
 - id: c-84020
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -164,7 +163,6 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88040
-
 - id: c-173671
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

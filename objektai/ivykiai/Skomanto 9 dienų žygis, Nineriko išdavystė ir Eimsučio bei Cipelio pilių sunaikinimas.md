@@ -92,7 +92,7 @@ Nenurodyta
   semantiniai_rysiai: "Sūduviai puolė Kulmas (0.90); Rusai puolė Kulmas (0.86); Sūduviai buvo sąjungininkas su Rusai (0.82)"
   pagrindžia:
     - c-66994
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
@@ -114,8 +114,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-66897
 ## Citatos
 
 - id: c-66993
@@ -146,7 +145,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66896
-
 - id: c-66994
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

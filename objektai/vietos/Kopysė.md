@@ -85,7 +85,6 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38491
-
 - id: c-176424
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -90,7 +90,6 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39934
-
 - id: c-167092
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

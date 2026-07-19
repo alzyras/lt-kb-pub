@@ -58,7 +58,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-81577
-
+    - c-81576
 <a id="claim-t-85592"></a>
 - t-002
   global_id: t-85592
@@ -226,7 +226,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85591
-
 - id: c-81578
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -246,7 +245,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85593
-
 - id: c-81579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -284,7 +282,6 @@ media_all_json: |-
   pagrindzia:
     - t-85592
     - t-85595
-
 - id: c-81581
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -301,6 +298,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85596
-
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

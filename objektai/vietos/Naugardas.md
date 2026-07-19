@@ -342,7 +342,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Naugardas (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Pskovas (0.86)"
   pagrindžia:
     - c-37567
-
+    - c-167684
 <a id="claim-t-94780"></a>
 - t-017
   global_id: t-94780
@@ -723,7 +723,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94775
-
 - id: c-37565
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -746,7 +745,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   pagrindzia:
     - t-94769
     - t-94772
-
 - id: c-37566
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -769,7 +767,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   pagrindzia:
     - t-94762
     - t-94780
-
 - id: c-37567
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -790,7 +787,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94779
-
 - id: c-89824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -819,7 +815,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   pagrindzia:
     - t-94766
     - t-94778
-
 - id: c-89826
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -850,7 +845,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   pagrindzia:
     - t-94767
     - t-94776
-
 - id: c-89827
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -871,7 +865,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94765
-
 - id: c-89828
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -893,7 +886,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94761
-
 - id: c-89829
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -918,7 +910,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94774
-
 - id: c-89833
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -938,7 +929,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94770
-
 - id: c-89834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -960,8 +950,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-94764
-
+    - t-94771
 - id: c-89836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -984,7 +973,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94763
-
 - id: c-89839
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1009,7 +997,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94777
-
 - id: c-167684
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1048,7 +1035,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188773
-
 - id: c-171663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1074,7 +1060,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188774
-
 - id: c-171664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1097,7 +1082,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188775
-
 - id: c-171665
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1125,7 +1109,6 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188776
-
 ## Ryšiai
 - Užėmė Naugardą: [[objektai/asmenys/Šich Achmetas]]
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

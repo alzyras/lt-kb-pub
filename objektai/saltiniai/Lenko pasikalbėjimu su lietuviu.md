@@ -96,7 +96,6 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02205
-
 - id: c-02444
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -93,7 +93,6 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67720
-
 - id: c-175920
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

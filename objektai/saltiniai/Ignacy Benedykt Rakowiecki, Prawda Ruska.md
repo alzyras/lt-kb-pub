@@ -61,7 +61,7 @@ Ignoto Benedikto Rakoveckio veikalas „Prawda Ruska“ buvo išleistas Varšuvo
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174663
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ignoto Benedikto Rakoveckio veikalas „Prawda Ruska“ buvo išleistas Varšuvoje 1820–1828 m. dviem tomais.'
@@ -79,8 +79,7 @@ Ignoto Benedikto Rakoveckio veikalas „Prawda Ruska“ buvo išleistas Varšuvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191781
 ## Citatos
 
 - id: c-174663

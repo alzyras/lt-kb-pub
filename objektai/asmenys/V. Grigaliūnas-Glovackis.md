@@ -155,7 +155,6 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49492
-
 - id: c-42283
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -178,7 +177,6 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49491
-
 - id: c-42285
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -204,7 +202,6 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
   pagrindzia:
     - t-49490
     - t-49494
-
 - id: c-51459
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

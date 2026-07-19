@@ -48,7 +48,7 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174313
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks.'
@@ -72,8 +72,7 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191431
 ## Citatos
 
 - id: c-174313

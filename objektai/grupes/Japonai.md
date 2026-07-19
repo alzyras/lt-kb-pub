@@ -49,7 +49,7 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172358
-
+    - c-001
 <a id="claim-t-189472"></a>
 - t-002
   global_id: t-189472
@@ -70,6 +70,7 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172359
+    - c-002
 - susijęs iš [[objektai/asmenys/Georgi.md#claim-t-190152|Georgi]]: Narbutas perteikia Georgi nuomonę, kad japonų dievai Kami visiškai tapatūs egiptiečių Kamefiams, o šie atitinką slavų Tryzną.
 - susijęs iš [[objektai/autoriai/Georgi.md#claim-t-190423|Georgi]]: Pono Georgi nuomone, japonų dievai Kami buvo visiškai tapatūs egiptiečių Kamefiams, o šie, matyt, atitiko slavų Tryzną.
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188176|Egiptiečiai]]: Narbutas rašė, kad egiptiečiai turėjo Kamefius, o Georgi juos siejo su japonų Kami ir slavų Tryzna.
@@ -94,8 +95,7 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189471
 - c-002
   santrauka: 'Narbutas pateikė Georgi nuomonę, kad japonų dievai Kami visiškai tapatūs egiptiečių Kamefiams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -112,8 +112,7 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189472
 ## Citatos
 
 - id: c-172358
@@ -144,7 +143,6 @@ Narbutas japonus priskyrė prie tautų, kurios, jo aiškinimu, turėjo daugiau a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189471
-
 - id: c-172359
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

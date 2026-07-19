@@ -45,7 +45,7 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-70835
-
+    - c-70832
 <a id="claim-t-193106"></a>
 - t-002
   global_id: t-193106
@@ -107,7 +107,6 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72425
-
 - id: c-175866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -41,7 +41,7 @@ IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer V�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177295
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer Völkergesch.'
@@ -55,8 +55,7 @@ IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer V�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194899
 ## Citatos
 
 - id: c-177295

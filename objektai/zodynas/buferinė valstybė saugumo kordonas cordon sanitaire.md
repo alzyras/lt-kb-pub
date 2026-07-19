@@ -128,7 +128,6 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101574
-
 - id: c-24771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -150,7 +149,6 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
   pagrindzia:
     - t-101572
     - t-101573
-
 - id: c-95097
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

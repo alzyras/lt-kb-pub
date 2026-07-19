@@ -81,7 +81,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169937
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -99,9 +99,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-002
-
 - c-002
   santrauka: 'Redakcinė pastaba Teodoro Karijotaičio pašalinimą iš Podolės 1393 m. sieja su Vytautu ir laiko valstybės centralizavimo aktu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -118,8 +115,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186700
 ## Citatos
 
 - id: c-169937

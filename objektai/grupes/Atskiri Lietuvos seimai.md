@@ -101,7 +101,6 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72026
-
 - id: c-70467
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -120,7 +119,6 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72025
-
 - id: c-175851
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

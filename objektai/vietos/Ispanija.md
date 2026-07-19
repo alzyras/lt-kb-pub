@@ -62,7 +62,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   temporalinis_llm_pakomentavimas: "Pašalinta antraštė ir nutrūkusi šaltinio nuoroda."
   pagrindžia:
     - c-86293
-
+    - c-004
 <a id="claim-t-90459"></a>
 - t-002
   global_id: t-90459
@@ -137,7 +137,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įvykį Ispanijoje ir remiasi citata."
   pagrindžia:
     - c-86294
-
+    - c-005
 <a id="claim-t-90464"></a>
 - t-006
   global_id: t-90464
@@ -177,6 +177,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   temporalinis_llm_pakomentavimas: "Reikia aiškiai susieti teiginį su Ispanija kaip pastabos objektu."
   pagrindžia:
     - c-86295
+    - c-006
 - susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
 - susijęs iš [[objektai/grupes/Saracėnai.md#claim-t-63210|Saracėnai]]: Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.
 - susijęs iš [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas.md#claim-t-62194|Almimolino žygis į Ispaniją ir pralaimėjimas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo.
@@ -234,8 +235,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-90458
 - c-005
   santrauka: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -250,8 +250,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-90463
 - c-006
   santrauka: '1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -268,8 +267,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-90465
 ## Citatos
 
 - id: c-24141
@@ -290,7 +288,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90460
-
 - id: c-24142
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -311,7 +308,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   pagrindzia:
     - t-90459
     - t-90464
-
 - id: c-24143
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -333,7 +329,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90461
-
 - id: c-86293
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -356,7 +351,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90458
-
 - id: c-86294
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -377,7 +371,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90463
-
 - id: c-86295
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -399,7 +392,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90465
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Almimolinas]]
 - Buvo užkariauta: [[objektai/grupes/Saracėnai]]

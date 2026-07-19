@@ -93,7 +93,6 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72598
-
 - id: c-175876
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

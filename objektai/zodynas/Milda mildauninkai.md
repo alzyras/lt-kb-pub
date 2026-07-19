@@ -43,7 +43,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172091
-
+    - c-001
 <a id="claim-t-189204"></a>
 - t-002
   global_id: t-189204
@@ -64,7 +64,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172092
-
+    - c-002
 <a id="claim-t-189205"></a>
 - t-003
   global_id: t-189205
@@ -85,7 +85,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172093
-
+    - c-003
 <a id="claim-t-189206"></a>
 - t-004
   global_id: t-189206
@@ -125,8 +125,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189203
 - c-002
   santrauka: 'Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -145,8 +144,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189204
 - c-003
   santrauka: 'Narbutas rašė, kad Kauno apylinkėse mildauninkais vadinti meilėje padedantys kerėtojai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -164,8 +162,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189205
 ## Citatos
 
 - id: c-172091
@@ -189,7 +186,6 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189203
-
 - id: c-172092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -212,7 +208,6 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189204
-
 - id: c-172093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -235,7 +230,6 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189205
-
 - id: c-172094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

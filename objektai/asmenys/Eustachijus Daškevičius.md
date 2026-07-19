@@ -48,6 +48,7 @@ Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stov
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169560
+    - c-001
 - susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185604|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,8 +69,7 @@ Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186199
 ## Citatos
 
 - id: c-169560

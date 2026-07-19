@@ -100,7 +100,6 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87571
-
 - id: c-83550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

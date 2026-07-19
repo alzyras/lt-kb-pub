@@ -71,7 +71,7 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174187
-
+    - c-002
 <a id="claim-t-197788"></a>
 - t-003
   global_id: t-197788
@@ -112,8 +112,7 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191305
 ## Citatos
 
 - id: c-174186
@@ -137,7 +136,6 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191304
-
 - id: c-174187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -168,7 +166,6 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191305
-
 - id: c-179339
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

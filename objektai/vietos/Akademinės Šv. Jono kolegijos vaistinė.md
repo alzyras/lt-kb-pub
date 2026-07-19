@@ -96,7 +96,6 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86000
-
 - id: c-55429
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

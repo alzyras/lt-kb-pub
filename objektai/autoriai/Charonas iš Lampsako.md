@@ -46,7 +46,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173135
-
+    - c-001
 <a id="claim-t-190254"></a>
 - t-002
   global_id: t-190254
@@ -67,7 +67,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173137
-
+    - c-002
 <a id="claim-t-190256"></a>
 - t-003
   global_id: t-190256
@@ -108,7 +108,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173144
-
+    - c-004
 <a id="claim-t-190263"></a>
 - t-005
   global_id: t-190263
@@ -298,8 +298,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190252
 - c-002
   santrauka: 'Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -319,8 +318,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190254
 - c-004
   santrauka: 'Charonas iš Lampsako sukeldavęs tą griausmą, kuris pasigirsta ore trenkus perkūnui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -337,8 +335,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190261
 ## Citatos
 
 - id: c-173135
@@ -362,7 +359,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190252
-
 - id: c-173137
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -390,7 +386,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190254
-
 - id: c-173139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -412,7 +407,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   pagrindzia:
     - t-190256
     - t-197283
-
 - id: c-173144
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -439,7 +433,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190261
-
 - id: c-173146
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -461,7 +454,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190263
-
 - id: c-177042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -481,7 +473,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194645
-
 - id: c-177043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -504,7 +495,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194646
-
 - id: c-177045
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -527,7 +517,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194648
-
 - id: c-177046
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -545,7 +534,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194649
-
 - id: c-177047
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -564,7 +552,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194650
-
 - id: c-179099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -587,7 +574,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197280
-
 - id: c-179100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -606,7 +592,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197281
-
 - id: c-179101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -629,7 +614,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197282
-
 - id: c-179102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -650,7 +634,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197284
-
 - id: c-179103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -668,7 +651,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197285
-
 - id: c-179104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -687,7 +669,6 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197286
-
 - id: c-179105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

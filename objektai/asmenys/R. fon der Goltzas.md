@@ -96,7 +96,6 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40402
-
 - id: c-44494
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

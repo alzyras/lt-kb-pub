@@ -123,7 +123,6 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88345
-
 - id: c-167218
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -92,9 +92,6 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-60935
@@ -122,6 +119,5 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   pagrindzia:
     - t-60303
     - t-197087
-
 ## Ryšiai
 - Heinemanas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

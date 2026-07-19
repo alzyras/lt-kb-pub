@@ -49,7 +49,7 @@ Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173318
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios vadu prie Fišhauzeno įvardytas žynys Siggo.'
@@ -70,8 +70,7 @@ Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190435
 ## Citatos
 
 - id: c-173318

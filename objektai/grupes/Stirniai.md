@@ -48,7 +48,7 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175760
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuose ir jų pavadinimą siejo su Styrės upe.'
@@ -70,8 +70,7 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192990
 ## Citatos
 
 - id: c-175760

@@ -42,7 +42,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172054
-
+    - c-001
 <a id="claim-t-189167"></a>
 - t-002
   global_id: t-189167
@@ -84,7 +84,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172056
-
+    - c-003
 <a id="claim-t-197374"></a>
 - t-004
   global_id: t-197374
@@ -116,8 +116,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189166
 - c-003
   santrauka: 'Narbutas manė, kad aptariamas paminklas galėjo priklausyti XV amžiaus pradžiai ir būti sukurtas pagal stabmeldišką Perkūnaitėlės vaizdinį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -139,8 +138,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189168
 ## Citatos
 
 - id: c-172054
@@ -164,7 +162,6 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189166
-
 - id: c-172055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -192,7 +189,6 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   pagrindzia:
     - t-189167
     - t-197374
-
 - id: c-172056
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

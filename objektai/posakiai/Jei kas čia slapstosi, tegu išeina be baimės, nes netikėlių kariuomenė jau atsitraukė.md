@@ -44,7 +44,7 @@ Dusburgietis teigia, kad sitai sužinojęs, Herkus, pasiėmęs daug ginklaneši�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85529
-
+    - c-001
 <a id="claim-t-89589"></a>
 - t-002
   global_id: t-89589
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad sitai sužinojęs, Herkus, pasiėmęs daug ginklaneši�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85529
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -82,9 +82,8 @@ Dusburgietis teigia, kad sitai sužinojęs, Herkus, pasiėmęs daug ginklaneši�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-89587
+    - t-89589
 ## Citatos
 
 - id: c-85529

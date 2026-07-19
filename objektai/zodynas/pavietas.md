@@ -185,7 +185,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113661
-
 - id: c-104854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -226,7 +225,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113662
-
 - id: c-104855
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -245,7 +243,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113660
-
 - id: c-166365
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -264,7 +261,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182966
-
 - id: c-175905
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

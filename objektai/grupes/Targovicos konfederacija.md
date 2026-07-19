@@ -128,7 +128,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182713
-
 - id: c-166129
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,7 +153,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182712
-
 - id: c-166328
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -112,7 +112,6 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65772
-
 - id: c-66165
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

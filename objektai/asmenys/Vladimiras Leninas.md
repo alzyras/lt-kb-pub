@@ -118,7 +118,6 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64247
-
 - id: c-65051
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,7 +139,6 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64246
-
 - id: c-65052
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

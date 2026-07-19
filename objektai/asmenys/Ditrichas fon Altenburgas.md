@@ -99,6 +99,5 @@ Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186107
-
 ## Ryšiai
 - Ditrichas fon Altenburgas puolė [[objektai/vietos/Veliuona]]

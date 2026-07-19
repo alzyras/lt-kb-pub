@@ -113,7 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
+    - t-186592
+    - t-186593
+    - t-186594
+    - t-193858

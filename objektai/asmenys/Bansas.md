@@ -98,7 +98,6 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60089
-
 - id: c-60721
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

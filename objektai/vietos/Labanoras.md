@@ -123,7 +123,6 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83725
-
 - id: c-79982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

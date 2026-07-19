@@ -82,7 +82,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174081
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.'
@@ -99,8 +99,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191199
 ## Citatos
 
 - id: c-174080
@@ -130,7 +129,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191198
-
 - id: c-174081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

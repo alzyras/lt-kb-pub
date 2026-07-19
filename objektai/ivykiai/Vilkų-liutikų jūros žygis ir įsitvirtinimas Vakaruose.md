@@ -106,7 +106,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191054
-
 - id: c-173937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

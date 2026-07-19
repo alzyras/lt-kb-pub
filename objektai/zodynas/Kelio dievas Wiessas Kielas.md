@@ -65,8 +65,7 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir paliktas šaltinio pavadinimas. Religinis bei kalbinis aiškinimas pateiktas su Narbuto atribucija.'
   pagrindžia:
-    - c-172040
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“ ir aiškina jį kaip kelių dievui paskirtą akmenį.'
@@ -92,8 +91,7 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189152
 ## Citatos
 
 - id: c-172041

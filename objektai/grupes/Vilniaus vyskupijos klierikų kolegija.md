@@ -265,7 +265,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   pagrindzia:
     - t-55102
     - t-81749
-
 - id: c-55909
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -305,7 +304,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55103
-
 - id: c-55910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -336,7 +334,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   pagrindzia:
     - t-55104
     - t-55105
-
 - id: c-78323
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

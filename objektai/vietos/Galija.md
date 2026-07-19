@@ -50,6 +50,7 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175641
+    - c-001
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
 - susijęs iš Ammianus Marcellinus, Res gestae: Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristaus gimimą gyveno Galijoje ir skyrėsi kilme.
 - susijęs iš Tartesas: Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją.
@@ -77,8 +78,7 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192871
 ## Citatos
 
 - id: c-175641

@@ -89,5 +89,5 @@ Horodlė šiame gabale lokalizuojama prie Vakarų Bugo. Vakarų Bugas naudojamas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-187379
+    - t-187380

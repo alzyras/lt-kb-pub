@@ -320,7 +320,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172087
-
 - id: c-156506
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -338,7 +337,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172090
-
 - id: c-156507
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -360,7 +358,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172089
-
 - id: c-156508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -430,7 +427,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172081
-
 - id: c-156509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -463,7 +459,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172080
-
 - id: c-156510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -484,7 +479,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172084
-
 - id: c-156511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -516,7 +510,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172092
-
 - id: c-156512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -554,7 +547,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172085
-
 - id: c-156513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -597,7 +589,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172091
-
 - id: c-156516
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -619,7 +610,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172095
-
 - id: c-156517
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -669,7 +659,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172083
-
 - id: c-156518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -703,7 +692,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172086
-
 - id: c-156519
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -738,7 +726,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172093
-
 - id: c-156520
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -760,6 +747,5 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172082
-
 ## Ryšiai
 - Rėmė Dominikonų ordiną: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

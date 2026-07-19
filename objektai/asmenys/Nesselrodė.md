@@ -95,7 +95,6 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40371
-
 - id: c-167145
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

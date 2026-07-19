@@ -49,7 +49,7 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172900
-
+    - c-001
 <a id="claim-t-190018"></a>
 - t-002
   global_id: t-190018
@@ -115,8 +115,7 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190017
 ## Citatos
 
 - id: c-172900
@@ -148,7 +147,6 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190017
-
 - id: c-172901
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -170,7 +168,6 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190018
-
 - id: c-179192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -190,7 +187,6 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197445
-
 - id: c-179193
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

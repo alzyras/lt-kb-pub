@@ -185,7 +185,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190075
-
 - id: c-176831
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -210,7 +209,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194234
-
 - id: c-176832
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -230,7 +228,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194235
-
 - id: c-176833
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -251,7 +248,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194236
-
 - id: c-176834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -272,7 +268,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194237
-
 - id: c-176835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -295,7 +290,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194238
-
 - id: c-176836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -313,7 +307,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194239
-
 - id: c-176837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -332,7 +325,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194240
-
 - id: c-179336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

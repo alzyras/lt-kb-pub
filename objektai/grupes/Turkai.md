@@ -86,7 +86,7 @@ media_all_json: |-
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
-    - c-170708
+    - c-003
 - susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195581|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutų gaudymas siautėjo ypač smarkiai.
 - susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195583|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus.
 ## Reikšmingi paminėjimai
@@ -108,8 +108,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187769
 ## Citatos
 
 - id: c-168781
@@ -141,7 +140,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185420
-
 - id: c-168782
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

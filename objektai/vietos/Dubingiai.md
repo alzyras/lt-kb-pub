@@ -168,7 +168,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   pagrindzia:
     - t-71849
     - t-71851
-
 - id: c-43416
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -191,7 +190,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71850
-
 - id: c-43417
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -215,7 +213,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71848
-
 - id: c-175924
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -233,7 +230,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193179
-
 ## Ryšiai
 - Puolė Dubingiai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Dubingiai: [[objektai/grupes/Lenkai]]

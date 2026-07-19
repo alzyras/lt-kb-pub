@@ -53,7 +53,7 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
   temporalinis_llm_pakomentavimas: "Bibliografinė citata pagrindžia autorių, pavadinimą, vietą ir metus."
   pagrindžia:
     - c-61683
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61051
 ## Citatos
 
 - id: c-61683

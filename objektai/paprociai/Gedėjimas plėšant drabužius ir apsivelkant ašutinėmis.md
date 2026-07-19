@@ -85,7 +85,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62675
-
 - id: c-63413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

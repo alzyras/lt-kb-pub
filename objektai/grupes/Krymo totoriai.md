@@ -205,7 +205,6 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   pagrindzia:
     - t-71639
     - t-71641
-
 - id: c-42713
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -224,7 +223,6 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71642
-
 - id: c-42714
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -240,7 +238,6 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71640
-
 - id: c-70190
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -260,7 +257,6 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71643
-
 - id: c-70192
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -281,7 +277,6 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71638
-
 - id: c-167848
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -304,7 +299,6 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184487
-
 ## Ryšiai
 - Krymo totoriai keliavo į [[objektai/vietos/Vilniaus vaivadija]]
 - Krymo totoriai puolė [[objektai/vietos/Rusija]]

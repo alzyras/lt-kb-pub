@@ -72,7 +72,8 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, kurį tiesiogiai patvirtina citata."
   pagrindžia:
     - c-85327
-
+    - c-002
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.'
@@ -88,8 +89,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-89375
 - c-002
   santrauka: '1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,8 +106,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89375
 ## Citatos
 
 - id: c-85327
@@ -153,4 +152,3 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89374

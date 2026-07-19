@@ -87,7 +87,6 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88274
-
 - id: c-84254
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

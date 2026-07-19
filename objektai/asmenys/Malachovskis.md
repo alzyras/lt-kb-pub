@@ -49,7 +49,7 @@ Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateik�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173116
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą, bet šaltinio neįvardijo.'
@@ -69,8 +69,7 @@ Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190233
 ## Citatos
 
 - id: c-173116

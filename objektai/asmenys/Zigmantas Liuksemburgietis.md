@@ -245,6 +245,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173887
+    - c-010
 - susijęs iš Breslavas: 1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį.
 - susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
 ## Reikšmingi paminėjimai
@@ -265,8 +266,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-191005
 ## Citatos
 
 - id: c-36622
@@ -288,7 +288,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176872
-
 - id: c-36625
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -313,7 +312,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176871
-
 - id: c-36627
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -334,7 +332,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176874
-
 - id: c-36631
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -355,7 +352,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176877
-
 - id: c-160823
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -378,7 +374,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176882
-
 - id: c-160824
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -399,7 +394,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176873
-
 - id: c-160825
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -424,7 +418,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   pagrindzia:
     - t-176876
     - t-176878
-
 - id: c-160829
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -447,7 +440,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176875
-
 - id: c-167670
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -466,7 +458,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184297
-
 - id: c-173887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -487,7 +478,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191005
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Zigmantas Liuksemburgietis buvo valdovas [[objektai/vietos/Vengrija]]

@@ -79,6 +79,5 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36719
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

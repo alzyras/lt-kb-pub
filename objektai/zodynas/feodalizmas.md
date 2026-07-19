@@ -134,7 +134,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-78553
-
+    - c-166346
 <a id="claim-t-82059"></a>
 - t-008
   global_id: t-82059
@@ -175,7 +175,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82057
-
 - id: c-78550
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -194,7 +193,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82051
-
 - id: c-78551
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -222,7 +220,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   pagrindzia:
     - t-82054
     - t-82056
-
 - id: c-78552
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -244,7 +241,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   pagrindzia:
     - t-82055
     - t-82059
-
 - id: c-78553
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -264,7 +260,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82058
-
 - id: c-78554
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -285,7 +280,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82052
-
 - id: c-166346
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

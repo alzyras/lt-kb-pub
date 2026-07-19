@@ -98,7 +98,6 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36818
-
 - id: c-38752
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -123,7 +122,6 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36819
-
 - id: c-167630
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

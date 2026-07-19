@@ -77,7 +77,6 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02978
-
 - id: c-03216
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

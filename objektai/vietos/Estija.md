@@ -287,7 +287,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182729
-
 - id: c-166144
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -309,7 +308,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182726
-
 - id: c-175927
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -326,7 +324,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193182
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vulfstanas]]
 - Buvo užkariauta: [[objektai/grupes/Sovietų Sąjunga]]

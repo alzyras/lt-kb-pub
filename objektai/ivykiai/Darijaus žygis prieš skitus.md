@@ -109,7 +109,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173892
-
+    - c-003
 <a id="claim-t-191011"></a>
 - t-004
   global_id: t-191011
@@ -166,8 +166,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191010
 - c-005
   santrauka: 'Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -193,8 +192,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-173889
@@ -224,7 +221,6 @@ Nenurodyta
   pagrindzia:
     - t-191007
     - t-197532
-
 - id: c-173890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -247,7 +243,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191008
-
 - id: c-173892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -280,7 +275,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191010
-
 - id: c-173893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -314,6 +308,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191011
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Darijus]]

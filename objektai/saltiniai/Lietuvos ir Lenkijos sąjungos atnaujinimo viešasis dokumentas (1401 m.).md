@@ -124,7 +124,6 @@ Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvo
   pagrindzia:
     - t-186298
     - t-196354
-
 - id: c-178645
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

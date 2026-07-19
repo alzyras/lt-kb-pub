@@ -107,7 +107,6 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86100
-
 - id: c-82079
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

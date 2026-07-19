@@ -78,7 +78,6 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87578
-
 - id: c-83557
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

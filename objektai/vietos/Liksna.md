@@ -98,7 +98,6 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86024
-
 - id: c-82003
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

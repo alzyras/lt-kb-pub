@@ -105,7 +105,6 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
   pagrindzia:
     - t-41450
     - t-41451
-
 - id: c-167109
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

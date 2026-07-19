@@ -80,6 +80,5 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31369
-
 ## Ryšiai
 - Vidivarii gyveno [[objektai/vietos/Vysla]]

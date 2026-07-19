@@ -47,7 +47,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   semantiniai_rysiai: "Nogatas priklausė Vysla (0.88); Nogatas priklausė Aismares (0.62)"
   pagrindžia:
     - c-68314
-
+    - c-003
 <a id="claim-t-68828"></a>
 - t-002
   global_id: t-68828
@@ -64,7 +64,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-68312
-
+    - c-001
 <a id="claim-t-68829"></a>
 - t-003
   global_id: t-68829
@@ -131,8 +131,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-68828
 - c-003
   santrauka: 'Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -146,8 +145,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-68827
 ## Citatos
 
 - id: c-68312
@@ -172,7 +170,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68828
-
 - id: c-68313
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -192,7 +189,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68829
-
 - id: c-68314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

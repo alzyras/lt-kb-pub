@@ -150,7 +150,6 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40467
-
 - id: c-44537
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -176,7 +175,6 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40468
-
 - id: c-167150
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -201,7 +199,6 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183762
-
 - id: c-167151
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -230,6 +227,5 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183763
-
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Tochtamišas]]

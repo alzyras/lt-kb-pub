@@ -47,7 +47,7 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174988
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Laiške Ignui Onacevičiui Teodoras Narbutas rašė, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti.'
@@ -73,8 +73,7 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192107
 ## Citatos
 
 - id: c-174988

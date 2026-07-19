@@ -48,6 +48,7 @@ Narbutas lietuvių gėrimą ratu lygino su Antikos Circumpotatio ir rašė, kad 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173125
+    - c-001
 - susijęs iš Atėnai: Narbutas lietuvių gėrimą ratu lygina su Antikos Circumpotatio, kurią, jo teigimu, Solonas bandė išnaikinti Atėnuose.
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,8 +73,7 @@ Narbutas lietuvių gėrimą ratu lygino su Antikos Circumpotatio ir rašė, kad 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190242
 ## Citatos
 
 - id: c-173125

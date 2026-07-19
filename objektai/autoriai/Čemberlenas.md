@@ -49,7 +49,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174546
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Čemberlenas perrašė užrašą iš Volfgango Lazijaus, o iš Čemberleno tas užrašas pateko į Londono „Sylloge“.'
@@ -68,8 +68,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191664
 ## Citatos
 
 - id: c-174546

@@ -60,7 +60,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
   pagrindžia:
     - c-38744
     - c-38745
-
+    - c-38747
 <a id="claim-t-36803"></a>
 - t-002
   global_id: t-36803
@@ -188,7 +188,6 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36803
-
 - id: c-38747
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -208,4 +207,4 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36801
+    - t-36802

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidinį ir metus."
   pagrindžia:
     - c-61970
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vanago straipsnis „Jotvingių kalbos reliktai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1974 m.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad vanagas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61338
 ## Citatos
 
 - id: c-61970

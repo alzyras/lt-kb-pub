@@ -250,7 +250,6 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184571
-
 - id: c-167933
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -285,7 +284,6 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
   pagrindzia:
     - t-184572
     - t-196114
-
 - id: c-178536
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -313,7 +311,6 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196113
-
 ## Ryšiai
 - Maskvėnai puolė [[objektai/vietos/Lietuva]], [[objektai/vietos/Smolenskas]]
 - Maskvėnai užėmė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Rohačevas]], [[objektai/vietos/Viljandis]]

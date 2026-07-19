@@ -84,8 +84,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Kilmės ir simbolinės interpretacijos teiginys paliktas su Narbuto atribucija. Nepridėta daugiau nei privilegijos data, veiksmas ir aiškinama reikšmė.'
   pagrindžia:
-    - c-172607
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas 1483 m. Kazimiero privilegijoje katino įteikimą karaliui aiškino kaip stabmeldiškosios laisvės ženklą.'
@@ -114,8 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189724
 ## Citatos
 
 - id: c-172608

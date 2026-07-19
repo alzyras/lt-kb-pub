@@ -97,7 +97,6 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03147
-
 - id: c-03386
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

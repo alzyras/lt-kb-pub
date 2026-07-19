@@ -160,7 +160,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39256
-
 - id: c-167077
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -181,7 +180,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183686
-
 - id: c-175290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

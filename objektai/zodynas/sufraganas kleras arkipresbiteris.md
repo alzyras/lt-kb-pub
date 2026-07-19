@@ -87,7 +87,6 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86550
-
 - id: c-82530
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

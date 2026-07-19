@@ -82,7 +82,6 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties vald
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191410
-
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Heiridė]]
 - Heiraudas buvo valdovas [[objektai/grupes/Rusai]]

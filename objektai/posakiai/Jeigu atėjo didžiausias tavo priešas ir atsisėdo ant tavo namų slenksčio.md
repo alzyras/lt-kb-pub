@@ -48,7 +48,7 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172441
-
+    - c-001
 <a id="claim-t-194695"></a>
 - t-002
   global_id: t-194695
@@ -62,7 +62,7 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177092
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį paprotį, kuriame slenkstis siejamas su Dievo įžeidimu ir namų laime.'
@@ -83,8 +83,7 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189553
 - c-002
   santrauka: 'Mongolai labai garbino namų slenksčius: tas, kuris praeidamas paliesdavo juos koja, būdavo baudžiamas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -102,8 +101,7 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194695
 ## Citatos
 
 - id: c-172441
@@ -131,7 +129,6 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189553
-
 - id: c-177092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -101,7 +101,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   temporalinis_llm_pakomentavimas: "Pašalinta antraštė, išplėstas kontekstas ir suformuluotas pilnas faktas."
   pagrindžia:
     - c-59458
-
+    - c-002
 <a id="claim-t-58828"></a>
 - t-004
   global_id: t-58828
@@ -182,8 +182,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-58827
 ## Citatos
 
 - id: c-59457
@@ -210,7 +209,6 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58830
-
 - id: c-59458
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -234,7 +232,6 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58827
-
 - id: c-59459
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -256,7 +253,6 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58826
-
 - id: c-59460
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -280,7 +276,6 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58828
-
 - id: c-59462
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

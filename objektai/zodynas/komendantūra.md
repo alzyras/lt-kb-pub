@@ -97,7 +97,6 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03041
-
 - id: c-166352
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

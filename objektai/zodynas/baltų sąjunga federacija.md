@@ -58,7 +58,7 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
   temporalinis_llm_pakomentavimas: "Citata remia sąvokos aiškinimą, o pradinis tekstas nutrūkęs ir perteklinis."
   pagrindžia:
     - c-59525
-
+    - c-001
 <a id="claim-t-58894"></a>
 - t-002
   global_id: t-58894
@@ -110,8 +110,7 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58893
 ## Citatos
 
 - id: c-59525
@@ -139,7 +138,6 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58893
-
 - id: c-59526
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,7 +155,6 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58894
-
 - id: c-179011
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

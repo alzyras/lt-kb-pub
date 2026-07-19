@@ -72,6 +72,5 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60411
-
 ## Ryšiai
 - Pilypas (Fermo vyskupas) keliavo į [[objektai/vietos/Lenkija]]

@@ -53,7 +53,7 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
   temporalinis_llm_pakomentavimas: "Citata pagrindžia Gedimino kaltinimo turinį, o pradinė formuluotė buvo nutrūkusi."
   pagrindžia:
     - c-59738
-
+    - c-001
 <a id="claim-t-194467"></a>
 - t-002
   global_id: t-194467
@@ -67,7 +67,7 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
   vertinimo_atnaujinta: "2026-06-13T14:37:26Z"
   pagrindžia:
     - c-176942
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1322 m. laiške popiežiui Gediminas kaltino kryžiuočius žemes paverčiant tyrais ir teigiant, kad taip jie gina krikščionis.'
@@ -86,8 +86,7 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59106
 - c-002
   santrauka: 'Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui ir Rygos miesto tarybai)50.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -104,8 +103,7 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194467
 ## Citatos
 
 - id: c-59738
@@ -130,7 +128,6 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59106
-
 - id: c-176942
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -74,6 +74,5 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40423
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Madykas]]

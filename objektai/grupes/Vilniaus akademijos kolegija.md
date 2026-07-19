@@ -128,7 +128,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86787
-
 - id: c-82765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,7 +144,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86786
-
 - id: c-82766
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

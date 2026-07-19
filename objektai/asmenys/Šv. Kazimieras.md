@@ -155,7 +155,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78017
-
 - id: c-75330
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -176,7 +175,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78015
-
 - id: c-75331
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -194,7 +192,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78014
-
 - id: c-75332
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -209,7 +206,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78016
-
 - id: c-184114
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

@@ -283,8 +283,6 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-14294
@@ -308,7 +306,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64898
-
 - id: c-14295
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -330,6 +327,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64897
-
 ## Ryšiai
 - Antspaudas priklausė [[objektai/asmenys/Katilas]]

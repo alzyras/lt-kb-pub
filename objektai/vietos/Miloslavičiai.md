@@ -86,6 +86,5 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187615
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Skirgaila]]

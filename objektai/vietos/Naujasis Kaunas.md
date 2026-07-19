@@ -137,7 +137,6 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   pagrindzia:
     - t-79876
     - t-79877
-
 - id: c-76796
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -161,7 +160,6 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79878
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Užėmė Naujasis Kauną: [[objektai/grupes/Kryžiuočių ordinas]]

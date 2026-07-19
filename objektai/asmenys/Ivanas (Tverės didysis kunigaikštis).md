@@ -94,7 +94,6 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39538
-
 - id: c-167129
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

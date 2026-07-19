@@ -99,7 +99,6 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39347
-
 - id: c-41152
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -115,7 +114,6 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39348
-
 - id: c-167118
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

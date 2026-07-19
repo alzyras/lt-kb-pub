@@ -87,5 +87,5 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-187303
+    - t-187304

@@ -300,7 +300,6 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   pagrindzia:
     - t-113786
     - t-113789
-
 - id: c-104970
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -322,7 +321,6 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113787
-
 - id: c-104972
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -379,7 +377,6 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113785
-
 - id: c-104973
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -409,7 +406,6 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113788
-
 - id: c-168068
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -452,7 +448,6 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184707
-
 - id: c-168069
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -481,7 +476,6 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184708
-
 - id: c-168070
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -510,7 +504,6 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184709
-
 ## Ryšiai
 - Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Goštautas (vyskupas, XV a.) keliavo į [[objektai/vietos/Alšėnai]], [[objektai/vietos/Tikocinas]]

@@ -88,7 +88,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61493
-
+    - c-009
 <a id="claim-t-60855"></a>
 - t-004
   global_id: t-60855
@@ -208,8 +208,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60854
 ## Citatos
 
 - id: c-61484
@@ -226,7 +225,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60858
-
 - id: c-61485
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -249,7 +247,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60860
-
 - id: c-61486
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -264,7 +261,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60855
-
 - id: c-61487
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -281,7 +277,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60852
-
 - id: c-61488
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -296,7 +291,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60857
-
 - id: c-61490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -313,7 +307,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60853
-
 - id: c-61491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -334,7 +327,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60856
-
 - id: c-61492
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -352,7 +344,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60861
-
 - id: c-61493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -80,7 +80,6 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38347
-
 - id: c-40152
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

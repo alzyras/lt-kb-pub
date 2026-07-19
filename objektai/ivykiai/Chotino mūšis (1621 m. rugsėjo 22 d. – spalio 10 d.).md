@@ -108,6 +108,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43045
+    - c-167066
 - susijęs iš Viešpaties dešinės galybė (1674 m.): 1674 m. išleistoje Jokūbo Beneto poemoje „Viešpaties dešinės galybė“ buvo Chotino mūšio iliustracija.
 - susijęs iš Chotinas: 1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.
 - susijęs iš Chotinas: Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.
@@ -144,7 +145,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41268
-
 - id: c-43045
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -164,7 +164,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41270
-
 - id: c-167066
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -190,3 +189,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41269
+    - t-41270

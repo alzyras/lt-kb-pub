@@ -44,6 +44,7 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61081
+    - c-001
 - susijęs iš [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje.md#claim-t-101534|Adomo Mickevičiaus paminklas Vilniuje]]: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.
 - susijęs iš [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje.md#claim-t-101535|Adomo Mickevičiaus paminklas Vilniuje]]: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.
 - susijęs iš [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje.md#claim-t-101536|Adomo Mickevičiaus paminklas Vilniuje]]: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.
@@ -66,8 +67,7 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60449
 ## Citatos
 
 - id: c-61081

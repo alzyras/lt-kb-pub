@@ -131,8 +131,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-45407
@@ -159,7 +157,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42274
-
 - id: c-45408
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -182,6 +179,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42275
-
 ## Ryšiai
 - Užėmė Viljandį: [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedijos kariuomenė]]

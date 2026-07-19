@@ -287,7 +287,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186134
-
 - id: c-169496
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -314,7 +313,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186135
-
 - id: c-176576
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -341,7 +339,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193951
-
 - id: c-176577
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -363,7 +360,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193952
-
 - id: c-178946
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

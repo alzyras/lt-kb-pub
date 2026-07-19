@@ -123,7 +123,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176645
-
+    - c-004
 <a id="claim-t-196659"></a>
 - t-005
   global_id: t-196659
@@ -289,8 +289,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194020
 ## Citatos
 
 - id: c-83877
@@ -327,7 +326,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87898
-
 - id: c-171542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -356,7 +354,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188653
-
 - id: c-171543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -380,7 +377,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188654
-
 - id: c-176645
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -403,7 +399,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194020
-
 - id: c-178823
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -426,7 +421,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196659
-
 - id: c-184401
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -448,7 +442,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201051
-
 - id: c-184402
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -469,7 +462,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201052
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Gerimantas]], [[objektai/asmenys/Germantas]]
 - Šventaragis valdė [[objektai/vietos/Lietuva]]

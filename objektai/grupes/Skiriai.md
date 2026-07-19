@@ -51,7 +51,7 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175705
-
+    - c-001
 <a id="claim-t-192936"></a>
 - t-002
   global_id: t-192936
@@ -94,7 +94,7 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175707
-
+    - c-003
 <a id="claim-t-197518"></a>
 - t-004
   global_id: t-197518
@@ -159,8 +159,7 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192935
 - c-003
   santrauka: '476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -184,8 +183,7 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192937
 ## Citatos
 
 - id: c-175705
@@ -217,7 +215,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192935
-
 - id: c-175706
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -247,7 +244,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   pagrindzia:
     - t-192936
     - t-197518
-
 - id: c-175707
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -271,7 +267,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192937
-
 ## Ryšiai
 - Skiriai puolė [[objektai/grupes/Gotai]]
 - Skiriai paskyrė [[objektai/asmenys/Odoakras]]

@@ -160,7 +160,6 @@ Nenurodyta
   pagrindzia:
     - t-66509
     - t-196937
-
 - id: c-66722
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -195,7 +195,6 @@ media_all_json: |-
   pagrindzia:
     - t-05397
     - t-05401
-
 - id: c-03484
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -213,7 +212,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05399
-
 - id: c-03587
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -238,7 +236,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05400
-
 - id: c-03588
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -258,7 +255,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05395
-
 - id: c-03589
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -281,7 +277,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05396
-
 - id: c-03591
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

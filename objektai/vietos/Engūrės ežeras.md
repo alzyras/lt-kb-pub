@@ -109,7 +109,6 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
   pagrindzia:
     - t-192836
     - t-197874
-
 - id: c-179376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

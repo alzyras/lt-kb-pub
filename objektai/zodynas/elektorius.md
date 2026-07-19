@@ -102,7 +102,6 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02988
-
 - id: c-166344
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

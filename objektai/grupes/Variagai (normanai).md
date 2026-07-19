@@ -90,7 +90,7 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175272
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas variagų-lietuvių giminę apibūdina kaip karingą ir sumanią, vėliau išgarsėjusią rusų variagų vardu.'
@@ -109,8 +109,7 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192478
 ## Citatos
 
 - id: c-33361
@@ -132,7 +131,6 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31364
-
 - id: c-175271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -154,7 +152,6 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192477
-
 - id: c-175272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

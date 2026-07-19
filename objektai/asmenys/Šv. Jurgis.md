@@ -48,7 +48,7 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174376
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietimi smeigiantis drakoną.'
@@ -63,8 +63,7 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191494
 ## Citatos
 
 - id: c-174376

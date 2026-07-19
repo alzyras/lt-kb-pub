@@ -63,8 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-170812
-
+    - c-001
 <a id="claim-t-188505"></a>
 - t-002
   global_id: t-188505
@@ -85,6 +84,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171395
+    - c-170812
 - susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192085|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.
 - susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192086|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
 - susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192091|Upių šventinimas Rosės vardu]]: Narbutas upių šventinimą Rosės vardu aiškina kaip vieną iš lietuvių tautos religinių skolinių iš indų budistų.
@@ -107,8 +107,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187843
 ## Citatos
 
 - id: c-170812
@@ -133,8 +132,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187843
-
+    - t-188505
 - id: c-171395
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

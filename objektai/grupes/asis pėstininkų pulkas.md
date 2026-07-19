@@ -85,7 +85,6 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80634
-
 - id: c-77334
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

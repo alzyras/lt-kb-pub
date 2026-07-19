@@ -182,7 +182,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   pagrindžia:
     - c-69285
     - c-69288
-
+    - c-004
 <a id="claim-t-70228"></a>
 - t-008
   global_id: t-70228
@@ -236,7 +236,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   temporalinis_llm_pakomentavimas: "Perrašyta į pilną sakinį, pašalinant antraštės ir sąrašo triukšmą."
   pagrindžia:
     - c-69288
-
+    - c-004
 <a id="claim-t-70231"></a>
 - t-011
   global_id: t-70231
@@ -290,9 +290,8 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-    - t-007
-
+    - t-70227
+    - t-70230
 ## Citatos
 
 - id: c-69284
@@ -319,7 +318,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70221
-
 - id: c-69285
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -343,7 +341,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70227
-
 - id: c-69287
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -365,7 +362,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70225
-
 - id: c-69288
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -390,7 +386,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   pagrindzia:
     - t-70227
     - t-70230
-
 - id: c-69289
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -428,7 +423,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70220
-
 - id: c-69290
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -450,7 +444,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   pagrindzia:
     - t-70228
     - t-70229
-
 - id: c-69291
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -468,7 +461,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70224
-
 - id: c-69295
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -493,7 +485,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - t-70223
     - t-70226
     - t-194456
-
 - id: c-69296
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -138,7 +138,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182800
-
 - id: c-166207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -161,7 +160,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182801
-
 - id: c-166208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -188,7 +186,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182798
-
 - id: c-166766
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

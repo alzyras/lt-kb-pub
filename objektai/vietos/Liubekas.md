@@ -147,7 +147,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159519
-
+    - c-008
 <a id="claim-t-175384"></a>
 - t-007
   global_id: t-175384
@@ -315,8 +315,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-175383
 ## Citatos
 
 - id: c-159508
@@ -341,7 +340,6 @@ media_all_json: |-
   pagrindzia:
     - t-175385
     - t-175388
-
 - id: c-159509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -363,7 +361,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175384
-
 - id: c-159510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -405,7 +402,6 @@ media_all_json: |-
   pagrindzia:
     - t-175380
     - t-175381
-
 - id: c-159511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -432,7 +428,6 @@ media_all_json: |-
   pagrindzia:
     - t-175379
     - t-175387
-
 - id: c-159512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -456,7 +451,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175378
-
 - id: c-159515
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -476,7 +470,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175389
-
 - id: c-159518
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -496,7 +489,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175382
-
 - id: c-159519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

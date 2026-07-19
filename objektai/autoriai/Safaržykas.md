@@ -98,7 +98,7 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174439
-
+    - c-003
 <a id="claim-t-197642"></a>
 - t-004
   global_id: t-197642
@@ -130,8 +130,7 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191557
 ## Citatos
 
 - id: c-174437
@@ -160,7 +159,6 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191555
-
 - id: c-174438
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -182,7 +180,6 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191556
-
 - id: c-174439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -205,7 +202,6 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191557
-
 - id: c-179276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

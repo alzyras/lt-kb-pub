@@ -93,4 +93,4 @@ K. Niezabitowskis chronologine tvarka surinko lietuvių, žemaičių ir prūsų-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191427

@@ -89,6 +89,5 @@ Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192913
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Budinai]]

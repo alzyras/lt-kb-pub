@@ -182,7 +182,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12346
-
 - id: c-14351
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -203,7 +202,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192070
-
 - id: c-174938
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -224,7 +222,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192069
-
 - id: c-174939
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -243,7 +240,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192068
-
 - id: c-174940
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -104,7 +104,6 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192962
-
 - id: c-175733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -94,6 +94,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32367
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lamatiečiai]], [[objektai/grupes/Skalviai]]

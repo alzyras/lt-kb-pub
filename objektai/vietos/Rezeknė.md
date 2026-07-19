@@ -55,7 +55,7 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168661
-
+    - c-001
 <a id="claim-t-188824"></a>
 - t-002
   global_id: t-188824
@@ -79,6 +79,7 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171713
+    - c-002
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176335|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją.
 - susijęs iš [[objektai/ivykiai/Lietuvos atsakomųjų smūgių kampanija prieš Ordiną ir jo sąjungininkus (1324 m.).md#claim-t-62857|Lietuvos atsakomųjų smūgių kampanija prieš Ordiną ir jo sąjungininkus (1324 m.)]]: 1324 m. Gedimino Lietuva puolė Kristmemelio pilį, niokojo Rezeknės apylinkes Livonijoje ir smogė Ordino sąjungininkei Mazovijai.
 - susijęs iš Rezeknės regionas: 1324 m. lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose.
@@ -123,8 +124,7 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185300
 - c-002
   santrauka: '1618 m. Rezeknės, Daugpilio ir kitose Livonijos apylinkėse buvo rasti 418 neapkrikštyti suaugę asmenys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -143,8 +143,7 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188824
 ## Citatos
 
 - id: c-168661
@@ -180,7 +179,6 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185300
-
 - id: c-171713
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

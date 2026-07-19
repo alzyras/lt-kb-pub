@@ -49,7 +49,7 @@ Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmon
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173091
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmonos sūnų.'
@@ -70,8 +70,7 @@ Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190208
 ## Citatos
 
 - id: c-173091

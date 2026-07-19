@@ -108,7 +108,6 @@ media_all_json: |-
   pagrindzia:
     - t-192857
     - t-197934
-
 - id: c-184459
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

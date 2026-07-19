@@ -50,6 +50,7 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171934
+    - c-001
 - susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
 - susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-187905|Bonaventūras Milevskis]]: Jučo aprašyme Bonaventūras Milevskis 1836 m. gegužę ardamas žemę Burokų dvare iškasė figūrą.
 - susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-187906|Bonaventūras Milevskis]]: Jučo aprašyme Bonaventūras Milevskis vadinamas pusberniu.
@@ -89,8 +90,7 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189045
 ## Citatos
 
 - id: c-171934

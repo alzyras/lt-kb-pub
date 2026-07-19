@@ -93,7 +93,6 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54631
-
 - id: c-55539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

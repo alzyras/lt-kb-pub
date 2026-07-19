@@ -124,7 +124,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Bibliografinė nuoroda paversta sakiniu apie Dundulio veikalo panaudojimo kontekstą. Nepridėta savarankiškų išvadų už citatos ribų.'
   pagrindžia:
-    - c-176504
+    - c-006
 - susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97213|Romas Batūra]]: Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais.
 - susijęs iš [[objektai/grupes/Istorikų kolektyvas.md#claim-t-31193|Istorikų kolektyvas]]: Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“.
 ## Reikšmingi paminėjimai
@@ -146,8 +146,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-193877
 ## Citatos
 
 - id: c-03976
@@ -170,7 +169,6 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71509
-
 - id: c-03977
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -189,7 +187,6 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71508
-
 - id: c-70073
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -208,7 +205,6 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71511
-
 - id: c-70074
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -228,7 +224,6 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71510
-
 - id: c-70077
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

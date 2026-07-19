@@ -96,7 +96,6 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21244
-
 - id: c-23948
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

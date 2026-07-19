@@ -60,7 +60,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškų datavimo pataisymą ir Regesta Lithuaniae nuorodą."
   pagrindžia:
     - c-61557
-
+    - c-001
 <a id="claim-t-60926"></a>
 - t-002
   global_id: t-60926
@@ -137,8 +137,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60925
 ## Citatos
 
 - id: c-61557
@@ -160,7 +159,6 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60925
-
 - id: c-61558
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -186,7 +184,6 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60926
-
 - id: c-61559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -201,7 +198,6 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60928
-
 - id: c-61561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

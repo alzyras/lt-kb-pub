@@ -76,6 +76,7 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170513
+    - c-002
 - susijęs iš [[objektai/asmenys/Povilas Algimantas.md#claim-t-87835|Povilas Algimantas]]: Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais.
 - susijęs iš [[objektai/asmenys/Janas Kropidła.md#claim-t-87701|Janas Kropidła]]: Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-184744|Julijona (Vytauto žmona)]]: Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
@@ -176,8 +177,7 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187563
 ## Citatos
 
 - id: c-82037
@@ -198,7 +198,6 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86058
-
 - id: c-170513
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -231,6 +230,5 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187563
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

@@ -63,7 +63,7 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174856
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'
@@ -96,8 +96,6 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -117,8 +115,7 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191974
 ## Citatos
 
 - id: c-174109
@@ -145,7 +142,6 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191227
-
 - id: c-174856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

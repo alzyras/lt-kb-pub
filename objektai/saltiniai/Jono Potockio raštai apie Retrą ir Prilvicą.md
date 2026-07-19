@@ -55,7 +55,7 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Jono Potockio ra
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173422
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Jono Potockio raštuose.'
@@ -72,8 +72,7 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Jono Potockio ra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190539
 ## Citatos
 
 - id: c-173422

@@ -141,7 +141,6 @@ Nenurodyta
   pagrindzia:
     - t-55149
     - t-81836
-
 - id: c-78383
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

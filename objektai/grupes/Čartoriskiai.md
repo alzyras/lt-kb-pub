@@ -101,7 +101,6 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45273
-
 ## Ryšiai
 - Rėmė Čartoriskiai: [[objektai/asmenys/Jekaterina II]]
 - Čartoriskiai siuntė į [[objektai/vietos/Petrapilis]]

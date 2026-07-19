@@ -44,7 +44,7 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61000
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Konradas Rufus žadėjo Ditrichui iš Ezbeko atiduoti savo žirgą, kai šis trauksis atgal.'
@@ -62,8 +62,7 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60368
 ## Citatos
 
 - id: c-61000

@@ -172,7 +172,6 @@ Nenurodyta
     - t-186578
     - t-186579
     - t-193862
-
 - id: c-178911
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

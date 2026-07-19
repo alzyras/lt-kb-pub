@@ -163,7 +163,6 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87395
-
 - id: c-83375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -190,7 +189,6 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87397
-
 - id: c-83376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -213,7 +211,6 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87398
-
 - id: c-83377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

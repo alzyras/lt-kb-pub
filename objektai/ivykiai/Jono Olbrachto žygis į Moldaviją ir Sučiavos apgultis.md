@@ -148,12 +148,11 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-    - t-005
-
+    - t-186652
+    - t-186653
+    - t-186654
+    - t-186655
+    - t-186656
 - id: c-176492
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -181,4 +180,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-193853

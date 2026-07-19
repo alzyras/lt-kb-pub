@@ -53,7 +53,7 @@ Dusburgietis teigia, kad ziesemer W.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62015
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad ziesemer W.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61383
 ## Citatos
 
 - id: c-62015

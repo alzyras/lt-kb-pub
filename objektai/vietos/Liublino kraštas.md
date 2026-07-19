@@ -101,7 +101,6 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185269
-
 - id: c-178856
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

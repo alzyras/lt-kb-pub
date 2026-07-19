@@ -153,7 +153,6 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193488
-
 - id: c-169333
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -180,7 +179,6 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   pagrindzia:
     - t-185972
     - t-193489
-
 - id: c-169334
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -217,7 +215,6 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   pagrindzia:
     - t-185973
     - t-193490
-
 - id: c-169335
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

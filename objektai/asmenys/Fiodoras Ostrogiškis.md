@@ -79,8 +79,6 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-169399
@@ -108,6 +106,5 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186038
-
 ## Ryšiai
 - Fiodoras Ostrogiškis puolė [[objektai/vietos/Podolė]]

@@ -95,7 +95,6 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60419
-
 - id: c-177116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -118,7 +117,6 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194720
-
 - id: c-179189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

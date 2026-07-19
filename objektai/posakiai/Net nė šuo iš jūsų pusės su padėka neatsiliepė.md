@@ -106,7 +106,6 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   pagrindzia:
     - t-55183
     - t-55184
-
 - id: c-78632
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

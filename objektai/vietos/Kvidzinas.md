@@ -48,7 +48,7 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175651
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėliau išardytą vandens srautų.'
@@ -67,8 +67,7 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192881
 ## Citatos
 
 - id: c-175651

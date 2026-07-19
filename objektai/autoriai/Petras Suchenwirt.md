@@ -100,7 +100,6 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30926
-
 - id: c-33106
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

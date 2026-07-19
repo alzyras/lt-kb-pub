@@ -76,6 +76,7 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171374
+    - c-002
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179539|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.
 - susijęs iš [[objektai/autoriai/P. Žostautaitė.md#claim-t-30920|P. Žostautaitė]]: P. Žostautaitė 1968 m. paskelbė darbą „Prūsijos lietuvių vokietinimas ir pasipriešinimas jam 1848-1914 m.“.
 - susijęs iš [[objektai/autoriai/S. Samalavičius.md#claim-t-30971|S. Samalavičius]]: S. Samalavičius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir amatininkų cechus XIX a. pabaigoje ir XX a. pradžioje.
@@ -95,8 +96,7 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188484
 ## Citatos
 
 - id: c-33175
@@ -120,7 +120,6 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31039
-
 - id: c-171374
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

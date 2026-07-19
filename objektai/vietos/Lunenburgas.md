@@ -83,6 +83,7 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.90); Lunenburgas priklausė Barta (0.82)"
   pagrindžia:
     - c-76665
+    - c-003
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-62387|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
 - susijęs iš Saina: Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.
@@ -114,8 +115,7 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-79721
 ## Citatos
 
 - id: c-76663
@@ -139,7 +139,6 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79718
-
 - id: c-76664
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -156,7 +155,6 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79720
-
 - id: c-76665
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -179,7 +177,6 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79721
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Ditrichas iš Altenburgo]]
 - Apgulė Lunenburgą: [[objektai/grupes/Lietuviai]]

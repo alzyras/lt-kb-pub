@@ -513,7 +513,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174174
-
 - id: c-158375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -562,7 +561,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174167
-
 - id: c-158376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -588,7 +586,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174172
-
 - id: c-158377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -611,7 +608,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174166
-
 - id: c-158378
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -643,7 +639,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174168
-
 - id: c-158380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -670,7 +665,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174171
-
 - id: c-158381
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -695,7 +689,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174165
-
 - id: c-158382
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -771,7 +764,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174170
-
 - id: c-158383
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -795,7 +787,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174169
-
 - id: c-167258
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -824,7 +815,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183873
-
 - id: c-167259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

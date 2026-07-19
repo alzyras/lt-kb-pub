@@ -96,8 +96,7 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   sudarymo_pagrindimas: 'Valdovo statusas ir giminystės kontekstas palikti kaip metraščio apibūdinimas. Nepridėta informacijos apie Kęstučio sūnus.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Tverė'
   pagrindžia:
-    - c-170408
-
+    - c-003
 <a id="claim-t-187418"></a>
 - t-004
   global_id: t-187418
@@ -106,8 +105,7 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   sudarymo_pagrindimas: 'Kronikos pasakojimas apie politinį veiksmą perteiktinas tiksliau ir su šaltinio priskyrimu.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Lietuva; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
-    - c-170406
-
+    - c-001
 <a id="claim-t-194044"></a>
 - t-006
   global_id: t-194044
@@ -117,7 +115,7 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleidžiau subjektą ir pašalinau OCR triukšmą, o valdovo statusą palikau su kronikos atribucija. Nepridėta daugiau nei citatoje nurodyti Kęstučio ryšiai, valdos ir sūnų skaičius.'
   pagrindžia:
-    - c-176658
+    - c-005
 - susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
 - susijęs iš [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės.md#claim-t-86845|Viskas yra viena - ir žemė, ir žmonės]]: Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.
 - susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-55202|Viskas yra viena, viena žemė ir tie patys žmonės]]: Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“.
@@ -156,8 +154,7 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-187418
 - c-003
   santrauka: 'Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -178,8 +175,7 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187415
 - c-005
   santrauka: 'Lietuvos metraštyje Kęstutis, Algirdo brolis, vaizduojamas kaip Trakų ir Žemaičių žemės valdovas, turėjęs šešis sūnus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -199,8 +195,7 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-194044
 ## Citatos
 
 - id: c-170407
@@ -226,7 +221,6 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187417
-
 - id: c-170409
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

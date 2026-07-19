@@ -132,7 +132,6 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60094
-
 - id: c-60727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -155,6 +154,5 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   pagrindzia:
     - t-60095
     - t-194477
-
 ## Ryšiai
 - Burchardas iš Hornhauzeno mirė [[objektai/vietos/Durbė]], [[objektai/vietos/Kuršas]]

@@ -56,6 +56,7 @@ Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169651
+    - c-001
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184603|Albertas Vijūkas-Kojelavičius]]: J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje.
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,8 +77,7 @@ Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186290
 ## Citatos
 
 - id: c-169651

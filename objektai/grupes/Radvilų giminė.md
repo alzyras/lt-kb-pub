@@ -169,7 +169,6 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172766
-
 - id: c-157127
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -240,7 +239,6 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172763
-
 - id: c-157129
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -269,7 +267,6 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172765
-
 - id: c-157130
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -299,7 +296,6 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172762
-
 - id: c-157131
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

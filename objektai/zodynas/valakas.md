@@ -80,7 +80,6 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72776
-
 - id: c-175914
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

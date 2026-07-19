@@ -200,7 +200,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78949
-
 - id: c-41855
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -225,7 +224,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78947
-
 - id: c-76043
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -246,7 +244,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78950
-
 - id: c-76044
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -271,7 +268,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78946
-
 - id: c-76045
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -293,7 +289,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78945
-
 - id: c-76047
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -312,7 +307,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78943
-
 - id: c-76049
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -332,7 +326,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78953
-
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Petras I Didysis]]
 - Augustas II sudarė sutartį su [[objektai/asmenys/Karolis XII]]

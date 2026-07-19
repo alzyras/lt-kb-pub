@@ -217,7 +217,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182783
-
 - id: c-44078
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -239,7 +238,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182785
-
 - id: c-166193
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -260,7 +258,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182786
-
 - id: c-175990
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -278,7 +275,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193258
-
 - id: c-176434
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -297,7 +293,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193783
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Virgoličiaus rinktinė]]
 - Puolė Šiauliai: [[objektai/grupes/Kalavijuočių ordinas]]

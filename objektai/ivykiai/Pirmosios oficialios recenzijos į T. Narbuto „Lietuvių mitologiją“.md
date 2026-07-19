@@ -78,7 +78,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-174893
-
+    - c-002
 <a id="claim-t-192011"></a>
 - t-002
   global_id: t-192011
@@ -102,7 +102,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174894
-
+    - c-003
 <a id="claim-t-192012"></a>
 - t-003
   global_id: t-192012
@@ -150,8 +150,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192010
 - c-003
   santrauka: '1856 m. T. Narbuto „Mažesniųjų istorinių raštų“ kritikai skirti straipsniai priskiriami istorikui ir publicistui Mykolui Balinskiui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -168,8 +167,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192011
 ## Citatos
 
 - id: c-174892
@@ -196,7 +194,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192012
-
 - id: c-174893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -225,7 +222,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192010
-
 - id: c-174894
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

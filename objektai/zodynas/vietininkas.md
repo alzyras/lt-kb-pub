@@ -59,7 +59,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
   pagrindžia:
     - c-183766
-
+    - c-160267
 <a id="claim-t-176255"></a>
 - t-002
   global_id: t-176255
@@ -400,15 +400,14 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai nurodo metraščio pasakojamą sutarties sudarymą.'
   pagrindžia:
-    - c-183764
-
+    - c-009
 <a id="claim-t-176266"></a>
 - t-010
   global_id: t-176266
   teiginys: 'Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]]; mentioned_place: Vilnius'
   pagrindžia:
-    - c-183767
+    - c-010
 - susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-40100|Eilartas fon Hobergas]]: Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.
 - susijęs iš [[objektai/asmenys/Ernestas fon Racburgas.md#claim-t-40102|Ernestas fon Racburgas]]: Ernestas fon Racburgas buvo Livonijos ordino magistras ir žuvo kartu su danų vietininku Taline Eilartu fon Hobergu.
 - susijęs iš [[objektai/asmenys/Jurgis Vytautaitis.md#claim-t-39568|Jurgis Vytautaitis]]: Jurgis Vytautaitis buvo lietuvių vietininkas Pskove ir balandžio 13 d. žuvo mūšyje prie Izborsko.
@@ -477,8 +476,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-176259
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -509,8 +507,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-176266
 - c-017
   santrauka: 'Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -542,8 +539,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-
 ## Citatos
 
 - id: c-37967
@@ -563,7 +558,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200410
-
 - id: c-46939
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -601,7 +595,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193166
-
 - id: c-46941
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -621,7 +614,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176268
-
 - id: c-160265
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -643,7 +635,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindzia:
     - t-176258
     - t-176261
-
 - id: c-160267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -702,7 +693,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176255
-
 - id: c-160275
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -746,7 +736,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindzia:
     - t-176256
     - t-176263
-
 - id: c-166388
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -765,7 +754,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182991
-
 - id: c-168005
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -793,7 +781,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184644
-
 - id: c-168006
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -823,7 +810,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184645
-
 - id: c-168008
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -852,7 +838,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184647
-
 - id: c-168010
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -878,7 +863,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184649
-
 - id: c-175915
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -897,7 +881,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193165
-
 - id: c-176109
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -920,7 +903,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193384
-
 - id: c-183753
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1006,7 +988,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200402
-
 - id: c-183759
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1051,7 +1032,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200416
-
 - id: c-183761
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1094,7 +1074,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-200419
     - t-200420
     - t-200424
-
 - id: c-183766
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1121,7 +1100,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176252
-
 - id: c-183768
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

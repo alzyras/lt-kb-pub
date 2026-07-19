@@ -45,7 +45,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169362
-
+    - c-001
 <a id="claim-t-193503"></a>
 - t-002
   global_id: t-193503
@@ -58,7 +58,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169362
-
+    - c-001
 <a id="claim-t-193909"></a>
 - t-003
   global_id: t-193909
@@ -71,7 +71,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176534
-
+    - c-002
 <a id="claim-t-200983"></a>
 - t-004
   global_id: t-200983
@@ -109,9 +109,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-186001
+    - t-193503
 - c-002
   santrauka: 'Didysis kunigaikštis Erdvilą įsi rengė čionai sostinę ir ėmė vadintis Naugarduko di džiuoju kunigaikščiu I S .'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -129,8 +128,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-193909
 ## Citatos
 
 - id: c-169362
@@ -161,7 +159,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   pagrindzia:
     - t-186001
     - t-193503
-
 - id: c-176534
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -183,7 +180,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193909
-
 - id: c-184333
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

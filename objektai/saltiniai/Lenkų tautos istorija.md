@@ -67,7 +67,7 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174808
-
+    - c-002
 <a id="claim-t-197680"></a>
 - t-003
   global_id: t-197680
@@ -99,8 +99,7 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191926
 ## Citatos
 
 - id: c-33620
@@ -123,7 +122,6 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31786
-
 - id: c-174808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

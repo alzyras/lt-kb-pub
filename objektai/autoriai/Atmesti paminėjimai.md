@@ -194,7 +194,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193513
-
 - id: c-176194
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -236,7 +235,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193514
-
 - id: c-176196
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -265,7 +263,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193516
-
 - id: c-176198
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -294,7 +291,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193518
-
 - id: c-176201
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -324,7 +320,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193521
-
 - id: c-176203
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -358,7 +353,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193523
-
 - id: c-176204
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -384,7 +378,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193524
-
 - id: c-176208
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -411,7 +404,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193528
-
 - id: c-178634
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

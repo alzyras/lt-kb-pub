@@ -86,7 +86,6 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71551
-
 - id: c-70106
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

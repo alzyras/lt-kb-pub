@@ -141,7 +141,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   pagrindžia:
     - c-85125
     - c-85133
-
+    - c-005
 <a id="claim-t-89160"></a>
 - t-006
   global_id: t-89160
@@ -159,7 +159,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   semantiniai_rysiai: "Pagudėnai keliavo į Elbingas (0.86); Pagudėnai gyveno Pagudė (0.76)"
   pagrindžia:
     - c-85136
-
+    - c-015
 <a id="claim-t-89161"></a>
 - t-007
   global_id: t-89161
@@ -195,7 +195,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   semantiniai_rysiai: "Pagudėnai paskyrė Auktumas (0.90)"
   pagrindžia:
     - c-85123
-
+    - c-003
 <a id="claim-t-89163"></a>
 - t-009
   global_id: t-89163
@@ -229,7 +229,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85132
-
+    - c-012
 <a id="claim-t-89165"></a>
 - t-011
   global_id: t-89165
@@ -247,7 +247,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-85127
-
+    - c-007
 <a id="claim-t-89166"></a>
 - t-012
   global_id: t-89166
@@ -265,7 +265,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-85131
-
+    - c-011
 <a id="claim-t-89168"></a>
 - t-013
   global_id: t-89168
@@ -283,7 +283,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   semantiniai_rysiai: "Pagudėnai puolė Elbingas (0.78); Pagudėnai puolė Kristburgas (0.78)"
   pagrindžia:
     - c-85122
-
+    - c-002
 <a id="claim-t-89169"></a>
 - t-014
   global_id: t-89169
@@ -321,7 +321,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   semantiniai_rysiai: "Pagudėnai puolė Elbingas (0.86); Pagudėnai buvo sąjungininkas su Sūduviai (0.82); Pagudėnai puolė Pagudė (0.72); Pagudėnai puolė Pamedė (0.72)"
   pagrindžia:
     - c-85137
-
+    - c-016
 <a id="claim-t-89171"></a>
 - t-016
   global_id: t-89171
@@ -342,7 +342,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija pagudėną Linką ir jo veiksmą."
   pagrindžia:
     - c-85134
-
+    - c-014
 <a id="claim-t-196914"></a>
 - t-017
   global_id: t-196914
@@ -456,8 +456,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-89168
 - c-003
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -476,8 +475,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-89162
 - c-005
   santrauka: '1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -497,8 +495,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-89159
 - c-007
   santrauka: 'Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė, daug žmonių paėmė į nelaisvę arba nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -517,8 +514,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-89165
 - c-011
   santrauka: 'Trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -531,8 +527,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-89166
 - c-012
   santrauka: 'Pagudėnai įtikinėjo krikščionis atiduoti pilį ir pasiduoti, grasindami visus išžudyti ir sunaikinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -550,8 +545,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-89164
 - c-014
   santrauka: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -572,8 +566,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-89171
 - c-015
   santrauka: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -593,8 +586,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-89160
 - c-016
   santrauka: 'Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -612,8 +604,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-89170
 ## Citatos
 
 - id: c-85121
@@ -639,7 +630,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89163
-
 - id: c-85122
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -665,7 +655,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89168
-
 - id: c-85123
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -688,7 +677,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89162
-
 - id: c-85124
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -708,7 +696,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89158
-
 - id: c-85125
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -732,7 +719,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89159
-
 - id: c-85126
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -748,7 +734,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89161
-
 - id: c-85127
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -771,7 +756,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89165
-
 - id: c-85128
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -791,7 +775,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89156
-
 - id: c-85129
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -816,7 +799,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89169
-
 - id: c-85130
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -840,7 +822,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89157
-
 - id: c-85131
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -859,7 +840,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89166
-
 - id: c-85132
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -886,7 +866,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89164
-
 - id: c-85133
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -908,7 +887,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89159
-
 - id: c-85134
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -935,7 +913,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89171
-
 - id: c-85136
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -961,7 +938,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89160
-
 - id: c-85137
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -984,7 +960,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89170
-
 - id: c-85139
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1007,7 +982,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89155
-
 - id: c-178976
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1026,7 +1000,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196914
-
 - id: c-178977
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1045,7 +1018,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196915
-
 ## Ryšiai
 - Gynė Pagudėnai: [[objektai/grupes/Žemaičiai]]
 - Turėjo priklausinį: [[objektai/vietos/Heilsbergas]]

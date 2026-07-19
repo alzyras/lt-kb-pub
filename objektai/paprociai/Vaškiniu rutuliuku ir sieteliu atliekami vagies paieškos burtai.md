@@ -65,7 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172759
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vagies paieškos burtuose buvo stebimas vaško rutuliuko judėjimas ir sukimasis.'
@@ -83,8 +83,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189876
 ## Citatos
 
 - id: c-172759

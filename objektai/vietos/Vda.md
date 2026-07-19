@@ -46,7 +46,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59285
-
+    - c-002
 <a id="claim-t-58653"></a>
 - t-002
   global_id: t-58653
@@ -64,7 +64,8 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59284
-
+    - c-001
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
@@ -78,8 +79,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58653
 - c-002
   santrauka: 'Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -96,8 +96,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58652
 - c-003
   santrauka: 'Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -111,8 +110,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-58653
 ## Citatos
 
 - id: c-59284
@@ -135,7 +133,6 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58653
-
 - id: c-59285
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -158,7 +155,6 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58652
-
 - id: c-167598
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -58,7 +58,7 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173010
-
+    - c-001
 <a id="claim-t-190834"></a>
 - t-002
   global_id: t-190834
@@ -101,8 +101,7 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190127
 ## Citatos
 
 - id: c-173010
@@ -130,7 +129,6 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190127
-
 - id: c-173716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

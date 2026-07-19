@@ -148,7 +148,6 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - t-05242
     - t-80795
     - t-80796
-
 - id: c-77432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

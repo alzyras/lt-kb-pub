@@ -49,7 +49,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172360
-
+    - c-001
 <a id="claim-t-189474"></a>
 - t-002
   global_id: t-189474
@@ -70,7 +70,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172361
-
+    - c-002
 <a id="claim-t-189475"></a>
 - t-003
   global_id: t-189475
@@ -91,7 +91,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172362
-
+    - c-003
 <a id="claim-t-189476"></a>
 - t-004
   global_id: t-189476
@@ -184,8 +184,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189473
 - c-002
   santrauka: 'Narbutas teigė, kad pasakojimas apie Verpėją buvo žinomas ir vietiniams lietuviams, ir Lietuvos rusinams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -207,8 +206,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189474
 - c-003
   santrauka: 'Narbutas rašė, kad karvojaus pavadinimą lietuviai perėmė iš rusinų, tačiau Gondu ir karvojus lietuviams buvo skirtingi dalykai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -229,8 +227,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189475
 ## Citatos
 
 - id: c-172360
@@ -255,7 +252,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189473
-
 - id: c-172361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -279,7 +275,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189474
-
 - id: c-172362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -305,7 +300,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189475
-
 - id: c-172363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -326,7 +320,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   pagrindzia:
     - t-189476
     - t-197214
-
 - id: c-172364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -347,7 +340,6 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189477
-
 - id: c-179069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -367,6 +359,5 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197213
-
 ## Ryšiai
 - Lietuvos rusinai gyveno [[objektai/vietos/Lietuva]]

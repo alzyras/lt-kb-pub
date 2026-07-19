@@ -180,7 +180,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-108063
-
+    - c-166593
 <a id="claim-t-117390"></a>
 - t-008
   global_id: t-117390
@@ -529,7 +529,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171266
-
+    - c-021
 <a id="claim-t-193568"></a>
 - t-026
   global_id: t-193568
@@ -980,8 +980,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026
-
+    - t-188372
 ## Citatos
 
 - id: c-22868
@@ -1006,7 +1005,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117390
-
 - id: c-108058
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1029,7 +1027,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117401
-
 - id: c-108059
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1056,7 +1053,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117382
-
 - id: c-108060
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1080,7 +1076,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindzia:
     - t-117394
     - t-117403
-
 - id: c-108061
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1109,7 +1104,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindzia:
     - t-117386
     - t-117397
-
 - id: c-108062
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1130,7 +1124,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117402
-
 - id: c-108063
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1149,7 +1142,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117389
-
 - id: c-108065
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1173,7 +1165,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117388
-
 - id: c-108067
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1200,7 +1191,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindzia:
     - t-117384
     - t-117391
-
 - id: c-108069
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1220,7 +1210,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117395
-
 - id: c-108070
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1245,7 +1234,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117392
-
 - id: c-108071
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1262,7 +1250,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117400
-
 - id: c-108073
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1281,7 +1268,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindzia:
     - t-117399
     - t-117405
-
 - id: c-108076
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1308,7 +1294,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117396
-
 - id: c-108077
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1330,7 +1315,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindzia:
     - t-117381
     - t-117404
-
 - id: c-108078
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1357,7 +1341,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117406
-
 - id: c-108081
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1379,7 +1362,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117393
-
 - id: c-108082
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1407,7 +1389,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117387
-
 - id: c-166593
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1448,7 +1429,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188371
-
 - id: c-171266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1471,7 +1451,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188372
-
 - id: c-176247
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1489,7 +1468,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193568
-
 - id: c-176248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1514,7 +1492,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193569
-
 ## Ryšiai
 - Puolė Žydai: [[objektai/grupes/SD Einsatzgruppen]], [[objektai/grupes/Tilžės gestapo būrys]]
 - Žydai keliavo į [[objektai/vietos/Pietų Afrikos Sąjunga]]

@@ -76,6 +76,7 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168444
+    - c-002
 - susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš Belgorodas: Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.
@@ -116,8 +117,7 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185083
 ## Citatos
 
 - id: c-93892
@@ -140,7 +140,6 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99942
-
 - id: c-168444
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -165,6 +164,5 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185083
-
 ## Ryšiai
 - Užėmė Perejeslavlį: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

@@ -37,7 +37,7 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61696
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgiečio kronikos pratarmėje cituojama Danieliaus knygos vieta apie Dievo ženklų ir stebuklų paskelbimą.'
@@ -53,8 +53,7 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61064
 ## Citatos
 
 - id: c-61696

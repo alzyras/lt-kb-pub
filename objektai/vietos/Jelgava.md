@@ -116,7 +116,6 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43651
-
 - id: c-47056
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -137,7 +136,6 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43652
-
 - id: c-184413
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

@@ -65,6 +65,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-40515
+    - c-167095
 - susijęs iš [[objektai/autoriai/Francois Paulin Dalairac.md#claim-t-181536|Francois Paulin Dalairac]]: Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių.
 - susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
 - susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.
@@ -88,7 +89,6 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38712
-
 - id: c-40516
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -106,7 +106,6 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38711
-
 - id: c-167095
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

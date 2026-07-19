@@ -55,7 +55,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-170940
-
+    - c-002
 <a id="claim-t-187955"></a>
 - t-002
   global_id: t-187955
@@ -95,7 +95,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173506
-
+    - c-004
 <a id="claim-t-190624"></a>
 - t-003
   global_id: t-190624
@@ -137,7 +137,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173568
-
+    - c-006
 <a id="claim-t-190687"></a>
 - t-005
   global_id: t-190687
@@ -180,6 +180,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173570
+    - c-008
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-190987|Teodoras Narbutas]]: Rengdamas antrąjį LTI leidimą, Narbutas išnašoje išbraukė žodžius „bene brolio“ apie A. Vijūką-Kojalavičių.
 ## Reikšmingi paminėjimai
 - c-002
@@ -200,8 +201,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187954
 - c-004
   santrauka: 'Narbutas nurodė, kad Kojalavičius minėjo XV a. lenkiškus grašius piorunkas ir skyrė juos nuo Lietuvoje žinotų perunų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -218,8 +218,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190623
 - c-006
   santrauka: 'Albertas Vijūkas-Kojalavičius, Narbuto vertinimu, Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė spragas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -239,8 +238,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190686
 - c-008
   santrauka: 'Kojalavičius, Narbuto perteikimu, teigė, kad poloviečiai turėjo lietuvių kalbą, ir rėmėsi pasakojimu apie Mamajaus sugriautą Beloserką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -260,8 +258,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-190688
 ## Citatos
 
 - id: c-170939
@@ -284,7 +281,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187955
-
 - id: c-170940
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -308,7 +304,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187954
-
 - id: c-173506
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -328,7 +323,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190623
-
 - id: c-173507
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -352,7 +346,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190624
-
 - id: c-173568
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -383,7 +376,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190686
-
 - id: c-173569
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -404,7 +396,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190687
-
 - id: c-173570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

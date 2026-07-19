@@ -125,7 +125,6 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   pagrindzia:
     - t-54996
     - t-81882
-
 - id: c-78419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

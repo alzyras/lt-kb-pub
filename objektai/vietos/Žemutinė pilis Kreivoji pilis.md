@@ -94,8 +94,7 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius; llm_object: Vilnius'
   semantiniai_rysiai: 'Žemutinė pilis Kreivoji pilis priklausė Vilnius'
   pagrindžia:
-    - c-170270
-
+    - c-003
 <a id="claim-t-187184"></a>
 - t-002
   global_id: t-187184
@@ -103,8 +102,7 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatinis ir paremtas citata.'
   pagrindžia:
-    - c-170272
-
+    - c-005
 <a id="claim-t-187187"></a>
 - t-007
   global_id: t-187187
@@ -113,8 +111,7 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Žemutinės pilies teritoriją ir mūrinio pastato datavimą, kurį tiesiogiai palaiko citata. Papildoma lokalizacija prie Pionierių rūmų neįtraukta.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
   pagrindžia:
-    - c-170270
-
+    - c-003
 <a id="claim-t-187196"></a>
 - t-008
   global_id: t-187196
@@ -123,8 +120,7 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos atsargią išvadą.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
-    - c-170272
-
+    - c-005
 <a id="claim-t-187192"></a>
 - t-011
   global_id: t-187192
@@ -134,8 +130,7 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius; llm_object: Vilnius'
   semantiniai_rysiai: 'Žemutinė pilis Kreivoji pilis priklausė Vilnius'
   pagrindžia:
-    - c-170270
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -159,13 +154,9 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-    - t-001
-    - t-007
-    - t-014
-    - t-009
-    - t-012
-
+    - t-187178
+    - t-187187
+    - t-187192
 - c-005
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -179,11 +170,8 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-    - t-013
-    - t-002
-    - t-008
-
+    - t-187184
+    - t-187196
 ## Citatos
 
 - id: c-170267
@@ -213,7 +201,6 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187181
-
 - id: c-170269
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -238,7 +225,6 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187183
-
 - id: c-170271
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

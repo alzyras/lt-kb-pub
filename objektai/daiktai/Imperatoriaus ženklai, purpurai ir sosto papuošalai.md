@@ -63,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175778
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Odoakras, kariuomenės paskelbtas karaliumi, galėjo priimti imperatoriaus ženklus, purpurus ir sosto papuošalus, bet to nepadarė.'
@@ -86,8 +86,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193008
 ## Citatos
 
 - id: c-175778

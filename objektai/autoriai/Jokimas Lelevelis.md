@@ -95,7 +95,6 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
   patikimumo_saltinis: ai
   pagrindzia:
     - t-29204
-
 - id: c-167721
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

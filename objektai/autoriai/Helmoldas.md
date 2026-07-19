@@ -98,7 +98,6 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190365
-
 - id: c-173581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

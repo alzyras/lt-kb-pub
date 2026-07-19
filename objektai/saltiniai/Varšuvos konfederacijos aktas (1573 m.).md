@@ -70,7 +70,6 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67555
-
 - id: c-67419
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

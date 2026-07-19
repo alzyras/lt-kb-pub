@@ -58,7 +58,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą datą, pareigas, adresatą ir rankraščio likimą."
   pagrindžia:
     - c-83978
-
+    - c-83980
 <a id="claim-t-87999"></a>
 - t-002
   global_id: t-87999
@@ -119,7 +119,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87999
-
 - id: c-83978
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -151,7 +150,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87998
-
 - id: c-83979
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -185,7 +183,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88000
-
 - id: c-83980
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -49,7 +49,7 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174282
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai.'
@@ -81,8 +81,7 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191400
 ## Citatos
 
 - id: c-174282

@@ -96,7 +96,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59448
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas.'
@@ -110,8 +110,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-58817
 ## Citatos
 
 - id: c-59446
@@ -131,7 +130,6 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58814
-
 - id: c-59447
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -151,7 +149,6 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58815
-
 - id: c-59448
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -169,7 +166,6 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58817
-
 - id: c-59449
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

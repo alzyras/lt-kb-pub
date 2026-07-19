@@ -98,7 +98,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174925
-
+    - c-001
 <a id="claim-t-192492"></a>
 - t-003
   global_id: t-192492
@@ -119,7 +119,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174925
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -142,10 +142,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-    - t-005
-
+    - t-192055
+    - t-192492
 ## Citatos
 
 - id: c-174925
@@ -172,7 +170,6 @@ Nenurodyta
   pagrindzia:
     - t-192055
     - t-192492
-
 - id: c-174926
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

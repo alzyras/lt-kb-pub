@@ -53,7 +53,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-181758
-
+    - c-003
 <a id="claim-t-199238"></a>
 - t-002
   global_id: t-199238
@@ -89,8 +89,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-199237
 ## Citatos
 
 - id: c-03535
@@ -107,7 +106,6 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199238
-
 - id: c-181758
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

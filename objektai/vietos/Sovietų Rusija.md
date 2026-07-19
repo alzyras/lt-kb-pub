@@ -171,7 +171,6 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   pagrindzia:
     - t-77321
     - t-77322
-
 - id: c-24493
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -192,7 +191,6 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77324
-
 - id: c-43877
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -210,7 +208,6 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193785
-
 - id: c-176435
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

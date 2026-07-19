@@ -48,7 +48,7 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172389
-
+    - c-001
 <a id="claim-t-189502"></a>
 - t-002
   global_id: t-189502
@@ -118,8 +118,7 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189501
 ## Citatos
 
 - id: c-172389
@@ -147,7 +146,6 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189501
-
 - id: c-172390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

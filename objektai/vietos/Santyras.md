@@ -95,7 +95,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Santyro pilies perkėlimą ir pervadinimą."
   pagrindžia:
     - c-159527
-
+    - c-004
 <a id="claim-t-175397"></a>
 - t-004
   global_id: t-175397
@@ -131,7 +131,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   semantiniai_rysiai: "Konradas Bremeris keliavo į Elbingas (0.88); Sventopelkas buvo priešas Konradas Bremeris (0.82); Konradas Bremeris puolė Sventopelkas (0.78)"
   pagrindžia:
     - c-159522
-
+    - c-001
 <a id="claim-t-175400"></a>
 - t-006
   global_id: t-175400
@@ -216,8 +216,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-175398
 - c-004
   santrauka: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, arba šventos Marijos pilimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -235,8 +234,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-175396
 ## Citatos
 
 - id: c-159522
@@ -263,7 +261,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175398
-
 - id: c-159523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -286,7 +283,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175395
-
 - id: c-159524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -305,7 +301,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175397
-
 - id: c-159527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -328,7 +323,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175396
-
 - id: c-159528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -351,7 +345,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175394
-
 - id: c-167582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -374,6 +367,5 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   pagrindzia:
     - t-175400
     - t-197180
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Sventopelkas]]

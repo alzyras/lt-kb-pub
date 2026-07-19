@@ -41,7 +41,7 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177240
-
+    - c-001
 <a id="claim-t-197317"></a>
 - t-002
   global_id: t-197317
@@ -78,8 +78,7 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194844
 ## Citatos
 
 - id: c-177240
@@ -110,7 +109,6 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194844
-
 - id: c-179126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

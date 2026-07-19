@@ -96,7 +96,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181539
-
 - id: c-165073
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -152,6 +151,5 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181538
-
 ## Ryšiai
 - Bernardinų ordinas keliavo į [[objektai/vietos/Vilnius]]

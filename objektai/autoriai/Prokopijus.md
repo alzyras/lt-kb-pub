@@ -96,7 +96,7 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173670
-
+    - c-003
 <a id="claim-t-197638"></a>
 - t-004
   global_id: t-197638
@@ -144,8 +144,7 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190788
 ## Citatos
 
 - id: c-169652
@@ -179,7 +178,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186291
-
 - id: c-173669
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -201,7 +199,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190787
-
 - id: c-173670
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -225,7 +222,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190788
-
 - id: c-179273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -249,7 +245,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197638
-
 - id: c-179274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

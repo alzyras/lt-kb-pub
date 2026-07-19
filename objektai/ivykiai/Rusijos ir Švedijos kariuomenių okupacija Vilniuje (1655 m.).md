@@ -60,7 +60,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-176178
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.'
@@ -77,8 +77,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193477
 ## Citatos
 
 - id: c-176178

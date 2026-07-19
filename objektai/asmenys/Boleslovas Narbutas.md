@@ -68,7 +68,7 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
   temporalinis_llm_pakomentavimas: "Teiginys jau yra aiškus lietuviškas sakinys apie Boleslovą Narbutą ir jo veiksmą 1863 m. sukilime. Papildomų detalių iš citatos nereikia."
   pagrindžia:
     - c-170754
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -83,8 +83,7 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188040
 ## Citatos
 
 - id: c-170754

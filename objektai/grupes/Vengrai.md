@@ -192,7 +192,6 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66255
-
 - id: c-66562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -220,7 +219,6 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66254
-
 - id: c-167947
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -250,7 +248,6 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184586
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lietuviai]]
 - Kariavo prieš: [[objektai/asmenys/Jonas Olbrachtas]]

@@ -57,26 +57,6 @@ media_all_json: |-
   pagrindžia:
     - c-164982
 
-<a id="claim-t-181428"></a>
-- t-002
-  global_id: t-181428
-  teiginys: "1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio."
-  atnaujinta: "2026-05-31 14:24"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daugpilis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latvija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Daugpilis: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latvija\" parinktas kaip owner_note_path. Targetas \"Daugpilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-164981
-
-<a id="claim-t-181429"></a>
 - t-003
   global_id: t-181429
   teiginys: "SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti."
@@ -134,7 +114,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir susijęs su Latvijos kariuomenės veiksmu bei Latvijos teritorijos išlaisvinimo kontekstu."
   pagrindžia:
     - c-43566
-
+    - c-164981
 <a id="claim-t-188731"></a>
 - t-006
   global_id: t-188731
@@ -160,7 +140,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171621
-
+    - c-006
 <a id="claim-t-194734"></a>
 - t-008
   global_id: t-194734
@@ -426,8 +406,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188732
 - c-009
   santrauka: 'Istorijos, kurias turime, yra jau tokios vėlyvos, kad visko atminti negali; Latvija, politinei nepriklausomybei staigiai žlungant, virto vokiečių kolonija; pa čios tikrosios Lietuvos kunigaikštystės buvo nelaimingų vidaus sąmyšių ir išorės priešų užpuolimų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -459,8 +438,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
 ## Citatos
 
 - id: c-43566
@@ -480,7 +457,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183790
-
 - id: c-164981
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -504,9 +480,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181428
     - t-181431
-
+    - t-183790
 - id: c-164982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -529,7 +504,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181427
-
 - id: c-164983
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -550,7 +524,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181429
-
 - id: c-171620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -569,7 +542,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188731
-
 - id: c-171621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -595,7 +567,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188732
-
 - id: c-177130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -617,7 +588,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194734
-
 - id: c-177131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -635,7 +605,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194735
-
 ## Ryšiai
 - Užėmė Latviją: [[objektai/grupes/Sovietų Sąjunga]]
 - Buvo užkariauta: [[objektai/grupes/Sovietų Sąjunga]]

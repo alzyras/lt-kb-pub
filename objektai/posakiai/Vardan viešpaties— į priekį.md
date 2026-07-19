@@ -51,7 +51,7 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59797
-
+    - c-002
 <a id="claim-t-197056"></a>
 - t-003
   global_id: t-197056
@@ -84,9 +84,6 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 - c-002
   santrauka: 'Henrikas, pentinais spausdamas arklį, ištarė: „Vardan viešpaties — į priekį“; po šių žodžių velnias pasakė, kad Dievo vardas jį išgelbėjo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -102,8 +99,7 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59165
 ## Citatos
 
 - id: c-59797
@@ -130,7 +126,6 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
   pagrindzia:
     - t-59165
     - t-197056
-
 - id: c-167427
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

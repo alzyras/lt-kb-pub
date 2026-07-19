@@ -103,9 +103,6 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-173267
@@ -147,7 +144,6 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190384
-
 - id: c-173268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

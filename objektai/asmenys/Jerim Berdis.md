@@ -66,7 +66,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186046
-
 ## Ryšiai
 - Puolė Jerim Berdį: [[objektai/asmenys/Kerim Berdis]]
 - Jerim Berdis keliavo į [[objektai/vietos/Skitija]]

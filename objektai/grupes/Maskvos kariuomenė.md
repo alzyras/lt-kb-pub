@@ -62,6 +62,7 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40681
+    - c-167055
 - susijęs iš [[objektai/asmenys/Zigmantas Herberšteinas.md#claim-t-40547|Zigmantas Herberšteinas]]: Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.
 - susijęs iš Alūksnė: 1560 m. rusai užėmė Alūksnę ir Viljandį.
 - susijęs iš Narva: 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.
@@ -92,7 +93,6 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38878
-
 - id: c-40682
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -118,7 +118,6 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38877
-
 - id: c-167055
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

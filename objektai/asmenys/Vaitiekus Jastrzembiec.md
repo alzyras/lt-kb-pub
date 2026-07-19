@@ -90,7 +90,6 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35309
-
 - id: c-167665
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

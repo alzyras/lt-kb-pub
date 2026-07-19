@@ -107,7 +107,6 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
   pagrindzia:
     - t-60389
     - t-197134
-
 - id: c-171487
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

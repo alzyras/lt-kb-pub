@@ -51,7 +51,7 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai remiasi citata."
   pagrindžia:
     - c-169544
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.'
@@ -73,8 +73,7 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186183
 ## Citatos
 
 - id: c-169544

@@ -115,7 +115,6 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182929
-
 - id: c-48118
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

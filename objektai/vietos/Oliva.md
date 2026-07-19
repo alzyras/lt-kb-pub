@@ -151,7 +151,6 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86096
-
 - id: c-82076
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

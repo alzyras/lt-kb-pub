@@ -62,7 +62,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44479
-
+    - c-167146
 ## Citatos
 
 - id: c-42172
@@ -90,7 +90,6 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40374
-
 - id: c-44479
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -115,7 +114,6 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40375
-
 - id: c-167146
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

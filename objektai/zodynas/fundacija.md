@@ -191,7 +191,6 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86418
-
 - id: c-82397
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -220,7 +219,6 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86419
-
 - id: c-82398
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -242,7 +240,6 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86417
-
 - id: c-82399
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

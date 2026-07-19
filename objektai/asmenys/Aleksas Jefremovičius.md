@@ -81,6 +81,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87617
-
 ## Ryšiai
 - Aleksas Jefremovičius sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

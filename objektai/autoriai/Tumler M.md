@@ -54,7 +54,7 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61264
-
+    - c-002
 <a id="claim-t-60632"></a>
 - t-002
   global_id: t-60632
@@ -67,7 +67,7 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   temporalinis_llm_pakomentavimas: "Citata pateikia Tumlerio veikalo bibliografinę nuorodą ir datą."
   pagrindžia:
     - c-61263
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Tumlerio veikale „Der deutsche Orden“ nurodomas 1229–1239 m. laikotarpis.'
@@ -82,8 +82,7 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60632
 - c-002
   santrauka: 'M. Tumlerio veikale „Der Deutsche Orden“ remiamasi datuojant Henriko Barto magistro laikotarpį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -96,8 +95,7 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60631
 ## Citatos
 
 - id: c-61263
@@ -116,7 +114,6 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60632
-
 - id: c-61264
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

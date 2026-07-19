@@ -60,7 +60,7 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173209
-
+    - c-001
 <a id="claim-t-190328"></a>
 - t-002
   global_id: t-190328
@@ -126,7 +126,7 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173617
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.'
@@ -143,8 +143,7 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190326
 - c-004
   santrauka: 'Narbutas turėjo omenyje straipsnį „Podrož Hrabiego Jana Potockiego do Astrachanu i okolic przyleglych, w roku 1797“, paskelbtą „Dziennik Wilenski“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -159,8 +158,7 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190735
 ## Citatos
 
 - id: c-173209
@@ -182,7 +180,6 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190326
-
 - id: c-173211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -199,7 +196,6 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190328
-
 - id: c-173616
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -222,7 +218,6 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190734
-
 - id: c-173617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

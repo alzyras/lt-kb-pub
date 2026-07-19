@@ -134,7 +134,6 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40139
-
 - id: c-167128
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

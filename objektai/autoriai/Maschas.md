@@ -62,6 +62,7 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177064
+    - c-002
 - susijęs iš [[objektai/autoriai/Wogenas.md#claim-t-190462|Wogenas]]: Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių.
 ## Reikšmingi paminėjimai
 - c-002
@@ -78,8 +79,7 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194667
 ## Citatos
 
 - id: c-173255
@@ -100,7 +100,6 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190372
-
 - id: c-177064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

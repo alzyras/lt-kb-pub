@@ -83,7 +83,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173909
-
+    - c-002
 <a id="claim-t-197549"></a>
 - t-003
   global_id: t-197549
@@ -117,8 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191027
 ## Citatos
 
 - id: c-173908
@@ -144,7 +143,6 @@ Nenurodyta
   pagrindzia:
     - t-191026
     - t-197549
-
 - id: c-173909
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -171,6 +169,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191027
-
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Neronas]]

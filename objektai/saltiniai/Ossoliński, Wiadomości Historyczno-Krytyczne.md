@@ -65,7 +65,6 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88323
-
 - id: c-84302
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

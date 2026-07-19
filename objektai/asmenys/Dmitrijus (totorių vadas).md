@@ -94,7 +94,6 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78962
-
 - id: c-76060
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

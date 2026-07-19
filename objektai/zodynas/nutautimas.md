@@ -93,7 +93,6 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   pagrindzia:
     - t-100285
     - t-100286
-
 - id: c-94129
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -49,7 +49,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   semantiniai_rysiai: "Jazbutas puolė Henrikas Cutsvertas (0.99); Jazbutas buvo priešas Henrikas Cutsvertas (0.95)"
   pagrindžia:
     - c-60780
-
+    - c-002
 <a id="claim-t-60148"></a>
 - t-002
   global_id: t-60148
@@ -88,7 +88,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   semantiniai_rysiai: "Jazbutas puolė Kryžiuočių ordinas (0.72)"
   pagrindžia:
     - c-168079
-
+    - c-003
 <a id="claim-t-194494"></a>
 - t-005
   global_id: t-194494
@@ -101,6 +101,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60780
+    - c-002
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179237|Lietuviai]]: Lietuvis Jazbutas su 500 rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsigabeno didelį grobį.
 - susijęs iš [[objektai/ivykiai/Jazbuto pralaimėjimas tarp Alnos ir Narevo upių.md#claim-t-185800|Jazbuto pralaimėjimas tarp Alnos ir Narevo upių]]: Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.
 - susijęs iš [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.).md#claim-t-66563|Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]: Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsivežė daug daiktų.
@@ -124,10 +125,8 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-    - t-005
-
+    - t-60147
+    - t-194494
 - c-003
   santrauka: 'Jazbutas persekiojo Henriko Cutsverto vadovaujamą užpakalinę vorą ir puolė priešą kalaviju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -161,8 +160,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-184718
 ## Citatos
 
 - id: c-60779
@@ -183,7 +181,6 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60148
-
 - id: c-60780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -208,7 +205,6 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   pagrindzia:
     - t-60147
     - t-194494
-
 - id: c-168079
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -245,7 +241,6 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184718
-
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Henrikas Cutsvertas]]
 - Jazbutas puolė [[objektai/asmenys/Henrikas Cutsvertas]]

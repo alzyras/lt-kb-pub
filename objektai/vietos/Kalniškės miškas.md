@@ -150,7 +150,6 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171638
-
 - id: c-156116
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -176,7 +175,6 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171634
-
 - id: c-156117
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -214,7 +212,6 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171635
-
 - id: c-156119
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

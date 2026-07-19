@@ -45,7 +45,7 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41605
-
+    - c-167148
 ## Citatos
 
 - id: c-41605
@@ -70,7 +70,6 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39801
-
 - id: c-167148
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

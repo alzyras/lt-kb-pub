@@ -105,7 +105,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192967
-
 - id: c-184287
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -133,7 +132,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200937
-
 - id: c-184288
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

@@ -129,7 +129,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173609
-
+    - c-006
 <a id="claim-t-190728"></a>
 - t-007
   global_id: t-190728
@@ -150,7 +150,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173610
-
+    - c-007
 <a id="claim-t-190730"></a>
 - t-005
   global_id: t-190730
@@ -192,7 +192,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173613
-
+    - c-010
 <a id="claim-t-191886"></a>
 - t-011
   global_id: t-191886
@@ -213,7 +213,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174768
-
+    - c-011
 <a id="claim-t-197304"></a>
 - t-008
   global_id: t-197304
@@ -282,8 +282,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190727
 - c-007
   santrauka: 'Foigto ištraukoje teigiama, kad Aistmarės išsiplėtė į rytus, o tarp senos Baigos pilies ir Piliavos anksčiau buvo gyvenama sausuma.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -314,8 +313,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-190728
 - c-010
   santrauka: 'Teodoras Narbutas Foigto tvirtovės vietos tyrimą laikė kiek klaidingu ir tvirtovę siejo su sena piliaviete prie Pilkalnio kaimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -340,8 +338,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-190731
 - c-011
   santrauka: 'Nagrinėdamas Tacito geografiją, J. Foigtas nustatė Narbuto aptariamos Estijos padėtį kaimyninių kraštų atžvilgiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -359,8 +356,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-191886
 ## Citatos
 
 - id: c-65302
@@ -381,7 +377,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64625
-
 - id: c-65303
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -400,7 +395,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64627
-
 - id: c-171302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -422,7 +416,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188412
-
 - id: c-171303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -446,7 +439,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188413
-
 - id: c-173609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -480,7 +472,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190727
-
 - id: c-173610
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -511,7 +502,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190728
-
 - id: c-173612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -529,7 +519,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190730
-
 - id: c-173613
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -559,7 +548,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190731
-
 - id: c-174768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -584,7 +572,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191886
-
 - id: c-179116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -608,7 +595,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197304
-
 - id: c-179259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -629,7 +615,6 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197609
-
 - id: c-179260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

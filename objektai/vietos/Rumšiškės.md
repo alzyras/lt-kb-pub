@@ -46,7 +46,7 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-24439
-
+    - c-167020
 ## Citatos
 
 - id: c-24439
@@ -69,7 +69,6 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21760
-
 - id: c-167020
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

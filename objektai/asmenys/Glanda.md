@@ -46,6 +46,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   semantiniai_rysiai: "Sembai paskyrė Glanda (0.95)"
   pagrindžia:
     - c-60926
+    - c-001
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175104|Sembai]]: Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175104|Sembai]]: Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.
 ## Reikšmingi paminėjimai
@@ -65,8 +66,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60294
 ## Citatos
 
 - id: c-60926
@@ -91,6 +91,5 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60294
-
 ## Ryšiai
 - Paskyrė Glandą: [[objektai/grupes/Sembai]]

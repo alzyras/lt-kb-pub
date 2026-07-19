@@ -62,4 +62,4 @@ Apie 1447 m. Švitrigaila iš Kazimiero gavo Homelį ir, tikėtina, Turovą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194047

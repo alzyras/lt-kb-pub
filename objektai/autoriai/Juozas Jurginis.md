@@ -60,7 +60,7 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-167829
-
+    - c-001
 <a id="claim-t-186444"></a>
 - t-002
   global_id: t-186444
@@ -81,6 +81,7 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu."
   pagrindžia:
     - c-169795
+    - c-002
 - susijęs iš [[objektai/autoriai/A. Šidlauskas.md#claim-t-97147|A. Šidlauskas]]: A. Šidlauskas kartu su J. Jurginiu parengė 1983 m. Vilniuje išleistą rinkinį „Kraštas ir žmonės“.
 - susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64662|Jurginis J]]: J. Jurginis nurodomas tarp autorių, siejusių paprotinę teisę su aukšta moters padėtimi senovės baltų šeimoje.
 - susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64667|Jurginis J]]: J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.
@@ -122,8 +123,7 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186443
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -138,9 +138,7 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
+    - t-186444
 ## Citatos
 
 - id: c-167829
@@ -169,7 +167,6 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186443
-
 - id: c-169795
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

@@ -49,7 +49,7 @@ media_all_json: |-
   semantiniai_rysiai: "Šindekopfas užėmė Bajorų pilaitė (0.93)"
   pagrindžia:
     - c-168639
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.'
@@ -77,8 +77,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185278
 ## Citatos
 
 - id: c-168639
@@ -116,6 +115,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185278
-
 ## Ryšiai
 - Užėmė Bajorų pilaitę: [[objektai/asmenys/Šindekopfas]]

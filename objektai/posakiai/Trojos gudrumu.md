@@ -83,7 +83,6 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28721
-
 - id: c-167732
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

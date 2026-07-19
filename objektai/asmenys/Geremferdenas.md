@@ -76,6 +76,5 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87503
-
 ## Ryšiai
 - Geremferdenas keliavo į [[objektai/vietos/Vilnius]]

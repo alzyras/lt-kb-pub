@@ -55,7 +55,7 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174578
-
+    - c-001
 <a id="claim-t-191923"></a>
 - t-003
   global_id: t-191923
@@ -79,7 +79,7 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174805
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, paremtą Karaliaučiuje sukauptais kryžiuočių dokumentais ir kronikomis.'
@@ -109,8 +109,7 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191696
 - c-003
   santrauka: '1242–1253 m. klajojusi grupė tarp Mazovijos, Prūsijos ir Lietuvos lengvino su vokiečiais kariavusių lietuvių ryšius su Pamariu ir Prūsija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -131,8 +130,7 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191923
 ## Citatos
 
 - id: c-174578
@@ -168,7 +166,6 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191696
-
 - id: c-174805
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -86,7 +86,7 @@ media_all_json: |-
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pataisyta vardo forma pagal note objektą ir suformuotas taisyklingas sakinys. Nepridėta karo ir Krymo chano konteksto.'
   pagrindžia:
-    - c-177389
+    - c-001
 - susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
 - susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
 - susijęs iš Krokuva: Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.
@@ -108,8 +108,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-195009
 ## Citatos
 
 - id: c-177390
@@ -155,7 +154,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195007
-
 - id: c-177391
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -194,7 +192,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195008
-
 - id: c-178822
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -223,7 +220,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196657
-
 ## Ryšiai
 - Šich Achmetas puolė [[objektai/vietos/Severskas]], [[objektai/vietos/Seversko žemė]]
 - Šich Achmetas užėmė [[objektai/vietos/Naugardas]]

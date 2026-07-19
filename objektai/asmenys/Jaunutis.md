@@ -228,7 +228,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176436
-
 - id: c-160448
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -246,7 +245,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176439
-
 - id: c-160449
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -269,7 +267,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176435
-
 - id: c-160450
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -296,7 +293,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176438
-
 - id: c-168078
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -327,7 +323,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   pagrindzia:
     - t-184717
     - t-196481
-
 - id: c-176540
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -349,7 +344,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193915
-
 - id: c-184349
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -370,7 +364,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200999
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Ašmena]], [[objektai/vietos/Ukmergė]]
 - Jaunutis (valdovas, XIV a.) buvo valdovas [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

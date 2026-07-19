@@ -58,7 +58,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Dmitrijų Ivanovičių."
   pagrindžia:
     - c-44318
-
+    - c-167122
 ## Citatos
 
 - id: c-44318
@@ -87,7 +87,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40085
-
 - id: c-167122
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

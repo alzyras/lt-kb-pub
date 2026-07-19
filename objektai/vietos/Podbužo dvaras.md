@@ -84,6 +84,5 @@ Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189046
-
 ## Ryšiai
 - Podbužo dvaras priklausė [[objektai/vietos/Voluinė]]

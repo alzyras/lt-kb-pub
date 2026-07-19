@@ -143,7 +143,6 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
   pagrindzia:
     - t-185396
     - t-196388
-
 - id: c-168758
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

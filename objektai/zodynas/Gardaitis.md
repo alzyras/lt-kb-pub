@@ -49,7 +49,7 @@ Narbutas Gardaitį (Gardoeldius) apibūdina kaip vėjų, audrų ir jūros potvyn
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172110
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Gardaitį (Gardoeldius) apibūdina kaip vėjų, audrų ir jūros potvynių dievą bei jūrinių ar visokių laivų globėją.'
@@ -68,8 +68,7 @@ Narbutas Gardaitį (Gardoeldius) apibūdina kaip vėjų, audrų ir jūros potvyn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189222
 ## Citatos
 
 - id: c-172110

@@ -107,7 +107,6 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191259
-
 - id: c-174142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

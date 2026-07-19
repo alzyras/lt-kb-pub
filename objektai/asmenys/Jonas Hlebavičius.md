@@ -127,7 +127,6 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87394
-
 - id: c-83371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -167,7 +166,6 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87391
-
 - id: c-83372
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

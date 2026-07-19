@@ -55,7 +55,7 @@ Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172375
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu, kuriam Pajauta kaip kraitį atnešė Kernavės kunigaikštystę.'
@@ -79,8 +79,7 @@ Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189487
 ## Citatos
 
 - id: c-172375

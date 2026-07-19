@@ -48,7 +48,7 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174998
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo Naruševičiaus aiškinimą, kad dakai ir getai po romėnų pralaimėjimų pasikvietė gotus, bet pats su juo nesutinka.'
@@ -67,8 +67,7 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192117
 ## Citatos
 
 - id: c-174998

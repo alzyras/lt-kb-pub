@@ -97,7 +97,6 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191269
-
 - id: c-179313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -76,6 +76,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28484
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

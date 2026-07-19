@@ -60,7 +60,7 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174231
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Poškos rinkinyje, paskelbtą „Dziennik Wilenski“ 1823 m.'
@@ -77,8 +77,7 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191349
 ## Citatos
 
 - id: c-174231

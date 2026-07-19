@@ -59,7 +59,7 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175106
-
+    - c-001
 <a id="claim-t-192288"></a>
 - t-002
   global_id: t-192288
@@ -78,7 +78,7 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175107
-
+    - c-002
 <a id="claim-t-192290"></a>
 - t-003
   global_id: t-192290
@@ -97,7 +97,7 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175107
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -115,8 +115,7 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192287
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -135,9 +134,8 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
+    - t-192288
+    - t-192290
 ## Citatos
 
 - id: c-175106
@@ -168,7 +166,6 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192287
-
 - id: c-175107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -49,7 +49,7 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175622
-
+    - c-001
 <a id="claim-t-197925"></a>
 - t-002
   global_id: t-197925
@@ -91,8 +91,7 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192852
 ## Citatos
 
 - id: c-175622
@@ -118,7 +117,6 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192852
-
 - id: c-179402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -140,6 +138,5 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197925
-
 ## Ryšiai
 - Sasava (Salavijos tvirtovė) priklausė [[objektai/vietos/Kulmas]]

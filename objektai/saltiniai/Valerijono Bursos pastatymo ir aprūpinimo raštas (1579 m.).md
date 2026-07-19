@@ -119,7 +119,6 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88138
-
 - id: c-84116
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -149,7 +148,6 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88136
-
 - id: c-84117
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

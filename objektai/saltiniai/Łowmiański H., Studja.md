@@ -55,7 +55,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   semantiniai_rysiai: "Glotava priklausė Pagudė (0.88)"
   pagrindžia:
     - c-61542
-
+    - c-004
 <a id="claim-t-60909"></a>
 - t-002
   global_id: t-60909
@@ -85,7 +85,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai apibūdina, kuriai nuomonei citatoje priskirta Łowmiańskio nuoroda."
   pagrindžia:
     - c-61538
-
+    - c-001
 <a id="claim-t-60912"></a>
 - t-004
   global_id: t-60912
@@ -121,8 +121,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60911
 - c-004
   santrauka: 'Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -139,8 +138,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60905
 ## Citatos
 
 - id: c-61538
@@ -161,7 +159,6 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60911
-
 - id: c-61539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -184,7 +181,6 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60909
-
 - id: c-61541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -201,7 +197,6 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60912
-
 - id: c-61542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

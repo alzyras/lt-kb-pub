@@ -56,7 +56,7 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172205
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“.'
@@ -79,8 +79,7 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189318
 ## Citatos
 
 - id: c-172205

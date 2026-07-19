@@ -72,7 +72,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173894
-
+    - c-001
 <a id="claim-t-191014"></a>
 - t-002
   global_id: t-191014
@@ -118,7 +118,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174751
-
+    - c-004
 <a id="claim-t-197540"></a>
 - t-003
   global_id: t-197540
@@ -167,8 +167,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191012
 - c-004
   santrauka: 'Teodoro Narbuto aiškinimu, hiriai nuo III a. pabaigos beveik iki XII a. vidurio gyveno prie Rosės ir suteikė jai mitinį vardą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -193,8 +192,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-191869
 ## Citatos
 
 - id: c-173894
@@ -226,7 +224,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191012
-
 - id: c-173896
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -249,7 +246,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191014
-
 - id: c-174751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -279,7 +275,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191869
-
 - id: c-179237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -305,7 +300,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197540
-
 - id: c-179238
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -49,7 +49,7 @@ Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172201
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais Mubad-Mubaden ir Destruri-Destur, reiškusiais žynių žynį.'
@@ -70,8 +70,7 @@ Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189314
 ## Citatos
 
 - id: c-172201

@@ -62,7 +62,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173949
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto vertinimu, susijungusi su Lenkija Lietuva atsisakė nepriklausomybės, neteko išorinės gynybos ir tapo niokojančių karų grobiu.'
@@ -87,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191067
 ## Citatos
 
 - id: c-173949

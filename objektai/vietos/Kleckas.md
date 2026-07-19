@@ -137,7 +137,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pašalina religinį ir moralinį vertinimą, bet išlaiko pagrįstą faktą.'
   pagrindžia:
-    - c-177476
+    - c-006
 - susijęs iš Nesvyžius: Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.
 ## Reikšmingi paminėjimai
 - c-006
@@ -160,8 +160,7 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-195088
 ## Citatos
 
 - id: c-177470
@@ -185,7 +184,6 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195089
-
 - id: c-177471
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -216,7 +214,6 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195095
-
 - id: c-177472
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -237,7 +234,6 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195094
-
 - id: c-177473
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -257,7 +253,6 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195092
-
 - id: c-177475
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -279,7 +274,6 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195093
-
 - id: c-177477
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

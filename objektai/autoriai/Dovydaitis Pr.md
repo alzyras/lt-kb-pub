@@ -44,7 +44,7 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87587
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dovydaičio ir Biržiškos darbas cituojamas teiginiui, kad liaudyje buvo žinomos aukos Ragiui ir Ragei.'
@@ -61,8 +61,7 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91946
 ## Citatos
 
 - id: c-87587

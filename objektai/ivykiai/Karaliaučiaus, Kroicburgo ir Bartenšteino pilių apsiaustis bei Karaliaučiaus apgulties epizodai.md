@@ -126,7 +126,7 @@ Nenurodyta
   semantiniai_rysiai: "Sembai puolė Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai (0.72)"
   pagrindžia:
     - c-59814
-
+    - c-006
 <a id="claim-t-59181"></a>
 - t-005
   global_id: t-59181
@@ -143,7 +143,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59811
-
+    - c-003
 <a id="claim-t-59182"></a>
 - t-006
   global_id: t-59182
@@ -201,7 +201,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167312
-
+    - c-007
 <a id="claim-t-196946"></a>
 - t-009
   global_id: t-196946
@@ -245,8 +245,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-59181
 - c-006
   santrauka: 'Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -263,8 +262,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-59180
 - c-007
   santrauka: 'Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -284,8 +282,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-183927
 ## Citatos
 
 - id: c-59809
@@ -315,7 +312,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59179
-
 - id: c-59810
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -339,7 +335,6 @@ Nenurodyta
   pagrindzia:
     - t-59183
     - t-196946
-
 - id: c-59811
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -362,7 +357,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59181
-
 - id: c-59812
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -389,7 +383,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59182
-
 - id: c-59813
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -414,7 +407,6 @@ Nenurodyta
   pagrindzia:
     - t-59178
     - t-196947
-
 - id: c-59814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -438,7 +430,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59180
-
 - id: c-167312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -463,7 +454,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183927
-
 - id: c-167313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

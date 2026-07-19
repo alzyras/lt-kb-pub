@@ -49,6 +49,7 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171927
+    - c-001
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-188601|Palemonas]]: Kronikose Palemonas vaizduotas kaip Lietuvos pajūrio šalies valdovas, su savo žmonėmis atkilęs iš svetimos žemės.
 - susijęs iš [[objektai/autoriai/Kasiodoras.md#claim-t-191565|Kasiodoras]]: Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, minėjo pajūryje gyvenusius estus.
 - susijęs iš [[objektai/asmenys/Kasiodoras.md#claim-t-191288|Kasiodoras]]: Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje gyvenusius estus.
@@ -122,8 +123,7 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189038
 ## Citatos
 
 - id: c-171927
@@ -146,7 +146,6 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189038
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Palemonas]]
 - Gyvenamoji vieta: [[objektai/grupes/Estai]]

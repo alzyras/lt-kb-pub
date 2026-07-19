@@ -260,7 +260,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102093
-
 - id: c-16576
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -286,8 +285,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102087
-    - t-102088
-
+    - t-102094
 - id: c-24553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -308,7 +306,6 @@ Nenurodyta
   pagrindzia:
     - t-102086
     - t-102095
-
 - id: c-25427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -331,7 +328,6 @@ Nenurodyta
   pagrindzia:
     - t-102091
     - t-102092
-
 - id: c-95449
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -349,6 +345,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-102090
-
 ## Ryšiai
 - Vidurinė Lietuva priklausė [[objektai/vietos/Lenkija]]

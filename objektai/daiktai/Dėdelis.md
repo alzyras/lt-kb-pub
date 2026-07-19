@@ -87,7 +87,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195352
-
 - id: c-177761
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

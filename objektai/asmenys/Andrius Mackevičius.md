@@ -49,7 +49,7 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
   semantiniai_rysiai: "Andrius Mackevičius keliavo į Maskva (0.74)"
   pagrindžia:
     - c-169455
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.'
@@ -80,8 +80,7 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186094
 ## Citatos
 
 - id: c-169455

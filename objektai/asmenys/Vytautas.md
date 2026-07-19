@@ -149,10 +149,9 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veiksmą ir rezultatą, paremtą citata."
   pagrindžia:
-    - c-180205
-    - c-180178
     - c-34203
-
+    - c-21390
+    - c-34198
 <a id="claim-t-05220"></a>
 - t-005
   global_id: t-05220
@@ -235,29 +234,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys su aiškia priežastine pasekme."
   pagrindžia:
     - c-11545
-    - c-164
-
-<a id="claim-t-10107"></a>
-- t-013
-  global_id: t-10107
-  teiginys: "1430 m. spalio 27 d. mirė Vytautas Didysis Kęstutaitis, šaltinyje įvardijamas valstybės galybės kūrėju."
-  atnaujinta: "2026-06-10 12:34"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-165
-    - c-160616
-
-<a id="claim-t-10108"></a>
+    - c-160650
 - t-014
   global_id: t-10108
   teiginys: "Po Žalgirio pergalės 1410 m. ir 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko iki gyvos galvos, o Vytautas siekė ją susigrąžinti visam laikui kartu su Klaipėda ir visa Užnemune."
@@ -277,8 +254,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatoje pateiktą faktą."
   pagrindžia:
     - c-160720
-    - c-166
-
+    - c-160747
 <a id="claim-t-10703"></a>
 - t-015
   global_id: t-10703
@@ -463,8 +439,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   ryšio_paaiskinimas: "Teiginio konstrukcija rodo, kad Jonas minimas kaip vienas Vytauto sūnų."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-180107
-
+    - c-180114
+    - c-160695
 <a id="claim-t-176634"></a>
 - t-026
   global_id: t-176634
@@ -1370,8 +1346,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-180113
-
+    - c-34201
+    - c-34200
 <a id="claim-t-176717"></a>
 - t-075
   global_id: t-176717
@@ -1441,7 +1417,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-30359
-
+    - c-167748
 <a id="claim-t-176728"></a>
 - t-079
   global_id: t-176728
@@ -1697,7 +1673,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-160627
-
+    - c-166969
 <a id="claim-t-176750"></a>
 - t-093
   global_id: t-176750
@@ -2909,7 +2885,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180238
-
+    - c-184815
 <a id="claim-t-10107"></a>
 - t-165
   global_id: t-10107
@@ -2928,9 +2904,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-165
     - c-160616
-
+    - c-160610
 <a id="claim-t-198279"></a>
 - t-166
   global_id: t-198279
@@ -2968,9 +2943,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] gynė Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-180069
-    - c-180104
-
+    - c-180124
+    - c-34204
 <a id="claim-t-198295"></a>
 - t-169
   global_id: t-198295
@@ -3016,7 +2990,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180112
-
+    - c-160621
 <a id="claim-t-198304"></a>
 - t-172
   global_id: t-198304
@@ -3034,7 +3008,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180145
-
+    - c-21382
 <a id="claim-t-198322"></a>
 - t-173
   global_id: t-198322
@@ -3057,7 +3031,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180153
-
+    - c-180103
 <a id="claim-t-198324"></a>
 - t-174
   global_id: t-198324
@@ -3353,7 +3327,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180121
-
+    - c-21377
 <a id="claim-t-198379"></a>
 - t-190
   global_id: t-198379
@@ -3365,8 +3339,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-180103
-
+    - c-21379
 <a id="claim-t-198382"></a>
 - t-191
   global_id: t-198382
@@ -3407,7 +3380,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180063
-
+    - c-21380
 <a id="claim-t-198385"></a>
 - t-193
   global_id: t-198385
@@ -3446,8 +3419,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-36591
-
+    - c-184812
 <a id="claim-t-198401"></a>
 - t-195
   global_id: t-198401
@@ -3488,7 +3460,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180201
-
+    - c-36591
 <a id="claim-t-198415"></a>
 - t-197
   global_id: t-198415
@@ -3854,8 +3826,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   teiginys: 'Vytautas aktyviai rūpinosi krikščionybės plėtra ir, šaltinio vertinimu, kaip Lietuvos krikščionintojas turėjo žymių nuopelnų greta Jogailos.'
   susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
-    - c-180196
-
+    - c-34205
 <a id="claim-t-05215"></a>
 - t-009
   global_id: t-05215
@@ -3863,8 +3834,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie pilies reikšmę Vytautui.'
   susije_objektai: 'mentioned_place: Galvės ežero salos pilis; mentioned_place: Nemunas; mentioned_place: Salos; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
-    - c-180117
-
+    - c-34196
 <a id="claim-t-05217"></a>
 - t-011
   global_id: t-05217
@@ -3873,8 +3843,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-180105
-
+    - c-34199
 <a id="claim-t-05218"></a>
 - t-012
   global_id: t-05218
@@ -3885,16 +3854,14 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir atitinka citatoje pateiktą informaciją.'
   pagrindžia:
-    - c-180236
-    - c-180125
-
+    - c-21393
+    - c-34202
 <a id="claim-t-05222"></a>
 - t-016
   global_id: t-05222
   teiginys: 'Vytautui buvo būdingas taupumas, bet jis dosniai švaistydavosi, kai reikėdavo pasirodyti užsieniečiams.'
   pagrindžia:
-    - c-180106
-
+    - c-34207
 <a id="claim-t-176629"></a>
 - t-028
   global_id: t-176629
@@ -3903,8 +3870,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas'
   semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gynė Lietuva'
   pagrindžia:
-    - c-180069
-
+    - c-34204
 <a id="claim-t-176674"></a>
 - t-056
   global_id: t-176674
@@ -3912,8 +3878,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir fragmentiška citatos formuluotė.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Markvardas Salzbaclias|Markvardas Salzbaclias]]'
   pagrindžia:
-    - c-180236
-
+    - c-21393
 <a id="claim-t-176748"></a>
 - t-109
   global_id: t-176748
@@ -3924,8 +3889,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Vytauto veiksmus.'
   pagrindžia:
-    - c-180130
-
+    - c-160732
 <a id="claim-t-198366"></a>
 - t-302
   global_id: t-198366
@@ -3939,8 +3903,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Legendinė Birutės genealogija palikta su Narbuto atribucija. Nepridėtos datos ar vėlesnis Vytauto statusas.'
   pagrindžia:
-    - c-180068
-
+    - c-171536
 <a id="claim-t-198368"></a>
 - t-304
   global_id: t-198368
@@ -3954,1577 +3917,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su Vytauto valdymo kontekstu, o Birutės gyvenimo pabaiga palikta su Narbuto atribucija. Neperimtas vertinimas apie šventumą.'
   pagrindžia:
-    - c-180060
-
-<a id="claim-t-201463"></a>
-- t-388
-  global_id: t-201463
-  teiginys: 'Vytautas savo ka riuomenę pats vedė, o lenkai visai neturėjo vadų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-315
-
-<a id="claim-t-201464"></a>
-- t-389
-  global_id: t-201464
-  teiginys: 'Daugiau Jogaila Lie tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos didikai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-318
-
-<a id="claim-t-201465"></a>
-- t-390
-  global_id: t-201465
-  teiginys: 'Vadinasi, taip stipriai Vytautas buvo užatakavęs šiuos stepių gyventojus, kurie nuo Aukso Ordos įkūrimo laikų (1273) vargi no rusus duoklėmis ir baidė Europą^2 ).'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-118
-
-<a id="claim-t-201466"></a>
-- t-391
-  global_id: t-201466
-  teiginys: 'Šis pavojus ir turėjo būt aptartas suvažia vime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau sio mėn.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-125
-
-<a id="claim-t-201467"></a>
-- t-392
-  global_id: t-201467
-  teiginys: 'Vytautas, atsisveikinęs su svečiais, susirgo^4 ).'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-319
-
-<a id="claim-t-201468"></a>
-- t-393
-  global_id: t-201468
-  teiginys: 'Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą didelėms nelaimėms.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-320
-
-<a id="claim-t-201469"></a>
-- t-394
-  global_id: t-201469
-  teiginys: 'Tai buvo tam tikra žemės valdymo reforma, Vytauto įvykdyta rusiškuose kraštuose, ir praplėtusi jo nuosavų žemių plotą, susiaurėjusi Lietuvoje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-321
-
-<a id="claim-t-201470"></a>
-- t-395
-  global_id: t-201470
-  teiginys: 'Vytauto laikais čekų gra šiai buvo kalami ir Lietuvoje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-322
-
-<a id="claim-t-201471"></a>
-- t-396
-  global_id: t-201471
-  teiginys: 'Nuo pat jaunystės Vytautas mėgo karo dalykus, ginklus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-323
-
-<a id="claim-t-201472"></a>
-- t-397
-  global_id: t-201472
-  teiginys: '1392 metai Vytauto gyvenime yra persilaužimo metai — jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  pagrindžia:
-    - c-324
-
-<a id="claim-t-201473"></a>
-- t-398
-  global_id: t-201473
-  teiginys: 'Vytauto Didžiojo laikais, pirmame XV a. ketvirtyje, galėjo būti pastatyta mūrinė Vilniaus Aukštoji pilis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Neužbaigtas fragmentas išskleistas į aiškų sakinį apie Vytauto laikotarpį ir Aukštosios pilies statybą. Palikta abejonės forma, nes citata kalba apie spėjimą.'
-  pagrindžia:
-    - c-325
-- susijęs iš [[objektai/asmenys/Marija (pirmoji Vytauto žmona).md#claim-t-35217|Marija (pirmoji Vytauto žmona)]]: Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179646|Skirgaila]]: Jogaila po susitaikymo su Vytautu sutaikė jį ir su didžiausiu Vytauto priešu Skirgaila.
-- susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176614|Sofija (Vytauto duktė)]]: Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.
-- susijęs iš [[objektai/daiktai/Malūnas.md#claim-t-35536|Malūnas]]: Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184434|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184442|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.
-- susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176612|Sofija (Vytauto duktė)]]: Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę.
-- susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-35042|Bonifacas IX]]: Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę tarp stačiatikių, patvirtindamas Vladimiro vyskupiją Volynijoje.
-- susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
-- susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176850|Zbignievas Olesnickis]]: Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas karaliaus dvare ir priešinosi nepriklausomai Vytauto politikai.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112511|Domininkonų ordinas]]: Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179668|Skirgaila]]: Jogaila sutaikė Vytautą su Skirgaila, kuris citatoje vadinamas didžiausiu Vytauto priešu.
-- susijęs iš [[objektai/asmenys/Gregorijus (Vladimiro vyskupas).md#claim-t-35082|Gregorijus (Vladimiro vyskupas)]]: Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.
-- susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87229|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.
-- susijęs iš Viazma: Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos.
-- susijęs iš [[objektai/zodynas/indulgencija.md#claim-t-36782|indulgencija]]: Martynas V suteikė indulgencijų Vytautui ir jo patarėjams.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184434|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184442|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112514|Domininkonų ordinas]]: Ordinas skleidė gandus, kad Vytautas su turkais eina prieš katalikus.
-- susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87230|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: 1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.
-- susijęs iš Medingėnai: Medingėnų srities atstovai kartu su kitų Žemaičių sričių kilmingaisiais darė taiką su Vytautu ir Ordinu.
-- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96712|Lietuvos bajorija]]: Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos.
-- susijęs iš [[objektai/grupes/Vytauto šalininkai.md#claim-t-86741|Vytauto šalininkai]]: 1383 m. Vytautas ir jo šalininkai su kryžiuočių kariauna rugsėjo 11 d. apsupo Trakų pilį.
-- susijęs iš [[objektai/asmenys/Marquardas von Salzbachas.md#claim-t-30358|Marquardas von Salzbachas]]: Marquardas von Salzbachas padėjo Vytautui pataikyti į palankų momentą Ordine.
-- susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82653|Saladinas]]: 1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187732|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179003|Kryžiuočių ordinas]]: Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.
-- susijęs iš Knituva: Knituva buvo viena iš septynių Žemaičių aukštumos sričių, kurių 31 atstovas darė taiką su Vytautu ir ordinu.
-- susijęs iš Novosielskas: Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.
-- susijęs iš Novosielsko: Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.
-- susijęs iš Viduklė: Viduklės srities atstovai kartu su kitų šešių Žemaičių aukštumos sričių atstovais darė taiką su Vytautu ir Ordinu.
-- susijęs iš [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės.md#claim-t-86576|Tėvonija paveldas paveldėjimo teisės]]: 1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių žadėjo perleisti paveldėjimo teises kryžiuočiams.
-- susijęs iš [[objektai/zodynas/superarbitras.md#claim-t-36837|superarbitras]]: Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.
-- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188516|Birutė]]: Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo.
-- susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-35042|Bonifacas IX]]: Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę tarp stačiatikių, patvirtindamas Vladimiro vyskupiją Volynijoje.
-- susijęs iš [[objektai/asmenys/Danuta.md#claim-t-35045|Danuta]]: Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose.
-- susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184692|Dimitras Kaributas]]: Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą.
-- susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-50970|Dimitras Kaributas]]: Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.
-- susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30226|Ediga]]: Edigą Vytautas siekė pašalinti iš Aukso Ordos valdžios ir vietoje jo pasodinti Tochtamišą, tačiau žygis baigėsi nesėkmingai.
-- susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30228|Ediga]]: Edigos dalinių laukęs Timuras derybomis siekė laimėti laiko prieš kautynes su Vytauto pajėgomis.
-- susijęs iš [[objektai/asmenys/Edigėjus.md#claim-t-183735|Edigėjus]]: Prieš mūšį Edigėjus padrąsino chaną, vedė derybas su Vytautu ir reikalavo Lietuvos pinigus žymėti Ordos ženklais.
-- susijęs iš [[objektai/asmenys/Edigėjus.md#claim-t-40096|Edigėjus]]: Prieš mūšį Edigėjus padrąsino chaną, vedė derybas su Vytautu ir reikalavo Lietuvos pinigus žymėti Ordos ženklais.
-- susijęs iš [[objektai/asmenys/Elžbieta Granauskaitė.md#claim-t-35056|Elžbieta Granauskaitė]]: Jogaila 1417 m. vedė Elžbietą Granauskaitę be Vytauto ir jo didžiūnų žinios bei valios.
-- susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93198|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Lietuvos stačiatikių vyskupai apskundė Focijų Vytautui, kaltindami jį bažnytinių turtų išvežimu į Maskvą.
-- susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93199|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Focijus savo rezidencija pasirinko Maskvą, nors Vytautas reikalavo, kad jis apsigyventų Kijeve.
-- susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82301|Fotijus]]: Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius siekdamas Lietuvai atskiro metropolito.
-- susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82304|Fotijus]]: Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius ir liepė Lietuvai rinkti atskirą metropolitą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
-- susijęs iš [[objektai/asmenys/Ghillebert de Lannoy.md#claim-t-51016|Ghillebert de Lannoy]]: Ghillebert de Lannoy užsiminė, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba.
-- susijęs iš [[objektai/asmenys/Ghillebert de Lannoy.md#claim-t-51017|Ghillebert de Lannoy]]: Ghillebert de Lannoy minėjo, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184707|Goštautas (vyskupas, XV a.)]]: Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184708|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.
-- susijęs iš [[objektai/asmenys/Gr. Camblakas.md#claim-t-30257|Gr. Camblakas]]: Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kėlė aptariamą klausimą.
-- susijęs iš [[objektai/asmenys/Gregorijus (Vladimiro vyskupas).md#claim-t-35082|Gregorijus (Vladimiro vyskupas)]]: Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.
-- susijęs iš [[objektai/asmenys/Henne.md#claim-t-184259|Henne]]: Henne buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu.
-- susijęs iš [[objektai/asmenys/Henne.md#claim-t-35087|Henne]]: Henne buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.
-- susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-184260|Hennė (Ordino agentas)]]: Hennė buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu.
-- susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-35090|Hennė (Ordino agentas)]]: Hennė buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.
-- susijęs iš [[objektai/asmenys/Ivanas Sidorovičius.md#claim-t-87909|Ivanas Sidorovičius]]: Ivanas Sidorovičius buvo Pskovo bojarinas, atvykęs į Vilnių prašyti Vytauto paleisti belaisvius.
-- susijęs iš [[objektai/asmenys/J. Tiergard’as.md#claim-t-30266|J. Tiergard’as]]: Ordino prokuratorius J. Tiergard’as Romoje informavo vyriausią magistrą apie Vytauto pretenzijas į Klaipėdą.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176429|Jadvyga Jogailienė]]: Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu.
-- susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176407|Jadvyga]]: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.
-- susijęs iš [[objektai/asmenys/Jedigėjus.md#claim-t-87703|Jedigėjus]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Vilnių turtingas dovanas.
-- susijęs iš [[objektai/asmenys/Joachimas Pavlovičius.md#claim-t-87910|Joachimas Pavlovičius]]: Pskovo pasiuntinys Joachimas Pavlovičius 1427 m. atvyko į Vilnių prašyti Vytauto paleisti belaisvius.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183540|Jogaila (kunigaikštis, XIV–XV a.)]]: Žalgirio mūšio rytą Jogaila delsė laukdamas Ordino pasiūlymo derėtis, o Vytautas troško lemiamo mūšio.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184273|Jogaila (kunigaikštis, XIV–XV a.)]]: Lucke Zigmantas pasiūlė Jogailai karūnuoti Vytautą, kuris buvo suvažiavimo šeimininkas.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184275|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila atsakyme Vytautui teisinosi, kad laiškas Zigmantui buvo parašytas be jo žinios.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188542|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas.
-- susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
-- susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82429|Jonas Olesnickis]]: Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.
-- susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82434|Jonas Olesnickis]]: Jonas Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.
-- susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
-- susijęs iš [[objektai/asmenys/Jonas Šafranas.md#claim-t-35160|Jonas Šafranas]]: Kancleris Jonas Šafranas buvo vienas iš karūnos politikos vairininkų, dariusių kliūčių Vytauto siekimams.
-- susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
-- susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97461|Kaributas]]: Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.
-- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54975|Kazimieras Karigaila]]: Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu.
-- susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185949|Kazimieras Skirgaila (Lenkijos karalius)]]: Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo.
-- susijęs iš [[objektai/asmenys/Kerimberdėjus.md#claim-t-87533|Kerimberdėjus]]: Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.
-- susijęs iš [[objektai/asmenys/Konradas Celneris.md#claim-t-185990|Konradas Celneris]]: Konradas Celneris, Kojelavičiaus vadinamas ordino magistru, visokeriopai parėmė pas kryžiuočius perėjusio Vytauto sumanymus.
-- susijęs iš [[objektai/asmenys/Konstantinas Karigaila.md#claim-t-186131|Konstantinas Karigaila (kunigaikštis)]]: Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176516|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176520|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.
-- susijęs iš [[objektai/asmenys/Lengvenis Algirdaitis.md#claim-t-47959|Lengvenis Algirdaitis]]: Lengvenis kartu su Švitrigaila ir Kaributu lydėjo Vytautą žygyje prieš Smolenską po Raciąžo taikos.
-- susijęs iš [[objektai/asmenys/Lengvenis Algirdaitis.md#claim-t-47960|Lengvenis Algirdaitis]]: Po Raciąžo taikos Lengvenis Algirdaitis buvo tarp pusbrolių, kuriuos Vytautas pasitelkė žygiui prieš Smolenską.
-- susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
-- susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
-- susijęs iš [[objektai/asmenys/Markvardas Salzbaclias.md#claim-t-184375|Markvardas Salzbaclias]]: Derybose Markvardas Salzbaclias įžeidė Vytautą, sakydamas, kad šis jau tris kartus išdavė Ordiną.
-- susijęs iš [[objektai/asmenys/Markvardas Salzbaclias.md#claim-t-28968|Markvardas Salzbaclias]]: Markvardas Salzbaclias per derybas įžeidė Vytautą, sakydamas, kad šis jau tris kartus buvo išdavęs Ordiną.
-- susijęs iš [[objektai/asmenys/Marquardas von Salzbachas.md#claim-t-30358|Marquardas von Salzbachas]]: Marquardas von Salzbachas padėjo Vytautui pataikyti į palankų momentą Ordine.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184434|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184436|Martynas V]]: Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184438|Martynas V]]: Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184442|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184443|Martynas V]]: Martyno V valdymo laikotarpis 1417–1431 m. sutapo su Vytauto įsigalėjimu Lietuvos bažnytiniame gyvenime.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184445|Martynas V]]: Vytautas ir Jogaila siekė iškelti Ordino bylą popiežiui Martynui V, kovodami prieš Breslavo sprendimą.
-- susijęs iš [[objektai/asmenys/Mikalojus Dziežgavičius.md#claim-t-35227|Mikalojus Dziežgavičius]]: Mikalojus Dziežgavičius 1421–1453 m. buvo antrasis Žemaičių vyskupas, paskirtas Vytautui jį rekomendavus.
-- susijęs iš [[objektai/asmenys/Mikalojus Michalovskis.md#claim-t-87918|Mikalojus Michalovskis]]: Sandomiro vaivada Mikalojus Michalovskis, karaliaus ir Lenkijos senato siųstas į Vilnių, grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
-- susijęs iš [[objektai/asmenys/Mikalojus iš Moskožovo.md#claim-t-186150|Mikalojus iš Moskožovo]]: Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais Vytauto puolimo pastangas.
-- susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176557|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.
-- susijęs iš [[objektai/asmenys/Motiejus Stryjkowskis.md#claim-t-200738|Motiejus Stryjkowskis]]: Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo brangakmeniais puoštą tauro ragą.
-- susijęs iš [[objektai/asmenys/Olesnickio.md#claim-t-30367|Olesnickio]]: Olesnickis buvo Dlugošo mokytojas, kurio įtakoje Dlugošas Vytauto vainiko klausimą neteisingai siejo su asmeniniais interesais.
-- susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-184811|Ona (Vytauto žmona)]]: Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
-- susijęs iš [[objektai/asmenys/Radvila.md#claim-t-186171|Radvila]]: Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179641|Skirgaila]]: Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179656|Skirgaila]]: Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o po sutarčių Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179669|Skirgaila]]: Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o sutartimis Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.
-- susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176612|Sofija (Vytauto duktė)]]: Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę.
-- susijęs iš [[objektai/asmenys/St. Ciolką.md#claim-t-34827|St. Ciolką]]: St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.
-- susijęs iš [[objektai/asmenys/Sudimantas.md#claim-t-87583|Sudimantas]]: Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių.
-- susijęs iš [[objektai/asmenys/Teodoras (Karijoto sūnus).md#claim-t-35291|Teodoras (Karijoto sūnus)]]: Karijoto sūnus Teodoras buvo nepaklusnus Podolijos kunigaikštis, kurį Vytautas suvaldė Jogailos pritarimu.
-- susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-183762|Timūr-Kutlukas]]: Aukso ordos chanas Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.
-- susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-40467|Timūr-Kutlukas]]: Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.
-- susijęs iš [[objektai/asmenys/Vaitiekus Jastrzembiec.md#claim-t-184289|Vaitiekus Jastrzembiec]]: Poznaniaus vyskupas ir Lenkijos kancleris Vaitiekus Jastrzembiec buvo atsidavęs Vytauto reikalams.
-- susijęs iš [[objektai/asmenys/Vaitiekus Jastrzembiec.md#claim-t-35309|Vaitiekus Jastrzembiec]]: Vaitiekus Jastrzembiec buvo Poznaniaus vyskupas ir Lenkijos kancleris, aiškiai atsidavęs Vytauto reikalams.
-- susijęs iš [[objektai/asmenys/Vladislovas Oporovskis.md#claim-t-35322|Vladislovas Oporovskis]]: Vladislovas Oporovskis, pakeltas pakancleriu, kliudė Vytauto siekimams karūnos politikoje.
-- susijęs iš [[objektai/asmenys/Vosylius I.md#claim-t-64265|Vosylius I]]: Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą.
-- susijęs iš [[objektai/asmenys/Vosylius I.md#claim-t-64266|Vosylius I]]: Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos.
-- susijęs iš [[objektai/asmenys/Vosylius II.md#claim-t-35335|Vosylius II]]: Vosylius II, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais.
-- susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51190|Vosylius]]: Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais.
-- susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51191|Vosylius]]: Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su Lietuvos vasalais.
-- susijęs iš [[objektai/asmenys/Vygandas von Baldersheimas.md#claim-t-35339|Vygandas von Baldersheimas]]: Ragainės komtūras Vygandas von Baldersheimas buvo Vytauto krikštatėvis, todėl Vytautas apsikrikštijo Vygando vardu.
-- susijęs iš [[objektai/asmenys/Zbignevas Olesnickis.md#claim-t-87889|Zbignevas Olesnickis (vyskupas)]]: Karaliaus ir Lenkijos senato pasiųstas Zbignevas Olesnickis Vilniuje grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
-- susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176850|Zbignievas Olesnickis]]: Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas karaliaus dvare ir priešinosi nepriklausomai Vytauto politikai.
-- susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176862|Zbignievas Olesnickis]]: Zbignievas Olesnickis buvo karūnos pasiuntinys, su kuriuo Vytautas pasiuntė savo sekretorių Mikalojų Cebulką pas Zigmantą.
-- susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176864|Zbignievas Olesnickis]]: Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.
-- susijęs iš [[objektai/asmenys/Zenonas.md#claim-t-35392|Zenonas]]: Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet neįstengė.
-- susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-200710|Zigmantas (Romos imperatorius)]]: Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo imperatorius Zigmantas iš Vytauto gavo brangakmeniais puoštą tauro ragą.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176871|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis Kėzmarke pasiūlė Vytautui karaliaus karūną ir visišką nepriklausomybę nuo Jogailos bei Lenkijos.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-184297|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų.
-- susijęs iš [[objektai/asmenys/Zofija Algimantaitė.md#claim-t-34776|Zofija Algimantaitė]]: Zofija Algimantaitė buvo išauklėta Vytauto dvare ir laikyta jo giminaite.
-- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172867|J. Dlugošas]]: J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.
-- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172878|J. Dlugošas]]: J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais.
-- susijęs iš [[objektai/autoriai/Johannes Voigt Foigtas.md#claim-t-87937|Johannes Voigt Foigtas]]: Foigtas Marienburgo istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.
-- susijęs iš [[objektai/autoriai/K. Lohmeyer.md#claim-t-64680|Karl Lohmeyer (istorikas)]]: Karl Lohmeyer Brockhauzo enciklopedijos straipsnyje „Litauen“ Vytautą vadino vienu žymiausių vyrų pasaulio istorijoje.
-- susijęs iš [[objektai/autoriai/K. Lohmeyer.md#claim-t-64681|Karl Lohmeyer (istorikas)]]: Karl Lohmeyer Brockhauzo enciklopedijos straipsnyje „Litauen“ Vytautą vadino vienu žymiausių vyrų pasaulio istorijoje.
-- susijęs iš [[objektai/autoriai/Kliausis, lg.md#claim-t-30758|Kliausis, lg]]: Ig. Kliausis 1929 m. Grace parengė disertaciją „Die Kirchenpolitik in Litauen unter Jogaila und Vytautas (1377-1421)“.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172930|M. Strijkovskis Stryjkowski]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172907|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
-- susijęs iš [[objektai/autoriai/O. Halecki.md#claim-t-179561|O. Halecki]]: O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.
-- susijęs iš [[objektai/autoriai/Pranciškus de Comitibus.md#claim-t-35472|Pranciškus de Comitibus]]: Pranciškus de Comitibus užrašė, kad Vytauto bijojo ir jį gerbė totorių ciesorius, vyriausiasis chanas.
-- susijęs iš [[objektai/autoriai/lg. Kliausis.md#claim-t-31093|lg. Kliausis]]: Ig. Kliausis 1929 m. Grace parengė disertaciją apie bažnyčios politiką Lietuvoje Jogailos ir Vytauto laikais.
-- susijęs iš [[objektai/autoriai/Čapaitė Rūta.md#claim-t-200747|Čapaitė Rūta]]: Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikščio Vytauto kasdienybę pagal to meto korespondenciją.
-- susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64922|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias angas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.
-- susijęs iš [[objektai/daiktai/Vytauto ženklas.md#claim-t-182858|Vytauto ženklas]]: Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą.
-- susijęs iš [[objektai/daiktai/Vytauto ženklas.md#claim-t-183690|Vytauto ženklas]]: Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu.
-- susijęs iš [[objektai/daiktai/Vytauto ženklas.md#claim-t-183691|Vytauto ženklas]]: Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-12343|Vėliavos]]: Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176214|Vėliavos]]: Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą.
-- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172075|Anglai]]: Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila.
-- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05239|Auksinė Orda]]: Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje.
-- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05240|Auksinė Orda]]: Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187732|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187733|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai kasmet mokėjo Vytautui 10 000 auksinų, 40 sunkiųjų žirgų ir kailių duoklę.
-- susijęs iš [[objektai/grupes/Didžlenkiai.md#claim-t-34343|Didžlenkiai]]: Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112511|Domininkonų ordinas]]: Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112514|Domininkonų ordinas]]: Ordinas skleidė gandus, kad Vytautas su turkais eina prieš katalikus.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-12362|Gediminaičių dinastija]]: Dauguma Gediminaičių Vytautui valdymo pradžioje pasirodė nepaklusnūs.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96101|Gediminaičių dinastija]]: Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96108|Gediminaičių dinastija]]: Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116694|Hanza]]: Rygiečiai Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175537|Kalavijuočių ordinas]]: Kalavijuočiai iš šiaurės Vytauto jaunystėje buvo vienas iš dviejų galingų priešų, smarkiai puldavusių Lietuvą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178801|Kryžiuočių ordinas]]: Vytautas atnaujino ryšius su Prūsija ir kryžiuočiams pažadėjo padėti atstatyti sudegintas jų pilis prie Kauno.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178979|Kryžiuočių ordinas]]: Vokiečių ordinas darė didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbiausi keliai į Vakarų Europą ir Dancigą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178987|Kryžiuočių ordinas]]: Zigmantas ir kryžiuočiai buvo kaltinami siūlę Vytautui karūną, siekdami supriešinti Lietuvą ir Lenkiją.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178988|Kryžiuočių ordinas]]: Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179038|Kryžiuočių ordinas]]: 1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo atstovus derėtis su kryžiuočiais žemaičių vardu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179062|Kryžiuočių ordinas]]: Paaštrėjus santykiams su Kryžiuočių ordinu, Vytautas parėmė žemaičius, o šie išvarė kryžiuočius iš savo krašto.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179075|Kryžiuočių ordinas]]: Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179171|Lenkai]]: Lenkija stebėjo Vytauto užmojus ir stengėsi jiems kliudyti, todėl kilo konfliktas su Lenkija.
-- susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-86758|Lenkijos senatas]]: Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos.
-- susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-86759|Lenkijos senatas]]: Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50697|Lietuvių bajorija]]: Pirmą kartą pabėgęs pas Ordiną Vytautas sulaukė nemažai bajorų iš Lietuvos ir Žemaičių paramos.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179370|Livonijos ordinas]]: Livonijos ordinas atskubėjo į pagalbą kryžiuočiams, o Vytautas turėjo trauktis Vilniaus link.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179421|Livonijos ordinas]]: Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92727|Maskvos kunigaikštija]]: Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92728|Maskvos kunigaikštija]]: Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92730|Maskvos kunigaikštija]]: 1427 m. Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.
-- susijęs iš [[objektai/grupes/Maskvos metropolitai.md#claim-t-86763|Maskvos metropolitai]]: Michał Balińskis Maskvos metropolitų religinę viršenybę Lietuvos rusiškojo tikėjimo vyskupams laikė dideliu Vytauto nepatogumu.
-- susijęs iš [[objektai/grupes/Okos aukštupio kunigaikščiai.md#claim-t-184224|Okos aukštupio kunigaikščiai]]: Okos aukštupio kunigaikščiai buvo tarp rytų jėgų, kurioms Vytautas siekė primesti valdžią arba bent turėti didelę įtaką.
-- susijęs iš [[objektai/grupes/Pamario kunigaikščių sąjunga.md#claim-t-35744|Pamario kunigaikščių sąjunga]]: Jogaila su Pamario kunigaikščių sąjunga rėmė koaliciją, kuri priešinosi Vytautui dėl Smolensko.
-- susijęs iš [[objektai/grupes/Podoliečiai.md#claim-t-35745|Podoliečiai]]: Spyteko iš Melštino vadovaujami podoliečiai dalyvavo Vytauto kariuomenės žygyje kartu su mozūrais.
-- susijęs iš [[objektai/grupes/Pskoviečiai.md#claim-t-187767|Pskoviečiai]]: Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo klausyti, mokėti duoklę ir įsileisti jo vietininką.
-- susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113193|Pskovo respublika]]: Pskovo ir Naugardo respublikose Vytauto įtaka buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.
-- susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113195|Pskovo respublika]]: Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.
-- susijęs iš [[objektai/grupes/Taikos partija.md#claim-t-34367|Taikos partija]]: Taikos partija, atsižvelgdama į didelį totorių kariuomenės skaičių, ragino Vytautą sudaryti paliaubas.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171400|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171430|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187747|Totoriai]]: Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo.
-- susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117308|Vokiečiai]]: Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų.
-- susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182835|Vokiečių ordinas]]: Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos.
-- susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182837|Vokiečių ordinas]]: Vokiečių ordinas turėjo didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą.
-- susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182838|Vokiečių ordinas]]: Vokiečių ordinui draudžiant į Lietuvą įvežti ginklus ir arklius, Vytautas jų gaudavo iš Rygos ir Krokuvos.
-- susijęs iš [[objektai/grupes/Vytauto šalininkai.md#claim-t-86741|Vytauto šalininkai]]: 1383 m. Vytautas ir jo šalininkai su kryžiuočių kariauna rugsėjo 11 d. apsupo Trakų pilį.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176132|Žemaičiai]]: Atgavus Žemaičių žemę, karalius ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176158|Žemaičiai]]: Atgavę Žemaičių žemę, Jogaila ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.
-- susijęs iš [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią.md#claim-t-31397|1387 m. vasaros žygis į Raudonąją Rusią]]: 1387 m. vasarą Vytautas su Lietuvos kunigaikščiais Lenkijai iš vengrų atėmė likusią Raudonosios Rusios dalį.
-- susijęs iš [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai.md#claim-t-35814|1401 m. Vytauto pasižadėjimai Lenkijai]]: 1401 m. Vytautas davė Lenkijai naujų pasižadėjimų, siekdamas paramos kovai su Ordinu dėl žemaičių.
-- susijęs iš [[objektai/ivykiai/Astravos sutartis.md#claim-t-12397|Astravos sutartis]]: Astravos sutartimi Vytautas pažadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais.
-- susijęs iš [[objektai/ivykiai/Astravos sutartis.md#claim-t-176169|Astravos sutartis]]: 1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila.
-- susijęs iš [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu.md#claim-t-26373|Derybos Salyne su Vokiečių ordinu]]: 1413 m. sausio 28 d. Salyne Vytautas atmetė Vokiečių ordino pretenzijas į Žemaitiją istoriniais ir etniniais argumentais.
-- susijęs iš [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.).md#claim-t-184231|Dovydiškių slapta sutartis (1380 m.)]]: Dovydiškių slaptos sutarties sudarymo Vytautas nepastebėjo, nors dalyvavo medžioklėje.
-- susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66523|Dovydiškių sutarties sudarymas]]: Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos.
-- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas).md#claim-t-35831|Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas)]]: 1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas, o Vytautas atnaujino tikėjimo išpažinimą.
-- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas.md#claim-t-66565|Jogailos ir Vytauto susitaikinimas]]: Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.
-- susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185581|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.
-- susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34452|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių antpuolis Volkovysko apygardoje (1410 m. pradžia).md#claim-t-185808|Kryžiuočių antpuolis Volkovysko apygardoje (1410 m. pradžia)]]: 1410 m. kovo pradžioje kryžiuočiai tylomis patraukė prie Lietuvos, o Vytautas vengė ryžtingesnių veiksmų, kad nebūtų apkaltintas taikos griovimu.
-- susijęs iš [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos.md#claim-t-35842|Kėzmarko pasitarimai su Zigmantu dėl karūnos]]: Kėzmarke Zigmantas slapta pasiūlė Vytautui karaliaus karūną, visišką nepriklausomybę nuo Jogailos ir Lenkijos bei pagalbą prieš juos.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas.md#claim-t-185509|Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]: Kojelavičiaus pasakojime Kęstutis, Vytautas ir juos lydėję didikai suprato Jogailos sumanymą, bet pasalose nebegalėjo nieko atitaisyti.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.).md#claim-t-35846|Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]: Prie Trakų Jogaila prašė, kad Vytautas tarpininkautų derybose, siūlydamas atkurti ankstesnę padėtį.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.).md#claim-t-28783|Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]: 1382 m. Kęstutis su Vytautu buvo suimti Jogailos stovykloje, o Kęstutis vėliau rastas miręs Kriavo pilies bokšto rūsyje.
-- susijęs iš [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje.md#claim-t-86916|Kęstučio laidotuvės Vilniuje]]: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas, bet išvengė pražūties.
-- susijęs iš [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.).md#claim-t-184233|Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]: Lenčicoje lietuvių delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepaisydamas Jogailos pritarimo.
-- susijęs iš [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.).md#claim-t-35850|Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]: Lenčicos audiencijoje Lietuvos delegacija Vytauto vardu pareiškė, kad Vytautas priims karūną nepriklausomai nuo Jogailos pritarimo.
-- susijęs iš [[objektai/ivykiai/Lietuvos krikštas (1387 m.).md#claim-t-186370|Lietuvos krikštas (1387 m.)]]: Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis.
-- susijęs iš [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.).md#claim-t-34547|Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]: 1422 m. lapkritį popiežius Martynas V įsakė Vytautui per du mėnesius atšaukti Kaributą, grasindamas ekskomunika.
-- susijęs iš [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas.md#claim-t-186602|Naugardo pasidavimas Vytautui ir duoklės nustatymas]]: Lietuvos metraštis pasakoja, kad naugardiečiai pasižadėjo tarnauti Vytautui, duoti duoklę ir laikyti jį savo valdovu.
-- susijęs iš [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas.md#claim-t-186603|Naugardo pasidavimas Vytautui ir duoklės nustatymas]]: Lietuvos metraštis nurodo, kad Naugardas Vytauto iždui kasmet mokėjo dešimt tūkstančių auksinų, žirgus ir kailius, o Pskovas davė pusę tiek.
-- susijęs iš [[objektai/ivykiai/Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.).md#claim-t-185631|Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)]]: Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę.
-- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
-- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186599|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad Vytautas pasodino Pskove vietininku Pinsko kunigaikštį Jurijų, pramintą Nosimi.
-- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186600|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką.
-- susijęs iš [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.).md#claim-t-100056|Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]: 1404 m. Raciąže Vytautas pažadėjo Ordinui pildyti Salyno taikos sąlygas, kad galėtų vėl veikti rytuose.
-- susijęs iš [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.).md#claim-t-66863|Rūdavos mūšis (1370 m. vasario 17 d.)]]: Rūdavos mūšyje dalyvavęs jaunas Vytautas dar neturėjo vadovaujamos reikšmės ir buvo Kęstučio pratinamas prie karo.
-- susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-12412|Salyno sutartis]]: Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.
-- susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66870|Salyno sutartis]]: Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos.
-- susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66871|Salyno sutartis]]: 1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
-- susijęs iš [[objektai/ivykiai/Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis.md#claim-t-185642|Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis]]: Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos paskelbimo karalyste.
-- susijęs iš [[objektai/ivykiai/Smolensko atgavimas Vytautui.md#claim-t-186592|Smolensko atgavimas Vytautui]]: Lietuvos metraštis pasakoja, kad Vytautas susijungė su Jogaila ir tą patį rudenį su kariuomenėmis atvyko į Smolenską.
-- susijęs iš [[objektai/ivykiai/Smolensko atgavimas Vytautui.md#claim-t-186593|Smolensko atgavimas Vytautui]]: Lietuvos metraštis pasakoja, kad Vytautas išvijo Jurijų Svetoslavovičių ir Riazanės kunigaikštį Olegą iš Smolensko.
-- susijęs iš [[objektai/ivykiai/Smolensko atgavimas Vytautui.md#claim-t-186594|Smolensko atgavimas Vytautui]]: Lietuvos metraštis pasakoja, kad Vytautas atgavo Smolensko miestą ir visą žemę, sutvirtino Smolensko žmones ir grįžo į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.).md#claim-t-34497|Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]: 1395 m. rugsėjo 28 d. lietuviai įėjo į Smolenską po to, kai Vytautas suėmė Hlebą ir išsiuntė jį į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu.md#claim-t-185644|Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu]]: Karalius ir Vytautas susitarė, kad Severesko kunigaikštystėje Lietuvos didžiojo kunigaikščio vietininku bus Teodoras Sanguška.
-- susijęs iš [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.).md#claim-t-86963|Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]: 1401 m. Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė, kad po Vytauto mirties Lietuva grįš Jogailai ir Lenkijai.
-- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35897|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: Manydamas, kad Jogailos pajėgos Vilniuje silpnos, Vytautas atvyko su Trakų įgula ir bandė atsiimti Vilnių.
-- susijęs iš [[objektai/ivykiai/Vorsklos katastrofa.md#claim-t-35904|Vorsklos katastrofa]]: Vorsklos katastrofoje žuvo Vytauto kariuomenė, o jo valstybę užplūdę totoriai pasiekė net Kijevą.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63377|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.
-- susijęs iš [[objektai/ivykiai/Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją.md#claim-t-185664|Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją]]: Vytautas prie Trakų telkė niokotojų pulkus, ketindamas vėliau su visomis jėgomis traukti į Vilnių.
-- susijęs iš [[objektai/ivykiai/Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją.md#claim-t-185665|Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją]]: Žygiuodamas iš Trakų prie Vilniaus Vytautas, pasak Kojelavičiaus, vengė pulti miesto įtvirtinimus, nes laikė juos sunkiai pralaužiamais.
-- susijęs iš [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas.md#claim-t-45457|Vytauto dalinių kunigaikštijų sistemos naikinimas]]: Vytauto politikoje svarbiausia socialinė permaina buvo žemvaldžių riterių sluoksnio kūrimas.
-- susijęs iš [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas.md#claim-t-45458|Vytauto dalinių kunigaikštijų sistemos naikinimas]]: Vytauto politikoje svarbiausia socialinė permaina buvo žemvaldžių riterių sluoksnio kūrimas.
-- susijęs iš [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas.md#claim-t-45459|Vytauto dalinių kunigaikštijų sistemos naikinimas]]: Vytautas panaikino senovinę dalinių kunigaikštijų sistemą, į kunigaikštijas paskyrė vietininkus ir suėmė realią valdžią LDK į savo rankas.
-- susijęs iš [[objektai/ivykiai/Vytauto derybos su kryžiuočiais.md#claim-t-95974|Vytauto derybos su kryžiuočiais]]: 1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Vosyliaus susivažiavimai Smolenske ir Kolomnoje (1396 m.).md#claim-t-95964|Vytauto ir Vosyliaus susivažiavimai Smolenske ir Kolomnoje (1396 m.)]]: Pirmasis Vytauto ir Vosyliaus susivažiavimas 1396 m. pavasarį įvyko Smolenske.
-- susijęs iš [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis).md#claim-t-95965|Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]: Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.
-- susijęs iš [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją.md#claim-t-185542|Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]: Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko.
-- susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.).md#claim-t-66987|Vytauto karūnacijos byla (1429–1430 m.)]]: Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai.
-- susijęs iš [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.).md#claim-t-66992|Vytauto mirtis (1430 m. spalio 27 d.)]]: 1430 m. spalio 17 d. iš Vilniaus į Trakus išjojęs Vytautas pakeliui nukrito nuo arklio ir nuo patalo nebepakilo.
-- susijęs iš [[objektai/ivykiai/Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.).md#claim-t-185658|Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.)]]: Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais.
-- susijęs iš [[objektai/ivykiai/Vytauto mėginimas klasta užgrobti Vilnių ir antras perėjimas pas kryžiuočius (1389 m.).md#claim-t-185659|Vytauto mėginimas klasta užgrobti Vilnių ir antras perėjimas pas kryžiuočius (1389 m.)]]: Vytautas pirmiausia nutarė klasta užgrobti Vilnių, pasinaudodamas gandais apie Henriko ir Ringailės santuoką.
-- susijęs iš [[objektai/ivykiai/Vytauto pabėgimas į Prūsų ordiną.md#claim-t-186677|Vytauto pabėgimas į Prūsų ordiną]]: Lietuvos metraštis pasakoja, kad po Kęstučio ir Vytauto motinos nužudymo Vytautas pabėgo iš nelaisvės pas Prūsų Ordino didįjį magistrą.
-- susijęs iš [[objektai/ivykiai/Vytauto pabėgimas į Prūsų ordiną.md#claim-t-186679|Vytauto pabėgimas į Prūsų ordiną]]: Lietuvos metraštis pasakoja, kad pas Prūsų Ordiną Vytautas priėmė krikščionių tikėjimą ir prisiekė paklusnumą popiežiui.
-- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185660|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą.
-- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185662|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.
-- susijęs iš [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga).md#claim-t-184236|Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]: Vytautas kurį laiką išbuvo Ordino sostinėje Marienburge.
-- susijęs iš [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga).md#claim-t-92948|Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]: Marienburge Vytautas pradėjo veikti, per pasiuntinius bandydamas patraukti žemaičius į savo pusę.
-- susijęs iš [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga).md#claim-t-92949|Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]: 1382 m. pabaigoje Vytautas, tarpininkaujant maršalkai Konradui Vallenrodui, persikėlė pas Ordiną.
-- susijęs iš [[objektai/ivykiai/Vytauto pralaimėjimas netoli Vilniaus (1382 m.).md#claim-t-86967|Vytauto pralaimėjimas netoli Vilniaus (1382 m.)]]: Vytautas, pralaimėjęs mūšį netoli Vilniaus ir netekęs tūkstančio žmonių, turėjo slėptis Trakų pilyje.
-- susijęs iš [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę.md#claim-t-186577|Vytauto siųstas žygis į Riazanę]]: Lietuvos metraštis pasakoja, kad Vytautas pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis prieš Riazanės kunigaikštį Olegą.
-- susijęs iš [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę.md#claim-t-186578|Vytauto siųstas žygis į Riazanę]]: Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis.
-- susijęs iš [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.).md#claim-t-34564|Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]: 1401 m. Vytautas apskundė Ordiną imperijos kunigaikščiams, kad šis Žemaitijos suvereno padėtį išnaudoja Lietuvos ir krikščionybės nenaudai.
-- susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01875|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.
-- susijęs iš [[objektai/ivykiai/Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.).md#claim-t-185663|Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.)]]: Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę.
-- susijęs iš [[objektai/ivykiai/Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.).md#claim-t-86970|Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)]]: 1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių turėjo perleisti paveldėjimo teises kryžiuočiams.
-- susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31498|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.
-- susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31501|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.
-- susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31502|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: Po 1397 m. žygio Vytautas pusę atsivežtų totorių belaisvių ir pabėgėlių atidavė Jogailai, o kitus įkurdino Trakų kunigaikštijoje.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas.md#claim-t-185666|Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]: Vytautas greitai užėmė Oršą, patraukė į Drucką ir privertė Drucko kunigaikščius prisiekti ištikimybę jam bei jo įpėdiniams.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.).md#claim-t-185789|Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)]]: 1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35919|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35920|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.).md#claim-t-185668|Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]: Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.).md#claim-t-185669|Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]: Vytautas įsakė kavalerijos vadams rasti neužkirstas properšas miškuose ir pelkėse bei siaubti Vasilijaus valdas.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai.md#claim-t-77912|Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai]]: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir šiam tikslui pakako pademonstruoti jėgą.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Medininkus (1392 m. gegužės 20 d.).md#claim-t-34568|Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)]]: Apie gegužės 20 d. Vytautas įsiveržė į Vilniaus srities Medininkus ir po aštuonių dienų grįžo su dideliu grobiu.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara).md#claim-t-34519|Vytauto žygis į Naugardą (1428 m. vasara)]]: 1428 m. vasarą Vytautas surengė didelį žygį į Naugardą, sutelkęs daug kunigaikščių ir kariuomenės iš Lenkijos bei Rusijos.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara).md#claim-t-34520|Vytauto žygis į Naugardą (1428 m. vasara)]]: Naugardas pripažino Vytauto suverenitetą ir mokėjo jam duoklę.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.).md#claim-t-66999|Vytauto žygis į Ordino žemes (1377 m.)]]: Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.).md#claim-t-34521|Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]: 1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą, bet miesto paimti nepavyko.
-- susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185677|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė.
-- susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92951|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą į Pragą savo vietininku.
-- susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92953|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir vėliau šio sumanymo atsisakė.
-- susijęs iš [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.).md#claim-t-185795|Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]: Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
-- susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186612|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad vokiečiai priminė Vytautui turint grąžinti tris šimtus auksinų už užstatytą Žemaitiją.
-- susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186613|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad Vytautas priėmė žemaičius savo globon po jų pasiuntinių prašymo valdyti Žemaičius.
-- susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186615|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad Vytautas surinko ir nusiuntė vokiečiams visą auksinų sumą, o šie po to Žemaitijos nebepuolė.
-- susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186616|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad po pergalės žemaičiai siuntė pasiuntinius pas Vytautą ir prašė jį valdyti Žemaičius jų nebeužstatinėjant.
-- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1418 m.md#claim-t-50814|Žemaičių sukilimas 1418 m (sukilimas)]]: Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus.
-- susijęs iš [[objektai/paprociai/Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams.md#claim-t-185872|Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams]]: Drucko kunigaikščiai po sutriuškinimo pažadėjo ir prisiekė ištikimybę Vytautui bei jo įpėdiniams.
-- susijęs iš [[objektai/paprociai/Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei.md#claim-t-185918|Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei]]: Kameneco pilies apsuptieji išsiuntė žygūnus tartis dėl pilies perdavimo sąlygų ir pasidavė Vytauto malonei.
-- susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87210|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų.
-- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87211|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.
-- susijęs iš [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą.md#claim-t-87217|Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]: 1397 m. Vladislovas Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui 200 markių metines pajamas už krikščioniškojo mokymo skleidimą Lietuvoje.
-- susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-55158|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, 1429 m. Lucko suvažiavime Vytautas vieną auksu aptaisytą tauro ragą įteikė Zigmantui kaip didžią dovaną.
-- susijęs iš [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas.md#claim-t-35956|Vytauto bažnyčių statymas ir vienuolynų steigimas]]: Vytautas per savo valdymą pastatė apie 35 bažnyčias įvairiose Lietuvos valstybės vietose.
-- susijęs iš [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas.md#claim-t-35958|Vytauto bažnyčių statymas ir vienuolynų steigimas]]: Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai apdovanojo žemėmis, javais ir pinigais.
-- susijęs iš [[objektai/paprociai/Vytauto donacijos Medininkų vyskupijai ir bažnyčioms.md#claim-t-28928|Vytauto donacijos Medininkų vyskupijai ir bažnyčioms]]: Vytautas skyrė žemių Medininkų vyskupui ir parapijų bažnyčioms.
-- susijęs iš [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos.md#claim-t-184349|Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]: Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429).
-- susijęs iš [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos.md#claim-t-28929|Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]: Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429).
-- susijęs iš [[objektai/paprociai/Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika.md#claim-t-77954|Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika]]: Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais vadinama imperija.
-- susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87237|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.
-- susijęs iš [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika.md#claim-t-77955|Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]: Vytauto politika buvo orientuota į bažnytinę Lietuvos konversiją ir „švento valdovo“ įvaizdį.
-- susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67242|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus.
-- susijęs iš [[objektai/paprociai/Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje.md#claim-t-54373|Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje]]: Vytautas pradėjo Mergelės Marijos garbinimo tradiciją Lietuvoje, siekdamas įtraukti Lietuvą į Europos katalikiškųjų šalių gretas.
-- susijęs iš [[objektai/paprociai/Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje.md#claim-t-54374|Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje]]: Vytautas laikomas Švč. Mergelės Marijos garbinimo tradicijos Lietuvoje pradininku.
-- susijęs iš [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas ir jo tėvynė.md#claim-t-35968|Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas ir jo tėvynė]]: Vienas kronikininkas Vytautą ir jo tėvynę apibūdino kaip gyvenusius didelėje garbėje ir šlovėje.
-- susijęs iš [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas.md#claim-t-67266|Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]: Mechovita Vytautą vadina kunigaikščiu kilnios širdies ir garsios garbės.
-- susijęs iš [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas.md#claim-t-67267|Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]: Vienas kronikininkas Vytautą ir jo tėvynę apibūdina didele garbe ir šlove.
-- susijęs iš [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas.md#claim-t-67268|Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]: Herberšteinas Vytautą įvardija vyru, už kurį didesnio Lietuva neturėjo.
-- susijęs iš [[objektai/posakiai/Ne ko nors klausyti, bet valdyti jis buvo gimęs.md#claim-t-11652|Ne ko nors klausyti, bet valdyti jis buvo gimęs.]]: Žodžiais „Ne ko nors klausyti, bet valdyti jis buvo gimęs“ Vytautas apibūdintas kaip valdovas, netrukus ėmęs savarankišką politiką.
-- susijęs iš [[objektai/posakiai/Vakkis Ahridlis.md#claim-t-184364|Vakkis Ahridlis]]: Anot Dlugošo, žemaičiai sakė „Vakkis Ahridlis“, maldaudami Vytautą neatiduoti jų kryžiuočiams ir neatplėšti nuo lietuvių.
-- susijęs iš [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto.md#claim-t-31553|Vytautas bijojo, kad bus numestas nuo sosto]]: Kronikininkas teigė, kad Vytautas bijojo būti nuverstas nuo sosto, jei Jogaila paimtų visą Prūsiją.
-- susijęs iš [[objektai/posakiai/Vytauto politika lyg koks didelis tinklas jis jo akis tai suveda, tai paleidžia, tai naujai sumezga.md#claim-t-176273|Vytauto politika lyg koks didelis tinklas jis jo akis tai suveda, tai paleidžia, tai naujai sumezga]]: Vytauto politika lyginama su dideliu tinklu, kurio akis jis suveda, paleidžia ir naujai sumezga.
-- susijęs iš [[objektai/posakiai/du priešai, šaltis ir totoriai.md#claim-t-11660|du priešai, šaltis ir totoriai]]: Posakis „du priešai: šaltis ir totoriai“ pateikiamas kaip Vytauto atsakymo dalis, kai saviškiai prie Dniepro ragino jį dėl šalčių mesti kovą su totoriais.
-- susijęs iš [[objektai/posakiai/in odium Sigismundi.md#claim-t-34391|in odium Sigismundi]]: Formulė „in odium Sigismundi“ aiškino Vytauto pagalbą husitams pykčiu Zigmantui, pripažinusiam Ordinui Žemaičius.
-- susijęs iš [[objektai/posakiai/juo didesnis žmogus, juo didesnes ir klaidas gali padaryti.md#claim-t-36005|juo didesnis žmogus, juo didesnes ir klaidas gali padaryti]]: Posakiu „juo didesnis žmogus, juo didesnes ir klaidas gali padaryti“ aiškinta, kad Vytautas savo politikoje nebuvo laisvas nuo klaidų.
-- susijęs iš [[objektai/posakiai/prieš vėją nepapūs.md#claim-t-36017|prieš vėją nepapūs]]: Lenkai nedrįso priešintis Vytautui, nes suprato, kad prieš vėją nepapūs, o Vytautas buvo per galingas.
-- susijęs iš [[objektai/posakiai/savo „karaliaus Vytauto”.md#claim-t-93131|savo „karaliaus Vytauto”]]: Kryžiuočių akyse Vytauto prestižas turėjo pakilti, nes jiems Vytautas buvo ne tik pabėgėlis, bet ir Žemaičių karalius.
-- susijęs iš [[objektai/posakiai/wieszczym duchem.md#claim-t-34415|wieszczym duchem]]: Jadvyga, pasak Prochaskos, savo „wieszczym duchem“ pranašavo ambicingo Vytauto didelių užsimojimų galą.
-- susijęs iš [[objektai/posakiai/„Vytautas negali sustoti, pasakyti — gana galybės.“.md#claim-t-54388|„Vytautas negali sustoti, pasakyti — gana galybės.“]]: Vytauto turima valdžia stūmė jį tolyn ir vertė vis didinti savo galybę.
-- susijęs iš 1384 m. Vytauto sutartis su Ordinu: 1384 m. sutartyje Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių žadėjo teises perleisti kryžiuočiams.
-- susijęs iš 1401 m. Vilniaus aktas dėl Lietuvos grįžimo Jogailos valdžion: 1401 m. aktu Vytautas laidavo, kad po jo mirties Lietuva ir Rusia pereis Jogailos valdžion ir bus prijungta prie Lenkijos.
-- susijęs iš 1408 m. Vytauto privilegija Kaunui: 1408 m. Vytautas po Kauno gaisro patvirtino pirmtako miestui suteiktas laisves.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje Vytauto žygiai ir Vorsklos kautynės apibendrinti kaip trys lietuvių karai su totoriais.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje nurodyta, kad per tuos mūšius žuvo 300 000 totorių, o Vytautas prarado 100 000 karių.
-- susijęs iš Długoszo istorijos veikalas: Długoszo istorijos veikale aprašytas Zigmanto raginimas Jogailai sutikti, kad Vytautas būtų paskirtas nauju karaliumi.
-- susijęs iš Jadvygos laiškas Vytautui (1398 m.): Vytautas paskelbė Jadvygos laišką lietuvių ir rusų bajorams, o šie griežtai atmetė jame iškeltus reikalavimus.
-- susijęs iš Jogailos ir Vytauto įgaliojimas deryboms su kryžiuočiais žemaičių vardu: 1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo Gniezno arkivyskupą ir Lenčicos arkidiakoną derėtis su kryžiuočiais žemaičių vardu.
-- susijęs iš Johannes Voigt, Geschichte Marienburgs: Johannesas Voigtas rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.
-- susijęs iš Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.
-- susijęs iš Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): Racionžo sutartyje Vytautas turėjo užleisti kryžiuočiams Žemaitiją, Jogaila sumokėti 40 tūkst. florinų, o kryžiuočiai atiduoti lenkams Dobrynę.
-- susijęs iš Knyga apie vyrus, garsius savo gyvenimu: Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ išaukštino Vytautą ir jo tėvynę.
-- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių.
-- susijęs iš Popiežiaus laiškai dėl Vytauto karūnacijos: Vytautas perspėtas nenutraukti unijos ir nieko nedaryti nepasitarus su popiežiumi.
-- susijęs iš Pr. de Comitibus Aquae Vivae laiškas: Pr. de Comitibus Aquae Vivae laiškas gyrė Vytautą ir atkalbinėjo jį nuo sumanymo karūnuotis.
-- susijęs iš Specimen Ecclesiae Ruthenicae: Specimen Ecclesiae Ruthenicae pateikė daugiau žinių apie Vytauto ryšių nutraukimą su Maskvos metropolitu Fotijumi.
-- susijęs iš StVW: Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai.
-- susijęs iš Vytauto 1398 m. laiškas Prūsijos ordinui dėl pagalbos statant pilis: 1398 m. laiške Vytautas žadėjo Prūsijos ordinui pagalbą statant dvi pilis.
-- susijęs iš Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve: Vytauto byloje su Jogaila aiškinta, kad Jogaila slapta sudarė taiką su Prūsija ir Livonija.
-- susijęs iš Vytauto dovanojimo aktas Trakų miestui (1384 m.): 1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudija, kad tuo metu Vytautas jau buvo krikščionis.
-- susijęs iš Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos: 1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.
-- susijęs iš Vytauto laiškai popiežiui Martynui V: Vėlesniame laiške popiežiui Martynui V Vytautas teigė nenutraukiantis ryšių su Bažnyčia ir prašė sustabdyti kryžiaus karus.
-- susijęs iš Vytauto laiškai popiežiui Martynui V: Vytautas laiške popiežiui Martynui V teigė, kad Kaributo siuntimas yra kelias husitams grąžinti į katalikų Bažnyčią.
-- susijęs iš Vytauto laiškai į Romą dėl husitų: Vytautas į Romą pasiuntė laiškus, kuriuose pasižadėjo visa savo galybe pulti husitus.
-- susijęs iš Vytauto privilegija Trakams (1384 m.): 1384 m. Vytauto privilegija Trakams liudija, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.
-- susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.
-- susijęs iš Vytauto raštas imperatoriui Zigmantui: Vytauto rašte imperatoriui Zigmantui nurodomas 1420 m. Vroclave priimto Zigmanto sprendimo neteisingumas.
-- susijęs iš Vytauto raštas čekams husitams: Vytautas rašte čekams husitams teigė nerėmęs jų mokslo ir siūlė tarpininkauti tarp jų ir Zigmanto, jeigu jie atsisakytų erezijos.
-- susijęs iš Witold Wielki Książe Litewski: Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti per Vakarų Europos kultūrą.
-- susijęs iš Astravos dvaras: 1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.
-- susijęs iš Astravos dvaras: 1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.
-- susijęs iš Daugai: Dauguose Vytautas ir Jogaila sužinojo imperatoriaus sprendimą, kuris juos suerzino, nes kryžiuočiams pripažino daugiau, nei šie prašė.
-- susijęs iš Didysis Naugardas: 1428 m. Naugardo ir Porchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją.
-- susijęs iš Dniepras: Prie Dniepro Vytautas dėl šalčių raginamas mesti kovą su totoriais atsakė, kad karą reikia tęsti nepaisant šalčio.
-- susijęs iš Dniepras: Prie Dniepro Vytautas atsisakė nutraukti kovą su totoriais dėl didelių šalčių.
-- susijęs iš Grabova: 1414–1418 m. paliaubų pasitarimuose Grabovoje Vytautas gynė prekybos reikalus su Ordinu.
-- susijęs iš Grabovė: Derybos Grabove nedavė Vytautui naudingų rezultatų.
-- susijęs iš Insterburgas: Tamova buvo aukščiau Insterburgo, ruože, kuriame Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.
-- susijęs iš Jedlno: Jedlnos nutarimuose lenkai pasirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.
-- susijęs iš Kaltinėnai: Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu.
-- susijęs iš Knituva: Knituva buvo viena iš septynių Žemaičių aukštumos sričių, kurių 31 atstovas darė taiką su Vytautu ir ordinu.
-- susijęs iš Kolomna: Spalio 1 d. Kolomnoje įvyko antras susivažiavimas, kuriame Vytautas siekė Smolensko paėmimo aprobavimo.
-- susijęs iš Korčinas: Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
-- susijęs iš Krokuva: Su Jogaila į Vilnių atvykę lenkų ponai buvo išsiųsti į Krokuvą, bet Vytautas jų susitarimo nebesulaukė.
-- susijęs iš Kulautuva: Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio.
-- susijęs iš Kėzmarkas: Kėzmarke Vytautas atmetė gundymą suardyti uniją ir siekė palenkti Zigmantą laikytis paliaubų su Lenkija.
-- susijęs iš Liubekas: Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
-- susijęs iš Liubutskas: Liubutsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštėlių tarpe.
-- susijęs iš Luckas: 1393 m. Luckas perėjo tiesiogiai Vytauto žinion.
-- susijęs iš Luckas: 1393 m. Luckas perėjo tiesiogiai Vytauto žinion.
-- susijęs iš Luckas: 1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų.
-- susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
-- susijęs iš Luckas: 1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų.
-- susijęs iš Luckas: 1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams.
-- susijęs iš Marienburgas: Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti.
-- susijęs iš Medingėnai: Medingėnų srities atstovai kartu su kitų Žemaičių sričių kilmingaisiais darė taiką su Vytautu ir Ordinu.
-- susijęs iš Naugardas: 1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos.
-- susijęs iš Naugardukas: 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.
-- susijęs iš Nevėžis: Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
-- susijęs iš Novosielskas: Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.
-- susijęs iš Novosielsko: Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.
-- susijęs iš Peremišlis: Peremišlio kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštėlių žemėse.
-- susijęs iš Pinskas: Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.
-- susijęs iš Porchovas: Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 1000 rublių už belaisvius.
-- susijęs iš Raseiniai: Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.
-- susijęs iš Riazanė: Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.
-- susijęs iš Roma: Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.
-- susijęs iš Rostokas: Rygiečiai Hanzos sąjungoje Liubeke ir Rostoke skundė Vytautą sulaužius sutartį su Polocku.
-- susijęs iš Salynas: Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
-- susijęs iš Salynas: 1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
-- susijęs iš Salynas: 1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.
-- susijęs iš Salyne: 1398 m. spalio 12 d. Salyne Vytauto ir didžiojo magistro Konrado delegacijos patvirtino kryžiuočiams užleistą Žemaitiją iki Nevėžio ir Sūduvą iki Šešupės aukštupio.
-- susijęs iš Sūduva: Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika 1398 metais.
-- susijęs iš Sūduva: Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika.
-- susijęs iš Torno: Po 1411 m. Torno sutarties Vytauto ir Ordino santykiai nepagerėjo, nors sutartyje susitarta dėl laisvos savitarpio prekybos.
-- susijęs iš Torno: Po Torno taikos Vytautas iš Jogailos gavo Podoliją ir pasiuntė jam 20 000 grašių kariuomenei apmokėti.
-- susijęs iš Ukra: Prie Ukros upės sąjungininkai sustojo, o Vytautas pradėjo tvarkyti savo kariuomenę.
-- susijęs iš Varniai: Varniuose Vytautas paskyrė Žemaičių vyskupo buveinę, o jo pastatyta bažnyčia pašventinta katedra.
-- susijęs iš Viduklė: Viduklės srities atstovai kartu su kitų šešių Žemaičių aukštumos sričių atstovais darė taiką su Vytautu ir Ordinu.
-- susijęs iš Vilnius: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos ginčo.
-- susijęs iš Vitebskas: Jogailai grįžus iš Vitebsko, Kęstutis organizavo pasipriešinimą, o Vytautas jam tik padėjo.
-- susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
-- susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
-- susijęs iš Voronačas: 1406 m. Voronačas minimas kaip Pskovui priklausęs miestas, kurį Vytautas buvo apgulęs dvi dienas.
-- susijęs iš Vorotinskas: Vorotinsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštystėse.
-- susijęs iš Žemaitija: Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje.
-- susijęs iš Žemaitija: Narbutas aiškina, kad aukuras ir apeigos Žemaitijoje išliko dėl Jogailos ir Vytauto pagarbos kunigaikštienei Birutei.
-- susijęs iš [[objektai/zodynas/indulgencija.md#claim-t-36782|indulgencija]]: Martynas V suteikė indulgencijų Vytautui ir jo patarėjams.
-- susijęs iš [[objektai/zodynas/pravoslavai.md#claim-t-11776|pravoslavai]]: Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187733|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai kasmet mokėjo Vytautui 10 000 auksinų, 40 sunkiųjų žirgų ir kailių duoklę.
-- susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34452|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199225|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199229|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotų rusų žemių.
-- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195034|gerumu galima ir laukinius žvėris sušvelninti.]]: Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti.
-- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195036|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
-- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195037|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.
-- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195038|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
-- susijęs iš Aukštaitija: Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.
-- susijęs iš Koloža: 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą.
-- susijęs iš Malburgas: Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.
-- susijęs iš Nevėžis: Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio.
-- susijęs iš Raseiniai: Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.
-- susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose.
-- susijęs iš Senieji Trakai: Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.
-- susijęs iš [[objektai/zodynas/indulgencija.md#claim-t-36782|indulgencija]]: Martynas V suteikė indulgencijų Vytautui ir jo patarėjams.
-- susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176298|Algirdas (Lietuvos valdovas)]]: Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi.
-- susijęs iš [[objektai/asmenys/Andrius Važila.md#claim-t-87386|Andrius Važila]]: 1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas.
-- susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185997|Andrius Vingaudas]]: Kojelavičiaus pasakojime Vytautas susitikime susirūpino Andriaus Vingaudo paleidimu, norėdamas pelnyti Jogailos brolių palankumą.
-- susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185998|Andrius Vingaudas]]: Kojelavičiaus pasakojime Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, linkusį į maištus ir siekusį valdžios su kryžiuočiais.
-- susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
-- susijęs iš [[objektai/asmenys/Bazilius (Vasilius) II.md#claim-t-18849|Bazilius (Vasilius) II]]: 1427 m. Baziliui II buvo žygiuojama į Maskvą padėti, ir tam pakako vien jėgos demonstravimo.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176314|Birutė]]: Birutė iš jų bus išmokęs skaityti ir rašyti.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188517|Birutė]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau.
-- susijęs iš [[objektai/asmenys/Boleslovas Maldingasis.md#claim-t-35039|Boleslovas Maldingasis]]: Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.
-- susijęs iš [[objektai/asmenys/Cigala iš Vienos.md#claim-t-186191|Cigala iš Vienos]]: Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.
-- susijęs iš [[objektai/asmenys/Ciprijonas.md#claim-t-35044|Ciprijonas]]: Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.
-- susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
-- susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-50969|Dimitras Kaributas]]: Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo.
-- susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-184372|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
-- susijęs iš [[objektai/asmenys/Dmitrijus Kaributas.md#claim-t-87491|Dmitrijus Kaributas]]: Vytautas sumušė Dmitrijų Kaributą prie Nedokudovo, užėmė Seversko Naugardą ir suėmęs kunigaikštį uždarė Vilniaus Aukštutinėje pilyje.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
-- susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-184258|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Po Gregorijaus Cemblako mirties Vytautas 1421 m. pripažino Maskvos Focijų Kijevo metropolitu.
-- susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93201|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Po Cemblako mirties Vytautas susitaikė su Maskvos „visos Rusijos“ metropolitu Focijumi.
-- susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93205|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: 1421 m. Vytautas pripažino Maskvos Focijų Kijevo metropolitu.
-- susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93206|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Po Gregorijaus Cemblako mirties Vytautas 1421 m. pripažino Maskvos Focijų Kijevo metropolitu.
-- susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93207|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Po Gregorijaus Cemblako mirties Vytautas susitaikė su Maskvos metropolitu Focijumi, o Kijevo metropolija nebuvo atnaujinta.
-- susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82302|Fotijus]]: Fotijus 1408-1431 m. buvo pripažintas Kijevo ir visos Rusios metropolitu.
-- susijęs iš [[objektai/asmenys/Gedgaudas.md#claim-t-34728|Gedgaudas]]: 1429 m. Vytautas pasiuntė Vilniaus vaivadą Gedgaudą į Lenčicą kaip savo delegatą pas Jogailą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05174|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas išgarsėjo kaip sėkmingas rytinių rusų žemių jungėjas prie Lietuvos.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176330|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
-- susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30263|Hlebas]]: Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą.
-- susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23196|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės.
-- susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23197|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
-- susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51024|Jadvyga (Jogailos duktė)]]: Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose.
-- susijęs iš [[objektai/asmenys/Jeronimas Prahiškis.md#claim-t-190012|Jeronimas Prahiškis]]: Jeronimas Prahiškis 1416 m. birželio 21 d. buvo sudegintas gyvas Konstancoje.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184265|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila netrukus įsakė duoti ženklą mūšiui.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184278|Jogaila (kunigaikštis, XIV–XV a.)]]: Istoriškai reikšmingas Vytauto veikimas prasidėjo Kęstučio kovos su Jogaila metu.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184279|Jogaila (kunigaikštis, XIV–XV a.)]]: Autoriaus vertinimu, Vytauto pasitikėjimas Jogaila buvo per didelis ir tapo Kęstučio mirties priežastimi.
-- susijęs iš [[objektai/asmenys/Jomantas.md#claim-t-63713|Jomantas]]: Vytautas, užėmęs Smolenską, paskyrė kunigaikštį Jomantą savo vietininku mieste.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113833|Julijona (Vytauto žmona)]]: 1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113836|Julijona (Vytauto žmona)]]: 1426 m. Julijona jau metus sirgo, o ligai paūmėjus, pasak laiško, visiškai negalėjo valgyti.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113837|Julijona (Vytauto žmona)]]: 1426 m. Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo jai atsiųstų gydomųjų gėrimų.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113840|Julijona (Vytauto žmona)]]: 1426 m. Julijona jau metus sirgo, o jos liga buvo taip paūmėjusi, kad ji visiškai negalėjo valgyti.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113847|Julijona (Vytauto žmona)]]: Istorikai nurodo, kad trečiosios Vytauto žmonos vardas buvo Julijona.
-- susijęs iš [[objektai/asmenys/Julijona.md#claim-t-176505|Julijona]]: Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį.
-- susijęs iš [[objektai/asmenys/Jurgis (Vytauto sūnus).md#claim-t-87740|Jurgis (Vytauto sūnus)]]: Vytauto mažametis sūnus Jurgis 1385 m. buvo nunuodytas Karaliaučiuje kartu su broliu Jonu.
-- susijęs iš [[objektai/asmenys/Jurgis Boliminas.md#claim-t-35171|Jurgis Boliminas]]: Jurgis Boliminas 1415 m. pabaigoje vadovavo į Konstanciją atvykusiai žemaičių delegacijai.
-- susijęs iš [[objektai/asmenys/Jurgis Cemblakas.md#claim-t-35173|Jurgis Cemblakas]]: Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu.
-- susijęs iš [[objektai/asmenys/Jurgis Gedgaudas.md#claim-t-29025|Jurgis Gedgaudas]]: 1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas.
-- susijęs iš [[objektai/asmenys/Jurgis Geldgaudas.md#claim-t-35174|Jurgis Geldgaudas]]: Jurgis Geldgaudas 1415 m. pabaigoje vadovavo į Konstanciją atvykusiai žemaičių delegacijai.
-- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173190|Kazimieras Karigaila]]: 1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.
-- susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
-- susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63828|Kiprijonas]]: Kiprijonas 1390-1406 m. buvo Kijevo ir visos Rusios metropolitas.
-- susijęs iš [[objektai/asmenys/Laurynas Zaremba.md#claim-t-186138|Laurynas Zaremba]]: Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir prisidėti prie Žygimanto šalininkų.
-- susijęs iš [[objektai/asmenys/Liubartas Gediminaitis.md#claim-t-30353|Liubartas Gediminaitis]]: Liubartas Gediminaitis mirė apie 1385 m.
-- susijęs iš [[objektai/asmenys/Maldžykas.md#claim-t-35213|Maldžykas]]: Vytauto pasiuntinys Maldžykas neoficialiai dalyvavo suvažiavime, kuriame Vytautas laukė ginčo su Jogaila sprendimo.
-- susijęs iš [[objektai/asmenys/Marija (pirmoji Vytauto žmona).md#claim-t-35217|Marija (pirmoji Vytauto žmona)]]: Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184433|Martynas V]]: Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.
-- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184440|Martynas V]]: Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.
-- susijęs iš [[objektai/asmenys/Mikalojus Cebulka.md#claim-t-35226|Mikalojus Cebulka]]: Vytauto sekretorius Mikalojus Cebulka buvo pasiųstas kaip jo atstovas ir Zigmantui pareiškė Vytauto nepasitenkinimą.
-- susijęs iš [[objektai/asmenys/Mikalojus Sepienskis.md#claim-t-29043|Mikalojus Sepienskis]]: 1415 m. į Konstancą atsiųstiems 60 pakrikštytų žemaičių bajorų vadovavo ir Vytauto sekretorius lenkas Mikalojus Sepienskis.
-- susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176551|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui.
-- susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176554|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus mokėsi Krokuvoje, įgijo laisvųjų mokslų magistro laipsnį, buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas.
-- susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176556|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui.
-- susijęs iš [[objektai/asmenys/Motiejus.md#claim-t-63987|Motiejus]]: Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui.
-- susijęs iš [[objektai/asmenys/Mykolas Sapienskis.md#claim-t-35256|Mykolas Sapienskis]]: Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.
-- susijęs iš [[objektai/asmenys/N. Küchmeisteris.md#claim-t-30366|N. Küchmeisteris]]: Žemaičių seniūnas N. Küchmeisteris buvo tarp žymiųjų belaisvių.
-- susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-186074|Narimantas (Pinsko kunigaikštis)]]: Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu.
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis).md#claim-t-39620|Olegas (Riazanės didysis kunigaikštis)]]: 1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.
-- susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
-- susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87452|Paulius Rusdorfas]]: Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų.
-- susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35264|Petras iš Kustynės]]: Petras iš Kustynės 1414-1421 m. buvo ketvirtasis Vilniaus vyskupas, delegatas Konstancijoje ir pasiuntinys Žemaitijoje.
-- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
-- susijęs iš [[objektai/asmenys/Rumbaudas.md#claim-t-184284|Rumbaudas]]: Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą.
-- susijęs iš [[objektai/asmenys/Rumbaudas.md#claim-t-184824|Rumbaudas]]: Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.
-- susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82653|Saladinas]]: 1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų.
-- susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82655|Saladinas]]: Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas.
-- susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-184825|Simonas Lengvenis (valdovas, XIV a.)]]: Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179643|Skirgaila]]: 1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179646|Skirgaila]]: Jogaila po susitaikymo su Vytautu sutaikė jį ir su didžiausiu Vytauto priešu Skirgaila.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179647|Skirgaila]]: Trakuose viešpatavusio Skirgailos išvarymas galėjo sukelti naują karą.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179657|Skirgaila]]: 1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179668|Skirgaila]]: Jogaila sutaikė Vytautą su Skirgaila, kuris citatoje vadinamas didžiausiu Vytauto priešu.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179677|Skirgaila]]: Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-188617|Skirgaila]]: Narbutas Lietuvos 1386–1447 m. laikotarpį apibūdino kaip didžiausios galybės epochą ir rašė, kad Vytautas sostą paveldėjo iš Skirgailos.
-- susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176614|Sofija (Vytauto duktė)]]: Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.
-- susijęs iš [[objektai/asmenys/Spytekas iš Melštyno.md#claim-t-40426|Spytekas iš Melštyno]]: Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas, buvo tarp prie Kijevo telktų pavienių lenkų riterių.
-- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64171|Teodoras (Liubarto sūnus)]]: Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.
-- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64172|Teodoras (Liubarto sūnus)]]: Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.
-- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64173|Teodoras (Liubarto sūnus)]]: Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.
-- susijęs iš [[objektai/asmenys/Teodosijus.md#claim-t-30394|Teodosijus]]: Vytautas siekė, kad Polocko vyskupas Teodosijus taptų Lietuvos stačiatikių metropolitu.
-- susijęs iš [[objektai/asmenys/Timur-Kutlugas.md#claim-t-30396|Timur-Kutlugas]]: Timur-Kutlugas derybomis siekė laimėti laiko, kol sulauks savo karo vado Edigos dalinių.
-- susijęs iš [[objektai/asmenys/Timuras.md#claim-t-30398|Timuras]]: Timuras derybomis siekė laimėti laiko, nes laukė savo karo vado Edigos dalinių.
-- susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-183763|Timūr-Kutlukas]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
-- susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-40468|Timūr-Kutlukas]]: Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.
-- susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111433|Tochtamišas]]: Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą.
-- susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111435|Tochtamišas]]: Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.
-- susijęs iš [[objektai/asmenys/Ulrichas fon Jungingenas.md#claim-t-183764|Ulrichas fon Jungingenas]]: Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 riterių ir tūkstančiai karių.
-- susijęs iš [[objektai/asmenys/Ulrichas fon Jungingenas.md#claim-t-40481|Ulrichas fon Jungingenas]]: Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 riterių ir tūkstančiai karių.
-- susijęs iš [[objektai/asmenys/Urbonas VI.md#claim-t-82773|Urbonas VI]]: Popiežius Urbonas VI per pasiuntinį Dobrogostą paskelbė bulę, kuria Vilniaus bažnyčia pripažinta katedra.
-- susijęs iš [[objektai/asmenys/Vladimiras (Algirdo sūnus).md#claim-t-35316|Vladimiras (Algirdo sūnus)]]: Vytautas suvaldė nepaklusnų Kijevo kunigaikštį Vladimirą, Algirdo sūnų.
-- susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-182865|Vladimiras Algirdaitis]]: 1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.
-- susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-184291|Vladimiras Algirdaitis]]: Vytautas turėjo pašalinti Vladimirą Algirdaitį iš Kijevo, kad įvykdytų sutartį dėl Kijevo perdavimo Skirgailai.
-- susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-184292|Vladimiras Algirdaitis]]: Vytautas suvaldė Kijevo kunigaikštį Vladimirą Algirdaitį, silpnindamas Gediminaičių valdžią.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173238|Vladislovas Jogaila]]: Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.
-- susijęs iš [[objektai/asmenys/Zbignevas Olesnickis.md#claim-t-87890|Zbignevas Olesnickis (vyskupas)]]: Krokuvos vyskupas Zbignevas Olesnickis turėjo lemiamą balsą karaliaus taryboje.
-- susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176851|Zbignievas Olesnickis]]: Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų.
-- susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87383|Zigmantas (Romos imperatorius)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176865|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176867|Zigmantas Kaributas]]: Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176868|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-184296|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176875|Zigmantas Liuksemburgietis]]: Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
-- susijęs iš [[objektai/asmenys/Zigmantas Rotas.md#claim-t-186270|Zigmantas Rotas]]: Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179690|Švitrigaila]]: Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179705|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179714|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114098|Žygimantas Kaributaitis]]: 1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-39865|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45608|Grigorijus Camblakas]]: Grigorijaus Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45609|Grigorijus Camblakas]]: Vytautas paskyrė Grigorijų Camblaką į 1415 m. įkurtą LDK stačiatikių metropoliją.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45610|Grigorijus Camblakas]]: 1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45611|Grigorijus Camblakas]]: 1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.
-- susijęs iš [[objektai/autoriai/Grigorijus Camblakas.md#claim-t-45612|Grigorijus Camblakas]]: Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų.
-- susijęs iš [[objektai/autoriai/Jan Fijałek.md#claim-t-35446|Jan Fijałek]]: Kunigas prof. dr. J. Fijałek teigė, kad žemaičių skundo „Propositio Samaytarum“ dar negalima skaityti sausomis akimis.
-- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188454|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę.
-- susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88036|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.
-- susijęs iš [[objektai/autoriai/prof. kunigas Dr. J. Fijalek.md#claim-t-35494|prof. kunigas Dr. J. Fijalek]]: Prof. kunigas dr. J. Fijalek teigė, kad „Propositio Samaytarum“ dėl graudumo ir šiandien sunku skaityti sausomis akimis.
-- susijęs iš [[objektai/daiktai/Auksinės grandinės ir diržai.md#claim-t-186841|Auksinės grandinės ir diržai]]: Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis ir diržais tarp kitų brangių dovanų.
-- susijęs iš [[objektai/daiktai/Aukso balnai.md#claim-t-186845|Aukso balnai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.
-- susijęs iš [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos.md#claim-t-87024|Bombardos, patrankos ir artilerijos karo mašinos]]: Vilniaus puolimo metu artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į Aukštutinės pilies mūrus.
-- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113458|Bombardos]]: 1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.
-- susijęs iš [[objektai/daiktai/Brangūs aksomai.md#claim-t-186844|Brangūs aksomai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo brangių aksomų tarp kitų vertingų dovanų.
-- susijęs iš [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis.md#claim-t-87075|Dengtos rogės ir vežimai su atsargomis]]: Vytautas į Vilnių pirmiausia pasiuntė daug dengtų rogių su atsargomis ir jose paslėptais ginkluotais žmonėmis.
-- susijęs iš [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių.md#claim-t-87109|Dryžuotos gūnios ir dovanos ant kupranugarių]]: Totorių chanas Jedigėjus Vytautui siųsdavo kupranugarius, apdengtus dryžuotomis gūniomis ir apkrautus dovanomis.
-- susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40714|Geležinėmis grandinėmis kaustyti vežimai]]: Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų.
-- susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40715|Geležinėmis grandinėmis kaustyti vežimai]]: Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.
-- susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64923|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.
-- susijęs iš [[objektai/daiktai/Halka.md#claim-t-35506|Halka]]: Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių.
-- susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64929|Iždo ir pilių raktai]]: Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.
-- susijęs iš [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai.md#claim-t-87048|Karališkosios vaistinės vaistai ir gydomieji gėrimai]]: Didžioji kunigaikštienė Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo dovanų gydomųjų gėrimų.
-- susijęs iš [[objektai/daiktai/Karinės vėliavos ir ženklai.md#claim-t-87053|Karinės vėliavos ir ženklai]]: Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.
-- susijęs iš [[objektai/daiktai/Kariuomenės ženklai.md#claim-t-87110|Kariuomenės ženklai]]: Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.
-- susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186813|Karūna]]: Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją.
-- susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186814|Karūna]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
-- susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-12311|Kristaus Kančios relikvija]]: Vytauto dukra Zofija iš Smolensko į Maskvą parsivežė dovanų ir dalį Kristaus Kančios relikvijos.
-- susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186860|Kristaus Kančios relikvija]]: Vytauto dukra Zofija, Maskvos kunigaikštienė, į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-103466|Lietuvos pinigai]]: Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais.
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-103469|Lietuvos pinigai]]: Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose.
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10729|Lietuvos pinigai]]: Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12316|Lietuvos pinigai]]: Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose.
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12874|Lietuvos pinigai]]: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.
-- susijęs iš [[objektai/daiktai/Malūnas.md#claim-t-35536|Malūnas]]: Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.
-- susijęs iš [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga.md#claim-t-86998|Pabūklai, bombardos, patrankos ir artilerijos įranga]]: Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus.
-- susijęs iš [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius.md#claim-t-11542|Pirmosios katedros didysis altoriaus kryžius]]: Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.
-- susijęs iš [[objektai/daiktai/Tauro ragas.md#claim-t-200729|Tauro ragas]]: Rimvydas Laužikas tauro ragą sieja su simboline, mitologizuota literatūrine tendencija LDK diduomenę vaizduoti kaip gėrusią iš tauro rago.
-- susijęs iš [[objektai/daiktai/Trakų kunigaikščio žvėrynas.md#claim-t-87094|Trakų kunigaikščio žvėrynas]]: Vytauto privilegijoje Trakams minima, kad už Galvės ežero, skalaujančio pilį, buvo kunigaikščio žvėrynas.
-- susijęs iš [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai.md#claim-t-172863|Vaistinės prekės, vaistai ir gydomieji gėrimai]]: Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.
-- susijęs iš [[objektai/daiktai/Vežimai.md#claim-t-93003|Vežimai]]: Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.
-- susijęs iš [[objektai/daiktai/Šv. Vaclovo karūna.md#claim-t-35569|Šv. Vaclovo karūna]]: Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.
-- susijęs iš [[objektai/daiktai/Šv. Vaclovo karūna.md#claim-t-35571|Šv. Vaclovo karūna]]: Vėliau Vytautas nuo husitų siūlytos karūnos atsisakė, nes ji galėjo per brangiai kaštuoti.
-- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-12353|Auksinė Orda]]: Aukso Orda šiame šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187436|Aukso orda]]: Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187437|Aukso orda]]: Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187441|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187442|Aukso orda]]: Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187446|Aukso orda]]: Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-12357|Didžiojo Naugardo respublika]]: Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-12359|Gediminaičių dinastija]]: Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo).
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-12363|Gediminaičių dinastija]]: Vytautas panaikino didžiąsias Gediminaičių kunigaikštijas ir paliko jiems tik smulkesnius valdinius.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-182889|Gediminaičių dinastija]]: Gediminaičių dinastijos Jogailos palikuonių teisės į sostus buvo pripažįstamos iš tradicijos.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-187706|Gediminaičių dinastija]]: Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96117|Gediminaičių dinastija]]: Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116684|Hanza]]: 1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172097|Husitai]]: Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172101|Husitai]]: Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172103|Husitai]]: Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos.
-- susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120188|Karaimai]]: Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.
-- susijęs iš [[objektai/grupes/Karaimai.md#claim-t-183139|Karaimai]]: Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.
-- susijęs iš [[objektai/grupes/Karo partija.md#claim-t-34355|Karo partija]]: Vytautas ir karo partija reikalavo mūšio, nors taikos partija ragino jį sudaryti paliaubas su totoriais.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178813|Kryžiuočių ordinas]]: Vytautas, siekdamas suardyti Lenkijos ir Ordino sąjungą, apskundė Ordiną Europai.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178838|Kryžiuočių ordinas]]: Grabovo suvažiavime Vytautas pareikalavo, kad Ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178862|Kryžiuočių ordinas]]: Kryžiuočių ordinas, remdamasis Salyno sutartimi, reikalavo grąžinti jam pabėgėlius žemaičius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178902|Kryžiuočių ordinas]]: Vytautas pakėlė savo ir Lietuvos vardą sudarydamas kampaniją prieš Ordiną, kuri galiausiai pasiekė tikslą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178907|Kryžiuočių ordinas]]: Vytautas paėmė nelaisvėn sunaikintose Ordino pilyse buvusius Ordino karius ir pirklius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178935|Kryžiuočių ordinas]]: Vytautas ginklus ir arklius gaudavo iš Rygos ir Krokuvos, nors Ordinas draudė juos įvežti į Lietuvą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178970|Kryžiuočių ordinas]]: Vytautas daug prisidėjo prie pergalių prieš kryžiuočius, bet nesiekė visiško jų Ordino sunaikinimo.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178972|Kryžiuočių ordinas]]: Vokiečių ordinas Prūsuose įsigijo didelius žemės plotus, juos kolonizavo ir, laimėjęs Vislos žiotis bei Pamarį, sustiprėjo.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178984|Kryžiuočių ordinas]]: 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179003|Kryžiuočių ordinas]]: Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179004|Kryžiuočių ordinas]]: Vytautas siekė perimti Prūsų ordino savintą kovotojo su netikinčiaisiais šlovę, planuodamas nukariauti totorius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179005|Kryžiuočių ordinas]]: Vytautas išmoko Ordino realios politikos, kurią vėliau taikė santykiuose su kaimynais.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179007|Kryžiuočių ordinas]]: Vytautas pakėlė Lietuvos vardą sudarydamas kampaniją prieš Ordiną, po kurios Ordinas buvo diskredituotas.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179016|Kryžiuočių ordinas]]: Vytautas nepaisė ordino reikalavimo grąžinti pabėgėlius žemaičius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179054|Kryžiuočių ordinas]]: Vytautas paėmė nelaisvėn sunaikintose Ordino pilyse buvusius Ordino karius ir pirklius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179077|Kryžiuočių ordinas]]: 1422 m. Vilniui leista laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184219|Kryžiuočių ordinas]]: Kol lenkai dar rikiavosi, Kryžiuočių ordino kariuomenė buvo sustatyta į dvi eiles.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179149|Lenkai]]: Vytautas 1401 m. akte priminė pažadą laikytis Jogailos, Lenkijos karūnos ir jos didikų bei ginti juos nuo priešų.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179150|Lenkai]]: Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179160|Lenkai]]: Vytautas ilgą laiką turėjo stiprią jo įtakai pasidavusią partiją tarp lenkų ponų.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179162|Lenkai]]: Vytauto akte priminta, kad lenkai pasikvietė Jogailą į savo sostą ir pripažino jį karaliumi Vladislovu.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179165|Lenkai]]: 1376 m. Vytautas, jau kaip Gardino kunigaikštis, dalyvavo žygyje prieš lenkus.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179166|Lenkai]]: Vytautas mirė 1430 m. spalio 30 d. Trakuose, gedint Lietuvai ir lenkams, kuriuos jis buvo vedęs į pergalingus mūšius.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179175|Lenkai]]: Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179192|Lenkai]]: Lenkai Krėvos unija siekė laimėti ginčijamus žemės plotus, todėl Lenkijoje ėmė reikštis silpna opozicija.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179194|Lenkai]]: Vytautas ilgą laiką turėjo stiprią savo šalininkų grupę tarp lenkų ponų.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179198|Lenkai]]: Traideniui teko daug kariauti su lenkais, o jo žygiai siekė Mozūrus ir Krokuvą.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179202|Lenkai]]: Sustiprėjęs Vytautas pradėjo mažiau skaitytis su lenkais, o jo politika pablogino santykius su Lenkija.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184220|Lenkai]]: Pablogėjus santykiams, Vytautas pradėjo ruoštis karui net prieš lenkus.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179221|Lietuviai]]: Lietuviams mokesčių mokėjimas kam nors kitam reiškė priklausomybės pripažinimą ir buvo laikomas nepriimtinu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179233|Lietuviai]]: Lietuviams mokėti mokesčius ir taip pripažinti priklausomybę buvo laikoma per didele nuolaida.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179235|Lietuviai]]: Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179238|Lietuviai]]: Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė beraštės visuomenės savimonė.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179269|Lietuviai]]: Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-187716|Lietuviai]]: Lietuvių kariuomenė mūšio pradžioje pirmiausia susikovė su vokiečiais, o abiejose pusėse krito daug karių.
-- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96712|Lietuvos bajorija]]: Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos.
-- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184333|Lietuvos kariuomenė]]: Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179366|Livonijos ordinas]]: Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179367|Livonijos ordinas]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179374|Livonijos ordinas]]: 1398 m. spalio 12 d. Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179392|Livonijos ordinas]]: Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179400|Livonijos ordinas]]: 1398 m. spalio 12 d. Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179424|Livonijos ordinas]]: Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92729|Maskvos kunigaikštija]]: Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštijoje.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92732|Maskvos kunigaikštija]]: Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu, pagal kurį jis ketino valdyti Didžiąją Maskvos kunigaikštiją ir visą Rusiją.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92737|Maskvos kunigaikštystė]]: Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92738|Maskvos kunigaikštystė]]: Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje.
-- susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-184222|Miestelėnų luomas]]: Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų apyvartos ir stiprinusį prekybos bei ekonominio gyvenimo galimybes.
-- susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-34346|Miestelėnų luomas]]: Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų cirkuliacijos.
-- susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74875|Mongolų imperija]]: Rusų kunigaikštijos buvo patekusios į Aukso ordos, suskilusios Mongolų imperijos dalies, valdžią ir mokėjo jai duoklę.
-- susijęs iš [[objektai/grupes/Okos aukštupio kunigaikščiai.md#claim-t-34361|Okos aukštupio kunigaikščiai]]: Vytautas siekė Okos aukštupio kunigaikščius paimti savo valdžion arba turėti jiems didelę įtaką.
-- susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113196|Pskovo respublika]]: Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.
-- susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113197|Pskovo respublika]]: Vytauto įtaka Pskovo ir Naugardo respublikose buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.
-- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81606|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
-- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81607|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-183185|Stačiatikiai]]: 1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171414|Totoriai]]: Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171416|Totoriai]]: Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171418|Totoriai]]: Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171421|Totoriai]]: Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171431|Totoriai]]: Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171444|Totoriai]]: Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171447|Totoriai]]: Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, tapusiais artimosios sargybos tautomis.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187748|Totoriai]]: Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių.
-- susijęs iš [[objektai/grupes/Totorių pajėgos.md#claim-t-78528|Totorių pajėgos]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
-- susijęs iš [[objektai/grupes/Totorių pajėgos.md#claim-t-78529|Totorių pajėgos]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
-- susijęs iš [[objektai/grupes/Vengrai.md#claim-t-66255|Vengrai]]: Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172834|Vilniaus miestiečių luomas]]: Vilniaus miestiečiai, palaikę Jogailą prieš Kęstutį, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55082|Vilniaus miestiečių luomas]]: Vilniaus pilininkas ir miestiečiai palaikė Jogailą prieš Kęstutį ir perdavė jam Žemutinę bei Aukštutinę pilis.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117306|Vokiečiai]]: Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117315|Vokiečiai]]: Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117318|Vokiečiai]]: Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių.
-- susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182839|Vokiečių ordinas]]: Grabovo suvažiavime Vytautas pareikalavo, kad Ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms.
-- susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-183200|Vokiečių ordinas]]: 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.
-- susijęs iš [[objektai/grupes/Vokiečių pirkliai.md#claim-t-86835|Vokiečių pirkliai]]: Vytautas įsakė vokiečių pirkliams apie Sekmines palikti jo kraštą.
-- susijęs iš [[objektai/grupes/Čekai.md#claim-t-50769|Čekai]]: Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176117|Žemaičiai]]: 1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo dvasininkus vesti derybas su kryžiuočiais, atstovaujant žemaičiams.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176134|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-182932|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187756|Žemaičiai]]: Lietuvos metraštyje žemaičiai Palangoje nuo kopų akmenimis sumušė prieš juos sutelktą Prūsijos ir Livonijos vokiečių kariuomenę.
-- susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50799|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: 1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse.
-- susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50801|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.
-- susijęs iš [[objektai/ivykiai/Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.).md#claim-t-185697|Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.)]]: Lietuvos Braste Jogaila, Vytautas ir Kojelavičiaus skitų chanu vadinamas sąjungininkas nutarė pradėti bendrą karą prieš kryžiuočius.
-- susijęs iš [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje.md#claim-t-86944|Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]: Vytautas suėmė Seversko kunigaikštį Dmitrijų Kaributą ir su žmona bei vaikais uždarė jį Vilniaus Aukštutinėje pilyje.
-- susijęs iš [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.).md#claim-t-35827|Dovydiškių slapta sutartis (1380 m.)]]: Vytautas dalyvavo Dovydiškių medžioklėje, bet nepastebėjo, kad buvo sudaryta slapta sutartis.
-- susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-12402|Dovydiškių sutarties sudarymas]]: Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų.
-- susijęs iš [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje.md#claim-t-20184|G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]: 1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose.
-- susijęs iš [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.).md#claim-t-95957|Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]: 1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.
-- susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-183222|Gegužės trečiosios konstitucijos priėmimas]]: Gegužės trečiosios konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.
-- susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75102|Gegužės trečiosios konstitucijos priėmimas]]: Gegužės trečiosios konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.
-- susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio sudeginimas Konstancoje 1416 m. birželio 21 d.md#claim-t-189635|Jeronimo Prahiškio sudeginimas Konstancoje 1416 m. birželio 21 d]]: Jeronimą Prahiškį sudegino gyvą Konstancoje 1416 m. birželio 21 d.
-- susijęs iš [[objektai/ivykiai/Jogailos ir Sofijos santuoka (1421 m.).md#claim-t-185705|Jogailos ir Sofijos santuoka (1421 m.)]]: Vytautas paragino Jogailą pasirinkti naują žmoną, o Jogaila jo paskatintas įsižiūrėjo Sofiją, Kijevo kunigaikščio Andriaus dukterį.
-- susijęs iš [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.).md#claim-t-86913|Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]: Vilniaus pilininkas ir miestiečiai naktį sumušė Kęstučio įgulą ir abi Vilniaus pilis atidavė Jogailai.
-- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
-- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50804|Konstancijos susirinkimas (1414–1418 m.)]]: Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą.
-- susijęs iš [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.).md#claim-t-185816|Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]: 1421 m. Vytautas sušaukė Lietuvos luomų seimą ir, visiems pritariant, parūpino valstybinius raštus dėl Medininkų vyskupystės.
-- susijęs iš [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams.md#claim-t-66766|Magdeburgo teisių suteikimas Lietuvos miestams]]: Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.
-- susijęs iš [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams.md#claim-t-66767|Magdeburgo teisių suteikimas Lietuvos miestams]]: Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.
-- susijęs iš [[objektai/ivykiai/Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas.md#claim-t-20413|Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas]]: Po Melno taikos Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.
-- susijęs iš [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.).md#claim-t-34490|Naugarduko susirinkimas (1415 m.)]]: Naugarduko susirinkimas pasiuntė delegaciją dėl kito Kijevo metropolito, tačiau ji nieko nelaimėjo.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185626|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: 1391 m. žiemą Vytautas, tikėdamasis paimti Kauną, tyliai priėjo miškais ir netikėtai pasirodė su kariuomene prie pylimo.
-- susijęs iš [[objektai/ivykiai/Ordino išvijimas iš Žemaičių krašto (1401 m.).md#claim-t-95972|Ordino išvijimas iš Žemaičių krašto (1401 m.)]]: 1401 m. Vytautas išvijo Ordiną iš Žemaičių krašto ir sutrukdė jo siekiui sausuma sujungti abu Ordinus.
-- susijęs iš [[objektai/ivykiai/Racionžo taika (1404 m.).md#claim-t-92939|Racionžo taika (1404 m.)]]: 1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.
-- susijęs iš [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa).md#claim-t-92942|Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]: 1392 m. Vytautas sustiprino Gardiną, atsigręžė prieš Naująjį Gardiną ir Meteną, sunaikino šias pilis bei paėmė Ordino karius ir pirklius į nelaisvę.
-- susijęs iš [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa).md#claim-t-92943|Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]: 1392 m. liepą Vytautas staiga pasirodė prie Rittersverderio pilies ir ją sudegino, o paskui atsigręžė prieš Naująjį Gardiną ir Meteną.
-- susijęs iš [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.).md#claim-t-66864|Rūdavos mūšis (1370 m. vasario 17 d.)]]: Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis.
-- susijęs iš [[objektai/ivykiai/Smolensko prijungimas prie Lietuvos apgaunant Glėbą.md#claim-t-185774|Smolensko prijungimas prie Lietuvos apgaunant Glėbą]]: Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą.
-- susijęs iš [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį).md#claim-t-31475|Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]: 1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.
-- susijęs iš [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.).md#claim-t-35879|Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]: Vytautas ir Jogaila sudarė su Brandenburgo elektoriumi Fridriku puolimo ir gynybos sutartį prieš kryžiuočius.
-- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186701|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
-- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186702|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
-- susijęs iš Torno taika (1411 m.): 1411 m. vasario 1 d. Jogaila ir Vytautas prie Torno pilies sudarė taiką su didžiuoju magistru.
-- susijęs iš Torno taika (1411 m.): Po kurį laiką trukusio Ordino ir Lenkų karo 1411 m. buvo pasirašyta Torno taika.
-- susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara).md#claim-t-35895|Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]: 1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.
-- susijęs iš [[objektai/ivykiai/Vitebsko užėmimas (1392 m.).md#claim-t-31488|Vitebsko užėmimas (1392 m.)]]: Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-183677|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.
-- susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179457|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.
-- susijęs iš [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara).md#claim-t-31497|Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
-- susijęs iš [[objektai/ivykiai/Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas.md#claim-t-185796|Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas]]: Vytautas, nepasitikėdamas Švitrigaila, liepė jį suimti ir įkalinti Kremeneco kalėjime, iš kurio Švitrigailą netrukus išlaisvino rusų sąmokslininkai.
-- susijęs iš [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.).md#claim-t-35923|Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]: 1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“.
-- susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186611|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami likti vokiečių valdžioje.
-- susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186614|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis vaizduoja Prūsijos ir Livonijos vokiečius telkus kariuomenę Palangoje, o žemaičius nuo kopų akmenimis ją išmušus.
-- susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186618|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas paskyrė kanauninkus, apdovanojo bažnyčią turtais ir įsakė perkrikštyti Žemaitiją į krikščionių tikėjimą.
-- susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186619|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.
-- susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186621|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas apkrikštijo visą Užnerio žemę ir įkūrė daug bažnyčių.
-- susijęs iš [[objektai/ivykiai/Žemaičių krikštas.md#claim-t-35925|Žemaičių krikštas (krikštas)]]: Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.
-- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas (1401 m. pavasaris).md#claim-t-100049|Žemaičių sukilimas (1401 m. pavasaris)]]: 1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti.
-- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1409 m.md#claim-t-67019|Žemaičių sukilimas 1409 m]]: 1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų.
-- susijęs iš [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.).md#claim-t-34527|Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]: Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.
-- susijęs iš [[objektai/paprociai/Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių.md#claim-t-93017|Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių]]: Jogailos laikais bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių.
-- susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113466|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.
-- susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113468|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.
-- susijęs iš [[objektai/paprociai/Išvykstančio aukšto svečio apdovanojimas gausiomis dovanomis.md#claim-t-185915|Išvykstančio aukšto svečio apdovanojimas gausiomis dovanomis]]: Vytautas išvykstančiam imperatoriui davė daug dovanų, tarp jų auksu ir brangakmeniais papuoštą Gedimino nukauto tauro ragą.
-- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
-- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87212|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.
-- susijęs iš [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas.md#claim-t-78702|Kryžiaus žygių prieš totorius organizavimas]]: Reaguodamas į Serbijos sunaikinimą prie Kosovo, Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, 1399 m. pralaimėtą prie Vorsklos.
-- susijęs iš [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas.md#claim-t-78704|Kryžiaus žygių prieš totorius organizavimas]]: Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, kuris 1399 m. baigėsi pralaimėjimu prie Vorsklos.
-- susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-183316|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
-- susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54266|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
-- susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54267|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
-- susijęs iš [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos.md#claim-t-87215|Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]: Vytautas sukvietė Lietuvos ir Rusios didikus į tarybą, liepė jiems skaityti laišką ir klausė dėl pavaldumo Lenkijai.
-- susijęs iš [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos.md#claim-t-87216|Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]: Jogailos sukviestame Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą priešą.
-- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67161|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, tarsi atstūmė Lietuvą nuo krikščionybės.
-- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto.md#claim-t-183323|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]: Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, bet Europa nebeleido valstybėms savarankiškai krikštytis.
-- susijęs iš [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas.md#claim-t-183694|Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]: Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo, prašydamas visus Ordos pinigus žymėti Vytauto ženklu.
-- susijęs iš [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas.md#claim-t-39323|Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]: Prieš mūšį Vytautas tarsi reikalavo chano pavaldumo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu.
-- susijęs iš [[objektai/paprociai/Saugaus laidavimo priesaika taikos deryboms tarp karo stovyklų.md#claim-t-185888|Saugaus laidavimo priesaika taikos deryboms tarp karo stovyklų]]: Jogaila prisiekė laikytis žodžio, o Skirgaila pasižadėjo rūpintis Kęstučio saugumu, kai Kęstutis buvo kviečiamas į Jogailos stovyklą.
-- susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-55157|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš auksu aptaisytų tauro ragų.
-- susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-81868|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš Gedimino sumedžioto tauro ragų.
-- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87168|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių.
-- susijęs iš [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu.md#claim-t-87226|Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]: 1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.
-- susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87229|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.
-- susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87230|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: 1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87169|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: 1422 m. Vilniui leista kartu su svarbiausiais karalystės miestais laiduoti sutartį su kryžiuočiais prie Osos upės.
-- susijęs iš [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą.md#claim-t-87290|Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]: Vytautas visame krašte uždėjo didžiulius mokesčius bajorams, miestiečiams ir prastuomenei pagal kiekvieno turto pajėgumą.
-- susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67236|Įkaitų davimas kaip sutarties garantija (sutartis)]]: 1390–1392 m. Vytauto duotų Ordinui įkaitų sąraše minimi du kunigaikščiai – Jurgis ir Jonas.
-- susijęs iš [[objektai/paprociai/Šventųjų sakramentų teikimas pagal graikų papročius.md#claim-t-185906|Šventųjų sakramentų teikimas pagal graikų papročius]]: Rusų šventikai ir vienuolynų viršininkai Vytauto valdose teikė sakramentus pagal graikų papročius ir atsisakė klausyti popiežiaus.
-- susijęs iš [[objektai/posakiai/Alexander alias Witowdus dei gracia magnus dux Litwanie.md#claim-t-95939|Alexander alias Witowdus dei gracia magnus dux Litwanie]]: Vytautas minėtame akte save titulavo „Alexander alias Witowdus dei gracia magnus dux Litwanie“.
-- susijęs iš [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj....md#claim-t-67256|Aš tave pasodinsiu Auksinėj Ordoj...]]: Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė siekti Tochtamyšo valdžios Ordoje ir Vytauto valdžios Rusioje.
-- susijęs iš [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj....md#claim-t-67257|Aš tave pasodinsiu Auksinėj Ordoj...]]: Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto.
-- susijęs iš [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją.md#claim-t-35964|Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]: Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu: šis gausiąs Ordą, o Vytautas valdysiąs Didžiąją Maskvos kunigaikštiją ir visą Rusią.
-- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185467|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams.
-- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185468|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
-- susijęs iš [[objektai/posakiai/Jūs abu esate mūsų viešpačiai.md#claim-t-35972|Jūs abu esate mūsų viešpačiai]]: Lenkų didikai Liubičo bylos metu pareiškė, kad Vytautas ir Jogaila yra jų viešpačiai, kurių sprendimas bus įvykdytas.
-- susijęs iš [[objektai/posakiai/Kad tik be arklio nebūtų.md#claim-t-47947|Kad tik be arklio nebūtų]]: Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, „kad tik be arklio nebūtų“.
-- susijęs iš [[objektai/posakiai/Kad tik be arklio nebūtų.md#claim-t-47948|Kad tik be arklio nebūtų]]: Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, kad tik neliktų be arklio.
-- susijęs iš [[objektai/posakiai/Mirė tikrai mūsų tautos garbė.md#claim-t-67275|Mirė tikrai mūsų tautos garbė.]]: Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui.
-- susijęs iš [[objektai/posakiai/Mūsų kraštą pavergti.md#claim-t-47949|Mūsų kraštą pavergti (kraštas)]]: Vytauto laiškuose imperatoriui Zigmantui ir ordino magistrui draudimas vainikuotis reiškė jo laisvės varžymą ir pastangas pavergti kraštą.
-- susijęs iš [[objektai/posakiai/Mūsų kraštą pavergti.md#claim-t-47950|Mūsų kraštą pavergti (kraštas)]]: Vytautas laiškuose imperatoriui Zigmantui ir ordino magistrui teigė, kad draudimas vainikuotis reiškė pastangas „mūsų kraštą pavergti“.
-- susijęs iš [[objektai/posakiai/Ne bičiulystės, o teisybės.md#claim-t-05378|Ne bičiulystės, o teisybės]]: Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.
-- susijęs iš [[objektai/posakiai/Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs.md#claim-t-86865|Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs]]: Krokuvos vyskupas Olesnickis Vytautui atsakė, kad jo nei dovanomis papirkti, nei grasinimais įbauginti neįstengs.
-- susijęs iš [[objektai/posakiai/Piktuoju iš manęs dar niekas nieko nelaimėjo.md#claim-t-06880|Piktuoju iš manęs dar niekas nieko nelaimėjo]]: Vytautas maršalkai pareiškė, kad piktuoju iš jo dar niekas nieko nelaimėjo ir kad savo nusistatymo jis nekeičia.
-- susijęs iš [[objektai/posakiai/Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas.md#claim-t-59157|Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas]]: 1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai buvę jo tėvų žemė ir kad jis reikalausiąs jų iki Osos.
-- susijęs iš [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta.md#claim-t-02079|Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]: Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.
-- susijęs iš [[objektai/posakiai/Tikslas pateisino priemones.md#claim-t-186418|Tikslas pateisino priemones.]]: Kovodamas dėl savo teisių Vytautas rinkosi ne visai teisėtas priemones, nes tikslas pateisino priemones.
-- susijęs iš [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du.md#claim-t-35985|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]: Prie Dniepro Vytautas atrėmė siūlymą dėl šalčių mesti kovą su totoriais, sakydamas, kad kariauti reikia prieš šaltį ir totorius.
-- susijęs iš [[objektai/posakiai/Trojos gudrumu.md#claim-t-184362|Trojos gudrumu]]: Vytauto planas „Trojos gudrumu“ netikėtai užimti Vilnių buvo išduotas, todėl sostinėje įsitvirtinti nepavyko.
-- susijęs iš [[objektai/posakiai/Trojos gudrumu.md#claim-t-28721|Trojos gudrumu]]: „Trojos gudrumu“ vadintas planas netikėtai užimti Vilnių buvo išduotas ir sostinėje įsitvirtinti nepavyko.
-- susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-71821|Viskas yra viena, viena žemė ir tie patys žmonės]]: Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.
-- susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-71822|Viskas yra viena, viena žemė ir tie patys žmonės]]: Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.
-- susijęs iš [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste.md#claim-t-176270|aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]: Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlogo vietoje ir pačiam valdyti Rusiją iš Maskvos.
-- susijęs iš [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste.md#claim-t-176271|aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]: Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste.
-- susijęs iš [[objektai/posakiai/dux Russiae.md#claim-t-35998|dux Russiae]]: Jogaila, siekdamas pašalinti Vytauto įtaką Lietuvoje, paskyrė savo vietininku pravoslavą Skirgailą, vadinamą „dux Russiae“.
-- susijęs iš [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų.md#claim-t-35999|galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]]: Ostrovos akto galia priklausė ne nuo pergamento, o nuo faktinių jėgų santykių ir diplomatinių sugebėjimų.
-- susijęs iš [[objektai/posakiai/galingi gyvenimo faktai toliau už jas nužengia arba jas padaro be vertės, tylinčiais popieriais.md#claim-t-36000|galingi gyvenimo faktai toliau už jas nužengia arba jas padaro be vertės, tylinčiais popieriais]]: Sutartis gali likti be vertės, kai galingi gyvenimo faktai ją pralenkia arba paverčia tylinčiu popieriumi.
-- susijęs iš [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.md#claim-t-11662|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]: Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.
-- susijęs iš [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota.md#claim-t-36006|karūna su karūna negali būti sujungta — inkorporuota]]: Formulė vartojama kaip argumentas prieš Lietuvos inkorporavimą į kitą karūną.
-- susijęs iš [[objektai/posakiai/lenkų ponus „užglostyti”.md#claim-t-34400|lenkų ponus „užglostyti”]]: Vytautas ėmėsi diplomatijos ir stengėsi lenkų ponus „užglostyti“, kai jo veiksmai dėl Podolijos ir Volynijos sukėlė jų pasipriešinimą.
-- susijęs iš [[objektai/posakiai/mokslo laikas.md#claim-t-184360|mokslo laikas]]: Ketveri Vytauto metai Ordino žemėse apibūdinti kaip naudingai praleistas „mokslo laikas“.
-- susijęs iš [[objektai/posakiai/mokslo laikas.md#claim-t-28707|mokslo laikas]]: Ketveri Vytauto metai ordino žemėse apibūdinti kaip naudingai praleistas „mokslo laikas“.
-- susijęs iš [[objektai/posakiai/ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas.md#claim-t-36010|ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas]]: Vytautui pradėjus valdyti, Lietuva faktiškai tapo autonomiška valstybe, o Vytautas buvo faktinis Lietuvos valdytojas.
-- susijęs iš [[objektai/posakiai/prieš vėją nepapūs.md#claim-t-36016|prieš vėją nepapūs]]: Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad „prieš vėją nepapūs“, o Vytautas buvo per galingas.
-- susijęs iš [[objektai/posakiai/tvirta, net plieninė ranka, didelis protas.md#claim-t-34432|tvirta, net plieninė ranka, didelis protas]]: Kęstučio sūnus Vytautas turėjo tvirtą, net plieninę ranką ir didelį protą.
-- susijęs iš [[objektai/posakiai/vardan tos Lietuvos.md#claim-t-36023|vardan tos Lietuvos]]: Posakis „vardan tos Lietuvos“ siejamas su patriotizmu, praeities meile ir jėgomis kovoje.
-- susijęs iš [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią.md#claim-t-34408|vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]: Vytautas manė, kad Kaributo siuntimas buvo vienintelis kelias atvesti husitus atgal į katalikų Bažnyčią.
-- susijęs iš [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią.md#claim-t-34409|vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]: Vytautas čekams husitams rašė, kad norėjo juos grąžinti Bažnyčiai ir galėtų tarpininkauti tarp jų ir Zigmanto.
-- susijęs iš [[objektai/posakiai/„Didžiuoju“.md#claim-t-75610|„Didžiuoju“]]: Vytautas pradėtas vadinti Didžiuoju, nes jo permainų reikšmę suvokė jau amžininkai.
-- susijęs iš [[objektai/posakiai/„Didžiuoju“.md#claim-t-75611|„Didžiuoju“]]: Vytautas pradėtas vadinti Didžiuoju, nes jau amžininkai suvokė jo laikų permainų reikšmę.
-- susijęs iš [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“.md#claim-t-26355|„Jūs norite man išplėšti tėvų palikimą...“]]: 1413 m. Salyno derybose Vytautas pareiškė, kad Ordinas nori išplėšti jo tėvų palikimą ir atimti Veliuonos pilį.
-- susijęs iš [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“.md#claim-t-26356|„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]: Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“
-- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26648|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVII–XVIII a. Vilniaus kaip „Lietuvos Jeruzalės“ idėja siejama su jo lyginimu su Krokuvos, Liublino ir Lvovo žydų kultūros centrais.
-- susijęs iš [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“.md#claim-t-183503|„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]: Gegužės 3-iosios konstitucijos formuluotė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.
-- susijęs iš [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“.md#claim-t-20870|„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]: Gegužės trečiosios konstitucijoje frazė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.
-- susijęs iš [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“.md#claim-t-36026|„Todėl ir reikia kariauti... šaltis ir totoriai.“]]: Vytautas prie Dniepro atrėmė, kad reikia kariauti, nes pergalė reikštų triumfą prieš šaltį ir totorius.
-- susijęs iš [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“.md#claim-t-186382|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]: Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats.
-- susijęs iš [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“.md#claim-t-186383|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]: Vytautas pareiškė, kad caro Tochtamišo neišduos, o su caru Timūr-Kutluku nori susitikti pats.
-- susijęs iš [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“.md#claim-t-186384|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]: Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats susitikti su Timūr-Kutluku.
-- susijęs iš [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“.md#claim-t-186385|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]: Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats matytis su Timūr-Kutluku.
-- susijęs iš 1382 m. Jogailos sutartis su ordinu dėl Žemaičių iki Dubysos: 1382 m. sutartimi su ordinu Jogaila pažadėjo per ketverius metus krikštytis, bet nevykdė sutarties punktų.
-- susijęs iš 1791 m. gegužės 16 d. įstatymas dėl kiekvieno trečio seimo Gardine: 1791 m. gegužės 16 d. priimtas įstatymas numatė kiekvieną trečią seimą Gardine ir atskiras Lietuvos atstovų sesijas.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius laimėjo dvejas kautynes, o prie Vorsklos pralaimėjo.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.
-- susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį: Dinaburgo komtūras iš Liksnos į Lietuvą pasiuntė Petrą surinkti žinių apie Švitrigailą.
-- susijęs iš Dvejų metų paliaubų sutartis su kryžiuočiais: Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.
-- susijęs iš Gegužės 3 d. konstitucija (1791 m.): Gegužės 3 d. konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.
-- susijęs iš Lenkijos karaliaus laiškas didžiajam magistrui dėl rūmų gydytojo: Lenkijos karalius laiške dėkojo didžiajam magistrui už atsiųstą rūmų gydytoją ir gyrė jo patyrimą.
-- susijęs iš Lites: Racionžo susitarimų dokumentai buvo išspausdinti leidinio „Lites“ antrajame tome 1892 m.
-- susijęs iš Melno taikos sutartis: 1422 m. Vilniui leista drauge su svarbiausiais karalystės miestais laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą.
-- susijęs iš Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.
-- susijęs iš Napierskio Index Cod. Hist. Dipl. Livoniae: Napierskio „Index Cod. Hist. Dipl. Livoniae“ siejamas su Dinaburgo komtūro pranešimu apie Vilniaus miesto, kapitulos ir pilies gaisrą.
-- susijęs iš Proposicio Samaytarum: Žemaičių pasiuntiniai „Proposicio Samaytarum“ skundėsi, kad Ordinas trukdė žemaičiams priimti katalikybę.
-- susijęs iš Tariamasis Brodnicos komtūro laiškas: Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.
-- susijęs iš Torno taika (1411 m.): Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė.
-- susijęs iš Urbono VI bulė dėl Vilniaus katedros ir vyskupijos: 1389 m. pabaigoje Poznanės vyskupas Dobrogostas Vilniuje paskelbė popiežiaus Urbono VI bulę.
-- susijęs iš Akmenų Brasta: Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
-- susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-- susijęs iš Aukštutinė Dauguva: Aukštutinės Dauguvos ir Dniepro sričių gyventojai mokesčius mokėjo laukinių žvėrių kailiukais ir medumi.
-- susijęs iš Azovas: Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.
-- susijęs iš Azovas: Vytautas prie Azovo buvo užėmęs ištisą ulusą ir jo žmonėms paliko teisę išpažinti senąjį tikėjimą.
-- susijęs iš Bajerburgas: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai.
-- susijęs iš Bajerburgas: 1384 m. liepos 9 d. pradėjęs išdavystę, Vytautas sunaikino jam pavestą Naująjį Bajerburgą.
-- susijęs iš Bajerburgas: 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį.
-- susijęs iš Betygala: Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.
-- susijęs iš Betygala: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-- susijęs iš Betygala: Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.
-- susijęs iš Bistrica: Jogaila buvo pastatęs bažnyčią Bistricoje.
-- susijęs iš Breslavas: 1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas.
-- susijęs iš Brianskas: 1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.
-- susijęs iš Brodnica: Vytautas 1414-1418 m. paliaubų pasitarimuose Brodnicoje gynė prekybos reikalus su Ordinu.
-- susijęs iš Brodnica: Vytautas paliko Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats skubiai grįžo į Lietuvą.
-- susijęs iš Cholmas: Cholmo stačiatikių vyskupas kartu su kitais vyskupais išleido aplinkraštį dėl savo teisių gynimo nuo Rusijos metropolitų.
-- susijęs iš Cudzeniškiai: 1396 m. Vilniuje surašyta privilegija Vytautas dovanojo Vilniaus katedros kapitulai Cudzeniškių valdą prie Medininkų pilies.
-- susijęs iš Daugai: Vytautas ir Jogaila viešėjo Dauguose, kai sužinojo apie jiems įžeidžiantį ir neteisingą sprendimą.
-- susijęs iš Daugpilis: Vytautas, įsiveržęs į Livoniją ir nusiaubęs kaimus, užėmė Daugpilį Dauguvos pakrantėje.
-- susijęs iš Didysis Naugardas: Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva, kaip anksčiau buvo padaręs Smolenske.
-- susijęs iš Didysis Naugardas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino sutartį, o Švitrigaila sustiprino ryšius su Naugardu.
-- susijęs iš Didysis Naugardas: Algirdo įtaka šiaurėje siekė Didžiojo Naugardo miesto respubliką.
-- susijęs iš Didysis Naugardas: 1407 m. Vytautas susitaikė su Didžiuoju Naugardu ir grąžino ten sau ištikimą Lengvenį Algirdaitį.
-- susijęs iš Didysis Naugardas: Vytautas turėjo patrankų per 1426 m. žygį į Pskovą ir 1428 m. žygį į Naugardą.
-- susijęs iš Didysis Naugardas: Vytautas 1428 m. pajungė Didįjį Naugardą tikrindamas rytinius Lietuvos valstybės pakraščius.
-- susijęs iš Didysis Naugardas: Vytautas turėjo patrankų per 1426 m. žygį į Pskovą ir 1428 m. žygį į Naugardą.
-- susijęs iš Didžioji Lenkija: Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją.
-- susijęs iš Dniepras: Nemuno ir Dniepro baseinai jungė valstybę su Baltijos ir Juodąja jūromis, todėl jos padėtis buvo patogi prekybai.
-- susijęs iš Dniepras: Vytauto remiamas Kijevas Dniepro upe susisiekė su Juodąja jūra.
-- susijęs iš Dniepras: Vytautas rėmė Kijevą, kuris Dniepro upe turėjo susisiekimą su Juodąja jūra.
-- susijęs iš Dniepras: Vytauto valstybės teritoriją su Juodosios jūros kryptimi jungė platus Dniepro baseinas.
-- susijęs iš Dobrynė: Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atiduos Žemaičius ir Dobrynę.
-- susijęs iš Donas: Vytautas žygiavo į Okos ir Dono aukštupius suvaldyti jam nepaklusnių kunigaikščių.
-- susijęs iš Dorpatas: Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos.
-- susijęs iš Drohičinas: Jogailos kariuomenė prie Drohičino sutiko stiprų pasipriešinimą, bet po puolimų ir gaisro gavo apdegusią pilį.
-- susijęs iš Drohičinas: Kazimierui būnant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta.
-- susijęs iš Drohičinas: Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną.
-- susijęs iš Druckas: Užpuolęs ir užėmęs Oršą, Vytautas patraukė į Drucką.
-- susijęs iš Druckas: Lietuvos metraštyje Vytautas vaizduojamas kaip su Skirgaila ir didele kariuomene žygiuojantis prieš Švitrigailą į Vitebską ir pirmiausia atvykstantis prie Drucko pilies.
-- susijęs iš Dubrovna: Bychovco kronikoje pasakojama, kad Jogaila ir Vytautas su savo kariuomenėmis, perėję miškus, priėjo Dubrovnos laukus.
-- susijęs iš Dubysa: Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.
-- susijęs iš Dubysa: Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala.
-- susijęs iš Dubysa: Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius.
-- susijęs iš Dubysa: Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio.
-- susijęs iš Dubysa: Konradas Zöllneris von Rotensteinas su komtūrais ir dviem vyskupais išsirengė į Dubysos salą krikštyti lietuvių kunigaikščių.
-- susijęs iš Dubysa: 1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.
-- susijęs iš Dubysa: Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose pilis.
-- susijęs iš Dubysos upė: Kelionė iš Kauno tęsėsi Nemunu iki Dubysos upės, o Dubysa - iki Aukokalnio ties dabartine Betygala.
-- susijęs iš Dubysos upė: Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose buvusias pilis ir atstatyti sudegintą Veliuoną.
-- susijęs iš Gardinas: Kadangi Trakai jau buvo atiduoti Skirgailai, Vytautas galėjo gauti tik Gardiną su Palenke.
-- susijęs iš Gardinas: Vilniaus ir Gardino apylinkėse buvo laikoma daugiau jaučių.
-- susijęs iš Gardinas: 1392 m. birželio pabaigoje Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.
-- susijęs iš Gardinas: 1376 m. Vytautas, jau būdamas Gardino kunigaikštis, dalyvavo žygyje prieš lenkus.
-- susijęs iš Gardinas: Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.
-- susijęs iš Gardinas: Vytautas turėjo valdyti atgaunamus Trakus, Gardiną ir kitas žemes kaip Ordino vasalas.
-- susijęs iš Gardinas: Vytautas galėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai.
-- susijęs iš Gardinas: 1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir dar labiau įtvirtino Gardiną kaip savo buveinę.
-- susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
-- susijęs iš Gardinas: Jaučių daugiau buvo laikoma Vilniaus ir Gardino apylinkėse.
-- susijęs iš Gardinas: 1429 m. rugsėjo 29 d. Vytautas svečius priėmė savo dvare Gardine.
-- susijęs iš Gardinas: Vytautas, negavęs Skirgailai atiduotų Trakų, galėjo gauti tik Gardiną su Palenke.
-- susijęs iš Grabovė: Vytautas prekybos reikalus gynė ir 1414–1418 m. paliaubų pasitarimuose Grabovėje.
-- susijęs iš Grajevas: Melno sutartimi nustatyta siena senojoje jotvingių žemėje ėjo Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
-- susijęs iš Heilsbergas: Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių.
-- susijęs iš Jotvingija: Vytautas rašte Zigmantui teigė, kad Sūdavija su Jotvingija, arba Dzūkija, yra lietuvių kraštai, dėl kurių ginčo negali kilti.
-- susijęs iš Juodmarių pakraštys: Vytautas savo valdymo pabaigoje valdė Juodmarių pakraščio totorius.
-- susijęs iš Kaffa: Į Kaffos miestą Kryme vykdavo pirkliai iš Lietuvos ir Rusijos, ten susitikdavę su Genujos ir Venecijos pirkliais.
-- susijęs iš Karaliaučius: Kailiai buvo parduodami Karaliaučiaus, Dancigo ir Breslavo pirkliams.
-- susijęs iš Karaliaučius: Vytauto laikais kailiai buvo parduodami Karaliaučiaus, Dancigo ir Breslavo pirkliams.
-- susijęs iš Kaunas: Vytautas atstatė Kauno pilį ir kitas Ordino pasienyje sugriautas pilis.
-- susijęs iš Kaunas: 1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą.
-- susijęs iš Kaunas: Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui.
-- susijęs iš Kaunas: Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje.
-- susijęs iš Kaunas: Makrai pasirinkus Kauną bylos sprendimo vieta, abi pusės ten pristatinėjo savo liudininkus.
-- susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
-- susijęs iš Kaunas: Žiemą Vytautas tylomis miškais priėjo prie Kauno, tikėdamasis užimti miestą ir pilį Neries bei Nemuno santakoje.
-- susijęs iš Kijevas: Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais.
-- susijęs iš Kijevas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.
-- susijęs iš Kijevas: 1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo.
-- susijęs iš Kijevas: 1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.
-- susijęs iš Kijevas: Vytautas rėmė Kijevo miestą, siekdamas atgaivinti prekybą rusiškuose kraštuose.
-- susijęs iš Kijevas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.
-- susijęs iš Kijevas: Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
-- susijęs iš Kijevas: 1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą gavo Skirgaila.
-- susijęs iš Kijevas: 1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.
-- susijęs iš Kijevas: 1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą perdavė Skirgailai.
-- susijęs iš Kijevas: Per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
-- susijęs iš Kijevas: Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.
-- susijęs iš Kijevo Rusia: Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią.
-- susijęs iš Klaipėda: Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir į Užnemunę.
-- susijęs iš Klaipėda: Vytautas teigė, kad Klaipėda priklausė Žemaitijos plotui.
-- susijęs iš Klaipėda: Makras sienų raporte į Žemaitijos ribas įskaitė ne tik Veliuoną, bet ir Klaipėdą.
-- susijęs iš Klevanė: Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje.
-- susijęs iš Konstanca: Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs.
-- susijęs iš Konstanca: G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose.
-- susijęs iš Konstancija: Vytautas ir Jogaila susitaikė, nes abiem rūpėjo kryžiuočių klausimas, susijęs su Konstancijoje vykusiu suvažiavimu.
-- susijęs iš Konstancija: Vytautas ir Jogaila susitaikė, nes prieš Konstancijos suvažiavimą abiem rūpėjo kryžiuočių klausimas.
-- susijęs iš Kovelis: Sanguškos, kilę iš šalutinių Gediminaičių šakų, sukūrė tėvoniją Kovelyje, vėliau Slavuta.
-- susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
-- susijęs iš Kremencas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir vietoj Trakų kunigaikštijos atiduoti jam Kremencą bei Stožką.
-- susijęs iš Kremenecas: Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m.
-- susijęs iš Krokuva: Žygimanto Augusto laikais geriausi amatininkai iš Krokuvos apsigyveno Vilniuje ir prisidėjo prie cechų organizavimo.
-- susijęs iš Krokuva: 1403 m. Vytautas užtikrino Krokuvos pirkliams apsaugą visoje savo valstybėje ir leido jiems laisvai prekiauti Lietuvoje bei Rusijoje.
-- susijęs iš Krokuva: Vytauto laikų Lietuvai netoli buvo prekybos centrai, tarp jų Ryga, Dancigas ir Krokuva.
-- susijęs iš Krokuva: Vytautas bandė dovanomis ir pažadais palenkti Krokuvos vyskupą Olesnickį, turėjusį lemiamą balsą karaliaus taryboje.
-- susijęs iš Krokuva: Vytautas mėgino dovanomis ir pažadais palenkti Krokuvos vyskupą Olesnickį palaikyti jo karūnavimo siekį.
-- susijęs iš Krokuva: Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai.
-- susijęs iš Krokuva: Po paskutinio pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus grįžo į Lietuvą.
-- susijęs iš Krokuva: Po paskutinio savo pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus sugrįžo į Lietuvą.
-- susijęs iš Krokuva: Vytauto laikais Krokuva buvo vienas prekybos centrų netoli Lietuvos.
-- susijęs iš Krymas: 1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.
-- susijęs iš Krėva: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.
-- susijęs iš Krėva: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas.
-- susijęs iš Kulmo žemė: Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams.
-- susijęs iš Kęstučio dvaras: Kęstučio dvare buvo sukaupta daug žinių apie Lietuvos kaimynus.
-- susijęs iš Lenkija: Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.
-- susijęs iš Lenkija: Vytauto karūnacija Lenkijai kėlė pavojų, nes Lietuva galėjo visiškai išsivaduoti iš Lenkijos.
-- susijęs iš Lenkija: Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.
-- susijęs iš Lenčica: Po pareiškimo Jogailai Vytauto pasiuntiniai greitai išvyko iš Lenčicos.
-- susijęs iš Lenčica: 1429 m. birželio 18 d. Vytauto delegatai Gedgaudas ir Rumbaudas atvyko į Lenčicą ir įteikė Jogailai Vytauto laišką.
-- susijęs iš Lietuva: 1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti visą Lietuvą.
-- susijęs iš Lietuva: Vytautas kovojo ne su Vakarais, o dėl Lietuvos vietos Vakaruose ir padėjo pagrindus Lietuvos tapsmui Europos dalimi.
-- susijęs iš Lietuva: Vytautas įvairiais būdais stiprino savo aukščiausią valdžią Lietuvoje ir atkakliai šalino kliūtis.
-- susijęs iš Lietuva: Zigmantas siūlė Jogailai karūnuoti Vytautą, nes Vytautas buvo nusipelnęs Lietuvai įvesdamas joje krikščionybę.
-- susijęs iš Lietuva: Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir padėjo jai pritapti Europoje.
-- susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą, niokojo kraštą ir pasiekė Trakus.
-- susijęs iš Lietuva: Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.
-- susijęs iš Lietuva: Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką.
-- susijęs iš Livonija: 1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
-- susijęs iš Luckas: 1392 m. Astrave Vytautas ir Ona jau titulavosi Trakų ir Lucko kunigaikščiais.
-- susijęs iš Luckas: 1429 m. Vytautas sukvietė Lucko suvažiavimą.
-- susijęs iš Luckas: 1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais.
-- susijęs iš Luckas: Lucke būrėsi Jogaila nepatenkinti ir nuo jo nukentėję kunigaikščiai bei bajorai.
-- susijęs iš Marienburgas: Vytauto kariuomenę išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos.
-- susijęs iš Marienburgas: 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.
-- susijęs iš Maskva: Vytautas siekė paimti Maskvą savo valdžion arba bent turėti jai didelę įtaką.
-- susijęs iš Maskva: Maskvos metropolitams kasmet buvo teikiamos nemažos pajamos iš Lietuvos.
-- susijęs iš Maskva: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.
-- susijęs iš Maskva: Vytautas esą žadėjo Tochtamišui ordos sostą mainais į savo pasodinimą Maskvos didžiojoje kunigaikštijoje ir visos Rusios valdžioje.
-- susijęs iš Maskva: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.
-- susijęs iš Maskva: Vytautas rytuose siekė valdyti arba stipriai paveikti Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius.
-- susijęs iš Maskva: Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi.
-- susijęs iš Maskva: Vytauto kariuomenės būrys palydėjo į Maskvą vykstantį kunigaikščio sūnų Vosylių.
-- susijęs iš Maskva: Vytautas laikė Maskvos metropolitų religinę viršenybę viena opiausių kliūčių savo valdžiai Lietuvoje stiprinti.
-- susijęs iš Maskva: Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias.
-- susijęs iš Maskva: Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir nurodė vyskupams išrinkti Lietuvai atskirą metropolitą.
-- susijęs iš Maskvos žemės: Vytautas anksti pradėjo dalyvauti karo žygiuose: 1368 ir 1372 m. žygiavo į Maskvos žemes, o 1376 m. dalyvavo žygyje prieš lenkus.
-- susijęs iš Mažoji Lenkija: Vytautas atkeldino benediktinus į Senuosius Trakus iš Mažosios Lenkijos.
-- susijęs iš Mcenskas: Vytautui pasidavė Mcensko, Liubutsko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kitos Okos aukštupio kunigaikštijos.
-- susijęs iš Merkinė: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.
-- susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
-- susijęs iš Mielnikas: 1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.
-- susijęs iš Naugardas Sieverskas: Numalšinęs Volynijos kunigaikštį Feodorą, Vytautas pavedė jam valdyti Sieversko Naugardą.
-- susijęs iš Naugardas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
-- susijęs iš Naugardas: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.
-- susijęs iš Naugardas: Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.
-- susijęs iš Naugardas: Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva.
-- susijęs iš Naugardas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
-- susijęs iš Naugardėlis: Vytautas pastatė bažnyčią Naugardėlyje.
-- susijęs iš Naujasis Gardinas: Vytautas atsigręžė prieš Naująjį Gardiną ir Meteną, o šios pilys buvo sunaikintos iki pamatų.
-- susijęs iš Naujieji Trakai: Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip nežinoma.
-- susijęs iš Nemunas: Ordino įgaliotiniai įrodinėjo, kad Žemaitijos sienos prasideda keturios mylios nuo Nemuno krantų.
-- susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
-- susijęs iš Nemunas: Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.
-- susijęs iš Nemunas: Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos, aukščiau Insterburgo.
-- susijęs iš Nemunas: Didysis magistras anapus Nemuno ėmė statydinti ir stiprinti Rittersverderio pilį.
-- susijęs iš Nemunas: 1410 m. išvedus visą kariuomenę iš Lietuvos, pilys liko neapsaugotos, o Ordino puolimas prie Nemuno galėjo baigtis katastrofa.
-- susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
-- susijęs iš Nemunas: Vytautas laiške Prūsijos ordinui žadėjo pagalbą statant dvi pilis išilgai Nemuno iki Strėvos žiočių.
-- susijęs iš Nemunas: Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.
-- susijęs iš Nemunas: Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją.
-- susijęs iš Nemunas: Ordino įgaliotiniai įrodinėjo, kad Žemaitijos sienos prasideda keturios mylios nuo Nemuno krantų.
-- susijęs iš Nemunas: Kojelavičiaus pasakojime, netekęs vilties užimti pilį, priešininkas pasitraukė į Nemuno salas ir ten pastatė naujas pilis.
-- susijęs iš Neries sritis: 1362 m. išgriovę Kauno pilį, vokiečiai pradėjo brautis gilyn į Lietuvą ir pasiekė Vilniaus bei Neries sritis.
-- susijęs iš Nevėžis: Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio.
-- susijęs iš Nevėžis: 1398 m. Vytautas užrašė Ordinui Žemaičių kraštą iki Nevėžio upės.
-- susijęs iš Nevėžis: 1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.
-- susijęs iš Osa: Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija.
-- susijęs iš Ovručas: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
-- susijęs iš Palenkė: Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke.
-- susijęs iš Palenkė: Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai.
-- susijęs iš Palenkė: Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.
-- susijęs iš Pavolgis: 1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.
-- susijęs iš Pernu: Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdansko laivais pasiekė Pernu ir Pskovą.
-- susijęs iš Podolija: Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.
-- susijęs iš Podolė: Vytautas buvo perleidęs Švitrigailai Kamenecą ir kitas Podolės pilis.
-- susijęs iš Podolė: 1395 m. Vytautas paskyrė savo vietininką Podolėje.
-- susijęs iš Podolė: Po Vytauto mirties lenkai pradėjo konfliktą dėl Podolės žemių, suėmė Lietuvos vietininką Daugirdą ir užėmė pilis.
-- susijęs iš Podolė: Vytautas, vėl prijungęs Podolę prie Lietuvos, jos pilyse ir miestuose paliko lietuvių įgulas bei lietuvių kilmės vietininkus.
-- susijęs iš Podolė: Lietuvos metraštis Vytautą vadina didžiuoju kunigaikščiu ir rašo, kad pavasariop jis ištraukė į Podolės žemę.
-- susijęs iš Polockas: Vytautas patvirtino laisvos prekybos sutartį ir suteikė Polockui daugiau laisvės.
-- susijęs iš Pomeranija: 1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino Pomeranijos hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
-- susijęs iš Praga: Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.
-- susijęs iš Praga: Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.
-- susijęs iš Pronskas: Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.
-- susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
-- susijęs iš Prūsija: Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas seniau priklausė jo protėviams.
-- susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
-- susijęs iš Prūsija: 1390 m. sausio pradžioje Vytautas išsiuntė savo šeimą iš Gardino į Prūsiją.
-- susijęs iš Prūsija: 1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir rengėsi atnaujinti sutartis su didžiuoju magistru.
-- susijęs iš Prūsija: Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas esą anksčiau priklausė jo protėviams.
-- susijęs iš Pskovas: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
-- susijęs iš Pskovas: Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.
-- susijęs iš Pskovas: Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje.
-- susijęs iš Pskovas: 1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai.
-- susijęs iš Pskovas: Senyvo amžiaus Vytautas kovėsi su Pskovu ir Naugardu, keršydamas už Lietuvai šių miestų padarytas skriaudas.
-- susijęs iš Pskovas: 1427 m. sėkmingas Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių dėl belaisvių paleidimo.
-- susijęs iš Pskovas: 1449 m. Kazimiero ir Maskvos taikoje Pskovas buvo paliktas Maskvos įtakos sričiai.
-- susijęs iš Pskovas: Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.
-- susijęs iš Riazanė: Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką.
-- susijęs iš Riazanė: Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą.
-- susijęs iš Riazanė: Vytautas siekė Riazanę ir kitas rytų žemes paimti savo valdžion arba turėti joms didelę įtaką.
-- susijęs iš Riazanė: Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė.
-- susijęs iš Riazanė: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš Riazanė: Vytautas ties Niekudavu sutriuškino Riazanės kunigaikščio eiles.
-- susijęs iš Riazanė: Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.
-- susijęs iš Riazanės kunigaikštystė: Riazanės didysis kunigaikštis Olegas su sąjungininkais puolė Lietuvą ir jai padarė žalos.
-- susijęs iš Riazanės kunigaikštystė: Vytautas puolė Riazanės kunigaikštystę, gindamas savo pozicijas Smolenske.
-- susijęs iš Rittersverderis: 1391 metų pabaigoje Vytautas ėmė telkti savo šalininkus į Rittersverderį iš kitų Ordino pilių.
-- susijęs iš Ritterswerderis: 1392 m. birželio pabaigoje Vytautas staiga grįžo ir sudegino Ritterswerderį bei dar dvi Ordino pilis prie Nemuno.
-- susijęs iš Rudamina: Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė.
-- susijęs iš Rudamina: Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę.
-- susijęs iš Rudamina: Vytautas ties Rudamina pasitiko kryžiuočius, bet per tirštą rūką klaidingai įvertino jų pajėgas ir atsitraukė.
-- susijęs iš Rusų žemė: Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui.
-- susijęs iš Salynas: Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas.
-- susijęs iš Salynas: Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.
-- susijęs iš Salyno sala: Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.
-- susijęs iš Seversko Naugardas: Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.
-- susijęs iš Seversko Naugardas: Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Kaributą.
-- susijęs iš Silezija: Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.
-- susijęs iš Skirsnemunė: 1409 m. nuo Skirsnemunės pradėtos deginti kryžiuočių pilys, o kryžiuočiai buvo išvyti iš Žemaičių.
-- susijęs iš Slavuta: Voluinėje Sanguškos sukūrė tėvonijas Kovelyje ir vėliau Slavuta.
-- susijęs iš Smolenskas: Vytautas užėmė Smolenską ir pasodino ten savo vietininką kunigaikštį Jomantą.
-- susijęs iš Smolenskas: Vytautas užėmė Smolenską ir pasodino ten savo vietininką kunigaikštį Jomantą.
-- susijęs iš Smolenskas: Vytautas buvo įsirengęs stovyklą prie Smolensko ir vėliau užėmė šį miestą.
-- susijęs iš Smolenskas: Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais.
-- susijęs iš Smolenskas: Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.
-- susijęs iš Smolenskas: 1411 m. pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.
-- susijęs iš Smolenskas: Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais.
-- susijęs iš Smolenskas: Vytautas 1404 m. birželio 27 d. užvaldė Smolenską ir jame vėl paskyrė savo vietininką.
-- susijęs iš Smolenskas: Kojelavičiaus pasakojime Vytautas išvijo priešininkus iš Oršos krašto ir užpuolė Smolenską, pavadintą maišto pradininku.
-- susijęs iš Smolenskas: Ivanas Boreikaitis Chodkevičius į sutartą vietą atvyko su Seversko ir Smolensko kariais.
-- susijęs iš Stožkas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.
-- susijęs iš Stralsundas: Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.
-- susijęs iš Sūdavija: Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas.
-- susijęs iš Sūduva: Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją.
-- susijęs iš Tamova: Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.
-- susijęs iš Tauro kalnas: Bychovco kronika pasakoja, kad Vytautas įkasė patrankas Tauro kalne, pavadintame pagal Gedimino nudėtą taurą.
-- susijęs iš Tavano pilis: Vytautas lietuvių Tavano pilyje prie Dniepro įsteigė muitinę, vadintą Vytauto pirtimi.
-- susijęs iš Tavanė: 1398 m. Vytautas prie Žemutinio Dniepro iš molio ir akmenų pastatė Tavanės pilį, pavadintą šv. Jono vardu.
-- susijęs iš Tornas: Po 1411 m. Torno sutarties santykiai nepagerėjo, nors joje buvo susitarta dėl laisvos savitarpio prekybos.
-- susijęs iš Tornas: Po 1411 m. Torno sutarties santykiai nepagerėjo, nors sutartyje buvo susitarta dėl laisvos savitarpio prekybos.
-- susijęs iš Točilovo ežerai: Melno sutarties siena senojoje jotvingių žemėje ėjo aukščiau Grajevo ir Točilovo ežerų.
-- susijęs iš Točilovo ežeras: Melno sutarties siena senojoje jotvingių žemėje ėjo aukščiau Grajevo ir Točilovo ežero.
-- susijęs iš Trakai: 1384 m. Vytauto privilegijoje Trakai apibūdinti kaip svarbus Lietuvos miestas, kuriame jau būta krikščionių bažnyčių.
-- susijęs iš Trakai: 1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.
-- susijęs iš Trakai: 1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis.
-- susijęs iš Trakai: Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.
-- susijęs iš Trakai: Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo iškilmingai palaidoti Vilniuje.
-- susijęs iš Trakai: Balińskis manė, kad Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą.
-- susijęs iš Trakai: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose.
-- susijęs iš Trakai: Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete.
-- susijęs iš Trakai: Vytautas būdamas Trakuose nerimavo dėl išdavystės ir norėjo ten pasilikti dar dvylika savaičių.
-- susijęs iš Trakai: Vytautas su žemaičiais ir Kojelavičiaus vadinamas Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.
-- susijęs iš Trakų pilis (pilis): Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.
-- susijęs iš Trakų pilis (pilis): Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį.
-- susijęs iš Trakų vaivadija: Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.
-- susijęs iš Turovas: Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.
-- susijęs iš Tverė: Vytautas gerais santykiais su Didžiuoju Magistru siekė apsaugoti savo susilpnėjusią įtaką Tverio kunigaikštijoje.
-- susijęs iš Tverė: Vytauto rytų politikoje Tverė buvo viena iš sričių, kurią jis siekė paimti savo valdžion arba turėti jai didelę įtaką.
-- susijęs iš Tverė: Vytautas rytų politikoje siekė valdyti arba stipriai veikti Tverę, Maskvą, Pskovą, Naugardą, Riazanę ir totorius.
-- susijęs iš Tverė: Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais.
-- susijęs iš Tverė: Susilpnėjusią įtaką Rusijoje, ypač Tverės kunigaikštijoje, buvo siekiama apsaugoti gerais santykiais su didžiuoju magistru.
-- susijęs iš Tyniec: Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.
-- susijęs iš Ukmergė: Vytautas veikė Bopartėnų, Ukmergės ir Kulvos srityse.
-- susijęs iš Ukmergė: Vytautas veikė Ukmergės, Kulvos ir Bopartėnų srityse.
-- susijęs iš Užnemunė: Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.
-- susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.
-- susijęs iš Veliuona: 1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų.
-- susijęs iš Veliuona: Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.
-- susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.
-- susijęs iš Veliuona: 1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų.
-- susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems.
-- susijęs iš Veliuona: Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.
-- susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.
-- susijęs iš Veližas: Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
-- susijęs iš Vengrija: Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją.
-- susijęs iš Viazma: Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.
-- susijęs iš Viazma: Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos.
-- susijęs iš Viazma: Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus.
-- susijęs iš Vilniaus katedra: Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m. jos kapitulai dovanojo Cudzeniškių valdą.
-- susijęs iš Vilniaus katedra: Vilniaus katedra sudegė 1399 metais.
-- susijęs iš Vilniaus katedra: Jogaila Vladislovas buvo Vilniaus katedros fundatorius.
-- susijęs iš Vilniaus katedra: Stanislovo garbei, iškilmingai pripažinta katedra.
-- susijęs iš Vilnius: 1323 m. Gediminas gyveno Vilniuje, iš čia rašė laiškus ir derėjosi su Ryga bei Ordinu, o Vilnius tapo nuolatine Lietuvos sostine.
-- susijęs iš Vilnius: Vytauto laikais Vilnius išaugo į didelį rytų Europos miestą.
-- susijęs iš Vilnius: Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija.
-- susijęs iš Vilnius: Vytautas su savo šalininkais nutarė slapčia užimti Vilnių, bet jų sumanymas buvo išduotas.
-- susijęs iš Vilnius: Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija.
-- susijęs iš Vilnius: Vytautui nepavyko įveikti Vilniaus, kuriame jis neturėjo palaikytojų.
-- susijęs iš Vilnius: 1392 m. Vytautas, nors dokumentuose tai neminima, turėjo gauti ir Vilnių.
-- susijęs iš Vilnius: Vytautui nepavyko įveikti Vilniaus, nes mieste jis neturėjo palaikytojų.
-- susijęs iš Vilnius: 1392 m. Vytautas turėjo gauti ir Vilnių, nors dokumentuose tai nepaminėta.
-- susijęs iš Vilnius: Vytautas su visomis pajėgomis apgulė Vilnių, šturmavo Kreivąją pilį, šaudė iš patrankų ir ją paėmė.
-- susijęs iš Vitebskas: 1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.
-- susijęs iš Vitebskas: Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo jį užėmė, o Švitrigailą paėmė į nelaisvę.
-- susijęs iš Vitebskas: Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą.
-- susijęs iš Vitebskas: Vytautas su Skirgaila ir didele kariuomene žygiavo į Vitebską prieš kunigaikštį Švitrigailą.
-- susijęs iš Vladimiras: Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.
-- susijęs iš Vokietija: Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai.
-- susijęs iš Vokiečių ordino teritorija: Į Vokiečių ordino teritoriją įsiveržta žygiuojant tiesiai link sostinės ir siekiant susidurti su visomis Ordino pajėgomis.
-- susijęs iš Volynija: Vytauto laikais Krokuvos ir vokiečių pirkliai sausuma lankydavo Volynijos ir Podolijos miestus.
-- susijęs iš Volynija: 1384 m. pavasarį Jogaila siūlė Vytautui grąžinti tėviškę ir pridėti Volyniją su Lucku.
-- susijęs iš Volynija: Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.
-- susijęs iš Volynė: Po Lucko suvažiavimo imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, patraukė iš Volynės į Vengriją.
-- susijęs iš Voronačas: 1406 m. Vytautas dvi dienas buvo apgulęs Pskovui priklausiusį Voronačą.
-- susijęs iš Vorskla: Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.
-- susijęs iš Vorskla: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
-- susijęs iš Vorskla: Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos.
-- susijęs iš Vorskla: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
-- susijęs iš Vorskla: Vytauto žygis prie Vorsklos buvo pralaimėtas.
-- susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
-- susijęs iš Vysla: Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.
-- susijęs iš Vysla: Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.
-- susijęs iš Vyšnivecis: Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje.
-- susijęs iš Zapyškis: XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį.
-- susijęs iš Zna: Vytautas toliausiai nuėjo iki Okos prieupio Zna už Pronsko, netoli dabartinės Penzos.
-- susijęs iš Zvenigorodas: 1396 m. rudenį Skirgaila Vytauto nurodymu paėmė Zvenigorodą ir prijungė šias Aukso ordai pavaldžias žemes prie LDK.
-- susijęs iš Čekija: Vytautas į Čekiją su 5000-7000 vyrų nusiuntė Zigmantą Kaributaitį, ten vadintą Kaributu.
-- susijęs iš Čekija: Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.
-- susijęs iš Černigovas: Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
-- susijęs iš Černigovas: 1411 m. pavasarį Vytautas keliavo pro Černigovą iki Kijevo, o vietos kunigaikščiai jam reiškė paklusnumą.
-- susijęs iš Černigovas: Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų.
-- susijęs iš Červinskas: 1418 m. Vytautas ir Jogaila sutelkė kariuomenes prie Červinsko, bet popiežiaus pasiuntiniai pratęsė paliaubas dar metams.
-- susijęs iš Žemaitija: Vytauto tėvas, gindamas Žemaitijos ir lietuvių laisvę, nuolat kariavo su kardininkais iš šiaurės ir kryžiuočiais iš vakarų.
-- susijęs iš Žemaitija: Derybose dėl sienų Vytautas reikalavo Žemaitijai plačių sienų, tačiau Ordinas su tuo nesutiko.
-- susijęs iš Žemaitija: 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.
-- susijęs iš Žemaitija: Vytautas išvyko į Žemaitiją, kur žmonės ir bajorai buvo palankūs jo tėvui Kęstučiui ir nusistatę prieš Jogailą.
-- susijęs iš Žemaitija: Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę, kai kardininkai ir kryžiuočiai smarkiai puldinėjo Lietuvą.
-- susijęs iš Žemaitija: 1398 m. spalio 12 d. Salyne Vytautas atidavė Ordinui visą Žemaitiją.
-- susijęs iš Žemaitija: Vytauto laikais kolonizuota Žemaitija ir kiti jam priklausę kraštai.
-- susijęs iš Žemaitija: Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę nuo kardininkų ir kryžiuočių antpuolių.
-- susijęs iš Žemaitija: Vytautas reikalavo plačių Žemaitijos sienų, o Vokiečių ordinas nenorėjo su tuo sutikti.
-- susijęs iš Žemaitija: Po Žalgirio mūšio Vytautas pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.
-- susijęs iš Žemaitija: 1398 m. vasarį Kryžiuočių ordino Livonijos atšakos pajėgos smogė Žemaitijai ir daug žmonių išsivedė į nelaisvę.
-- susijęs iš Žemaitija: Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.
-- susijęs iš Žemaitija: Trijuose suvažiavimuose dėl sienų Vytautas reikalavo plačių Žemaitijos ribų, bet Ordinas su tuo nesutiko.
-- susijęs iš Žemaitija: Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.
-- susijęs iš Žemaitija: Narbutas remiasi Lasickiu, kad Žemaitijoje ežeras Orthus buvo laikomas dievu.
-- susijęs iš Žemaičių seniūnija: Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
-- susijęs iš Žitomiras: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
-- susijęs iš [[objektai/zodynas/Lietuvos didysis kunigaikštis.md#claim-t-185374|Lietuvos didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
-- susijęs iš [[objektai/zodynas/Machtmensch.md#claim-t-34303|Machtmensch]]: Vytautas apibūdinamas kaip „Machtmensch“, siejamas su garbės ir valdžios troškimu.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės vokiečių teisė.md#claim-t-86535|Magdeburgo teisės vokiečių teisė]]: Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.
-- susijęs iš [[objektai/zodynas/Pilininkas capitaneus seniūnas.md#claim-t-86568|Pilininkas capitaneus seniūnas]]: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.
-- susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-55267|Pilininkas]]: Vilniaus pilininkas su miestiečiais sumušė Kęstučio įgulą ir Žemutinę bei Aukštutinę pilis atidavė Jogailai.
-- susijęs iš [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės.md#claim-t-86576|Tėvonija paveldas paveldėjimo teisės]]: 1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių žadėjo perleisti paveldėjimo teises kryžiuočiams.
-- susijęs iš [[objektai/zodynas/apsikarūnavimas.md#claim-t-36766|apsikarūnavimas]]: Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnavimui.
-- susijęs iš [[objektai/zodynas/atskala.md#claim-t-185347|atskala]]: Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos.
-- susijęs iš [[objektai/zodynas/avantiūristas.md#claim-t-36768|avantiūristas]]: 1930 m. veikale Vytautas iki 1392 m. vaizduojamas kaip nepastovus avantiūristas, o nuo 1392 m. - kaip rimtas valdovas monarchas.
-- susijęs iš [[objektai/zodynas/bažnytinė provincija.md#claim-t-70098|bažnytinė provincija]]: Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą.
-- susijęs iš [[objektai/zodynas/bažnytinė provincija.md#claim-t-70099|bažnytinė provincija]]: Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.
-- susijęs iš [[objektai/zodynas/bažnytinė provincija.md#claim-t-70100|bažnytinė provincija]]: Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.
-- susijęs iš [[objektai/zodynas/bažnytinė provincija.md#claim-t-70101|bažnytinė provincija]]: Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją.
-- susijęs iš [[objektai/zodynas/chanas.md#claim-t-78882|chanas]]: Prieš mūšį Vytautas pokalbyje su chanu Timūr-Kutluku tarsi reikalavo pavaldumo ir Ordos pinigų žymėjimo Vytauto ženklu.
-- susijęs iš [[objektai/zodynas/chanas.md#claim-t-78883|chanas]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
-- susijęs iš [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai.md#claim-t-22096|dalinių kunigaikštijų sistema vietininkai]]: Vytautas 1394 m. panaikino Kijevo kunigaikštiją, o 1395 m. paskyrė savo vietininką Podolėje.
-- susijęs iš [[objektai/zodynas/didysis kunigaikštis.md#claim-t-185401|didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
-- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113612|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių.
-- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113620|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe.
-- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113621|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių.
-- susijęs iš [[objektai/zodynas/dominija.md#claim-t-173016|dominija]]: Vytauto valdytos Lietuvos dominijos, žemės, turtai ir kunigaikštijos turėjo tekti Jogailai, jo įpėdiniams, karūnai ir Lenkijos karalystei.
-- susijęs iš [[objektai/zodynas/dominija.md#claim-t-173017|dominija]]: Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai.
-- susijęs iš [[objektai/zodynas/duoklė.md#claim-t-187519|duoklė]]: Naugardiečiai pasižadėjo Vytautui tarnauti, duoti duoklę ir laikyti jį savo valdovu kaip pskoviečiai.
-- susijęs iš [[objektai/zodynas/duoklė.md#claim-t-187520|duoklė]]: Naugardiečiai kasmet mokėjo Vytautui duoklę auksinais, sunkiaisiais žirgais ir įvairių žvėrių kailiais.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89551|dykra]]: Sūduvos dykra 1422 m. buvo padalinta.
-- susijęs iš [[objektai/zodynas/ekskomunika.md#claim-t-36780|ekskomunika]]: Vytautas prašė popiežiaus sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės galėjo nepasiekti tikslo.
-- susijęs iš [[objektai/zodynas/emyras.md#claim-t-183709|emyras]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
-- susijęs iš [[objektai/zodynas/emyras.md#claim-t-42448|emyras]]: Krymo emyro Edygos kariai sudarė dalį totorių pajėgų.
-- susijęs iš [[objektai/zodynas/fryzai.md#claim-t-187555|fryzai]]: Naugardiečiai Vytautui kasmet duodavo keturiasdešimt sunkiųjų žirgų, kurie kronikoje vadinami fryzais.
-- susijęs iš [[objektai/zodynas/grašis.md#claim-t-34259|grašis]]: Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo lietuviškais grašiais.
-- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113627|gurguolė]]: Vytautas mėgino užimti Žemutinę pilį, pasiųsdamas gurguolę su rogėse paslėptais ginkluotais žmonėmis.
-- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113628|gurguolė]]: Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.
-- susijęs iš [[objektai/zodynas/hegemonija.md#claim-t-184242|hegemonija]]: Autoriaus vertinimu, Vytautas pabūgo Lenkijos kultūrinės ir politinės hegemonijos ir ieškojo pusiausvyros santykiuose su kaimynais.
-- susijęs iš [[objektai/zodynas/karo taryba.md#claim-t-03027|karo taryba (institucija)]]: Vytautas buvo sudarytos karo tarybos pirmininkas ir laikytas tikruoju mūšio vadu.
-- susijęs iš [[objektai/zodynas/karūnacija karūnuotis.md#claim-t-104168|karūnacija karūnuotis]]: Vytautas paskyrė karūnacijos datą, rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais.
-- susijęs iš [[objektai/zodynas/kaštelionas.md#claim-t-12548|kaštelionas]]: Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę.
-- susijęs iš [[objektai/zodynas/komtūras.md#claim-t-182848|komtūras]]: Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.
-- susijęs iš [[objektai/zodynas/kondominiumas.md#claim-t-183436|kondominiumas]]: LDK rusiškosios žemės laikytos Lietuvos ir Aukso ordos kondominiumu, tai yra bendra valda.
-- susijęs iš [[objektai/zodynas/kultūrinimas.md#claim-t-34300|kultūrinimas]]: Lietuvos kultūrinimas, pradėtas dar Mindaugo laikais, esą būtų sumažinęs nutautėjimo nuostolius.
-- susijęs iš [[objektai/zodynas/kunigaikštija.md#claim-t-36801|kunigaikštija]]: Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje.
-- susijęs iš [[objektai/zodynas/kunigaikštija.md#claim-t-36802|kunigaikštija]]: Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje.
-- susijęs iš [[objektai/zodynas/lenkinti.md#claim-t-36804|lenkinti]]: Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, bet ją civilizuoti.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-169923|luomas]]: Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184244|luomas]]: Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.
-- susijęs iš [[objektai/zodynas/lėnas.md#claim-t-70216|lėnas]]: Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti.
-- susijęs iš [[objektai/zodynas/lėnininkai.md#claim-t-36808|lėnininkai]]: Į Vytauto kviestą susirinkimą atvyko ir pats Vytautas su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.
-- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184629|maršalas]]: Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
-- susijęs iš [[objektai/zodynas/metropolitas metropolija.md#claim-t-86540|metropolitas metropolija]]: Maskvos metropolitų religinė viršenybė Lietuvos rusiškojo tikėjimo vyskupams laikyta vienu didžiausių nepatogumų.
-- susijęs iš [[objektai/zodynas/nukirsdinti.md#claim-t-32800|nukirsdinti]]: Vytautas liepė nukirsdinti Jogailos jam perduotą asmenį, o dauguma kitų belaisvių buvo paleisti.
-- susijęs iš [[objektai/zodynas/nuomininkas.md#claim-t-36819|nuomininkas]]: Vytautas įkurdindavo darbininkus savo neužimtose žemėse, atleisdavo juos nuo lažo ir padarydavo laisvus nuomininkus.
-- susijęs iš [[objektai/zodynas/paliaubos.md#claim-t-70269|paliaubos]]: Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.
-- susijęs iš [[objektai/zodynas/patepimas į valdžią.md#claim-t-86606|patepimas į valdžią]]: Vilniuje Vytautas iš Vilniaus vyskupo Andriaus Važilo gavo patepimą tapti Lietuvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje.md#claim-t-86607|piniginiai vienetai ir apskaitos matai monetų kalykloje]]: Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.
-- susijęs iš [[objektai/zodynas/posadnikas bojarinas vietininkas.md#claim-t-86609|posadnikas bojarinas vietininkas]]: 1429 metais pas Vytautą buvo atsiųsti Pskovo posadnikas Silvestras Levontjevičius ir vietininkas Parfėjus.
-- susijęs iš [[objektai/zodynas/protežė.md#claim-t-36825|protežė]]: Vytautas sutiko padėti chanui, nes tikėjosi, kad turėdamas jį savo protežė sustiprins santykius su totoriais ir Rusia.
-- susijęs iš [[objektai/zodynas/saar.md#claim-t-70318|saar]]: Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.
-- susijęs iš [[objektai/zodynas/seniūnas storasta.md#claim-t-36832|seniūnas storasta]]: 1411 m. Vytautas paskyrė seniūną iš Ordino atgautai Žemaitijai.
-- susijęs iš [[objektai/zodynas/separatizmas.md#claim-t-34311|separatizmas]]: Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas buvo įtarinėjamas neištikimybe ir separatizmu.
-- susijęs iš [[objektai/zodynas/siuzerenas.md#claim-t-95926|siuzerenas]]: Jaunasis Fridrikas buvo laikomas kandidatu į lenkų karalius ir Lietuvos siuzerenus.
-- susijęs iš [[objektai/zodynas/superarbitras.md#claim-t-36837|superarbitras]]: Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.
-- susijęs iš [[objektai/zodynas/supremus dux ir magnus dux.md#claim-t-11684|supremus dux ir magnus dux]]: Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.
-- susijęs iš [[objektai/zodynas/suverenas.md#claim-t-36842|suverenas]]: Jogaila vengė juridiškai įtvirtinti padėtį, kurioje Vytautas būtų laikomas tikruoju Lietuvos suverenu.
-- susijęs iš [[objektai/zodynas/tėviškė.md#claim-t-184250|tėviškė]]: Vytautas keršijo Jogailai už Kęstučio mirtį ir tėviškės pagrobimą, o tėviškės atgavimas tuo metu buvo svarbiausias jo siekis.
-- susijęs iš [[objektai/zodynas/tėviškė.md#claim-t-36844|tėviškė]]: 1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
-- susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
-- susijęs iš [[objektai/zodynas/ulusas.md#claim-t-86621|ulusas]]: Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių.
-- susijęs iš [[objektai/zodynas/vaivada kaštelionas.md#claim-t-86623|vaivada kaštelionas]]: Po Horodlės unijos akto Lietuvoje pagal Lenkijos pavyzdį buvo įvestos vaivados ir kašteliono tarnybos, apibrėžus jų pareigas.
-- susijęs iš [[objektai/zodynas/vaivada.md#claim-t-12600|vaivada]]: Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes.
-- susijęs iš [[objektai/zodynas/vaivada.md#claim-t-184643|vaivada]]: Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
-- susijęs iš [[objektai/zodynas/vasalas.md#claim-t-111384|vasalas]]: 1384 m. sausio 30 d. Karaliaučiuje Vytautas išdavė magistrui raštą, pasižadėdamas būti jo vasalu.
-- susijęs iš [[objektai/zodynas/vasalas.md#claim-t-182988|vasalas]]: Vytautas žodžiais dėjosi esąs Jogailos ir Lenkijos vasalas, bet Lietuvą valdė pats vienas.
-- susijęs iš [[objektai/zodynas/vasalystė.md#claim-t-12606|vasalystė]]: Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę.
-- susijęs iš [[objektai/zodynas/vasalystė.md#claim-t-12607|vasalystė]]: Vasalystė čia reiškia priklausomybės ir ištikimybės santykį.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184647|vietininkas]]: Karalius laikinai paskyrė Spiteką valdų vietininku.
-- susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
-- susijęs iš [[objektai/zodynas/Činšas činšininkas.md#claim-t-99977|Činšas činšininkas]]: Ordinas ir Vytautas pasižadėjo iš kito krašto nepriimti činšą mokančių ir nelaisvų valstiečių.
-- susijęs iš [[objektai/zodynas/činšas.md#claim-t-82132|činšas]]: Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50697|Lietuvių bajorija]]: Pirmą kartą pabėgęs pas Ordiną Vytautas sulaukė nemažai bajorų iš Lietuvos ir Žemaičių paramos.
-- susijęs iš Kaltinėnai: Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117306|Vokiečiai]]: Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117308|Vokiečiai]]: Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117318|Vokiečiai]]: Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.).md#claim-t-185668|Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]: Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas.
-- susijęs iš Dvejų metų paliaubų sutartis su kryžiuočiais: Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
-- susijęs iš [[objektai/daiktai/Bachmatai.md#claim-t-198529|Bachmatai]]: Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą brangiomis dovanomis, tarp jų bachmatais.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92728|Maskvos kunigaikštija]]: Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose.
-- susijęs iš [[objektai/grupes/Nemiravičių giminė.md#claim-t-199006|Nemiravičių giminė]]: Pasak metraščio, po Vytauto atsakymo dėl taikos ponas Andrius buvo pramintas Nemyra, o jo giminė - Nemiravičiais.
-- susijęs iš Torno taika (1411 m.): 1411 m. vasario 1 d. Jogaila ir Vytautas prie Torno pilies sudarė taiką su didžiuoju magistru.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199224|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
-- susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-199226|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
-- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195035|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas, išgirdęs priekaištą dėl dosnaus žemių dalijimo totoriams Lietuvoje ir Rusijoje, atsakė, kad gerumu galima sušvelninti ir laukinius žvėris.
-- susijęs iš [[objektai/posakiai/„Kaip aš jums Žemaitiją užstačiau, taip ir dabar iš jūsų neatimu“.md#claim-t-199235|„Kaip aš jums Žemaitiją užstačiau, taip ir dabar iš jūsų neatimu“]]: O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntinius, primindami jam, kad jis tu rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo užstatyta Žemaitija7 .
-- susijęs iš Astravas: 1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties.
-- susijęs iš Koloža: Koloža minima XV a. pirmosios pusės LDK ir Pskovo karo kontekste.
-- susijęs iš Užnerio žemė: Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių.
-- susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
-- susijęs iš Velikije Lūki: Velikije Lūki citatos pastaboje įvardijami kaip vienas iš Lietuvos miestų, kuriuos 1406 m. puolė pskoviečiai.
-- susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
-- susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai.
-- susijęs iš [[objektai/grupes/Didžlenkiai.md#claim-t-34343|Didžlenkiai]]: Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu.
-- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186600|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką.
-- susijęs iš [[objektai/asmenys/Mikalojus iš Moskožovo.md#claim-t-186150|Mikalojus iš Moskožovo]]: Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais Vytauto puolimo pastangas.
-- susijęs iš [[objektai/asmenys/Jonas Šafranas.md#claim-t-35160|Jonas Šafranas]]: Kancleris Jonas Šafranas buvo vienas iš karūnos politikos vairininkų, dariusių kliūčių Vytauto siekimams.
-- susijęs iš [[objektai/asmenys/Kerimberdėjus.md#claim-t-87533|Kerimberdėjus]]: Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179003|Kryžiuočių ordinas]]: Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.
-- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81606|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
-- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81607|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.
-- susijęs iš Volynija: 1384 m. pavasarį Jogaila siūlė Vytautui grąžinti tėviškę ir pridėti Volyniją su Lucku.
-- susijęs iš [[objektai/grupes/Karo partija.md#claim-t-34355|Karo partija]]: Vytautas ir karo partija reikalavo mūšio, nors taikos partija ragino jį sudaryti paliaubas su totoriais.
-- susijęs iš [[objektai/grupes/Pamario kunigaikščių sąjunga.md#claim-t-35744|Pamario kunigaikščių sąjunga]]: Jogaila su Pamario kunigaikščių sąjunga rėmė koaliciją, kuri priešinosi Vytautui dėl Smolensko.
-- susijęs iš Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.
-- susijęs iš [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės.md#claim-t-86576|Tėvonija paveldas paveldėjimo teisės]]: 1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių žadėjo perleisti paveldėjimo teises kryžiuočiams.
-- susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30228|Ediga]]: Edigos dalinių laukęs Timuras derybomis siekė laimėti laiko prieš kautynes su Vytauto pajėgomis.
-- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173190|Kazimieras Karigaila]]: 1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.
-- susijęs iš [[objektai/asmenys/Mikalojus Michalovskis.md#claim-t-87918|Mikalojus Michalovskis]]: Sandomiro vaivada Mikalojus Michalovskis, karaliaus ir Lenkijos senato siųstas į Vilnių, grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
-- susijęs iš [[objektai/asmenys/Jedigėjus.md#claim-t-87703|Jedigėjus]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Vilnių turtingas dovanas.
-- susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
-- susijęs iš [[objektai/grupes/Podoliečiai.md#claim-t-35745|Podoliečiai]]: Spyteko iš Melštino vadovaujami podoliečiai dalyvavo Vytauto kariuomenės žygyje kartu su mozūrais.
-- susijęs iš Długoszo istorijos veikalas: Długoszo istorijos veikale aprašytas Zigmanto raginimas Jogailai sutikti, kad Vytautas būtų paskirtas nauju karaliumi.
-- susijęs iš Veliuona: Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.
-- susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184692|Dimitras Kaributas]]: Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą.
-- susijęs iš [[objektai/asmenys/Markvardas Salzbaclias.md#claim-t-184375|Markvardas Salzbaclias]]: Derybose Markvardas Salzbaclias įžeidė Vytautą, sakydamas, kad šis jau tris kartus išdavė Ordiną.
-- susijęs iš [[objektai/asmenys/Markvardas Salzbaclias.md#claim-t-28968|Markvardas Salzbaclias]]: Markvardas Salzbaclias per derybas įžeidė Vytautą, sakydamas, kad šis jau tris kartus buvo išdavęs Ordiną.
-- susijęs iš [[objektai/zodynas/chanas.md#claim-t-78882|chanas]]: Prieš mūšį Vytautas pokalbyje su chanu Timūr-Kutluku tarsi reikalavo pavaldumo ir Ordos pinigų žymėjimo Vytauto ženklu.
-- susijęs iš Melno taikos sutartis: 1422 m. Vilniui leista drauge su svarbiausiais karalystės miestais laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179235|Lietuviai]]: Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.
-## Reikšmingi paminėjimai
-- c-010
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Savo grįžimu iš ordino Vytautas, pradžioje tik Skirgailos vietą
-    teužėmęs kaip «dux Lithuaniae », pradėjo naują laikotarpį. Vy­
-    tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
-    duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
-    Trakų ir Lucko kunigaikščiais2S.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­
-    plauti ». Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­
-    kydamas, jog jis jau _tris_ kartus esąs išdavęs ordiną; o ketvirtą
-    kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių
-    valdovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­
-    trui^62.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-056
-
-- c-015
-  santrauka: 'Trakų Galvės ežero salos pilis tapo Vytauto Didžiojo pasididžiavimu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vilniaus
-    apgulimas). Visas viešasis gyvenimas buvo perdėm nukreiptas į
-    militarizmą, kai vyko didelis tautos jėgų įtempimas tikslu apsiginti,
-    naudojant reikšmingą Nemuno ir kitų paupių pilių sistemą. Šitame
-    laikotarpyje buvo pastatyta ir eilė mūro pilių, jų tarpe Trakų
-    (Galvės) ežero salos didelė pilis, tapusi Vytauto Didžiojo pasidi­
-    džiavimu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-017
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Todėl Kęstutis ir Algirdas, norėdami paimti
-    vyriausią valdžią, iš Vilniaus šalino brolį Jaunutį. Kęstutis vy­
-    riausiuoju Lietuvos valdovu tetapo 1381, kai pats, išvaręs Jogailą,
-    atsisėdo Vilniaus pilyje. Ir Vytautas įgijo didžiojo Lietuvos kuni­
-    gaikščio titulą, kai 1392 m. gavo vyriausią Lietuvos miestą Vilnių ;
-    taip ėjo ir toliau.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-
-- c-018
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^262) ii skyrius: valstybės iškilimas
-    Dimitrui, o Naugardą-Sieverską kitam sūnui Kaributui-Dimitrui,
-    kai Černigovo kunigaikštijoje buvo paliktas vietinis kunigaikštis.
-    Algirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu­
-    pių kunigaikštijas (Kozielską, Karačevą, Novosilį ir kt.) teužvaldė
-    Vytautas.
-    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
-    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
-    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
-    Dniepro žemupį, kuris tada buvo tuščias^13.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-011
-
-- c-020
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sugrįžęs iš ordino, Vytautas penkerius metus (1384-89) tarnavo
-    Jogailai ir rėmė visus jo politinius bei kultūrinius žygius, Lietuvos
-    ir Lenkijos ateičiai palikusius savo pėdsakų iki pat šių dienų.
-    Pusbroliui išsikėlus Krokuvon, Kęstutaitis galėjo tikėtis įgyti žy­
-    mesni vaidmenį Lietuvoje. Bet jis nesulaukė užtarnauto įvertinimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-231
-
-- c-021
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos ir ordino santykių
-    istorijoje Vytautas pasiliko vienintelis lietuvių kunigaikštis, kuris
-    kovoje su savo priešais meistriškai naudojosi ordinu. Jis vis pa­
-    taikydavo į tokį momentą, kada kryžiuočių interesuose atrodė bū­
-    tina priimti pabėgėlį Vytautą, ar daryti su juo sutartį. Per dvi­
-    dešimt metų (1384-1404) jis keturis kartus (1384, 1390, 1398, 1404)
-    ordinui raštu pažadėjo Žemaičius ir tiek pat kartų juos vėl greitai
-    susigrąžino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-
-- c-023
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvos kunigaikštijos priklausomybę nuo Karūnos. Susi­
-    tvenkęs skaudulys tarp abiejų valstybių turėjo pratrukti Vytauto
-    vainikavimą vykdant (1429), kai Vytautas sukvietė Lucko suvažia­
-    vimą^8. Gausus ir platus laiškai^9 rodo, jog Vytautas prieš lenkų
-    nusistatymą gynė visos Lietuvos reikalus ir jos nepriklausomybę,
-    nepakęsdamas D. L. kunigaikštijos žeminimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-    - t-196
-
+    - c-171537
 - c-024
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -5541,8 +3934,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-364
-
 - c-026
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -5557,8 +3948,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
 - c-097
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5577,8 +3966,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-109
-
 - c-130
   santrauka: 'Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -5600,8 +3987,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-302
-
 - c-131
   santrauka: 'Narbutas rašo, kad Vytautui viešpataujant Lietuvoje kunigaikštienė Birutė sugrįžo į Palangą ir ten mirė 1416 m.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -5620,8 +4005,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-304
-
 - c-287
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5635,8 +4018,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-234
-
 - c-296
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5654,8 +4035,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-245
-
 ## Citatos
 
 - id: c-00171
@@ -5677,7 +4056,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10703
-
 - id: c-00172
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5695,7 +4073,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10704
-
 - id: c-04403
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5717,7 +4094,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-05220
     - t-176696
-
 - id: c-11544
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -5735,7 +4111,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10104
-
 - id: c-11545
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -5754,7 +4129,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-10105
     - t-10106
-
 - id: c-21368
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5772,7 +4146,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176728
-
 - id: c-21374
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -5793,7 +4166,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198251
-
 - id: c-21380
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -5812,8 +4184,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-198383
     - t-201472
-
 - id: c-21382
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -5830,8 +4202,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-198304
     - t-201471
-
 - id: c-30358
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5849,7 +4221,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176655
-
 - id: c-30359
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5868,7 +4239,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176724
-
 - id: c-34195
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5890,7 +4260,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-05208
     - t-05209
-
 - id: c-34197
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5908,7 +4277,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05210
-
 - id: c-34200
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5928,8 +4296,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176716
-
+    - t-05211
 - id: c-34203
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5948,7 +4315,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-05216
     - t-176733
-
 - id: c-34208
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5969,7 +4335,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176751
-
 - id: c-36591
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -5990,8 +4355,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198399
-
+    - t-198410
 - id: c-36592
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -6012,7 +4376,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198362
-
 - id: c-36593
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -6034,7 +4397,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198424
-
 - id: c-160609
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6065,7 +4427,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176764
     - t-176765
-
 - id: c-160610
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6089,7 +4450,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176729
-
+    - t-10107
 - id: c-160614
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6125,7 +4486,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176706
-
 - id: c-160616
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -6150,9 +4510,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10107
     - t-176653
-
+    - t-10107
 - id: c-160617
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6178,7 +4537,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176770
-
 - id: c-160619
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6203,7 +4561,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176744
-
 - id: c-160620
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6226,7 +4583,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176668
     - t-176707
-
 - id: c-160622
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6249,7 +4605,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176753
-
 - id: c-160623
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6267,7 +4622,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176642
-
 - id: c-160624
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6286,7 +4640,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176669
-
 - id: c-160625
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6310,7 +4663,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176638
-
 - id: c-160626
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6331,7 +4683,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176763
-
 - id: c-160627
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6352,7 +4703,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176746
     - t-176749
-
 - id: c-160633
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6374,7 +4724,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176715
     - t-176739
-
 - id: c-160634
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6392,7 +4741,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176626
     - t-176690
-
 - id: c-160635
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6415,7 +4763,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176737
-
 - id: c-160636
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6441,7 +4788,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176671
     - t-176730
-
 - id: c-160638
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6463,7 +4809,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176701
-
 - id: c-160639
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6484,7 +4829,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176625
-
 - id: c-160641
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6507,7 +4851,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176754
-
 - id: c-160646
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6541,7 +4884,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176714
-
 - id: c-160647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6563,7 +4905,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176630
-
 - id: c-160649
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6592,7 +4933,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176624
-
 - id: c-160650
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6633,8 +4973,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-10106
     - t-176683
-
 - id: c-160652
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6674,7 +5014,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176708
     - t-176741
-
 - id: c-160653
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6691,7 +5030,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176644
-
 - id: c-160655
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6713,7 +5051,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176705
-
 - id: c-160656
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6740,7 +5077,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
     - t-176640
     - t-176646
     - t-176700
-
 - id: c-160657
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6767,7 +5103,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176717
-
 - id: c-160658
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6801,7 +5136,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176710
-
 - id: c-160659
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6820,7 +5154,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176685
-
 - id: c-160661
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6844,7 +5177,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176731
     - t-176738
-
 - id: c-160662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -6867,7 +5199,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176657
-
 - id: c-160663
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6901,7 +5232,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176735
-
 - id: c-160667
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6923,7 +5253,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176632
     - t-176636
-
 - id: c-160669
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6946,7 +5275,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176758
-
 - id: c-160670
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -6970,7 +5298,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176631
-
 - id: c-160672
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -6987,7 +5314,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176756
-
 - id: c-160673
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7017,7 +5343,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176688
     - t-176747
-
 - id: c-160674
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7040,7 +5365,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176670
-
 - id: c-160675
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7070,7 +5394,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176718
-
 - id: c-160678
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7103,7 +5426,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176664
-
 - id: c-160679
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7137,7 +5459,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176647
-
 - id: c-160680
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7168,7 +5489,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176750
-
 - id: c-160683
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7197,7 +5517,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176768
-
 - id: c-160684
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7222,7 +5541,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176712
-
 - id: c-160690
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -7240,7 +5558,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176755
-
 - id: c-160692
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -7256,8 +5573,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176675
-
+    - t-176760
 - id: c-160694
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7283,7 +5599,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176639
-
 - id: c-160695
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7303,8 +5618,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176633
-
+    - t-176678
 - id: c-160696
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -7331,7 +5645,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176650
-
 - id: c-160707
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -7350,7 +5663,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10709
-
 - id: c-160709
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7372,7 +5684,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176719
-
 - id: c-160718
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7405,7 +5716,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176672
-
 - id: c-160720
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -7432,7 +5742,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-10108
     - t-176677
-
 - id: c-160721
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7455,7 +5764,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176759
-
 - id: c-160722
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7485,7 +5793,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-176643
     - t-176767
-
 - id: c-160723
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7509,7 +5816,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176703
-
 - id: c-160725
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7533,7 +5839,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176711
-
 - id: c-160729
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -7559,7 +5864,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176682
-
 - id: c-160733
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7579,7 +5883,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176752
-
 - id: c-160735
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7608,7 +5911,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176709
-
 - id: c-160736
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7635,7 +5937,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176635
-
 - id: c-160745
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7667,7 +5968,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176679
-
 - id: c-160747
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7695,8 +5995,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-10108
     - t-176693
-
 - id: c-160748
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7717,7 +6017,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176673
-
 - id: c-160750
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -7740,7 +6039,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176698
-
 - id: c-166968
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -7759,7 +6057,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176634
-
 - id: c-166969
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -7801,7 +6098,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183844
-
 - id: c-167748
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -7844,7 +6140,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184862
-
 - id: c-168224
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -7877,7 +6172,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184863
-
 - id: c-168225
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -7908,7 +6202,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-184864
     - t-196631
-
 - id: c-168226
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -7949,7 +6242,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-184865
     - t-196632
-
 - id: c-168227
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -7987,7 +6279,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-184866
     - t-196633
-
 - id: c-168228
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8016,7 +6307,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-184867
     - t-196634
-
 - id: c-168229
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8036,7 +6326,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184868
-
 - id: c-168230
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8066,7 +6355,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-184869
     - t-196635
-
 - id: c-168231
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8097,7 +6385,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184870
-
 - id: c-168232
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8133,7 +6420,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198327
-
 - id: c-168233
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8167,7 +6453,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184872
-
 - id: c-168235
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8193,7 +6478,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184874
-
 - id: c-168236
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8237,7 +6521,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184875
-
 - id: c-168237
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8269,7 +6552,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-184876
     - t-196638
-
 - id: c-168238
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8299,7 +6581,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184877
-
 - id: c-168239
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8323,7 +6604,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184878
-
 - id: c-168240
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8361,7 +6641,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184879
-
 - id: c-168241
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8386,7 +6665,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184880
-
 - id: c-168242
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8411,7 +6689,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184881
-
 - id: c-168243
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8435,7 +6712,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184882
-
 - id: c-173881
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -8459,7 +6735,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190999
-
 - id: c-173882
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -8496,7 +6771,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191000
-
 - id: c-176128
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8524,7 +6798,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193406
-
 - id: c-176302
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -8543,7 +6816,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193631
-
 - id: c-176303
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -8567,7 +6839,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193632
-
 - id: c-176304
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -8584,7 +6855,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193633
-
 - id: c-176631
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -8605,7 +6875,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194006
-
 - id: c-176633
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -8637,7 +6906,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194008
-
 - id: c-176636
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -8664,7 +6932,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194011
-
 - id: c-176637
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -8684,7 +6951,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194012
-
 - id: c-176638
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -8706,7 +6972,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194013
-
 - id: c-176841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -8751,7 +7016,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194245
-
 - id: c-178810
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8774,7 +7038,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196636
-
 - id: c-178811
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8800,7 +7063,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196637
-
 - id: c-178812
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8828,7 +7090,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196639
-
 - id: c-178813
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8849,7 +7110,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196640
-
 - id: c-178814
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8877,7 +7137,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196641
-
 - id: c-178815
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -8901,7 +7160,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196643
-
 - id: c-178959
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -8933,7 +7191,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196879
-
 - id: c-178960
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -8954,7 +7211,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196880
-
 - id: c-178961
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -8975,7 +7231,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196881
-
 - id: c-178962
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -9000,7 +7255,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196882
-
 - id: c-179204
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -9023,7 +7277,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197458
-
 - id: c-180059
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -9061,7 +7314,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198324
-
 - id: c-180062
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -9081,7 +7333,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198300
-
 - id: c-180063
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -9103,7 +7354,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198383
-
 - id: c-180064
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -9211,7 +7461,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198433
-
 - id: c-180071
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -9297,7 +7546,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198385
-
 - id: c-180075
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9530,7 +7778,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198342
-
 - id: c-180085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9739,7 +7986,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198262
-
 - id: c-180095
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -9779,7 +8025,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198279
-
 - id: c-180097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9829,7 +8074,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-198295
     - t-198401
-
 - id: c-180099
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -9926,7 +8170,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198415
-
 - id: c-180103
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -9948,8 +8191,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198379
-
+    - t-198322
 - id: c-180109
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -10000,7 +8242,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198436
-
 - id: c-180112
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10025,7 +8266,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198303
-
 - id: c-180114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10146,7 +8386,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198377
-
 - id: c-180122
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -10207,8 +8446,7 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198294
-
+    - t-05214
 - id: c-180126
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10235,7 +8473,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198336
-
 - id: c-180127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -10367,7 +8604,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198334
-
 - id: c-180135
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -10389,7 +8625,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198455
-
 - id: c-180136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10493,7 +8728,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198258
-
 - id: c-180143
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -10531,7 +8765,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198304
-
 - id: c-180147
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -10693,7 +8926,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198322
-
 - id: c-180154
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10767,7 +8999,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198347
-
 - id: c-180157
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -10848,7 +9079,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198325
-
 - id: c-180160
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10988,7 +9218,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198284
-
 - id: c-180167
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11244,7 +9473,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198371
-
 - id: c-180188
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -11267,7 +9495,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-198348
     - t-198434
-
 - id: c-180189
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -11292,7 +9519,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198419
-
 - id: c-180190
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -11372,7 +9598,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198382
-
 - id: c-180197
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -11398,7 +9623,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198450
-
 - id: c-180198
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -11424,8 +9648,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198275
-
 - id: c-180200
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -11443,7 +9665,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198253
-
 - id: c-180201
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -11465,7 +9686,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198410
-
 - id: c-180203
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11488,8 +9708,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198275
-
 - id: c-180204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11535,7 +9753,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198346
-
 - id: c-180207
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -11582,7 +9799,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198260
-
 - id: c-180213
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -11697,7 +9913,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198350
-
 - id: c-180221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11739,7 +9954,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198432
-
 - id: c-180226
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11838,7 +10052,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198246
-
 - id: c-180232
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11903,7 +10116,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198438
-
 - id: c-180235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11969,7 +10181,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198265
-
 - id: c-180239
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11994,7 +10205,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   pagrindzia:
     - t-198326
     - t-198354
-
 - id: c-180240
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12018,7 +10228,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198332
-
 - id: c-180241
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12042,7 +10251,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198457
-
 - id: c-180242
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -12091,7 +10299,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200709
-
 - id: c-184812
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12112,8 +10319,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-198399
     - t-201463
-
 - id: c-184813
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12136,7 +10343,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201464
-
 - id: c-184814
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12160,7 +10366,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201465
-
 - id: c-184815
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12178,8 +10383,8 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-198265
     - t-201466
-
 - id: c-184816
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12197,7 +10402,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201467
-
 - id: c-184817
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12219,7 +10423,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201468
-
 - id: c-184818
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12240,7 +10443,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201469
-
 - id: c-184819
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12261,7 +10463,6 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201470
-
 - id: c-184820
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -12282,7 +10483,295 @@ Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201473
-
+- id: c-34201
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Sugrįžęs iš ordino, Vytautas penkerius metus (1384-89) tarnavo
+    Jogailai ir rėmė visus jo politinius bei kultūrinius žygius, Lietuvos
+    ir Lenkijos ateičiai palikusius savo pėdsakų iki pat šių dienų.
+    Pusbroliui išsikėlus Krokuvon, Kęstutaitis galėjo tikėtis įgyti žy­
+    mesni vaidmenį Lietuvoje. Bet jis nesulaukė užtarnauto įvertinimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05211
+- id: c-34205
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Galutinis unijos sulaužymas butų
+    reiškęs baisią Vytauto nuodėmę visų Vakarų krikščionių, ypač
+    Romos kurijos, akyse. Tai butų davę progos vokiečių ordinui vesti
+    vėl kietą propagandą prieš Lietuvą.
+    Supratęs krikščionybės naudą, Vytautas aktyviai rūpinosi ją
+    plėsti, ir kaip Lietuvos krikščionintojas, šalia Jogailos, turi jis žy­
+    mių, o gal ir žymesnių nuopelnų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05212
+- id: c-34204
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lietuvos kunigaikštijos priklausomybę nuo Karūnos. Susi­
+    tvenkęs skaudulys tarp abiejų valstybių turėjo pratrukti Vytauto
+    vainikavimą vykdant (1429), kai Vytautas sukvietė Lucko suvažia­
+    vimą^8. Gausus ir platus laiškai^9 rodo, jog Vytautas prieš lenkų
+    nusistatymą gynė visos Lietuvos reikalus ir jos nepriklausomybę,
+    nepakęsdamas D. L. kunigaikštijos žeminimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05214
+    - t-176629
+- id: c-34196
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vilniaus
+    apgulimas). Visas viešasis gyvenimas buvo perdėm nukreiptas į
+    militarizmą, kai vyko didelis tautos jėgų įtempimas tikslu apsiginti,
+    naudojant reikšmingą Nemuno ir kitų paupių pilių sistemą. Šitame
+    laikotarpyje buvo pastatyta ir eilė mūro pilių, jų tarpe Trakų
+    (Galvės) ežero salos didelė pilis, tapusi Vytauto Didžiojo pasidi­
+    džiavimu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05215
+- id: c-21390
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Savo grįžimu iš ordino Vytautas, pradžioje tik Skirgailos vietą
+    teužėmęs kaip «dux Lithuaniae », pradėjo naują laikotarpį. Vy­
+    tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
+    duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
+    Trakų ir Lucko kunigaikščiais2S.
+  citata_rodoma: "Savo grįžimu iš ordino Vytautas, pradžioje tik Skirgailos vietą\nteužėmęs kaip «dux Lithuaniae », pradėjo naują laikotarpį. Vy­\ntauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai\nduoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi\nTrakų ir Lucko kunigaikščiais2S."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05216
+- id: c-34198
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Todėl Kęstutis ir Algirdas, norėdami paimti
+    vyriausią valdžią, iš Vilniaus šalino brolį Jaunutį. Kęstutis vy­
+    riausiuoju Lietuvos valdovu tetapo 1381, kai pats, išvaręs Jogailą,
+    atsisėdo Vilniaus pilyje. Ir Vytautas įgijo didžiojo Lietuvos kuni­
+    gaikščio titulą, kai 1392 m. gavo vyriausią Lietuvos miestą Vilnių ;
+    taip ėjo ir toliau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05216
+- id: c-34199
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    (^262) ii skyrius: valstybės iškilimas
+    Dimitrui, o Naugardą-Sieverską kitam sūnui Kaributui-Dimitrui,
+    kai Černigovo kunigaikštijoje buvo paliktas vietinis kunigaikštis.
+    Algirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu­
+    pių kunigaikštijas (Kozielską, Karačevą, Novosilį ir kt.) teužvaldė
+    Vytautas.
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05217
+- id: c-21393
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­
+    plauti ». Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­
+    kydamas, jog jis jau _tris_ kartus esąs išdavęs ordiną; o ketvirtą
+    kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių
+    valdovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­
+    trui^62.
+  citata_rodoma: "Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­\nplauti ». Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­\nkydamas, jog jis jau _tris_ kartus esąs išdavęs ordiną; o ketvirtą\nkartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių\nvaldovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­\ntrui^62."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05218
+    - t-176674
+- id: c-34202
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lietuvos ir ordino santykių
+    istorijoje Vytautas pasiliko vienintelis lietuvių kunigaikštis, kuris
+    kovoje su savo priešais meistriškai naudojosi ordinu. Jis vis pa­
+    taikydavo į tokį momentą, kada kryžiuočių interesuose atrodė bū­
+    tina priimti pabėgėlį Vytautą, ar daryti su juo sutartį. Per dvi­
+    dešimt metų (1384-1404) jis keturis kartus (1384, 1390, 1398, 1404)
+    ordinui raštu pažadėjo Žemaičius ir tiek pat kartų juos vėl greitai
+    susigrąžino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05218
+- id: c-34207
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Šalia jo politikoje reikalingo didelio lankstumo, kyšojo nepaprasta
+    ambicija. Šalia kronikininkų užfiksuoto švelnumo, slypėjo didelis
+    kietumas, siejęsis su žiaurumu. Šalia taupumo, Vytautui buvo
+    charakteringas didelis švaistymasis materialinėmis gėrybėmis, ypač
+    kai reikėdavo pasirodyti užsieniečiams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05222
+- id: c-21377
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Po kiek laiko kronikos vėl mini 1377 metų Vytauto žygį.
+    Jis, tėvo pavedamas, surengė žygį, Algirdui dar gyvam tebe­
+    sant, į Ordino žemes. Tuokart jis pasirodė savarankiškas lie­
+    tuvių kariuomenės vadas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198377
+- id: c-21379
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
+    spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
+    pakrikštijo. Tai įvyko tuo pačiu laiku, kai Trakuose palikusi
+    jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
+    buvo duotas Vigando vardas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198379
+- id: c-160732
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1415 m. Naugarduke sušaukęs LDK stačiatikių
+    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
+    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
+    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
+    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
+    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
+    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
+    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
+    idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176748
+- id: c-160621
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Per menkos buvo dovanos, kad būtų vertusios veidmai­
+    niauti kad ir pagoniško tikėjimo lietuvį. Lietuviai krikštijosi
+    Vytauto D. ir Jogailos paraginti ir pasiduodami jų įsakymams,
+    nes buvo išleistas raštas, skelbiąs katalikybę Lietuvoje viešpa­
+    taujančiu tikėjimu ir įsakąs visiems jį priimti^1 ). Laisvi liko tik
+    stačiatikiai, kaipo krikščionys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198303
+- id: c-171536
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
+    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198366
+- id: c-171537
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Si kunigaikštie­
+    nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
+    ir jau Vytautui viešpataujant Lietuvoje, ji sugrįžo atgal į Pa­
+    langą ir ten, laikydamasi savo senojo tikėjimo, 1416 metais
+    užbaigė gyvenimą. Žmonės, menantys jos dorybes ir nuopel­
+    nus, laikė ją šventa.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198368
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

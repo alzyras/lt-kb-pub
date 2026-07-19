@@ -89,7 +89,6 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186088
-
 - id: c-169450
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

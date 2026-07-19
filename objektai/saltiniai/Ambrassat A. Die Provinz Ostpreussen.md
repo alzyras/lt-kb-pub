@@ -90,7 +90,6 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60949
-
 - id: c-61581
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -103,7 +103,6 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85874
-
 - id: c-81857
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

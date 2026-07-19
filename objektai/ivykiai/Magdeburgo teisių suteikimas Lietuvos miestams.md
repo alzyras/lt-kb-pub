@@ -113,7 +113,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66766
-
 - id: c-37033
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

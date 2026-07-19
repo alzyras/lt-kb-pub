@@ -124,7 +124,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60522
-
+    - c-003
 <a id="claim-t-59893"></a>
 - t-006
   global_id: t-59893
@@ -164,7 +164,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167498
-
+    - c-007
 <a id="claim-t-197132"></a>
 - t-008
   global_id: t-197132
@@ -228,9 +228,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-009
-
 - c-003
   santrauka: 'Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -251,8 +248,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-59892
 - c-007
   santrauka: 'Dusburgiečio pasakojime Mergelė Marija atėjo su Teutonų ordino broliais ir atsakė broliui, prašiusiam likti jų bendrijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -270,8 +266,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-184113
 ## Citatos
 
 - id: c-60520
@@ -293,7 +288,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59888
-
 - id: c-60521
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -321,7 +315,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   pagrindzia:
     - t-59890
     - t-197133
-
 - id: c-60522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -349,7 +342,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59892
-
 - id: c-60523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -374,7 +366,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59893
-
 - id: c-60524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -394,7 +385,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59889
-
 - id: c-60525
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -423,7 +413,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59891
-
 - id: c-167498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -446,7 +435,6 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184113
-
 - id: c-179036
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -59,7 +59,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Pilypą, bet pradinė formuluotė per ilga."
   pagrindžia:
     - c-61042
-
+    - c-001
 <a id="claim-t-190949"></a>
 - t-002
   global_id: t-190949
@@ -118,8 +118,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60410
 ## Citatos
 
 - id: c-61042
@@ -150,7 +149,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60410
-
 - id: c-173831
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -180,7 +178,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190949
-
 - id: c-184372
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -203,6 +200,5 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201022
-
 ## Ryšiai
 - Pilypas keliavo į [[objektai/vietos/Prūsija]]

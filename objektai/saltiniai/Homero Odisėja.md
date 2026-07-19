@@ -92,7 +92,6 @@ Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaur�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191778
-
 - id: c-174661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

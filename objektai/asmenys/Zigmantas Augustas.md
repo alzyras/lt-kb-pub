@@ -86,7 +86,6 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93758
-
 - id: c-89071
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

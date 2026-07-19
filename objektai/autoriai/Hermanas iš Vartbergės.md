@@ -57,7 +57,7 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
   temporalinis_llm_pakomentavimas: "Citata pagrindžia teiginį apie Hermano iš Vartbergės kronikos reikšmę, bet pradinis tekstas yra triukšmingas."
   pagrindžia:
     - c-63346
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hermano iš Vartbergės kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.'
@@ -80,8 +80,7 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62615
 ## Citatos
 
 - id: c-63346

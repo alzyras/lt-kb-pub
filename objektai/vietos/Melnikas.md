@@ -125,7 +125,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   susije_objektai: 'mentioned_place: Palenkė; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė; llm_object: Palenkė'
   semantiniai_rysiai: 'Melnikas priklausė Palenkė'
   pagrindžia:
-    - c-182401
+    - c-001
 - susijęs iš [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių.md#claim-t-87806|Nikodemas Janavičius iš Čechanovičių]]: Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
@@ -185,8 +185,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-68689
 ## Citatos
 
 - id: c-170559
@@ -212,7 +211,6 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187612
-
 - id: c-170560
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -244,7 +242,6 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187613
-
 - id: c-182399
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -300,7 +297,6 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199610
-
 - id: c-182402
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

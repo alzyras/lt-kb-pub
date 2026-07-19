@@ -114,7 +114,6 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190100
-
 - id: c-172984
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

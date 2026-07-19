@@ -56,7 +56,7 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173059
-
+    - c-001
 <a id="claim-t-190177"></a>
 - t-002
   global_id: t-190177
@@ -104,8 +104,7 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190176
 ## Citatos
 
 - id: c-173059
@@ -134,7 +133,6 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190176
-
 - id: c-173060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

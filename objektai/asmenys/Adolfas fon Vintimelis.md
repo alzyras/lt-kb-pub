@@ -75,6 +75,5 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186172
-
 ## Ryšiai
 - Adolfas fon Vintimelis (didikas) keliavo į [[objektai/vietos/Prūsija]]

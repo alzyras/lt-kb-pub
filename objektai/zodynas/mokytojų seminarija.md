@@ -117,7 +117,6 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72704
-
 - id: c-71084
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

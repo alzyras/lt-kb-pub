@@ -52,7 +52,7 @@ Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio K
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168748
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine.'
@@ -74,8 +74,7 @@ Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185387
 ## Citatos
 
 - id: c-168748

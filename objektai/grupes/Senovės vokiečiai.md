@@ -49,6 +49,7 @@ Narbutas rašo, kad senovės vokiečiai garbino dievaites, vadintas Pilwith, Pil
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172434
+    - c-001
 - susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189473|Lietuvos rusinai]]: Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į permainingą romėnų Fortūną.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-188358|Vokiečiai]]: Narbutas rašė, kad senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“ ir „Belewitt“.
 - susijęs iš [[objektai/zodynas/Pilmith, Pilmis, Belewitt.md#claim-t-192316|Pilmith, Pilmis, Belewitt]]: Žinia apie dievaites Pilmith, Pilmis ir Belewitt pateikta kaip sakinys, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą.
@@ -73,8 +74,7 @@ Narbutas rašo, kad senovės vokiečiai garbino dievaites, vadintas Pilwith, Pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189546
 ## Citatos
 
 - id: c-172434

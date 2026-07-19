@@ -143,7 +143,6 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   patikimumo_saltinis: ai
   pagrindzia:
     - t-56967
-
 - id: c-57666
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -163,7 +162,6 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   patikimumo_saltinis: ai
   pagrindzia:
     - t-56965
-
 - id: c-57667
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

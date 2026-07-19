@@ -42,7 +42,7 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174021
-
+    - c-001
 <a id="claim-t-197722"></a>
 - t-002
   global_id: t-197722
@@ -129,8 +129,7 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191139
 ## Citatos
 
 - id: c-174021
@@ -155,7 +154,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191139
-
 - id: c-179307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -174,7 +172,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197722
-
 - id: c-179308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -198,7 +195,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197723
-
 - id: c-184330
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -224,7 +220,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200980
-
 - id: c-184331
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

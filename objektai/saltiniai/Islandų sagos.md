@@ -41,7 +41,7 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177250
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves.'
@@ -59,8 +59,7 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194854
 ## Citatos
 
 - id: c-177250

@@ -116,7 +116,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171284
-
+    - c-004
 <a id="claim-t-188394"></a>
 - t-005
   global_id: t-188394
@@ -201,7 +201,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173563
-
+    - c-008
 <a id="claim-t-197575"></a>
 - t-009
   global_id: t-197575
@@ -234,8 +234,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188393
 - c-008
   santrauka: 'Adomas Bremenietis, Narbuto teigimu, Sembą laikė besiribojančia su rusais arba Rusia, bet Rusios nepriskyrė Prūsijos provincijoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -255,8 +254,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-190681
 ## Citatos
 
 - id: c-32896
@@ -281,7 +279,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30554
-
 - id: c-171282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -304,7 +301,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188391
-
 - id: c-171283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -327,7 +323,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188392
-
 - id: c-171284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -349,7 +344,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188393
-
 - id: c-171285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -370,7 +364,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188394
-
 - id: c-173561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -391,7 +384,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190679
-
 - id: c-173562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -410,7 +402,6 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190680
-
 - id: c-173563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

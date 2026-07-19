@@ -104,6 +104,5 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42237
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Petras Bartkus-Žadgaila]]

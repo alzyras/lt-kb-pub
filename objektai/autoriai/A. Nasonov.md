@@ -100,7 +100,6 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30525
-
 - id: c-32880
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

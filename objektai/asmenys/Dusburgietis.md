@@ -49,6 +49,7 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173027
+    - c-001
 - susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190022|Petras Dusburgietis]]: Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie švarinančiais laikytų šaltinių.
 - susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190024|Petras Dusburgietis]]: Narbutas svarsto, kad Petras Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba kad jo tekstas apie krivį buvo nepilnas.
 - susijęs iš [[objektai/asmenys/Petras Dusburgietis.md#claim-t-190025|Petras Dusburgietis]]: Narbutas rašo, kad Petras Dusburgietis 1326 metais įteikė savo kroniką didžiajam magistrui, aprašęs prūsų papročius netrukus po Prūsijos užkariavimo.
@@ -96,8 +97,7 @@ Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną moterį pranaš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190144
 ## Citatos
 
 - id: c-173027

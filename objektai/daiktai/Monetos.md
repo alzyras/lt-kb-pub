@@ -101,6 +101,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174950
+    - c-001
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189988|Tadas Volianskis]]: Tadas Volianskis atsiuntė Narbutui Lietuvoje rastos monetos piešinį ir manė ją priklausant lietuviškiems paminklams.
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190982|Tadas Volianskis]]: Tadas Volianskis Narbutui atsiuntė panašios monetos piešinį ir manė, kad Lietuvoje rasta moneta priklauso lietuviškiems paminklams.
 - susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-190691|Antanas Marcinovskis]]: Antanas Marcinovskis, „Kurjer Litewski“ redaktorius ir Narbuto veikalų leidėjas, atsiuntė Narbutui tikslią monetos piešinio kopiją.
@@ -150,8 +151,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192082
 ## Citatos
 
 - id: c-174950
@@ -180,7 +180,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192082
-
 - id: c-174951
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

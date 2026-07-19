@@ -87,8 +87,7 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-
+    - t-187225
 - id: c-170291
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -103,4 +102,4 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-187224

@@ -121,6 +121,7 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171724
+    - c-002
 - susijęs iš [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.).md#claim-t-62507|Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]: 1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
@@ -162,8 +163,7 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188835
 ## Citatos
 
 - id: c-87095
@@ -190,7 +190,6 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
     - t-91383
     - t-91384
     - t-91385
-
 - id: c-171724
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -215,6 +214,5 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188835
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/grupes/Totoriai]]

@@ -112,7 +112,6 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186145
-
 - id: c-169507
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

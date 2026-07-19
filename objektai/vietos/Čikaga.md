@@ -152,7 +152,6 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77710
-
 - id: c-24618
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -181,7 +180,6 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77712
-
 - id: c-24619
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -205,7 +203,6 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77711
-
 - id: c-75044
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -230,6 +227,5 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77709
-
 ## Ryšiai
 - Gimimo vieta: [[objektai/asmenys/Robertas Zemeckis]]

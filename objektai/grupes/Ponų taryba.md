@@ -133,7 +133,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-181371
-
+    - c-181366
 <a id="claim-t-199010"></a>
 - t-006
   global_id: t-199010
@@ -165,8 +165,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-181374
-
+    - c-004
 <a id="claim-t-199012"></a>
 - t-008
   global_id: t-199012
@@ -240,8 +239,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponų taryba (institucija)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-181366
-
+    - c-006
 <a id="claim-t-199020"></a>
 - t-012
   global_id: t-199020
@@ -252,6 +250,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-181368
+    - c-181374
 - susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187765|LDK Ponų Taryba (institucija, XV a.)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš LDK Ponų Tarybos.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179212|Lenkai]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
 - susijęs iš [[objektai/grupes/Lenkijos ponų taryba.md#claim-t-77825|Lenkijos ponų taryba]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
@@ -289,9 +288,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-007
-
+    - t-199011
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -308,8 +305,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-199018
 ## Citatos
 
 - id: c-36928
@@ -331,7 +327,6 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72609
-
 - id: c-36929
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -352,7 +347,6 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72615
-
 - id: c-176488
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -384,7 +378,6 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193844
-
 - id: c-181365
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -403,7 +396,6 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199010
-
 - id: c-181366
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -422,8 +414,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199018
-
+    - t-199009
 - id: c-181367
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -446,7 +437,6 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   pagrindzia:
     - t-199015
     - t-199016
-
 - id: c-181368
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -468,7 +458,6 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199020
-
 - id: c-181369
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -525,7 +514,6 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199009
-
 - id: c-181372
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -559,7 +547,6 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199012
-
 - id: c-181373
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -609,8 +596,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199011
-
+    - t-199020
 - id: c-181376
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

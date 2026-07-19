@@ -48,7 +48,7 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174658
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais, buvo įsitikinęs didelio Prūsijos potvynio tikrumu.'
@@ -73,8 +73,7 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191776
 ## Citatos
 
 - id: c-174658

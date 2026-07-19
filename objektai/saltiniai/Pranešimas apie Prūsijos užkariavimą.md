@@ -72,7 +72,6 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61000
-
 - id: c-61633
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

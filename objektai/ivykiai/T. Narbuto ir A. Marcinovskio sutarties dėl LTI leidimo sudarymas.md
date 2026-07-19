@@ -89,7 +89,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174896
-
+    - c-002
 <a id="claim-t-192015"></a>
 - t-003
   global_id: t-192015
@@ -107,7 +107,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174896
-
+    - c-002
 <a id="claim-t-197235"></a>
 - t-004
   global_id: t-197235
@@ -138,8 +138,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192014
+    - t-192015
 ## Citatos
 
 - id: c-174895
@@ -164,7 +164,6 @@ Nenurodyta
   pagrindzia:
     - t-192013
     - t-197235
-
 - id: c-174896
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

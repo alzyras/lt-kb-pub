@@ -67,4 +67,4 @@ Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu De
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194130

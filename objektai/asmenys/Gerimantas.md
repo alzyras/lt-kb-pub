@@ -135,7 +135,6 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187907
-
 - id: c-171424
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -164,6 +163,5 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188535
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Šventaragis]]

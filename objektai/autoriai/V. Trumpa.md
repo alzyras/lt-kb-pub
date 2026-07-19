@@ -94,7 +94,6 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31049
-
 - id: c-33183
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

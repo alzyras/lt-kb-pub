@@ -85,7 +85,7 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172956
-
+    - c-002
 <a id="claim-t-190074"></a>
 - t-003
   global_id: t-190074
@@ -148,8 +148,7 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190073
 ## Citatos
 
 - id: c-172955
@@ -171,7 +170,6 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190072
-
 - id: c-172956
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -193,7 +191,6 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190073
-
 - id: c-172957
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -220,7 +217,6 @@ Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, kuriame rasta pelenų ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190074
-
 - id: c-173784
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

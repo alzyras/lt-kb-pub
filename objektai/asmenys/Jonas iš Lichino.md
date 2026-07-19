@@ -81,6 +81,5 @@ Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186215
-
 ## Ryšiai
 - Jonas iš Lichino (vyskupas) keliavo į [[objektai/vietos/Lietuva]]

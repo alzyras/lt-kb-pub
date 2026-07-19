@@ -72,4 +72,4 @@ Lietuvos metraštis Vaidilą vadina didžiojo kunigaikščio Algirdo tarnu ir ve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187553

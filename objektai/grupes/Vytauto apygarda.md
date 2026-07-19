@@ -104,7 +104,6 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41200
-
 - id: c-44872
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

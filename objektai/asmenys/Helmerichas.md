@@ -58,7 +58,7 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   semantiniai_rysiai: "Helmerichas buvo palaidotas Kulmenzė (0.95)"
   pagrindžia:
     - c-85730
-
+    - c-001
 <a id="claim-t-89795"></a>
 - t-002
   global_id: t-89795
@@ -140,8 +140,7 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89794
 ## Citatos
 
 - id: c-85730
@@ -166,7 +165,6 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89794
-
 - id: c-85731
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -193,7 +191,6 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
     - t-89795
     - t-89796
     - t-197089
-
 - id: c-178707
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -216,7 +213,6 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196467
-
 ## Ryšiai
 - Helmerichas mirė [[objektai/vietos/Lubava]]
 - Helmerichas buvo palaidotas [[objektai/vietos/Kulmenzė]]

@@ -2211,7 +2211,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187788
-
 - id: c-171186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2236,7 +2235,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188293
-
 - id: c-171187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2259,7 +2257,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188294
-
 - id: c-171189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2281,7 +2278,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188296
-
 - id: c-171190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2305,7 +2301,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188297
-
 - id: c-171191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2331,7 +2326,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188298
-
 - id: c-171192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2349,7 +2343,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188299
-
 - id: c-171194
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2376,7 +2369,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188301
-
 - id: c-171195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2398,7 +2390,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188302
-
 - id: c-171196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2417,7 +2408,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188303
-
 - id: c-171197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2439,7 +2429,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188304
-
 - id: c-171198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2457,7 +2446,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188305
-
 - id: c-171199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2483,7 +2471,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188306
-
 - id: c-171200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2505,7 +2492,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188307
-
 - id: c-171201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2528,7 +2514,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188308
-
 - id: c-171202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2552,7 +2537,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188309
-
 - id: c-171203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2579,7 +2563,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188310
-
 - id: c-171204
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2601,7 +2584,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188311
-
 - id: c-171205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2626,7 +2608,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188312
-
 - id: c-171206
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2648,7 +2629,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188313
-
 - id: c-171207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2674,7 +2654,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188314
-
 - id: c-171208
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2698,7 +2677,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188315
-
 - id: c-171211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2721,7 +2699,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188318
-
 - id: c-171212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2745,7 +2722,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188319
-
 - id: c-171213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2763,7 +2739,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188320
-
 - id: c-171214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2784,7 +2759,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188321
-
 - id: c-173497
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2816,7 +2790,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190614
-
 - id: c-173499
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2850,7 +2823,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190616
-
 - id: c-173500
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2878,7 +2850,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190617
-
 - id: c-173501
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2909,7 +2880,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190618
-
 - id: c-175238
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2943,7 +2913,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192444
-
 - id: c-175239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2966,7 +2935,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192445
-
 - id: c-175240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2995,7 +2963,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192446
-
 - id: c-175241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3022,7 +2989,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192447
-
 - id: c-175242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3045,7 +3011,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192448
-
 - id: c-175243
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3065,7 +3030,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192449
-
 - id: c-175244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3090,7 +3054,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192450
-
 - id: c-176059
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3130,7 +3093,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193331
-
 - id: c-176061
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3173,7 +3135,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   pagrindzia:
     - t-193333
     - t-196117
-
 - id: c-176062
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3204,7 +3165,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193334
-
 - id: c-176063
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3229,7 +3189,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   pagrindzia:
     - t-193335
     - t-193336
-
 - id: c-176064
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3259,7 +3218,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193336
-
 - id: c-176238
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3278,7 +3236,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193558
-
 - id: c-176787
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3306,7 +3263,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194175
-
 - id: c-176916
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3328,7 +3284,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194334
-
 - id: c-176917
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3350,7 +3305,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194335
-
 - id: c-176918
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3370,7 +3324,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194336
-
 - id: c-176919
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3392,7 +3345,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194337
-
 - id: c-176920
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3412,7 +3364,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194338
-
 - id: c-176921
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3432,7 +3383,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194339
-
 - id: c-176922
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3457,7 +3407,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194340
-
 - id: c-176923
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3479,7 +3428,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194341
-
 - id: c-176924
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3500,7 +3448,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194342
-
 - id: c-176925
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3526,7 +3473,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194343
-
 - id: c-176926
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3548,7 +3494,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194344
-
 - id: c-176927
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3574,7 +3519,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   pagrindzia:
     - t-194345
     - t-196917
-
 - id: c-176928
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3593,7 +3537,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194346
-
 - id: c-176929
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3615,7 +3558,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194347
-
 - id: c-176930
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3640,7 +3582,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194348
-
 - id: c-176931
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3662,7 +3603,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   pagrindzia:
     - t-194349
     - t-196920
-
 - id: c-176932
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3680,7 +3620,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194350
-
 - id: c-176933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3698,7 +3637,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194351
-
 - id: c-176934
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3727,7 +3665,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194352
-
 - id: c-176935
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3753,7 +3690,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194353
-
 - id: c-176936
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3771,7 +3707,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194354
-
 - id: c-176937
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3789,7 +3724,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194355
-
 - id: c-176975
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3811,7 +3745,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194576
-
 - id: c-176976
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3841,7 +3774,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194577
-
 - id: c-176977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3868,7 +3800,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194578
-
 - id: c-176978
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3888,7 +3819,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194579
-
 - id: c-176979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3911,7 +3841,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194580
-
 - id: c-176980
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3945,7 +3874,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194581
-
 - id: c-178537
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3965,7 +3893,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196116
-
 - id: c-178539
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3995,7 +3922,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196118
-
 - id: c-178978
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4037,7 +3963,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196918
-
 - id: c-178980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4060,7 +3985,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196919
-
 - id: c-184278
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -4084,7 +4008,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200928
-
 ## Ryšiai
 - Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Rėmė Prūsai: [[objektai/asmenys/Utenis]]

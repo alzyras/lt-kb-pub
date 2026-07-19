@@ -86,7 +86,6 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192806
-
 - id: c-177335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -106,6 +105,5 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194939
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Kuršiai]]

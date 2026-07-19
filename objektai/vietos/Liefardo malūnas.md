@@ -47,7 +47,7 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
   semantiniai_rysiai: "Pagudėnai puolė Liefardo malūnas (0.88)"
   pagrindžia:
     - c-59218
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Persekiojami miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas kaip pilis.'
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58586
 ## Citatos
 
 - id: c-59218

@@ -71,7 +71,7 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
   temporalinis_llm_pakomentavimas: "Citata remia bibliografinę nuorodą į Basanavičiaus veikalą, o pradinė formuluotė netiksli ir perkrauta."
   pagrindžia:
     - c-65263
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.'
@@ -88,8 +88,7 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-64568
 ## Citatos
 
 - id: c-65262
@@ -109,7 +108,6 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64567
-
 - id: c-65263
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

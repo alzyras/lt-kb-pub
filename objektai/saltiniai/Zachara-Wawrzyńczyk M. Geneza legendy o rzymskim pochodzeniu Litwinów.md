@@ -53,7 +53,7 @@ Dusburgietis teigia, kad zachara-Wawrzyńczyk M.
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą apie šaltinio publikavimą."
   pagrindžia:
     - c-62008
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Zacharos-Wawrzyńczyk straipsnis „Geneza legendy o rzymskim pochodzeniu Litwinów“ paskelbtas 1963 m. Varšuvos leidinio „Zeszyty historyczne“ 3 sąsiuvinyje.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad zachara-Wawrzyńczyk M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61376
 ## Citatos
 
 - id: c-62008

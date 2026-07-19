@@ -63,6 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172563
+    - c-002
 - susijęs iš [[objektai/daiktai/Buthstunkas.md#claim-t-189678|Buthstunkas]]: Narbutas Buthstunką vadina Krivių Krivaičio valdžios ženklu: ąžuoline dvasininko lazda su trišake viršūne ir trimis kutais.
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189437|Kriviai ir Krivių Krivaičiai]]: Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189436|Kriviai ir Krivių Krivaičiai]]: Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę lazdą su trišake viršūne ir trimis kutais.
@@ -94,8 +95,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas Buthstus aprašo kaip vietos ar srities krivio valdžios ženklą – ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -117,8 +116,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189680
 ## Citatos
 
 - id: c-172563

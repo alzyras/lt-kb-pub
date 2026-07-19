@@ -276,7 +276,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71681
-
 - id: c-42881
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -292,7 +291,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193736
-
 - id: c-70212
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -316,7 +314,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71677
-
 - id: c-70213
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -337,6 +334,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71680
-
 ## Ryšiai
 - NKVD puolė [[objektai/vietos/Trakiniai]], [[objektai/vietos/Žuvinto palios]]

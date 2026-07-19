@@ -149,7 +149,6 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-51025
-
 - id: c-36330
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -178,7 +177,6 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   pagrindzia:
     - t-51024
     - t-51028
-
 - id: c-52677
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -199,7 +197,6 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-51026
-
 - id: c-52678
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -220,6 +217,5 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-51027
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

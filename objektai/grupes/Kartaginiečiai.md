@@ -95,7 +95,6 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192952
-
 - id: c-179223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

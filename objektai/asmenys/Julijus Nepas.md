@@ -86,6 +86,5 @@ Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu. Jul
   pagrindzia:
     - t-191286
     - t-197765
-
 ## Ryšiai
 - Julijus Nepas paskyrė [[objektai/asmenys/Odoakras]]

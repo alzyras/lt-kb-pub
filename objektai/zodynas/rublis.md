@@ -115,7 +115,6 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34275
-
 - id: c-35500
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -136,7 +135,6 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34274
-
 - id: c-167631
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

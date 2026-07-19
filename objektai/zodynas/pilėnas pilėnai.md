@@ -73,7 +73,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   semantiniai_rysiai: "Teutonai pastatė Štarkenbergas (0.72)"
   pagrindžia:
     - c-59430
-
+    - c-002
 <a id="claim-t-58799"></a>
 - t-003
   global_id: t-58799
@@ -113,7 +113,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas į aiškų faktą apie pilėną."
   pagrindžia:
     - c-59429
-
+    - c-001
 <a id="claim-t-58802"></a>
 - t-005
   global_id: t-58802
@@ -213,7 +213,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatos faktą apie Svirtilą ir Aukaimio pilį."
   pagrindžia:
     - c-59429
-
+    - c-001
 <a id="claim-t-184016"></a>
 - t-010
   global_id: t-184016
@@ -249,7 +249,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59429
-
+    - c-001
 <a id="claim-t-194464"></a>
 - t-012
   global_id: t-194464
@@ -295,10 +295,9 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-009
-    - t-011
-
+    - t-58800
+    - t-184015
+    - t-194463
 - c-002
   santrauka: 'Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -318,8 +317,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58798
 ## Citatos
 
 - id: c-59429
@@ -350,7 +348,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-58800
     - t-184015
     - t-194463
-
 - id: c-59430
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -376,7 +373,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58798
-
 - id: c-59432
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -395,7 +391,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58799
-
 - id: c-59433
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -418,7 +413,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58802
-
 - id: c-59434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -442,7 +436,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   pagrindzia:
     - t-58797
     - t-197038
-
 - id: c-59435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -470,7 +463,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58803
-
 - id: c-59436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -496,7 +488,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58805
-
 - id: c-59437
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

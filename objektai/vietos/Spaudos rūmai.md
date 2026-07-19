@@ -55,7 +55,7 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-24496
-
+    - c-167028
 ## Citatos
 
 - id: c-24496
@@ -78,7 +78,6 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21817
-
 - id: c-167028
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

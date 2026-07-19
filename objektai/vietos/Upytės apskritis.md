@@ -81,9 +81,6 @@ Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejam�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-171962

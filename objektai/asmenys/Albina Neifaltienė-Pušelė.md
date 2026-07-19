@@ -40,7 +40,7 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44260
-
+    - c-167112
 ## Citatos
 
 - id: c-44260
@@ -64,7 +64,6 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39994
-
 - id: c-167112
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

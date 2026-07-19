@@ -108,7 +108,7 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174619
-
+    - c-003
 <a id="claim-t-197661"></a>
 - t-004
   global_id: t-197661
@@ -159,8 +159,7 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191737
 ## Citatos
 
 - id: c-174617
@@ -183,7 +182,6 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
   pagrindzia:
     - t-191735
     - t-197661
-
 - id: c-174618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -206,7 +204,6 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
   pagrindzia:
     - t-191736
     - t-197662
-
 - id: c-174619
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

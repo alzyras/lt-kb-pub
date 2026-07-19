@@ -103,7 +103,6 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191757
-
 - id: c-174640
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

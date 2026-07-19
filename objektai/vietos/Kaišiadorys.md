@@ -90,7 +90,6 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68034
-
 - id: c-175931
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

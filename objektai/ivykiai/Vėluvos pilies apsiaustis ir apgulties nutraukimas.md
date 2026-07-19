@@ -83,7 +83,7 @@ Nenurodyta
   semantiniai_rysiai: "Sūduviai apgulė Vėluva (0.82)"
   pagrindžia:
     - c-63843
-
+    - c-002
 <a id="claim-t-194433"></a>
 - t-003
   global_id: t-194433
@@ -96,7 +96,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63843
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė dviem apgulos mašinomis.'
@@ -116,9 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
+    - t-62957
+    - t-194433
 ## Citatos
 
 - id: c-63842
@@ -144,7 +143,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62956
-
 - id: c-63843
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -145,7 +145,6 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194282
-
 - id: c-176875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -174,7 +173,6 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194283
-
 - id: c-179209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -191,7 +189,6 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197472
-
 - id: c-184060
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"

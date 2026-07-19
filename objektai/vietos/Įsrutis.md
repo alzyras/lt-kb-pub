@@ -116,7 +116,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182881
-
 - id: c-167203
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -138,6 +137,5 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183818
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Svirdeika]]

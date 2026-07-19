@@ -57,6 +57,7 @@ Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kau
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173104
+    - c-001
 - susijęs iš Vilkija: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas, ant Upinės kaupo buvo pastatyta koplyčia.
 - susijęs iš Upinės kaupas: Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant Upinės kaupo buvo pastatyta koplyčia.
 - susijęs iš Upinės upelis Išganytojo upelis: Narbutas pasakojo, kad senė, vadinama Upine, apeigomis pašventindavo Upinės upelį ir suteikdavo jam metų gydomąją galią.
@@ -77,8 +78,7 @@ Narbutas rašo, kad Vilkijos seniūnui Zabielai uždraudus kerus ant Upinės kau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190221
 ## Citatos
 
 - id: c-173104

@@ -49,6 +49,7 @@ Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu, o lia
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172178
+    - c-001
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-188221|Latviai]]: Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą.
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,8 +70,7 @@ Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu, o lia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189290
 ## Citatos
 
 - id: c-172178

@@ -205,7 +205,6 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64506
-
 - id: c-13902
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -228,7 +227,6 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64500
-
 - id: c-13903
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -243,7 +241,6 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64503
-
 - id: c-13904
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -261,7 +258,6 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64505
-
 - id: c-30385
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

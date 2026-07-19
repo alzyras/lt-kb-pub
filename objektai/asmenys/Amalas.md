@@ -50,7 +50,7 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174246
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria gotų genčių lygos pradžią.'
@@ -74,8 +74,7 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191364
 ## Citatos
 
 - id: c-174246
@@ -103,6 +102,5 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191364
-
 ## Ryšiai
 - Amalas buvo valdovas [[objektai/grupes/Gotai]]

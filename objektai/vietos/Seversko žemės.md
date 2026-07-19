@@ -48,6 +48,7 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168665
+    - c-001
 - susijęs iš [[objektai/autoriai/Swięcki.md#claim-t-190457|Swięcki]]: Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės.
 - susijęs iš [[objektai/grupes/Triznų giminė.md#claim-t-189504|Triznų giminė]]: Narbutas išnašoje nurodė, kad Triznų giminė yra kilusi iš Seversko žemės.
 - susijęs iš Swięcki, Opis starožytnej Polski: Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.
@@ -78,8 +79,7 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185304
 ## Citatos
 
 - id: c-168665

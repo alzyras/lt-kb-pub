@@ -101,7 +101,6 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86514
-
 - id: c-176817
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

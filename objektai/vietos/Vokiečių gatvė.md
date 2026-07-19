@@ -92,7 +92,6 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86124
-
 - id: c-82103
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

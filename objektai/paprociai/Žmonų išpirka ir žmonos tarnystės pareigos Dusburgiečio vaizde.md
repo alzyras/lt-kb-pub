@@ -68,7 +68,7 @@ Nenurodyta
   pagrindžia:
     - c-63497
     - c-63499
-
+    - c-002
 <a id="claim-t-62732"></a>
 - t-002
   global_id: t-62732
@@ -104,8 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62731
 - c-003
   santrauka: 'Senovės paprotys reikalavo, kad jaunikis pinigais ar daiktais mokėtų jaunosios tėvui ir taip išpirktų žmoną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -141,7 +140,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62732
-
 - id: c-63497
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -161,7 +159,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62731
-
 - id: c-63499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

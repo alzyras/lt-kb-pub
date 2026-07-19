@@ -53,7 +53,7 @@ Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszaw
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną bibliografinį faktą."
   pagrindžia:
     - c-61937
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszaw
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61305
 ## Citatos
 
 - id: c-61937

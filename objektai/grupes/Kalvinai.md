@@ -105,7 +105,6 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01342
-
 - id: c-01581
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -82,7 +82,6 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03063
-
 - id: c-166355
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

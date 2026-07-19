@@ -121,7 +121,6 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86021
-
 - id: c-82000
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,7 +140,6 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86020
-
 - id: c-82001
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -171,6 +169,5 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86022
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

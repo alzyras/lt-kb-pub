@@ -122,6 +122,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177305
+    - c-003
 - susijęs iš Kelnas: Albertas Didysis mirė Kelne.
 - susijęs iš Kelnas: Albertas Didysis mirė Kelne.
 - susijęs iš Kelnas: Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne.
@@ -148,8 +149,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-194909
 ## Citatos
 
 - id: c-57669
@@ -170,10 +170,9 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-56968
+    - t-56969
     - t-56970
     - t-194472
-
 - id: c-177304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -196,7 +195,6 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194908
-
 - id: c-177305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -236,7 +234,6 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194909
-
 - id: c-179299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

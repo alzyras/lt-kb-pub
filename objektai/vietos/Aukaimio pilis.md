@@ -56,7 +56,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67473
-
+    - c-002
 <a id="claim-t-67652"></a>
 - t-002
   global_id: t-67652
@@ -94,7 +94,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67478
-
+    - c-007
 <a id="claim-t-67654"></a>
 - t-004
   global_id: t-67654
@@ -114,7 +114,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas pateikta citata."
   pagrindžia:
     - c-67475
-
+    - c-004
 <a id="claim-t-67655"></a>
 - t-005
   global_id: t-67655
@@ -153,7 +153,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   semantiniai_rysiai: "Kryžiuočių ordinas puolė Aukaimio pilis (pilis) (0.84); Kryžiuočių ordinas užėmė Aukaimio pilis (pilis) (0.79)"
   pagrindžia:
     - c-67477
-
+    - c-006
 <a id="claim-t-67657"></a>
 - t-007
   global_id: t-67657
@@ -191,7 +191,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67476
-
+    - c-005
 <a id="claim-t-184382"></a>
 - t-009
   global_id: t-184382
@@ -235,8 +235,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-67651
 - c-004
   santrauka: '1305 m. per gavėnią Svirtilas išdavė Aukaimio pilį broliams, kurie ją antrą kartą sugriovė iki pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -255,8 +254,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-67654
 - c-005
   santrauka: 'Per šv. Jono Krikštytojo dieną 36 lietuviai iš Aukaimio pilies apylinkių patraukė plėšikiškais išpuoliais trikdyti Ragainės brolių ramybės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -273,8 +271,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-67658
 - c-006
   santrauka: 'Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė į pilį, ją ir papilį sudegino iki pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -296,8 +293,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-67656
 - c-007
   santrauka: 'Kariuomenės dalis nusiaubė Aukaimio pilies apylinkes, daug žmonių išžudė arba paėmė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -313,8 +309,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-67653
 ## Citatos
 
 - id: c-31946
@@ -337,7 +332,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67652
-
 - id: c-67473
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -364,7 +358,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67651
-
 - id: c-67474
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -385,7 +378,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67655
-
 - id: c-67475
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -409,7 +401,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67654
-
 - id: c-67476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -432,7 +423,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67658
-
 - id: c-67477
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -455,7 +445,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67656
-
 - id: c-67478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -477,7 +466,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67653
-
 - id: c-67479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -496,7 +484,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67657
-
 - id: c-167751
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

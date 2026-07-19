@@ -139,7 +139,6 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113658
-
 - id: c-104851
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

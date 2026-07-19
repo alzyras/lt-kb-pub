@@ -51,7 +51,7 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85544
-
+    - c-002
 <a id="claim-t-89602"></a>
 - t-002
   global_id: t-89602
@@ -86,7 +86,7 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85544
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.'
@@ -104,9 +104,8 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-001
-
+    - t-89601
+    - t-89603
 ## Citatos
 
 - id: c-85542
@@ -138,7 +137,6 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89602
-
 - id: c-85544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

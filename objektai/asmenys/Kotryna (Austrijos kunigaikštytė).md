@@ -62,4 +62,3 @@ Karalienė motina patarė karaliui prašyti Austrijos kunigaikštytės Kotrynos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

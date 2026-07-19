@@ -94,7 +94,6 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193800
-
 - id: c-184056
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"

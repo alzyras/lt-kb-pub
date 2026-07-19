@@ -60,7 +60,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, datuotas ir paremtas citata."
   pagrindžia:
     - c-56075
-
+    - c-006
 <a id="claim-t-173129"></a>
 - t-002
   global_id: t-173129
@@ -116,7 +116,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   semantiniai_rysiai: "Dovydas (Gardino pilininkas) surengė žygį į Prūsija (0.88)"
   pagrindžia:
     - c-56070
-
+    - c-003
 <a id="claim-t-173132"></a>
 - t-005
   global_id: t-173132
@@ -195,7 +195,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia datą, veikėjus ir dvaro sudeginimą."
   pagrindžia:
     - c-157467
-
+    - c-007
 <a id="claim-t-173137"></a>
 - t-009
   global_id: t-173137
@@ -213,7 +213,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   semantiniai_rysiai: "Dovydas (Gardino pilininkas) surengė žygį į Prūsija (0.86)"
   pagrindžia:
     - c-56070
-
+    - c-003
 <a id="claim-t-173138"></a>
 - t-010
   global_id: t-173138
@@ -233,7 +233,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-56071
-
+    - c-004
 <a id="claim-t-173139"></a>
 - t-011
   global_id: t-173139
@@ -254,7 +254,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, datuotas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-56075
-
+    - c-006
 <a id="claim-t-173140"></a>
 - t-012
   global_id: t-173140
@@ -294,7 +294,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   temporalinis_llm_pakomentavimas: "Citata leidžia pateikti tikslesnį veiksmą ir rezultatą."
   pagrindžia:
     - c-157467
-
+    - c-007
 <a id="claim-t-173144"></a>
 - t-014
   global_id: t-173144
@@ -312,7 +312,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   semantiniai_rysiai: "Dovydas (Gardino pilininkas) puolė Revelis (0.93)"
   pagrindžia:
     - c-157472
-
+    - c-008
 <a id="claim-t-173145"></a>
 - t-015
   global_id: t-173145
@@ -384,6 +384,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56070
+    - c-003
 - susijęs iš [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis).md#claim-t-62840|Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]: Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.
 - susijęs iš Revelis: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
 ## Reikšmingi paminėjimai
@@ -406,10 +407,9 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-    - t-004
-    - t-020
-
+    - t-173131
+    - t-173137
+    - t-194479
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -424,8 +424,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-173138
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -444,9 +443,8 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-011
-
+    - t-173128
+    - t-173139
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -463,9 +461,8 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-    - t-015
-
+    - t-173136
+    - t-173143
 - c-008
   santrauka: 'Gardino pilininkas Dovydas su lietuvių kariuomene įsibrovė į Danijos karaliaus Revelio žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -483,8 +480,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-173144
 ## Citatos
 
 - id: c-13116
@@ -504,7 +500,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173140
-
 - id: c-41892
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -526,9 +521,8 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173130
-    - t-173133
+    - t-173141
     - t-173134
-
 - id: c-56070
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -554,7 +548,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     - t-173131
     - t-173137
     - t-194479
-
 - id: c-56071
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -581,7 +574,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173138
-
 - id: c-56072
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -608,7 +600,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   pagrindzia:
     - t-173129
     - t-173132
-
 - id: c-56075
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -638,7 +629,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   pagrindzia:
     - t-173128
     - t-173139
-
 - id: c-157467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -668,7 +658,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   pagrindzia:
     - t-173136
     - t-173143
-
 - id: c-157472
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -694,7 +683,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173144
-
 - id: c-167443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -726,7 +714,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     - t-173145
     - t-173146
     - t-184058
-
 ## Ryšiai
 - Dovydas (Gardino pilininkas) puolė [[objektai/vietos/Mozūrija]], [[objektai/vietos/Revelis]]
 - Dovydas (Gardino pilininkas) surengė žygį į [[objektai/vietos/Mazovija]]

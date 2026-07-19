@@ -110,7 +110,6 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191201
-
 - id: c-174830
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

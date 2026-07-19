@@ -110,7 +110,6 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22044
-
 - id: c-24729
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -138,7 +137,6 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22045
-
 - id: c-24730
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

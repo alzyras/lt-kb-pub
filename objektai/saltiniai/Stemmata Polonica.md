@@ -109,7 +109,6 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67545
-
 - id: c-67411
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

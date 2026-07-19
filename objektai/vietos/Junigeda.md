@@ -392,7 +392,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   pagrindzia:
     - t-90471
     - t-194531
-
 - id: c-86298
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -413,7 +412,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   pagrindzia:
     - t-90470
     - t-194530
-
 - id: c-86300
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -432,7 +430,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90472
-
 - id: c-86302
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -456,7 +453,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90473
-
 - id: c-86304
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -483,7 +479,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   pagrindzia:
     - t-90468
     - t-90474
-
 - id: c-86305
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -508,7 +503,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90467
-
 - id: c-86306
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -534,7 +528,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90469
-
 - id: c-86307
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -568,7 +561,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
     - t-90466
     - t-90475
     - t-90476
-
 - id: c-167544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -614,7 +606,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196686
-
 - id: c-178840
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -641,7 +632,6 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196687
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/asmenys/Konradas Štangė]]
 - Buvo pastatyta: [[objektai/grupes/Lietuviai]]

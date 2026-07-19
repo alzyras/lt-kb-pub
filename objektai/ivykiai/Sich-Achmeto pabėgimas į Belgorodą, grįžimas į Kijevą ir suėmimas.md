@@ -78,7 +78,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Sakinys pilnas ir atitinka redakcinės pastabos informaciją."
   pagrindžia:
     - c-169985
-
+    - c-002
 <a id="claim-t-186797"></a>
 - t-003
   global_id: t-186797
@@ -100,7 +100,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169985
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -116,9 +116,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-002
-
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -133,9 +130,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
+    - t-186795
+    - t-186797
 ## Citatos
 
 - id: c-169985

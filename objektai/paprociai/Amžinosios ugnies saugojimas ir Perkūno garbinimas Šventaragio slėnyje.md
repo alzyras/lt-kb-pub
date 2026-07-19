@@ -137,7 +137,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54485
-
 - id: c-55387
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -164,7 +163,6 @@ Nenurodyta
   pagrindzia:
     - t-54485
     - t-54487
-
 - id: c-55388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

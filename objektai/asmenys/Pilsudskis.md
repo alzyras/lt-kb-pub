@@ -119,7 +119,6 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64037
-
 - id: c-64907
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

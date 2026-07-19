@@ -101,6 +101,7 @@ Bodzanta Vladislovo vardu.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia Bodzantos veiksmą; pašalintas OCR ir puslapio triukšmas."
   pagrindžia:
     - c-168038
+    - c-003
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54450|Lietuvos krikštas Vilniuje (1387 m.)]]: Per Lietuvos krikštą Vilniuje Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184725|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila asmeniškai pasveikino karalienę ir per Skirgailą bei Vytautą pasiuntė jai gausių dovanų.
 ## Reikšmingi paminėjimai
@@ -137,8 +138,7 @@ Bodzanta Vladislovo vardu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-184677
 ## Citatos
 
 - id: c-78732
@@ -160,7 +160,6 @@ Bodzanta Vladislovo vardu.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82241
-
 - id: c-78733
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -184,7 +183,6 @@ Bodzanta Vladislovo vardu.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82242
-
 - id: c-168038
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

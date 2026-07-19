@@ -147,7 +147,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
   pagrindžia:
     - c-24376
-
+    - c-74582
 <a id="claim-t-77138"></a>
 - t-006
   global_id: t-77138
@@ -245,7 +245,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   temporalinis_llm_pakomentavimas: "Neaiškus įvardis pakeistas citatoje esančiu apibūdinimu, nes asmens vardas šioje ištraukoje nepateiktas. Nepridėta biografinių duomenų iš už citatos ribų."
   pagrindžia:
     - c-171690
-
+    - c-011
 <a id="claim-t-192719"></a>
 - t-011
   global_id: t-192719
@@ -269,6 +269,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175489
+    - c-012
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170089|Stanislovas Augustas Poniatovskis (valdovas)]]: Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.
 - susijęs iš [[objektai/autoriai/A. E. Presniakov.md#claim-t-30504|A. E. Presniakov]]: A. E. Presniakov 1908-1910 m. Peterburgo universiteto paskaitose lietė Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos.
 - susijęs iš [[objektai/autoriai/Frid. Adelung.md#claim-t-191642|Frid. Adelung]]: Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la lanąue russe“, išleistą Sankt Peterburge 1811 metais.
@@ -340,8 +341,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-188801
 - c-012
   santrauka: 'Peterburge 1839 m. istorikas gavo Jo Didenybės Imperatoriaus dovaną, briliantinį žiedą, po „Lietuvių mitologijos“ įvertinimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -360,8 +360,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-192719
 ## Citatos
 
 - id: c-24373
@@ -387,7 +386,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77141
-
 - id: c-24374
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -408,7 +406,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77135
-
 - id: c-24375
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -428,7 +425,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77136
-
 - id: c-24376
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -449,7 +445,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77137
-
 - id: c-24377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -472,7 +467,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77132
-
 - id: c-24379
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -491,7 +485,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77143
-
 - id: c-74580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -512,7 +505,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77142
-
 - id: c-74581
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -536,7 +528,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77138
-
 - id: c-74582
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -579,7 +570,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77134
-
 - id: c-171690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -602,7 +592,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188801
-
 - id: c-175489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

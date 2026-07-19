@@ -82,6 +82,5 @@ Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186148
-
 ## Ryšiai
 - Mechmet Girėjus puolė [[objektai/vietos/Polockas]], [[objektai/vietos/Vitebskas]]

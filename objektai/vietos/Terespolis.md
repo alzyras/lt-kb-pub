@@ -137,7 +137,6 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   patikimumo_saltinis: ai
   pagrindzia:
     - t-115028
-
 - id: c-106017
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -162,7 +161,6 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   pagrindzia:
     - t-115027
     - t-183812
-
 - id: c-106018
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

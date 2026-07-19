@@ -63,7 +63,7 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60785
-
+    - c-001
 <a id="claim-t-197111"></a>
 - t-003
   global_id: t-197111
@@ -99,8 +99,7 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60154
 ## Citatos
 
 - id: c-60785
@@ -125,7 +124,6 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60154
-
 - id: c-60786
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -145,7 +143,6 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60153
-
 - id: c-179029
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

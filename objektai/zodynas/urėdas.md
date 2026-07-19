@@ -90,7 +90,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-69409
-
+    - c-166383
 <a id="claim-t-200956"></a>
 - t-004
   global_id: t-200956
@@ -156,7 +156,6 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12598
-
 - id: c-14720
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -174,7 +173,6 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12599
-
 - id: c-69409
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -193,7 +191,6 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70375
-
 - id: c-166383
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -234,7 +231,6 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200956
-
 - id: c-184307
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -260,7 +256,6 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200957
-
 - id: c-184308
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

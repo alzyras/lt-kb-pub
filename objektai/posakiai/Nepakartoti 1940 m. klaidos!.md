@@ -61,6 +61,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Reikia aiškiau įvardyti, apie kuriuos gynėjus kalbama."
   pagrindžia:
     - c-43192
+    - c-44958
 - susijęs iš [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai.md#claim-t-09612|Aukščiausiosios Tarybos gynybos principai (institucija)]]: Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.
 - susijęs iš Nacionalinė M. Mažvydo biblioteka: Dalis A. Pociaus vadovaujamų ginkluotų vyrų išsidėstė ant Nacionalinės M. Mažvydo bibliotekos stogo.
 - susijęs iš [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis).md#claim-t-171455|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]: Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą.
@@ -117,4 +118,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41458
+    - t-41459

@@ -94,7 +94,6 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31637
-
 - id: c-33545
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

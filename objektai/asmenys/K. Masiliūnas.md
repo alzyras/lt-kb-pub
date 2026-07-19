@@ -103,7 +103,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00008
-
 - id: c-00118
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -124,7 +123,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00009
-
 - id: c-176296
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

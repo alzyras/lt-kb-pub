@@ -69,7 +69,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172503
-
+    - c-001
 <a id="claim-t-189621"></a>
 - t-002
   global_id: t-189621
@@ -90,7 +90,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172504
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad 1302 m. Gediminas suteikė Krunevičiui herbą kaip slavų giminei skirtą didžiojo kunigaikščio dovaną.'
@@ -110,8 +110,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189620
 - c-002
   santrauka: 'Narbutas pažymi, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino herbo suteikimą Krunevičiui, bet šaltinio nenurodė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -130,8 +129,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189621
 ## Citatos
 
 - id: c-172503
@@ -160,7 +158,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189620
-
 - id: c-172504
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

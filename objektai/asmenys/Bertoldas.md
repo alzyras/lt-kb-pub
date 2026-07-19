@@ -97,7 +97,6 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87485
-
 - id: c-176823
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -121,6 +120,5 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194223
-
 ## Ryšiai
 - Bertoldas mirė [[objektai/vietos/Ryga]]

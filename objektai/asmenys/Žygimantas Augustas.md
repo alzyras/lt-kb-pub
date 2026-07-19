@@ -573,7 +573,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182749
-
 - id: c-166974
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -591,7 +590,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183581
-
 - id: c-166975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -610,7 +608,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183582
-
 - id: c-167230
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -628,7 +625,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183845
-
 - id: c-167231
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -650,7 +646,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183846
-
 - id: c-167232
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -670,7 +665,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183847
-
 - id: c-167233
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -695,7 +689,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183848
-
 - id: c-167234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -719,7 +712,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183849
-
 - id: c-167235
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -746,7 +738,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183850
-
 - id: c-167236
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -772,7 +763,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183851
-
 - id: c-167237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -796,7 +786,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183852
-
 - id: c-167238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -824,7 +813,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183853
-
 - id: c-167239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -844,7 +832,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183854
-
 - id: c-168271
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -878,7 +865,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184910
-
 - id: c-168272
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -901,7 +887,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184911
-
 - id: c-171546
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -920,7 +905,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188657
-
 - id: c-171547
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -941,7 +925,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188658
-
 - id: c-177124
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -965,7 +948,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   pagrindzia:
     - t-194728
     - t-197460
-
 - id: c-178828
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -996,7 +978,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196668
-
 - id: c-184115
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1015,7 +996,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200770
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]
 - Žygimantas Augustas (arkivyskupas, XVI a.) keliavo į [[objektai/vietos/Vilnius]]

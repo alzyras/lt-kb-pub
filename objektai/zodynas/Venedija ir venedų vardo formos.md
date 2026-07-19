@@ -110,7 +110,6 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192163
-
 - id: c-175040
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

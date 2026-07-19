@@ -60,7 +60,7 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175063
-
+    - c-001
 <a id="claim-t-192200"></a>
 - t-002
   global_id: t-192200
@@ -79,7 +79,7 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175063
-
+    - c-001
 <a id="claim-t-192554"></a>
 - t-003
   global_id: t-192554
@@ -100,7 +100,7 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175063
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -123,11 +123,9 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-
+    - t-192199
+    - t-192200
+    - t-192554
 ## Citatos
 
 - id: c-175063

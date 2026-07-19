@@ -67,7 +67,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62975
-
+    - c-002
 <a id="claim-t-62383"></a>
 - t-002
   global_id: t-62383
@@ -88,7 +88,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata remia konkretų faktą, o pradinis teiginys per ilgas ir su boilerplate."
   pagrindžia:
     - c-62974
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.'
@@ -107,8 +107,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62383
 - c-002
   santrauka: 'Po Lubavos apiplėšimo broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli vieno lietuvių būrio nariai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,8 +122,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62382
 ## Citatos
 
 - id: c-62974
@@ -148,7 +146,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62383
-
 - id: c-62975
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

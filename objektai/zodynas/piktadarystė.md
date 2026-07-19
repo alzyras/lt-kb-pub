@@ -85,7 +85,6 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185390
-
 - id: c-178658
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

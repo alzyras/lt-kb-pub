@@ -59,7 +59,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171922
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1826 m. netoli Ogrodnikų kaimo Lydos apskrityje, Šalčios upės pakrantės skardyje, kaimietis rado senų sidabrinių pinigų.'
@@ -76,8 +76,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189033
 ## Citatos
 
 - id: c-171922

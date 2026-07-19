@@ -53,7 +53,7 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   semantiniai_rysiai: "Burcos žemė priklausė Kryžiuočių ordinas (0.87)"
   pagrindžia:
     - c-59322
-
+    - c-001
 <a id="claim-t-58691"></a>
 - t-002
   global_id: t-58691
@@ -96,8 +96,7 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58690
 ## Citatos
 
 - id: c-59322
@@ -122,7 +121,6 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58690
-
 - id: c-59323
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -130,7 +130,6 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
     - t-190668
     - t-190669
     - t-197411
-
 - id: c-179172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

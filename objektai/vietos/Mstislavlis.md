@@ -116,7 +116,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-168419
-
+    - c-004
 <a id="claim-t-187618"></a>
 - t-005
   global_id: t-187618
@@ -138,7 +138,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170565
-
+    - c-005
 <a id="claim-t-187619"></a>
 - t-006
   global_id: t-187619
@@ -159,6 +159,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170566
+    - c-006
 - susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179683|Sviatoslavas]]: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
 - susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179685|Sviatoslavas]]: Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
@@ -255,8 +256,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-185058
 - c-005
   santrauka: 'Lietuvos metraštis vaizduoja, kad Gavėnios metu Svetoslavas su Smolensko bajorais patraukė į Mstislavlį ir ten praliejo daug krikščioniško kraujo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -278,8 +278,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-187618
 - c-006
   santrauka: 'Lietuvos metraščio pasakojime kunigaikštis Svetoslavas stovėjo prie Mstislavlio ir šaudė į miestą iš patrankų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -297,8 +296,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-187619
 ## Citatos
 
 - id: c-165572
@@ -317,7 +315,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182083
-
 - id: c-165574
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -335,7 +332,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182082
-
 - id: c-165575
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -353,7 +349,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182085
-
 - id: c-168419
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -387,7 +382,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185058
-
 - id: c-170565
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -413,7 +407,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187618
-
 - id: c-170566
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -438,7 +431,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187619
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Karigaila]]
 - Buvo valdoma: [[objektai/asmenys/Sviatoslavas]]

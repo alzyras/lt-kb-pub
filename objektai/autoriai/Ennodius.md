@@ -41,7 +41,7 @@ Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Enno
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177272
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Ennodius.'
@@ -56,8 +56,7 @@ Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Enno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194876
 ## Citatos
 
 - id: c-177272

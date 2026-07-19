@@ -50,7 +50,7 @@ Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir i
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175658
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir iš to sprendė, kad gelonai gyveno Starobelsko apskrityje.'
@@ -73,8 +73,7 @@ Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192888
 ## Citatos
 
 - id: c-175658

@@ -49,7 +49,7 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175595
-
+    - c-001
 <a id="claim-t-192826"></a>
 - t-002
   global_id: t-192826
@@ -93,8 +93,7 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192825
 ## Citatos
 
 - id: c-175595
@@ -121,7 +120,6 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192825
-
 - id: c-175596
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

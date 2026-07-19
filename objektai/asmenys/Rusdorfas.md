@@ -134,7 +134,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113963
-
 - id: c-105140
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -168,6 +167,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113964
-
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Vladislovas Varnietis]]

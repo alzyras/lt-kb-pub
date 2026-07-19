@@ -107,7 +107,6 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195292
-
 - id: c-177657
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -128,7 +127,6 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195294
-
 - id: c-177658
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

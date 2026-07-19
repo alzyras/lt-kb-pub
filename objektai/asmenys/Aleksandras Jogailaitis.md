@@ -816,7 +816,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   pagrindzia:
     - t-54935
     - t-54936
-
 - id: c-55309
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -838,7 +837,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54938
-
 - id: c-55310
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -860,7 +858,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54939
-
 - id: c-55311
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -882,7 +879,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54940
-
 - id: c-55313
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -903,7 +899,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54942
-
 - id: c-78657
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -926,7 +921,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82171
-
 - id: c-78658
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -955,7 +949,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   pagrindzia:
     - t-54937
     - t-82173
-
 - id: c-78659
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -982,7 +975,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82183
-
 - id: c-78660
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1030,7 +1022,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82176
-
 - id: c-78661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1057,7 +1048,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82170
-
 - id: c-78662
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1123,7 +1113,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82181
-
 - id: c-78663
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1151,7 +1140,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82175
-
 - id: c-78664
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1178,7 +1166,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82179
-
 - id: c-78665
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1215,7 +1202,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82182
-
 - id: c-78666
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1237,7 +1223,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82180
-
 - id: c-78667
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1266,7 +1251,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   pagrindzia:
     - t-54941
     - t-82177
-
 - id: c-78668
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1288,7 +1272,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82172
-
 - id: c-78669
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1317,7 +1300,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82178
-
 - id: c-78670
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1353,7 +1335,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82174
-
 - id: c-168018
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1392,7 +1373,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   pagrindzia:
     - t-184657
     - t-196410
-
 - id: c-168019
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1428,7 +1408,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184658
-
 - id: c-168020
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1454,7 +1433,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184659
-
 - id: c-168021
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1478,7 +1456,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184660
-
 - id: c-168022
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1507,7 +1484,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184661
-
 - id: c-168023
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1533,7 +1509,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184662
-
 - id: c-171400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1557,7 +1532,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188510
-
 - id: c-173727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1579,7 +1553,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190845
-
 - id: c-176512
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1604,7 +1577,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   pagrindzia:
     - t-193887
     - t-196807
-
 - id: c-176513
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1627,7 +1599,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193888
-
 - id: c-176514
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1642,7 +1613,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193889
-
 - id: c-178666
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1664,7 +1634,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196409
-
 - id: c-178667
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1690,7 +1659,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196411
-
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - Turėjo priklausinį: [[objektai/daiktai/Malūnas]]

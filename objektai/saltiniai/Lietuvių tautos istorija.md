@@ -110,7 +110,6 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88258
-
 - id: c-84238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -128,7 +127,6 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88260
-
 - id: c-84239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

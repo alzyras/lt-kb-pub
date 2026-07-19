@@ -91,6 +91,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18851
-
 ## Ryšiai
 - Bernard Lown gimė [[objektai/vietos/Utena]]

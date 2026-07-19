@@ -47,7 +47,7 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171819
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Stowko о bogach Litewskich // Biblioteka Warszawska.'
@@ -61,8 +61,7 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188930
 ## Citatos
 
 - id: c-171819

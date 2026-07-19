@@ -73,7 +73,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171305
-
+    - c-002
 <a id="claim-t-188418"></a>
 - t-003
   global_id: t-188418
@@ -94,7 +94,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171308
-
+    - c-005
 <a id="claim-t-188419"></a>
 - t-004
   global_id: t-188419
@@ -115,7 +115,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171309
-
+    - c-006
 <a id="claim-t-188420"></a>
 - t-005
   global_id: t-188420
@@ -136,7 +136,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171310
-
+    - c-007
 <a id="claim-t-188421"></a>
 - t-006
   global_id: t-188421
@@ -157,7 +157,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171311
-
+    - c-008
 <a id="claim-t-188423"></a>
 - t-007
   global_id: t-188423
@@ -224,8 +224,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188415
 - c-005
   santrauka: 'Narbutas nurodo, kad Lasickis trumpai paminėjo paprotį parsinešti pirmąjį rugių pėdelį prieš rugiapjūtę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -242,8 +241,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188418
 - c-006
   santrauka: 'Narbutas rašo, kad Lasickis paliko žinią apie sūduvių bendrą derliaus nuėmimo šventę su aukomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -265,8 +263,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-188419
 - c-007
   santrauka: 'Narbutas Lasickį vadina šių apeigų liudytoju ir teigia, kad Lasickis pridūrė apie atpildą už tikėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -282,8 +279,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188420
 - c-008
   santrauka: 'Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų mirusiųjų pagerbimo apeigų aprašymą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -302,8 +298,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188421
 ## Citatos
 
 - id: c-32971
@@ -326,7 +321,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30684
-
 - id: c-171305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -355,7 +349,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188415
-
 - id: c-171308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -379,7 +372,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188418
-
 - id: c-171309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -402,7 +394,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188419
-
 - id: c-171310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -426,7 +417,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188420
-
 - id: c-171311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -456,7 +446,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188421
-
 - id: c-171313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -475,7 +464,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188423
-
 - id: c-179117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -498,7 +486,6 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197305
-
 - id: c-179118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -75,6 +75,5 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189048
-
 ## Ryšiai
 - Ragutėniškiai priklausė [[objektai/vietos/Lydos apskritis]]

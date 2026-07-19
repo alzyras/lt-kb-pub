@@ -130,7 +130,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95214
-
 - id: c-90170
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -149,7 +148,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95219
-
 - id: c-90171
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -172,7 +170,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95220
-
 - id: c-90172
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -194,7 +191,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95216
-
 - id: c-90175
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -211,7 +207,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95217
-
 - id: c-175971
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

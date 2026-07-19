@@ -103,7 +103,6 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72515
-
 - id: c-70941
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -121,7 +120,6 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72516
-
 - id: c-70942
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

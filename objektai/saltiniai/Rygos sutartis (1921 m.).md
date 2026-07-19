@@ -93,7 +93,6 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78118
-
 - id: c-176273
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

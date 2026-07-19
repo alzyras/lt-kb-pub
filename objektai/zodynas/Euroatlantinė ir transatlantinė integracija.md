@@ -56,7 +56,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie transatlantinę integraciją."
   pagrindžia:
     - c-24673
-
+    - c-166817
 <a id="claim-t-70000"></a>
 - t-002
   global_id: t-70000
@@ -97,7 +97,6 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69999
-
 - id: c-69164
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -120,7 +119,6 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70000
-
 - id: c-166817
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

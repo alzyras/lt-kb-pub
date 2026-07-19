@@ -85,7 +85,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata palaiko konkretesnį enciklopedinį sakinį be vertinamosios įžangos."
   pagrindžia:
     - c-169010
-
+    - c-169011
 <a id="claim-t-196261"></a>
 - t-003
   global_id: t-196261
@@ -142,3 +142,29 @@ Nenurodyta
     - t-185649
     - t-185650
     - t-196261
+- id: c-169011
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 109."
+  citata_originali: |
+    Koks žiaurus būtų buvęs krikščionims, jei­
+    gu dievai jį būtų laikę gyvą, geriausiai jis parodė
+    tada, kai, paėmęs valdžią, pradėjo niokoti Mazoviją.
+    Tada visi kaimai ligi pat Červinsko buvo sudeginti,
+    Oršimovo pilis sugriauta, suaugusieji kalaviju, o vai­
+    kai liepsnose išžudyti, mote-
+    1264 m e ta i
+    rys paliktos vergauti bei pri­
+    daryta kitokių nelaimių, ko­
+    kių nešykšti žiaurūs nugalėtojai nugalėtiesiems, Livo­
+    nijos metraštininkai pasakoja, esą jis nuniokojęs ir
+    Livoniją apie Pernu. Tačiau namuose viskas tironui
+    rodėsi įtartina: jis ne be pamato būgštavo, kad prieš
+    jį patį neatsigręžtų nusikaltimai, jo padaryti kitiems.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185650

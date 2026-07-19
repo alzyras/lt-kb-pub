@@ -78,7 +78,6 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86788
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Anglų riteriai kariavo prieš [[objektai/grupes/Lietuviai]]

@@ -52,8 +52,6 @@ Po Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio vidu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 

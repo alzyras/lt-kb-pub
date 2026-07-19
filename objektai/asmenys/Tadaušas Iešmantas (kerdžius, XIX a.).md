@@ -129,7 +129,6 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195263
-
 - id: c-177626
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -152,7 +151,6 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195260
-
 - id: c-177627
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -175,7 +173,6 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195262
-
 - id: c-177628
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -195,7 +192,6 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195264
-
 - id: c-177629
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

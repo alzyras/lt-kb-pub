@@ -54,7 +54,7 @@ Narbutas Zielińskio „Histoire de Pologne“ I tomo 166 puslapį cituoja prie 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174814
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Zielińskio „Histoire de Pologne“ I tomo 166 puslapį cituoja prie teiginio apie Europos tautas iki XV amžiaus.'
@@ -68,8 +68,7 @@ Narbutas Zielińskio „Histoire de Pologne“ I tomo 166 puslapį cituoja prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191932
 ## Citatos
 
 - id: c-174814

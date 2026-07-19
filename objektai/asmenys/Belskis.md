@@ -88,7 +88,6 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190085
-
 - id: c-179161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

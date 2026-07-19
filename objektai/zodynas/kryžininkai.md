@@ -111,7 +111,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113641
-
 - id: c-104837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

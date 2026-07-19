@@ -136,7 +136,6 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88120
-
 - id: c-84099
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -156,7 +155,6 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88119
-
 - id: c-84100
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -187,7 +185,6 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88122
-
 - id: c-84101
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

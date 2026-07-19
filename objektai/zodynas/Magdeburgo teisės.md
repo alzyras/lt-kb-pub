@@ -84,7 +84,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-104849
-
+    - c-104847
 <a id="claim-t-113645"></a>
 - t-003
   global_id: t-113645
@@ -181,7 +181,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-14675
-
+    - c-37888
 <a id="claim-t-113650"></a>
 - t-008
   global_id: t-113650
@@ -331,7 +331,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113655
-
 - id: c-14675
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -369,8 +368,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113649
-
+    - t-113656
 - id: c-104838
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -396,7 +394,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113646
-
 - id: c-104839
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -445,7 +442,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113653
-
 - id: c-104840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -471,7 +467,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113652
-
 - id: c-104841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -500,7 +495,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113648
-
 - id: c-104842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -547,7 +541,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113651
-
 - id: c-104844
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -589,7 +582,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113643
-
 - id: c-104845
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -614,7 +606,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113650
-
 - id: c-104846
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -649,7 +640,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113645
-
 - id: c-104847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -703,7 +693,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113647
-
 - id: c-104849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -738,7 +727,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113644
-
 - id: c-166357
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

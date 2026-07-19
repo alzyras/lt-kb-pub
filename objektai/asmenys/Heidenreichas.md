@@ -112,7 +112,6 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60301
-
 - id: c-184345
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

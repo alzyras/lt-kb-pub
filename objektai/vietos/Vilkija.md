@@ -82,7 +82,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171738
-
+    - c-002
 <a id="claim-t-188850"></a>
 - t-003
   global_id: t-188850
@@ -125,7 +125,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175542
-
+    - c-004
 <a id="claim-t-192773"></a>
 - t-005
   global_id: t-192773
@@ -147,7 +147,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175543
-
+    - c-005
 <a id="claim-t-197939"></a>
 - t-006
   global_id: t-197939
@@ -197,8 +197,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188849
 - c-004
   santrauka: 'Narbutas Vilkiją aiškino kaip vėlesnį didelio krašto vardą ir siejo jį su herulų įsikūrimu tarp saksų ir slavų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -215,8 +214,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192772
 - c-005
   santrauka: 'Narbutas Vilkiją laikė herulų kraštu, Didžiąja Herulija, iš kurios apie 580 metus slavai esą išstūmė ankstesnius gyventojus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -237,8 +235,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-192773
 ## Citatos
 
 - id: c-39988
@@ -260,7 +257,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38183
-
 - id: c-171738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -280,7 +276,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188849
-
 - id: c-171739
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -298,7 +293,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188850
-
 - id: c-175542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -319,7 +313,6 @@ media_all_json: |-
   pagrindzia:
     - t-192772
     - t-197939
-
 - id: c-175543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -348,6 +341,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192773
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Herulai]]

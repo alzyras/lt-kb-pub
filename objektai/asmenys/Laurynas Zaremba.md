@@ -106,7 +106,6 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186138
-
 - id: c-169500
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

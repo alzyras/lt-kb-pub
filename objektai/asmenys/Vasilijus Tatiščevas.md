@@ -70,7 +70,7 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174241
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas atmetė Tatiščevo krivių pavadinimo kildinimą iš sarmatų žodžio „Krirsae“ ir labiau siejo jį su bendru vyriausiuoju kunigu.'
@@ -89,8 +89,7 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191359
 ## Citatos
 
 - id: c-174240
@@ -115,7 +114,6 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191358
-
 - id: c-174241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

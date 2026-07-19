@@ -102,7 +102,6 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195621
-
 - id: c-178023
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

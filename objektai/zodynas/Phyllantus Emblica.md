@@ -64,7 +64,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175089
-
+    - c-001
 <a id="claim-t-192253"></a>
 - t-002
   global_id: t-192253
@@ -83,7 +83,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175090
-
+    - c-002
 <a id="claim-t-192254"></a>
 - t-003
   global_id: t-192254
@@ -102,7 +102,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175090
-
+    - c-002
 <a id="claim-t-192255"></a>
 - t-004
   global_id: t-192255
@@ -120,7 +120,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175089
-
+    - c-001
 <a id="claim-t-197698"></a>
 - t-005
   global_id: t-197698
@@ -154,9 +154,8 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-001
-
+    - t-192252
+    - t-192255
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -174,9 +173,8 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
+    - t-192253
+    - t-192254
 ## Citatos
 
 - id: c-175089
@@ -203,7 +201,6 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   pagrindzia:
     - t-192252
     - t-192255
-
 - id: c-175090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -231,7 +228,6 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   pagrindzia:
     - t-192253
     - t-192254
-
 - id: c-179297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

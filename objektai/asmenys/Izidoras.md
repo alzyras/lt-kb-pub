@@ -41,7 +41,7 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177229
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu.'
@@ -62,8 +62,7 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194833
 ## Citatos
 
 - id: c-177229

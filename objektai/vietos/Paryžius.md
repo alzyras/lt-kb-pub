@@ -63,7 +63,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24366
-
+    - c-167013
 <a id="claim-t-91236"></a>
 - t-002
   global_id: t-91236
@@ -194,7 +194,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-86966
-
+    - c-011
 <a id="claim-t-91244"></a>
 - t-009
   global_id: t-91244
@@ -417,8 +417,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-91243
 ## Citatos
 
 - id: c-24364
@@ -446,7 +445,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91237
-
 - id: c-24365
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -475,7 +473,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   pagrindzia:
     - t-91246
     - t-91248
-
 - id: c-24366
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -495,7 +492,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91235
-
 - id: c-86957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -519,7 +515,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91244
-
 - id: c-86958
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -537,7 +532,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91249
-
 - id: c-86959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -554,7 +548,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91240
-
 - id: c-86960
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -569,7 +562,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91245
-
 - id: c-86961
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -589,7 +581,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91241
-
 - id: c-86962
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -614,7 +605,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91236
-
 - id: c-86963
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -636,7 +626,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91242
-
 - id: c-86966
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -656,7 +645,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91243
-
 - id: c-86967
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -678,7 +666,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91238
-
 - id: c-86969
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -705,7 +692,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91247
-
 - id: c-167013
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

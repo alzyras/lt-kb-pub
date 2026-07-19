@@ -96,7 +96,6 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34294
-
 - id: c-167626
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

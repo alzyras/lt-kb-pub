@@ -123,7 +123,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171316
-
+    - c-005
 <a id="claim-t-188427"></a>
 - t-006
   global_id: t-188427
@@ -144,7 +144,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171317
-
+    - c-006
 <a id="claim-t-188428"></a>
 - t-007
   global_id: t-188428
@@ -207,7 +207,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171321
-
+    - c-009
 <a id="claim-t-188432"></a>
 - t-010
   global_id: t-188432
@@ -249,7 +249,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171323
-
+    - c-011
 <a id="claim-t-188434"></a>
 - t-012
   global_id: t-188434
@@ -313,7 +313,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171326
-
+    - c-014
 <a id="claim-t-190628"></a>
 - t-015
   global_id: t-190628
@@ -335,7 +335,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173511
-
+    - c-015
 <a id="claim-t-190629"></a>
 - t-016
   global_id: t-190629
@@ -356,7 +356,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173512
-
+    - c-016
 <a id="claim-t-190630"></a>
 - t-017
   global_id: t-190630
@@ -370,7 +370,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173513
-
+    - c-017
 <a id="claim-t-190631"></a>
 - t-018
   global_id: t-190631
@@ -412,7 +412,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173515
-
+    - c-019
 <a id="claim-t-194664"></a>
 - t-020
   global_id: t-194664
@@ -426,7 +426,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177061
-
+    - c-020
 <a id="claim-t-197002"></a>
 - t-021
   global_id: t-197002
@@ -512,8 +512,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188426
 - c-006
   santrauka: 'Narbutas rašo, kad Hartknochas, remdamasis savo tyrimais, ant Kukovaičio kalno lokalizavo Kerniaus užkurtą Amžinąją ugnį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -530,8 +529,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-188427
 - c-009
   santrauka: 'Narbutas rašo, kad Hartknochas pateikė duomenų apie Insterburgo valsčiuje augusią šventąją pušį Romutą arba Ruombotą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -551,8 +549,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-188431
 - c-011
   santrauka: 'Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe užrašą padėjo tarp Prūsos ir Bysleidos upių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -570,8 +567,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-188433
 - c-014
   santrauka: 'Narbutas perteikia Hartknocho aiškinimą, kad senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -589,8 +585,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-188436
 - c-015
   santrauka: 'Narbutas vertina, kad Hartknochas po ilgo svarstymo pritarė kronikininkų minčiai apie bendruomenėje gyvenusius dvasininkus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -610,8 +605,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-190628
 - c-016
   santrauka: 'Narbutas pažymi, kad Hartknochas, regis, abejojo, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -627,8 +621,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-190629
 - c-017
   santrauka: 'Narbutas nurodo, kad Hartknochas įrodymui pateikė Gregorijaus IX laiškus, paskelbtus Odorico Raynaldo „Annales ecclesiasticae“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -644,8 +637,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
+    - t-190630
 - c-019
   santrauka: 'Narbutas rašo, kad Hartknochas be argumentų, kaip savo abejonę, atmetė vyriausiųjų žynių sąrašą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -661,8 +653,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-
+    - t-190632
 - c-020
   santrauka: 'Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina 12 Treteris, Henenbergeris, Šiucas, Hartknochas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -677,8 +668,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-
+    - t-194664
 ## Citatos
 
 - id: c-65333
@@ -697,7 +687,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64674
-
 - id: c-65334
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -717,7 +706,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   pagrindzia:
     - t-64673
     - t-197002
-
 - id: c-65335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -736,7 +724,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64675
-
 - id: c-171315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -756,7 +743,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   pagrindzia:
     - t-188425
     - t-197312
-
 - id: c-171316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -775,7 +761,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188426
-
 - id: c-171317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -795,7 +780,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188427
-
 - id: c-171318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -813,7 +797,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188428
-
 - id: c-171319
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -835,7 +818,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   pagrindzia:
     - t-188429
     - t-197314
-
 - id: c-171321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -862,7 +844,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188431
-
 - id: c-171322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -884,7 +865,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188432
-
 - id: c-171323
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -908,7 +888,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188433
-
 - id: c-171324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -935,7 +914,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188434
-
 - id: c-171325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -958,7 +936,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188435
-
 - id: c-171326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -985,7 +962,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188436
-
 - id: c-173511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1012,7 +988,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190628
-
 - id: c-173512
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1035,7 +1010,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190629
-
 - id: c-173513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1056,7 +1030,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190630
-
 - id: c-173514
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1078,7 +1051,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190631
-
 - id: c-173515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1100,7 +1072,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190632
-
 - id: c-177061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1120,7 +1091,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194664
-
 - id: c-179124
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1144,7 +1114,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197313
-
 - id: c-179125
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

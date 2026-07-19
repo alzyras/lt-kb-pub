@@ -545,7 +545,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Siekio ir motyvo formuluotei būtina atribucija.'
   pagrindžia:
-    - c-170669
+    - c-021
 - susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
 - susijęs iš [[objektai/autoriai/Ivinskis Z.md#claim-t-91932|Ivinskis Z]]: Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
@@ -650,8 +650,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
-
+    - t-187730
 ## Citatos
 
 - id: c-00317
@@ -671,7 +670,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193095
-
 - id: c-00318
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -693,7 +691,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175550
-
 - id: c-05799
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -712,7 +709,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175543
-
 - id: c-05800
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -733,7 +729,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindzia:
     - t-175532
     - t-175552
-
 - id: c-42692
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -757,7 +752,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-175530
     - t-175544
     - t-175546
-
 - id: c-46302
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -776,7 +770,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175538
-
 - id: c-159649
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -795,7 +788,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175536
-
 - id: c-159650
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -813,7 +805,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175557
-
 - id: c-159651
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -839,7 +830,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindzia:
     - t-175540
     - t-175542
-
 - id: c-159652
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -865,7 +855,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175553
-
 - id: c-159654
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -884,7 +873,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175551
-
 - id: c-159655
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -909,7 +897,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindzia:
     - t-175547
     - t-175548
-
 - id: c-159656
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -930,7 +917,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175536
-
 - id: c-159658
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -954,7 +940,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175533
-
 - id: c-159660
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -984,7 +969,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175537
-
 - id: c-159662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1004,7 +988,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175539
-
 - id: c-159667
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1024,7 +1007,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175531
-
 - id: c-159670
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1048,7 +1030,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175541
-
 - id: c-167923
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1076,7 +1057,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184562
-
 - id: c-167925
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1107,7 +1087,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184564
-
 - id: c-176219
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1128,7 +1107,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193539
-
 ## Ryšiai
 - Puolė Kalavijuočių ordiną: [[objektai/grupes/Žiemgaliai]]
 - Kariavo prieš: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]]

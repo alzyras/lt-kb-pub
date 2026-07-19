@@ -75,7 +75,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67876
-
+    - c-002
 <a id="claim-t-68236"></a>
 - t-003
   global_id: t-68236
@@ -133,7 +133,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie Kolainių pilies užpuolimą."
   pagrindžia:
     - c-67880
-
+    - c-006
 <a id="claim-t-68239"></a>
 - t-006
   global_id: t-68239
@@ -195,8 +195,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-68235
 - c-006
   santrauka: '1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų užpuolė Kolainių pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -214,8 +213,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-68238
 ## Citatos
 
 - id: c-67875
@@ -241,7 +239,6 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68237
-
 - id: c-67876
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -265,7 +262,6 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68235
-
 - id: c-67877
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -285,7 +281,6 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68236
-
 - id: c-67878
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -309,7 +304,6 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68239
-
 - id: c-67879
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -329,7 +323,6 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68234
-
 - id: c-67880
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -351,7 +344,6 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68238
-
 - id: c-167757
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -372,6 +364,5 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184389
-
 ## Ryšiai
 - Gynė Kolainių pilį (pilis): [[objektai/asmenys/Surminas]]

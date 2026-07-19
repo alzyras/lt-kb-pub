@@ -87,7 +87,6 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42385
-
 - id: c-45476
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -112,7 +111,6 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42386
-
 ## Ryšiai
 - Puolė Švenčionėliai: [[objektai/grupes/Lenkai]]
 - Užėmė Švenčionėliai: [[objektai/grupes/Lenkai]]

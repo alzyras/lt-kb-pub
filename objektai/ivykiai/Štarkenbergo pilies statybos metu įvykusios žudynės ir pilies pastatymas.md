@@ -62,7 +62,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85383
-
+    - c-001
 <a id="claim-t-89424"></a>
 - t-002
   global_id: t-89424
@@ -80,7 +80,7 @@ Nenurodyta
   semantiniai_rysiai: "Teutonai pastatė Štarkenbergas (0.74)"
   pagrindžia:
     - c-85383
-
+    - c-001
 <a id="claim-t-89425"></a>
 - t-003
   global_id: t-89425
@@ -98,7 +98,7 @@ Nenurodyta
   semantiniai_rysiai: "Teutonai pastatė Štarkenbergas (0.72)"
   pagrindžia:
     - c-85383
-
+    - c-001
 <a id="claim-t-194434"></a>
 - t-005
   global_id: t-194434
@@ -111,7 +111,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85383
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -131,12 +131,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-004
-    - t-001
-    - t-003
-    - t-005
-
+    - t-89423
+    - t-89424
+    - t-89425
+    - t-194434
 ## Citatos
 
 - id: c-85383

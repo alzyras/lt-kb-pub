@@ -121,7 +121,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87890
-
 - id: c-83869
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -143,7 +142,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87889
-
 - id: c-168254
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -173,6 +171,5 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184893
-
 ## Ryšiai
 - Zbignevas Olesnickis (vyskupas) keliavo į [[objektai/vietos/Vilnius]]

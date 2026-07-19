@@ -114,7 +114,6 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22013
-
 - id: c-24696
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,7 +131,6 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22012
-
 - id: c-166847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -42,7 +42,7 @@ Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų sen
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177231
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų senovės paslapčių aprašymą.'
@@ -64,8 +64,7 @@ Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų sen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194835
 ## Citatos
 
 - id: c-177231

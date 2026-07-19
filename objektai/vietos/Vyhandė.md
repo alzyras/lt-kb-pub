@@ -49,6 +49,7 @@ Narbutas rašo, kad XVII a. Livonijoje dėl užtvenkto Vyhandės upelio, ant kur
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171972
+    - c-001
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-188239|Latviai]]: Narbutas rašė, kad latviai kai kurias upes laikė šventomis, o XVII a. Livonijoje dėl Vyhandės upelio užtvenkimo kilo maištas.
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,8 +68,7 @@ Narbutas rašo, kad XVII a. Livonijoje dėl užtvenkto Vyhandės upelio, ant kur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189083
 ## Citatos
 
 - id: c-171972

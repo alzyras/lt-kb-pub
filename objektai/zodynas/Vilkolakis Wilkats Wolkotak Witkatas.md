@@ -49,7 +49,7 @@ Vilkolakį Narbutas aiškina kaip latvių Wilkats, rusinų Wolkotak ir lietuvių
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172231
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vilkolakį Narbutas aiškina kaip latvių Wilkats, rusinų Wolkotak ir lietuvių Witkatas vadintą kerėtoją, mokantį pasiversti vilku.'
@@ -68,8 +68,7 @@ Vilkolakį Narbutas aiškina kaip latvių Wilkats, rusinų Wolkotak ir lietuvių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189344
 ## Citatos
 
 - id: c-172231

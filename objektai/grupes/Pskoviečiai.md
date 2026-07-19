@@ -49,6 +49,7 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170706
+    - c-001
 - susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186600|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05164|Daumantas (kunigaikštis, XV a.)]]: 1266 m. Daumantas su pskoviečiais puolė Nalšėnus.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173128|Dovydas (Gardino pilininkas)]]: Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.
@@ -133,8 +134,7 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187767
 - c-002
   santrauka: 'Pskoviečiai Vytautui kasmet duodavo pusę tos duoklės, kurią naugardiečiai mokėjo auksu, žirgais ir kailiais.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -163,8 +163,6 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-170706
@@ -201,7 +199,6 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187767
-
 ## Ryšiai
 - Pskoviečiai keliavo į [[objektai/vietos/Vilnius]]
 - Pskoviečiai puolė [[objektai/vietos/Nalšėnai]], [[objektai/vietos/Revelis]]

@@ -45,6 +45,7 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59220
+    - c-001
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59917|Henrikas Cutsvertas]]: Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo.
 - susijęs iš [[objektai/asmenys/Kuzma Mamoničius.md#claim-t-87763|Kuzma Mamoničius]]: 1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis išspausdino „Cztėry Ewangelje“.
 - susijęs iš [[objektai/asmenys/Lukas Davidas.md#claim-t-190107|Lukas Davidas]]: Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventyklą su Krivių Krivaičiu siejo su gotų ar švedų papročiu.
@@ -112,8 +113,7 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58589
 ## Citatos
 
 - id: c-59220

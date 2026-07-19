@@ -44,7 +44,7 @@ Dusburgietis teigia, kad blažienei, filol.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61333
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'G. Blažienė teikė dalykinių patarimų rengiant Petro Dusburgiečio kronikos leidimą spaudai.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad blažienei, filol.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60701
 ## Citatos
 
 - id: c-61333

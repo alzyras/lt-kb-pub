@@ -49,6 +49,7 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171974
+    - c-001
 - susijęs iš [[objektai/asmenys/Enėjas Silvijus.md#claim-t-190147|Enėjas Silvijus]]: Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžuolas ir Perkūno, Pokliaus bei Atrimpo stabai.
 - susijęs iš Marienburgas Zantiras: Narbutas nurodė, kad Marienburgo vietovė prie Nogato anksčiau vadinosi Zantiras.
 - susijęs iš Marienburgas Zantiras: Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėjusi trečia šventykla.
@@ -67,8 +68,7 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189085
 ## Citatos
 
 - id: c-171974

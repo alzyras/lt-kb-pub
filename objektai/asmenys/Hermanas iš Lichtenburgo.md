@@ -44,7 +44,7 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167473
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas, dėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius.'
@@ -65,9 +65,7 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-60326
 ## Citatos
 
 - id: c-167473

@@ -49,7 +49,7 @@ Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiaus
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172124
-
+    - c-001
 <a id="claim-t-189237"></a>
 - t-002
   global_id: t-189237
@@ -63,7 +63,7 @@ Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiaus
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172125
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiausiosios kategorijos angelą, kurio stabas stovėjęs Romovėje.'
@@ -81,8 +81,7 @@ Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189236
 - c-002
   santrauka: 'Narbutas Potalą sieja su mirties patalu ir spėja, kad šis dievas globojo mirusiųjų deginimo laužus bei pernešdavo vėles į amžiną buveinę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -100,8 +99,7 @@ Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189237
 ## Citatos
 
 - id: c-172124
@@ -127,7 +125,6 @@ Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189236
-
 - id: c-172125
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -95,7 +95,6 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86278
-
 - id: c-82257
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

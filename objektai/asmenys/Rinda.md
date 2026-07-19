@@ -82,6 +82,5 @@ Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191459
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Bojas]]

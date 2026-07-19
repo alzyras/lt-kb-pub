@@ -58,7 +58,7 @@ Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-87573
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.'
@@ -78,8 +78,7 @@ Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91932
 ## Citatos
 
 - id: c-87573

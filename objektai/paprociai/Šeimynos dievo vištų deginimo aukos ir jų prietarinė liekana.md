@@ -58,7 +58,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172766
-
+    - c-001
 <a id="claim-t-189884"></a>
 - t-002
   global_id: t-189884
@@ -79,7 +79,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172767
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Šeimos dievui skirtą auką aprašo kaip gyvų vištų deginimą krosnyje, siekiant, kad dievaičiai globotų tarnus ir sulaikytų šeimyną namuose.'
@@ -98,8 +98,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189883
 - c-002
   santrauka: 'Narbutas to paties mito liekana laiko prietarą, kai šeimininkė neištraukia į krosnies ugnį įlėkusios vištos ir meldžiasi priešais ugnį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -118,8 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189884
 ## Citatos
 
 - id: c-172766
@@ -148,7 +146,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189883
-
 - id: c-172767
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -185,7 +185,6 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63884
-
 - id: c-36431
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -206,7 +205,6 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63883
-
 - id: c-64806
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -227,7 +225,6 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63884
-
 - id: c-178757
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -258,7 +255,6 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196548
-
 - id: c-178759
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

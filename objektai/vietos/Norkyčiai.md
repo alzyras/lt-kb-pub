@@ -51,8 +51,7 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Norkyčiai\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59238
-
+    - c-001
 <a id="claim-t-58607"></a>
 - t-002
   global_id: t-58607
@@ -73,6 +72,7 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   temporalinis_llm_pakomentavimas: "Teiginys glaustai ir gramatiškai perteikia citatoje pateiktą senųjų ir vėlesnių Norkyčių vietą."
   pagrindžia:
     - c-59239
+    - c-59238
 - susijęs iš M. Prätorius, Deliciae: M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.
 - susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
 - susijęs iš Vokiškieji kryžiuočių kelių aprašymai: 1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.
@@ -92,8 +92,7 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58606
 ## Citatos
 
 - id: c-59238
@@ -114,8 +113,7 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-58606
-
+    - t-58607
 - id: c-59239
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -91,7 +91,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-33800
-
 - id: c-184438
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

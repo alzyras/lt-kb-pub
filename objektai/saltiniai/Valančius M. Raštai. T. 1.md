@@ -53,7 +53,7 @@ Dusburgietis teigia, kad valančius M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio tomą, vietą ir metus."
   pagrindžia:
     - c-61968
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad valančius M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61336
 ## Citatos
 
 - id: c-61968

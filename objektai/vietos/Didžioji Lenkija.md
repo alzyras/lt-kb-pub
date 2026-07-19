@@ -169,7 +169,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173361
-
 - id: c-157682
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -197,7 +196,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173359
-
 - id: c-157684
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -218,7 +216,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173358
-
 - id: c-166402
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -245,7 +242,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183009
-
 - id: c-168301
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -284,6 +280,5 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184940
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

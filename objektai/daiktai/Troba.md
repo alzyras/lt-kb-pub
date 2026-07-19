@@ -127,7 +127,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08339
-
 - id: c-10294
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -149,7 +148,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08340
-
 - id: c-10295
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

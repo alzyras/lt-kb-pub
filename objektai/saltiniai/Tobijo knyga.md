@@ -44,7 +44,7 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61948
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-61316
 ## Citatos
 
 - id: c-61948
@@ -97,7 +96,6 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61316
-
 - id: c-167382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

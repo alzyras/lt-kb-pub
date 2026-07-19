@@ -133,7 +133,6 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55239
-
 - id: c-55841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -153,7 +152,6 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55240
-
 - id: c-55842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -176,7 +174,6 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55241
-
 - id: c-79508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

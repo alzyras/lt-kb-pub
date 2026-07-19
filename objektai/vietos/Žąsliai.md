@@ -58,7 +58,7 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-170275
-
+    - c-002
 <a id="claim-t-187200"></a>
 - t-002
   global_id: t-187200
@@ -93,9 +93,7 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-187198
 ## Citatos
 
 - id: c-170274
@@ -119,7 +117,6 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187200
-
 - id: c-170275
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

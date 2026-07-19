@@ -47,7 +47,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59572
-
+    - c-001
 <a id="claim-t-184020"></a>
 - t-002
   global_id: t-184020
@@ -103,8 +103,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58940
 ## Citatos
 
 - id: c-59572
@@ -137,7 +136,6 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58940
-
 - id: c-167405
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

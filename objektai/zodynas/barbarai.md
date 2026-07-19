@@ -42,6 +42,7 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168727
+    - c-001
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55047|Mūro sienos ir miesto sienos]]: 1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87063|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: 1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.
@@ -76,8 +77,7 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185366
 ## Citatos
 
 - id: c-168727

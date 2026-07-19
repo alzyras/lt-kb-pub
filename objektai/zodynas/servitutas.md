@@ -92,7 +92,6 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03171
-
 - id: c-03409
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -113,7 +112,6 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03170
-
 - id: c-166375
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

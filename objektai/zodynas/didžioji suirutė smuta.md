@@ -113,7 +113,6 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02976
-
 - id: c-03214
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -132,7 +131,6 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02975
-
 - id: c-166341
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -77,6 +77,5 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60232
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Judas Makabėjus]]

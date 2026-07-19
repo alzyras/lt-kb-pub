@@ -128,7 +128,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58408
-
 - id: c-59040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -153,7 +152,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58407
-
 - id: c-59041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -175,7 +173,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58410
-
 - id: c-59042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

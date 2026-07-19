@@ -673,7 +673,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-180419
-
+    - c-56177
 <a id="claim-t-201050"></a>
 - t-035
   global_id: t-201050
@@ -782,7 +782,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176818
-
 - id: c-30362
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -802,7 +801,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176840
-
 - id: c-56175
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -826,7 +824,6 @@ media_all_json: |-
   pagrindzia:
     - t-176835
     - t-176838
-
 - id: c-160778
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -847,8 +844,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176817
-
+    - t-176845
 - id: c-160781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -871,7 +867,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176814
-
 - id: c-160785
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -898,7 +893,6 @@ media_all_json: |-
   pagrindzia:
     - t-176816
     - t-197166
-
 - id: c-160787
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -940,7 +934,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176846
-
 - id: c-160789
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -966,7 +959,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176839
-
 - id: c-160790
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -997,7 +989,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176833
-
 - id: c-160791
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1034,7 +1025,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176841
-
 - id: c-160795
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1054,7 +1044,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176843
-
 - id: c-160796
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1083,7 +1072,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176830
-
 - id: c-160800
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1107,7 +1095,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176836
-
 - id: c-160801
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1130,7 +1117,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176828
-
 - id: c-160804
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1157,7 +1143,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176825
-
 - id: c-168245
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1198,7 +1183,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196646
-
 - id: c-168246
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1234,7 +1218,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184885
-
 - id: c-168247
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1266,7 +1249,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184886
-
 - id: c-168249
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1310,7 +1292,6 @@ media_all_json: |-
   pagrindzia:
     - t-184888
     - t-196648
-
 - id: c-168250
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1351,7 +1332,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184889
-
 - id: c-168252
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1383,7 +1363,6 @@ media_all_json: |-
   pagrindzia:
     - t-184891
     - t-196649
-
 - id: c-168253
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1415,7 +1394,6 @@ media_all_json: |-
   pagrindzia:
     - t-184892
     - t-196650
-
 - id: c-176130
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1439,7 +1417,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193408
-
 - id: c-176640
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1463,7 +1440,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194015
-
 - id: c-178817
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1492,7 +1468,6 @@ media_all_json: |-
   pagrindzia:
     - t-184884
     - t-196645
-
 - id: c-180403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1728,7 +1703,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198484
-
 - id: c-180420
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1748,7 +1722,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198470
-
 - id: c-180421
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1796,7 +1769,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198471
-
 - id: c-180423
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1955,7 +1927,25 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201050
-
+- id: c-56177
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
+  citata_originali: |
+    Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,
+    atplaukė iš Sembos šiai piliai padėti 10 brolių ir 150 vyrų, tačiau lietuviai taip sumaniai
+    užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
+    ne kartą mėgino šitai padaryti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198484
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - Broliai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

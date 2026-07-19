@@ -48,7 +48,7 @@ Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upė
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168677
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės.'
@@ -73,8 +73,7 @@ Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185316
 ## Citatos
 
 - id: c-168677

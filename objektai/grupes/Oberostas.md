@@ -210,7 +210,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   pagrindzia:
     - t-74881
     - t-74882
-
 - id: c-26832
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -235,7 +234,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74883
-
 - id: c-26833
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -260,7 +258,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   pagrindzia:
     - t-74884
     - t-74885
-
 - id: c-72861
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

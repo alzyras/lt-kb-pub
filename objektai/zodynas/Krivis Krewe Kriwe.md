@@ -93,7 +93,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172088
-
+    - c-003
 <a id="claim-t-194685"></a>
 - t-004
   global_id: t-194685
@@ -107,7 +107,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177082
-
+    - c-004
 <a id="claim-t-197367"></a>
 - t-005
   global_id: t-197367
@@ -139,8 +139,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189200
 - c-004
   santrauka: 'O be to, krivio pavadinimą žinojo beveik vien lietuvių kiltys - tiek, kad kiekviena atskira gentis arba kiekvie na provincija turėjo savo atskirą krivį - net tolimuose kraš- 10 1 Skaityk pabaigoje I priedą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -160,8 +159,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194685
 ## Citatos
 
 - id: c-172085
@@ -188,7 +186,6 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   pagrindzia:
     - t-189197
     - t-197367
-
 - id: c-172086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -212,7 +209,6 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189198
-
 - id: c-172088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -241,7 +237,6 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189200
-
 - id: c-177082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

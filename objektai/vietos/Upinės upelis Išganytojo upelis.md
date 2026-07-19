@@ -97,7 +97,7 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171802
-
+    - c-003
 <a id="claim-t-194757"></a>
 - t-004
   global_id: t-194757
@@ -141,9 +141,6 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-005
-
 - c-003
   santrauka: 'Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės kerus ant Upinės kaupo buvo pastatyta koplyčia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -158,8 +155,7 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188913
 ## Citatos
 
 - id: c-171799
@@ -182,7 +178,6 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   pagrindzia:
     - t-188910
     - t-197480
-
 - id: c-171801
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -200,7 +195,6 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188912
-
 - id: c-171802
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -219,7 +213,6 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188913
-
 - id: c-177153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

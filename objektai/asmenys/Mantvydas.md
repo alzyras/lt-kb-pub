@@ -47,7 +47,7 @@ Jogaila atėmė Vidimanto turtus iš jo žmonos bei giminaičių ir atidavė juo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169598
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jogaila atėmė Vidimanto turtus iš jo žmonos bei giminaičių ir atidavė juos Mantvydui.'
@@ -70,8 +70,7 @@ Jogaila atėmė Vidimanto turtus iš jo žmonos bei giminaičių ir atidavė juo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186237
 ## Citatos
 
 - id: c-169598

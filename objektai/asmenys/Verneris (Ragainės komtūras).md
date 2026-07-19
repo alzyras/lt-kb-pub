@@ -92,7 +92,6 @@ Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, 
   pagrindzia:
     - t-60461
     - t-194523
-
 ## Ryšiai
 - Verneris (Ragainės komtūras) pastatė [[objektai/daiktai/Laivai]]
 - Verneris (Ragainės komtūras) puolė [[objektai/vietos/Junigeda]]

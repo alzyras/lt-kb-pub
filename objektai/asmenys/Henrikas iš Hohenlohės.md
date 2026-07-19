@@ -98,7 +98,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie praleidimą, bet pradinis teiginys yra fragmentas su nuorodos triukšmu."
   pagrindžia:
     - c-60604
-
+    - c-004
 <a id="claim-t-59972"></a>
 - t-004
   global_id: t-59972
@@ -133,8 +133,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59971
 ## Citatos
 
 - id: c-60601
@@ -152,7 +151,6 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59970
-
 - id: c-60602
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -172,7 +170,6 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59969
-
 - id: c-60603
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -187,7 +184,6 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59972
-
 - id: c-60604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

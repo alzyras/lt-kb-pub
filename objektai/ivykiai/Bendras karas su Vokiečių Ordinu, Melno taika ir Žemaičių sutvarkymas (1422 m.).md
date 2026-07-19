@@ -74,7 +74,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatos informacija apie Žemaičių krašto grąžinimą Lietuvai."
   pagrindžia:
     - c-36998
-
+    - c-167614
 <a id="claim-t-50799"></a>
 - t-002
   global_id: t-50799
@@ -155,7 +155,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50800
-
 - id: c-36997
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -175,7 +174,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50801
-
 - id: c-36998
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -199,7 +197,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50798
-
 - id: c-52519
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -220,7 +217,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50799
-
 - id: c-167614
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

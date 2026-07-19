@@ -68,7 +68,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170029
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraščio pasakojime maskvėnai prie Tykiosios Sosnos iš Vytauto valdinių severskiečių atėmė tris statines medaus.'
@@ -95,8 +95,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186846
 ## Citatos
 
 - id: c-170029

@@ -45,6 +45,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86143
+    - c-86142
 - susijęs iš Kuršių nerija: Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija.
 ## Citatos
 
@@ -67,8 +68,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90276
-
+    - t-90277
 - id: c-86143
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

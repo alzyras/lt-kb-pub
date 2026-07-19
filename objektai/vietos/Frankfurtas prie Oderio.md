@@ -55,7 +55,8 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
   temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-59325
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.'
@@ -71,8 +72,7 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58693
 - c-002
   santrauka: '1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,8 +89,7 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58693
 ## Citatos
 
 - id: c-59325
@@ -116,7 +115,6 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58693
-
 - id: c-167539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

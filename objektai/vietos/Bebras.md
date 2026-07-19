@@ -38,6 +38,7 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59319
+    - c-001
 - susijęs iš Lukas: Lukas vėliau vadintas vokišku Lyck, o dabar tapatinamas su Elku, dešiniuoju Bebro intaku.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
@@ -64,8 +65,7 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58687
 ## Citatos
 
 - id: c-59319

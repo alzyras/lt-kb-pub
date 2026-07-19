@@ -41,7 +41,7 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169440
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą neteršti dvylika metų gintos pilies šlovės.'
@@ -63,8 +63,7 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186079
 ## Citatos
 
 - id: c-169440

@@ -18,6 +18,11 @@ export const ANALYTICS_EVENT_NAMES = [
   "knowledge_navigation",
   "feature_use",
   "map_interaction",
+  "gallery_open",
+  "map_open",
+  "rss_click",
+  "newsletter_signup",
+  "outbound_source_click",
   "outbound_source_open",
 ] as const
 

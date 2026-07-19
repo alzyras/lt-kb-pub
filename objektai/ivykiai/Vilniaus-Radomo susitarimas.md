@@ -110,8 +110,6 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-67050
@@ -133,7 +131,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66977
-
 - id: c-67051
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -76,6 +76,7 @@ media_all_json: |-
   semantiniai_rysiai: "Lietuviai puolė Sandomierius (0.95); Lietuviai puolė Kujavija (0.95); Lietuviai puolė Liublinas (0.88); Lietuviai buvo sąjungininkas su Rusai (0.86)"
   pagrindžia:
     - c-32409
+    - c-167764
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66879|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.
 - susijęs iš Dobryniaus: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
 - susijęs iš Kališo sritis: 1307 m. lietuviai drauge su rusais buvo įsiveržę į Kališo sritį.
@@ -99,7 +100,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32533
-
 - id: c-34032
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -118,7 +118,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32532
-
 - id: c-167764
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

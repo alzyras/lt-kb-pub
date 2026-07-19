@@ -48,7 +48,7 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172018
-
+    - c-001
 <a id="claim-t-189131"></a>
 - t-002
   global_id: t-189131
@@ -69,7 +69,7 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172019
-
+    - c-002
 <a id="claim-t-189132"></a>
 - t-003
   global_id: t-189132
@@ -90,7 +90,7 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172020
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir žmogaus pastangomis gausinamų žemės vaisių deivę.'
@@ -110,8 +110,7 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189130
 - c-002
   santrauka: 'Narbutas Pergrubę tapatino su antikine Flora ir slavų Sieva, o jos atvaizdą siejo su jaunos mergaitės, obuolio ir vynuogių kekės vaizdiniu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -129,8 +128,7 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189131
 - c-003
   santrauka: 'Narbutas nurodė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -147,8 +145,7 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189132
 ## Citatos
 
 - id: c-172018
@@ -177,7 +174,6 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189130
-
 - id: c-172019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -199,7 +195,6 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189131
-
 - id: c-172020
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -58,6 +58,7 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170929
+    - c-001
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188050|Norbertas Vėlius]]: Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius.
 - susijęs iš [[objektai/autoriai/Norbertas Vėlius.md#claim-t-188052|Norbertas Vėlius]]: Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
@@ -90,8 +91,7 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187944
 ## Citatos
 
 - id: c-170929

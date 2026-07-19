@@ -87,7 +87,6 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71981
-
 - id: c-24590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

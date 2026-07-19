@@ -132,7 +132,6 @@ media_all_json: |-
   pagrindzia:
     - t-83566
     - t-83567
-
 - id: c-79862
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

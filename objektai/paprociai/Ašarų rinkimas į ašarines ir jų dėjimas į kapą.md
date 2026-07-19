@@ -65,7 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172703
-
+    - c-001
 <a id="claim-t-189821"></a>
 - t-002
   global_id: t-189821
@@ -100,7 +100,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172705
-
+    - c-003
 <a id="claim-t-197250"></a>
 - t-004
   global_id: t-197250
@@ -133,8 +133,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189820
 - c-003
   santrauka: 'Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -153,8 +152,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189822
 ## Citatos
 
 - id: c-172703
@@ -181,7 +179,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189820
-
 - id: c-172704
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -203,7 +200,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189821
-
 - id: c-172705
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -227,7 +223,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189822
-
 - id: c-179086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

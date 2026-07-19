@@ -64,4 +64,4 @@ Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto feti�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189062

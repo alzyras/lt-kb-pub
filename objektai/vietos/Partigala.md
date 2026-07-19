@@ -104,7 +104,6 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58468
-
 - id: c-59099
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -127,7 +126,6 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58466
-
 - id: c-59100
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -147,6 +145,5 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58467
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Gubučiai]]

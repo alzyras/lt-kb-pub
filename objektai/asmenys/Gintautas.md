@@ -97,7 +97,6 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190067
-
 - id: c-177100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

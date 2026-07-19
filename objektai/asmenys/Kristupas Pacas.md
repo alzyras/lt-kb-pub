@@ -91,7 +91,6 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79091
-
 - id: c-76183
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -112,7 +111,6 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79092
-
 - id: c-76184
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

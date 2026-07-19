@@ -48,6 +48,7 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
   semantiniai_rysiai: "Vitchendorfas priklausė Saksonija (0.88)"
   pagrindžia:
     - c-59381
+    - c-001
 - susijęs iš [[objektai/asmenys/Henrikas iš Ceico.md#claim-t-60312|Henrikas iš Ceico]]: Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
 - susijęs iš [[objektai/asmenys/Henrikas iš Berkos.md#claim-t-60311|Henrikas iš Berkos]]: Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
@@ -88,8 +89,7 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58749
 ## Citatos
 
 - id: c-59381

@@ -103,7 +103,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173750
-
+    - c-003
 <a id="claim-t-190869"></a>
 - t-004
   global_id: t-190869
@@ -340,7 +340,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173762
-
+    - c-015
 <a id="claim-t-190881"></a>
 - t-016
   global_id: t-190881
@@ -368,7 +368,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173764
-
+    - c-017
 <a id="claim-t-194706"></a>
 - t-014
   global_id: t-194706
@@ -532,8 +532,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190868
 - c-015
   santrauka: 'Narbutas nurodė, kad seniausios žinios apie Meotų jūrą randamos Herodoto darbuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -553,8 +552,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-190880
 - c-016
   santrauka: 'Narbutas teigė, kad Herodoto aprašymuose yra neaiškių vietų, kurias reikia nagrinėti skirtingų laikų dvasia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -579,9 +577,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-    - t-028
-
 - c-017
   santrauka: 'Narbutas aiškino, kad Homero ir Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai matematiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -605,8 +600,7 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
+    - t-190882
 ## Citatos
 
 - id: c-172934
@@ -630,7 +624,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190051
-
 - id: c-173749
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -651,7 +644,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190867
-
 - id: c-173750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -674,7 +666,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190868
-
 - id: c-173751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -695,7 +686,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   pagrindzia:
     - t-190869
     - t-197744
-
 - id: c-173752
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -718,7 +708,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   pagrindzia:
     - t-190870
     - t-197745
-
 - id: c-173753
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -740,7 +729,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190871
-
 - id: c-173754
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -765,7 +753,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190872
-
 - id: c-173756
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -784,7 +771,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190874
-
 - id: c-173757
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -805,7 +791,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190875
-
 - id: c-173758
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -826,7 +811,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190876
-
 - id: c-173759
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -850,7 +834,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   pagrindzia:
     - t-190877
     - t-197748
-
 - id: c-173760
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -874,7 +857,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   pagrindzia:
     - t-190878
     - t-197749
-
 - id: c-173761
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -898,7 +880,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   pagrindzia:
     - t-190879
     - t-197751
-
 - id: c-173762
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -925,7 +906,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190880
-
 - id: c-173763
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -953,7 +933,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   pagrindzia:
     - t-190881
     - t-197752
-
 - id: c-173764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -986,7 +965,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190882
-
 - id: c-177102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1005,7 +983,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194706
-
 - id: c-177103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1040,7 +1017,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194707
-
 - id: c-179322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1063,7 +1039,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197746
-
 - id: c-179323
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1087,7 +1062,6 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197747
-
 - id: c-179324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1108,6 +1082,5 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197750
-
 ## Ryšiai
 - Herodotas keliavo į [[objektai/vietos/Skitija]]

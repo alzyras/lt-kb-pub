@@ -278,7 +278,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193761
-
 - id: c-24038
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -300,7 +299,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109067
-
 - id: c-31935
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -323,7 +321,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109077
-
 - id: c-43311
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -383,7 +380,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   pagrindzia:
     - t-109069
     - t-109073
-
 - id: c-101165
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -411,8 +407,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-109071
-
+    - t-109072
 - id: c-101168
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -434,7 +429,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109076
-
 - id: c-101170
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -455,7 +449,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109066
-
 - id: c-101172
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -481,7 +474,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109075
-
 - id: c-101173
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

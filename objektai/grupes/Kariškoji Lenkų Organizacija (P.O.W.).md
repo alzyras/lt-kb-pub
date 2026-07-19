@@ -85,7 +85,6 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72112
-
 - id: c-70527
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

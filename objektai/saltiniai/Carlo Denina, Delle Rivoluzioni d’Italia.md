@@ -99,7 +99,6 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191768
-
 - id: c-174651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

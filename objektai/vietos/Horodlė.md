@@ -144,7 +144,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34186
-
 - id: c-171588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -49,7 +49,7 @@ Narbutas remiasi Gartnerio veikalu „De fructibus et seminibus plantarum“, ai
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174284
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas remiasi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas, kad minėtas vaisius neišaugo jokioje Emblikoje.'
@@ -68,8 +68,7 @@ Narbutas remiasi Gartnerio veikalu „De fructibus et seminibus plantarum“, ai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191402
 ## Citatos
 
 - id: c-174284

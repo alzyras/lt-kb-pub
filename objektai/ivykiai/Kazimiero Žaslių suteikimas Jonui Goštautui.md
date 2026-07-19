@@ -78,7 +78,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169930
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1457 m. lapkričio 28 d. Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goštautui.'
@@ -93,8 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186692
 ## Citatos
 
 - id: c-169930

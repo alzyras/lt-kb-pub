@@ -54,7 +54,7 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-184012
-
+    - c-183969
 <a id="claim-t-200568"></a>
 - t-002
   global_id: t-200568
@@ -72,6 +72,7 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-183969
+    - c-184012
 - susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200532|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo sutaikytas su iždininku Jurgiu Detlofu Flemingu prieš pakanclerio persikėlimą į Flemingų rūmus.
 - susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200506|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila prieš pakanclerio persikėlimą į Flemingų rūmus.
 - susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200680|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: Mykolas Antanas Sapiega buvo LDK pakancleris.
@@ -155,8 +156,8 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-70262
     - t-200568
-
 - id: c-184012
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -177,3 +178,4 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70262
+    - t-200568

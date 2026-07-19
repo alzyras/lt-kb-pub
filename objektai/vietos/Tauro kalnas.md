@@ -101,8 +101,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   sudarymo_pagrindimas: 'Legenda ir valdovų titulavimo kontekstas palikti su kronikos atribucija.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
-    - c-170601
-
+    - c-003
 <a id="claim-t-188837"></a>
 - t-004
   global_id: t-188837
@@ -113,8 +112,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   sudarymo_pagrindimas: 'Legendinis pasakojimas paliktas su Narbuto atribucija. Išplėsti Gedimino, Lizdeikos, Tauro kalno ir Šventaragio ryšiai, nepridedant Vilniaus įkūrimo išvadų.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Antakalnis'
   pagrindžia:
-    - c-171726
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Bychovco kronika pasakoja, kad Vytautas įkasė patrankas Tauro kalne, pavadintame pagal Gedimino nudėtą taurą.'
@@ -140,8 +138,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187659
 - c-004
   santrauka: 'Narbutas pasakoja, kad Gediminas nukovė taurą ant kalno, vėliau vadinto Tauro kalnu, o Lizdeika po nakvynės Šventaragio miške išaiškino jo sapną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -167,8 +164,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188837
 ## Citatos
 
 - id: c-80968
@@ -206,7 +202,6 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84852
-
 - id: c-80969
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -247,7 +242,6 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84850
-
 - id: c-184457
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

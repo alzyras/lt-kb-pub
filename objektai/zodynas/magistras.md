@@ -823,7 +823,6 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
   pagrindzia:
     - t-175181
     - t-193151
-
 - id: c-176107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

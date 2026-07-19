@@ -233,7 +233,6 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-24565
-
 - id: c-26882
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -261,8 +260,7 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-26663
-
+    - t-75507
 - id: c-73269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -289,7 +287,6 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     - t-13521
     - t-13525
     - t-13526
-
 - id: c-73270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -311,7 +308,6 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-13524
-
 - id: c-73271
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -331,7 +327,6 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23405
-
 - id: c-73275
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -77,7 +77,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatoje nurodytais dalyviais bei kryptimi."
   pagrindžia:
     - c-60501
-
+    - c-006
 <a id="claim-t-59866"></a>
 - t-003
   global_id: t-59866
@@ -97,7 +97,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą žygį ir jo rezultatą."
   pagrindžia:
     - c-60496
-
+    - c-001
 <a id="claim-t-59867"></a>
 - t-004
   global_id: t-59867
@@ -160,7 +160,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   temporalinis_llm_pakomentavimas: "Pašalintas religinis antraštės triukšmas ir suformuluotas konkretus įvykis."
   pagrindžia:
     - c-60498
-
+    - c-003
 <a id="claim-t-59870"></a>
 - t-007
   global_id: t-59870
@@ -214,8 +214,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59866
 - c-002
   santrauka: '1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -236,9 +235,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-008
-
 - c-003
   santrauka: '1317 m. žiemą Henrikui iš Plockės žygiuojant prieš Vaikių valsčių, audra išblaškė daugiau kaip 500 arklių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -258,8 +254,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-59869
 - c-006
   santrauka: '1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -277,8 +272,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59865
 ## Citatos
 
 - id: c-60496
@@ -300,7 +294,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59866
-
 - id: c-60497
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -326,7 +319,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   pagrindzia:
     - t-59868
     - t-197096
-
 - id: c-60498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -355,7 +347,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59869
-
 - id: c-60499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -378,7 +369,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59870
-
 - id: c-60500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -401,7 +391,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59867
-
 - id: c-60501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -427,7 +416,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59865
-
 - id: c-60502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -446,7 +434,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59864
-
 ## Ryšiai
 - Henrikas iš Plockės puolė [[objektai/vietos/Bisenė]], [[objektai/vietos/Sizditė]]
 - Henrikas iš Plockės apgulė [[objektai/vietos/Bisenė]]

@@ -56,7 +56,7 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie perestroikos reformas Lietuvoje."
   pagrindžia:
     - c-24932
-
+    - c-166846
 <a id="claim-t-22243"></a>
 - t-002
   global_id: t-22243
@@ -110,7 +110,6 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22243
-
 - id: c-24932
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -134,7 +133,6 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22242
-
 - id: c-166846
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

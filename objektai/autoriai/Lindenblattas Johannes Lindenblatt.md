@@ -144,7 +144,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87977
-
 - id: c-83955
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -182,7 +181,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87979
-
 - id: c-83957
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -204,7 +202,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87980
-
 - id: c-83958
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -222,7 +219,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87978
-
 - id: c-83959
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

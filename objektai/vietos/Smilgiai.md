@@ -46,6 +46,7 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-40356
+    - c-167195
 - susijęs iš Ažagų kaimas: Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 - susijęs iš Ažagų kaimas: Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 - susijęs iš Ažagų-Eimuliškio miškas: Mūšio metu Ažagų-Eimuliškio miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
@@ -79,7 +80,6 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38552
-
 - id: c-167195
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

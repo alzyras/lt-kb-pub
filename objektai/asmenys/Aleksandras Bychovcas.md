@@ -52,7 +52,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169840
-
+    - c-002
 <a id="claim-t-186502"></a>
 - t-002
   global_id: t-186502
@@ -86,6 +86,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169839
+    - c-001
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186811|Bychovco kronikos rankraštis]]: Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186811|Bychovco kronikos rankraštis]]: Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.
 ## Reikšmingi paminėjimai
@@ -103,8 +104,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   patikimumo_lygis: aukstas
   patikimumo_saltinis: tiesioginė-citata
   pagrindžia:
-    - t-003
-
+    - t-186503
 - c-002
   santrauka: 'Aleksandras Bychovcas buvo Gardino gubernijos Volkovysko apskrities teisėjas, pagal kurį XIX a. praminta Bychovco kronika.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -121,8 +121,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   patikimumo_lygis: aukstas
   patikimumo_saltinis: tiesioginė-citata
   pagrindžia:
-    - t-001
-
+    - t-186501
 ## Citatos
 
 - id: c-169839
@@ -147,7 +146,6 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186503
-
 - id: c-169840
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -177,7 +175,6 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186501
-
 - id: c-169841
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -201,6 +198,5 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186502
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Bychovco kronikos rankraštis]]

@@ -80,6 +80,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80723
-
 ## Ryšiai
 - Svirdeika keliavo į [[objektai/vietos/Įsrutis]]

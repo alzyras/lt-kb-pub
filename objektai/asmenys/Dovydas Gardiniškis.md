@@ -78,6 +78,5 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30225
-
 ## Ryšiai
 - Dovydas Gardiniškis gynė [[objektai/vietos/Pskovas]]

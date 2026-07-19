@@ -71,6 +71,7 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175724
+    - c-002
 - susijęs iš [[objektai/asmenys/Karlas Riteris.md#claim-t-191250|Karlas Riteris]]: Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su indais ir davė pradžią budinų genčiai prie Dono.
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-192376|Egiptiečiai]]: Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.
 - susijęs iš Ritter Carl, Die Vorhalle europäischer Völkergeschichten: Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ minimas kaip šaltinis svarstant kolchų ryšius su egiptiečiais prie Azovo jūros.
@@ -106,8 +107,7 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192954
 ## Citatos
 
 - id: c-175723
@@ -131,7 +131,6 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192953
-
 - id: c-175724
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

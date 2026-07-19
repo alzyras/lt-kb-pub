@@ -49,7 +49,7 @@ Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172126
-
+    - c-001
 <a id="claim-t-189239"></a>
 - t-002
   global_id: t-189239
@@ -70,7 +70,7 @@ Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172127
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba žmonių perkrikštijimo, temą.'
@@ -94,8 +94,7 @@ Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189238
 - c-002
   santrauka: 'Narbutas rašė, kad rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje buvo įvestas dar prieš Kazimierą Vienuolį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -119,8 +118,7 @@ Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189239
 ## Citatos
 
 - id: c-172126
@@ -146,7 +144,6 @@ Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189238
-
 - id: c-172127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

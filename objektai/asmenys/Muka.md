@@ -108,7 +108,6 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60178
-
 - id: c-60810
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

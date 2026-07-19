@@ -76,6 +76,5 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40323
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Sivindukas]]

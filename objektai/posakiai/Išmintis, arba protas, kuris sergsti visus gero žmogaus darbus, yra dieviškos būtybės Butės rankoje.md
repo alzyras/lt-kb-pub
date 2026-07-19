@@ -59,7 +59,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171024
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Butės mitą siejo su Klaipėdos apylinkėse iš jūrininko išgirstu padavimu, kuriame išmintis laikoma Butės rankoje.'
@@ -81,8 +81,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188000
 ## Citatos
 
 - id: c-171024

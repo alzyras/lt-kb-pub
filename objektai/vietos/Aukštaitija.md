@@ -69,7 +69,7 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175143
-
+    - c-001
 <a id="claim-t-192348"></a>
 - t-003
   global_id: t-192348
@@ -88,7 +88,7 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175143
-
+    - c-001
 <a id="claim-t-192608"></a>
 - t-004
   global_id: t-192608
@@ -109,7 +109,7 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175143
-
+    - c-001
 <a id="claim-t-197852"></a>
 - t-005
   global_id: t-197852
@@ -147,11 +147,9 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-002
-    - t-004
-    - t-005
-
+    - t-192347
+    - t-192348
+    - t-192608
 ## Citatos
 
 - id: c-175143
@@ -184,7 +182,6 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     - t-192348
     - t-192608
     - t-197852
-
 - id: c-175144
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

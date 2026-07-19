@@ -84,8 +84,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistas dokumento kontekstas, veikėjas ir simbolinis veiksmas. Vertinamieji žodžiai apie karaliaus paniekinimą sąmoningai neperkelti.'
   pagrindžia:
-    - c-172719
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas 1483 m. Kazimiero privilegijoje rado pasakojimą, kad Leicis karaliui padavė katiną kaip stabmeldiškosios laisvės ženklą.'
@@ -114,8 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189836
 ## Citatos
 
 - id: c-172720

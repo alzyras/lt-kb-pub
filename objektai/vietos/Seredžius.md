@@ -55,7 +55,7 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171828
-
+    - c-001
 <a id="claim-t-194754"></a>
 - t-002
   global_id: t-194754
@@ -69,6 +69,7 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177150
+    - c-002
 - susijęs iš Dubysa: Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.
 - susijęs iš [[objektai/asmenys/Rusovas.md#claim-t-190207|Rusovas]]: Rusovas, Narbuto perteikimu, teigė, kad latvių jaunimas garbino deivę Dahklą kaip laisvės ir vyriškumo globėją.
 - susijęs iš [[objektai/autoriai/Rusovas.md#claim-t-190452|Rusovas]]: Narbutas rašo, kad Rusovas latvių jaunimui priskyrė deivės Dahklos garbinimą kaip laisvės ir vyriškumo globėjos.
@@ -95,8 +96,7 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188939
 - c-002
   santrauka: 'Nuženk iš dangaus, pasigailėk) Mielai atidaviau savo laikrodį bajorui, kuris man tą daine lę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje 1805 metų liepos 17 dieną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -115,8 +115,7 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194754
 ## Citatos
 
 - id: c-171828
@@ -144,7 +143,6 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188939
-
 - id: c-177150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

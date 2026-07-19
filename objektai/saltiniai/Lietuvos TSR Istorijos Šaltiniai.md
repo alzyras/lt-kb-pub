@@ -75,7 +75,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   temporalinis_llm_pakomentavimas: "Teiginys iš esmės palaikomas, bet reikėjo pašalinti boilerplate ir išnašos numerį."
   pagrindžia:
     - c-85474
-
+    - c-001
 <a id="claim-t-89531"></a>
 - t-003
   global_id: t-89531
@@ -96,7 +96,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-85474
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“.'
@@ -114,9 +114,8 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
+    - t-89530
+    - t-89531
 ## Citatos
 
 - id: c-85474
@@ -141,7 +140,6 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   pagrindzia:
     - t-89530
     - t-89531
-
 - id: c-85476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

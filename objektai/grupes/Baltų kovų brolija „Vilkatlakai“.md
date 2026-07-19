@@ -79,7 +79,6 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40862
-
 - id: c-44724
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

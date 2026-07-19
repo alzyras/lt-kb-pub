@@ -109,7 +109,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sąrašo fragmentas perrašytas į pilną sakinį apie Vasilijų. Palikta metraščio atribucija genealoginiam įvardijimui, nepridėta datų ar vaidmenų.'
   pagrindžia:
-    - c-176629
+    - c-004
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185992|Vasilijus (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185993|Vasilijus (Maskvos kunigaikštis)]]: Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos.
@@ -156,8 +156,6 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
 - c-004
   santrauka: 'Lietuvos metraštis Vasilijų įvardija šeštuoju Algirdo ir Julijonos Oljevnos sūnumi.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -178,8 +176,7 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194004
 ## Citatos
 
 - id: c-169339
@@ -214,7 +211,6 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185978
-
 - id: c-169340
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -250,7 +246,6 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185979
-
 - id: c-178804
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -275,7 +270,6 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196619
-
 - id: c-178805
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -302,7 +296,6 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196621
-
 ## Ryšiai
 - Vasilijus buvo valdovas [[objektai/vietos/Maskva]]
 - Vasilijus keliavo į [[objektai/vietos/Maskva]]

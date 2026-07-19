@@ -102,7 +102,6 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75458
-
 - id: c-73232
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

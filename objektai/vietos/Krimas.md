@@ -38,7 +38,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67885
-
+    - c-166425
 <a id="claim-t-193193"></a>
 - t-002
   global_id: t-193193
@@ -77,7 +77,6 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68250
-
 - id: c-166425
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -49,7 +49,7 @@ Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelk
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177322
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelkių, lengvino kariaujančių su vo kiečiais lietuvių ryšius su Pamariu ir Prūsija.'
@@ -71,8 +71,7 @@ Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194926
 ## Citatos
 
 - id: c-177322

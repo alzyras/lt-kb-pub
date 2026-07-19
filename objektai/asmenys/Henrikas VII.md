@@ -131,7 +131,6 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59976
-
 - id: c-60609
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -150,7 +149,6 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59979
-
 - id: c-60610
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -168,7 +166,6 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59978
-
 - id: c-60611
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

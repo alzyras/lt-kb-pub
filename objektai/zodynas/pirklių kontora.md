@@ -87,7 +87,6 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03119
-
 - id: c-166368
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

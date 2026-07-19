@@ -60,8 +60,7 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas sakinys apie P. J. Šafaržyko veikalą ir jo recepciją. Papildoma informacija apie Narbuto biblioteką nepridėta.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
-    - c-174408
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas.'
@@ -84,8 +83,7 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191526
 ## Citatos
 
 - id: c-179269

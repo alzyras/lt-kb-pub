@@ -46,7 +46,7 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
   semantiniai_rysiai: "Hartmanas iš Grumbacho valdė Prūsija (0.63)"
   pagrindžia:
     - c-59562
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams.'
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58930
 ## Citatos
 
 - id: c-59562

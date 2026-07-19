@@ -60,7 +60,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir paremtas pateikta ištrauka."
   pagrindžia:
     - c-60645
-
+    - c-001
 <a id="claim-t-60015"></a>
 - t-002
   global_id: t-60015
@@ -99,8 +99,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60014
 - c-003
   santrauka: 'Švabijos kunigaikštis Fridrichas turėjo pasiųsti oficialius legatus pas Henriką VI dėl ligoninės patvirtinimo popiežiaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -162,7 +161,6 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60014
-
 - id: c-60646
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

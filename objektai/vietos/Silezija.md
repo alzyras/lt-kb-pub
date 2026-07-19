@@ -333,7 +333,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   pagrindzia:
     - t-95167
     - t-95169
-
 - id: c-90134
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -357,7 +356,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95160
-
 - id: c-90135
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -378,7 +376,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95163
-
 - id: c-90136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -404,7 +401,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95162
-
 - id: c-90137
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -426,7 +422,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95161
-
 - id: c-90138
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -452,7 +447,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   pagrindzia:
     - t-95165
     - t-95166
-
 - id: c-90139
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -475,7 +469,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95168
-
 - id: c-90141
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -501,7 +494,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95164
-
 - id: c-175530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -526,7 +518,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192760
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Mikalojus Sachse]]
 - Prekiavo su: [[objektai/vietos/Vilnius]]

@@ -49,7 +49,7 @@ Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171913
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavimo, kuriame šiuo vardu dievinta išmintis.'
@@ -68,8 +68,7 @@ Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189024
 ## Citatos
 
 - id: c-171913

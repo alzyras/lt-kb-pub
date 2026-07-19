@@ -42,7 +42,7 @@ Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, n
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177170
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku rias dėdavo sudegintų žmonių pelenus.'
@@ -61,8 +61,7 @@ Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194774
 ## Citatos
 
 - id: c-177170

@@ -81,6 +81,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-86289
+    - c-002
 - susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
 - susijęs iš [[objektai/autoriai/Гуревич Ф. Д.md#claim-t-91939|Гуревич Ф. Д]]: F. D. Gurevič darbas cituojamas duomenims apie trimis pylimais įtvirtintą pilies kalvą prie Girmavos.
 - susijęs iš [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas.md#claim-t-66562|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]: Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių.
@@ -105,8 +106,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-90455
 ## Citatos
 
 - id: c-86288
@@ -131,7 +131,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   pagrindzia:
     - t-90453
     - t-90454
-
 - id: c-86289
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

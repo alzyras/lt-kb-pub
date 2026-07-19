@@ -135,7 +135,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40404
-
 - id: c-176125
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -167,7 +166,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193403
-
 - id: c-176599
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -189,7 +187,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193974
-
 - id: c-178781
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -221,6 +218,5 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196587
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Olegas (Romano sūnus)]]

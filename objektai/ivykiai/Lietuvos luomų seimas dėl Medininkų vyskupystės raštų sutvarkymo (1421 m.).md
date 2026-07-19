@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas enciklopedinis sakinys ir atitinka citatos turinį."
   pagrindžia:
     - c-169177
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1421 m. Vytautas sušaukė Lietuvos luomų seimą ir, visiems pritariant, parūpino valstybinius raštus dėl Medininkų vyskupystės.'
@@ -99,8 +99,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185816
 ## Citatos
 
 - id: c-169177

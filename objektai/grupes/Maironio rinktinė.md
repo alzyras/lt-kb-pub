@@ -101,7 +101,6 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41084
-
 - id: c-44815
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

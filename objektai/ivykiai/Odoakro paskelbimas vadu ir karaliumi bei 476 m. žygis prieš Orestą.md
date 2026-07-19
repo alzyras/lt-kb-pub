@@ -65,7 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173930
-
+    - c-001
 <a id="claim-t-191049"></a>
 - t-002
   global_id: t-191049
@@ -87,7 +87,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173931
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi, o Odoakras iš Panonijos išžygiavo prieš Orestą.'
@@ -112,8 +112,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191048
 - c-002
   santrauka: 'Odoakro kariuomenei apgulus Paviją, miestas buvo užimtas, apiplėštas ir sunaikintas, o Orestas žuvo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -132,8 +131,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191049
 ## Citatos
 
 - id: c-173930
@@ -162,7 +160,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191048
-
 - id: c-173931
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

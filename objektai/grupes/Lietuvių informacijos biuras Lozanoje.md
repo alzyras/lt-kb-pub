@@ -83,6 +83,5 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19810
-
 ## Ryšiai
 - Rėmė Lietuvių informacijos biuras Lozanoje: [[objektai/grupes/JAV lietuviai]]

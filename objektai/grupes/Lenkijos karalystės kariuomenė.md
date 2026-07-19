@@ -95,7 +95,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23483
-
 - id: c-25111
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -115,7 +114,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23482
-
 ## Ryšiai
 - Lenkijos karalystės kariuomenė užėmė [[objektai/vietos/Kaunas]]
 - Lenkijos karalystės kariuomenė siuntė į [[objektai/vietos/Lietuva]]

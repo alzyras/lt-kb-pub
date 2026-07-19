@@ -132,7 +132,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86092
-
 - id: c-82072
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -154,7 +153,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86093
-
 - id: c-82073
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -181,7 +179,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86094
-
 - id: c-179210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -398,7 +398,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172820
-
 - id: c-157170
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -419,7 +418,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172822
-
 - id: c-157171
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -456,7 +454,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172807
-
 - id: c-157173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -481,7 +478,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172816
-
 - id: c-157174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -500,7 +496,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172809
-
 - id: c-157175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -546,7 +541,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172804
-
 - id: c-157176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -574,7 +568,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172821
-
 - id: c-157177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -626,7 +619,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172815
-
 - id: c-157179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -649,7 +641,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172817
-
 - id: c-157180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -671,7 +662,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172812
-
 - id: c-157181
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -694,7 +684,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172819
-
 - id: c-157182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -724,7 +713,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172813
-
 - id: c-157183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -746,7 +734,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172805
-
 - id: c-157184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -774,7 +761,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172814
-
 - id: c-157185
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -796,7 +782,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172811
-
 - id: c-157186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -813,7 +798,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172806
-
 - id: c-157188
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

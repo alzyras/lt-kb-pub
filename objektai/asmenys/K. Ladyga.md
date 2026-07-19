@@ -123,7 +123,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40248
-
 - id: c-42048
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -148,7 +147,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40249
-
 - id: c-42049
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -168,6 +166,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40250
-
 ## Ryšiai
 - K. Ladyga keliavo į [[objektai/vietos/Utena]]

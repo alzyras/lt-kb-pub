@@ -117,7 +117,6 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78376
-
 - id: c-22621
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,7 +143,6 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78378
-
 - id: c-75661
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

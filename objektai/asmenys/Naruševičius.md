@@ -54,7 +54,7 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174072
-
+    - c-001
 <a id="claim-t-191191"></a>
 - t-002
   global_id: t-191191
@@ -75,7 +75,7 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174073
-
+    - c-002
 <a id="claim-t-197431"></a>
 - t-003
   global_id: t-197431
@@ -106,8 +106,7 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191190
 - c-002
   santrauka: 'Naruševičius tapatino Ptolemėjo chunus su graikų-skitų gentimi Geniui, kuri, anot jo, buvo atsikėlusi iš Chijo salos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -126,8 +125,7 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191191
 ## Citatos
 
 - id: c-174072
@@ -151,7 +149,6 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191190
-
 - id: c-174073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -174,7 +171,6 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191191
-
 - id: c-179182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

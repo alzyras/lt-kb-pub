@@ -71,6 +71,5 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32171
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

@@ -59,7 +59,7 @@ Narbutas spėja, kad 1418 metų rankraštis apie agapijonus Rusijoje ir Lietuvoj
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173080
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas spėja, kad 1418 metų rankraštis apie agapijonus Rusijoje ir Lietuvoje galėjo būti vienas iš neišspausdintų Petro d''Ailli veikalų.'
@@ -77,8 +77,7 @@ Narbutas spėja, kad 1418 metų rankraštis apie agapijonus Rusijoje ir Lietuvoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190197
 ## Citatos
 
 - id: c-173080

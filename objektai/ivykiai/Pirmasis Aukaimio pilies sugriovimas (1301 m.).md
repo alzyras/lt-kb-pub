@@ -69,7 +69,7 @@ Nenurodyta
   semantiniai_rysiai: "Kryžiuočių ordinas puolė Aukaimis (0.82); Kryžiuočių ordinas užėmė Aukaimis (0.79)"
   pagrindžia:
     - c-66942
-
+    - c-001
 <a id="claim-t-66825"></a>
 - t-002
   global_id: t-66825
@@ -113,8 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-66824
 ## Citatos
 
 - id: c-66942
@@ -139,7 +138,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66824
-
 - id: c-66943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -63,7 +63,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59513
-
+    - c-167406
 ## Citatos
 
 - id: c-59512
@@ -89,7 +89,6 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58880
-
 - id: c-59513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -107,7 +106,6 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58881
-
 - id: c-167406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

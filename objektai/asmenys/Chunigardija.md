@@ -48,6 +48,7 @@ Narbutas karalaitę Chunigardiją mini kaip Fridleifo motiną, kurios giminės R
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174263
+    - c-001
 - susijęs iš [[objektai/asmenys/Fridleifas.md#claim-t-191268|Fridleifas]]: Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir, rusnėnų karaliuko padedamas, susigrąžino Danijos sostą.
 - susijęs iš [[objektai/asmenys/Frotonas III.md#claim-t-191141|Frotonas III]]: Teodoro Narbuto pasakojime Frotono III sūnus Fridleifas Rusioje augo pas Chunigardijos gimines ir susigrąžino Danijos sostą.
 ## Reikšmingi paminėjimai
@@ -72,8 +73,7 @@ Narbutas karalaitę Chunigardiją mini kaip Fridleifo motiną, kurios giminės R
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191381
 ## Citatos
 
 - id: c-174263

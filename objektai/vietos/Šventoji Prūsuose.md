@@ -49,7 +49,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171979
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šventoji (Szwentoja) Prūsuose minima kaip upė, įtekanti į Elksnės kairįjį krantą arba į Timbrą.'
@@ -66,8 +66,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189091
 ## Citatos
 
 - id: c-171979

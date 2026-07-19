@@ -105,7 +105,6 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38783
-
 - id: c-167107
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

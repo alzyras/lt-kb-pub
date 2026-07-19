@@ -49,7 +49,7 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172067
-
+    - c-001
 <a id="claim-t-189180"></a>
 - t-002
   global_id: t-189180
@@ -90,8 +90,7 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189179
 ## Citatos
 
 - id: c-172067
@@ -114,7 +113,6 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189179
-
 - id: c-172068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -95,7 +95,6 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-52960
-
 - id: c-54204
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

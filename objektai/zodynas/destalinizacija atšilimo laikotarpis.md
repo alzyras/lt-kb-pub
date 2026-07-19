@@ -89,7 +89,6 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22112
-
 - id: c-176275
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

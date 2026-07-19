@@ -95,7 +95,6 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191332
-
 - id: c-179359
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

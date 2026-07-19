@@ -108,7 +108,6 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54762
-
 - id: c-55763
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

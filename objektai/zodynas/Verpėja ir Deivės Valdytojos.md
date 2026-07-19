@@ -48,7 +48,7 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-175120
-
+    - c-001
 <a id="claim-t-192313"></a>
 - t-002
   global_id: t-192313
@@ -67,7 +67,7 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175121
-
+    - c-002
 <a id="claim-t-192314"></a>
 - t-003
   global_id: t-192314
@@ -79,7 +79,7 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175121
-
+    - c-002
 <a id="claim-t-192315"></a>
 - t-004
   global_id: t-192315
@@ -98,7 +98,7 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175121
-
+    - c-002
 <a id="claim-t-197379"></a>
 - t-005
   global_id: t-197379
@@ -133,8 +133,7 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192312
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -153,10 +152,9 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-    - t-004
-
+    - t-192313
+    - t-192314
+    - t-192315
 ## Citatos
 
 - id: c-175120
@@ -182,7 +180,6 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192312
-
 - id: c-175121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -211,7 +208,6 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     - t-192313
     - t-192314
     - t-192315
-
 - id: c-179157
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

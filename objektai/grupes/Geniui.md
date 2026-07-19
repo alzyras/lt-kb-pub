@@ -89,7 +89,6 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192969
-
 - id: c-179221
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

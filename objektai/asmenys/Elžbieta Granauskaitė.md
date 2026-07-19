@@ -83,6 +83,5 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35056
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

@@ -232,7 +232,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
     - t-55245
     - t-55246
     - t-194251
-
 - id: c-55848
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -252,7 +251,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55247
-
 - id: c-79578
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -273,7 +271,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83203
-
 - id: c-79579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -307,7 +304,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83204
-
 - id: c-184120
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -329,7 +325,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200775
-
 - id: c-184121
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

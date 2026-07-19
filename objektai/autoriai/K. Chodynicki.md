@@ -95,7 +95,6 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30731
-
 - id: c-32990
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

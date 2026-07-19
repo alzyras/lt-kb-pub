@@ -80,7 +80,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39630
-
 ## Ryšiai
 - Pršemyslas Otokaras II buvo valdovas [[objektai/vietos/Čekija]]
 - Pršemyslas Otokaras II rėmė [[objektai/grupes/Kryžiuočių ordinas]]

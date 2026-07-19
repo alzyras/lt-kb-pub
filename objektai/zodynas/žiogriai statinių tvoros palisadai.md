@@ -135,7 +135,6 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86441
-
 - id: c-82421
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -171,7 +170,6 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86442
-
 - id: c-82422
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -203,7 +201,6 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86444
-
 - id: c-82423
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -120,7 +120,6 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195551
-
 - id: c-177967
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -143,7 +142,6 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195552
-
 - id: c-177968
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -163,7 +161,6 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195550
-
 - id: c-177969
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

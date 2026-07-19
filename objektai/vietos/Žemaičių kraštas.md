@@ -95,7 +95,6 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69966
-
 - id: c-10529
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -112,6 +111,5 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69968
-
 ## Ryšiai
 - Žemaičių kraštas (kraštas) priklausė [[objektai/grupes/Kryžiuočių ordinas]]

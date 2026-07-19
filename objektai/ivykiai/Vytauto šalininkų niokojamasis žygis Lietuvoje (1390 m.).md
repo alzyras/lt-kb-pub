@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė su OCR triukšmu; citata pagrindžia aiškų faktą."
   pagrindžia:
     - c-169194
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1390 m. pradžioje Vytauto Palenkėje palikti daliniai staigiai nusiaubė Lietuvos ir Lenkijos žemes.'
@@ -103,8 +103,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185833
 ## Citatos
 
 - id: c-169194

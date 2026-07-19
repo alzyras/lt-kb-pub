@@ -76,7 +76,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   semantiniai_rysiai: "Draugija Užsienio Lietuviams Remti (DULR) rėmė Lietuviai (0.86)"
   pagrindžia:
     - c-46275
-
+    - c-46278
 <a id="claim-t-71617"></a>
 - t-003
   global_id: t-71617
@@ -155,7 +155,6 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71617
-
 - id: c-46274
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -174,7 +173,6 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71615
-
 - id: c-46275
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -213,7 +211,6 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193089
-
 - id: c-46278
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -231,8 +228,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71616
-
+    - t-71618
 - id: c-166291
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -254,6 +250,5 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182887
-
 ## Ryšiai
 - Draugija Užsienio Lietuviams Remti (DULR) rėmė [[objektai/grupes/Lietuviai]]

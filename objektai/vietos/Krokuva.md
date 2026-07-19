@@ -1733,7 +1733,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177296
-
 - id: c-32155
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1752,7 +1751,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177298
     - t-177303
-
 - id: c-32156
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1770,7 +1768,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177288
-
 - id: c-32157
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1790,7 +1787,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177273
     - t-177294
-
 - id: c-32158
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1813,7 +1809,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177308
     - t-177326
-
 - id: c-37476
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1839,7 +1834,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177313
     - t-177317
-
 - id: c-37478
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1866,7 +1860,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177275
     - t-177327
-
 - id: c-46546
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1888,7 +1881,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177318
     - t-177324
-
 - id: c-46550
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1922,7 +1914,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177258
     - t-177331
-
 - id: c-46551
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1944,7 +1935,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177274
     - t-177295
-
 - id: c-161149
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1969,7 +1959,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177297
-
 - id: c-161150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1992,7 +1981,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177292
-
 - id: c-161151
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2014,7 +2002,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177310
-
 - id: c-161152
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2039,7 +2026,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177264
-
 - id: c-161153
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2067,7 +2053,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177262
     - t-177311
-
 - id: c-161154
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2094,7 +2079,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177304
-
 - id: c-161155
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2123,7 +2107,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177305
     - t-177306
-
 - id: c-161156
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2142,7 +2125,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177265
-
 - id: c-161157
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2160,7 +2142,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177286
-
 - id: c-161158
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2189,7 +2170,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177312
     - t-177319
-
 - id: c-161159
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2212,7 +2192,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177302
     - t-177330
-
 - id: c-161160
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2232,8 +2211,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177280
-
+    - t-177285
 - id: c-161164
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2253,7 +2231,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177259
     - t-177299
-
 - id: c-161165
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2271,7 +2248,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177271
-
 - id: c-161169
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2310,7 +2286,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177291
-
 - id: c-161170
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2332,7 +2307,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177263
-
 - id: c-161171
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2357,7 +2331,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177261
     - t-177323
-
 - id: c-161172
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2379,7 +2352,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-177320
     - t-177322
     - t-193641
-
 - id: c-161173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2410,7 +2382,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177287
     - t-177289
-
 - id: c-161174
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2430,7 +2401,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177335
-
 - id: c-161175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2467,7 +2437,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177329
     - t-177336
-
 - id: c-161178
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2492,7 +2461,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177269
-
 - id: c-161179
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2514,7 +2482,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177314
-
 - id: c-161185
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2543,7 +2510,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177278
-
 - id: c-161186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2570,7 +2536,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177267
-
 - id: c-161187
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2592,7 +2557,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177283
-
 - id: c-161189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2612,7 +2576,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177272
-
 - id: c-161192
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2636,7 +2599,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177260
-
 - id: c-161194
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2654,7 +2616,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177309
-
 - id: c-161195
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2673,7 +2634,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177290
-
 - id: c-161196
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2693,7 +2653,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177282
-
 - id: c-161208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2726,7 +2685,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177270
     - t-177316
-
 - id: c-161209
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2745,7 +2703,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-177307
     - t-177333
-
 - id: c-168352
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2789,7 +2746,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184991
-
 - id: c-175938
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2806,7 +2762,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193194
-
 - id: c-175939
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2824,7 +2779,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193195
-
 - id: c-175940
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2842,7 +2796,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193196
-
 - id: c-175941
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2863,7 +2816,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193197
-
 - id: c-178849
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2898,7 +2850,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196697
-
 - id: c-184419
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -2925,7 +2876,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201069
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Krokuvą: [[objektai/grupes/Lietuviai]]

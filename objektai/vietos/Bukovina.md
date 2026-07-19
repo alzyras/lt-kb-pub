@@ -47,7 +47,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181776
-
+    - c-170279
 <a id="claim-t-199243"></a>
 - t-002
   global_id: t-199243
@@ -61,7 +61,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181777
-
+    - c-170280
 <a id="claim-t-199244"></a>
 - t-003
   global_id: t-199244
@@ -75,7 +75,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-181776
-
+    - c-170279
 <a id="claim-t-199245"></a>
 - t-004
   global_id: t-199245
@@ -89,6 +89,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181777
+    - c-170280
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186657|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį.
 ## Citatos
 
@@ -126,7 +127,6 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
   pagrindzia:
     - t-199242
     - t-199244
-
 - id: c-181777
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -158,3 +158,64 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
   pagrindzia:
     - t-199243
     - t-199245
+- id: c-170280
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    savo žmonėmis — raiteliais ir pėstininkais. Ir kai ka­
+    ralius Olbrachtas su visa kariuomene jau buvo Buko­
+    vinoje ir žygiavo be baimės dėl sudarytos amžinosios
+    taikos ir priesaikos, nesitikėdamas iš niekur smūgio,
+    tuo metu Moldavijos vaivadai Steponui labai skaudėjo
+    kojos, bet, norėdamas įvykdyti savo sumanymą, jis
+    užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­
+    ko su visais savo žmonėmis, ir su turkais, ir su veng­
+    rais, ir su valachais, ir tuose miškuose bei bukynuose
+    užpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­
+    gelį iš jo kariuomenės nukovė, o kitus paėmė gyvus;
+    atėmė daug gurguolių su dideliu turtu ir kelias garsias
+    patrankas, o pačiam karaliui Olbrachtui ir daugeliui
+    jo ponų bei karių nieko nepakenkė.
+    Kai karalius perėjo miškus ir Bukoviną, Moldavijos
+    vaivada su visais savo žmonėmis pasuko atgalios.
+  citata_rodoma: "Ir kai ka­\nralius Olbrachtas su visa kariuomene jau buvo Buko­\nvinoje ir žygiavo be baimės dėl sudarytos amžinosios \ntaikos ir priesaikos, nesitikėdamas iš niekur smūgio"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199243
+    - t-199245
+- id: c-170279
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Mūsų valdo­
+    vas vaivada Steponas su savo kariuomene yra lauke:
+    jei nori — eik ir nugalėk jj, ir tuomet jo miestai ir visa
+    žemė iš karto atsidurs tavo rankose."
+    Karalius Olbrachtas pasitraukė nuo Sučiavos mies­
+    to ir žygiuoja gilyn, iš visos širdies trokšdamas susi­
+    kauti su juo 3 I. O Moldavijos vaivada, matydamas, kad
+    negalės jam atsispirti, pasiuntė pas jį savo pasiuntinius
+    ir sudarė su juo taiką, teikėsi su savo žeme duoti jam
+    vasalo ištikimybės priesaiką, kaip buvo prisiekęs jo
+    tėvui, karaliui Kazimierui, ir surašė raštus, prisiekė
+    griežtai to prisilaikysiąs3 2 .
+    Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo
+    iš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu,
+    kuriuo buvo atžygiavęs, o norėdamas greičiau ir tie­
+    siau išeiti iš [moldavų] žemės, traukė stačiai per Buko­
+    viną ir kalnus, per uolėtus, sunkiai pereinamus miškus,
+    nes per tas akmeningas vietas ėjo tiesus, bet labai blo­
+    gas kelias Lenkijos sienos linkui3 3 .
+  citata_rodoma: "Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo \niš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu, \nkuriuo buvo atžygiavęs, o norėdamas greičiau ir tie­\nsiau išeiti iš [moldavų] žemės, traukė stačiai per Buko­\nviną ir kalnus, per uolėtus, sunkiai pereinamus miškus, \nnes per tas akmeningas vietas ėjo tiesus, bet labai blo­\ngas kelias Lenkijos sienos linkui3 3 ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199242
+    - t-199244

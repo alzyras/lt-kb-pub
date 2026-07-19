@@ -92,7 +92,6 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185460
-
 - id: c-171223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

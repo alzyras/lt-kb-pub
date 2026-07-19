@@ -48,6 +48,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168626
+    - c-001
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184708|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184629|maršalas]]: Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184708|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.
@@ -89,8 +90,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185265
 ## Citatos
 
 - id: c-168626

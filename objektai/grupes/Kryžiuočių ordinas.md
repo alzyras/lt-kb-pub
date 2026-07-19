@@ -399,10 +399,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-162588
-    - c-180701
     - c-162760
     - c-162781
-
+    - c-162664
 <a id="claim-t-178823"></a>
 - t-021
   global_id: t-178823
@@ -584,7 +583,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Vokiečių ordiną."
   pagrindžia:
     - c-162734
-
+    - c-162646
 <a id="claim-t-178842"></a>
 - t-033
   global_id: t-178842
@@ -669,9 +668,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-162500
-    - c-180733
     - c-162596
-    - c-180735
     - c-162610
     - c-162655
     - c-162684
@@ -680,7 +677,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162766
     - c-162812
     - c-167270
-
+    - c-180694
+    - c-180924
 <a id="claim-t-178855"></a>
 - t-038
   global_id: t-178855
@@ -1088,9 +1086,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
   pagrindžia:
-    - c-180868
     - c-162796
-
+    - c-180811
 <a id="claim-t-178896"></a>
 - t-062
   global_id: t-178896
@@ -1163,7 +1160,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36837
-
+    - c-167604
 <a id="claim-t-178902"></a>
 - t-067
   global_id: t-178902
@@ -1304,17 +1301,16 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - c-162567
     - c-162582
     - c-162620
-    - c-180742
     - c-162635
     - c-162656
     - c-162665
-    - c-180804
     - c-162749
-    - c-180703
     - c-162753
-    - c-180840
     - c-162762
-
+    - c-180823
+    - c-162632
+    - c-162752
+    - c-162757
 <a id="claim-t-178923"></a>
 - t-075
   global_id: t-178923
@@ -1974,7 +1970,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-162596
-
+    - c-167268
 <a id="claim-t-178997"></a>
 - t-113
   global_id: t-178997
@@ -2807,7 +2803,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsų žemė (0.86); Kryžiuočių ordinas pastatė Prūsija (0.74)"
   pagrindžia:
     - c-162733
-
+    - c-166529
 <a id="claim-t-179114"></a>
 - t-161
   global_id: t-179114
@@ -4050,8 +4046,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   ryšio_paaiskinimas: "Vytauto kampanija prieš Ordiną ir apskundimas pasauliui rodo politinį priešiškumą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-180775
-
+    - c-180785
+    - c-180790
 <a id="claim-t-198656"></a>
 - t-246
   global_id: t-198656
@@ -4214,7 +4210,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180796
-
+    - c-162677
 <a id="claim-t-198705"></a>
 - t-256
   global_id: t-198705
@@ -4233,7 +4229,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180706
-
+    - c-162632
 <a id="claim-t-198706"></a>
 - t-257
   global_id: t-198706
@@ -4472,7 +4468,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-180751
-
+    - c-173452
 <a id="claim-t-198759"></a>
 - t-273
   global_id: t-198759
@@ -4621,7 +4617,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-180834
-
+    - c-31137
 <a id="claim-t-198817"></a>
 - t-286
   global_id: t-198817
@@ -4675,7 +4671,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-06-13T14:28:57Z"
   pagrindžia:
     - c-180846
-
+    - c-173451
 <a id="claim-t-198834"></a>
 - t-289
   global_id: t-198834
@@ -4970,7 +4966,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180864
-
+    - c-162499
 <a id="claim-t-198893"></a>
 - t-306
   global_id: t-198893
@@ -5027,8 +5023,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-180755
-
+    - c-023
 <a id="claim-t-178832"></a>
 - t-031
   global_id: t-178832
@@ -5036,8 +5031,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
-    - c-180948
-
+    - c-105
 <a id="claim-t-178874"></a>
 - t-059
   global_id: t-178874
@@ -5048,16 +5042,14 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata.'
   pagrindžia:
-    - c-180922
-
+    - c-162715
 <a id="claim-t-178875"></a>
 - t-060
   global_id: t-178875
   teiginys: 'Kronika turėjo būti oficialiu Ordino šlovės paminklu73.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
-    - c-180840
-
+    - c-162757
 <a id="claim-t-178878"></a>
 - t-063
   global_id: t-178878
@@ -5065,8 +5057,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   sudarymo_pagrindimas: 'Teiginys suformuotas apie ordino padėtį.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
-    - c-180871
-
+    - c-155
 <a id="claim-t-179054"></a>
 - t-083
   global_id: t-179054
@@ -5074,8 +5065,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir OCR triukšmas.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
-    - c-180750
-
+    - c-037
 <a id="claim-t-178982"></a>
 - t-122
   global_id: t-178982
@@ -5083,8 +5073,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   sudarymo_pagrindimas: 'Tai vizijos pasakojimas, todėl būtina šaltinio atribucija.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Šventoji'
   pagrindžia:
-    - c-180850
-
+    - c-162675
 <a id="claim-t-179001"></a>
 - t-135
   global_id: t-179001
@@ -5093,8 +5082,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baiga; mentioned_place: Prūsija; mentioned_place: Trakai'
   semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] siuntė į Vilnius'
   pagrindžia:
-    - c-180878
-
+    - c-106
 <a id="claim-t-179014"></a>
 - t-144
   global_id: t-179014
@@ -5103,8 +5091,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
-    - c-180948
-
+    - c-105
 <a id="claim-t-179091"></a>
 - t-186
   global_id: t-179091
@@ -5112,8 +5099,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   sudarymo_pagrindimas: 'Tai teiginys apie autoriaus retorinį veiksmą, todėl atribucija pagrįsta.'
   susije_objektai: 'mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Austrija; mentioned_place: Jeruzalė'
   pagrindžia:
-    - c-180721
-
+    - c-129
 <a id="claim-t-188210"></a>
 - t-234
   global_id: t-188210
@@ -5124,8 +5110,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   sudarymo_pagrindimas: 'Legendinis Birutės pasakojimas paliktas su Narbuto ir Strijkovskio atribucija. Dėmesys susietas su kryžiuočių žygio kontekstu.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_place: Trakai'
   pagrindžia:
-    - c-180676
-
+    - c-171104
 <a id="claim-t-188211"></a>
 - t-235
   global_id: t-188211
@@ -5140,8 +5125,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas valdė Pamedė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Iš ilgo sakinio paimtas aiškus teiginys apie kryžiuočių valdžią Pamedėje. Nepridėta platesnio krikščioninimo vertinimo.'
   pagrindžia:
-    - c-180806
-
+    - c-229
 <a id="claim-t-188213"></a>
 - t-236
   global_id: t-188213
@@ -5153,8 +5137,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   susije_objektai: 'llm_object: Torunė; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Torunė'
   semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Torunė'
   pagrindžia:
-    - c-180693
-
+    - c-171107
 <a id="claim-t-188214"></a>
 - t-237
   global_id: t-188214
@@ -5165,8 +5148,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   sudarymo_pagrindimas: 'Vertinamasis autentiškumo teiginys paliktas su Narbuto atribucija. Nepridėtas jo argumentas apie lietuviškus vardus.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Prūsija'
   pagrindžia:
-    - c-180835
-
+    - c-171108
 <a id="claim-t-188215"></a>
 - t-238
   global_id: t-188215
@@ -5180,8 +5162,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Motyvų ir vertinimų perteklius pašalintas, bet pasakojimas paliktas su Narbuto atribucija. Išlaikyti asmuo, data, kryptis ir rezultatas.'
   pagrindžia:
-    - c-180950
-
+    - c-232
 <a id="claim-t-188216"></a>
 - t-239
   global_id: t-188216
@@ -5192,8 +5173,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   sudarymo_pagrindimas: 'Teiginys perrašytas kaip istoriografinė nuomonė, susijusi su kryžiuočių atsikraustymu. Nepridėtas Narbuto paneigimo argumentas.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
-    - c-180859
-
+    - c-171110
 <a id="claim-t-188217"></a>
 - t-240
   global_id: t-188217
@@ -5204,8 +5184,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   sudarymo_pagrindimas: 'Vertinamasis teiginys paliktas su Narbuto atribucija. Neutraliu faktu nepaverstas kronikininko motyvas.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Romovė'
   pagrindžia:
-    - c-180893
-
+    - c-171111
 <a id="claim-t-188218"></a>
 - t-241
   global_id: t-188218
@@ -5219,8 +5198,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Istoriografinis patikimumo argumentas suformuluotas su Narbuto atribucija. Nepridėta jo išvada apie žinių tikrumą.'
   pagrindžia:
-    - c-180818
-
+    - c-235
 <a id="claim-t-188219"></a>
 - t-242
   global_id: t-188219
@@ -5231,8 +5209,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   sudarymo_pagrindimas: 'Retorinis klausimas perrašytas į aiškų sakinį apie kryžiuočių veiksmus. Nepridėta vėlesnio ginčo dėl Dusburgiečio žinios.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Stenderis|Stenderis]]; mentioned_person: [[objektai/asmenys/Dusburgietis|Dusburgietis]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-180939
-
+    - c-236
 <a id="claim-t-196897"></a>
 - t-270
   global_id: t-196897
@@ -5241,8 +5218,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-180922
-
 <a id="claim-t-196903"></a>
 - t-276
   global_id: t-196903
@@ -5251,8 +5226,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-180850
-
 <a id="claim-t-197186"></a>
 - t-280
   global_id: t-197186
@@ -5261,8 +5234,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-180676
-
+    - c-228
 <a id="claim-t-197187"></a>
 - t-281
   global_id: t-197187
@@ -5271,7 +5243,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-180835
 - susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
 - susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60210|Sudargas]]: Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176126|Žemaičiai]]: 1236 m. žemaičiai Saulės mūšyje atlaikė žygį, bet 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.
@@ -7769,8 +7740,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-
+    - t-178813
 - c-037
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7785,9 +7755,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-166
-    - t-083
-
+    - t-179054
 - c-084
   santrauka: 'Apie 1226 (1230) m. Mazovijos kunigaikštis Konradas Teutonų namų ordino broliams atidavė Kulmo ir Lubavos žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7849,9 +7817,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-551
-    - t-144
-
+    - t-178832
+    - t-179014
 - c-106
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7870,8 +7837,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-135
-
+    - t-179001
 - c-129
   santrauka: 'Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7890,8 +7856,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-
+    - t-179091
 - c-134
   santrauka: 'Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7911,9 +7876,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-353
-    - t-276
-
 - c-138
   santrauka: 'Karalius patarė Ordino broliams pastatyti pilį ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7954,9 +7916,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059
-    - t-270
-
 - c-155
   santrauka: 'Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -7974,8 +7933,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-063
-
+    - t-178878
 - c-172
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7990,9 +7948,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-060
-    - t-399
-
 - c-220
   santrauka: 'Jogaila ir Vytautas, įsiveržę į Prūsiją su lenkų ir lietuvių kariuomenėmis, siekė pergalingai užbaigti ilgą karą su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -8024,8 +7979,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-464
-
 - c-228
   santrauka: 'Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8046,9 +7999,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-434
-    - t-280
-
+    - t-197186
 - c-229
   santrauka: '1247 m. kryžiuočiai jau valdė Pamedę, bet dėl kovų neturėjo pakankamai laiko jos vidaus sutvarkymui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8068,8 +8019,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-516
-
+    - t-188211
 - c-230
   santrauka: 'Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8088,8 +8038,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-424
-
 - c-231
   santrauka: 'Narbutas mano, kad vyriausiųjų žynių sąrašas autentiškas, nes Prūsijos istorikai galėjo jį perimti iš Kryžiuočių ordino užrašų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8115,9 +8063,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-383
-    - t-281
-
 - c-232
   santrauka: 'Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8147,8 +8092,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-379
-
+    - t-188215
 - c-233
   santrauka: 'Narbutas mini Hartknocho abejonę, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8167,8 +8111,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-305
-
 - c-234
   santrauka: 'Narbutas vertina, kad Kryžiuočių ordino kunigui kronikininkui buvo paranku lyginti krivį su popiežiumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8192,8 +8134,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-335
-
 - c-235
   santrauka: 'Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8217,8 +8157,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-561
-
+    - t-188218
 - c-236
   santrauka: 'Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -8243,8 +8182,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-520
-
+    - t-188219
 ## Citatos
 
 - id: c-00325
@@ -8265,7 +8203,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193098
-
 - id: c-00326
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -8286,7 +8223,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193100
-
 - id: c-13394
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -8305,7 +8241,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179101
-
 - id: c-13397
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -8324,7 +8259,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178862
-
 - id: c-13400
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -8346,7 +8280,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193101
-
 - id: c-13402
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -8374,7 +8307,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178881
-
 - id: c-14980
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8397,7 +8329,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178873
-
 - id: c-31122
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -8418,7 +8349,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198625
-
 - id: c-31126
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -8438,7 +8368,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198863
-
 - id: c-31138
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -8457,7 +8386,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198817
-
 - id: c-31142
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -8478,7 +8406,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198646
-
 - id: c-36835
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8515,7 +8442,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178939
-
 - id: c-36837
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8535,7 +8461,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178901
-
 - id: c-36839
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8553,7 +8478,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179015
-
 - id: c-36840
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8579,7 +8503,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178805
-
 - id: c-36841
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8599,7 +8522,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178887
-
 - id: c-36843
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8622,7 +8544,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178906
-
 - id: c-36845
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8648,7 +8569,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179099
-
 - id: c-36846
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8671,7 +8591,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178979
-
 - id: c-36851
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -8691,7 +8610,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179007
-
 - id: c-46313
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -8711,7 +8629,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178995
-
 - id: c-46319
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -8730,7 +8647,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179021
-
 - id: c-46320
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -8748,7 +8664,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179062
-
 - id: c-162483
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -8767,7 +8682,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178896
-
 - id: c-162484
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -8789,7 +8703,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178970
-
 - id: c-162486
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -8814,7 +8727,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179070
-
 - id: c-162488
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -8837,7 +8749,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178846
-
 - id: c-162490
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -8865,7 +8776,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178892
-
 - id: c-162495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -8891,7 +8801,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178999
     - t-196901
-
 - id: c-162497
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -8919,7 +8828,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178817
     - t-178823
-
 - id: c-162498
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -8943,7 +8851,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178816
-
 - id: c-162500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -8969,7 +8876,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178851
-
 - id: c-162502
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -8992,7 +8898,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179052
-
 - id: c-162507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9022,7 +8927,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178920
     - t-194326
-
 - id: c-162509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9066,7 +8970,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178830
     - t-178973
-
 - id: c-162510
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -9088,7 +8991,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179102
-
 - id: c-162514
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9115,7 +9017,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179077
-
 - id: c-162515
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -9138,7 +9039,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178918
     - t-179124
-
 - id: c-162517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9165,7 +9065,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178920
     - t-178983
-
 - id: c-162518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9192,7 +9091,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178959
-
 - id: c-162520
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9226,7 +9124,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178986
-
 - id: c-162521
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -9247,7 +9144,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178843
     - t-178956
-
 - id: c-162522
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9278,7 +9174,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178869
-
 - id: c-162524
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9317,7 +9212,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178962
-
 - id: c-162526
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9340,7 +9234,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178850
-
 - id: c-162531
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -9369,7 +9262,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-179008
     - t-179067
-
 - id: c-162533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9392,7 +9284,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179097
-
 - id: c-162534
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -9412,7 +9303,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178835
     - t-178885
-
 - id: c-162538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9432,7 +9322,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178936
-
 - id: c-162540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9461,7 +9350,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178866
     - t-179103
-
 - id: c-162541
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9491,7 +9379,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-179030
     - t-179120
-
 - id: c-162546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9547,7 +9434,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179039
-
 - id: c-162553
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9569,7 +9455,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178797
-
 - id: c-162554
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9593,7 +9478,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178987
-
 - id: c-162555
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -9617,7 +9501,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178838
     - t-179075
-
 - id: c-162559
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9643,7 +9526,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179012
-
 - id: c-162560
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9668,7 +9550,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178801
-
 - id: c-162561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9687,7 +9568,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178872
-
 - id: c-162563
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -9708,7 +9588,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179023
-
 - id: c-162564
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9732,7 +9611,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178795
-
 - id: c-162566
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9773,7 +9651,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178928
-
 - id: c-162567
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9801,7 +9678,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178898
     - t-178920
-
 - id: c-162572
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -9818,7 +9694,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178984
-
 - id: c-162576
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -9838,7 +9713,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179031
-
 - id: c-162577
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -9857,7 +9731,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179114
-
 - id: c-162578
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -9876,7 +9749,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179086
-
 - id: c-162579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9900,7 +9772,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178967
-
 - id: c-162581
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -9928,7 +9799,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178890
-
 - id: c-162582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9955,7 +9825,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178920
     - t-179071
-
 - id: c-162584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -9982,7 +9851,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178968
-
 - id: c-162588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10006,7 +9874,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178822
-
 - id: c-162589
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10029,7 +9896,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178935
-
 - id: c-162591
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10080,7 +9946,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178851
     - t-178996
-
 - id: c-162598
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10104,7 +9969,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179042
-
 - id: c-162599
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10129,7 +9993,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178877
     - t-178940
-
 - id: c-162600
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10164,7 +10027,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178789
     - t-178908
-
 - id: c-162601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10187,7 +10049,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178842
-
 - id: c-162605
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10205,7 +10066,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178868
-
 - id: c-162607
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10253,7 +10113,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179115
-
 - id: c-162610
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10279,7 +10138,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178851
     - t-178934
-
 - id: c-162613
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -10302,8 +10160,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178886
-
+    - t-179079
 - id: c-162614
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -10324,7 +10181,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178942
-
 - id: c-162619
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10346,7 +10202,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178831
     - t-178974
-
 - id: c-162620
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10375,7 +10230,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178815
     - t-178920
-
 - id: c-162621
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10407,7 +10261,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178880
-
 - id: c-162628
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10430,7 +10283,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178859
-
 - id: c-162630
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10463,7 +10315,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178855
-
 - id: c-162631
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10486,7 +10337,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178889
-
 - id: c-162633
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10508,7 +10358,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178870
-
 - id: c-162635
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10529,7 +10378,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178920
-
 - id: c-162636
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10553,7 +10401,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178827
-
 - id: c-162637
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10572,7 +10419,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178790
-
 - id: c-162639
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10592,7 +10438,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178902
-
 - id: c-162644
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10610,7 +10455,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179003
-
 - id: c-162645
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10631,7 +10475,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178913
-
 - id: c-162646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -10671,7 +10514,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179066
-
 - id: c-162651
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10692,7 +10534,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178994
-
 - id: c-162655
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10714,7 +10555,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178851
-
 - id: c-162656
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10739,7 +10579,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178920
     - t-178980
-
 - id: c-162657
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -10759,7 +10598,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179073
-
 - id: c-162660
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -10781,7 +10619,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179044
-
 - id: c-162661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10807,7 +10644,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-179033
     - t-179076
-
 - id: c-162665
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10837,7 +10673,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178920
-
 - id: c-162666
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -10860,7 +10695,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179019
-
 - id: c-162669
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10908,7 +10742,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178917
-
 - id: c-162672
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -10932,7 +10765,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178955
-
 - id: c-162678
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10972,7 +10804,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178931
-
 - id: c-162682
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -10999,7 +10830,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178938
-
 - id: c-162684
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11026,7 +10856,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178851
     - t-178930
-
 - id: c-162686
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -11051,7 +10880,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178812
-
 - id: c-162692
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11075,7 +10903,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178809
-
 - id: c-162693
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11102,7 +10929,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179038
-
 - id: c-162694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11133,7 +10959,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178851
-
 - id: c-162696
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11162,7 +10987,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178950
-
 - id: c-162700
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11188,7 +11012,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178851
-
 - id: c-162701
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11211,7 +11034,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178977
-
 - id: c-162702
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11240,7 +11062,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179045
-
 - id: c-162707
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11265,7 +11086,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178900
-
 - id: c-162709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11284,7 +11104,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179087
-
 - id: c-162710
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11322,7 +11141,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179108
-
 - id: c-162713
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11344,7 +11162,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178924
     - t-196896
-
 - id: c-162719
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11371,7 +11188,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178834
-
 - id: c-162722
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11399,7 +11215,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178991
     - t-179118
-
 - id: c-162726
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -11424,7 +11239,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-179005
     - t-179069
-
 - id: c-162727
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11451,7 +11265,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178820
-
 - id: c-162733
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11471,7 +11284,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179109
-
 - id: c-162734
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -11490,7 +11302,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178841
-
 - id: c-162739
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11516,7 +11327,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178992
-
 - id: c-162743
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11539,7 +11349,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178793
-
 - id: c-162746
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11564,7 +11373,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178953
-
 - id: c-162748
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11592,7 +11400,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178876
-
 - id: c-162749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11616,7 +11423,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178920
-
 - id: c-162750
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11644,7 +11450,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178860
-
 - id: c-162751
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11666,7 +11471,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178963
-
 - id: c-162753
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11693,7 +11497,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178920
-
 - id: c-162758
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11726,7 +11529,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178997
-
 - id: c-162759
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11747,7 +11549,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178926
-
 - id: c-162760
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11772,7 +11573,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178822
     - t-196904
-
 - id: c-162762
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11800,7 +11600,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178920
     - t-179119
-
 - id: c-162766
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11826,7 +11625,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-178851
     - t-178857
-
 - id: c-162767
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11850,7 +11648,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178840
-
 - id: c-162770
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11874,7 +11671,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179050
-
 - id: c-162774
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11901,7 +11697,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178814
-
 - id: c-162781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11927,7 +11722,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178822
-
 - id: c-162782
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -11950,7 +11744,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178821
-
 - id: c-162789
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -11989,7 +11782,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178916
-
 - id: c-162790
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -12019,7 +11811,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179088
-
 - id: c-162792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -12041,7 +11832,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178807
-
 - id: c-162795
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -12067,7 +11857,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178824
-
 - id: c-162796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -12092,7 +11881,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178895
-
 - id: c-162799
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -12120,7 +11908,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178923
-
 - id: c-162802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -12149,7 +11936,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179010
-
 - id: c-162806
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -12167,7 +11953,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179016
-
 - id: c-162812
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -12191,7 +11976,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178851
-
 - id: c-162816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -12237,7 +12021,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179057
-
 - id: c-162818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -12270,7 +12053,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179105
-
 - id: c-166529
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -12333,7 +12115,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178851
-
 - id: c-167604
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -12380,7 +12161,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184490
-
 - id: c-167853
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12419,7 +12199,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-184492
     - t-196078
-
 - id: c-167854
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12458,7 +12237,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-184493
     - t-196079
-
 - id: c-167855
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12489,7 +12267,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184494
-
 - id: c-167856
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12537,7 +12314,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184495
-
 - id: c-167857
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12566,7 +12342,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184496
-
 - id: c-167859
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12594,7 +12369,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184498
-
 - id: c-167860
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12623,7 +12397,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184499
-
 - id: c-167861
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12651,7 +12424,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-184500
     - t-196081
-
 - id: c-167862
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12683,7 +12455,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184501
-
 - id: c-167864
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12711,7 +12482,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184503
-
 - id: c-167865
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12742,7 +12512,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-184504
     - t-196082
-
 - id: c-167866
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12772,7 +12541,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184505
-
 - id: c-167867
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12796,7 +12564,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184506
-
 - id: c-167868
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12826,7 +12593,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184507
-
 - id: c-167869
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12856,7 +12622,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184508
-
 - id: c-167871
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12884,7 +12649,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184510
-
 - id: c-167873
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12915,7 +12679,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184512
-
 - id: c-167874
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -12946,7 +12709,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184513
-
 - id: c-170652
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -12964,7 +12726,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187713
-
 - id: c-171102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -12985,7 +12746,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188208
-
 - id: c-171103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13008,7 +12768,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188209
-
 - id: c-175209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -13036,7 +12795,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-192415
     - t-197509
-
 - id: c-175210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -13063,7 +12821,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-192416
     - t-197510
-
 - id: c-175211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -13089,7 +12846,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192417
-
 - id: c-175860
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -13106,7 +12862,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193097
-
 - id: c-175861
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -13125,7 +12880,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193099
-
 - id: c-175862
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -13148,7 +12902,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193102
-
 - id: c-175863
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -13166,7 +12919,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193103
-
 - id: c-175864
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -13186,7 +12938,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193104
-
 - id: c-176970
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13214,7 +12965,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194570
-
 - id: c-176971
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -13236,7 +12986,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194571
-
 - id: c-177259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -13264,7 +13013,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194863
-
 - id: c-178517
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13287,7 +13035,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196080
-
 - id: c-178518
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -13318,7 +13065,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196084
-
 - id: c-178969
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -13342,7 +13088,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196894
-
 - id: c-178970
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -13367,7 +13112,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196895
-
 - id: c-178971
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -13388,7 +13132,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196898
-
 - id: c-178972
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -13414,7 +13157,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196899
-
 - id: c-178973
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -13439,7 +13181,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196905
-
 - id: c-178974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -13466,7 +13207,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196906
-
 - id: c-180668
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13583,7 +13323,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198787
-
 - id: c-180673
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -13705,7 +13444,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198744
-
 - id: c-180685
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13788,7 +13526,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - t-198726
     - t-198813
     - t-198834
-
 - id: c-180689
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -13847,8 +13584,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-178851
     - t-198716
-
 - id: c-180695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -13931,7 +13668,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198592
-
 - id: c-180700
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14013,7 +13749,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198705
-
 - id: c-180707
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14142,7 +13877,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198678
-
 - id: c-180714
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -14184,7 +13918,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198656
     - t-198835
-
 - id: c-180719
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14288,7 +14021,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198759
-
 - id: c-180728
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14324,7 +14056,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198638
-
 - id: c-180730
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14387,8 +14118,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12375
-
 - id: c-180737
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14430,7 +14159,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12369
-
 - id: c-180740
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14524,7 +14252,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198624
-
 - id: c-180745
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -14547,7 +14274,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198718
-
 - id: c-180746
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14627,7 +14353,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198634
     - t-198893
-
 - id: c-180751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -14663,7 +14388,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198751
-
 - id: c-180752
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -14682,7 +14406,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198595
-
 - id: c-180753
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -14707,7 +14430,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - t-198672
     - t-198675
     - t-198713
-
 - id: c-180754
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14815,7 +14537,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198735
     - t-198783
-
 - id: c-180761
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -14834,7 +14555,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198712
-
 - id: c-180762
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14879,7 +14599,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198901
-
 - id: c-180764
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15021,7 +14740,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198647
-
 - id: c-180771
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15065,7 +14783,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198851
-
 - id: c-180773
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15182,7 +14899,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198771
     - t-198861
-
 - id: c-180781
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15276,7 +14992,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198738
     - t-198843
-
 - id: c-180785
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -15295,8 +15010,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198651
-
+    - t-178861
 - id: c-180786
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15493,7 +15207,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198700
     - t-198729
-
 - id: c-180797
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -15513,7 +15226,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198780
-
 - id: c-180798
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15590,7 +15302,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198616
     - t-198890
-
 - id: c-180802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15881,8 +15592,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-178920
     - t-198679
-
 - id: c-180824
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -16022,7 +15733,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198730
-
 - id: c-180830
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16115,7 +15825,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198815
-
 - id: c-180836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16205,8 +15914,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12372
-
 - id: c-180843
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -16301,7 +16008,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198827
-
 - id: c-180847
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16346,7 +16052,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198685
-
 - id: c-180849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16503,7 +16208,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198896
-
 - id: c-180862
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -16526,7 +16230,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198599
     - t-198737
-
 - id: c-180863
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16581,7 +16284,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198661
     - t-198892
-
 - id: c-180865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16720,7 +16422,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198869
     - t-198888
-
 - id: c-180874
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16895,7 +16596,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
     - t-198628
     - t-198768
     - t-198881
-
 - id: c-180885
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16965,7 +16665,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198706
-
 - id: c-180889
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17080,7 +16779,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198842
-
 - id: c-180897
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -17100,7 +16798,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198645
     - t-198686
-
 - id: c-180898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -17307,7 +17004,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198748
     - t-198901
-
 - id: c-180906
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -17340,7 +17036,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198814
     - t-198821
-
 - id: c-180907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17691,7 +17386,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198637
     - t-198884
-
 - id: c-180924
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -17714,8 +17408,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-178851
     - t-198846
-
 - id: c-180925
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -17737,7 +17431,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198724
-
 - id: c-180926
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -17759,7 +17452,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindzia:
     - t-198588
     - t-198774
-
 - id: c-180928
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -17780,7 +17472,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198658
-
 - id: c-180930
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17881,7 +17572,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198868
-
 - id: c-180934
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17928,7 +17618,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198836
-
 - id: c-180936
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18024,7 +17713,6 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198854
-
 - id: c-180941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18183,7 +17871,326 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-162664
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  citata_originali: |
+    Vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji
+    mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp
+    kitų panašių brolijų (III, 12).
+      Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
+    žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178822
+- id: c-162715
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  citata_originali: |
+    Apkaltintas erezija Tamplierių
+    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
+    Paryžiuje 1314 m.69
+      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
+    argumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
+    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
+    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
+    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
+    vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
+    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
+    Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
+    metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178874
+- id: c-162757
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
+  citata_originali: |
+    taip pat patiems valdovams72. Kronika turėjo būti oficialiu Ordino šlovės paminklu73.
 
+
+
+
+                       Kronikos rankraščiai, publikacijos, tyrinėjimai
+
+      Dusburgiečio kronikos originalas — XIV a. rankraštis — neišliko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178920
+    - t-178875
+- id: c-162632
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  citata_originali: |
+    Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
+    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
+    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
+    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
+    prieš Lietuvą.
+      Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
+    feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178920
+    - t-198705
+- id: c-162752
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  citata_originali: |
+    Brolis  Konradas,  magistras,  išmintingas  ir  apdairus  vyras, suprasdamas,  kad,
+    braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos
+    broliams bei Sembos žemei, pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
+    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178920
+- id: c-31137
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lietuvos ūkis smarkiai buvo žalojamas ordino karų metu.
+    Iš pagonių sodybų, kur praeidavo ordino būriai, nieko nelikdavo.
+    Šitokiu ūkio naikinimu buvo tikima lietuvius palaužti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198815
+- id: c-162499
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
+  citata_originali: |
+    Mat
+    prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant
+    karalienė Saba, norėjusi patirti Saliamono išmintingumą. Štai šis popiežius Celestinas
+    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151  ir „išsikirto
+    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
+    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos  ir Armėnijos152,
+    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
+    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
+    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
+    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198892
+- id: c-162675
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  citata_originali: |
+    Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
+    Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
+    priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė. Galop atėjo švenčiausioji mergelė
+    Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
+    vis dėlto leistų pasilikti savo brolių bendrijoje. Šventoji mergelė jam atsakė: „Neverta,
+    nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei
+    taip kentėti, kaip trokšti“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178982
+- id: c-162677
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
+    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
+    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
+    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
+    žmogaus pastangomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198700
+- id: c-171104
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Duomenų apie tai mums
+    paliko Strijkovskis.
+    Birutė (Biruta)
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188210
+- id: c-171107
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  citata_originali: |
+    Tai buvo 1258 metais“ .
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
+    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
+    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
+    toje vietoje įkūrė Senąją Torunę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188213
+- id: c-171108
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Austomo
+    285
+
+    ## Puslapis 285
+
+    do, kad egzistavo senoviniai sąrašai, kuriuos visi metraštininkai
+    aiškino nevienodai, nes kiekvienas savaip juos suprato arba tu­
+    rėjo nevienodus egzempliorius*.
+    Esame įsitikinę, kad šis vyriausiųjų žynių sąrašas yra au­
+    tentiškas, nes senieji Prūsijos istorikai turėjo jį turėti iš Kry­
+    žiuočių ordino užrašų; jie išlaikė atminimą apie tai, radę žinių
+    rašytiniuose krašto paminkluose. Pagaliau tikri lietuviški var­
+    dai, ypač toks jų skaičius, ne taip lengvai galėtų būti išgalvoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188214
+- id: c-171110
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
+  citata_originali: |
+    Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
+    ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
+    rinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo
+    daryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka
+    pasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai
+    senu papročiu4.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188216
+- id: c-171111
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Kad tai paprasta
+    kronikininko spėlionė, yra tokia pat tiesa, kaip tai, kad nėra
+    abejonės, jog nei prūsai savo Romonės nepavadino nusižiūrė­
+    ję į Romos pavadinimą, nei savo krivio nelygino su popiežiu­
+    mi. Tačiau kronikininkui, ypač Kryžiuočių ordino kunigui, toks
+    palyginimas buvo parankus. Romovę kildinti iš Romos pakan-
+    412
+
+    ## Puslapis 412
+
+    karnai greiti ir mūsų laikų etimologijų mėgėjai, o jei jau pri­
+    ėjome prie Romos, tai ar reikia stebėtis, kad popiežiaus vie­
+    nuolis, vaizduodamasis krivį, atrado jame savo popiežių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188217
+- id: c-173451
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 422"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 422."
+  citata_originali: |
+    Iš tos seno­
+    viškos būties jau daug buvo sunaikinta ir išstumta, kai atsira­
+    do sutartis tarp prūsų tautos ir kryžiuočių. Kai tik ordinas už­
+    kariaudavo kurią sritį, kartu joje nelikdavo nei krivių, nei ri­
+    kių. Jų viešpatystė baigdavosi akimirksniu, kai tik prasidėda­
+    vo ordino valdžia ir kai ji būdavo čiabuvių priimama.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198827
+- id: c-173452
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 431"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
+  citata_originali: |
+    1.
+    Seniausias žinomas šito šaltinis yra Simonas Grunau,
+    naujojo Prūsijos istoriko labai suniekintas kronikininkas, o iš
+    tikrųjų vertas didesnės pagarbos; ne visuomet pagarbiai ra­
+    šantis apie kryžiuočius ir vokiečių tautą -  tai tiesa; per daug
+    užsidegęs katalikybės šalininkas -  ir tai ne paslaptis; kartais
+    nekritiškas kompiliatorius ir su daugybe savo laiko ydų -  gali­
+    ma ir su tuo sutikti. Bet jis buvo darbštus rašytojų praleistų
+    arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
+    11 Sirvydo žodynas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198751
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Anglų riteriai]], [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - Puolė Kryžiuočių ordiną: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Sudargas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/grupes/Žemaičiai]]

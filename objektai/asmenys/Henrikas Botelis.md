@@ -76,7 +76,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-107146
-
+    - c-001
 <a id="claim-t-184711"></a>
 - t-003
   global_id: t-184711
@@ -123,8 +123,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-116283
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -162,7 +161,6 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116283
-
 - id: c-107147
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -199,7 +197,6 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116281
-
 - id: c-168072
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

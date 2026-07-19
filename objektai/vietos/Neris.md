@@ -139,7 +139,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177503
-
+    - c-005
 <a id="claim-t-195109"></a>
 - t-007
   global_id: t-195109
@@ -466,8 +466,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-195108
 ## Citatos
 
 - id: c-37594
@@ -488,7 +487,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195121
-
 - id: c-177483
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -514,7 +512,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195104
-
 - id: c-177484
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -557,7 +554,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - t-195118
     - t-195122
     - t-195127
-
 - id: c-177485
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -587,7 +583,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195127
-
 - id: c-177486
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -618,7 +613,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195116
-
 - id: c-177487
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -653,7 +647,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195104
-
 - id: c-177488
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -686,7 +679,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - t-195116
     - t-195117
     - t-195125
-
 - id: c-177489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -706,7 +698,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195107
-
 - id: c-177490
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -733,7 +724,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195116
-
 - id: c-177491
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -783,7 +773,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195116
-
 - id: c-177492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -806,7 +795,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195111
-
 - id: c-177493
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -832,7 +820,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - t-195106
     - t-195123
     - t-195126
-
 - id: c-177494
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -858,7 +845,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195112
-
 - id: c-177495
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -882,7 +868,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195125
-
 - id: c-177496
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -909,7 +894,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195104
-
 - id: c-177497
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -932,7 +916,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195117
-
 - id: c-177498
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -966,7 +949,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - t-195115
     - t-195120
     - t-195125
-
 - id: c-177499
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -992,7 +974,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195127
-
 - id: c-177500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1018,7 +999,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195122
-
 - id: c-177501
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1051,7 +1031,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195117
-
 - id: c-177502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1078,7 +1057,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - t-195119
     - t-195124
     - t-195127
-
 - id: c-177503
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1111,7 +1089,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195108
-
 - id: c-177504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1139,7 +1116,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195117
-
 - id: c-177505
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1163,7 +1139,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195105
-
 - id: c-177506
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

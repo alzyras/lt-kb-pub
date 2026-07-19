@@ -139,7 +139,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12549
-
 - id: c-160261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -157,7 +156,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176246
-
 - id: c-160262
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -176,7 +174,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12548
-
 - id: c-166351
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

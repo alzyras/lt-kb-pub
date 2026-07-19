@@ -106,7 +106,6 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35454
-
 - id: c-38191
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -130,7 +129,6 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35453
-
 - id: c-167623
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

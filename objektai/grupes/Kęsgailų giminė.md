@@ -49,7 +49,7 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170719
-
+    - c-001
 <a id="claim-t-188220"></a>
 - t-002
   global_id: t-188220
@@ -92,8 +92,7 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187780
 ## Citatos
 
 - id: c-170719
@@ -119,7 +118,6 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187780
-
 - id: c-171114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

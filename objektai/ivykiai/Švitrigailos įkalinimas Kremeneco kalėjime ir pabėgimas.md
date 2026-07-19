@@ -61,7 +61,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169157
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas, nepasitikėdamas Švitrigaila, liepė jį suimti ir įkalinti Kremeneco kalėjime, iš kurio Švitrigailą netrukus išlaisvino rusų sąmokslininkai.'
@@ -86,8 +86,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185796
 ## Citatos
 
 - id: c-169157

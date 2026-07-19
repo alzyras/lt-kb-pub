@@ -151,7 +151,6 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190453
-
 - id: c-173674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

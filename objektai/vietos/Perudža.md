@@ -102,7 +102,6 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58612
-
 - id: c-59245
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

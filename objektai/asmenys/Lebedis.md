@@ -68,7 +68,6 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87541
-
 - id: c-83520
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

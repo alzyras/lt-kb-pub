@@ -61,7 +61,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172500
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.'
@@ -80,8 +80,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189617
 ## Citatos
 
 - id: c-172500

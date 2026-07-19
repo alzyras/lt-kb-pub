@@ -61,7 +61,7 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   temporalinis_llm_pakomentavimas: "Citata leidžia patikimai teigti tik pilies vietą; asmenų įvardijimui trūksta aiškaus konteksto."
   pagrindžia:
     - c-92170
-
+    - c-002
 <a id="claim-t-97721"></a>
 - t-002
   global_id: t-97721
@@ -119,8 +119,7 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-97718
 ## Citatos
 
 - id: c-92163
@@ -144,7 +143,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97721
-
 - id: c-92170
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -96,7 +96,6 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41676
-
 - id: c-45072
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -128,6 +127,5 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41677
-
 ## Ryšiai
 - Užėmė Didžiųjų Lukų tvirtovę: [[objektai/grupes/Lietuvos kariuomenė]]

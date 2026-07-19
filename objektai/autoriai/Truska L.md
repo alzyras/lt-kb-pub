@@ -93,7 +93,6 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19484
-
 - id: c-22201
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

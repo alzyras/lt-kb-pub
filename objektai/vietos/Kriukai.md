@@ -47,7 +47,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59209
-
+    - c-002
 <a id="claim-t-58577"></a>
 - t-002
   global_id: t-58577
@@ -64,6 +64,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59208
+    - c-001
 - susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,8 +80,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58577
 - c-002
   santrauka: 'Kriukuose Ordino broliai atsitraukė į kaimą, kai po žygio Notangoje rado priešų užstotus kelius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,8 +99,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58576
 ## Citatos
 
 - id: c-59208
@@ -127,7 +126,6 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58577
-
 - id: c-59209
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -68,7 +68,7 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168171
-
+    - c-002
 <a id="claim-t-184811"></a>
 - t-003
   global_id: t-184811
@@ -89,7 +89,7 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   semantiniai_rysiai: "Ona (Vytauto žmona) mirė Trakai (0.78)"
   pagrindžia:
     - c-168172
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Ona laisva valia lydėjo į Krėvą saugomą Vytautą ir dalijosi su juo likimo vargais.'
@@ -112,8 +112,7 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184810
 - c-003
   santrauka: 'Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -130,8 +129,7 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-184811
 ## Citatos
 
 - id: c-83902
@@ -173,7 +171,6 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87923
-
 - id: c-168171
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -214,7 +211,6 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184810
-
 - id: c-168172
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

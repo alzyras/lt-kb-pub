@@ -78,8 +78,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 - susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.

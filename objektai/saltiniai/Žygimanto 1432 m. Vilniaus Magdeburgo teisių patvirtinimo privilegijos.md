@@ -134,7 +134,6 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88219
-
 - id: c-84196
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -156,7 +155,6 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88217
-
 - id: c-84197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -202,7 +200,6 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88216
-
 - id: c-84198
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

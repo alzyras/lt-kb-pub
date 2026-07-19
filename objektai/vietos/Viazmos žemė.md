@@ -109,7 +109,6 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185275
-
 - id: c-168637
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad тихвинский C.
   temporalinis_llm_pakomentavimas: "Citata palaiko pilną bibliografinį sakinį; pradinis teiginys palieka nutrūkusią inicialų formą."
   pagrindžia:
     - c-62109
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'C. L. Тихвинский ir V. A. Тишков straipsnis „XV международный конгресс исторических наук“ paskelbtas 1980 m. leidinio „ВИ“ 12 numeryje, p. 3–23.'
@@ -60,8 +60,7 @@ Dusburgietis teigia, kad тихвинский C.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61477
 ## Citatos
 
 - id: c-62109

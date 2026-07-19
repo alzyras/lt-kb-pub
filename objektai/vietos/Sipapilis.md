@@ -83,8 +83,7 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-
+    - t-192803
 - id: c-175574
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -107,4 +106,4 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-192804

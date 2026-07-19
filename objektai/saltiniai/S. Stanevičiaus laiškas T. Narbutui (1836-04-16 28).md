@@ -73,4 +73,4 @@ Simonas Stanevičius 1836 m. balandžio 19 d. Raseiniuose rašytu laišku Teodor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191854

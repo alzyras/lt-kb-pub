@@ -48,7 +48,7 @@ Narbutas Horacijaus 28 odę mini kaip kūrinį, kuriame kalbama apie filosofo Ar
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173417
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Horacijaus 28 odę mini kaip kūrinį, kuriame kalbama apie filosofo Archilo šmėklą.'
@@ -72,8 +72,7 @@ Narbutas Horacijaus 28 odę mini kaip kūrinį, kuriame kalbama apie filosofo Ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190534
 ## Citatos
 
 - id: c-173417

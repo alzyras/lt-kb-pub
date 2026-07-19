@@ -63,7 +63,7 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173276
-
+    - c-001
 <a id="claim-t-190726"></a>
 - t-002
   global_id: t-190726
@@ -87,7 +87,7 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173608
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ išėjo Varšuvoje 1820–1828 m. dviem tomais.'
@@ -102,8 +102,7 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190393
 - c-002
   santrauka: 'Filologas Ignotas Benediktas Rakoveckis 1820–1828 m. Varšuvoje paskelbė darbą „Prawda Ruska“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -120,8 +119,7 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190726
 ## Citatos
 
 - id: c-173276
@@ -142,7 +140,6 @@ Ignotas Benediktas Rakoveckis buvo filologas, kurio darbas „Prawda Ruska“ i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190393
-
 - id: c-173608
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

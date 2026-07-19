@@ -110,7 +110,7 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-167917
-
+    - c-167918
 <a id="claim-t-184557"></a>
 - t-005
   global_id: t-184557
@@ -170,7 +170,6 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   pagrindzia:
     - t-81459
     - t-81460
-
 - id: c-78082
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -192,7 +191,6 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81461
-
 - id: c-167917
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -224,7 +222,6 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184556
-
 - id: c-167918
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -248,4 +245,5 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-184556
     - t-184557

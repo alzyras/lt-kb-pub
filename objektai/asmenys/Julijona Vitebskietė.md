@@ -61,7 +61,7 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172988
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje.'
@@ -82,8 +82,7 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190105
 ## Citatos
 
 - id: c-172988
@@ -110,6 +109,5 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190105
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

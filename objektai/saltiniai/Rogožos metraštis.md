@@ -97,7 +97,6 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08845
-
 - id: c-11148
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

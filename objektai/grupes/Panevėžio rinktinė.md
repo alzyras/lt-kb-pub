@@ -99,7 +99,6 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38893
-
 - id: c-40697
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -124,6 +123,5 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38892
-
 ## Ryšiai
 - Panevėžio rinktinė užėmė [[objektai/vietos/Subačius]], [[objektai/vietos/Troškūnai]]

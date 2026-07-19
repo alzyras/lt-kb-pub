@@ -72,7 +72,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T15:40:17Z"
   pagrindžia:
     - c-181697
-
+    - c-169883
 <a id="claim-t-199212"></a>
 - t-002
   global_id: t-199212
@@ -85,7 +85,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-181697
-
+    - c-169883
 <a id="claim-t-199213"></a>
 - t-003
   global_id: t-199213
@@ -99,7 +99,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181697
-
+    - c-169883
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -124,6 +124,30 @@ Nenurodyta
   citata_rodoma: "Kunigaikštis Jogaila ir kunigaikštis Vy­\ntautas, jų tėvams dar gyviems esant, buvo labai su­\nsidraugavę.\nO paskui didysis kunigaikštis Algirdas 1377 me­\ntais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­\ndamas j susitarimą bei savo brolišką meilę ir santar- \nmę, kurios ligi jo mirties buvo laikęsis, pripažino di­\ndžiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį \nJogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip \nanksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199211
+    - t-199212
+    - t-199213
+- id: c-169883
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Kunigaikštis Jogaila ir kunigaikštis Vy­
+    tautas, jų tėvams dar gyviems esant, buvo labai su­
+    sidraugavę.
+    O paskui didysis kunigaikštis Algirdas 1377 me­
+    tais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­
+    damas j susitarimą bei savo brolišką meilę ir santar-
+    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
+    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
+    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
+    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
+  citata_rodoma: "O paskui didysis kunigaikštis Algirdas 1377 me­\ntais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­\ndamas j susitarimą bei savo brolišką meilę ir santar- \nmę, kurios ligi jo mirties buvo laikęsis, pripažino di­\ndžiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį \nJogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip \nanksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį."
+  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

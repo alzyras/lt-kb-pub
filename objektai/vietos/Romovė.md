@@ -151,7 +151,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175512
-
+    - c-006
 <a id="claim-t-192743"></a>
 - t-007
   global_id: t-192743
@@ -173,7 +173,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175513
-
+    - c-007
 <a id="claim-t-194746"></a>
 - t-008
   global_id: t-194746
@@ -307,8 +307,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-192742
 - c-007
   santrauka: 'Narbutas Romovę vaizdavo kaip dievų šventovę didelės šventos girios viduryje Prūsijos provincijos vakaruose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -329,8 +328,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-192743
 ## Citatos
 
 - id: c-171782
@@ -354,7 +352,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188893
-
 - id: c-171783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -376,7 +373,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188894
-
 - id: c-171784
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -403,7 +399,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188895
-
 - id: c-171785
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -426,7 +421,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188896
-
 - id: c-171786
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -451,7 +445,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188897
-
 - id: c-175512
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -473,7 +466,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192742
-
 - id: c-175513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -500,7 +492,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192743
-
 - id: c-177142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -519,7 +510,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194746
-
 - id: c-177143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -540,7 +530,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194747
-
 - id: c-179396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -563,7 +552,6 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197918
-
 - id: c-184451
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -590,6 +578,5 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201101
-
 ## Ryšiai
 - Romovė priklausė [[objektai/vietos/Prūsija]], [[objektai/vietos/Sambija]]

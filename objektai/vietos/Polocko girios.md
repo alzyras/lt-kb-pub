@@ -41,7 +41,7 @@ Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui to
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176164
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui tol kariauti, kol neatsiims žemės ir nesutriuš kins Švitrigailos.'
@@ -76,8 +76,7 @@ Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui to
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193453
 ## Citatos
 
 - id: c-176164

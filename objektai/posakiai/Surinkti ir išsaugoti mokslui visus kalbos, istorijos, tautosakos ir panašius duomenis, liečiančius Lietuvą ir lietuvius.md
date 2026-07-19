@@ -94,7 +94,6 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02078
-
 - id: c-02316
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

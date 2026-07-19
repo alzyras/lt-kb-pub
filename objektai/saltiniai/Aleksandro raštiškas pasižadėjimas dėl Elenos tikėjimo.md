@@ -111,7 +111,6 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186306
-
 - id: c-169668
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

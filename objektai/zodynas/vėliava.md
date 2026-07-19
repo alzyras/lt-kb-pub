@@ -220,7 +220,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   pagrindzia:
     - t-78913
     - t-78917
-
 - id: c-37969
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -242,7 +241,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   pagrindzia:
     - t-78916
     - t-78918
-
 - id: c-44239
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -258,7 +256,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193755
-
 - id: c-44240
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -278,7 +275,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   pagrindzia:
     - t-78914
     - t-78915
-
 - id: c-76016
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

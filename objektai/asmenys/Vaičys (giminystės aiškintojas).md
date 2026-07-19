@@ -101,7 +101,6 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195559
-
 - id: c-177977
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -120,7 +119,6 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195561
-
 - id: c-177978
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

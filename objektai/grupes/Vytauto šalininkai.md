@@ -118,7 +118,6 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86740
-
 - id: c-82719
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,7 +144,6 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86739
-
 - id: c-82720
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -166,6 +164,5 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86741
-
 ## Ryšiai
 - Vytauto šalininkai apgulė [[objektai/vietos/Trakai]]

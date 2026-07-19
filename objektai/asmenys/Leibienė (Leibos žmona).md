@@ -90,7 +90,6 @@ Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo neši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195278
-
 - id: c-177644
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

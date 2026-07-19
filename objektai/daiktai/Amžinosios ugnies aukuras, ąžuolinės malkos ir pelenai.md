@@ -63,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172601
-
+    - c-001
 <a id="claim-t-189719"></a>
 - t-002
   global_id: t-189719
@@ -84,7 +84,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172602
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Amžinosios ugnies aukurą Narbutas vaizduoja stovėjus Perkūno šventykloje Romovėje ir buvus kūrenamą ąžuolinėmis malkomis.'
@@ -102,8 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189718
 - c-002
   santrauka: 'Narbutas rašo, kad žinyčios aukuro pelenams buvo priskiriama gydomoji galia, o žyniai iš jų burdavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -124,8 +123,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189719
 ## Citatos
 
 - id: c-172601
@@ -152,7 +150,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189718
-
 - id: c-172602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

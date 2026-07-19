@@ -230,7 +230,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   sudarymo_pagrindimas: 'Palikta atribucija legendai ir sutrumpintas labai ilgas fragmentas į vieną sakinį. Nepridėtos detalės apie vilkus ar Narbuto racionalizavimą, nes teiginys siejamas su Antakalniu.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]'
   pagrindžia:
-    - c-171553
+    - c-009
 - susijęs iš [[objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md#claim-t-200687|Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)]]: 1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172922|M. Strijkovskis Stryjkowski]]: Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.
@@ -306,8 +306,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-188664
 ## Citatos
 
 - id: c-55434
@@ -327,7 +326,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83143
-
 - id: c-55435
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -347,7 +345,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83144
-
 - id: c-55436
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -378,7 +375,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   pagrindzia:
     - t-83137
     - t-83139
-
 - id: c-55437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -402,7 +398,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   pagrindzia:
     - t-83136
     - t-83138
-
 - id: c-55438
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -423,7 +418,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83141
-
 - id: c-79526
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -445,7 +439,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83142
-
 - id: c-79527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -466,7 +459,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83140
-
 - id: c-171552
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -486,7 +478,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188663
-
 - id: c-184116
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

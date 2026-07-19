@@ -117,6 +117,7 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171426
+    - c-004
 - susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81905|Ignacas Onacevičius]]: Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179070|Kryžiuočių ordinas]]: Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.
 - susijęs iš Ignaco Onacevičiaus laiškas M. Balinskiui: Ignas Onacevičius iš Karaliaučiaus parašė M. Balinskiui laišką apie liūdną istorijos mokslo būklę.
@@ -137,8 +138,7 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188537
 ## Citatos
 
 - id: c-83493
@@ -165,7 +165,6 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87515
-
 - id: c-83494
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -186,7 +185,6 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87514
-
 - id: c-171425
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -208,7 +206,6 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188536
-
 - id: c-171426
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -229,6 +226,5 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188537
-
 ## Ryšiai
 - Ignas Onacevičius keliavo į [[objektai/vietos/Karaliaučius]]

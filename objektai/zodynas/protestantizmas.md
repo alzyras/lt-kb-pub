@@ -108,7 +108,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   patikimumo_saltinis: ai
   pagrindzia:
     - t-168689
-
 - id: c-153485
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -128,7 +127,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   patikimumo_saltinis: ai
   pagrindzia:
     - t-168684
-
 - id: c-175908
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

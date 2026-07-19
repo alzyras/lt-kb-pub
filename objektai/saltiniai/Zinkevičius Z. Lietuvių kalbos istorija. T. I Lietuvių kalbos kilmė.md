@@ -53,7 +53,7 @@ Dusburgietis teigia, kad zinkevičius Z.
   temporalinis_llm_pakomentavimas: "Citata pateikia leidinio tomą, pavadinimą, vietą ir metus."
   pagrindžia:
     - c-62018
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad zinkevičius Z.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61386
 ## Citatos
 
 - id: c-62018

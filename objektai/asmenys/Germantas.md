@@ -242,7 +242,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87426
-
 - id: c-83405
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -277,7 +276,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87427
-
 - id: c-83406
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -304,7 +302,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87425
-
 - id: c-168064
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -326,7 +323,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184703
-
 - id: c-168065
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -356,7 +352,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184704
-
 - id: c-168066
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -384,7 +379,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184705
-
 - id: c-168067
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -409,7 +403,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184706
-
 - id: c-178702
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -431,7 +424,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196459
-
 - id: c-178703
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -457,7 +449,6 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196460
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Giliginas]]
 - Tėvai: [[objektai/asmenys/Šventaragis]]

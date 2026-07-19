@@ -105,7 +105,6 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30309
-
 - id: c-32758
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -127,6 +126,5 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30308
-
 ## Ryšiai
 - Jonas Kalita buvo valdovas [[objektai/vietos/Maskva]]

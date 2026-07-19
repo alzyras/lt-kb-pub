@@ -113,7 +113,6 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45108
-
 - id: c-48013
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

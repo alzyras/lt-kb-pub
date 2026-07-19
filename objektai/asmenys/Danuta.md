@@ -97,7 +97,6 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35046
-
 - id: c-37997
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -122,6 +121,5 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35045
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]

@@ -90,7 +90,6 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58524
-
 - id: c-59156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -58,7 +58,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61521
-
+    - c-002
 <a id="claim-t-60889"></a>
 - t-002
   global_id: t-60889
@@ -78,7 +78,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citatoje nurodyta data bei popiežiumi."
   pagrindžia:
     - c-61525
-
+    - c-006
 <a id="claim-t-60890"></a>
 - t-003
   global_id: t-60890
@@ -115,7 +115,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Ptolomėjaus iš Lukos vaidmenį ir jo „Analų“ pobūdį."
   pagrindžia:
     - c-61523
-
+    - c-004
 <a id="claim-t-60892"></a>
 - t-005
   global_id: t-60892
@@ -175,7 +175,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   temporalinis_llm_pakomentavimas: "Teiginys glaustai ir gramatiškai perteikia citatos informaciją apie gibelinus ir gvelfus."
   pagrindžia:
     - c-61528
-
+    - c-009
 <a id="claim-t-60895"></a>
 - t-008
   global_id: t-60895
@@ -218,8 +218,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60888
 - c-004
   santrauka: 'Ptolomėjus iš Lukos, Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašė „Analus“ apie bažnyčios istoriją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -235,8 +234,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-60891
 - c-006
   santrauka: 'Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -250,8 +248,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60889
 - c-009
   santrauka: '1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -267,8 +264,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-60894
 ## Citatos
 
 - id: c-61520
@@ -291,7 +287,6 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60892
-
 - id: c-61521
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -309,7 +304,6 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60888
-
 - id: c-61522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -332,7 +326,6 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60890
-
 - id: c-61523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -351,7 +344,6 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60891
-
 - id: c-61524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -374,7 +366,6 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60893
-
 - id: c-61525
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -394,7 +385,6 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60889
-
 - id: c-61526
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -412,7 +402,6 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60896
-
 - id: c-61527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -431,7 +420,6 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60895
-
 - id: c-61528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

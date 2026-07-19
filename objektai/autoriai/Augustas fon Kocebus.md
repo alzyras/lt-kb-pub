@@ -122,7 +122,6 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191568
-
 - id: c-175308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

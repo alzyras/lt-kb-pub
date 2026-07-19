@@ -103,7 +103,6 @@ Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams su suteiktais arkipres
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86511
-
 - id: c-82491
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

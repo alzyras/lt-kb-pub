@@ -54,7 +54,7 @@ Dusburgietis teigia, kad kai kurie Dusburgiečio kronikos fragmentai buvo verči
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-61768
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą.'
@@ -71,8 +71,7 @@ Dusburgietis teigia, kad kai kurie Dusburgiečio kronikos fragmentai buvo verči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61136
 ## Citatos
 
 - id: c-61768

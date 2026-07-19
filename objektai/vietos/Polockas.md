@@ -789,7 +789,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182638
-
+    - c-170586
 <a id="claim-t-199725"></a>
 - t-041
   global_id: t-199725
@@ -899,8 +899,7 @@ media_all_json: |-
   susije_objektai: "mentioned_place: Livonija; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Maskva"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-182637
-
+    - c-182642
 <a id="claim-t-199739"></a>
 - t-048
   global_id: t-199739
@@ -943,7 +942,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182622
-
+    - c-32345
 <a id="claim-t-199758"></a>
 - t-050
   global_id: t-199758
@@ -1076,8 +1075,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistas Polocko kontekstas ir įvardyti Tautvila, Treniota bei Polocko bajorai. Motyvas „bijodamas keršto“ paliktas su Narbuto atribucija.'
   pagrindžia:
-    - c-182624
-
+    - c-171693
 <a id="claim-t-197474"></a>
 - t-054
   global_id: t-197474
@@ -1086,7 +1084,7 @@ media_all_json: |-
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-182624
+    - c-035
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186722|Andriaus Algirdaičio maištas prieš Jogailą]]: 1387 m. balandžio pirmojoje pusėje Skirgaila užėmė Polocką, o Andrius Algirdaitis buvo suimtas.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87211|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.
@@ -1460,8 +1458,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055
-
 - c-035
   santrauka: 'Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1484,9 +1480,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-100
-    - t-054
-
+    - t-197474
 ## Citatos
 
 - id: c-32339
@@ -1505,7 +1499,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199739
-
 - id: c-32341
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1524,7 +1517,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199767
-
 - id: c-32343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1543,7 +1535,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199730
-
 - id: c-32344
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1561,7 +1552,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199758
-
 - id: c-43754
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1577,7 +1567,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193779
-
 - id: c-164042
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1601,7 +1590,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180464
-
 - id: c-164044
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1635,7 +1623,6 @@ media_all_json: |-
   pagrindzia:
     - t-180470
     - t-180474
-
 - id: c-164046
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1659,7 +1646,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180440
-
 - id: c-164048
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1682,7 +1668,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180438
-
 - id: c-164049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1702,8 +1687,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180426
-
+    - t-180458
 - id: c-164052
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1726,7 +1710,6 @@ media_all_json: |-
   pagrindzia:
     - t-180436
     - t-180460
-
 - id: c-164053
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1749,7 +1732,6 @@ media_all_json: |-
   pagrindzia:
     - t-180424
     - t-180441
-
 - id: c-164056
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1768,7 +1750,6 @@ media_all_json: |-
   pagrindzia:
     - t-180462
     - t-180472
-
 - id: c-164058
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1798,7 +1779,6 @@ media_all_json: |-
   pagrindzia:
     - t-180476
     - t-180479
-
 - id: c-164060
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1819,7 +1799,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180456
-
 - id: c-164061
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1850,7 +1829,6 @@ media_all_json: |-
   pagrindzia:
     - t-180428
     - t-180481
-
 - id: c-164063
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1871,7 +1849,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180448
-
 - id: c-164064
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1897,7 +1874,6 @@ media_all_json: |-
   pagrindzia:
     - t-180459
     - t-180485
-
 - id: c-164069
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1933,7 +1909,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180450
-
 - id: c-164070
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1952,7 +1927,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180467
-
 - id: c-164071
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1975,7 +1949,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180455
-
 - id: c-164072
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1993,7 +1966,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180443
-
 - id: c-164082
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2017,7 +1989,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180486
-
 - id: c-164091
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2046,7 +2017,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180442
-
 - id: c-164094
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2077,7 +2047,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180434
-
 - id: c-164097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2102,7 +2071,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180475
-
 - id: c-164098
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2138,7 +2106,6 @@ media_all_json: |-
   pagrindzia:
     - t-180425
     - t-180488
-
 - id: c-166466
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2159,7 +2126,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183076
-
 - id: c-168457
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2198,7 +2164,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185096
-
 - id: c-175965
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2218,7 +2183,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193226
-
 - id: c-176852
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2244,7 +2208,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194258
-
 - id: c-178873
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2275,7 +2238,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196730
-
 - id: c-178965
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2298,7 +2260,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196887
-
 - id: c-178966
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2319,7 +2280,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196888
-
 - id: c-182606
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2360,7 +2320,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199735
-
 - id: c-182609
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2379,7 +2338,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199782
-
 - id: c-182610
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2492,8 +2450,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199729
-
+    - t-187641
 - id: c-182616
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2641,7 +2598,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199740
-
 - id: c-182623
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2681,7 +2637,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199771
-
 - id: c-182627
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2761,7 +2716,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188805
-
 - id: c-182630
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2807,7 +2761,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199727
-
 - id: c-182632
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2826,7 +2779,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199785
-
 - id: c-182633
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2919,7 +2871,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199723
-
 - id: c-182640
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2952,7 +2903,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199728
-
 - id: c-182642
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2972,8 +2922,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199738
-
+    - t-180435
 - id: c-182643
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3115,7 +3064,6 @@ media_all_json: |-
   pagrindzia:
     - t-199765
     - t-199774
-
 - id: c-182650
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3135,7 +3083,63 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199725
-
+- id: c-32345
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Iš tikro, Skirgailai bebuvo palik­
+    tas Polockas ir pažadėta Kijevo kunigaikštija.
+    Žadėdamas nesiskirti nuo Lenkijos ir jai teikti pagalbą prieš
+    jos priešus, Vytautas betarpiškai gavo didelę valstybės dalį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199740
+- id: c-170586
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 79."
+  citata_originali: |
+    26. APIE KRYŽIUOČIŲ PAGALBĄ JOGAILAI IR DIDŽIOJO
+    KUNIGAIKŠČIO KĘSTUČIO NUŽUDYMĄ
+    Didysis kunigaikštis Kęstutis, užėmęs Vilnių, pasiun­
+    čia į Polocką du žmones, vieną į kariuomenę o kitą
+    į miestą. Polockiečiai apsidžiaugė ir šauksmu pranešė
+    kariuomenei, kariai atsimetė nuo Skirgailos ir patrau­
+    kė į Vilnių, pas didįjį kunigaikštį Kęstutį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199723
+- id: c-171693
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  citata_originali: |
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188804
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Skirgaila]]
 - Buvo valdoma: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]]

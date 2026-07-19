@@ -86,7 +86,6 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58874
-
 - id: c-59507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

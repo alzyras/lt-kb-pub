@@ -163,7 +163,6 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64753
-
 - id: c-00082
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -180,7 +179,6 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64754
-
 - id: c-00083
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

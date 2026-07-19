@@ -417,7 +417,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   pagrindzia:
     - t-192357
     - t-192371
-
 - id: c-175153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -436,7 +435,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192360
-
 - id: c-175154
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -464,7 +462,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192359
-
 - id: c-175155
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -486,7 +483,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192361
-
 - id: c-175156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -516,7 +512,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192358
-
 - id: c-175163
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -540,7 +535,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192368
-
 - id: c-175164
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -563,7 +557,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192369
-
 - id: c-175165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -590,7 +583,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192370
-
 - id: c-175166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -617,7 +609,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192372
-
 - id: c-175167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -643,7 +634,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   pagrindzia:
     - t-192373
     - t-197493
-
 - id: c-175168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -667,7 +657,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   pagrindzia:
     - t-192374
     - t-197494
-
 ## Ryšiai
 - Budinai gyveno [[objektai/vietos/Araksas]], [[objektai/vietos/Bogončavas]], [[objektai/vietos/Volgos žemupys]], [[objektai/vietos/Volkovysko apskritis]], [[objektai/vietos/Voluika]]
 - Budinai priklausė [[objektai/grupes/Venedai]]

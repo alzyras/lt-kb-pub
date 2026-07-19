@@ -60,4 +60,4 @@ Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187562

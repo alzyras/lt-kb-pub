@@ -126,7 +126,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64801
-
 - id: c-30803
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -153,7 +152,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64800
-
 - id: c-30804
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

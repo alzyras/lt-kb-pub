@@ -111,7 +111,6 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69563
-
 - id: c-68866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -133,6 +132,5 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69564
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Latviai]]

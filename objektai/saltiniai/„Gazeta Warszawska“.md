@@ -51,7 +51,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174748
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Gazeta Warszawska“ 1856–1859 m. paskelbė I–X „Laiškų nuo Kražantės krantų“ ciklo laiškus.'
@@ -73,8 +73,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191866
 ## Citatos
 
 - id: c-174748

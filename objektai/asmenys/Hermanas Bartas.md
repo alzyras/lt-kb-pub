@@ -55,7 +55,7 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   semantiniai_rysiai: "Hermanas Bartas buvo palaidotas Akonas (0.95)"
   pagrindžia:
     - c-60957
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone.'
@@ -76,8 +76,7 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60325
 ## Citatos
 
 - id: c-60957
@@ -102,6 +101,5 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60325
-
 ## Ryšiai
 - Hermanas Bartas buvo palaidotas [[objektai/vietos/Akonas]]

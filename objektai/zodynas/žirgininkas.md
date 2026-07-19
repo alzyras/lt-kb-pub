@@ -59,6 +59,7 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168779
+    - c-001
 - susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
 - susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.
 ## Reikšmingi paminėjimai
@@ -83,8 +84,7 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185418
 ## Citatos
 
 - id: c-168779

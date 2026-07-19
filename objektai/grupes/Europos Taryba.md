@@ -86,6 +86,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19687
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

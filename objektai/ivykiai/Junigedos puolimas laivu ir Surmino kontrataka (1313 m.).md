@@ -69,7 +69,7 @@ Laivas buvo paimtas ir sudegintas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56335
-
+    - c-003
 <a id="claim-t-55708"></a>
 - t-002
   global_id: t-55708
@@ -108,7 +108,7 @@ Laivas buvo paimtas ir sudegintas.
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-56334
-
+    - c-002
 <a id="claim-t-55710"></a>
 - t-004
   global_id: t-55710
@@ -126,7 +126,7 @@ Laivas buvo paimtas ir sudegintas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56335
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -142,8 +142,7 @@ Laivas buvo paimtas ir sudegintas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-55709
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -161,9 +160,8 @@ Laivas buvo paimtas ir sudegintas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-001
-
+    - t-55707
+    - t-55710
 ## Citatos
 
 - id: c-56333
@@ -182,7 +180,6 @@ Laivas buvo paimtas ir sudegintas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55708
-
 - id: c-56334
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -202,7 +199,6 @@ Laivas buvo paimtas ir sudegintas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55709
-
 - id: c-56335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

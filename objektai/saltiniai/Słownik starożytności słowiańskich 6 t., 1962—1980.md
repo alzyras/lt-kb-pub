@@ -57,7 +57,7 @@ Dusburgietis teigia, kad słownik starożytności słowiańskich: 6 t., 1962—1
   temporalinis_llm_pakomentavimas: "Citata patvirtina leidinio apimtį, metus ir leidimo vietas."
   pagrindžia:
     - c-61939
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Słownik starożytności słowiańskich“ sudaro šeši tomai, leisti 1962–1980 m. Vroclave, Varšuvoje ir Krokuvoje.'
@@ -72,8 +72,7 @@ Dusburgietis teigia, kad słownik starożytności słowiańskich: 6 t., 1962—1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61307
 ## Citatos
 
 - id: c-61939

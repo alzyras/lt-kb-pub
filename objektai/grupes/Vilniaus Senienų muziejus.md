@@ -147,7 +147,6 @@ Mokslinė ir kultūros institucija.
   pagrindzia:
     - t-55074
     - t-55075
-
 - id: c-78306
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

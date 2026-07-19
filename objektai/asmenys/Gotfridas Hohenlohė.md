@@ -152,7 +152,6 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60021
-
 - id: c-60652
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -175,7 +174,6 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   pagrindzia:
     - t-60019
     - t-194484
-
 - id: c-60653
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -202,7 +200,6 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60020
-
 - id: c-179024
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -225,7 +222,6 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197084
-
 ## Ryšiai
 - Gotfridas Hohenlohė keliavo į [[objektai/vietos/Prūsija]]
 - Gotfridas Hohenlohė siuntė į [[objektai/vietos/Livonija]]

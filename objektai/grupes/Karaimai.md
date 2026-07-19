@@ -130,7 +130,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22441
-
+    - c-166524
 <a id="claim-t-120189"></a>
 - t-006
   global_id: t-120189
@@ -216,7 +216,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120188
-
 - id: c-22442
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -238,7 +237,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120189
-
 - id: c-22443
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -259,7 +257,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120187
-
 - id: c-31094
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -275,7 +272,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120190
-
 - id: c-110243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -306,7 +302,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120184
-
 - id: c-110245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -342,7 +337,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   pagrindzia:
     - t-120185
     - t-120186
-
 - id: c-166524
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

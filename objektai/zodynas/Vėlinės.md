@@ -42,7 +42,7 @@ Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visie
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177184
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visiems savo mirusiesiems pagerbti.'
@@ -62,8 +62,7 @@ Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194788
 ## Citatos
 
 - id: c-177184

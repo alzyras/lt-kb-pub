@@ -91,7 +91,6 @@ media_all_json: |-
   pagrindzia:
     - t-194100
     - t-196867
-
 - id: c-176714
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

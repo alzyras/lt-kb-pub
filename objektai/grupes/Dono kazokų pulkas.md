@@ -56,7 +56,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   temporalinis_llm_pakomentavimas: "Citata pagrindžia Dono kazokų pulko buvimą Vilniaus rusų įguloje."
   pagrindžia:
     - c-75471
-
+    - c-75472
 ## Citatos
 
 - id: c-75471
@@ -84,7 +84,6 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78166
-
 - id: c-75472
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -57,8 +57,6 @@ Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusiga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 - susijęs iš Memelio apylinkės: Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavimo, kuriame šiuo vardu dievinta išmintis.

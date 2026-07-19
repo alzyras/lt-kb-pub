@@ -68,7 +68,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174968
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.'
@@ -93,8 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192101
 ## Citatos
 
 - id: c-174968

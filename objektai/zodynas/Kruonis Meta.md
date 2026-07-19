@@ -49,7 +49,7 @@ Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kurš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172117
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kuršių garbintą laiko ar laiko tarpsnių deivę.'
@@ -69,8 +69,7 @@ Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kurš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189229
 ## Citatos
 
 - id: c-172117

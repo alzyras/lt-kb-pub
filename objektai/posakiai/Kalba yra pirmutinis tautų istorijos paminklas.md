@@ -88,7 +88,6 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189584
-
 - id: c-179160
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

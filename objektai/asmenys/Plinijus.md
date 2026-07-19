@@ -113,7 +113,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173835
-
+    - c-005
 <a id="claim-t-190954"></a>
 - t-004
   global_id: t-190954
@@ -176,7 +176,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173839
-
+    - c-008
 <a id="claim-t-190958"></a>
 - t-009
   global_id: t-190958
@@ -197,7 +197,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173840
-
+    - c-009
 <a id="claim-t-190959"></a>
 - t-010
   global_id: t-190959
@@ -218,7 +218,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173841
-
+    - c-010
 <a id="claim-t-191968"></a>
 - t-011
   global_id: t-191968
@@ -283,8 +283,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190953
 - c-008
   santrauka: 'Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -302,8 +301,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-190957
 - c-009
   santrauka: 'Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -330,8 +328,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-190958
 - c-010
   santrauka: 'Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -354,8 +351,7 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-190959
 - c-011
   santrauka: 'Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -377,9 +373,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-    - t-012
-
 ## Citatos
 
 - id: c-173083
@@ -403,7 +396,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190200
-
 - id: c-173833
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -425,7 +417,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190951
-
 - id: c-173834
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -446,7 +437,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190952
-
 - id: c-173835
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -472,7 +462,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190953
-
 - id: c-173836
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -496,7 +485,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190954
-
 - id: c-173837
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -521,7 +509,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190955
-
 - id: c-173839
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -544,7 +531,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190957
-
 - id: c-173840
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -577,7 +563,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190958
-
 - id: c-173841
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -609,7 +594,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190959
-
 - id: c-174850
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -637,7 +621,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
   pagrindzia:
     - t-191968
     - t-197799
-
 - id: c-179345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

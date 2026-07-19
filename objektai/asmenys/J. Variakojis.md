@@ -131,7 +131,6 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40169
-
 - id: c-44365
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -150,7 +149,6 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40168
-
 - id: c-44366
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -168,7 +166,6 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40166
-
 - id: c-44367
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -195,6 +192,5 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40167
-
 ## Ryšiai
 - J. Variakojis keliavo į [[objektai/vietos/Kėdainiai]]

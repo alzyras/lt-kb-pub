@@ -59,6 +59,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170990
+    - c-001
 - susijęs iš [[objektai/zodynas/Kriukis Jagaubis.md#claim-t-189227|Kriukis Jagaubis]]: Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir jo vardą kildina iš „kriugos“ – kriukio, kablio.
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,8 +80,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187983
 ## Citatos
 
 - id: c-170990

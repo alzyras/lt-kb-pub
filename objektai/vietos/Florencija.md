@@ -120,7 +120,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175430
-
+    - c-003
 <a id="claim-t-197877"></a>
 - t-005
   global_id: t-197877
@@ -180,8 +180,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192660
 ## Citatos
 
 - id: c-79693
@@ -224,7 +223,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   pagrindzia:
     - t-83346
     - t-83347
-
 - id: c-79695
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -244,7 +242,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83348
-
 - id: c-175430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

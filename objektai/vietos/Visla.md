@@ -137,7 +137,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36682
-
 - id: c-167694
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -156,7 +155,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184323
-
 - id: c-170621
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

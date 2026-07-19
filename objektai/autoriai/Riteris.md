@@ -63,7 +63,7 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173672
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Riteris Narbuto nurodomas kaip autorius, kurio dėstymu ir paaiškinimais remtasi aiškinant Herodoto ketvirtąją knygą.'
@@ -77,8 +77,7 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190790
 ## Citatos
 
 - id: c-173286
@@ -103,7 +102,6 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190403
-
 - id: c-173672
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

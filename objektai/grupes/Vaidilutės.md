@@ -51,7 +51,7 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-177003
+    - c-002
 - susijęs iš [[objektai/paprociai/Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė.md#claim-t-189969|Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė]]: Narbutas rašo, kad žyniai ir vaidilutės privalėjo likti viengungiai, laikytis nepriekaištingos skaistybės ir už nusižengimą būdavo sudeginami.
 - susijęs iš Stenderio „Lettische Grammatik“: Narbutas Vaidilutes apibūdino kaip žynes, davusias amžinos skaistybės įžadus ir už jų sulaužymą baustas žiauriausia mirtimi.
 - susijęs iš [[objektai/zodynas/Vaidilutės Wejdalotki.md#claim-t-189340|Vaidilutės Wejdalotki]]: Narbutas darė išvadą, kad vaidilutės buvo jaunos merginos, pareigas ėjusios iki nustatytų metų ir vėliau galėjusios ištekėti.
@@ -84,8 +84,7 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194604
 ## Citatos
 
 - id: c-172331

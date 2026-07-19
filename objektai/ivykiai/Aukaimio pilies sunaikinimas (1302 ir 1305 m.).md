@@ -90,7 +90,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako įvykį, datas ir rezultatą pagal citatą."
   pagrindžia:
     - c-31312
-
+    - c-167707
 ## Citatos
 
 - id: c-31312
@@ -111,7 +111,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31407
-
 - id: c-33385
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -133,7 +132,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31406
-
 - id: c-167707
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -94,7 +94,6 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64039
-
 - id: c-176300
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

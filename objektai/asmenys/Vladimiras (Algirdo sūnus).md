@@ -72,6 +72,5 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35316
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

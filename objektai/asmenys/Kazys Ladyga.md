@@ -92,6 +92,5 @@ Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40281
-
 ## Ryšiai
 - Kazys Ladyga keliavo į [[objektai/vietos/Lietuva]]

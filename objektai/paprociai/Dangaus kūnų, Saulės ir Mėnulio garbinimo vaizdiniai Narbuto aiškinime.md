@@ -102,8 +102,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys suformuluotas kaip Narbuto religinės kilmės interpretacija. Pašalintas OCR triukšmas, nepridėta nieko už citatos ribų.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Zoroastras|Zoroastras]]; mentioned_group: [[objektai/grupes/Persai|Persai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]'
   pagrindžia:
-    - c-172699
-
+    - c-001
 <a id="claim-t-189817"></a>
 - t-002
   global_id: t-189817
@@ -113,8 +112,7 @@ Nenurodyta
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Mitologinis pasakojimas paliktas su Narbuto atribucija. Išskleistas subjektas Saulė ir Mėnulis, o platesnių aiškinimų nepridėta.'
   pagrindžia:
-    - c-172700
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto aiškinime seniausioji lietuvių religija buvo azijinė ir indiška, joje pagal budistų ir zoroastriečių taisykles garbinti dangaus kūnai ir elementai.'
@@ -143,8 +141,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189816
 - c-002
   santrauka: 'Narbuto perteikiamame vaizdinyje Saulė laikyta deive, Mėnulio žmona, o jų vaikai buvo žvaigždės - Saulės dukterys ir sūnūs.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -165,8 +162,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189817
 ## Citatos
 
 - id: c-172701
@@ -193,7 +189,6 @@ Nenurodyta
   pagrindzia:
     - t-189818
     - t-197254
-
 - id: c-172702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

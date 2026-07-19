@@ -94,7 +94,6 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97248
-
 - id: c-91732
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

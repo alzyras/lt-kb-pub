@@ -193,8 +193,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-85024
-
+    - t-85027
 - id: c-81104
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -217,7 +216,6 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   pagrindzia:
     - t-85023
     - t-85026
-
 - id: c-81105
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -234,7 +232,6 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85025
-
 - id: c-81106
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -260,7 +257,6 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85028
-
 - id: c-171735
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -286,6 +282,5 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188846
-
 ## Ryšiai
 - Užėmė Užupį: [[objektai/grupes/Rusai]]

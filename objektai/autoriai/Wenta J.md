@@ -56,7 +56,7 @@ Dusburgietis teigia, kad wenta J.
   temporalinis_llm_pakomentavimas: "Citata pateikia J. Wentos straipsnio pavadinimą ir publikavimo metus."
   pagrindžia:
     - c-61483
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Wenta 1980 m. paskelbė straipsnį apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad wenta J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60851
 ## Citatos
 
 - id: c-61483

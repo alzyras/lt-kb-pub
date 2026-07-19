@@ -78,7 +78,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-164255
-
+    - c-164210
 <a id="claim-t-180586"></a>
 - t-003
   global_id: t-180586
@@ -401,7 +401,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir paremtas citata."
   pagrindžia:
     - c-164238
-
+    - c-164185
 <a id="claim-t-180618"></a>
 - t-020
   global_id: t-180618
@@ -1286,7 +1286,8 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182805
-
+    - c-182840
+    - c-164186
 <a id="claim-t-199913"></a>
 - t-070
   global_id: t-199913
@@ -1480,7 +1481,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-182808
-
+    - c-055
 <a id="claim-t-199947"></a>
 - t-083
   global_id: t-199947
@@ -1502,8 +1503,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie Trakus.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lietuva'
   pagrindžia:
-    - c-182865
-
+    - c-044
 <a id="claim-t-180673"></a>
 - t-060
   global_id: t-180673
@@ -1511,7 +1511,7 @@ media_all_json: |-
   susije_objektai: 'llm_object: Trakai; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gyveno Trakai'
   pagrindžia:
-    - c-182839
+    - c-037
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87209|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87210|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
@@ -2266,8 +2266,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-060
-
+    - t-180673
 - c-044
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2287,8 +2286,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-128
-
+    - t-180647
 - c-055
   santrauka: 'Vytauto pasakojime senelis Kęstučiui skyrė valdžią Trakuose, Algirdui – Vitebske, o Jaunučiui – Vilniuje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2317,8 +2315,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-071
-
+    - t-199946
 ## Citatos
 
 - id: c-25149
@@ -2342,7 +2339,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180657
-
 - id: c-32467
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2359,7 +2355,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199934
-
 - id: c-32468
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2376,7 +2371,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199916
-
 - id: c-32471
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2392,7 +2386,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199940
-
 - id: c-32475
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2408,7 +2401,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199880
-
 - id: c-37760
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2427,7 +2419,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180631
-
 - id: c-164185
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2464,8 +2455,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180615
-
+    - t-180646
 - id: c-164187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2490,7 +2480,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180609
-
 - id: c-164188
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2515,7 +2504,6 @@ media_all_json: |-
   pagrindzia:
     - t-180628
     - t-180643
-
 - id: c-164189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2546,7 +2534,6 @@ media_all_json: |-
   pagrindzia:
     - t-180603
     - t-180622
-
 - id: c-164190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2587,7 +2574,6 @@ media_all_json: |-
   pagrindzia:
     - t-180589
     - t-180608
-
 - id: c-164193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2633,7 +2619,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180637
-
 - id: c-164196
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2653,7 +2638,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180587
-
 - id: c-164197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2693,7 +2677,6 @@ media_all_json: |-
   pagrindzia:
     - t-180653
     - t-180669
-
 - id: c-164198
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2737,7 +2720,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180656
-
 - id: c-164200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2767,7 +2749,6 @@ media_all_json: |-
   pagrindzia:
     - t-180605
     - t-180629
-
 - id: c-164201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2798,7 +2779,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180660
-
 - id: c-164203
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2817,7 +2797,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180642
-
 - id: c-164204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2842,7 +2821,6 @@ media_all_json: |-
   pagrindzia:
     - t-180592
     - t-180621
-
 - id: c-164207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2866,7 +2844,6 @@ media_all_json: |-
   pagrindzia:
     - t-180614
     - t-180618
-
 - id: c-164208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2905,7 +2882,6 @@ media_all_json: |-
   pagrindzia:
     - t-180593
     - t-180610
-
 - id: c-164210
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2928,8 +2904,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180584
-
+    - t-180650
 - id: c-164214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2957,7 +2932,6 @@ media_all_json: |-
   pagrindzia:
     - t-180652
     - t-180674
-
 - id: c-164215
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2981,7 +2955,6 @@ media_all_json: |-
   pagrindzia:
     - t-180648
     - t-180664
-
 - id: c-164219
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3001,7 +2974,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180630
-
 - id: c-164222
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3019,7 +2991,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180624
-
 - id: c-164228
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3044,7 +3015,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180623
-
 - id: c-164230
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3068,7 +3038,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180607
-
 - id: c-164232
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3094,7 +3063,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180639
-
 - id: c-164233
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3118,7 +3086,6 @@ media_all_json: |-
   pagrindzia:
     - t-180590
     - t-180665
-
 - id: c-164238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3167,7 +3134,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180670
-
 - id: c-164246
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3190,7 +3156,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180586
-
 - id: c-164247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3210,7 +3175,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180601
-
 - id: c-164249
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3229,7 +3193,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180602
-
 - id: c-164251
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3283,7 +3246,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180591
-
 - id: c-164255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3326,7 +3288,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180634
-
 - id: c-164257
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3353,7 +3314,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180619
-
 - id: c-164259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3378,7 +3338,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180633
-
 - id: c-164261
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3399,7 +3358,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180661
-
 - id: c-168520
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3436,7 +3394,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185159
-
 - id: c-168521
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3463,7 +3420,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185160
-
 - id: c-168522
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3500,7 +3456,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185161
-
 - id: c-168524
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3545,7 +3500,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185163
-
 - id: c-170605
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3568,7 +3522,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187663
-
 - id: c-176320
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3589,7 +3542,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193651
-
 - id: c-176321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3608,7 +3560,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193652
-
 - id: c-182804
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3657,7 +3608,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199933
-
 - id: c-182808
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3685,7 +3635,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199946
-
 - id: c-182809
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3709,7 +3658,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199913
-
 - id: c-182810
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3729,7 +3677,6 @@ media_all_json: |-
     - t-199905
     - t-199927
     - t-199947
-
 - id: c-182811
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3790,7 +3737,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199862
-
 - id: c-182814
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3823,7 +3769,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199939
-
 - id: c-182815
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3909,7 +3854,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199896
-
 - id: c-182820
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3937,7 +3881,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199925
-
 - id: c-182821
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3958,7 +3901,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199922
-
 - id: c-182822
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4070,7 +4012,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199930
-
 - id: c-182826
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -4230,7 +4171,6 @@ media_all_json: |-
   pagrindzia:
     - t-199861
     - t-199878
-
 - id: c-182835
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4267,8 +4207,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199890
-
+    - t-199948
 - id: c-182837
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -4285,8 +4224,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-10580
-
 - id: c-182838
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -4328,8 +4265,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199906
-
+    - t-199907
 - id: c-182841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4416,7 +4352,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199871
-
 - id: c-182845
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4534,7 +4469,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199904
-
 - id: c-182852
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4643,7 +4577,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199879
-
 - id: c-182857
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4759,7 +4692,6 @@ media_all_json: |-
   pagrindzia:
     - t-199893
     - t-199920
-
 - id: c-182863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4788,7 +4720,6 @@ media_all_json: |-
   pagrindzia:
     - t-199887
     - t-199918
-
 - id: c-182864
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4871,7 +4802,25 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+- id: c-164186
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Nuo 1397 pamečiui
+    šis atliko į totorius tris žygius. Atrodo, pritariant Jogailai, kuris
+    iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
+    suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
+    totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
+    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
+    Vytautas įkurdino Trakų kunigaikštijoje.
+  citata_rodoma: "Atsigabenęs iš žygio daug\ntotorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos\nVytautas įkurdino Trakų kunigaikštijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199907
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]
 - Buvo kelionės vieta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]], [[objektai/asmenys/Vasilijus Vasiljevičius]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

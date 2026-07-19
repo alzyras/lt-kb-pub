@@ -54,7 +54,7 @@ Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60985
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, o per tą patį įvykį nukentėjo ir popiežius.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60353
 ## Citatos
 
 - id: c-60985

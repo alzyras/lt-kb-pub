@@ -57,6 +57,7 @@ A. Venclova šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   temporalinis_llm_pakomentavimas: "Citata pakankamai pagrindžia redakcinės komisijos narystę."
   pagrindžia:
     - c-169787
+    - c-001
 - susijęs iš [[objektai/autoriai/K. Ambrasas.md#claim-t-186434|K. Ambrasas]]: K. Ambrasas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
 - susijęs iš [[objektai/autoriai/J. Pauonis.md#claim-t-186435|J. Pauonis]]: J. Pauonis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
 - susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186444|Juozas Jurginis]]: Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
@@ -81,8 +82,7 @@ A. Venclova šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186436
 ## Citatos
 
 - id: c-169787

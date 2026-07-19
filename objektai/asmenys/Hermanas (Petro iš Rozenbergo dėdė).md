@@ -57,7 +57,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir remiasi citatoje pateikta informacija."
   pagrindžia:
     - c-60955
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.'
@@ -75,8 +75,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60323
 ## Citatos
 
 - id: c-60955

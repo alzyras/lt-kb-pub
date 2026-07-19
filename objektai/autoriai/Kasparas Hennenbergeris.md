@@ -131,7 +131,6 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190305
-
 - id: c-173189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -150,7 +149,6 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190306
-
 - id: c-179121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -174,7 +172,6 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197309
-
 - id: c-179122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

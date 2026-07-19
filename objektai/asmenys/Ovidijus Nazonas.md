@@ -92,7 +92,7 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174052
-
+    - c-003
 <a id="claim-t-197789"></a>
 - t-004
   global_id: t-197789
@@ -146,9 +146,6 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-005
-
 - c-003
   santrauka: 'Narbutas Ovidijų Nazoną priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -175,8 +172,7 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191170
 ## Citatos
 
 - id: c-174050
@@ -200,7 +196,6 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191168
-
 - id: c-174051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -226,7 +221,6 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
   pagrindzia:
     - t-191169
     - t-197790
-
 - id: c-174052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -257,7 +251,6 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191170
-
 - id: c-179340
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

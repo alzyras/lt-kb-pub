@@ -49,7 +49,7 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172146
-
+    - c-001
 <a id="claim-t-189259"></a>
 - t-002
   global_id: t-189259
@@ -88,8 +88,7 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189258
 ## Citatos
 
 - id: c-172146
@@ -114,7 +113,6 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189258
-
 - id: c-172147
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

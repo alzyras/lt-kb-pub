@@ -97,7 +97,6 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21106
-
 - id: c-166755
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

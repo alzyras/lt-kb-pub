@@ -762,7 +762,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindzia:
     - t-55077
     - t-55078
-
 - id: c-55893
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -787,7 +786,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55079
-
 - id: c-55894
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -810,7 +808,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindzia:
     - t-55080
     - t-55081
-
 - id: c-55895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -833,7 +830,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55082
-
 - id: c-55896
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -863,7 +859,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-55083
     - t-172847
     - t-194176
-
 - id: c-55897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -889,7 +884,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55084
-
 - id: c-55898
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -913,7 +907,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55085
-
 - id: c-55900
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -934,7 +927,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindzia:
     - t-55087
     - t-55088
-
 - id: c-55901
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -969,7 +961,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-55089
     - t-55090
     - t-172831
-
 - id: c-157189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -990,7 +981,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172839
-
 - id: c-157190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1014,7 +1004,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172833
-
 - id: c-157191
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1051,7 +1040,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172842
-
 - id: c-157192
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1079,7 +1067,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172835
-
 - id: c-157193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1107,7 +1094,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172834
-
 - id: c-157194
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1126,7 +1112,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172837
-
 - id: c-157195
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1151,7 +1136,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172844
-
 - id: c-157197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1175,7 +1159,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172841
-
 - id: c-157200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1208,7 +1191,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172827
-
 - id: c-157201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1233,7 +1215,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172824
-
 - id: c-157202
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1261,7 +1242,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172826
-
 - id: c-157204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1297,7 +1277,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172830
-
 - id: c-157206
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1329,7 +1308,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172832
-
 - id: c-157207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1359,7 +1337,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172836
-
 - id: c-157208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1385,7 +1362,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindzia:
     - t-55086
     - t-172825
-
 - id: c-157209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1407,7 +1383,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172840
-
 - id: c-157211
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1434,7 +1409,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172845
-
 - id: c-157212
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1463,7 +1437,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172828
-
 - id: c-157214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1493,7 +1466,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172846
-
 ## Ryšiai
 - Vilniaus miestiečių luomas prekiavo su [[objektai/vietos/Lietuva]]
 - Vilniaus miestiečių luomas rėmė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

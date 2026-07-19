@@ -111,7 +111,6 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55009
-
 - id: c-78452
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -139,7 +138,6 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81928
-
 - id: c-173632
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

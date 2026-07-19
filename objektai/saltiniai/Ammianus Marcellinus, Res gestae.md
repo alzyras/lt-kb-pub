@@ -48,7 +48,7 @@ Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristau
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175331
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristaus gimimą gyveno Galijoje ir skyrėsi kilme.'
@@ -64,8 +64,7 @@ Narbutas Ammianu Marcellinu rėmė nuomonę, kad Lety, arba Lity, prieš Kristau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192543
 ## Citatos
 
 - id: c-175331

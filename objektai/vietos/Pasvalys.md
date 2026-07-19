@@ -56,6 +56,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   semantiniai_rysiai: "Zigmantas Augustas keliavo į Pasvalys (0.88)"
   pagrindžia:
     - c-156401
+    - c-166461
 - susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78161|Algimanto apygarda]]: Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.
 ## Reikšmingi paminėjimai
 - c-003
@@ -86,8 +87,6 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-156401
@@ -109,7 +108,6 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171948
-
 - id: c-166461
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

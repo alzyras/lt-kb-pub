@@ -73,7 +73,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159444
-
+    - c-167535
 <a id="claim-t-175287"></a>
 - t-003
   global_id: t-175287
@@ -392,7 +392,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175290
-
 - id: c-159436
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -411,7 +410,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175289
-
 - id: c-159438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -431,7 +429,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175293
-
 - id: c-159439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -458,7 +455,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175288
-
 - id: c-159440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -479,7 +475,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175287
-
 - id: c-159441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -500,7 +495,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175292
-
 - id: c-159442
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -518,7 +512,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175285
-
 - id: c-159443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -535,7 +528,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175294
-
 - id: c-159444
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -555,7 +547,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175286
-
 - id: c-167535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -607,7 +598,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   pagrindzia:
     - t-184941
     - t-196678
-
 - id: c-178836
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -642,7 +632,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196679
-
 ## Ryšiai
 - Puolė Dobrynę: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Dobrynę: [[objektai/grupes/Kryžiuočių ordinas]]

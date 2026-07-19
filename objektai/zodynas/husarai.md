@@ -154,7 +154,6 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49271
-
 - id: c-44173
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -176,7 +175,6 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   pagrindzia:
     - t-49270
     - t-49273
-
 - id: c-51275
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -225,7 +223,6 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49272
-
 - id: c-51276
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

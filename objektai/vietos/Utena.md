@@ -102,6 +102,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) apgulė Utena (0.96)"
   pagrindžia:
     - c-168530
+    - c-003
 - susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40248|K. Ladyga]]: K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.
 - susijęs iš Tauragnai: Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną.
@@ -178,8 +179,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-185169
 ## Citatos
 
 - id: c-43946
@@ -203,7 +203,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172016
-
 - id: c-156448
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -230,7 +229,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172018
-
 - id: c-168530
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -258,7 +256,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185169
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/K. Ladyga]]
 - Gimimo vieta: [[objektai/asmenys/Bernard Lown]]

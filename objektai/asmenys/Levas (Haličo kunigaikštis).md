@@ -75,6 +75,5 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40306
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Totoriai]]

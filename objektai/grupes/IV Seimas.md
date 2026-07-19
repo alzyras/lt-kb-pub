@@ -103,7 +103,6 @@ Dėl to atgaivinta Seimo institucija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19711
-
 - id: c-166518
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

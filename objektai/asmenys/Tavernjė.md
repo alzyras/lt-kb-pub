@@ -56,7 +56,7 @@ Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado t
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173097
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado tam tikrą Motinos žemės kulto panašybę.'
@@ -74,8 +74,7 @@ Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190214
 ## Citatos
 
 - id: c-173097

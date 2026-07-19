@@ -105,7 +105,6 @@ Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186042
-
 - id: c-178709
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

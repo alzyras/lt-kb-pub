@@ -47,7 +47,7 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170296
-
+    - c-001
 <a id="claim-t-187229"></a>
 - t-002
   global_id: t-187229
@@ -66,6 +66,7 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170296
+    - c-001
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187489|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187746|Totoriai]]: Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
@@ -91,9 +92,8 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-187228
+    - t-187229
 - c-002
   santrauka: 'Lietuvos metraštyje pasakojama, kad Skirmantas, surinkęs visas savo kariaunas, pasitiko totorius Kaidanove prie savo sienos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -118,8 +118,6 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-170296

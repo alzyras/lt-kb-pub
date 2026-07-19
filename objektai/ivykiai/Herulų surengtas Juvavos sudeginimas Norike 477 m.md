@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173944
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '477 m. herulai, Narbuto pasakojimu, Norike sudegino romėnų koloniją Juvavą prie Saurus upės, dabartinio Zalcburgo vietoje.'
@@ -84,8 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191062
 ## Citatos
 
 - id: c-173944

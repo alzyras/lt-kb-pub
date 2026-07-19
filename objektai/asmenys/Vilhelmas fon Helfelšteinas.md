@@ -76,6 +76,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80724
-
 ## Ryšiai
 - Vilhelmas fon Helfelšteinas surengė žygį į [[objektai/vietos/Vilnius]]

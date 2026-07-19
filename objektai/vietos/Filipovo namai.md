@@ -124,7 +124,6 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86016
-
 - id: c-81996
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -150,7 +149,6 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86017
-
 - id: c-81997
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

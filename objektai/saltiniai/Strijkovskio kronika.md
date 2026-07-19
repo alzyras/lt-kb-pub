@@ -48,7 +48,7 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174697
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta apie išsklaidytų jotvingių likučius.'
@@ -72,8 +72,7 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191815
 ## Citatos
 
 - id: c-174697

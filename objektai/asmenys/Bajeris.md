@@ -59,7 +59,7 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
   vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
   pagrindžia:
     - c-174079
-
+    - c-001
 <a id="claim-t-197715"></a>
 - t-002
   global_id: t-197715
@@ -103,8 +103,7 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191197
 ## Citatos
 
 - id: c-174079
@@ -128,7 +127,6 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191197
-
 - id: c-179302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -152,7 +150,6 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197715
-
 - id: c-179303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

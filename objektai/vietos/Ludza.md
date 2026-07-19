@@ -48,7 +48,7 @@ Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168653
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis.'
@@ -82,8 +82,7 @@ Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185292
 ## Citatos
 
 - id: c-168653

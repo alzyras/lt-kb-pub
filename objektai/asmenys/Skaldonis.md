@@ -82,6 +82,5 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60434
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Surminas]]

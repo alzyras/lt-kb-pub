@@ -81,7 +81,6 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67485
-
 - id: c-67370
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -98,7 +97,6 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67483
-
 - id: c-67372
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -79,7 +79,6 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01323
-
 - id: c-175854
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

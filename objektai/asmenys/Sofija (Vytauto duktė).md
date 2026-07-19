@@ -146,6 +146,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168191
+    - c-006
 - susijęs iš Pskovas: Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.
 ## Reikšmingi paminėjimai
 - c-006
@@ -178,8 +179,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-184830
 ## Citatos
 
 - id: c-15324
@@ -199,7 +199,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176612
-
 - id: c-160600
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -220,7 +219,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176613
-
 - id: c-160602
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -243,7 +241,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176611
-
 - id: c-160603
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -268,7 +265,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176614
-
 - id: c-160604
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -290,7 +286,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176616
-
 - id: c-168191
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -333,6 +328,5 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184830
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -40,7 +40,7 @@ Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pata
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175012
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Posakis „Wolnošč bez grožy, to bezrząd, Groza bez wolnošči, to niewola. Moję przyslowko“ pateiktas kaip epigrafas, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą.'
@@ -59,8 +59,7 @@ Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pata
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192126
 ## Citatos
 
 - id: c-175012

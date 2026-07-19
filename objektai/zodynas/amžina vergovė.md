@@ -89,7 +89,6 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58889
-
 - id: c-167383
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

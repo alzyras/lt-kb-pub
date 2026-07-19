@@ -79,7 +79,6 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86147
-
 ## Ryšiai
 - Puolė Klaipėda Memelį: [[objektai/grupes/Žemaičiai]]
 - Užėmė Klaipėda Memelį: [[objektai/grupes/Žemaičiai]]

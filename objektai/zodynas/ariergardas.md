@@ -190,7 +190,6 @@ media_all_json: |-
   pagrindzia:
     - t-185352
     - t-196364
-
 - id: c-168714
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -229,7 +228,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185353
-
 - id: c-168715
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -258,7 +256,6 @@ media_all_json: |-
   pagrindzia:
     - t-185354
     - t-196365
-
 - id: c-168716
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

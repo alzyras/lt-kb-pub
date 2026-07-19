@@ -57,7 +57,7 @@ Apsauginė maldelė Gabijai / jaujos ugniai, prašanti šilumos ir saugumo nuo k
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172447
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas maldelę „Gabija, dievaite, pakelk garą, neleisk kibirkščių!“ aiškina kaip ugnies užkeikimą jaujoje nuo gaisro.'
@@ -76,8 +76,7 @@ Apsauginė maldelė Gabijai / jaujos ugniai, prašanti šilumos ir saugumo nuo k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189559
 ## Citatos
 
 - id: c-172447

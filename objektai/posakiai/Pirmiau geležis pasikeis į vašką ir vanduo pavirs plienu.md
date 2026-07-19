@@ -134,7 +134,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   pagrindzia:
     - t-55190
     - t-55191
-
 - id: c-78634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -146,7 +146,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų žygio rezultatą."
   pagrindžia:
     - c-60518
-
+    - c-004
 <a id="claim-t-197127"></a>
 - t-008
   global_id: t-197127
@@ -201,8 +201,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-59887
 - c-005
   santrauka: 'Liudvikas iš Libencelės buvo kilmingas ir nuo jaunų dienų įgudęs kariauti, o paimtą į nelaisvę jį atidavė Skomantui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -219,9 +218,6 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-008
-
 ## Citatos
 
 - id: c-60514
@@ -242,7 +238,6 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59882
-
 - id: c-60516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -263,7 +258,6 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59884
-
 - id: c-60517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -283,7 +277,6 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59885
-
 - id: c-60518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -309,7 +302,6 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59887
-
 - id: c-60519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -332,7 +324,6 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   pagrindzia:
     - t-59883
     - t-197127
-
 - id: c-167495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -354,6 +345,5 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59886
-
 ## Ryšiai
 - Liudvikas iš Libencelės puolė [[objektai/grupes/Lietuviai]]

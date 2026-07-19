@@ -77,6 +77,5 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58767
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

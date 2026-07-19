@@ -49,7 +49,7 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172243
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijos įvykius ir lygintus su trubadūrais, skaldais ar bardais.'
@@ -69,8 +69,7 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189356
 ## Citatos
 
 - id: c-172243

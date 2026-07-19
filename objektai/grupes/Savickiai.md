@@ -80,6 +80,5 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86823
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Namas]]

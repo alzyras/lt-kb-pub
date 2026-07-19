@@ -82,7 +82,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171719
-
+    - c-002
 <a id="claim-t-192752"></a>
 - t-003
   global_id: t-192752
@@ -127,7 +127,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175523
-
+    - c-004
 <a id="claim-t-194752"></a>
 - t-005
   global_id: t-194752
@@ -222,8 +222,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188830
 - c-004
   santrauka: 'Narbutas teigė, kad senovės žemėlapiuose Sambija, ypač jos jūros pakrantės, atrodė kitaip dėl jūros ir Aistmarių bangų pokyčių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -245,8 +244,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192753
 ## Citatos
 
 - id: c-38637
@@ -269,7 +267,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36567
-
 - id: c-171719
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -298,7 +295,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188830
-
 - id: c-175522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -318,7 +314,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192752
-
 - id: c-175523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -344,7 +339,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192753
-
 - id: c-177148
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -369,7 +363,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194752
-
 - id: c-177333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -392,7 +385,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194937
-
 - id: c-179399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -415,7 +407,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197922
-
 - id: c-179400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -438,7 +429,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197923
-
 - id: c-179401
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -462,7 +452,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197924
-
 - id: c-184455
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -484,7 +473,6 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201105
-
 ## Ryšiai
 - Puolė Sambiją: [[objektai/grupes/Lietuviai]]
 - Turėjo priklausinį: [[objektai/vietos/Romovė]]

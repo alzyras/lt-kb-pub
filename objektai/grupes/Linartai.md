@@ -112,7 +112,6 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195509
-
 - id: c-177931
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -133,7 +132,6 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195508
-
 - id: c-177932
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

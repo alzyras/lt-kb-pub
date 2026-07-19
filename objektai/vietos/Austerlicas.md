@@ -59,6 +59,7 @@ Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171867
+    - c-001
 - susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.).md#claim-t-187803|T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)]]: 1807 m. tarnaudamas Rusijos kariuomenėje T. Narbutas dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.
 - susijęs iš [[objektai/ivykiai/T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.).md#claim-t-187804|T. Narbuto dalyvavimas Tilžės ir Austerlico kautynėse (1807 m.)]]: T. Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse.
 - susijęs iš [[objektai/ivykiai/Tilžės ir Austerlico kautynės.md#claim-t-189632|Tilžės ir Austerlico kautynės]]: Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse ir buvo sužeistas.
@@ -81,8 +82,7 @@ Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188978
 ## Citatos
 
 - id: c-171867

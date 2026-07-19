@@ -42,7 +42,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177088
-
+    - c-002
 <a id="claim-t-197378"></a>
 - t-001
   global_id: t-197378
@@ -82,8 +82,6 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Jos draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -100,8 +98,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194691
 ## Citatos
 
 - id: c-177088
@@ -125,7 +122,6 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194691
-
 - id: c-179156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

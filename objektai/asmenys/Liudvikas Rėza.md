@@ -79,7 +79,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171467
-
+    - c-002
 <a id="claim-t-197424"></a>
 - t-003
   global_id: t-197424
@@ -133,8 +133,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188578
 ## Citatos
 
 - id: c-21859
@@ -156,7 +155,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19110
-
 - id: c-171467
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -184,7 +182,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188578
-
 - id: c-179178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -204,7 +201,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197424
-
 - id: c-179179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

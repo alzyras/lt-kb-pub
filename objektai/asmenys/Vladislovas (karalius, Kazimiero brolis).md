@@ -113,7 +113,6 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186021
-
 - id: c-169384
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -148,7 +147,6 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186023
-
 - id: c-169385
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

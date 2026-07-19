@@ -168,7 +168,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19170
-
 - id: c-21917
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -189,7 +188,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19172
-
 - id: c-166954
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -209,6 +207,5 @@ media_all_json: |-
   pagrindzia:
     - t-19171
     - t-183561
-
 ## Ryšiai
 - Netimeras buvo valdovas [[objektai/vietos/Lietuva]]

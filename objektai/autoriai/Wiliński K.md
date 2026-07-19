@@ -56,7 +56,7 @@ Dusburgietis teigia, kad wiliński K.
   temporalinis_llm_pakomentavimas: "Citata pateikia K. Wilińskio darbo temą, vietą ir metus."
   pagrindžia:
     - c-61450
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Wilińskis 1984 m. Lodzėje paskelbė darbą apie X–XIII a. lenkų ir prūsų kovas.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad wiliński K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60818
 ## Citatos
 
 - id: c-61450

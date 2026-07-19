@@ -48,7 +48,7 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172976
-
+    - c-001
 <a id="claim-t-190094"></a>
 - t-002
   global_id: t-190094
@@ -88,8 +88,7 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190093
 ## Citatos
 
 - id: c-172976
@@ -115,7 +114,6 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190093
-
 - id: c-172977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -134,6 +132,5 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190094
-
 ## Ryšiai
 - Enėjas pastatė [[objektai/daiktai/Laivai]]

@@ -102,7 +102,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171586
-
 - id: c-156074
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -128,7 +127,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171587
-
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Augustas II]]
 - Karolis XII puolė [[objektai/vietos/Rusija]]

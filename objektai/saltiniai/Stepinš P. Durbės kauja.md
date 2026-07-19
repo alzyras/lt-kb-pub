@@ -53,7 +53,7 @@ Dusburgietis teigia, kad stepinš P.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61930
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Stepinšo „Durbės kauja“ išleista Rygoje 1967 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad stepinš P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61298
 ## Citatos
 
 - id: c-61930

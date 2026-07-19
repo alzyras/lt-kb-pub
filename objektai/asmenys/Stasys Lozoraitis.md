@@ -172,7 +172,6 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46322
-
 - id: c-21995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -191,7 +190,6 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46323
-
 - id: c-21996
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,7 +210,6 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46320
-
 - id: c-21997
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -235,7 +232,6 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46324
-
 - id: c-48907
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

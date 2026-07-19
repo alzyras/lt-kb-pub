@@ -86,7 +86,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172548
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.'
@@ -103,8 +103,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189665
 ## Citatos
 
 - id: c-172547
@@ -126,7 +125,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189664
-
 - id: c-172548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -49,7 +49,7 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176957
-
+    - c-001
 <a id="claim-t-194558"></a>
 - t-002
   global_id: t-194558
@@ -62,7 +62,7 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176958
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir gvelfų partijos; šitai yra vardai dviejų brolių, kurių keliai išsiskyrė.'
@@ -79,8 +79,7 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194557
 - c-002
   santrauka: 'Apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų 1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -96,8 +95,7 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194558
 ## Citatos
 
 - id: c-176957
@@ -120,7 +118,6 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194557
-
 - id: c-176958
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

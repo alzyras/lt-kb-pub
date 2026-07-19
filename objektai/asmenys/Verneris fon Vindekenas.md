@@ -90,6 +90,5 @@ Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomi
   pagrindzia:
     - t-186265
     - t-196625
-
 ## Ryšiai
 - Verneris fon Vindekenas puolė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

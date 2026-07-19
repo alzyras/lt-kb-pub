@@ -93,7 +93,6 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195191
-
 - id: c-177556
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -75,7 +75,7 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   semantiniai_rysiai: "Lubavos žemė priklausė Kristijonas (0.72)"
   pagrindžia:
     - c-59297
-
+    - c-002
 <a id="claim-t-58666"></a>
 - t-003
   global_id: t-58666
@@ -111,8 +111,7 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58665
 ## Citatos
 
 - id: c-59296
@@ -137,7 +136,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58664
-
 - id: c-59297
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -156,7 +154,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58665
-
 - id: c-59298
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -183,6 +180,5 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58666
-
 ## Ryšiai
 - Lubavos žemė priklausė [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]]

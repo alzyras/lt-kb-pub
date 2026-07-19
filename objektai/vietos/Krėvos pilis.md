@@ -89,7 +89,6 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46813
-
 - id: c-176313
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

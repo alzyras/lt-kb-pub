@@ -41,7 +41,7 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171837
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas, apačioje siekęs penkias uolektis.'
@@ -60,8 +60,7 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188948
 ## Citatos
 
 - id: c-171837

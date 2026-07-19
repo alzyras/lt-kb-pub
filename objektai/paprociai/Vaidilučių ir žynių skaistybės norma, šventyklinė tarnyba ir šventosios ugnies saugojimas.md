@@ -100,7 +100,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177034
-
+    - c-005
 <a id="claim-t-197267"></a>
 - t-004
   global_id: t-197267
@@ -140,8 +140,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -166,8 +164,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -185,8 +181,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-194636
 ## Citatos
 
 - id: c-172667
@@ -212,7 +207,6 @@ Nenurodyta
   pagrindzia:
     - t-189784
     - t-197267
-
 - id: c-172668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -234,7 +228,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189785
-
 - id: c-177034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

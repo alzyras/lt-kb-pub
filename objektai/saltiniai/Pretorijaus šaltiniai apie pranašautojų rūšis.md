@@ -48,7 +48,7 @@ Narbutas, remdamasis Pretorijumi, vėjininkus priskyrė penkioms pranašautojų 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173438
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Pretorijumi, vėjininkus priskyrė penkioms pranašautojų rūšims ir aprašė jų būrimą iš alaus šnypštimo.'
@@ -72,8 +72,7 @@ Narbutas, remdamasis Pretorijumi, vėjininkus priskyrė penkioms pranašautojų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190555
 ## Citatos
 
 - id: c-173438

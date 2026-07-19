@@ -72,4 +72,4 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187161

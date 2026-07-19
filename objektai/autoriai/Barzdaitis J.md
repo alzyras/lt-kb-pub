@@ -45,7 +45,7 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61307
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Barzdaitis Vytenio epizodą siejo su raginimu lietuviams ir pavergtiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.'
@@ -60,8 +60,7 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60675
 ## Citatos
 
 - id: c-61307

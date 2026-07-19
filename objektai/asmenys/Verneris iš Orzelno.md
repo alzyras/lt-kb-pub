@@ -63,7 +63,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: "Čia teiginys yra apie autoriaus nurodymą, todėl atribucija tinkama, bet sakinį reikia sutrumpinti."
   pagrindžia:
     - c-65034
-
+    - c-004
 <a id="claim-t-64222"></a>
 - t-002
   global_id: t-64222
@@ -117,7 +117,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56089
-
+    - c-003
 <a id="claim-t-64226"></a>
 - t-005
   global_id: t-64226
@@ -171,7 +171,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-56086
-
+    - c-001
 <a id="claim-t-64229"></a>
 - t-007
   global_id: t-64229
@@ -205,7 +205,8 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: "Reikia išplėsti neaiškų „veikalas“ ir pašalinti atribucijos boilerplate."
   pagrindžia:
     - c-56087
-
+    - c-008
+    - c-002
 <a id="claim-t-64231"></a>
 - t-009
   global_id: t-64231
@@ -266,7 +267,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: "Reikia pašalinti nereikalingą „Dusburgietis teigia“ pradžią."
   pagrindžia:
     - c-65039
-
+    - c-009
 <a id="claim-t-64235"></a>
 - t-015
   global_id: t-64235
@@ -286,7 +287,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą, bet pradinį teiginį gadina antraštė ir nutrūkusi pabaiga."
   pagrindžia:
     - c-65043
-
+    - c-012
 <a id="claim-t-194524"></a>
 - t-012
   global_id: t-194524
@@ -375,8 +376,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-64228
 - c-002
   santrauka: '„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -392,8 +392,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-64233
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -410,9 +409,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-004
-
+    - t-64225
 - c-004
   santrauka: 'Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -426,8 +423,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-64221
 - c-008
   santrauka: '„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -441,8 +437,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-64233
 - c-009
   santrauka: '1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -459,8 +454,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-64234
 - c-012
   santrauka: 'Verneris iš Orzelno 1324 m. liepos 6 d. Marienburge buvo išrinktas keturioliktuoju didžiuoju magistru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -476,8 +470,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-64235
 ## Citatos
 
 - id: c-56086
@@ -501,7 +494,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64228
-
 - id: c-56087
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -542,8 +534,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64224
-
+    - t-64225
 - id: c-65034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -566,7 +557,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64221
-
 - id: c-65035
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -596,7 +586,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   pagrindzia:
     - t-64231
     - t-194525
-
 - id: c-65036
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -619,7 +608,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64229
-
 - id: c-65037
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -647,7 +635,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     - t-64226
     - t-194524
     - t-197163
-
 - id: c-65038
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -666,8 +653,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64230
-
 - id: c-65039
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -690,7 +675,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64234
-
 - id: c-65040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -714,7 +698,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   pagrindzia:
     - t-64222
     - t-64232
-
 - id: c-65041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -742,7 +725,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   pagrindzia:
     - t-64223
     - t-64227
-
 - id: c-65043
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -771,7 +753,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64235
-
 - id: c-179041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -796,7 +777,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197164
-
 ## Ryšiai
 - Puolė Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): [[objektai/asmenys/Jonas iš Endorfo]]
 - Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.) apgulė [[objektai/vietos/Medvėgalis]]

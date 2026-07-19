@@ -63,7 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63815
-
+    - c-003
 <a id="claim-t-62936"></a>
 - t-002
   global_id: t-62936
@@ -100,7 +100,7 @@ Nenurodyta
   semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į Kulmas (0.86)"
   pagrindžia:
     - c-63813
-
+    - c-004
 <a id="claim-t-194427"></a>
 - t-006
   global_id: t-194427
@@ -113,7 +113,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63815
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -134,10 +134,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-004
-    - t-006
-
+    - t-62935
+    - t-194427
 - c-004
   santrauka: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį apžiūrėti Kulmo žemės ir patikrinti pasiuntinių valios.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -160,8 +158,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-62937
 ## Citatos
 
 - id: c-63813
@@ -187,7 +184,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62937
-
 - id: c-63814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -209,7 +205,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62936
-
 - id: c-63815
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -238,7 +233,6 @@ Nenurodyta
   pagrindzia:
     - t-62935
     - t-194427
-
 - id: c-167355
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

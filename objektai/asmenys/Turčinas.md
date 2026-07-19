@@ -84,7 +84,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87586
-
 - id: c-83566
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

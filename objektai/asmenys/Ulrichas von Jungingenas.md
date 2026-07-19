@@ -135,7 +135,6 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182864
-
 - id: c-167661
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -154,7 +153,6 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184285
-
 - id: c-167662
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

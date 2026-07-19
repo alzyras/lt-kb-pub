@@ -154,7 +154,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-98771
-
 - id: c-92962
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -174,7 +173,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-98772
-
 - id: c-166462
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

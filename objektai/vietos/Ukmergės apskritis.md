@@ -101,7 +101,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175536
-
+    - c-004
 <a id="claim-t-192767"></a>
 - t-004
   global_id: t-192767
@@ -147,8 +147,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192766
 ## Citatos
 
 - id: c-43936
@@ -167,7 +166,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42223
-
 - id: c-45377
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -188,7 +186,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42222
-
 - id: c-175536
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -214,7 +211,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192766
-
 - id: c-175537
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

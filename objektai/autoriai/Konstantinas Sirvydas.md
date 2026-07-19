@@ -79,7 +79,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173176
-
+    - c-003
 <a id="claim-t-190294"></a>
 - t-003
   global_id: t-190294
@@ -93,7 +93,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173177
-
+    - c-004
 <a id="claim-t-190748"></a>
 - t-004
   global_id: t-190748
@@ -114,7 +114,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173630
-
+    - c-005
 <a id="claim-t-190749"></a>
 - t-005
   global_id: t-190749
@@ -184,8 +184,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190293
 - c-004
   santrauka: 'Narbutas remiasi kunigu Sirvydu aiškindamas Vasario vardą per žodžius „Lutis“, „Pūsis“ ir „Pūstis“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -199,8 +198,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190294
 - c-005
   santrauka: 'Narbutas, remdamasis K. Sirvydo žodynu, žodį „dykra“ aiškino kaip „Solitudo“ ir „Giria“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -213,8 +211,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190748
 ## Citatos
 
 - id: c-173175
@@ -235,7 +232,6 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190292
-
 - id: c-173176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -257,7 +253,6 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190293
-
 - id: c-173177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -278,7 +273,6 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190294
-
 - id: c-173630
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -299,7 +293,6 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190748
-
 - id: c-173631
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -317,7 +310,6 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190749
-
 - id: c-176259
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -338,7 +330,6 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193584
-
 - id: c-179123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

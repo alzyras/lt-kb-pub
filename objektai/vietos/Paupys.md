@@ -83,6 +83,5 @@ Dejevo, į Paupį.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38525
-
 ## Ryšiai
 - Užėmė Paupį: [[objektai/grupes/Rusai]]

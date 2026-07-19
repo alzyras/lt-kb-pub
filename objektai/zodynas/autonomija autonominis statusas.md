@@ -151,7 +151,6 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70093
-
 - id: c-69195
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -170,7 +169,6 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70096
-
 - id: c-69196
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -191,7 +189,6 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70094
-
 - id: c-69197
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,7 +209,6 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70095
-
 - id: c-166793
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

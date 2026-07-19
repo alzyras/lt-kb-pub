@@ -47,7 +47,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   semantiniai_rysiai: "Lubavas priklausė Prūsija (0.86); Kulmas priklausė Prūsija (0.86)"
   pagrindžia:
     - c-59335
-
+    - c-167562
 <a id="claim-t-58703"></a>
 - t-002
   global_id: t-58703
@@ -127,7 +127,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58703
-
 - id: c-59335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -149,7 +148,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58702
-
 - id: c-167562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

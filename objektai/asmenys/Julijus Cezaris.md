@@ -61,7 +61,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas enciklopedinis sakinys ir tiesiogiai paremtas išnašos tekstu."
   pagrindžia:
     - c-60666
-
+    - c-001
 <a id="claim-t-60035"></a>
 - t-002
   global_id: t-60035
@@ -95,7 +95,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60667
-
+    - c-002
 <a id="claim-t-190897"></a>
 - t-004
   global_id: t-190897
@@ -109,7 +109,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-173779
-
+    - c-004
 <a id="claim-t-197110"></a>
 - t-005
   global_id: t-197110
@@ -150,8 +150,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60034
 - c-002
   santrauka: 'Dusburgietis Julijų Cezarį įtraukia į senųjų kovotojų prieš prūsus genealogiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -166,8 +165,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60036
 - c-004
   santrauka: 'Narbutas rašo, kad Julijaus Cezario laikais lietuvių vardas buvo gerai žinomas, ir šį teiginį sieja su numizmatiniais radiniais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -181,8 +179,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190897
 ## Citatos
 
 - id: c-60666
@@ -206,7 +203,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60034
-
 - id: c-60667
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -227,7 +223,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60036
-
 - id: c-60668
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -251,7 +246,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   pagrindzia:
     - t-60035
     - t-197110
-
 - id: c-173779
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -49,7 +49,7 @@ Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mik
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-168750
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.'
@@ -82,8 +82,7 @@ Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185389
 ## Citatos
 
 - id: c-168750

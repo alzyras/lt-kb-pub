@@ -49,7 +49,7 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175642
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kadaise stovėjusia pilimi ir netoliese buvusia šventa giria bei šventove.'
@@ -70,8 +70,7 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192872
 ## Citatos
 
 - id: c-175642

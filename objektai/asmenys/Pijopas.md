@@ -76,6 +76,5 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60409
-
 ## Ryšiai
 - Pijopas apgulė [[objektai/vietos/Baiga]]

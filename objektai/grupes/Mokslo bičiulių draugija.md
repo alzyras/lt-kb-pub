@@ -108,5 +108,5 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45131
+    - t-45132
     - t-45133

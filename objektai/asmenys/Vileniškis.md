@@ -86,7 +86,6 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39668
-
 - id: c-167154
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

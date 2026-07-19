@@ -64,4 +64,4 @@ Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą he
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191212

@@ -124,7 +124,6 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40833
-
 - id: c-44716
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -104,6 +104,5 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41919
-
 ## Ryšiai
 - Puolė Medininkų žemę: [[objektai/grupes/Kryžiuočių ordinas]]

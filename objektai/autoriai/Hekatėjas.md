@@ -48,7 +48,7 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174491
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykščių genčių kalba turėjęs reikšti sukrešėjusią arba užšąlančią jūrą.'
@@ -67,8 +67,7 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191609
 ## Citatos
 
 - id: c-174491

@@ -127,7 +127,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir paliktas aiškus faktinis sakinys."
   pagrindžia:
     - c-167939
-
+    - c-004
 <a id="claim-t-188322"></a>
 - t-005
   global_id: t-188322
@@ -377,8 +377,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-184578
 ## Citatos
 
 - id: c-72863
@@ -406,7 +405,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74890
-
 - id: c-72865
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -424,7 +422,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74888
-
 - id: c-72866
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -447,7 +444,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74889
-
 - id: c-167939
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -488,7 +484,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184578
-
 - id: c-171215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -510,7 +505,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188322
-
 - id: c-184104
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -538,6 +532,5 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200759
-
 ## Ryšiai
 - Radvilos užėmė [[objektai/vietos/Cholmas]]

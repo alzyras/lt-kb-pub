@@ -53,6 +53,7 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   semantiniai_rysiai: "Vancka priklausė Pomeranija (0.90); Vancka priklausė Teutonai (0.82)"
   pagrindžia:
     - c-59374
+    - c-001
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
 ## Reikšmingi paminėjimai
@@ -73,8 +74,7 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58742
 ## Citatos
 
 - id: c-59374
@@ -101,7 +101,6 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58742
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]
 - Vancka priklausė [[objektai/vietos/Pomeranija]]

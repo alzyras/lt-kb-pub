@@ -49,7 +49,7 @@ Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filoso
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173275
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filosofo Archilo šmėklą.'
@@ -73,8 +73,7 @@ Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filoso
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190392
 ## Citatos
 
 - id: c-173275

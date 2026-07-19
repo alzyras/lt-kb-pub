@@ -91,7 +91,6 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86479
-
 - id: c-82459
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -49,7 +49,7 @@ Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir bū
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172075
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir būsimo pomirtinio gyvenimo deivę.'
@@ -72,8 +72,7 @@ Velioną (Wellona) Narbutas apibūdina kaip amžinybės, amžinos vilties ir bū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189187
 ## Citatos
 
 - id: c-172075

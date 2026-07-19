@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172639
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Čeltyčias vaizdavo kaip Baltijos jūros nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.'
@@ -87,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189756
 ## Citatos
 
 - id: c-172639

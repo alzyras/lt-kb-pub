@@ -46,7 +46,7 @@ Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M.
   temporalinis_llm_pakomentavimas: "Citata pateikia leidinio pavadinimą, redaktorių ir leidimo metus."
   pagrindžia:
     - c-61955
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Toruń dawny i dzisiejszy: Zarys dziejów“, redaguotas M. Biskupo, išleistas 1983 m.'
@@ -60,8 +60,7 @@ Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61323
 ## Citatos
 
 - id: c-61955

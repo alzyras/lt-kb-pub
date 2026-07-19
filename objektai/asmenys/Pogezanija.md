@@ -81,9 +81,6 @@ Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-174190

@@ -96,7 +96,6 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97462
-
 - id: c-91953
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

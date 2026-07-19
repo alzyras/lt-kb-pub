@@ -44,6 +44,7 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61018
+    - c-001
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60067|Tirskas]]: Tirskas su sūnumi Maudeliu ir daugybe ginklanešių buvo paliktas nadruvių pastatytoje pilyje.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60069|Tirskas]]: Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88525|Bartai]]: 1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.
@@ -79,8 +80,7 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60386
 ## Citatos
 
 - id: c-61018

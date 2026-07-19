@@ -123,7 +123,6 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   pagrindzia:
     - t-74746
     - t-74747
-
 - id: c-22618
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,7 +143,6 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74744
-
 - id: c-22619
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

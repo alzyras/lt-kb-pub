@@ -139,7 +139,6 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58822
-
 - id: c-59455
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -161,7 +160,6 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58824
-
 - id: c-59456
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -60,7 +60,6 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07831
-
 - id: c-10062
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -77,6 +76,5 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07831
-
 ## Ryšiai
 - Aušrėnai gyveno [[objektai/vietos/Baltija]]

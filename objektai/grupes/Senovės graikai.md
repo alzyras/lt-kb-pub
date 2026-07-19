@@ -56,7 +56,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172268
-
+    - c-001
 <a id="claim-t-189383"></a>
 - t-002
   global_id: t-189383
@@ -98,7 +98,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172272
-
+    - c-004
 <a id="claim-t-189386"></a>
 - t-003
   global_id: t-189386
@@ -164,7 +164,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172276
-
+    - c-008
 <a id="claim-t-189390"></a>
 - t-007
   global_id: t-189390
@@ -269,7 +269,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172282
-
+    - c-014
 <a id="claim-t-189396"></a>
 - t-015
   global_id: t-189396
@@ -290,7 +290,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172283
-
+    - c-015
 <a id="claim-t-194587"></a>
 - t-013
   global_id: t-194587
@@ -339,8 +339,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189381
 - c-004
   santrauka: 'Narbutas rašė, kad graikai ir romėnai turėjo lemties dievybes Sors ir Fatum, siejamas su pasaulio, dievų ir visko valdymu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -358,8 +357,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-189385
 - c-008
   santrauka: 'Narbutas rašė, kad graikai, egiptiečiai, romėnai, indai, japonai, slavai, lietuviai ir kitos tautos turėjo dievų Kabirų ritualą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -377,8 +375,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-189389
 - c-014
   santrauka: 'Narbutas rašė, kad graikai nuo didvyrių laikų šventu laikė tam tikros ąžuolo rūšies medį, paskirtą Jupiteriui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -397,8 +394,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-189395
 - c-015
   santrauka: 'Narbutas rašė, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus, skirtus atskiriems dievams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -415,8 +411,7 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-189396
 ## Citatos
 
 - id: c-172268
@@ -450,7 +445,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189381
-
 - id: c-172270
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -471,7 +465,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189383
-
 - id: c-172272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -494,7 +487,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189385
-
 - id: c-172273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -516,7 +508,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189386
-
 - id: c-172274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -536,7 +527,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189387
-
 - id: c-172276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -565,7 +555,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189389
-
 - id: c-172277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -587,7 +576,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189390
-
 - id: c-172279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -605,7 +593,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189392
-
 - id: c-172280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -622,7 +609,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189393
-
 - id: c-172281
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -643,7 +629,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189394
-
 - id: c-172282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -665,7 +650,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189395
-
 - id: c-172283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -688,7 +672,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189396
-
 - id: c-176986
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

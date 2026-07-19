@@ -56,6 +56,7 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   temporalinis_llm_pakomentavimas: "Pašalintas antraštės triukšmas; citata remia pareigas, trukmę ir palaidojimo vietą."
   pagrindžia:
     - c-61011
+    - c-001
 - susijęs iš Chełmža: Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,8 +75,7 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60379
 ## Citatos
 
 - id: c-61011
@@ -98,6 +98,5 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60379
-
 ## Ryšiai
 - Liudvikas iš Šipeno buvo palaidotas [[objektai/vietos/Chełmža]]

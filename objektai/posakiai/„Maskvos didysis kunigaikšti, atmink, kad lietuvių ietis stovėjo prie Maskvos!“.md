@@ -102,7 +102,6 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41485
-
 - id: c-44976
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

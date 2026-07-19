@@ -153,7 +153,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176177
-
 - id: c-37072
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -177,7 +176,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176181
-
 - id: c-160218
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

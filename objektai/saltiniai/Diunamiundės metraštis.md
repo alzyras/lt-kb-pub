@@ -44,7 +44,7 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61698
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis galėjo žinoti Diunamiundės metraštį, susijusį su Seniausio Prūsijos metraščio tradicija.'
@@ -62,8 +62,7 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61066
 ## Citatos
 
 - id: c-61698

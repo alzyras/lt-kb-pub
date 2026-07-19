@@ -48,7 +48,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169558
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 500 pėstininkų buvo žygio metu užpultas ir sunaikintas.'
@@ -72,8 +72,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186197
 ## Citatos
 
 - id: c-169558

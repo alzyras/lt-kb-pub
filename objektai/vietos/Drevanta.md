@@ -84,6 +84,7 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Drevantos poveikį žygiui."
   pagrindžia:
     - c-168305
+    - c-002
 - susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60167|Luterbergas]]: Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.
 - susijęs iš Kulmas: Narbutas rašė, kad Kulmas į rytus tuomet tęsėsi tik iki Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą.
 - susijęs iš Lubava: Lubava buvo gyvenvietė į rytus nuo Drevantos aukštupio.
@@ -140,8 +141,7 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184944
 ## Citatos
 
 - id: c-59062
@@ -161,7 +161,6 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58431
-
 - id: c-168305
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -62,7 +62,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-85276
-
+    - c-004
 <a id="claim-t-89287"></a>
 - t-002
   global_id: t-89287
@@ -182,8 +182,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89286
 ## Citatos
 
 - id: c-85272
@@ -206,7 +205,6 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89289
-
 - id: c-85273
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -227,7 +225,6 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   pagrindzia:
     - t-89287
     - t-89288
-
 - id: c-85274
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -244,7 +241,6 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89290
-
 - id: c-85276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

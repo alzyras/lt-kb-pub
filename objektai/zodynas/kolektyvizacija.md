@@ -124,7 +124,6 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75557
-
 - id: c-24880
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -145,7 +144,6 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75559
-
 - id: c-73298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -170,7 +168,6 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75556
-
 - id: c-73299
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

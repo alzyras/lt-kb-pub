@@ -120,11 +120,6 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-
 ## Citatos
 
 - id: c-60909
@@ -152,6 +147,5 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
     - t-184062
     - t-194482
     - t-197079
-
 ## Ryšiai
 - Fridrichas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

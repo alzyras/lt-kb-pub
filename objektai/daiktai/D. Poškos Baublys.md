@@ -132,7 +132,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07520
-
 - id: c-00229
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -156,7 +155,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07521
-
 - id: c-171273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

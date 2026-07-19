@@ -144,7 +144,6 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184459
-
 - id: c-167813
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -162,7 +161,6 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184460
-
 - id: c-167964
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -187,7 +185,6 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184603
-
 - id: c-176098
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

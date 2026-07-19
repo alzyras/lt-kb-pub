@@ -92,7 +92,6 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74783
-
 - id: c-72796
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

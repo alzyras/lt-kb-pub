@@ -64,7 +64,7 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175088
-
+    - c-001
 <a id="claim-t-192251"></a>
 - t-002
   global_id: t-192251
@@ -83,6 +83,7 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175088
+    - c-001
 - susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191137|Pitėjas Masilietis]]: Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti.
 - susijęs iš [[objektai/asmenys/Pitėjas.md#claim-t-191222|Pitėjas]]: Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti.
 ## Reikšmingi paminėjimai
@@ -100,9 +101,8 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-192249
+    - t-192251
 ## Citatos
 
 - id: c-175088

@@ -81,9 +81,6 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-174359
@@ -111,6 +108,5 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
   pagrindzia:
     - t-191477
     - t-197824
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Odoakras]]

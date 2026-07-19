@@ -75,7 +75,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67968
-
+    - c-006
 <a id="claim-t-68374"></a>
 - t-003
   global_id: t-68374
@@ -112,7 +112,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67967
-
+    - c-004
 <a id="claim-t-68376"></a>
 - t-005
   global_id: t-68376
@@ -129,7 +129,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67966
-
+    - c-003
 <a id="claim-t-192686"></a>
 - t-006
   global_id: t-192686
@@ -164,8 +164,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-68376
 - c-004
   santrauka: 'Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -183,8 +182,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-68375
 - c-006
   santrauka: 'Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -200,8 +198,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-68372
 ## Citatos
 
 - id: c-32172
@@ -223,7 +220,6 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68371
-
 - id: c-67964
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -241,7 +237,6 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68374
-
 - id: c-67966
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -263,7 +258,6 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68376
-
 - id: c-67967
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -287,7 +281,6 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68375
-
 - id: c-67968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -306,7 +299,6 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68372
-
 - id: c-167559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

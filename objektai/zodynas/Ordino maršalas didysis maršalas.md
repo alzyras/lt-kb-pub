@@ -121,7 +121,6 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86491
-
 - id: c-82470
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

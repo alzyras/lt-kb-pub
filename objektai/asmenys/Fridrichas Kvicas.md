@@ -157,7 +157,6 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59957
-
 - id: c-60591
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -203,7 +202,6 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59959
-
 - id: c-60592
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -225,7 +223,6 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59960
-
 - id: c-167450
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

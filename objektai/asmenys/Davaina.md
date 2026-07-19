@@ -65,8 +65,6 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 - susijęs iš [[objektai/ivykiai/Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis.md#claim-t-185621|Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis]]: Kojelavičius rašo, kad Stanislovas Lesniovolskis su lenkų, lietuvių ir Davainos būriu netikėtai susidūrė su 45 tūkstančiais priešų.

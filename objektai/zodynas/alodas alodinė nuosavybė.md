@@ -62,7 +62,7 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-69848
-
+    - c-001
 <a id="claim-t-71205"></a>
 - t-002
   global_id: t-71205
@@ -79,7 +79,7 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-69848
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -93,9 +93,8 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-71204
+    - t-71205
 ## Citatos
 
 - id: c-69848

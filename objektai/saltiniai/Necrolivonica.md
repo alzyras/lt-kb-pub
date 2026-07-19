@@ -48,7 +48,7 @@ Narbutas nurodo, kad veikale „Necrolivonica“ nagrinėta tenykščių bronzin
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174641
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad veikale „Necrolivonica“ nagrinėta tenykščių bronzinių radinių cheminė sudėtis.'
@@ -65,8 +65,7 @@ Narbutas nurodo, kad veikale „Necrolivonica“ nagrinėta tenykščių bronzin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191759
 ## Citatos
 
 - id: c-174641

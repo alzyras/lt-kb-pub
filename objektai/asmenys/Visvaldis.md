@@ -49,7 +49,7 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-175812
-
+    - c-001
 <a id="claim-t-193043"></a>
 - t-002
   global_id: t-193043
@@ -94,8 +94,7 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193042
 ## Citatos
 
 - id: c-175812
@@ -125,7 +124,6 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193042
-
 - id: c-175813
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

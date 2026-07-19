@@ -239,7 +239,6 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97460
-
 - id: c-91945
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -263,7 +262,6 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97458
-
 - id: c-91947
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -284,7 +282,6 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97461
-
 - id: c-91949
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -305,7 +302,6 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97456
-
 - id: c-91950
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -331,7 +327,6 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   pagrindzia:
     - t-97455
     - t-97457
-
 - id: c-91951
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -350,6 +345,5 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97459
-
 ## Ryšiai
 - Kaributas valdė [[objektai/vietos/Severskas]]

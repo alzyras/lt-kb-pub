@@ -104,7 +104,6 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192964
-
 - id: c-179231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -125,6 +124,5 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197525
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Gotai]]

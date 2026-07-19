@@ -84,7 +84,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-174948
-
+    - c-003
 <a id="claim-t-192079"></a>
 - t-003
   global_id: t-192079
@@ -173,8 +173,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192078
 ## Citatos
 
 - id: c-42503
@@ -195,7 +194,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192077
-
 - id: c-174947
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -221,7 +219,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192079
-
 - id: c-174948
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

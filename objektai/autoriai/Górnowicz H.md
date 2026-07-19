@@ -122,7 +122,6 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60556
-
 - id: c-61187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -141,7 +140,6 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
   pagrindzia:
     - t-60554
     - t-196998
-
 - id: c-61188
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -50,7 +50,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172317
-
+    - c-001
 <a id="claim-t-189431"></a>
 - t-002
   global_id: t-189431
@@ -72,7 +72,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172318
-
+    - c-002
 <a id="claim-t-189434"></a>
 - t-003
   global_id: t-189434
@@ -107,7 +107,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172322
-
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos šaka, besiskiriančia tarme, papročiais ir fizionomija.'
@@ -128,8 +128,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189430
 - c-002
   santrauka: 'Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -154,8 +153,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189431
 - c-006
   santrauka: 'Narbutas teigė, kad biarmiai nuo senų laikų turėjo savo raidyną, gerokai ankstesnį už XI amžių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -172,8 +170,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-189435
 ## Citatos
 
 - id: c-172317
@@ -210,7 +207,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189430
-
 - id: c-172318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -238,7 +234,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189431
-
 - id: c-172321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -261,7 +256,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189434
-
 - id: c-172322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -115,7 +115,6 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86169
-
 - id: c-168285
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -136,6 +135,5 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184924
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

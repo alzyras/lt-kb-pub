@@ -84,6 +84,5 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96040
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

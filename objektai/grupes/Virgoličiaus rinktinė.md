@@ -84,6 +84,5 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39014
-
 ## Ryšiai
 - Virgoličiaus rinktinė keliavo į [[objektai/vietos/Šiauliai]]

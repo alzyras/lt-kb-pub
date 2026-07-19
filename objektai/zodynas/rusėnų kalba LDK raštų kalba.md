@@ -119,7 +119,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169931
-
 - id: c-24982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,7 +136,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169928
-
 - id: c-154609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,7 +154,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169930
-
 - id: c-154610
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

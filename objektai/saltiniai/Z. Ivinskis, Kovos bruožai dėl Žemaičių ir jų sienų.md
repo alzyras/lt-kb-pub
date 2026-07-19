@@ -98,7 +98,6 @@ Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32003
-
 - id: c-33764
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

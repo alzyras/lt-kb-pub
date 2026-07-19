@@ -55,6 +55,7 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
   semantiniai_rysiai: "Ninerikas keliavo į Kulmenzė (0.96)"
   pagrindžia:
     - c-167501
+    - c-001
 - susijęs iš Chełmža: Skomantui priartėjus prie Chełmžos, lenkų karys Ninerikas įsigavo į miestą ir pažadėjo jį išduoti Skomantui.
 - susijęs iš Kulmenzė: Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš Kulmenzė: Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.
@@ -77,9 +78,7 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-60182
 ## Citatos
 
 - id: c-167501
@@ -107,6 +106,5 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60182
-
 ## Ryšiai
 - Ninerikas keliavo į [[objektai/vietos/Kulmenzė]]

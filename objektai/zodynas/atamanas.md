@@ -83,7 +83,6 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42434
-
 - id: c-45504
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

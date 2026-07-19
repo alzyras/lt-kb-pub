@@ -46,7 +46,7 @@ Dusburgietis teigia, kad šapoka A.
   temporalinis_llm_pakomentavimas: "Citata pateikia šaltinio autorių, pavadinimą ir publikavimo duomenis."
   pagrindžia:
     - c-62029
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Šapokos „Přanyslo (Ottakaro) II žygiai į Prūsus“ paskelbta 1939 m. „Praeities“ 3 tome, 1-35 puslapiuose.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad šapoka A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61397
 ## Citatos
 
 - id: c-62029

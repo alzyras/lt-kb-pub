@@ -95,7 +95,6 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30995
-
 - id: c-33148
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

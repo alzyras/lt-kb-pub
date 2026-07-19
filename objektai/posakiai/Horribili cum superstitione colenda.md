@@ -48,7 +48,7 @@ Narbutas nurodo, kad vyskupo Petro rankraštyje lietuviai esą garbino deivę Le
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172466
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad vyskupo Petro rankraštyje lietuviai esą garbino deivę Lellia Menelia „horribili cum superstitione colenda“.'
@@ -71,8 +71,7 @@ Narbutas nurodo, kad vyskupo Petro rankraštyje lietuviai esą garbino deivę Le
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189579
 ## Citatos
 
 - id: c-172466

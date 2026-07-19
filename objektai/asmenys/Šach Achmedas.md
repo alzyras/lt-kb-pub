@@ -148,7 +148,6 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87418
-
 - id: c-83395
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -169,7 +168,6 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87417
-
 - id: c-83396
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -189,7 +187,6 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87416
-
 - id: c-83397
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -237,7 +234,6 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87415
-
 ## Ryšiai
 - Šach Achmedas keliavo į [[objektai/vietos/Brasta]]
 - Šach Achmedas mirė [[objektai/vietos/Lietuva]]

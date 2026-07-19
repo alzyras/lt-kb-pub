@@ -67,6 +67,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39019
-
 ## Ryšiai
 - Vytauto būrys puolė [[objektai/grupes/Rusai]]

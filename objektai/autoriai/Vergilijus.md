@@ -63,7 +63,7 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177073
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vergilijus praneša, kad Enėjo laikais virš karstų supildavo kalnus.'
@@ -82,8 +82,7 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194676
 ## Citatos
 
 - id: c-173225
@@ -104,7 +103,6 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190342
-
 - id: c-177073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

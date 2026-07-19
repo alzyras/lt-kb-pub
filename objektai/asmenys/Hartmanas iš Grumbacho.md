@@ -45,6 +45,7 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60932
+    - c-001
 - susijęs iš [[objektai/zodynas/Watmal Vatmalis.md#claim-t-58930|Watmal Vatmalis]]: Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams.
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,8 +68,7 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60300
 ## Citatos
 
 - id: c-60932

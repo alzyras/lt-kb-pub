@@ -49,7 +49,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174598
-
+    - c-001
 <a id="claim-t-191717"></a>
 - t-002
   global_id: t-191717
@@ -91,7 +91,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174600
-
+    - c-003
 <a id="claim-t-191719"></a>
 - t-004
   global_id: t-191719
@@ -142,8 +142,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191716
 - c-003
   santrauka: 'Pasak Teodoro Narbuto, vyskupas Kristijonas Divonio kelionės aprašymą rado Plocko kanauninko Jaroslavo kronikoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -161,8 +160,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191718
 ## Citatos
 
 - id: c-174598
@@ -186,7 +184,6 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191716
-
 - id: c-174599
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -212,7 +209,6 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191717
-
 - id: c-174600
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -234,7 +230,6 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191718
-
 - id: c-174601
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -253,7 +248,6 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191719
-
 - id: c-174602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

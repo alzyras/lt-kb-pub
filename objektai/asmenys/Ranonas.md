@@ -50,7 +50,7 @@ Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas ž
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174338
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas žuvo mūšyje, po kurio Rotala perėjo Danijos karaliui.'
@@ -68,8 +68,7 @@ Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191456
 ## Citatos
 
 - id: c-174338

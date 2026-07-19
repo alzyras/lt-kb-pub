@@ -148,8 +148,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Minskas; llm_object: Lietuva'
   semantiniai_rysiai: 'Kauno gubernija priklausė Lietuva'
   pagrindžia:
-    - c-171608
-
+    - c-006
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Kauno gubernija šiame apibūdinime priskiriama istorinei Lietuvai kartu su Vilniaus, Gardino ir Minsko gubernijomis.'
@@ -169,8 +168,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-188719
 ## Citatos
 
 - id: c-24170
@@ -189,7 +187,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183026
-
 - id: c-155071
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,7 +211,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170425
-
 - id: c-155074
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,7 +230,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170422
-
 - id: c-155075
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -254,7 +249,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170421
-
 - id: c-155076
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

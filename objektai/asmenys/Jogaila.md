@@ -1374,8 +1374,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sąrašo fragmentas perrašytas į sakinį apie Jogailą. Palikta šaltinio atribucija, nes remiamasi kronikos giminystės išvardijimu.'
   pagrindžia:
-    - c-176541
-
+    - c-053
 <a id="claim-t-193919"></a>
 - t-056
   global_id: t-193919
@@ -1385,8 +1384,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas Sofijos pargabenimo, vedybų ir vainikavimo veiksmas. Karaliaus titulas ir kronikos pasakojimas palikti su atribucija.'
   pagrindžia:
-    - c-176544
-
+    - c-056
 <a id="claim-t-193920"></a>
 - t-057
   global_id: t-193920
@@ -1396,7 +1394,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, paliekant datą, veikėjus ir karo objektą. Kadangi tai kronikos datavimas ir priešų įvardijimas, teiginys atribuuotas.'
   pagrindžia:
-    - c-176545
+    - c-057
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51025|Jadvyga (Jogailos duktė)]]: Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179655|Skirgaila]]: Jogaila pasiuntė brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, o Marienburge Skirgaila buvo draugiškai priimtas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179662|Skirgaila]]: Jogaila pavedė Lietuvą savo broliui Skirgailai, todėl Vytautui labiau parūpo Lietuvos ateitis negu jos krikštas.
@@ -2091,8 +2089,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053
-
+    - t-193916
 - c-056
   santrauka: 'Lietuvos metraštis Jogailą vadina karaliumi ir pasakoja, kad jis pasiuntė ponus pargabenti kunigaikštytę Sofiją į Krokuvą, ją vedė ir vainikavo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2111,8 +2108,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056
-
+    - t-193919
 - c-057
   santrauka: 'Lietuvos metraštis 1412 m. datuoja Vladislovo Jogailos ir Vytauto karo su Prūsijos vokiečiais pradžią.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2141,8 +2137,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057
-
+    - t-193920
 ## Citatos
 
 - id: c-34193
@@ -2161,7 +2156,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184373
-
 - id: c-36349
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2182,7 +2176,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184264
-
 - id: c-36350
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2201,7 +2194,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184265
-
 - id: c-36351
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2221,7 +2213,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184266
-
 - id: c-36360
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2241,7 +2232,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184268
-
 - id: c-36362
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2268,7 +2258,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184269
-
 - id: c-36364
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2290,7 +2279,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184271
-
 - id: c-36365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2309,7 +2297,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184272
-
 - id: c-166209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2330,7 +2317,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182813
-
 - id: c-166210
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2357,7 +2343,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182807
-
 - id: c-166212
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2391,7 +2376,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182811
-
 - id: c-166215
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2412,7 +2396,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182810
-
 - id: c-166216
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2433,7 +2416,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182809
-
 - id: c-166217
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2461,7 +2443,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182804
-
 - id: c-166218
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2487,7 +2468,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182803
-
 - id: c-166222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2510,7 +2490,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182815
-
 - id: c-166223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2547,7 +2526,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182812
-
 - id: c-166929
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2566,7 +2544,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183536
-
 - id: c-166930
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2585,7 +2562,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183537
-
 - id: c-166931
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2609,7 +2585,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183538
-
 - id: c-166932
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2628,7 +2603,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183539
-
 - id: c-166933
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2646,7 +2620,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183540
-
 - id: c-166934
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2663,7 +2636,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183541
-
 - id: c-166935
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2684,7 +2656,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183542
-
 - id: c-167648
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2708,7 +2679,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184267
-
 - id: c-167649
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2733,7 +2703,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184270
-
 - id: c-167650
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2756,7 +2725,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184273
-
 - id: c-167651
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2775,7 +2743,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184274
-
 - id: c-167652
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2798,7 +2765,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184275
-
 - id: c-167653
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2820,7 +2786,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184276
-
 - id: c-167654
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2841,7 +2806,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184277
-
 - id: c-167655
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2863,7 +2827,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184278
-
 - id: c-167656
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2883,7 +2846,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184279
-
 - id: c-167657
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2905,7 +2867,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184280
-
 - id: c-168082
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2937,7 +2898,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindzia:
     - t-184721
     - t-196486
-
 - id: c-168083
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2968,7 +2928,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindzia:
     - t-184722
     - t-196487
-
 - id: c-168084
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3008,7 +2967,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184723
-
 - id: c-168086
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3036,7 +2994,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184725
-
 - id: c-168087
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3074,7 +3031,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184726
-
 - id: c-168088
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3099,7 +3055,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindzia:
     - t-184727
     - t-196490
-
 - id: c-168089
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3122,7 +3077,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184728
-
 - id: c-168092
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3145,7 +3099,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184731
-
 - id: c-168093
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3174,7 +3127,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184732
-
 - id: c-168094
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3204,7 +3156,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184733
-
 - id: c-168095
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3238,7 +3189,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184734
-
 - id: c-168097
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3266,7 +3216,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindzia:
     - t-184736
     - t-196494
-
 - id: c-171431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3288,7 +3237,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188542
-
 - id: c-171432
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3306,7 +3254,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188543
-
 - id: c-171433
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3339,7 +3286,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188544
-
 - id: c-171434
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3361,7 +3307,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188545
-
 - id: c-171435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3389,7 +3334,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindzia:
     - t-188546
     - t-197403
-
 - id: c-176117
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3417,7 +3361,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193393
-
 - id: c-176542
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3443,7 +3386,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindzia:
     - t-193917
     - t-196829
-
 - id: c-176543
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3462,7 +3404,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindzia:
     - t-193918
     - t-196830
-
 - id: c-176547
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3486,7 +3427,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindzia:
     - t-193922
     - t-196831
-
 - id: c-176548
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3505,7 +3445,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193923
-
 - id: c-176550
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3526,7 +3465,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193925
-
 - id: c-176827
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3571,7 +3509,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194228
-
 - id: c-177105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3593,7 +3530,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194709
-
 - id: c-178722
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3621,7 +3557,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196485
-
 - id: c-178725
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3643,7 +3578,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196488
-
 - id: c-178727
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3678,7 +3612,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196491
-
 - id: c-184350
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -3711,7 +3644,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201000
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Elžbieta Granauskaitė]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

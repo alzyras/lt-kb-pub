@@ -62,7 +62,7 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24736
-
+    - c-166787
 ## Citatos
 
 - id: c-24736
@@ -84,7 +84,6 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23432
-
 - id: c-166787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

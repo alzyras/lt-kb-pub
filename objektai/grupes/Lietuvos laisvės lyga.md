@@ -145,7 +145,6 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74752
-
 - id: c-72771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -168,7 +167,6 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74754
-
 - id: c-72772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -190,7 +188,6 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74756
-
 - id: c-176234
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -76,7 +76,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata."
   pagrindžia:
     - c-23270
-
+    - c-48260
 <a id="claim-t-45451"></a>
 - t-002
   global_id: t-45451
@@ -220,7 +220,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45456
-
 - id: c-23268
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -241,7 +240,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45455
-
 - id: c-23270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -267,7 +265,6 @@ Nenurodyta
   pagrindzia:
     - t-45450
     - t-45451
-
 - id: c-48260
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -323,7 +320,6 @@ Nenurodyta
   pagrindzia:
     - t-45453
     - t-45454
-
 - id: c-166673
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

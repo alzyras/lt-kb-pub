@@ -287,8 +287,6 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-86940
@@ -314,7 +312,6 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91222
-
 - id: c-86941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -335,7 +332,6 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91221
-
 - id: c-86942
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -358,7 +354,6 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91218
-
 - id: c-86943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -382,7 +377,6 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91219
-
 - id: c-86944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -405,7 +399,6 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91217
-
 - id: c-86945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -423,7 +416,6 @@ Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91220
-
 ## Ryšiai
 - Puolė Notangą: [[objektai/grupes/Sūduviai]]
 - Notanga priklausė [[objektai/vietos/Prūsija]]

@@ -100,7 +100,6 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87543
-
 - id: c-83522
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

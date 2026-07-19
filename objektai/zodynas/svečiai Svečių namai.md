@@ -104,7 +104,6 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86552
-
 - id: c-82532
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

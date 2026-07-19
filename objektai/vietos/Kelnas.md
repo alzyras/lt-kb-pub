@@ -53,7 +53,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   semantiniai_rysiai: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mirė Kelnas (0.97)"
   pagrindžia:
     - c-59082
-
+    - c-003
 <a id="claim-t-58449"></a>
 - t-002
   global_id: t-58449
@@ -70,7 +70,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59081
-
+    - c-167547
 <a id="claim-t-58450"></a>
 - t-003
   global_id: t-58450
@@ -104,6 +104,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59082
+    - c-003
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56970|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56970|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Vurungeno kaimo.md#claim-t-62407|Mūšis prie Vurungeno kaimo (mūšis, XIII a.)]]: Mūšyje prie Vurungeno kaimo Jonas, Brabanto kunigaikštis, nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.
@@ -135,10 +136,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-004
-    - t-006
-
+    - t-58448
+    - t-194532
 ## Citatos
 
 - id: c-59080
@@ -160,7 +159,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58450
-
 - id: c-59081
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -182,7 +180,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58449
-
 - id: c-59082
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -207,7 +204,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   pagrindzia:
     - t-58448
     - t-194532
-
 - id: c-167547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

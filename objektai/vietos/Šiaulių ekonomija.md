@@ -103,7 +103,6 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69886
-
 - id: c-175991
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

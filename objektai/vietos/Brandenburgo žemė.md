@@ -83,6 +83,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41628
-
 ## Ryšiai
 - Puolė Brandenburgo žemę: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

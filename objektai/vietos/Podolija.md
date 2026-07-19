@@ -232,7 +232,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119219
-
 - id: c-37629
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -250,7 +249,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119212
-
 - id: c-37630
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -276,7 +274,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119213
-
 - id: c-37631
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -300,7 +297,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119214
-
 - id: c-109511
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -322,7 +318,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119216
-
 - id: c-109512
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -341,7 +336,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119215
-
 - id: c-109513
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -365,7 +359,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119218
-
 - id: c-109514
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -386,7 +379,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-119217
-
 - id: c-167762
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -405,7 +397,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184394
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]
 - Užėmė Podoliją: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

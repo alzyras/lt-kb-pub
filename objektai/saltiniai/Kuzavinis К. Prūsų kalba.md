@@ -53,7 +53,7 @@ Dusburgietis teigia, kad kuzavinis К.
   temporalinis_llm_pakomentavimas: "Citata pateikia šaltinio autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61748
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Kuzavinio „Prūsų kalba“ išleista Vilniuje 1964 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad kuzavinis К.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61116
 ## Citatos
 
 - id: c-61748

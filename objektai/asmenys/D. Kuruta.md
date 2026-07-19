@@ -84,7 +84,6 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40078
-
 - id: c-44314
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

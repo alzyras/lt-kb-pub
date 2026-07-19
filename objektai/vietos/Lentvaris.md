@@ -91,7 +91,6 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183791
-
 - id: c-45179
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

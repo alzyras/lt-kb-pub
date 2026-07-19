@@ -48,7 +48,7 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
   semantiniai_rysiai: "Gediminas užėmė Brianskas (0.96); Gediminas užėmė Perejeslavlis (0.96)"
   pagrindžia:
     - c-168666
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.'
@@ -73,8 +73,7 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185305
 ## Citatos
 
 - id: c-168666

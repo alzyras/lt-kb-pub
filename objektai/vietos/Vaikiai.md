@@ -180,7 +180,6 @@ Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85033
-
 - id: c-167595
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -197,7 +196,6 @@ Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184210
-
 - id: c-167596
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -223,7 +221,6 @@ Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184211
-
 - id: c-168531
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -251,7 +248,6 @@ Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185170
-
 ## Ryšiai
 - Puolė Vaikiai: [[objektai/asmenys/Fridrichas iš Vildenbergo]]
 - Buvo žygio kryptis: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Kryžiuočių ordinas]]

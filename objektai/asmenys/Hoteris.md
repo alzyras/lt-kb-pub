@@ -48,7 +48,7 @@ Pasak Narbuto perteikiamų Edų, Hoteriui valdant Balderis ankstesnę auką pake
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173040
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto perteikiamų Edų, Hoteriui valdant Balderis ankstesnę auką pakeitė žmonių auka.'
@@ -66,8 +66,7 @@ Pasak Narbuto perteikiamų Edų, Hoteriui valdant Balderis ankstesnę auką pake
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190157
 ## Citatos
 
 - id: c-173040

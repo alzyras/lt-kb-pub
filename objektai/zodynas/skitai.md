@@ -145,7 +145,6 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185338
-
 - id: c-168700
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -182,7 +181,6 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185339
-
 - id: c-168701
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -210,7 +208,6 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196389
-
 - id: c-168702
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

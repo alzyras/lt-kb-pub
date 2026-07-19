@@ -64,7 +64,7 @@ Nenurodyta
   semantiniai_rysiai: "Maskva priklausė Maskvėnai (0.70)"
   pagrindžia:
     - c-169240
-
+    - c-001
 <a id="claim-t-185880"></a>
 - t-002
   global_id: t-185880
@@ -85,7 +85,7 @@ Nenurodyta
   semantiniai_rysiai: "Maskvėnai keliavo į Maskva (0.78)"
   pagrindžia:
     - c-169241
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų.'
@@ -107,8 +107,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185879
 - c-002
   santrauka: 'Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -136,8 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185880
 ## Citatos
 
 - id: c-169240
@@ -166,7 +164,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185879
-
 - id: c-169241
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

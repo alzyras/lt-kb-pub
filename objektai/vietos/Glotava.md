@@ -52,7 +52,7 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   semantiniai_rysiai: "Glotava priklausė Pagudė (0.90)"
   pagrindžia:
     - c-59188
-
+    - c-001
 <a id="claim-t-58557"></a>
 - t-002
   global_id: t-58557
@@ -100,8 +100,7 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58556
 ## Citatos
 
 - id: c-59188
@@ -124,7 +123,6 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58556
-
 - id: c-59189
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -145,6 +143,5 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58557
-
 ## Ryšiai
 - Glotava priklausė [[objektai/vietos/Pagudė]]

@@ -99,7 +99,6 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191327
-
 - id: c-174210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -120,6 +119,5 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191328
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Jupiteris]]

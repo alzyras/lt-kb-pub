@@ -119,7 +119,6 @@ Teodoras Narbutas Rozencveigo kroniką siejo su pasakojimu apie kimbrų epochos 
   pagrindzia:
     - t-191811
     - t-197688
-
 - id: c-174694
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -149,7 +149,6 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55145
-
 - id: c-55686
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

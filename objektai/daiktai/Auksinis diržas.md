@@ -67,7 +67,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170037
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kunigaikštis Jonas per Vytauto rankas davė Jogailai auksinį diržą už Jogailos pažadą neatimti Jono tėviškės.'
@@ -86,8 +86,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186854
 ## Citatos
 
 - id: c-170037

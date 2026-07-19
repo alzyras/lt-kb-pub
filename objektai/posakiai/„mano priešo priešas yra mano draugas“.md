@@ -138,7 +138,6 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
   pagrindzia:
     - t-186404
     - t-186407
-
 - id: c-169750
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

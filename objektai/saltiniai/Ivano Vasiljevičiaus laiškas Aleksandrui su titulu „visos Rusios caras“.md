@@ -47,7 +47,7 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169692
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.'
@@ -69,8 +69,7 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186331
 ## Citatos
 
 - id: c-169692

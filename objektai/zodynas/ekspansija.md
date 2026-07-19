@@ -102,7 +102,6 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
   pagrindzia:
     - t-70130
     - t-70131
-
 - id: c-14690
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

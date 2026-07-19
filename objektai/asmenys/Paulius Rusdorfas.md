@@ -167,7 +167,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87452
-
 - id: c-83432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -217,7 +216,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87454
-
 - id: c-83433
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -250,7 +248,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87453
-
 - id: c-173842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -277,7 +274,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190960
-
 - id: c-179348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

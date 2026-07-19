@@ -89,7 +89,6 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05719
-
 - id: c-06617
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

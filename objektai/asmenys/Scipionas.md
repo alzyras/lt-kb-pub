@@ -82,6 +82,5 @@ Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191462
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kimbrai]]

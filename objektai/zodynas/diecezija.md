@@ -48,7 +48,7 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175043
-
+    - c-003
 <a id="claim-t-192166"></a>
 - t-002
   global_id: t-192166
@@ -68,7 +68,7 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175043
-
+    - c-003
 <a id="claim-t-192167"></a>
 - t-003
   global_id: t-192167
@@ -116,9 +116,8 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-192165
+    - t-192166
 ## Citatos
 
 - id: c-175041
@@ -147,7 +146,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192167
-
 - id: c-175042
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -174,7 +172,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192168
-
 - id: c-175043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

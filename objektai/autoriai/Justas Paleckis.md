@@ -121,7 +121,6 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19415
-
 - id: c-166736
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

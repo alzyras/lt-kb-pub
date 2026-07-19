@@ -140,7 +140,6 @@ Nenurodyta
   pagrindzia:
     - t-47770
     - t-47771
-
 - id: c-04988
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -49,7 +49,7 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174135
-
+    - c-001
 <a id="claim-t-191941"></a>
 - t-002
   global_id: t-191941
@@ -111,8 +111,7 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191253
 - c-002
   santrauka: 'Narbutas rašo, kad Aristotelis kartu su Herodotu, Taliu, Teofrastu ir Pitėju Masiliečiu žinojo gintarą, jo savybes ir gavybos vietas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -131,9 +130,6 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-174135
@@ -166,7 +162,6 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191253
-
 - id: c-174823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

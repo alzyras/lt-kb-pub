@@ -100,7 +100,6 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07969
-
 - id: c-10413
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

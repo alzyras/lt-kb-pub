@@ -125,7 +125,6 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74133
-
 - id: c-22415
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -149,7 +148,6 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74135
-
 - id: c-72189
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

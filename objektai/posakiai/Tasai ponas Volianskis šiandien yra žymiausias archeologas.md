@@ -49,7 +49,7 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172476
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu.'
@@ -68,8 +68,7 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189590
 ## Citatos
 
 - id: c-172476

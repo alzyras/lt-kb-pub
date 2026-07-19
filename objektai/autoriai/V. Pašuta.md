@@ -71,6 +71,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61157
+    - c-002
 - susijęs iš [[objektai/autoriai/I. Štai.md#claim-t-88063|I. Štai]]: I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą.
 - susijęs iš [[objektai/autoriai/M. Ročka.md#claim-t-88030|M. Ročka]]: M. Ročka vertė 1966 m. leidyklos „Mintis“ išleistus „Gedimino laiškus“.
 - susijęs iš Gedimino laiškai: „Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.
@@ -97,8 +98,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60525
 ## Citatos
 
 - id: c-61156
@@ -117,7 +117,6 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60523
-
 - id: c-61157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

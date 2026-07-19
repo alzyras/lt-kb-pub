@@ -53,7 +53,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-97157
-
+    - c-166864
 <a id="claim-t-104205"></a>
 - t-002
   global_id: t-104205
@@ -128,7 +128,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-97161
-
+    - c-166866
 <a id="claim-t-183470"></a>
 - t-006
   global_id: t-183470
@@ -172,7 +172,6 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104204
-
 - id: c-97158
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -193,7 +192,6 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104205
-
 - id: c-97159
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -215,7 +213,6 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104207
-
 - id: c-97161
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -238,7 +235,6 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104208
-
 - id: c-97162
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -261,7 +257,6 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104206
-
 - id: c-166864
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -300,7 +295,6 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183470
-
 - id: c-166866
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

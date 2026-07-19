@@ -96,7 +96,6 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192869
-
 - id: c-184403
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

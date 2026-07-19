@@ -96,7 +96,6 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75573
-
 - id: c-73308
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

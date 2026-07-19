@@ -66,8 +66,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Iš konteksto išskleista, ką kaimiečiai pardavė Drujoje. Palikta tik pardavimo informacija, nepridedant neaiškių detalių apie bendrą svorį kaip tikslaus matavimo.'
   susije_objektai: 'mentioned_place: Druja; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Viena'
   pagrindžia:
-    - c-171821
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.'
@@ -91,8 +90,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188932
 ## Citatos
 
 - id: c-171820

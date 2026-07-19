@@ -94,7 +94,6 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93131
-
 - id: c-88528
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

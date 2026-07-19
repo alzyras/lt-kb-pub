@@ -90,7 +90,6 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22217
-
 - id: c-166838
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

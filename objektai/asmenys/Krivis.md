@@ -190,7 +190,6 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60047
-
 - id: c-60679
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -216,7 +215,6 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
   pagrindzia:
     - t-60046
     - t-60048
-
 - id: c-179033
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -241,6 +239,5 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197122
-
 ## Ryšiai
 - Krivis gyveno [[objektai/vietos/Prūsija]]

@@ -131,7 +131,6 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186052
-
 - id: c-169414
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -160,7 +159,6 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   pagrindzia:
     - t-186053
     - t-196522
-
 - id: c-169415
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -181,7 +179,6 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186054
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Tochtamyšas]]
 - Kerim Berdis puolė [[objektai/asmenys/Jerim Berdis]], [[objektai/asmenys/Tochtamyšas]]

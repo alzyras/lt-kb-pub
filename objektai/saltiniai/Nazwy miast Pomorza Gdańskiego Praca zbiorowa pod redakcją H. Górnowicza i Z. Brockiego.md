@@ -46,7 +46,7 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
   temporalinis_llm_pakomentavimas: "Citata pagrindžia pavadinimą, redaktorius ir leidimo metus."
   pagrindžia:
     - c-61827
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rinkinys „Nazwy miast Pomorza Gdańskiego“ išleistas 1978 m., jį redagavo H. Górnowiczas ir Z. Brockis.'
@@ -60,8 +60,7 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61195
 ## Citatos
 
 - id: c-61827

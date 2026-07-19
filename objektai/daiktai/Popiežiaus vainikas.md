@@ -71,7 +71,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60334
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Popiežiui nukentėjus, nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo viršuje įtaisytas rubinas.'
@@ -87,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59702
 ## Citatos
 
 - id: c-60334

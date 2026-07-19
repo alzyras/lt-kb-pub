@@ -139,7 +139,6 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179914
-
 - id: c-167541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -159,7 +158,6 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184156
-
 - id: c-168321
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -186,7 +184,6 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184960
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Pagudėnai]]
 - Heilsbergas priklausė [[objektai/grupes/Pagudėnai]]

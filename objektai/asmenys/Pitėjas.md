@@ -156,8 +156,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Pitėją su gutonų įvardijimu ir Tacito pastaba. Atribucija Narbutui tinka šaltinių aiškinimui, o prielaida apie Plinijų neįtraukta.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_place: Kinija'
   pagrindžia:
-    - c-174103
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti.'
@@ -184,8 +183,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191221
 ## Citatos
 
 - id: c-174102
@@ -210,7 +208,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   pagrindzia:
     - t-191220
     - t-197793
-
 - id: c-174104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -232,7 +229,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   pagrindzia:
     - t-191222
     - t-197794
-
 - id: c-174105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -265,7 +261,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191223
-
 - id: c-179343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -295,7 +290,6 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197795
-
 - id: c-184373
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

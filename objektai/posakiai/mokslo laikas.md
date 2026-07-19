@@ -45,7 +45,7 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-28611
-
+    - c-167730
 ## Citatos
 
 - id: c-28611
@@ -64,7 +64,6 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28707
-
 - id: c-167730
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

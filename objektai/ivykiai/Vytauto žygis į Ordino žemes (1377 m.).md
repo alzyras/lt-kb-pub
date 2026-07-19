@@ -131,7 +131,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67000
-
 - id: c-14187
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -157,7 +156,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66999
-
 - id: c-14188
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

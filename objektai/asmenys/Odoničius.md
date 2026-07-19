@@ -106,6 +106,5 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60396
-
 ## Ryšiai
 - Odoničius keliavo į [[objektai/vietos/Prūsija]]

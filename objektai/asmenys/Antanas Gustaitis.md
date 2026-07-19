@@ -130,7 +130,6 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75691
-
 - id: c-73408
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -151,7 +150,6 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75692
-
 - id: c-166918
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -170,6 +168,5 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183524
-
 ## Ryšiai
 - Antanas Gustaitis pastatė [[objektai/daiktai/Lėktuvai]]

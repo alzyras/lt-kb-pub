@@ -86,7 +86,6 @@ Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvyn�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01507
-
 - id: c-01746
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -96,7 +96,6 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58616
-
 - id: c-59249
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

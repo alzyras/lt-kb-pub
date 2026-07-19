@@ -112,7 +112,6 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22157
-
 - id: c-24843
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -133,7 +132,6 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22156
-
 - id: c-175897
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

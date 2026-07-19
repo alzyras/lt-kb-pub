@@ -83,7 +83,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60404
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Manuelis]]
 - Paleologas užėmė [[objektai/vietos/Konstantinopolis]]

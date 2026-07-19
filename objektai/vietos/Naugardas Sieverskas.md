@@ -127,7 +127,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182022
-
 - id: c-165515
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -147,7 +146,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182020
-
 - id: c-166447
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -168,7 +166,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183056
-
 - id: c-175960
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -186,6 +183,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193216
-
 ## Ryšiai
 - Naugardas Sieverskas priklausė [[objektai/vietos/Lenkija]]

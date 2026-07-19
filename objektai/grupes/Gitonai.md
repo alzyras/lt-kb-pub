@@ -49,7 +49,7 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175740
-
+    - c-001
 <a id="claim-t-192971"></a>
 - t-002
   global_id: t-192971
@@ -99,8 +99,7 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192970
 ## Citatos
 
 - id: c-175740
@@ -131,7 +130,6 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192970
-
 - id: c-175741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

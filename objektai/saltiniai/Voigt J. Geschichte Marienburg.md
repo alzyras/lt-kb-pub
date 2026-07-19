@@ -48,7 +48,7 @@ Dusburgietis teigia, kad voigt J.
   temporalinis_llm_pakomentavimas: "Citata pateikia leidinio pavadinimą, vietą ir metus."
   pagrindžia:
     - c-61984
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Voigto „Geschichte Marienburg“ išleista Karaliaučiuje 1824 m.'
@@ -61,8 +61,7 @@ Dusburgietis teigia, kad voigt J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61352
 ## Citatos
 
 - id: c-61984

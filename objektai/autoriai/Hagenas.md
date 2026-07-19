@@ -64,4 +64,4 @@ Narbutas nurodo, kad Hageno dar neišleistame veikale chemiškai įrodinėta, jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191880

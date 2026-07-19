@@ -75,6 +75,5 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75999
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Gabrielis Narutovičius]]

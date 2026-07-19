@@ -54,6 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Lietuvos atsikūrimą."
   pagrindžia:
     - c-40529
+    - c-167104
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78782|Loreta Uzdraitė]]: Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78786|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Arvydu Anušausku ir Karoliu Zikaru parengė kartoschemą apie žymiausius Lietuvos partizanų mūšius prieš sovietų pajėgas.
@@ -88,7 +89,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38725
-
 - id: c-167104
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

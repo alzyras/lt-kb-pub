@@ -46,7 +46,7 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   semantiniai_rysiai: "Teutonai puolė Dramenava (0.88)"
   pagrindžia:
     - c-86199
-
+    - c-001
 <a id="claim-t-90340"></a>
 - t-002
   global_id: t-90340
@@ -81,6 +81,7 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86200
+    - c-002
 - susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89360|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių, bet grįžtančius juos užpuolė sembai.
 - susijęs iš Pabečiai: Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.
 - susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89359|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Broliai puldinėjo sembus, siekdami juos vėl pajungti krikščionių tikėjimui.
@@ -105,8 +106,7 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-90339
 - c-002
   santrauka: 'Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -119,8 +119,7 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-90341
 ## Citatos
 
 - id: c-86199
@@ -146,7 +145,6 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90339
-
 - id: c-86200
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -164,7 +162,6 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90341
-
 - id: c-86201
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -132,7 +132,6 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos aut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58861
-
 - id: c-167992
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

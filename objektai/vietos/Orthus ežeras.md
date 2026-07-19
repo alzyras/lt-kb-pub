@@ -50,7 +50,7 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171924
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas dievu.'
@@ -66,8 +66,7 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189035
 ## Citatos
 
 - id: c-171924

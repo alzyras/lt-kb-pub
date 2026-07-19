@@ -50,7 +50,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi šaltinio santrumpų ir perteklinę atribuciją."
   pagrindžia:
     - c-87073
-
+    - c-003
 <a id="claim-t-91356"></a>
 - t-002
   global_id: t-91356
@@ -104,6 +104,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   semantiniai_rysiai: "Sembai puolė Rinava (0.78)"
   pagrindžia:
     - c-87071
+    - c-001
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175079|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-183894|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
 - susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89394|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos valsčiaus sembai atkrito nuo tikėjimo, subūrė kariuomenę ir užpuolė Sembos vyskupo Fišhauzeno pilį.
@@ -143,8 +144,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-91358
 - c-003
   santrauka: 'Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -159,8 +159,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91355
 ## Citatos
 
 - id: c-87071
@@ -182,7 +181,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91358
-
 - id: c-87072
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -201,7 +199,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   pagrindzia:
     - t-91356
     - t-91357
-
 - id: c-87073
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -220,7 +217,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91355
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Sembai]]
 - Rinava priklausė [[objektai/vietos/Semba]]

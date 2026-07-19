@@ -53,7 +53,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną bibliografinį sakinį."
   pagrindžia:
     - c-61899
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Abramavičius sudarė „Rankraščių rinkinius“, išleistus Vilniuje 1963 m.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai: Lietuvos TSR Mokslų Akademijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61267
 ## Citatos
 
 - id: c-61899

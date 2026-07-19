@@ -42,7 +42,7 @@ Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aišk
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171880
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aiškindamas juos dviem iš ežero į skirtingas puses tekančiomis upėmis.'
@@ -58,8 +58,7 @@ Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aišk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188991
 ## Citatos
 
 - id: c-171880

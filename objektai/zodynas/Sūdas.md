@@ -83,7 +83,6 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07709
-
 - id: c-09639
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

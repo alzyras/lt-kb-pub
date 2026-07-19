@@ -49,7 +49,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-170495
-
+    - c-002
 <a id="claim-t-187546"></a>
 - t-002
   global_id: t-187546
@@ -70,6 +70,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170496
+    - c-003
 - susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199220|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
 - susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199222|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
 - susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199221|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
@@ -93,8 +94,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187545
 - c-003
   santrauka: 'Lietuvos metraštyje Smolensko bajorai skundėsi Kazimierui, kad prastieji žmonės be jų sutikimo vaivada išsirinko Dorohobužo kunigaikštį Andrejų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -119,8 +119,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187546
 ## Citatos
 
 - id: c-170495
@@ -145,7 +144,6 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187545
-
 - id: c-170496
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

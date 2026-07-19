@@ -122,7 +122,6 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181533
-
 - id: c-165069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -104,7 +104,6 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185467
-
 - id: c-168829
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

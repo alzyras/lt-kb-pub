@@ -63,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172559
-
+    - c-001
 <a id="claim-t-189677"></a>
 - t-002
   global_id: t-189677
@@ -84,6 +84,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172560
+    - c-002
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189437|Kriviai ir Krivių Krivaičiai]]: Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.
 ## Reikšmingi paminėjimai
 - c-001
@@ -110,8 +111,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189676
 - c-002
   santrauka: 'Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -141,8 +141,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189677
 ## Citatos
 
 - id: c-172559
@@ -171,7 +170,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189676
-
 - id: c-172560
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

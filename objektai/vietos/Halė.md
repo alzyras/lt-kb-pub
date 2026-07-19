@@ -65,7 +65,7 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168320
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.'
@@ -90,8 +90,7 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184959
 ## Citatos
 
 - id: c-59327
@@ -111,7 +110,6 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58695
-
 - id: c-168320
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

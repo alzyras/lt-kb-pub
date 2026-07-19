@@ -53,7 +53,7 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, temą, leidinį ir metus."
   pagrindžia:
     - c-61975
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vanago straipsnis apie K. Būgą kaip lietuvių onomastikos pradininką paskelbtas 1980 m. leidinyje „Iš lietuvių kalbotyros istorijos“.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad vanagas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61343
 ## Citatos
 
 - id: c-61975

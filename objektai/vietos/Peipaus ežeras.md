@@ -50,7 +50,7 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175662
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir šiuo žodžiu siejo juos su dabartine Ukmergės apskritimi.'
@@ -72,8 +72,7 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192892
 ## Citatos
 
 - id: c-175662
@@ -101,6 +100,5 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192892
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Estai]]

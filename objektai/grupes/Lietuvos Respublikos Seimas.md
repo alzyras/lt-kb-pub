@@ -94,7 +94,6 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74773
-
 - id: c-72787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

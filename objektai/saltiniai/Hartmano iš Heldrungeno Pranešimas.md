@@ -45,7 +45,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   semantiniai_rysiai: "Livonija priklausė Kryžiuočių ordinas (0.87); Kalavijuočių ordinas priklausė Kryžiuočių ordinas (0.85)"
   pagrindžia:
     - c-61609
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.'
@@ -61,8 +61,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60977
 ## Citatos
 
 - id: c-61609

@@ -60,7 +60,7 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175383
-
+    - c-002
 <a id="claim-t-192614"></a>
 - t-003
   global_id: t-192614
@@ -81,7 +81,7 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175384
-
+    - c-003
 <a id="claim-t-197854"></a>
 - t-004
   global_id: t-197854
@@ -732,8 +732,7 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192613
 - c-003
   santrauka: 'Narbutas nurodo, kad Plinijaus Baltija, remiantis Hardua rankraščiais ir stebėjimais, turėtų vadintis Basilia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -752,8 +751,7 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192614
 ## Citatos
 
 - id: c-67494
@@ -772,8 +770,7 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67689
-
+    - t-67690
 - id: c-175383
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -798,7 +795,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   pagrindzia:
     - t-192613
     - t-197854
-
 - id: c-175384
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -823,7 +819,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192614
-
 - id: c-179364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -843,7 +838,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197855
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
 - Užėmė Baltiją: [[objektai/grupes/Gotai]]

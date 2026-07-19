@@ -109,7 +109,6 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195271
-
 - id: c-177638
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -131,7 +130,6 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195272
-
 - id: c-177639
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

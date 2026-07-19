@@ -60,7 +60,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas ir tiesiogiai paremtas citata apie Martyno iš Opavos veikalą."
   pagrindžia:
     - c-61514
-
+    - c-004
 <a id="claim-t-60880"></a>
 - t-002
   global_id: t-60880
@@ -100,7 +100,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškų vieno sakinio pasakojimą be nutrūkusių fragmentų."
   pagrindžia:
     - c-61513
-
+    - c-003
 <a id="claim-t-60882"></a>
 - t-004
   global_id: t-60882
@@ -117,7 +117,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61512
-
+    - c-002
 <a id="claim-t-60883"></a>
 - t-005
   global_id: t-60883
@@ -157,7 +157,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   temporalinis_llm_pakomentavimas: "Citata pagrindžia datavimą, pradinis teiginys nutrūkęs."
   pagrindžia:
     - c-61517
-
+    - c-007
 <a id="claim-t-60885"></a>
 - t-007
   global_id: t-60885
@@ -224,8 +224,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-60882
 - c-003
   santrauka: '1232 m. Tolede vienas žydas esą rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -245,8 +244,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60881
 - c-004
   santrauka: 'Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XIII a. aštuntojo dešimtmečio įvykiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -261,8 +259,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60879
 - c-007
   santrauka: 'Brolių pamokslininkų ordinas datuojamas 1216 m., o Mažesniųjų brolių ordinas – 1223 m., valdant popiežiui Honorijui III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -276,8 +273,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-60884
 ## Citatos
 
 - id: c-61511
@@ -298,7 +294,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60883
-
 - id: c-61512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -316,7 +311,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60882
-
 - id: c-61513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -340,7 +334,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60881
-
 - id: c-61514
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -363,7 +356,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60879
-
 - id: c-61515
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -386,7 +378,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60887
-
 - id: c-61516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -404,7 +395,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60885
-
 - id: c-61517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -424,7 +414,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60884
-
 - id: c-61518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -443,7 +432,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60880
-
 - id: c-61519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

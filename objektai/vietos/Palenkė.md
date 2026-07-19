@@ -491,7 +491,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112042
-
 - id: c-24355
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -509,7 +508,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193223
-
 - id: c-32314
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -527,7 +525,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112048
-
 - id: c-32315
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -547,7 +544,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindzia:
     - t-112054
     - t-112059
-
 - id: c-46663
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -568,7 +564,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindzia:
     - t-112043
     - t-112046
-
 - id: c-103526
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -588,7 +583,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindzia:
     - t-112058
     - t-112060
-
 - id: c-103527
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -611,7 +605,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindzia:
     - t-112047
     - t-112055
-
 - id: c-103528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -645,7 +638,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindzia:
     - t-112045
     - t-112050
-
 - id: c-103529
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -660,7 +652,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112051
-
 - id: c-103534
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -692,7 +683,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112057
-
 - id: c-103536
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -709,7 +699,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112052
-
 - id: c-103537
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -727,7 +716,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112056
-
 - id: c-166457
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -744,7 +732,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183066
-
 - id: c-168440
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -770,7 +757,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185079
-
 - id: c-168442
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -802,7 +788,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185081
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Puolė Palenkę: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]

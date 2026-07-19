@@ -49,7 +49,7 @@ Dusburgietis teigia, kad zurkalowski E.
   temporalinis_llm_pakomentavimas: "Citata nurodo straipsnio publikavimo metus ir leidinį."
   pagrindžia:
     - c-62020
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'E. Zurkalowskio straipsnis „In welches Jahr fällt die Belagerung Memels durch die Samländer?“ publikuotas 1907 m. Karaliaučiuje leistame AM 44 tome.'
@@ -63,8 +63,7 @@ Dusburgietis teigia, kad zurkalowski E.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61388
 ## Citatos
 
 - id: c-62020

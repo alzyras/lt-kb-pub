@@ -175,7 +175,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184422
-
 - id: c-167784
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -194,7 +193,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184424
-
 - id: c-167785
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -218,7 +216,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184428
-
 - id: c-167786
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -239,7 +236,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184426
-
 - id: c-167787
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -261,7 +257,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184427
-
 - id: c-167789
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -284,6 +279,5 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184425
-
 ## Ryšiai
 - Petras I Didysis sudarė sutartį su [[objektai/asmenys/Augustas II]]

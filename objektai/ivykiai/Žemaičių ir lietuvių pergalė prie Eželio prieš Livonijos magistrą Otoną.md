@@ -106,6 +106,5 @@ Nenurodyta
   pagrindzia:
     - t-185842
     - t-196303
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Žemaičiai]]

@@ -48,7 +48,7 @@ Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173113
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai lietuviški vardai.'
@@ -72,8 +72,7 @@ Narbutas mini kritiko teiginį, kad Jaygello, Jargallo ir Pomoloys esą aiškiai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190230
 ## Citatos
 
 - id: c-173113

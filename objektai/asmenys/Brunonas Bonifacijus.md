@@ -125,7 +125,6 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18863
-
 - id: c-21634
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -145,7 +144,6 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18862
-
 - id: c-21635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,6 +164,5 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18861
-
 ## Ryšiai
 - Brunonas Bonifacijus keliavo į [[objektai/vietos/Lietuva]]

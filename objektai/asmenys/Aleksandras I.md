@@ -145,7 +145,6 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75653
-
 - id: c-73370
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -169,9 +168,8 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75651
+    - t-75654
     - t-75652
-
 - id: c-166912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -222,7 +222,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67867
-
 - id: c-43424
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -242,7 +241,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67866
-
 - id: c-43425
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -272,7 +270,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67868
-
 - id: c-43426
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -303,7 +300,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67869
-
 - id: c-184407
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -333,6 +329,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201057
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Burchardas iš Hornhauzeno]]

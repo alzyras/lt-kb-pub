@@ -56,7 +56,7 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   semantiniai_rysiai: "Karolis (didysis magistras) pastatė Kristmemelis (0.95)"
   pagrindžia:
     - c-85795
-
+    - c-001
 <a id="claim-t-89882"></a>
 - t-002
   global_id: t-89882
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, susietas su asmeniu ir paremtas citata bei antrašte."
   pagrindžia:
     - c-85797
-
+    - c-002
 <a id="claim-t-194496"></a>
 - t-005
   global_id: t-194496
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85795
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -109,10 +109,8 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-004
-    - t-005
-
+    - t-89880
+    - t-194496
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -130,9 +128,7 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-002
-
+    - t-89882
 ## Citatos
 
 - id: c-85795
@@ -156,7 +152,6 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   pagrindzia:
     - t-89880
     - t-194496
-
 - id: c-85797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -181,7 +176,6 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89881
-
+    - t-89882
 ## Ryšiai
 - Karolis (didysis magistras) pastatė [[objektai/vietos/Kristmemelis]]

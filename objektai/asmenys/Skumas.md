@@ -46,6 +46,7 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   semantiniai_rysiai: "Skumas surengė žygį į Baiga (0.90); Stucė surengė žygį į Baiga (0.90)"
   pagrindžia:
     - c-61067
+    - c-001
 - susijęs iš [[objektai/asmenys/Stucė.md#claim-t-60440|Stucė]]: Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos.
 - susijęs iš [[objektai/ivykiai/Trijų brolių ir 40 vyrų žūtis prie Balgos.md#claim-t-62510|Trijų brolių ir 40 vyrų žūtis prie Balgos]]: Prie Balgos pasaloje pasirodę prūsai nukovė tris brolius ir 40 vyrų, kai broliai puolė atsitraukiančius prūsus.
 - susijęs iš [[objektai/asmenys/Stucė.md#claim-t-60440|Stucė]]: Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos.
@@ -65,8 +66,7 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60435
 ## Citatos
 
 - id: c-61067
@@ -91,6 +91,5 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60435
-
 ## Ryšiai
 - Skumas surengė žygį į [[objektai/vietos/Baiga]]

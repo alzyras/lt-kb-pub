@@ -68,7 +68,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63771
-
+    - c-001
 <a id="claim-t-62907"></a>
 - t-002
   global_id: t-62907
@@ -89,7 +89,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas pašalinant fragmentiškumą ir paliekant pagrįstus faktus."
   pagrindžia:
     - c-63771
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -110,9 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-62906
+    - t-62907
 ## Citatos
 
 - id: c-63771

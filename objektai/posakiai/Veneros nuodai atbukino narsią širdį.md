@@ -47,7 +47,7 @@ Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės n
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176173
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės nelaimės nė nepajuto, kad Veneros nuodai atbukino narsią širdį, neleisdami pastebėti šitokio negando.'
@@ -82,8 +82,7 @@ Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193472
 ## Citatos
 
 - id: c-176173

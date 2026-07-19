@@ -49,8 +49,7 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys gramatiškai suformuluotas ir remiasi citatos paaiškinimu apie tvenkinio susidarymą. OCR triukšmas neperkeliamas į sprendimą.'
   pagrindžia:
-    - c-170344
-
+    - c-002
 <a id="claim-t-187308"></a>
 - t-002
   global_id: t-187308
@@ -58,8 +57,7 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Raudonojo tvenkinio vietą ir pobūdį. Jis sutampa su citatos geografiniu paaiškinimu.'
   pagrindžia:
-    - c-170344
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -79,9 +77,8 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-187305
+    - t-187308
 ## Citatos
 
 - id: c-170343

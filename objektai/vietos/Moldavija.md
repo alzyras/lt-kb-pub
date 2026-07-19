@@ -67,7 +67,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Sučiava; llm_object: Moldavija'
   semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] valdė Moldavija'
   pagrindžia:
-    - c-170563
+    - c-002
 - susijęs iš Sučiava: Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
@@ -148,8 +148,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187616
 ## Citatos
 
 - id: c-156307

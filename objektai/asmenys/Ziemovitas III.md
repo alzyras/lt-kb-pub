@@ -96,7 +96,6 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30474
-
 - id: c-32853
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -93,7 +93,6 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40415
-
 - id: c-44505
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -116,7 +115,6 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40416
-
 - id: c-44506
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

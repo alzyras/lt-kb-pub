@@ -78,7 +78,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170890
-
+    - c-001
 <a id="claim-t-187910"></a>
 - t-002
   global_id: t-187910
@@ -117,7 +117,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170890
-
+    - c-001
 <a id="claim-t-187912"></a>
 - t-004
   global_id: t-187912
@@ -231,9 +231,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
+    - t-187909
+    - t-187911
 - c-005
   santrauka: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -253,9 +252,6 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-    - t-008
-
 ## Citatos
 
 - id: c-170890
@@ -285,7 +281,6 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   pagrindzia:
     - t-187909
     - t-187911
-
 - id: c-170891
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -311,7 +306,6 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187912
-
 - id: c-170892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -336,7 +330,6 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187910
-
 - id: c-170894
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -360,7 +353,6 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187913
-
 - id: c-173529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -385,7 +377,6 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   pagrindzia:
     - t-190646
     - t-197388
-
 - id: c-173530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

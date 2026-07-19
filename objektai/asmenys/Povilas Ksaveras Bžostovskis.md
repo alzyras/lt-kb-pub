@@ -127,7 +127,6 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
   pagrindzia:
     - t-23214
     - t-23216
-
 - id: c-21943
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -147,6 +146,5 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23215
-
 ## Ryšiai
 - Povilas Ksaveras Bžostovskis pastatė [[objektai/vietos/Paulava]]

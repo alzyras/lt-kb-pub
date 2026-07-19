@@ -177,7 +177,6 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71971
-
 - id: c-70435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

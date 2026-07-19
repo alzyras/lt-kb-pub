@@ -113,7 +113,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67263
-
 - id: c-67239
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -135,7 +134,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67264
-
 - id: c-67240
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -158,7 +156,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67265
-
 - id: c-67241
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -180,7 +177,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   pagrindzia:
     - t-67258
     - t-67259
-
 - id: c-67245
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

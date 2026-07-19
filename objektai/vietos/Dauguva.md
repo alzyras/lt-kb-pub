@@ -171,7 +171,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171569
-
+    - c-007
 <a id="claim-t-188681"></a>
 - t-008
   global_id: t-188681
@@ -254,6 +254,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175405
+    - c-013
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52441|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52442|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
@@ -463,8 +464,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188680
 - c-013
   santrauka: 'Narbutas rašė, kad skandinavų Reithgothland vadintas kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -481,8 +481,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-192635
 ## Citatos
 
 - id: c-31997
@@ -501,7 +500,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184385
-
 - id: c-43388
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -521,7 +519,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182754
-
 - id: c-166164
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -549,7 +546,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182756
-
 - id: c-166166
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -572,7 +568,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182753
-
 - id: c-166168
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -612,8 +607,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-182751
-
+    - t-182752
 - id: c-166400
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -632,7 +626,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183007
-
 - id: c-171569
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -660,7 +653,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188680
-
 - id: c-171570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -683,7 +675,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188681
-
 - id: c-175403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -706,7 +697,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192633
-
 - id: c-175404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -730,7 +720,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192634
-
 - id: c-175405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -754,6 +743,5 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192635
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Latviai]], [[objektai/grupes/Sėliai]]

@@ -188,7 +188,6 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   pagrindzia:
     - t-59995
     - t-197118
-
 - id: c-60625
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -208,7 +207,6 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59994
-
 - id: c-60626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -227,7 +225,6 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59993
-
 - id: c-60627
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -250,6 +247,5 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
     - t-59992
     - t-184100
     - t-194499
-
 ## Ryšiai
 - Konradas iš Foichtvangeno keliavo į [[objektai/vietos/Prūsija]]

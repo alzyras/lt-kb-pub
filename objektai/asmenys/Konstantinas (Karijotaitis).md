@@ -102,7 +102,6 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-29032
-
 - id: c-178748
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

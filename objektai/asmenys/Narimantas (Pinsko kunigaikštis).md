@@ -177,7 +177,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perrašytas iš pastabos, pašalinant puslapio ir numeracijos triukšmą. Hipotetinis „matyt“ paliktas kaip leidinio pastabos siejimas, nepridedant naujų faktų.'
   pagrindžia:
-    - c-176590
+    - c-005
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
@@ -223,8 +223,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
 - c-005
   santrauka: 'Leidinio pastaboje Narimanto vardas siejamas su Lietuvos metraščių sąrašu, kuriame išvardijami Gedimino sūnūs, ir nurodoma, kad Gedimino sūnus Narimantas gyveno 1277-1348 m.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -242,8 +240,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-193965
 ## Citatos
 
 - id: c-169435
@@ -274,7 +271,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186074
-
 - id: c-173812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -296,7 +292,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190930
-
 - id: c-176122
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -325,7 +320,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193400
-
 - id: c-176591
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -351,7 +345,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   pagrindzia:
     - t-193966
     - t-196861
-
 - id: c-176592
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -374,7 +367,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   pagrindzia:
     - t-193967
     - t-196862
-
 - id: c-176593
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -399,7 +391,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193968
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Patrikas, arba Patricijus]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

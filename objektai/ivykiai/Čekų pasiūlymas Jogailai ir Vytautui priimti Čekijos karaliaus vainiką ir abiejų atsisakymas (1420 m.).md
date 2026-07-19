@@ -85,7 +85,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169036
-
+    - c-169037
 <a id="claim-t-185677"></a>
 - t-003
   global_id: t-185677
@@ -170,7 +170,6 @@ Nenurodyta
     - t-185675
     - t-185676
     - t-196288
-
 - id: c-169038
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -198,3 +197,27 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185677
+- id: c-169037
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 399"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 399."
+  citata_originali: |
+    Jogaila,
+    ilgai neužlaikyda-
+    Ir vien a s, ir k ita s at-
+    mas pasiuntinių, čia pat atvi-
+    m eta
+    rai pareiškė esąs patenkintas
+    ta valdžia, kurią gavęs iš die­
+    vo, nieko neskriausdamas, o svetimų valdų visai ne­
+    trokštas. Jis nieku būdu negalįs nė įsivaizduoti, kad
+    galėtų būti karaliumi žmonių, nenorinčių paklusti baž­
+    nyčios įstatymams. Panašų atsakymą gavo jie ir iš
+    Vytauto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185676

@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi puslapio išnašos triukšmo."
   pagrindžia:
     - c-87558
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
@@ -93,8 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91916
 ## Citatos
 
 - id: c-87558

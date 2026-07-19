@@ -92,7 +92,6 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03021
-
 - id: c-166349
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

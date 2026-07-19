@@ -97,7 +97,6 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195626
-
 - id: c-178029
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

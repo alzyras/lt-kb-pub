@@ -97,7 +97,6 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45751
-
 - id: c-48450
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -129,7 +129,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171269
-
+    - c-004
 <a id="claim-t-194613"></a>
 - t-005
   global_id: t-194613
@@ -143,6 +143,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177012
+    - c-005
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188454|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188514|Birutė]]: Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip Žemaičių didiko dukterį ir Praurimės aukuro ugnies saugotoją prie Palangos.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188517|Birutė]]: Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau.
@@ -216,8 +217,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188375
 - c-005
   santrauka: 'Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -233,8 +233,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-194613
 ## Citatos
 
 - id: c-36712
@@ -258,7 +257,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81841
-
 - id: c-55376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -284,7 +282,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55031
-
 - id: c-55377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -303,7 +300,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55032
-
 - id: c-171269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -330,7 +326,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188375
-
 - id: c-177012
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

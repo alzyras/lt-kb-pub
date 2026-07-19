@@ -83,6 +83,5 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58708
-
 ## Ryšiai
 - Puolė Neapolį: [[objektai/asmenys/Konradas (Fridricho II sūnus)]]

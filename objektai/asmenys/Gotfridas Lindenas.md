@@ -100,7 +100,6 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87509
-
 - id: c-83488
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -45,7 +45,7 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-28467
-
+    - c-167728
 ## Citatos
 
 - id: c-28467
@@ -64,7 +64,6 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28563
-
 - id: c-167728
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

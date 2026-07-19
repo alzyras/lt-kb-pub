@@ -97,7 +97,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175274
-
+    - c-004
 <a id="claim-t-192481"></a>
 - t-004
   global_id: t-192481
@@ -119,7 +119,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175275
-
+    - c-005
 <a id="claim-t-192482"></a>
 - t-005
   global_id: t-192482
@@ -144,7 +144,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175276
-
+    - c-006
 <a id="claim-t-192483"></a>
 - t-006
   global_id: t-192483
@@ -185,7 +185,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175278
-
+    - c-008
 <a id="claim-t-197526"></a>
 - t-008
   global_id: t-197526
@@ -352,8 +352,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192480
 - c-005
   santrauka: 'Narbutas rašo, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalkos kraštas pateko priešams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -370,8 +369,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-192481
 - c-006
   santrauka: 'Narbutas nurodo, kad apie 253 m. jungtiniai finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -399,8 +397,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-192482
 - c-008
   santrauka: 'Lotynų kalbą slavai venedai ir lietuviai var tojo kaip diplomatinę kalbą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -418,8 +415,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-192484
 ## Citatos
 
 - id: c-82752
@@ -461,7 +457,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86774
-
 - id: c-82753
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -492,7 +487,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86773
-
 - id: c-175274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -510,7 +504,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   pagrindzia:
     - t-192480
     - t-197526
-
 - id: c-175275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -531,7 +524,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192481
-
 - id: c-175276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -566,7 +558,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   pagrindzia:
     - t-192482
     - t-197528
-
 - id: c-175277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -589,7 +580,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192483
-
 - id: c-175278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -611,7 +601,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192484
-
 - id: c-179232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -636,7 +625,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197527
-
 - id: c-179233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -662,7 +650,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197529
-
 - id: c-184280
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -682,7 +669,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200930
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Skalka]]
 - Turėjo priklausinį: [[objektai/grupes/Budinai]]

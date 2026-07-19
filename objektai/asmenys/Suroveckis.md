@@ -80,8 +80,7 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-
+    - t-191323
 - id: c-174865
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -113,4 +112,4 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-191983

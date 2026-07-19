@@ -50,7 +50,7 @@ Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakran
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175663
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono.'
@@ -70,8 +70,7 @@ Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakran
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192893
 ## Citatos
 
 - id: c-175663

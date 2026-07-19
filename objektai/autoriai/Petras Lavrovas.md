@@ -48,6 +48,7 @@ Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas ir Vilniaus gub
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174496
+    - c-001
 - susijęs iš [[objektai/ivykiai/Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo.md#claim-t-192048|Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo]]: T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai.
 - susijęs iš [[objektai/ivykiai/Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo.md#claim-t-192048|Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo]]: T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai.
 ## Reikšmingi paminėjimai
@@ -71,8 +72,7 @@ Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas ir Vilniaus gub
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191614
 ## Citatos
 
 - id: c-174496

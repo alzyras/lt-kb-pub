@@ -125,7 +125,6 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66060
-
 - id: c-31251
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -148,7 +147,6 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66062
-
 - id: c-66378
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -71,6 +71,7 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170567
+    - c-002
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184683|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90063|Treniota]]: Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą.
 - susijęs iš Z. Ivinskis, Nalšia: Z. Ivinskio „Nalšia“ 1959 m. nurodyta „Lietuvių enciklopedijos“ XIX tome, 490-491 puslapiuose.
@@ -101,8 +102,7 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187620
 ## Citatos
 
 - id: c-168690
@@ -131,7 +131,6 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185329
-
 - id: c-170567
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

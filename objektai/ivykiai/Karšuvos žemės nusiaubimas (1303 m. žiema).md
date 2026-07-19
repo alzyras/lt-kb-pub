@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis."
   pagrindžia:
     - c-63636
-
+    - c-002
 <a id="claim-t-194393"></a>
 - t-003
   global_id: t-194393
@@ -84,7 +84,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63636
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po Karšuvos žygio kariuomenė traukė užšalusiomis Kuršių mariomis per minkštą, banguojantį ledą, tačiau nė vienas žmogus nenuskendo.'
@@ -118,10 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
+    - t-62821
+    - t-194393
 ## Citatos
 
 - id: c-63636

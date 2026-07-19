@@ -55,7 +55,7 @@ Dusburgietis teigia, kad powierski J.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia trumpą bibliografinį faktą apie leidinį."
   pagrindžia:
     - c-61878
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio veikalas „Stosunki polsko-pruskie do 1230 r.“ išleistas Torunėje 1968 m.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad powierski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61246
 ## Citatos
 
 - id: c-61878

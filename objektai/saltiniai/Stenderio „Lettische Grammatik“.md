@@ -69,7 +69,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173364
-
+    - c-002
 <a id="claim-t-190482"></a>
 - t-003
   global_id: t-190482
@@ -132,7 +132,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173368
-
+    - c-006
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad Stenderis latvių Dyžą arba Dyszą laikė deive, savo ypatybėmis atitikusia Pergrubę.'
@@ -149,8 +149,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190481
 - c-006
   santrauka: 'Narbutas cituoja Stenderio prisiminimą, kad jaunystėje dėl „tokio bergždžio būrimo“ nekaltai nubaustas vienas žmogus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -167,8 +166,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190485
 ## Citatos
 
 - id: c-173363
@@ -191,7 +189,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190480
-
 - id: c-173364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -215,7 +212,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190481
-
 - id: c-173365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -233,7 +229,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190482
-
 - id: c-173366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -253,7 +248,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190483
-
 - id: c-173368
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

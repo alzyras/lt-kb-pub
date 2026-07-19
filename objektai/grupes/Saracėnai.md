@@ -71,7 +71,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti duoklės trukmę ir dydį."
   pagrindžia:
     - c-64214
-
+    - c-002
 <a id="claim-t-184583"></a>
 - t-003
   global_id: t-184583
@@ -94,6 +94,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie saracėnus ir pagrįstas citata."
   pagrindžia:
     - c-167944
+    - c-003
 - susijęs iš Ispanija: 1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.
 - susijęs iš [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.).md#claim-t-59475|tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]: 1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų.
 - susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
@@ -143,8 +144,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-63211
 - c-003
   santrauka: '1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -175,8 +175,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-184583
 ## Citatos
 
 - id: c-64213
@@ -198,7 +197,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63210
-
 - id: c-64214
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -219,7 +217,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63211
-
 - id: c-167944
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -249,7 +246,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184583
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Almimolinas]]
 - Saracėnai užėmė [[objektai/vietos/Maljorka]], [[objektai/vietos/Menorka]]

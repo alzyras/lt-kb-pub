@@ -67,6 +67,5 @@ Dusburgietis teigia, kad vėlesnė Romehnen Semboje (jos vak.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58718
-
 ## Ryšiai
 - Romehnen priklausė [[objektai/vietos/Semba]]

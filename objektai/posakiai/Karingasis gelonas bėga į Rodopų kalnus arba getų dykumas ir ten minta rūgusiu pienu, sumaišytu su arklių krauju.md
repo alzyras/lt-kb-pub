@@ -86,7 +86,6 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192116
-
 - id: c-177301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

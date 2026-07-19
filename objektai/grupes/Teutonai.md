@@ -433,7 +433,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07849
-
 - id: c-10084
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -450,7 +449,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07849
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Sventopelkas]]
 - Sudarė sutartį su: [[objektai/grupes/Lietuviai]]

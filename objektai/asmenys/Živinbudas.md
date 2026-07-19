@@ -161,7 +161,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60477
-
 - id: c-168262
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -191,7 +190,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184901
-
 - id: c-168265
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -237,7 +235,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184904
-
 - id: c-176137
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -282,7 +279,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193415
-
 - id: c-176647
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -310,7 +306,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194022
-
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Pajauta]]
 - Sutuoktiniai: [[objektai/asmenys/Pajauta]]

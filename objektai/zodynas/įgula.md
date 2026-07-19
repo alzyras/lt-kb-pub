@@ -188,7 +188,6 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185371
-
 - id: c-168733
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -229,7 +228,6 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185372
-
 - id: c-178660
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

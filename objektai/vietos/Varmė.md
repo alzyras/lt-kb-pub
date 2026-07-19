@@ -370,7 +370,6 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   pagrindzia:
     - t-91426
     - t-91429
-
 - id: c-87135
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -394,7 +393,6 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   pagrindzia:
     - t-91428
     - t-91430
-
 - id: c-87137
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -416,7 +414,6 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91424
-
 - id: c-87139
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -451,7 +448,6 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   pagrindzia:
     - t-91423
     - t-91427
-
 - id: c-178889
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -478,7 +474,6 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196750
-
 ## Ryšiai
 - Puolė Varmę: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Gubučiai]]

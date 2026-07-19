@@ -173,7 +173,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   pagrindzia:
     - t-79892
     - t-79893
-
 - id: c-76807
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -191,7 +190,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79891
-
 - id: c-167687
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -209,7 +207,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184315
-
 ## Ryšiai
 - Puolė Odojevą: [[objektai/asmenys/Chudandachas]]
 - Užėmė Odojevą: [[objektai/grupes/Lietuvos kariuomenė]]

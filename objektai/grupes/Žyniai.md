@@ -49,7 +49,7 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172285
-
+    - c-001
 <a id="claim-t-194606"></a>
 - t-002
   global_id: t-194606
@@ -217,8 +217,7 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189398
 ## Citatos
 
 - id: c-172285
@@ -247,7 +246,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189398
-
 - id: c-177005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -270,7 +268,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194606
-
 - id: c-179075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -293,6 +290,5 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197228
-
 ## Ryšiai
 - Žyniai gyveno [[objektai/vietos/Upsala]]

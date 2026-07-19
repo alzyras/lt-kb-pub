@@ -44,7 +44,7 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167411
-
+    - c-002
 <a id="claim-t-59085"></a>
 - t-002
   global_id: t-59085
@@ -78,9 +78,7 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-001
-
+    - t-59084
 ## Citatos
 
 - id: c-59716
@@ -102,7 +100,6 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59085
-
 - id: c-167411
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

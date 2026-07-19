@@ -48,6 +48,7 @@ Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vad
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174289
+    - c-001
 - susijęs iš [[objektai/asmenys/Plinijus Vyresnysis.md#claim-t-191095|Plinijus Vyresnysis]]: Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
 - susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190957|Plinijus]]: Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
 - susijęs iš [[objektai/autoriai/Plinijus.md#claim-t-190784|Plinijus]]: Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.
@@ -70,8 +71,7 @@ Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191407
 ## Citatos
 
 - id: c-174289

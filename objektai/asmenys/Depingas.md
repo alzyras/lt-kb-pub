@@ -48,7 +48,7 @@ Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174267
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė ir Pavyslę.'
@@ -66,8 +66,7 @@ Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191385
 ## Citatos
 
 - id: c-174267

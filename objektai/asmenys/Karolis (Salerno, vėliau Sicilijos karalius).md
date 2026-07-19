@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatos faktą."
   pagrindžia:
     - c-60986
-
+    - c-001
 <a id="claim-t-194497"></a>
 - t-003
   global_id: t-194497
@@ -69,7 +69,7 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60986
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,10 +86,8 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
+    - t-60354
+    - t-194497
 ## Citatos
 
 - id: c-60986

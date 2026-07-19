@@ -46,6 +46,7 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   semantiniai_rysiai: "Lietuviai keliavo į Vilnija (0.78); Lietuviai kariavo prieš Armija Krajova (0.76)"
   pagrindžia:
     - c-22342
+    - c-166503
 - susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-66257|Vietinė rinktinė]]: Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
 - susijęs iš [[objektai/ivykiai/Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte.md#claim-t-183281|Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)]]: Vilniaus krašte lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
 - susijęs iš [[objektai/ivykiai/Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte.md#claim-t-75294|Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)]]: Kovai su vietos lenkų pasipriešinimu į Vilniją pasiųsti Vietinės rinktinės daliniai susidūrė su ginkluotais Armijos Krajovos daliniais.
@@ -74,7 +75,6 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19638
-
 - id: c-166503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

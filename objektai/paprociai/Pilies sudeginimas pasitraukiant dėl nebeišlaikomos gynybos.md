@@ -67,7 +67,8 @@ Nenurodyta
   pagrindžia:
     - c-63468
     - c-63469
-
+    - c-001
+    - c-002
 <a id="claim-t-62712"></a>
 - t-002
   global_id: t-62712
@@ -86,7 +87,7 @@ Nenurodyta
   semantiniai_rysiai: "Spitenbergas priklausė Pamedė (0.95)"
   pagrindžia:
     - c-63470
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Miestiečiai ir pilėnai, manydami nebegalėsią atsilaikyti prieš antpuolį, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
@@ -103,8 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62711
 - c-002
   santrauka: 'Miestiečiai ir pilėnai, manydami nebegalėsią atsilaikyti prieš antpuolį, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -120,8 +120,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62711
 - c-003
   santrauka: 'Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -140,8 +139,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62712
 ## Citatos
 
 - id: c-63468
@@ -171,7 +169,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62711
-
 - id: c-63469
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -194,7 +191,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62711
-
 - id: c-63470
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

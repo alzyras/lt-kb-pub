@@ -84,7 +84,6 @@ Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė br
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60157
-
 - id: c-60790
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

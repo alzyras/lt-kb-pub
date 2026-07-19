@@ -87,7 +87,6 @@ Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21170
-
 - id: c-166764
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

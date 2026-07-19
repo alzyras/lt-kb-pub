@@ -71,6 +71,5 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35024
-
 ## Ryšiai
 - Andriejus (Polocko kunigaikštis) surengė žygį į [[objektai/vietos/Lietuva]]

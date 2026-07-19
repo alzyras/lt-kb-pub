@@ -55,7 +55,7 @@ Dusburgietis teigia, kad labuda G.
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė fragmentiška; citata palaiko glaustą bibliografinį teiginį."
   pagrindžia:
     - c-61757
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'G. Labudos publikacija apie baltų gyventojų apgyvendinimą kairiajame žemutinės Vyslos krante išspausdinta 1979 m. „Konferencja pomorska“ leidinyje.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad labuda G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61125
 ## Citatos
 
 - id: c-61757

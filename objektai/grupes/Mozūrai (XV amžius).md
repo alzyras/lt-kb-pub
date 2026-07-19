@@ -105,7 +105,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-11083
-
 - id: c-175879
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -124,7 +123,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193119
-
 - id: c-175880
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -142,7 +140,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193120
-
 - id: c-177339
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

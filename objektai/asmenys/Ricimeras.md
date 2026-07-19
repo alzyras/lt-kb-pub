@@ -52,7 +52,7 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174193
-
+    - c-001
 <a id="claim-t-191975"></a>
 - t-002
   global_id: t-191975
@@ -115,8 +115,7 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191311
 ## Citatos
 
 - id: c-174193
@@ -147,7 +146,6 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191311
-
 - id: c-174857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

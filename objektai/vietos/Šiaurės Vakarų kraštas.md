@@ -110,7 +110,6 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77717
-
 - id: c-24628
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -127,7 +126,6 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77716
-
 - id: c-75046
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

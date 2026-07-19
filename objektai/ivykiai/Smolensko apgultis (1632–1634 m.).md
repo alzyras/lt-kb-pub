@@ -160,7 +160,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09883
-
 - id: c-11912
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -183,7 +182,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09881
-
 - id: c-11913
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -220,7 +218,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09880
-
 - id: c-11914
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -241,6 +238,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09882
-
 ## Ryšiai
 - Apgulė Smolensko apgultį (1632–1634 m.): [[objektai/grupes/Rusai]]

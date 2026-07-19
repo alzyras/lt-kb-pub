@@ -45,6 +45,7 @@ Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59752
+    - c-001
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190600|Lietuviai]]: Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.
 - susijęs iš [[objektai/ivykiai/Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.).md#claim-t-62769|Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.)]]: Brolių kariuomenė nukovė 70 lietuvių, išgelbėjo daug belaisvių krikščionių, o likę lietuviai bėgdami prarado daug žmonių ir arklių.
@@ -66,8 +67,7 @@ Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59120
 ## Citatos
 
 - id: c-59752

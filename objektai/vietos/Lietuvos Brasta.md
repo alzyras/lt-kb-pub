@@ -171,7 +171,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79642
-
 - id: c-43586
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,7 +191,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79646
-
 - id: c-43588
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -212,7 +210,6 @@ media_all_json: |-
   pagrindzia:
     - t-79641
     - t-79643
-
 - id: c-76604
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -236,7 +233,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79640
-
 - id: c-76605
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -253,6 +249,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79645
-
 ## Ryšiai
 - Apgulė Lietuvos Brastą: [[objektai/grupes/Švedai]]

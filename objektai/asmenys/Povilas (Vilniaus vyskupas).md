@@ -48,7 +48,7 @@ Vilniaus vyskupui Povilui gyvam esant, Viklifo pasekėjas gavo leidimą kalbėti
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169373
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vilniaus vyskupui Povilui gyvam esant, Viklifo pasekėjas gavo leidimą kalbėti apie tikėjimą Šv. Onos bažnyčioje.'
@@ -69,8 +69,7 @@ Vilniaus vyskupui Povilui gyvam esant, Viklifo pasekėjas gavo leidimą kalbėti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186012
 ## Citatos
 
 - id: c-169373

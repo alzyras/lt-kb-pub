@@ -52,4 +52,3 @@ Prie Oršos šešiolika tūkstančių lietuvių raitelių, neradę brastos per D
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

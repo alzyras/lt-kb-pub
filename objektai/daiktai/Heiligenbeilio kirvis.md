@@ -69,7 +69,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172604
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.'
@@ -95,8 +95,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189721
 ## Citatos
 
 - id: c-172604

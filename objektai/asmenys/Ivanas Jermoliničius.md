@@ -85,6 +85,5 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87694
-
 ## Ryšiai
 - Ivanas Jermoliničius sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

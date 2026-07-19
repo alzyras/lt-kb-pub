@@ -54,7 +54,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59775
-
+    - c-002
 <a id="claim-t-59143"></a>
 - t-002
   global_id: t-59143
@@ -91,8 +91,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59142
 ## Citatos
 
 - id: c-59774
@@ -120,7 +119,6 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59143
-
 - id: c-59775
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

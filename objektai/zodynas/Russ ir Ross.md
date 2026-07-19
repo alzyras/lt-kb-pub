@@ -87,7 +87,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175058
-
+    - c-003
 <a id="claim-t-192189"></a>
 - t-003
   global_id: t-192189
@@ -106,7 +106,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175055
-
+    - c-001
 <a id="claim-t-192190"></a>
 - t-004
   global_id: t-192190
@@ -147,7 +147,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175055
-
+    - c-001
 <a id="claim-t-192192"></a>
 - t-006
   global_id: t-192192
@@ -166,6 +166,7 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175058
+    - c-003
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192234|revoliucija]]: Teodoras Narbutas nesiliaujančias sarmatų revoliucijas pateikia kaip priežastį, dėl kurios agatirai nebegalėjo ramiai gyventi prie Marokos.
 - susijęs iš [[objektai/zodynas/revoliucija.md#claim-t-192238|revoliucija]]: Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos.
 ## Reikšmingi paminėjimai
@@ -187,9 +188,8 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-003
-
+    - t-192189
+    - t-192191
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -209,9 +209,8 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-006
-
+    - t-192188
+    - t-192192
 ## Citatos
 
 - id: c-175055
@@ -242,7 +241,6 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   pagrindzia:
     - t-192189
     - t-192191
-
 - id: c-175057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -265,7 +263,6 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   pagrindzia:
     - t-192186
     - t-192190
-
 - id: c-175058
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

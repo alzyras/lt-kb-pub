@@ -45,7 +45,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61110
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.'
@@ -65,8 +65,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60478
 ## Citatos
 
 - id: c-61110

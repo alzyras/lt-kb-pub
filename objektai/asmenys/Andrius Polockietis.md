@@ -116,7 +116,6 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30206
-
 - id: c-32709
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -136,7 +135,6 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30207
-
 - id: c-32710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -155,6 +153,5 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30208
-
 ## Ryšiai
 - Andrius Polockietis užėmė [[objektai/vietos/Lukomlis]]

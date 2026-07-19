@@ -123,7 +123,6 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87505
-
 - id: c-83484
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -161,7 +160,6 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87504
-
 - id: c-178705
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -56,7 +56,7 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
   temporalinis_llm_pakomentavimas: "Pašalinta nereikalinga formuluotė ir paliktas citatos palaikomas faktas."
   pagrindžia:
     - c-59260
-
+    - c-001
 <a id="claim-t-58629"></a>
 - t-002
   global_id: t-58629
@@ -73,7 +73,7 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59261
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nemunas prasidėjo Rusios valdose ir skyrė Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
@@ -91,8 +91,7 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58628
 - c-002
   santrauka: 'Rusios žemė buvo minima tarp Prūsijos žemę ribojusių vietovių ir gamtinių ribų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -109,8 +108,7 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58629
 ## Citatos
 
 - id: c-59260
@@ -132,7 +130,6 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58628
-
 - id: c-59261
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

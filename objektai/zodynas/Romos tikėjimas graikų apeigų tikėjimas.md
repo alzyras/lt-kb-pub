@@ -123,7 +123,6 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86507
-
 - id: c-82487
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -109,7 +109,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-58932
-
+    - c-003
 <a id="claim-t-58302"></a>
 - t-005
   global_id: t-58302
@@ -127,7 +127,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-58934
-
+    - c-005
+    - c-167534
 <a id="claim-t-58303"></a>
 - t-006
   global_id: t-58303
@@ -137,7 +138,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-58930
-
+    - c-001
 <a id="claim-t-58305"></a>
 - t-007
   global_id: t-58305
@@ -154,7 +155,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-58931
-
+    - c-002
 <a id="claim-t-194529"></a>
 - t-011
   global_id: t-194529
@@ -168,7 +169,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-58932
-
+    - c-003
 <a id="claim-t-194730"></a>
 - t-012
   global_id: t-194730
@@ -181,6 +182,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177126
+    - c-009
 - susijęs iš [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas.md#claim-t-62195|Antrasis Bartenšteino pilies sugriovimas (pilis)]]: Sūduviai staiga apsiautė Bartenšteino pilį, sugriovė ją, gyventojus išžudė arba išsivarė į nelaisvę ir pilį pavertė pelenais.
 - susijęs iš [[objektai/asmenys/Miligedas.md#claim-t-60173|Miligedas]]: Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89237|Sūduviai]]: Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.
@@ -261,8 +263,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-58303
 - c-002
   santrauka: 'Dusburgietis pasakoja, kad apgultame Bartenšteine nebegalėję priešintis kryžiuočiai Dievo buvo pamokyti bėgti paliekant pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -276,8 +277,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-58305
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -294,10 +294,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-009
-    - t-011
-
+    - t-58301
+    - t-194529
 - c-005
   santrauka: 'Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -313,8 +311,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-58302
 - c-009
   santrauka: 'Vėliau, pagal 1331 metų rugsėjo 17 dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys buvo sunaikintos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -331,8 +328,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-194730
 ## Citatos
 
 - id: c-58930
@@ -352,7 +348,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58303
-
 - id: c-58931
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -373,7 +368,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58305
-
 - id: c-58932
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -397,7 +391,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   pagrindzia:
     - t-58301
     - t-194529
-
 - id: c-58933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -417,7 +410,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58300
-
 - id: c-58934
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -440,7 +432,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58302
-
 - id: c-58936
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -461,7 +452,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58299
-
 - id: c-167532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -484,7 +474,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58298
-
 - id: c-167534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -525,7 +514,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194730
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Miligedas]]
 - Apgulė Bartenšteiną: [[objektai/grupes/Sūduviai]]

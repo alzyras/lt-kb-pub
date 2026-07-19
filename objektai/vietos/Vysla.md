@@ -608,7 +608,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   sudarymo_pagrindimas: 'Iš fragmento padarytas pilnas sakinys apie Narbuto argumentą dėl tautos susidarymo. Vertinimas „neįtikėtina“ išlaikytas su atribucija.'
   susije_objektai: 'mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Viena'
   pagrindžia:
-    - c-175556
+    - c-025
 - susijęs iš De origine actibusque Getharum: Jordanes 551 m. veikale „De origine actibusque Getharum“ aisčius apibūdino kaip visiškai taikingą tautą prie ilgo pajūrio kranto į rytus nuo Vidivarii.
 - susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-190796|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Teodoras Narbutas rašo, kad Tacitas gotus apibūdino kaip nuo senų laikų kairiojoje Vyslos žemupio pakrantėje gyvenusią tautą.
 - susijęs iš [[objektai/grupes/Vidivarii.md#claim-t-31369|Vidivarii]]: Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.
@@ -950,8 +950,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032
-
+    - t-192786
 ## Citatos
 
 - id: c-32569
@@ -969,7 +968,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181227
-
 - id: c-164777
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1010,7 +1008,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181216
-
 - id: c-164778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1033,7 +1030,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181234
-
 - id: c-164779
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1061,7 +1057,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181223
-
 - id: c-164780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1089,7 +1084,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181233
-
 - id: c-164781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1111,7 +1105,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181225
-
 - id: c-164782
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1134,7 +1127,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindzia:
     - t-181229
     - t-181237
-
 - id: c-164783
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1153,7 +1145,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181228
-
 - id: c-164784
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1179,7 +1170,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindzia:
     - t-181213
     - t-181217
-
 - id: c-164785
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1199,8 +1189,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-181211
-
+    - t-181221
 - id: c-164786
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1221,7 +1210,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181239
-
 - id: c-164787
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1251,7 +1239,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindzia:
     - t-181219
     - t-181235
-
 - id: c-164792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1277,7 +1264,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181224
-
 - id: c-164795
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1297,7 +1283,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181220
-
 - id: c-164797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1319,7 +1304,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181230
-
 - id: c-164801
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1338,7 +1322,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181212
-
 - id: c-164803
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1356,7 +1339,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181231
-
 - id: c-167263
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1396,7 +1378,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181222
-
 - id: c-168573
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1419,7 +1400,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185212
-
 - id: c-171761
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1442,7 +1422,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188872
-
 - id: c-175552
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1468,7 +1447,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192782
-
 - id: c-175553
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1492,7 +1470,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192783
-
 - id: c-175554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1515,7 +1492,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192784
-
 - id: c-175555
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1539,7 +1515,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192785
-
 - id: c-178897
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1569,7 +1544,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196760
-
 - id: c-179054
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1595,7 +1569,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197182
-
 - id: c-179409
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1614,7 +1587,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197942
-
 - id: c-184469
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -1635,6 +1607,5 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201119
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Gotai]], [[objektai/grupes/Vidivarii]]

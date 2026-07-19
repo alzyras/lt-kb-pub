@@ -129,7 +129,6 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60198
-
 - id: c-60830
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

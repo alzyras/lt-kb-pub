@@ -123,7 +123,6 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
   pagrindzia:
     - t-60460
     - t-197162
-
 - id: c-184392
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -141,7 +140,6 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201042
-
 - id: c-184393
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -166,6 +164,5 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201043
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Sventopelkas]]

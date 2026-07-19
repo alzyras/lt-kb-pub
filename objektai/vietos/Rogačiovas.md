@@ -169,9 +169,6 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-005
-
 ## Citatos
 
 - id: c-171941
@@ -198,7 +195,6 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189052
-
 - id: c-175509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -218,7 +214,6 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192739
-
 - id: c-175510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -251,7 +246,6 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   pagrindzia:
     - t-192740
     - t-197916
-
 - id: c-175511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

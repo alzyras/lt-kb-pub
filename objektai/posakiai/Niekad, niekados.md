@@ -71,7 +71,6 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67280
-
 - id: c-67251
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

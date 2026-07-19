@@ -47,7 +47,7 @@ Dusburgietis teigia, kad vaičiulaitis A.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61439
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“.'
@@ -61,8 +61,7 @@ Dusburgietis teigia, kad vaičiulaitis A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60807
 ## Citatos
 
 - id: c-61439

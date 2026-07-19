@@ -45,7 +45,7 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59768
-
+    - c-001
 <a id="claim-t-184037"></a>
 - t-002
   global_id: t-184037
@@ -65,6 +65,7 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167422
+    - c-002
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,8 +83,7 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59136
 - c-002
   santrauka: 'Birželio 29 d. Henriko Cutsverto vadovaujami broliai nusprendė negrįžti tuščiomis ir nuniokojo Aukaimio pilies apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -105,8 +105,7 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184037
 ## Citatos
 
 - id: c-59768
@@ -135,7 +134,6 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59136
-
 - id: c-167422
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

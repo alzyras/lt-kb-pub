@@ -115,7 +115,6 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87410
-
 - id: c-83388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -137,7 +136,6 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87408
-
 - id: c-83389
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -152,7 +152,6 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
   pagrindzia:
     - t-189120
     - t-197376
-
 - id: c-172009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -176,7 +175,6 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189121
-
 - id: c-172010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -197,7 +195,6 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189122
-
 - id: c-179155
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

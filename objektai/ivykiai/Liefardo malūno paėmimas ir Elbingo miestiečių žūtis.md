@@ -70,7 +70,7 @@ Nenurodyta
   semantiniai_rysiai: "Pagudėnai puolė Elbingo miestiečiai (0.88); Pagudėnai sudarė sutartį su Elbingo miestiečiai (0.80)"
   pagrindžia:
     - c-63691
-
+    - c-002
 <a id="claim-t-62855"></a>
 - t-002
   global_id: t-62855
@@ -88,7 +88,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63692
-
+    - c-003
 <a id="claim-t-62856"></a>
 - t-003
   global_id: t-62856
@@ -128,8 +128,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62854
 - c-003
   santrauka: 'Dusburgiečio pasakojimu, Elbingo miestiečiai nuo sienų matė atsivėrusį dangų ir angelų vedamas nukautųjų sielas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -148,8 +147,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62855
 ## Citatos
 
 - id: c-63690
@@ -175,7 +173,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62856
-
 - id: c-63691
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -202,7 +199,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62854
-
 - id: c-63692
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

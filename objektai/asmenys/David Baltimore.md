@@ -57,7 +57,6 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 
 <a id="claim-t-78048"></a>
 - t-001
-  global_id: t-78048
   teiginys: 'David Baltimore''as buvo 1975 m. medicinos ir fiziologijos Nobelio premijos laureatas, siejamas su Lietuva.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinę formuluotę apie minimą šaltinyje ir suformuluoti tiesioginį faktą.'
   susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika'
@@ -65,7 +64,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinę formuluotę apie minimą šaltinyje ir suformuluoti tiesioginį faktą.'
   pagrindžia:
-    - c-001
+    - c-21647
 - susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
 - susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
 - susijęs iš [[objektai/asmenys/Bernardas Berensonas.md#claim-t-101637|Bernardas Berensonas]]: Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių apylinkių.
@@ -105,3 +104,4 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78048
+    - t-001

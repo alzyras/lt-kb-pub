@@ -45,7 +45,7 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59802
-
+    - c-002
 <a id="claim-t-59170"></a>
 - t-002
   global_id: t-59170
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59801
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pagudėnai grasino krikščionims, kad šie bus išžudyti ir sunaikinti, jei neatiduos pilies ir nepasiduos.'
@@ -81,8 +81,7 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59170
 - c-002
   santrauka: 'Pagudėnai grasino krikščionims išžudymu ir sunaikinimu, jei šie neatiduos pilies ir nepasiduos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,8 +98,7 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59169
 ## Citatos
 
 - id: c-59801
@@ -129,7 +127,6 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59170
-
 - id: c-59802
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

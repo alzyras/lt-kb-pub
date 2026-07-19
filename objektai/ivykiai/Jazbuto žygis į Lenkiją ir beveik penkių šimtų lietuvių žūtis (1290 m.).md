@@ -87,7 +87,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-66770
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Grįžtančią lietuvių kariuomenę tarp Luko ir Narevo užpuolė broliai, nukovę 350 žmonių; kiti žuvo dykroje.'
@@ -110,8 +110,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-66564
 ## Citatos
 
 - id: c-66770
@@ -142,7 +141,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66564
-
 - id: c-66771
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

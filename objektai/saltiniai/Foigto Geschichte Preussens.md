@@ -48,7 +48,7 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174656
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai išplėtė plotą į rytus tarp Baigos pilies ir Piliavos.'
@@ -80,8 +80,7 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191774
 - c-002
   santrauka: 'Foigto „Geschichte Preussens“ ištrauka aprašo senovės Prūsijos provincijas taip, kaip jas XIII a. pradžioje rado kryžiuočiai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -110,8 +109,6 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-174656

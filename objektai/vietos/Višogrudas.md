@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59119
-
+    - c-001
 <a id="claim-t-58488"></a>
 - t-002
   global_id: t-58488
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59121
-
+    - c-002
 <a id="claim-t-58489"></a>
 - t-003
   global_id: t-58489
@@ -109,8 +109,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58487
 - c-002
   santrauka: 'Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,8 +122,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58488
 ## Citatos
 
 - id: c-59119
@@ -147,7 +145,6 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58487
-
 - id: c-59121
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -168,7 +165,6 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58488
-
 - id: c-167601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -197,6 +193,5 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58489
-
 ## Ryšiai
 - Apgulė Višogrudą: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -103,6 +103,5 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183067
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/grupes/Totoriai]]

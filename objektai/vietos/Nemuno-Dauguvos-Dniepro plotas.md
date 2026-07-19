@@ -83,6 +83,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32413
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Baltai]]

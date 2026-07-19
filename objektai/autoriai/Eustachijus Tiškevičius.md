@@ -85,9 +85,6 @@ Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-174446

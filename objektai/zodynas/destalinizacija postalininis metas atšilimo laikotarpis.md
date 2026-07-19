@@ -70,7 +70,7 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24799
-
+    - c-166804
 <a id="claim-t-193603"></a>
 - t-003
   global_id: t-193603
@@ -112,7 +112,6 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22115
-
 - id: c-24801
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -138,7 +137,6 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22113
-
 - id: c-166804
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

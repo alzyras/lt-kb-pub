@@ -97,7 +97,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60558
-
+    - c-002
 <a id="claim-t-59929"></a>
 - t-005
   global_id: t-59929
@@ -147,8 +147,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-59928
 ## Citatos
 
 - id: c-60557
@@ -168,7 +167,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59925
-
 - id: c-60558
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -191,7 +189,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59928
-
 - id: c-60559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -210,7 +207,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59929
-
 - id: c-60560
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -231,7 +227,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59927
-
 - id: c-60561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

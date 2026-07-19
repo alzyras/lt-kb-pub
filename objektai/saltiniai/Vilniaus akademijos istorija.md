@@ -95,7 +95,6 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88280
-
 - id: c-84260
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

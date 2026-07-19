@@ -94,7 +94,6 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64803
-
 - id: c-65406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

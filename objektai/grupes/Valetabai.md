@@ -49,6 +49,7 @@ Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužic
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175770
+    - c-001
 - susijęs iš [[objektai/grupes/Lužitėnai.md#claim-t-192997|Lužitėnai]]: Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos gyventojai, iš dalies buvo lietuvių kilmės.
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,8 +68,7 @@ Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužic
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193000
 ## Citatos
 
 - id: c-175770

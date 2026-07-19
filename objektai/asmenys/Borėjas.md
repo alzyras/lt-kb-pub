@@ -99,7 +99,6 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191257
-
 - id: c-174140
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -124,6 +123,5 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191258
-
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Boristenė]]

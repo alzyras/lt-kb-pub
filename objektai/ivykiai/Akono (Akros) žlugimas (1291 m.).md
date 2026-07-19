@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie kronikos turinį ir yra paremtas citata."
   pagrindžia:
     - c-60275
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aprašęs Akono žlugimą, Petras Dusburgietis į kroniką įdėjo Šventosios Žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją.'
@@ -88,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59643
 ## Citatos
 
 - id: c-60275

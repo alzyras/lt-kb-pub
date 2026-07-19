@@ -57,4 +57,3 @@ Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

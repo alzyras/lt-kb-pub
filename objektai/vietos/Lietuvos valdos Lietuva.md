@@ -88,7 +88,6 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185244
-
 - id: c-176144
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

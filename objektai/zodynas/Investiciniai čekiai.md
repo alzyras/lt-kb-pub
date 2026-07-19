@@ -90,7 +90,6 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193660
-
 - id: c-176330
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -109,7 +108,6 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193661
-
 - id: c-176331
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

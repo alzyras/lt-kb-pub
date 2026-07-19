@@ -78,7 +78,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59921
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Per Brunsbergo pilies ir miesto apsiaustį priešai nukovė 40 vyrų, išėjusių pasišienauti ir pamalkauti.'
@@ -97,8 +97,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59289
 ## Citatos
 
 - id: c-59920
@@ -122,7 +121,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59288
-
 - id: c-59921
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

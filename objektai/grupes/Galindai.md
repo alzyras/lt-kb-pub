@@ -174,7 +174,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175176
-
+    - c-006
 <a id="claim-t-192383"></a>
 - t-008
   global_id: t-192383
@@ -312,8 +312,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-192382
 ## Citatos
 
 - id: c-65625
@@ -339,7 +338,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-65156
     - t-183881
     - t-194325
-
 - id: c-65626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -359,7 +357,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65157
-
 - id: c-171078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -382,7 +379,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188184
-
 - id: c-171079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -402,7 +398,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188185
-
 - id: c-171080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -425,7 +420,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188186
-
 - id: c-175176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -454,7 +448,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192382
-
 - id: c-175177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -478,7 +471,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   pagrindzia:
     - t-192383
     - t-197496
-
 - id: c-184268
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -498,7 +490,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200918
-
 - id: c-184269
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -518,7 +509,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200919
-
 ## Ryšiai
 - Puolė Galindai: [[objektai/grupes/Krikščionys]], [[objektai/grupes/Kryžiuočių ordinas]]
 - Galindai dalyvavo mūšyje [[objektai/ivykiai/Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m]]

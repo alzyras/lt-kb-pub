@@ -86,6 +86,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38157
-
 ## Ryšiai
 - Užėmė Užpaliai: [[objektai/asmenys/P. Genys]]

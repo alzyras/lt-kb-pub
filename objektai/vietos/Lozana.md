@@ -133,7 +133,6 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109627
-
 - id: c-101636
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

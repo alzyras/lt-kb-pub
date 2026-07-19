@@ -154,7 +154,6 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185245
-
 - id: c-168607
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -191,7 +190,6 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185246
-
 - id: c-168608
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -242,7 +240,6 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185247
-
 - id: c-168609
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -283,7 +280,6 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185248
-
 ## Ryšiai
 - Puolė Poleksiją: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
 - Poleksija priklausė [[objektai/grupes/Lietuviai]]

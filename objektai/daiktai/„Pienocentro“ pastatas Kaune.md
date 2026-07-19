@@ -104,6 +104,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71580
-
 ## Ryšiai
 - „Pienocentro“ pastatas Kaune priklausė [[objektai/vietos/Kaunas]]

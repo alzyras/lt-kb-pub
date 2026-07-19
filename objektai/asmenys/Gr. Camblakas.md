@@ -107,8 +107,6 @@ Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
 ## Citatos
 
 - id: c-32732
@@ -130,7 +128,6 @@ Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30257
-
 - id: c-176292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -152,7 +149,6 @@ Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193621
-
 - id: c-176293
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

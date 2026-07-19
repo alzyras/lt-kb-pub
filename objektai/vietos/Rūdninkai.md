@@ -101,6 +101,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168488
+    - c-004
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87436|Kazimieras IV]]: Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
@@ -176,8 +177,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-185127
 ## Citatos
 
 - id: c-81876
@@ -208,7 +208,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85895
-
 - id: c-81877
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -228,7 +227,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85896
-
 - id: c-81878
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -252,7 +250,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85894
-
 - id: c-168488
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -287,6 +284,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185127
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Kazimieras IV]]

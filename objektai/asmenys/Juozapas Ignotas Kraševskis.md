@@ -79,7 +79,7 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172918
-
+    - c-002
 <a id="claim-t-197408"></a>
 - t-003
   global_id: t-197408
@@ -111,8 +111,7 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190035
 ## Citatos
 
 - id: c-172917
@@ -143,7 +142,6 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   pagrindzia:
     - t-190034
     - t-197408
-
 - id: c-172918
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

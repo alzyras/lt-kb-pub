@@ -146,7 +146,6 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184179
-
 - id: c-167565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -169,6 +168,5 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184180
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Hermanas (Ordino magistras)]], [[objektai/grupes/Kryžiuočių ordinas]]

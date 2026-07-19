@@ -58,7 +58,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171834
-
+    - c-001
 <a id="claim-t-192629"></a>
 - t-002
   global_id: t-192629
@@ -100,7 +100,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175400
-
+    - c-003
 <a id="claim-t-192631"></a>
 - t-004
   global_id: t-192631
@@ -221,8 +221,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188945
 - c-003
   santrauka: 'Narbutas pasakoja, kad Frotono III sūnus Fridleifas, auklėtas Rusioje, padedamas rusnėnų karaliuko susigrąžino Danijos sostą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -244,8 +243,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192630
 ## Citatos
 
 - id: c-171834
@@ -276,7 +274,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188945
-
 - id: c-175399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -301,7 +298,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192629
-
 - id: c-175400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -329,7 +325,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192630
-
 - id: c-175401
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -357,7 +352,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192631
-
 - id: c-175402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -387,7 +381,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192632
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Frotonas III]], [[objektai/asmenys/Hadingas]]
 - Puolė Daniją: [[objektai/grupes/Slavai]]

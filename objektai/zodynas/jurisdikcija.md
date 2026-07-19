@@ -143,7 +143,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192172
-
 - id: c-175045
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -183,7 +182,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192173
-
 - id: c-175046
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -214,7 +212,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192171
-
 - id: c-175047
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -238,7 +235,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192170
-
 - id: c-175048
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

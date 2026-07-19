@@ -96,7 +96,6 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86033
-
 - id: c-82012
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

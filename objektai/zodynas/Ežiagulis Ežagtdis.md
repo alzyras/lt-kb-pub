@@ -49,7 +49,7 @@ Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėj
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172180
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėja, kad vardas galėjo reikšti kape gulintį asmenį.'
@@ -68,8 +68,7 @@ Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189292
 ## Citatos
 
 - id: c-172180

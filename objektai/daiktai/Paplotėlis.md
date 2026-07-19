@@ -64,6 +64,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60331
+    - c-001
 - susijęs iš [[objektai/asmenys/Albertas (Karaliaučiaus komtūras).md#claim-t-60228|Albertas (Karaliaučiaus komtūras)]]: Dusburgiečio pasakojime per žygį prieš Lietuvą besimeldžiančiam Karaliaučiaus komtūrui Albertui prie burnos pasirodė komunijos paplotėlis.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89608|Albertas iš Meiseno]]: Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89610|Albertas iš Meiseno]]: Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį.
@@ -89,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59699
 ## Citatos
 
 - id: c-60331

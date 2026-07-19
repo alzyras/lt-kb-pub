@@ -45,7 +45,7 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59318
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bagrationovskas anksčiau vadintas Prūsų Ylava.'
@@ -62,8 +62,7 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58686
 ## Citatos
 
 - id: c-59318

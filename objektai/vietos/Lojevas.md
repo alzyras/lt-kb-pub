@@ -141,7 +141,6 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193776
-
 - id: c-43599
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -162,7 +161,6 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41882
-
 - id: c-45192
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -184,7 +182,6 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41881
-
 - id: c-167179
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -206,6 +203,5 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183793
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/J. Radvila]]

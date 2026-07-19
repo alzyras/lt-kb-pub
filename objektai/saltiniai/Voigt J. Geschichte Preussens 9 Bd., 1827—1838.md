@@ -50,7 +50,7 @@ Dusburgietis teigia, kad voigt J.
   temporalinis_llm_pakomentavimas: "Citata nurodo tomų skaičių, leidimo vietą ir metų intervalą."
   pagrindžia:
     - c-61985
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m.'
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad voigt J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61353
 ## Citatos
 
 - id: c-61985

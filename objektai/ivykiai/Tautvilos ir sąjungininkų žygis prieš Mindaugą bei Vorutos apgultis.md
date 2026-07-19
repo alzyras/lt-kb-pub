@@ -155,7 +155,6 @@ Nenurodyta
   pagrindzia:
     - t-187500
     - t-196789
-
 - id: c-170457
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

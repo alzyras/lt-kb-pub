@@ -131,7 +131,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-78627
-
+    - c-167222
 <a id="claim-t-82137"></a>
 - t-006
   global_id: t-82137
@@ -218,7 +218,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   pagrindzia:
     - t-82133
     - t-82135
-
 - id: c-78622
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -238,7 +237,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82132
-
 - id: c-78623
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -254,7 +252,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82131
-
 - id: c-78624
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -280,7 +277,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82137
-
 - id: c-78626
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -299,7 +295,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82132
-
 - id: c-78627
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -327,7 +322,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82136
-
 - id: c-166389
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -348,7 +342,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182992
-
 - id: c-167222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

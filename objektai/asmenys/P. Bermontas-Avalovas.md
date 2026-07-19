@@ -99,7 +99,6 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40381
-
 - id: c-44482
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -120,6 +119,5 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40379
-
 ## Ryšiai
 - Rėmė P. Bermontas-Avalovą: [[objektai/grupes/Vokiečiai]]

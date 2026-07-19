@@ -49,7 +49,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168776
-
+    - c-001
 <a id="claim-t-187534"></a>
 - t-002
   global_id: t-187534
@@ -70,7 +70,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-170484
-
+    - c-002
 <a id="claim-t-187535"></a>
 - t-003
   global_id: t-187535
@@ -91,7 +91,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170485
-
+    - c-003
 <a id="claim-t-187536"></a>
 - t-004
   global_id: t-187536
@@ -112,6 +112,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-170486
+    - c-004
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.
 - susijęs iš [[objektai/paprociai/Viečė kaip gyventojų susirinkimas svarbiausiems klausimams svarstyti.md#claim-t-199231|Viečė kaip gyventojų susirinkimas svarbiausiems klausimams svarstyti]]: 3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei dimo ir kitiems svarbiausiems klausimams svarstyti.
 - susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186106|Dimitrijus]]: Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.
@@ -144,8 +145,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185415
 - c-002
   santrauka: 'Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -164,8 +164,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187534
 - c-003
   santrauka: 'Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -182,8 +181,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187535
 - c-004
   santrauka: 'Viečė buvo žymesnių Kijevo Rusios miestų gyventojų susirinkimas karo, taikos, pareigūnų ir kitiems svarbiausiems klausimams svarstyti.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -200,8 +198,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-187536
 ## Citatos
 
 - id: c-168776
@@ -235,7 +232,6 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185415
-
 - id: c-170484
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -260,7 +256,6 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187534
-
 - id: c-170485
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -289,7 +284,6 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187535
-
 - id: c-170486
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

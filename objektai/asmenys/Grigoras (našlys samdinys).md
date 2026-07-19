@@ -104,7 +104,6 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195543
-
 - id: c-177960
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -130,7 +129,6 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195545
-
 - id: c-177961
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

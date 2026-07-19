@@ -124,8 +124,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas Skirmanto veiksmas ir pagalbos kontekstas; priešiškas žygis prieš rusus paliktas kaip metraščio pasakojimas. Nepridėta datų ar rezultatų, kurių citata nepateikia.'
   pagrindžia:
-    - c-176607
-
+    - c-003
 <a id="claim-t-193984"></a>
 - t-005
   global_id: t-193984
@@ -135,7 +134,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas Skirmanto veiksmas, vieta ir rezultatas; pergalės bei titulavimo kalba palikta su metraščio atribucija. Nepridėta datų.'
   pagrindžia:
-    - c-176609
+    - c-005
 - susijęs iš Kijevo Rusia: Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184791|Mingaila]]: Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187488|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę.
@@ -183,8 +182,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-193982
 - c-005
   santrauka: 'Lietuvos metraštis Skirmantui priskiria pergalę prieš chaną prie Kaidanovo ir Mozyriaus, Černigovo, Starodubo bei Karačevo paėmimą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -209,8 +207,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-193984
 ## Citatos
 
 - id: c-169375
@@ -234,7 +231,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186014
-
 - id: c-169376
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -274,7 +270,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186015
-
 - id: c-176608
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -300,7 +295,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193983
-
 - id: c-176610
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -322,7 +316,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193985
-
 - id: c-184377
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -342,7 +335,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201027
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pisimantas]]
 - Rėmė Skirmantą: [[objektai/asmenys/Kukovaitis]]

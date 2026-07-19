@@ -96,7 +96,6 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30619
-
 - id: c-32931
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

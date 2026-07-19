@@ -88,7 +88,6 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40372
-
 - id: c-44478
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

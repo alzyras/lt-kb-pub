@@ -58,6 +58,7 @@ Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173094
+    - c-001
 - susijęs iš Žemaitija: Narbutas pasakoja, kad Glapimino sūnus Sutinkąs ir vaikaitis Dormunimundas valdė Žemaitijoje.
 - susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
 ## Reikšmingi paminėjimai
@@ -75,8 +76,7 @@ Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190211
 ## Citatos
 
 - id: c-173094
@@ -99,7 +99,6 @@ Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190211
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Glapiminas]]
 - Sutinkąs valdė [[objektai/vietos/Žemaitija]]

@@ -57,6 +57,7 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67445
+    - c-001
 - susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66445|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: 1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.
 - susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66446|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių.
 - susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
@@ -84,8 +85,7 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-67605
 ## Citatos
 
 - id: c-67445
@@ -109,7 +109,6 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67605
-
 - id: c-67446
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

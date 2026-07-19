@@ -92,7 +92,7 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173641
-
+    - c-003
 <a id="claim-t-197623"></a>
 - t-004
   global_id: t-197623
@@ -124,8 +124,7 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190759
 ## Citatos
 
 - id: c-173324
@@ -153,7 +152,6 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190441
-
 - id: c-173640
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -173,7 +171,6 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   pagrindzia:
     - t-190758
     - t-197623
-
 - id: c-173641
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

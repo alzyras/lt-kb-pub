@@ -103,7 +103,6 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195542
-
 - id: c-177957
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -123,7 +122,6 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195540
-
 - id: c-177958
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

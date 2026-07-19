@@ -47,7 +47,7 @@ Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169698
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė laišku dėl pasiuntinių vykimo į Maskvą ir taikos.'
@@ -71,8 +71,7 @@ Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186337
 ## Citatos
 
 - id: c-169698

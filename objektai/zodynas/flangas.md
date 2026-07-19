@@ -89,7 +89,6 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42453
-
 - id: c-45516
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

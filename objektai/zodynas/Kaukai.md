@@ -49,7 +49,7 @@ Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172039
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo suvalgymo pranašaudavo panašiai kaip su barstukais.'
@@ -68,8 +68,7 @@ Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189151
 ## Citatos
 
 - id: c-172039

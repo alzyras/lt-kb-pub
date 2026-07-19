@@ -46,8 +46,7 @@ media_all_json: |-
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-001
-
+    - c-176754
 ## Citatos
 
 - id: c-176754
@@ -67,4 +66,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194141

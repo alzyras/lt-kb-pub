@@ -148,7 +148,6 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   pagrindzia:
     - t-169883
     - t-169884
-
 - id: c-154568
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

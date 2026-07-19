@@ -74,7 +74,6 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67299
-
 - id: c-67261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

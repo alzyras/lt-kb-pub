@@ -77,6 +77,7 @@ media_all_json: |-
   semantiniai_rysiai: "Gediminas užėmė Brianskas (0.90); Gediminas užėmė Perejeslavlis (0.90)"
   pagrindžia:
     - c-168329
+    - c-002
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172883|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10254|Mėlynųjų Vandenų mūšis (1362 m.)]]: Istorinė tradicija teigia, kad Algirdas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.
 - susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
@@ -111,8 +112,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184968
 ## Citatos
 
 - id: c-45123
@@ -139,7 +139,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41759
-
 - id: c-168329
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

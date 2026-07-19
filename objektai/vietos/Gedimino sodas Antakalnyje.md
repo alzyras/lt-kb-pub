@@ -49,7 +49,7 @@ Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171887
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.'
@@ -66,8 +66,7 @@ Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188998
 ## Citatos
 
 - id: c-171887

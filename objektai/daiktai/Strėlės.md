@@ -66,6 +66,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170015
+    - c-001
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87984|J. Dlugošas Długosz]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172874|J. Dlugošas]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172877|J. Dlugošas]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
@@ -92,8 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186831
 ## Citatos
 
 - id: c-170015

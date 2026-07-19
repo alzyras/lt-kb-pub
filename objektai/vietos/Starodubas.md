@@ -109,7 +109,7 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-182791
+    - c-002
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
@@ -203,8 +203,7 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-193233
 ## Citatos
 
 - id: c-168517
@@ -238,7 +237,6 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185156
-
 - id: c-182789
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -264,7 +262,6 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199855
-
 - id: c-182790
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -285,6 +282,5 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199858
-
 ## Ryšiai
 - Užėmė Starodubą: [[objektai/asmenys/Skirmantas]]

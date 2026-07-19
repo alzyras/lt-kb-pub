@@ -183,7 +183,6 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
   pagrindzia:
     - t-185357
     - t-196377
-
 - id: c-168719
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -215,7 +214,6 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
   pagrindzia:
     - t-185358
     - t-196378
-
 - id: c-168720
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

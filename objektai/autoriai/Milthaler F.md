@@ -37,7 +37,7 @@ Dusburgietis teigia, kad 136 Milthaler F.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61390
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Milthaler F. parašė darbą „Die Grossgebietiger“, cituojamą 59–69 puslapiuose.'
@@ -50,8 +50,7 @@ Dusburgietis teigia, kad 136 Milthaler F.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60758
 ## Citatos
 
 - id: c-61390

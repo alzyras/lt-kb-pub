@@ -102,8 +102,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Padavimų ir mitologinių vaizdinių turinys paliktas su Narbuto atribucija. Nepridėta konkrečių padavimų, kurių citata nepateikia.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
-    - c-172676
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas nurodo, kad lietuviai turėjo daug pasakojimų ir padavimų apie žalčius, siejamų su žalčio protingumo ir nemarumo vaizdiniais.'
@@ -125,8 +124,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189793
 ## Citatos
 
 - id: c-172674
@@ -149,7 +147,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189791
-
 - id: c-172675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -171,7 +168,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189792
-
 - id: c-179096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

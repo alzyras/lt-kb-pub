@@ -82,7 +82,7 @@ Nenurodyta
   semantiniai_rysiai: "Nadruviai puolė Semba (0.92); Skalviai puolė Semba (0.90); Sūduviai puolė Semba (0.90); Nadruviai pastatė Vėluva (0.88); Skalviai pastatė Vėluva (0.86)"
   pagrindžia:
     - c-63785
-
+    - c-001
 <a id="claim-t-194421"></a>
 - t-003
   global_id: t-194421
@@ -95,7 +95,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63785
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį.'
@@ -118,9 +118,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
+    - t-62918
+    - t-194421
 ## Citatos
 
 - id: c-63785
@@ -149,7 +148,6 @@ Nenurodyta
   pagrindzia:
     - t-62918
     - t-194421
-
 - id: c-63786
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

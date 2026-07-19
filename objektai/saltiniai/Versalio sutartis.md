@@ -62,7 +62,7 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   semantiniai_rysiai: "Prancūzai valdė miestą Klaipėda (0.74)"
   pagrindžia:
     - c-48459
-
+    - c-166779
 ## Citatos
 
 - id: c-48456
@@ -86,7 +86,6 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45767
-
 - id: c-48459
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -103,7 +102,6 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45768
-
 - id: c-166779
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

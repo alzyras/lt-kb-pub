@@ -62,7 +62,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169282
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vasilijus įsakė budriau saugoti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.'
@@ -89,8 +89,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185921
 ## Citatos
 
 - id: c-169282

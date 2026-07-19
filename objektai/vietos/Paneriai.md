@@ -57,7 +57,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43722
-
+    - c-184014
 <a id="claim-t-84416"></a>
 - t-010
   global_id: t-84416
@@ -113,8 +113,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   sudarymo_pagrindimas: 'Pašalintas fragmentiškumas ir suformuluotas aiškus teiginys apie Panerius.'
   susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
-    - c-184016
-
+    - c-008
 <a id="claim-t-84408"></a>
 - t-002
   global_id: t-84408
@@ -125,8 +124,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Panerių dovanojimą privilegijoje.'
   pagrindžia:
-    - c-184016
-
+    - c-003
 <a id="claim-t-84409"></a>
 - t-003
   global_id: t-84409
@@ -134,8 +132,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir pagrįstas citatos informacija apie Panerius bei Vilijos pavadinimą.'
   susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-184016
-
+    - c-008
 <a id="claim-t-84410"></a>
 - t-004
   global_id: t-84410
@@ -143,8 +140,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   sudarymo_pagrindimas: 'Citata palaiko glaustą aiškinimą apie Panerių vardo kilmę.'
   susije_objektai: 'mentioned_place: Neris; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Vilija'
   pagrindžia:
-    - c-184017
-
+    - c-004
 <a id="claim-t-84412"></a>
 - t-006
   global_id: t-84412
@@ -152,16 +148,13 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą draudimą tarp Verkių ir Panerių.'
   susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-184017
-
+    - c-005
 <a id="claim-t-84413"></a>
 - t-007
   global_id: t-84413
   teiginys: 'Panerių pavadinimas siejamas su Neries vardu ir žodžiu „Panerta“.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Vilija'
   pagrindžia:
-    - c-184017
-
 <a id="claim-t-84414"></a>
 - t-008
   global_id: t-84414
@@ -169,8 +162,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį be dokumento nuotrupų.'
   susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-184017
-
+    - c-005
 <a id="claim-t-84415"></a>
 - t-009
   global_id: t-84415
@@ -178,8 +170,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   sudarymo_pagrindimas: 'Žodis „šiandien“ yra kontekstinis, todėl reikia aiškiai nurodyti šaltinio aprašymo laiką.'
   susije_objektai: 'llm_object: Paneriai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]'
   pagrindžia:
-    - c-184017
-
+    - c-009
 <a id="claim-t-84417"></a>
 - t-011
   global_id: t-84417
@@ -190,7 +181,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai atspindi citatą apie 1390 m. privilegiją ir Vilijos pavadinimą.'
   pagrindžia:
-    - c-184016
+    - c-003
 - susijęs iš [[objektai/paprociai/Tribunolo pobūviai ir priėmimai Vilniuje.md#claim-t-200555|Tribunolo pobūviai ir priėmimai Vilniuje]]: 1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius.
 - susijęs iš [[objektai/asmenys/Kernius.md#claim-t-190905|Kernius]]: Teodoro Narbuto aiškinimu, kunigaikščio Kerniaus valdymo metais Panerių genčių dūdų pūtimas prie Neries tapo dingstimi kraštą vadinti Litvania.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173235|Vladislovas Jogaila]]: Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.
@@ -266,11 +257,8 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-    - t-020
-    - t-014
-    - t-023
-
+    - t-84408
+    - t-84417
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -292,10 +280,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-    - t-004
-    - t-018
-
+    - t-84410
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -322,11 +307,8 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-    - t-008
-    - t-016
-    - t-024
-
+    - t-84412
+    - t-84414
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -345,11 +327,8 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-    - t-015
-    - t-003
-    - t-023
-
+    - t-84407
+    - t-84409
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -368,9 +347,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-    - t-016
-
+    - t-84415
 ## Citatos
 
 - id: c-24362
@@ -398,7 +375,6 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84416
-
 - id: c-43722
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -419,7 +395,6 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84411
-
 - id: c-184014
   sudarytojas: "Karolis Zikaras"
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -461,7 +436,6 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200637
-
 - id: c-184448
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

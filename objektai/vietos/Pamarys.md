@@ -125,7 +125,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175484
-
+    - c-004
 <a id="claim-t-194743"></a>
 - t-005
   global_id: t-194743
@@ -139,7 +139,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177139
-
+    - c-005
 <a id="claim-t-201097"></a>
 - t-006
   global_id: t-201097
@@ -170,8 +170,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192714
 - c-005
   santrauka: 'Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak sonijoje ir lužitėnų krašte.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -189,8 +188,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-194743
 ## Citatos
 
 - id: c-166280
@@ -208,7 +206,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182877
-
 - id: c-166459
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -228,7 +225,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183068
-
 - id: c-171686
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -250,7 +246,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188797
-
 - id: c-175484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -275,7 +270,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192714
-
 - id: c-177139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -302,7 +296,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194743
-
 - id: c-184447
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

@@ -110,6 +110,5 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
   pagrindzia:
     - t-19998
     - t-183184
-
 ## Ryšiai
 - SSRS kariuomenė keliavo į [[objektai/vietos/Lietuva]]

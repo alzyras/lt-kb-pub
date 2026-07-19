@@ -45,7 +45,7 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37491
-
+    - c-167680
 ## Citatos
 
 - id: c-37491
@@ -66,7 +66,6 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36349
-
 - id: c-167680
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

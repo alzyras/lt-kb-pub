@@ -79,6 +79,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   semantiniai_rysiai: "Kafos gyventojai keliavo į Krymas (0.75)"
   pagrindžia:
     - c-168355
+    - c-002
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31498|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.
 - susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31501|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.
 - susijęs iš [[objektai/asmenys/Gilbert de Lannoy.md#claim-t-35079|Gilbert de Lannoy]]: Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą.
@@ -270,8 +271,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184994
 ## Citatos
 
 - id: c-38532
@@ -293,7 +293,6 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36338
-
 - id: c-168355
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -325,7 +324,6 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184994
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Oramas]]
 - Buvo valdoma: [[objektai/asmenys/Kutlubugas]]

@@ -87,6 +87,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80612
-
 ## Ryšiai
 - Suvalkija priklausė [[objektai/vietos/Lenkijos karalystė]]

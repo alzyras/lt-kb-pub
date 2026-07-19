@@ -98,7 +98,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177013
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Mat jiems patikėdavo saugoti brangiuosius metalus.'
@@ -113,8 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194614
 ## Citatos
 
 - id: c-14298
@@ -137,7 +136,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64909
-
 - id: c-30988
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -155,7 +153,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64908
-
 - id: c-177013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

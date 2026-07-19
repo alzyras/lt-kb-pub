@@ -148,7 +148,6 @@ Kitame laiške Mykolui Ksaverui Sapiegai Jonas Dominykas Lopacinskis linkėjo ja
   pagrindzia:
     - t-200683
     - t-200684
-
 - id: c-184033
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede"

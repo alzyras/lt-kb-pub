@@ -70,7 +70,7 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174120
-
+    - c-174119
 <a id="claim-t-197840"></a>
 - t-003
   global_id: t-197840
@@ -107,9 +107,6 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-174119
@@ -133,8 +130,8 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191237
+    - t-191238
     - t-197840
-
 - id: c-174120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

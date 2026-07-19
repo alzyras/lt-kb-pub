@@ -98,7 +98,6 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40364
-
 - id: c-44471
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

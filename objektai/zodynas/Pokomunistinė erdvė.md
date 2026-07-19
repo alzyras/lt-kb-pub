@@ -88,7 +88,6 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70034
-
 - id: c-166848
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

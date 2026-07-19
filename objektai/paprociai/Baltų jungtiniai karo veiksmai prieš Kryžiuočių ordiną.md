@@ -144,7 +144,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalinta netiksli autorinė įžanga ir suformuotas glaustas faktinis sakinys."
   pagrindžia:
     - c-60359
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną.'
@@ -164,8 +164,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-59728
 ## Citatos
 
 - id: c-60357
@@ -190,7 +189,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59725
-
 - id: c-60358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -213,7 +211,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59727
-
 - id: c-60359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -237,7 +234,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59728
-
 - id: c-60360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

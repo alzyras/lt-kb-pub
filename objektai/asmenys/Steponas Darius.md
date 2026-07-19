@@ -94,6 +94,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78013
-
 ## Ryšiai
 - Steponas Darius keliavo į [[objektai/vietos/Lietuva]]

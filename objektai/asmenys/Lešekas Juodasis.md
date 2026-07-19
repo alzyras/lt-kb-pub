@@ -99,7 +99,6 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87765
-
 - id: c-173801
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

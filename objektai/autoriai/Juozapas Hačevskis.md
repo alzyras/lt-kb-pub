@@ -52,6 +52,7 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174556
+    - c-001
 - susijęs iš Muzeum Domome: Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų straipsnį apie gintarą.
 ## Reikšmingi paminėjimai
 - c-001
@@ -66,8 +67,7 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191674
 ## Citatos
 
 - id: c-174556

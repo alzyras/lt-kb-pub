@@ -79,7 +79,6 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58572
-
 - id: c-59205
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

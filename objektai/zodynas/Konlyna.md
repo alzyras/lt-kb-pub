@@ -83,7 +83,7 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175126
-
+    - c-175344
 <a id="claim-t-192323"></a>
 - t-003
   global_id: t-192323
@@ -146,7 +146,6 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   pagrindzia:
     - t-192321
     - t-192323
-
 - id: c-175126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -167,7 +166,6 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   pagrindzia:
     - t-192322
     - t-192324
-
 - id: c-175344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

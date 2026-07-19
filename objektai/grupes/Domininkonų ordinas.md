@@ -276,6 +276,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   temporalinis_llm_pakomentavimas: "Citata pagrindžia datą, o pradinis sakinys buvo fragmentiškas."
   pagrindžia:
     - c-103890
+    - c-005
 - susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
 - susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05292|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
@@ -297,8 +298,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-112522
 ## Citatos
 
 - id: c-31056
@@ -321,7 +321,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-112519
     - t-112521
-
 - id: c-36772
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -348,7 +347,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindzia:
     - t-112511
     - t-112514
-
 - id: c-103888
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -418,7 +416,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112513
-
 - id: c-103889
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -440,7 +437,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112512
-
 - id: c-103890
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -460,7 +456,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112522
-
 - id: c-103892
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -478,7 +473,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112517
-
 - id: c-103894
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -494,7 +488,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112507
-
 - id: c-103895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -538,7 +531,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112520
-
 - id: c-103896
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -571,7 +563,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112515
-
 - id: c-103899
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -591,7 +582,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112510
-
 - id: c-103900
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -608,6 +598,5 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112518
-
 ## Ryšiai
 - Rėmė Domininkonų ordiną: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

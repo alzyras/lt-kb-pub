@@ -49,6 +49,7 @@ Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, t
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175763
+    - c-001
 - susijęs iš [[objektai/grupes/Žemgaliai.md#claim-t-192967|Žemgaliai]]: Narbutas doblėnus, mechotėnus, kuršius ir tervitėnus laikė žemgalių gentimis, o Selonės apskrities šeloniečius taip pat priskyrė žemgaliams.
 ## Reikšmingi paminėjimai
 - c-001
@@ -66,8 +67,7 @@ Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192993
 ## Citatos
 
 - id: c-175763

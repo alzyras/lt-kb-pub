@@ -70,7 +70,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59018
-
+    - c-004
 <a id="claim-t-58385"></a>
 - t-003
   global_id: t-58385
@@ -135,8 +135,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58384
 ## Citatos
 
 - id: c-59015
@@ -160,7 +159,6 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58385
-
 - id: c-59016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -179,7 +177,6 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58386
-
 - id: c-59017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -201,7 +198,6 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58383
-
 - id: c-59018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -222,6 +218,5 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58384
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]], [[objektai/asmenys/Henrikas (Varmės vyskupas)]]

@@ -48,7 +48,7 @@ Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174558
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių.'
@@ -72,8 +72,7 @@ Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191676
 ## Citatos
 
 - id: c-174558

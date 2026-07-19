@@ -70,7 +70,7 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56336
-
+    - c-001
 <a id="claim-t-55712"></a>
 - t-002
   global_id: t-55712
@@ -90,7 +90,7 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-56336
-
+    - c-001
 <a id="claim-t-55713"></a>
 - t-003
   global_id: t-55713
@@ -110,7 +110,7 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-56337
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,9 +129,8 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-55711
+    - t-55712
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -148,8 +147,7 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-55713
 ## Citatos
 
 - id: c-56336
@@ -175,7 +173,6 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   pagrindzia:
     - t-55711
     - t-55712
-
 - id: c-56337
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

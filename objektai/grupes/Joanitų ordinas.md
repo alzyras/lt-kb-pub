@@ -76,7 +76,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-70502
-
+    - c-002
 <a id="claim-t-72080"></a>
 - t-003
   global_id: t-72080
@@ -186,8 +186,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-72079
 ## Citatos
 
 - id: c-70501
@@ -214,7 +213,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72078
-
 - id: c-70502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -252,7 +250,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   pagrindzia:
     - t-72079
     - t-196893
-
 - id: c-70504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -278,7 +275,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72081
-
 - id: c-70505
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -299,7 +295,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72080
-
 - id: c-70506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

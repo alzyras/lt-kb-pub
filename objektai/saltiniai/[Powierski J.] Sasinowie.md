@@ -44,7 +44,7 @@ Dusburgietis teigia, kad [Powierski J.] Sasinowie.— SSS, t.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61886
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio „Sasinowie“ nurodyta SSS 5 tomo 74-75 puslapiuose.'
@@ -57,8 +57,7 @@ Dusburgietis teigia, kad [Powierski J.] Sasinowie.— SSS, t.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61254
 ## Citatos
 
 - id: c-61886

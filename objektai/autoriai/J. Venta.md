@@ -93,6 +93,7 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
   temporalinis_llm_pakomentavimas: "Citata pateikia autoriaus darbą, temą ir publikavimo metus."
   pagrindžia:
     - c-63350
+    - c-002
 - susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
 ## Reikšmingi paminėjimai
 - c-002
@@ -107,8 +108,7 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-62622
 ## Citatos
 
 - id: c-63349
@@ -125,7 +125,6 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62621
-
 - id: c-63350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -143,7 +142,6 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62622
-
 - id: c-63351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

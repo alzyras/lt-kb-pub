@@ -49,7 +49,7 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
   temporalinis_llm_pakomentavimas: "Bibliografinis įrašas pagrindžia autoriaus publikaciją ir temą."
   pagrindžia:
     - c-61202
-
+    - c-002
 <a id="claim-t-60570"></a>
 - t-002
   global_id: t-60570
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61201
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žulkus V. paskelbė darbą apie Birutės kalno ir gyvenvietės tyrinėjimus 1982 ir 1983 metais.'
@@ -81,8 +81,7 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60570
 - c-002
   santrauka: 'Žulkus V. 1983 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį apie Klaipėdos pilį ir miestą XIII-XVI a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -94,8 +93,7 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60569
 ## Citatos
 
 - id: c-61201
@@ -114,7 +112,6 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60570
-
 - id: c-61202
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

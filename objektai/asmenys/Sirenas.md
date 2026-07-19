@@ -88,7 +88,6 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60433
-
 - id: c-167510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -108,6 +107,5 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184125
-
 ## Ryšiai
 - Sirenas gynė [[objektai/vietos/Kristburgas]]

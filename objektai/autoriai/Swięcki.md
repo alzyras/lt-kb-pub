@@ -48,7 +48,7 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173340
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės.'
@@ -63,8 +63,7 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190457
 ## Citatos
 
 - id: c-173340

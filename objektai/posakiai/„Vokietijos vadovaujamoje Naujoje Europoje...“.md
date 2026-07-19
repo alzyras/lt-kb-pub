@@ -99,7 +99,6 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75624
-
 - id: c-73344
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

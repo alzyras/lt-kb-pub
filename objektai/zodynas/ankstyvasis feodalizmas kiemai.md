@@ -98,7 +98,6 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22055
-
 - id: c-166790
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

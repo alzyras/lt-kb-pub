@@ -90,7 +90,6 @@ Vartojamos formos: `veldėme`.
   pagrindzia:
     - t-07694
     - t-07695
-
 - id: c-09624
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

@@ -143,7 +143,6 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88146
-
 - id: c-84122
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -164,7 +163,6 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88143
-
 - id: c-84123
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -193,7 +191,6 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88144
-
 - id: c-84124
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -215,7 +212,6 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88142
-
 - id: c-84125
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

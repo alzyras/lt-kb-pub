@@ -117,7 +117,7 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-04837
-
+    - c-85937
 <a id="claim-t-90044"></a>
 - t-005
   global_id: t-90044
@@ -238,7 +238,7 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas; palikta su Traideniu tiesiogiai susijusi ir citata paremta dalis."
   pagrindžia:
     - c-85943
-
+    - c-85935
 <a id="claim-t-90056"></a>
 - t-012
   global_id: t-90056
@@ -275,24 +275,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   pagrindžia:
     - c-04835
 
-<a id="claim-t-90059"></a>
-- t-014
-  global_id: t-90059
-  teiginys: "Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-85937
-
-<a id="claim-t-184844"></a>
 - t-015
   global_id: t-184844
   teiginys: "Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas."
@@ -448,8 +430,7 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Fragmentas išplėstas į sakinį apie Traidenį, miestą ir titulo vartoseną. Titulas paliktas su metraščio atribucija, o žiaurumo vertinimai neįtraukti.'
   pagrindžia:
-    - c-176619
-
+    - c-016
 <a id="claim-t-193995"></a>
 - t-021
   global_id: t-193995
@@ -459,7 +440,7 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas Daumanto veiksmas ir Traidenio ryšys su juo. Motyvas paliktas kaip metraščio pasakojimo dalis, nepridedant papildomo konteksto.'
   pagrindžia:
-    - c-176620
+    - c-017
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176817|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176823|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176824|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
@@ -530,8 +511,7 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-
+    - t-193994
 - c-017
   santrauka: 'Lietuvos metraščio pasakojime Daumantas dėl ankstesnės nesantaikos pasiuntė šešis vyrus nužudyti savo brolį Traidenį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -553,8 +533,7 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021
-
+    - t-193995
 ## Citatos
 
 - id: c-04834
@@ -578,7 +557,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   pagrindzia:
     - t-05200
     - t-90056
-
 - id: c-04835
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -598,7 +576,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   pagrindzia:
     - t-05201
     - t-90058
-
 - id: c-04836
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -619,7 +596,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05202
-
 - id: c-04837
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -641,7 +617,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05203
-
 - id: c-42277
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -662,7 +637,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90052
-
 - id: c-85934
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -678,7 +652,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90047
-
 - id: c-85935
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -700,7 +673,7 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90046
-
+    - t-90055
 - id: c-85937
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -717,9 +690,8 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-05203
     - t-90048
-    - t-90059
-
 - id: c-85940
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -745,7 +717,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   pagrindzia:
     - t-90044
     - t-90050
-
 - id: c-85943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -767,7 +738,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90055
-
 - id: c-168205
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -795,7 +765,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184844
-
 - id: c-168206
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -826,7 +795,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   pagrindzia:
     - t-184845
     - t-196605
-
 - id: c-173872
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -849,7 +817,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190990
-
 - id: c-173873
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -869,7 +836,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190991
-
 - id: c-173874
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -890,7 +856,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190992
-
 - id: c-176838
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -921,7 +886,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194241
-
 - id: c-178793
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -947,7 +911,6 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196604
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Broliai: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Sirputis (Traidenio brolis)]]

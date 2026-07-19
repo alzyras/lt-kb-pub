@@ -402,7 +402,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08307
-
 - id: c-10263
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -423,7 +422,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08308
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - Namas priklausė [[objektai/asmenys/Česchonis]], [[objektai/asmenys/Erazmas Bretneris]], [[objektai/grupes/Neliubovičiai]], [[objektai/asmenys/Povilas Piestavičius]], [[objektai/grupes/Savickiai]], [[objektai/grupes/Zalivskiai]]

@@ -54,7 +54,7 @@ T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 184
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173372
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 1841 metais.'
@@ -68,8 +68,7 @@ T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 184
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190489
 ## Citatos
 
 - id: c-173372

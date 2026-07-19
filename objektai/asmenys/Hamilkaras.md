@@ -48,7 +48,7 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174158
-
+    - c-001
 <a id="claim-t-197736"></a>
 - t-002
   global_id: t-197736
@@ -79,8 +79,7 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191276
 ## Citatos
 
 - id: c-174158
@@ -104,7 +103,6 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191276
-
 - id: c-179317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

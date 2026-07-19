@@ -77,6 +77,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39620
-
 ## Ryšiai
 - Olegas (Riazanės didysis kunigaikštis) puolė [[objektai/vietos/Lietuva]]

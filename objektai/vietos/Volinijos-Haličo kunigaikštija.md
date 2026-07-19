@@ -95,7 +95,6 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32694
-
 - id: c-34101
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

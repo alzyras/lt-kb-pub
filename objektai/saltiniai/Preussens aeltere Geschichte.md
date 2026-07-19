@@ -95,7 +95,6 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88163
-
 - id: c-84142
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

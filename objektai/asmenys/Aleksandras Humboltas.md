@@ -70,7 +70,7 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174126
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Aleksandro Humbolto veikalus apie Žemės temperatūros kitimą siejo su prielaida, kad Šiaurėje labai seniai būta gyventojų.'
@@ -103,8 +103,6 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas Humboltui priskiria aiškinimą, kad tropikų augalija ir gyvūnija senovės Šiaurėje atsirado dėl ten išsiskyrusios šilumos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -125,8 +123,7 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191244
 ## Citatos
 
 - id: c-174124
@@ -146,7 +143,6 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191242
-
 - id: c-174126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

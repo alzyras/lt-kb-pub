@@ -54,7 +54,7 @@ Dusburgietis teigia, kad mažiulis V.
   temporalinis_llm_pakomentavimas: "Citata patvirtina publikavimo žurnalą ir metus."
   pagrindžia:
     - c-61801
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad mažiulis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61169
 ## Citatos
 
 - id: c-61801

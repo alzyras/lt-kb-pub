@@ -91,7 +91,6 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182869
-
 - id: c-175930
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

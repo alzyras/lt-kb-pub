@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   semantiniai_rysiai: "Lochštetė priklausė Semba (0.82); Lochštetė priklausė Girmava (0.78)"
   pagrindžia:
     - c-58953
-
+    - c-003
 <a id="claim-t-58321"></a>
 - t-002
   global_id: t-58321
@@ -71,7 +71,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-58952
-
+    - c-002
 <a id="claim-t-58322"></a>
 - t-003
   global_id: t-58322
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   semantiniai_rysiai: "Lochštetė priklausė Semba (0.78)"
   pagrindžia:
     - c-58955
-
+    - c-004
 <a id="claim-t-58323"></a>
 - t-004
   global_id: t-58323
@@ -109,7 +109,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūksta ir turi triukšmo; citata leidžia suformuluoti pilną faktą apie Lochštetę."
   pagrindžia:
     - c-58956
-
+    - c-005
 <a id="claim-t-58324"></a>
 - t-005
   global_id: t-58324
@@ -153,8 +153,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58321
 - c-003
   santrauka: 'Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -167,8 +166,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58319
 - c-004
   santrauka: 'Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -181,8 +179,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-58322
 - c-005
   santrauka: 'Analų duomenimis, Lochštetės pilis pastatyta 1270 m., nors Petro Dusburgiečio kronikoje jos statyba aprašyta nedatuojant.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -198,8 +195,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-58323
 ## Citatos
 
 - id: c-58951
@@ -220,7 +216,6 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58324
-
 - id: c-58952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -243,7 +238,6 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58321
-
 - id: c-58953
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -261,7 +255,6 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58319
-
 - id: c-58955
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -281,7 +274,6 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58322
-
 - id: c-58956
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

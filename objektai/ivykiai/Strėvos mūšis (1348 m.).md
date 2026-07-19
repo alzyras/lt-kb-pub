@@ -157,7 +157,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10296
-
 - id: c-11916
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -181,7 +180,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10297
-
 - id: c-11917
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -203,7 +201,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10298
-
 - id: c-11918
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -228,6 +225,5 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10299
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)

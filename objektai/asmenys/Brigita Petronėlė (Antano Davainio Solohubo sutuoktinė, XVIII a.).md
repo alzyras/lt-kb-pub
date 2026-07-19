@@ -66,5 +66,5 @@ Brigita Petronėlė tuo metu buvo Vilniuje kartu su sutuoktiniu Antanu Davainiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-200521
+    - t-200522

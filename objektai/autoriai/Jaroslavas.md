@@ -49,7 +49,7 @@ Narbutas rašė, kad Divonio kelionės aprašymą vyskupas Kristijonas veikiausi
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174509
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Divonio kelionės aprašymą vyskupas Kristijonas veikiausiai rado Plocko katedros klebono Jaroslavo kronikoje.'
@@ -68,8 +68,7 @@ Narbutas rašė, kad Divonio kelionės aprašymą vyskupas Kristijonas veikiausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191627
 ## Citatos
 
 - id: c-174509

@@ -164,7 +164,6 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186121
-
 - id: c-173781
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -188,7 +187,6 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190899
-
 - id: c-173782
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -210,7 +208,6 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   pagrindzia:
     - t-190900
     - t-197767
-
 - id: c-178739
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

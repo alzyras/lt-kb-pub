@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai remia faktą, bet pradinė formuluotė prasideda nereikalinga atribucija."
   pagrindžia:
     - c-63050
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė į nelaisvę arba nukovė 500 žmonių.'
@@ -91,8 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62427
 ## Citatos
 
 - id: c-63050

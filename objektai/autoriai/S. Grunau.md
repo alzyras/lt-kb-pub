@@ -94,7 +94,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64837
-
 - id: c-65431
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

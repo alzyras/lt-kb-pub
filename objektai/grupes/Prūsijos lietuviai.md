@@ -55,7 +55,7 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172348
-
+    - c-001
 <a id="claim-t-194582"></a>
 - t-002
   global_id: t-194582
@@ -112,8 +112,7 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189461
 ## Citatos
 
 - id: c-172348
@@ -141,7 +140,6 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189461
-
 - id: c-176981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -163,7 +161,6 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194582
-
 - id: c-176982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

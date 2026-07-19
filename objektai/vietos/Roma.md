@@ -109,7 +109,6 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180501
-
 - id: c-164108
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

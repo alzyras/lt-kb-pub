@@ -48,6 +48,7 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168803
+    - c-001
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/ivykiai/Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti.md#claim-t-186567|Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti]]: Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
@@ -75,8 +76,7 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185442
 ## Citatos
 
 - id: c-168803

@@ -119,7 +119,6 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78981
-
 - id: c-76071
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

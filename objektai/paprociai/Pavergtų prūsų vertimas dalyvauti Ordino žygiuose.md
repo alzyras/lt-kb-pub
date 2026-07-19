@@ -81,7 +81,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-63464
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.'
@@ -100,8 +100,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62707
 ## Citatos
 
 - id: c-63464

@@ -58,7 +58,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Vytauto tvirtovės pastatymą."
   pagrindžia:
     - c-32017
-
+    - c-167754
 <a id="claim-t-67819"></a>
 - t-002
   global_id: t-67819
@@ -94,7 +94,6 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67818
-
 - id: c-67583
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -112,7 +111,6 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67819
-
 - id: c-167754
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

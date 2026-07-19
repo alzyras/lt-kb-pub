@@ -430,7 +430,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05161
-
 - id: c-04830
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -449,7 +448,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05164
-
 - id: c-21642
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -467,7 +465,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82249
-
 - id: c-21643
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -487,7 +484,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82252
-
 - id: c-21645
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -512,7 +508,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05162
-
 - id: c-21646
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -540,7 +535,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05163
-
 - id: c-168044
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -567,7 +561,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184683
-
 - id: c-168046
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -592,7 +585,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184685
-
 - id: c-168047
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -619,7 +611,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184686
-
 - id: c-168048
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -661,7 +652,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   pagrindzia:
     - t-184687
     - t-196437
-
 - id: c-176526
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -682,7 +672,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193901
-
 - id: c-176527
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -708,7 +697,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   pagrindzia:
     - t-193902
     - t-196817
-
 - id: c-176528
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -735,7 +723,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193903
-
 - id: c-176824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -780,7 +767,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194224
-
 - id: c-178685
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -802,7 +788,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196435
-
 - id: c-178687
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -828,7 +813,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196438
-
 - id: c-178929
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -853,7 +837,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196818
-
 - id: c-184328
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -876,7 +859,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200978
-
 - id: c-184329
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -898,7 +880,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200979
-
 ## Ryšiai
 - Daumantas (kunigaikštis, XV a.) valdė [[objektai/vietos/Polockas]]
 - Daumantas (kunigaikštis, XV a.) puolė [[objektai/vietos/Nalšėnai]]

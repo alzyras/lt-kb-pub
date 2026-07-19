@@ -105,7 +105,6 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190492
-
 - id: c-173376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -125,7 +124,6 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190493
-
 - id: c-179145
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -53,7 +53,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22601
-
+    - c-72706
 <a id="claim-t-74668"></a>
 - t-002
   global_id: t-74668
@@ -157,7 +157,6 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74669
-
 - id: c-22599
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -179,7 +178,6 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74668
-
 - id: c-22600
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -203,7 +201,6 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74671
-
 - id: c-22601
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -224,7 +221,6 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74667
-
 - id: c-72706
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -246,4 +242,5 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-74667
     - t-74670

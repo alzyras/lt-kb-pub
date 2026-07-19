@@ -79,7 +79,7 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatos informacija apie Ordino spaudimą."
   pagrindžia:
     - c-43450
-
+    - c-167173
 <a id="claim-t-67968"></a>
 - t-003
   global_id: t-67968
@@ -166,7 +166,6 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   pagrindzia:
     - t-67966
     - t-67967
-
 - id: c-67685
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -186,7 +185,6 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67968
-
 - id: c-167173
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

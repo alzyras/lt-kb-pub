@@ -137,7 +137,6 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77456
-
 - id: c-24584
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -162,7 +161,6 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77457
-
 - id: c-24585
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,7 +181,6 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77458
-
 - id: c-74847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

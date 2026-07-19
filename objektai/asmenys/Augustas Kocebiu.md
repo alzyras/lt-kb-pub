@@ -56,7 +56,7 @@ Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. R
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173015
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. Revelyje davė jį Narbutui išrašams apie Lietuvos istoriją bei mitologiją.'
@@ -78,8 +78,7 @@ Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. R
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190132
 ## Citatos
 
 - id: c-173015

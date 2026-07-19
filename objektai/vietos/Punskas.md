@@ -124,7 +124,6 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   pagrindzia:
     - t-71963
     - t-71964
-
 - id: c-167015
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -146,7 +146,6 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68594
-
 - id: c-68136
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -165,7 +164,6 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68593
-
 - id: c-68137
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

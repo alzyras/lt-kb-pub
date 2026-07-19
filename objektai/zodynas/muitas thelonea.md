@@ -121,7 +121,6 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86426
-
 - id: c-82404
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,7 +158,6 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86425
-
 - id: c-82405
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

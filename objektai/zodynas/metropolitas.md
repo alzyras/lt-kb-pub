@@ -90,7 +90,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-183709
-
+    - c-91772
 <a id="claim-t-05453"></a>
 - t-003
   global_id: t-05453
@@ -175,7 +175,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-183712
-
+    - c-170474
 <a id="claim-t-200395"></a>
 - t-008
   global_id: t-200395
@@ -286,7 +286,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184630
-
 - id: c-183707
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -304,7 +303,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05453
-
 - id: c-183708
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -324,7 +322,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05455
-
 - id: c-183709
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -344,7 +341,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05452
-
 - id: c-183710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -363,7 +359,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindzia:
     - t-05451
     - t-200395
-
 - id: c-183711
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -385,7 +380,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05454
-
 - id: c-183712
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -410,7 +404,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187523
-
 - id: c-183714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -430,3 +423,40 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-91772
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Naugarde,
+    Smolenske ir Tvėrėje. Ir Algirdas, ir Maskvos kunigaikštis tuo
+    pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
+    valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
+    gyventojams.
+    Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
+    Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
+    puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.
+  citata_rodoma: "Naugarde,\nSmolenske ir Tvėrėje. Ir Algirdas, ir Maskvos kunigaikštis tuo\npačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo\nvalstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo\ngyventojams.\nMaskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos\nRusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių\npuolimų pavojuose, 1300 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05452
+- id: c-170474
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 271."
+  citata_originali: |
+    ”  „O  trečių vasarų" — kalbama apie 1435 m
+    w Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos. Bu­
+    vo Volynės (1415— 1428). Smolensko (nuo 1428) vyskupu. 1432 m.
+    Švitrigailos pasiūlymu ¡šventintas Konstantinopolyje LDK ir Mask­
+    vos Didžiosios Kunigaikštystės bei kitų rusų žemių metropolitu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187523

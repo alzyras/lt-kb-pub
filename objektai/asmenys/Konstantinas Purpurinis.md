@@ -49,7 +49,7 @@ Narbutas Konstantiną Purpurinį vadina istoriku ir juo remiasi aiškindamas apt
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174316
-
+    - c-001
 <a id="claim-t-191435"></a>
 - t-002
   global_id: t-191435
@@ -88,8 +88,7 @@ Narbutas Konstantiną Purpurinį vadina istoriku ir juo remiasi aiškindamas apt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191434
 ## Citatos
 
 - id: c-174316
@@ -115,7 +114,6 @@ Narbutas Konstantiną Purpurinį vadina istoriku ir juo remiasi aiškindamas apt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191434
-
 - id: c-174317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

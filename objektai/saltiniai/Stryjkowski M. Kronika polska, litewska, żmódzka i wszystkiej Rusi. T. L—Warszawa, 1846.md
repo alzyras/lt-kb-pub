@@ -55,7 +55,7 @@ Dusburgietis teigia, kad stryjkowski M.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį leidimo faktą."
   pagrindžia:
     - c-61934
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad stryjkowski M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61302
 ## Citatos
 
 - id: c-61934

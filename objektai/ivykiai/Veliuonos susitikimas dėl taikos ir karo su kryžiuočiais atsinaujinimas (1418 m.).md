@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį faktą apie susitikimo rezultatą."
   pagrindžia:
     - c-169143
-
+    - c-001
 <a id="claim-t-185783"></a>
 - t-002
   global_id: t-185783
@@ -116,8 +116,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185782
 ## Citatos
 
 - id: c-169143
@@ -160,7 +159,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185782
-
 - id: c-169144
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

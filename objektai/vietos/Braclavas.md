@@ -78,7 +78,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-168296
-
+    - c-003
 <a id="claim-t-184936"></a>
 - t-003
   global_id: t-184936
@@ -101,7 +101,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas citata paremtas faktas."
   pagrindžia:
     - c-168297
-
+    - c-004
 <a id="claim-t-193173"></a>
 - t-004
   global_id: t-193173
@@ -159,8 +159,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184935
 - c-004
   santrauka: '1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -193,8 +192,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-184936
 ## Citatos
 
 - id: c-46455
@@ -221,7 +219,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193173
-
 - id: c-49105
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -241,7 +238,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46541
-
 - id: c-168296
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -272,7 +268,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184935
-
 - id: c-168297
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -47,7 +47,7 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169580
-
+    - c-001
 <a id="claim-t-196501"></a>
 - t-002
   global_id: t-196501
@@ -79,8 +79,7 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186219
 ## Citatos
 
 - id: c-169580
@@ -104,7 +103,6 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186219
-
 - id: c-178732
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

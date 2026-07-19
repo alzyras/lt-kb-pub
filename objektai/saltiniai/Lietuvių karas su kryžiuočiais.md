@@ -45,7 +45,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   semantiniai_rysiai: "Dovydas Gardiniškis gynė Pskovas (0.91)"
   pagrindžia:
     - c-67338
-
+    - c-001
 <a id="claim-t-67442"></a>
 - t-002
   global_id: t-67442
@@ -78,8 +78,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-67441
 ## Citatos
 
 - id: c-67338
@@ -104,7 +103,6 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67441
-
 - id: c-67339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

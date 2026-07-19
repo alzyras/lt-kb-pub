@@ -328,7 +328,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182848
-
 - id: c-167103
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -344,7 +343,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183715
-
 - id: c-167219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -43,7 +43,7 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182302
-
+    - c-170640
 <a id="claim-t-201080"></a>
 - t-002
   global_id: t-201080
@@ -80,7 +80,6 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199545
-
 - id: c-184430
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -104,3 +103,21 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201080
+- id: c-170640
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tai buvo iš jų pusės daroma man didelė neteisybė, kad
+    jie prieš mano valią spyrė, kad aš priimčiau rusų ti­
+    kėjimą.
+    Jau metai laiko nūnai, kai kunigaikštis [Jogailai
+    Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
+    visą mano tėviškę mano akivaizdoje6 . Man tai buvo
+    labai skaudu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199545

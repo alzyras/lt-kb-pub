@@ -48,7 +48,7 @@ Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos api
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174539
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos apie slavų kilmę iš budinų įrodymų.'
@@ -68,8 +68,7 @@ Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos api
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191657
 ## Citatos
 
 - id: c-174539

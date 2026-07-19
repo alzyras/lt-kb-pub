@@ -166,7 +166,6 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   pagrindzia:
     - t-82301
     - t-82304
-
 - id: c-78780
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -187,7 +186,6 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82302
-
 - id: c-78783
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -218,6 +216,5 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   pagrindzia:
     - t-82300
     - t-82303
-
 ## Ryšiai
 - Fotijus keliavo į [[objektai/vietos/Maskva]]

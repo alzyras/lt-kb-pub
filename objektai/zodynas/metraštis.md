@@ -297,7 +297,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200392
-
 - id: c-183704
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

@@ -48,7 +48,7 @@ Simonas Daukantas atsiuntė Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173415
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Simonas Daukantas atsiuntė Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį.'
@@ -66,8 +66,7 @@ Simonas Daukantas atsiuntė Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190532
 ## Citatos
 
 - id: c-173415

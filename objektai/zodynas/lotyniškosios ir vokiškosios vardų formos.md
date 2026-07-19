@@ -38,7 +38,7 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59546
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose.'
@@ -56,8 +56,7 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58914
 ## Citatos
 
 - id: c-59546

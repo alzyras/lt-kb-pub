@@ -75,7 +75,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Dusburgiečio pasakojimą ir Akono žlugimą."
   pagrindžia:
     - c-163404
-
+    - c-004
 <a id="claim-t-179737"></a>
 - t-002
   global_id: t-179737
@@ -93,7 +93,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   semantiniai_rysiai: "Henrikas Valpotas buvo palaidotas Akonas (0.95)"
   pagrindžia:
     - c-163408
-
+    - c-007
 <a id="claim-t-179739"></a>
 - t-003
   global_id: t-179739
@@ -201,7 +201,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-163404
-
+    - c-004
 <a id="claim-t-179745"></a>
 - t-009
   global_id: t-179745
@@ -253,9 +253,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-008
-
+    - t-179736
+    - t-179744
 - c-007
   santrauka: 'Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -277,8 +276,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-179737
 ## Citatos
 
 - id: c-163398
@@ -296,7 +294,6 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179741
-
 - id: c-163400
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -318,7 +315,6 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179745
-
 - id: c-163402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -344,7 +340,6 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179740
-
 - id: c-163404
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -370,7 +365,6 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   pagrindzia:
     - t-179736
     - t-179744
-
 - id: c-163406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -399,7 +393,6 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   pagrindzia:
     - t-179739
     - t-179743
-
 - id: c-163407
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -418,7 +411,6 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179742
-
 - id: c-163408
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -444,6 +436,5 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179737
-
 ## Ryšiai
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Henrikas Valpotas]], [[objektai/asmenys/Hermanas Bartas]], [[objektai/asmenys/Otonas]]

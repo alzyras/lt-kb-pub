@@ -70,6 +70,7 @@ Narbutas rašo, kad Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174358
+    - c-002
 - susijęs iš [[objektai/asmenys/Vasilijus Tatiščevas.md#claim-t-191359|Vasilijus Tatiščevas]]: Narbutas atmetė Tatiščevo krivių pavadinimo kildinimą iš sarmatų žodžio „Krirsae“ ir labiau siejo jį su bendru vyriausiuoju kunigu.
 - susijęs iš [[objektai/autoriai/Vasilijus Tatiščevas.md#claim-t-191602|Vasilijus Tatiščevas]]: Teodoras Narbutas rašė, kad Vasilijus Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“.
 - susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.
@@ -93,8 +94,7 @@ Narbutas rašo, kad Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191476
 ## Citatos
 
 - id: c-174357
@@ -119,7 +119,6 @@ Narbutas rašo, kad Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191475
-
 - id: c-174358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

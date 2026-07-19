@@ -66,4 +66,4 @@ Zundas šiame gabale įtrauktas į vietovardžių rodyklę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192914

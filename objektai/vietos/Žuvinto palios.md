@@ -117,7 +117,6 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42415
-
 - id: c-45488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -160,7 +159,6 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42414
-
 - id: c-167206
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -179,6 +177,5 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183821
-
 ## Ryšiai
 - Puolė Žuvinto palios: [[objektai/grupes/NKVD]]

@@ -836,8 +836,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   sudarymo_pagrindimas: 'Pašalinti antraštės bei puslapio fragmentai, vertinimas paliktas su Vytauto Berenio atribucija. Neperimtos metaforinės detalės apie vaikus ir tėvą.'
   susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_author: [[objektai/autoriai/Vytautas Berenis|Vytautas Berenis]]'
   pagrindžia:
-    - c-171518
-
+    - c-015
 <a id="claim-t-188630"></a>
 - t-016
   global_id: t-188630
@@ -848,8 +847,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   sudarymo_pagrindimas: 'Išskleistas palyginimo pagrindas ir vertinimas paliktas su Berenio atribucija. Nevardyti visi šaltiniai iš ilgo sąrašo.'
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Francas Bopas|Francas Bopas]]; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_author: [[objektai/autoriai/Sirvydas|Sirvydas]]; mentioned_author: [[objektai/autoriai/Stenderis|Stenderis]]; mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
-    - c-171519
-
+    - c-016
 <a id="claim-t-188639"></a>
 - t-025
   global_id: t-188639
@@ -860,7 +858,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   sudarymo_pagrindimas: 'Pašalinti puslapio, išnašos ir bibliografinio skliausto fragmentai. Paliktas tik aiškiai cituojamas faktas apie bibliotekos rinkinį.'
   susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Šaurų dvaras'
   pagrindžia:
-    - c-171528
+    - c-025
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-191935|Albertas Vijūkas-Kojalavičius]]: Narbutas priekaištauja, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
 - susijęs iš [[objektai/asmenys/Buda.md#claim-t-191260|Buda]]: Teodoras Narbutas Budą aiškino kaip senovinį mitinį indų mitologijos vardą, iš kurio kildino budinų genties pavadinimą.
 - susijęs iš [[objektai/asmenys/Erazmas Stela.md#claim-t-191147|Erazmas Stela]]: Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, lietuvių kilmės iš alanų pagrindą siejusį su prūsų kildinimu iš gotų.
@@ -1143,8 +1141,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-188629
 - c-016
   santrauka: 'Vytauto Berenio teigimu, Teodoras Narbutas šaltinius rinkosi panašiai kaip pirmtakai, bet juos pralenkė tautosakos ir etnografijos gausa.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1182,8 +1179,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-188630
 - c-025
   santrauka: 'Teodoras Narbutas Šaurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1203,8 +1199,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-
+    - t-188639
 ## Citatos
 
 - id: c-169848
@@ -1235,7 +1230,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186514
-
 - id: c-169849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1260,7 +1254,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186515
-
 - id: c-169850
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1287,7 +1280,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186512
-
 - id: c-169851
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1312,7 +1304,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186513
-
 - id: c-169852
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1338,7 +1329,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186511
-
 - id: c-169853
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1361,7 +1351,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186516
-
 - id: c-169854
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1385,7 +1374,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186510
-
 - id: c-171511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1403,7 +1391,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188622
-
 - id: c-171512
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1422,7 +1409,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188623
-
 - id: c-171513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1445,7 +1431,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188624
-
 - id: c-171514
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1464,7 +1449,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188625
-
 - id: c-171515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1482,7 +1466,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188626
-
 - id: c-171516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1506,7 +1489,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188627
-
 - id: c-171517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1525,7 +1507,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188628
-
 - id: c-171520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1549,7 +1530,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188631
-
 - id: c-171521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1570,7 +1550,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188632
-
 - id: c-171522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1597,7 +1576,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188633
-
 - id: c-171523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1622,7 +1600,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188634
-
 - id: c-171524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1651,7 +1628,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188635
-
 - id: c-171525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1670,7 +1646,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188636
-
 - id: c-171526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1691,7 +1666,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188637
-
 - id: c-171527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1714,7 +1688,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188638
-
 - id: c-171529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1740,7 +1713,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188640
-
 - id: c-171530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1764,7 +1736,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188641
-
 - id: c-171531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1789,7 +1760,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188642
-
 - id: c-173867
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1808,7 +1778,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190985
-
 - id: c-173868
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1832,7 +1801,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   pagrindzia:
     - t-190986
     - t-197827
-
 - id: c-173869
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1855,7 +1823,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190987
-
 - id: c-173870
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1878,7 +1845,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190988
-
 - id: c-173871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1896,7 +1862,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190989
-
 - id: c-179194
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1917,7 +1882,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197447
-
 - id: c-179195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1940,7 +1904,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197448
-
 - id: c-179196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1963,7 +1926,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197449
-
 - id: c-179197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1985,7 +1947,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197450
-
 - id: c-179198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2007,7 +1968,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197451
-
 - id: c-179199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2030,7 +1990,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197452
-
 - id: c-179200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2053,7 +2012,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197453
-
 - id: c-179201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2075,7 +2033,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197454
-
 - id: c-179202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2093,7 +2050,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197455
-
 - id: c-179355
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2113,7 +2069,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197825
-
 - id: c-179356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2135,7 +2090,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197826
-
 - id: c-179357
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -50,7 +50,7 @@ Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Ra
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173328
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Raynaldum „Annales ecclesiasticae“.'
@@ -67,8 +67,7 @@ Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Ra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190445
 ## Citatos
 
 - id: c-173328

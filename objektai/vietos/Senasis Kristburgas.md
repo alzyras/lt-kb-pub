@@ -64,7 +64,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   semantiniai_rysiai: "Senasis Kristburgas priklausė Pamedėnai (0.84)"
   pagrindžia:
     - c-59264
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.'
@@ -79,8 +79,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58633
 ## Citatos
 
 - id: c-59264
@@ -108,7 +107,6 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58633
-
 - id: c-59265
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

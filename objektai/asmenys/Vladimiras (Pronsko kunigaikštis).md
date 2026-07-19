@@ -46,7 +46,7 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   semantiniai_rysiai: "Vladimiras (Pronsko kunigaikštis) keliavo į Maskva (0.90); Vladimiras (Pronsko kunigaikštis) buvo sąjungininkas su Vladimiras Andrejevičius (0.74)"
   pagrindžia:
     - c-41477
-
+    - c-167155
 ## Citatos
 
 - id: c-41477
@@ -70,7 +70,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39673
-
 - id: c-167155
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

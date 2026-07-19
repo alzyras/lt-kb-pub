@@ -50,6 +50,7 @@ Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio že
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172428
+    - c-001
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188365|Žemaičiai]]: Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse.
 - susijęs iš [[objektai/daiktai/Čeltyčių gintaro rūmai.md#claim-t-189756|Čeltyčių gintaro rūmai]]: Narbutas Čeltyčias vaizdavo kaip Baltijos jūros nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176148|Žemaičiai]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
@@ -77,8 +78,7 @@ Narbutas Čeltyčias vaizdavo kaip Baltijos jūros vandenų nimfas, pajūrio že
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189540
 ## Citatos
 
 - id: c-172428

@@ -69,6 +69,5 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41896
-
 ## Ryšiai
 - Užėmė Marcinkonį: [[objektai/grupes/Lenkai]]

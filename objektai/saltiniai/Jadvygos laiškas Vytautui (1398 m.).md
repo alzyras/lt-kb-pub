@@ -141,7 +141,6 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67416
-
 - id: c-13852
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -163,7 +162,6 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
   pagrindzia:
     - t-67413
     - t-67415
-
 - id: c-37203
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

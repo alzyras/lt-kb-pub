@@ -90,7 +90,6 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88187
-
 - id: c-84167
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

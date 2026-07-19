@@ -148,6 +148,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-24249
+    - c-167008
 - susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
 - susijęs iš Suvalkų gubernija: Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.
 - susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
@@ -175,7 +176,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76817
-
 - id: c-74323
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -195,7 +195,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   pagrindzia:
     - t-76814
     - t-76815
-
 - id: c-74324
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -215,7 +214,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76812
-
 - id: c-74325
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -236,7 +234,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76816
-
 - id: c-74327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -257,7 +254,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76813
-
 - id: c-167008
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

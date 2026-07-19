@@ -45,7 +45,7 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67257
-
+    - c-001
 <a id="claim-t-194468"></a>
 - t-002
   global_id: t-194468
@@ -75,8 +75,7 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-67297
 ## Citatos
 
 - id: c-67257
@@ -99,7 +98,6 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67297
-
 - id: c-176943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

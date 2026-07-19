@@ -51,7 +51,7 @@ Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miesta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171948
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas.'
@@ -72,8 +72,7 @@ Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miesta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189059
 ## Citatos
 
 - id: c-171948

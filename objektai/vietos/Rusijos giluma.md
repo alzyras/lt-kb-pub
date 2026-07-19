@@ -73,6 +73,5 @@ Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papro�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189058
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Mordviai]]

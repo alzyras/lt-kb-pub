@@ -67,7 +67,7 @@ Nenurodyta
   semantiniai_rysiai: "Gerhardas (valdovas) gyveno Marienburgas (0.90); Gerhardas (valdovas) pastatė Karo pabūklai (0.88)"
   pagrindžia:
     - c-60320
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Gerhardas anksčiau garsėjo kaip gabus račius ir didelis karo pabūklų meistras.'
@@ -90,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59688
 ## Citatos
 
 - id: c-60320

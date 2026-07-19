@@ -71,6 +71,5 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-100068
-
 ## Ryšiai
 - Butrimas keliavo į [[objektai/vietos/Praha]]

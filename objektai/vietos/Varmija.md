@@ -185,7 +185,6 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   pagrindzia:
     - t-192795
     - t-197936
-
 - id: c-175566
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -210,7 +209,6 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   pagrindzia:
     - t-192796
     - t-197937
-
 - id: c-175567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -234,6 +232,5 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
   pagrindzia:
     - t-192797
     - t-197938
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Vitlandija]]

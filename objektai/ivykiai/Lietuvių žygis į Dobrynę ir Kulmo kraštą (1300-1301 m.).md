@@ -157,7 +157,6 @@ Nenurodyta
   pagrindzia:
     - t-185608
     - t-196209
-
 - id: c-168970
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -188,7 +187,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185609
-
 - id: c-178576
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

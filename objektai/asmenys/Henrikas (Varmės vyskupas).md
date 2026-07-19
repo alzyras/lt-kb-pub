@@ -78,6 +78,5 @@ Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 vie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60310
-
 ## Ryšiai
 - Henrikas (Varmės vyskupas) pastatė [[objektai/vietos/Brunsbergas]]

@@ -141,7 +141,6 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   pagrindzia:
     - t-195086
     - t-195087
-
 - id: c-177469
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

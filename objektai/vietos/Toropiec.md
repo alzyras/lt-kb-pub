@@ -76,6 +76,5 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99915
-
 ## Ryšiai
 - Užėmė Toropiec: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -120,7 +120,6 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88160
-
 - id: c-167216
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

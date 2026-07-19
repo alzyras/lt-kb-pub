@@ -57,7 +57,7 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
   temporalinis_llm_pakomentavimas: "Perrašymas panaikina skliaustinę datą ir padaro sakinį enciklopediškesnį."
   pagrindžia:
     - c-28893
-
+    - c-167740
 ## Citatos
 
 - id: c-28893
@@ -78,7 +78,6 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28988
-
 - id: c-167740
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

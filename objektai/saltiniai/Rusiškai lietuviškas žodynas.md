@@ -72,7 +72,6 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36109
-
 - id: c-38434
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

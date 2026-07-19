@@ -110,7 +110,6 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-56718
-
 - id: c-57435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

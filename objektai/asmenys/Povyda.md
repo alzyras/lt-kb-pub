@@ -97,9 +97,6 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-61049
@@ -126,7 +123,6 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   pagrindzia:
     - t-60417
     - t-197150
-
 - id: c-184375
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

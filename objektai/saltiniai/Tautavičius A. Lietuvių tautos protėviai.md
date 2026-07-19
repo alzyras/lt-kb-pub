@@ -53,7 +53,7 @@ Dusburgietis teigia, kad tautavičius A.
   temporalinis_llm_pakomentavimas: "Citata patvirtina autorių, pavadinimą, leidinį, metus ir numerį."
   pagrindžia:
     - c-61944
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Tautavičiaus straipsnis „Lietuvių tautos protėviai“ paskelbtas žurnalo „MG“ 1968 m. 8 numeryje.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad tautavičius A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61312
 ## Citatos
 
 - id: c-61944

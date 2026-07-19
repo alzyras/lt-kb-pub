@@ -177,7 +177,6 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190300
-
 - id: c-173184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -199,7 +198,6 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190301
-
 - id: c-173186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -216,7 +214,6 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190303
-
 - id: c-177070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -236,7 +233,6 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194673
-
 - id: c-179137
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -255,7 +251,6 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197339
-
 - id: c-179138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -278,7 +273,6 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197340
-
 - id: c-179279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

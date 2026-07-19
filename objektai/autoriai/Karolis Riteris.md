@@ -49,7 +49,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174424
-
+    - c-001
 <a id="claim-t-191543"></a>
 - t-002
   global_id: t-191543
@@ -105,7 +105,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177278
-
+    - c-004
 <a id="claim-t-197618"></a>
 - t-005
   global_id: t-197618
@@ -152,8 +152,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191542
 - c-002
   santrauka: 'Narbuto perteikimu, Karolis Riteris indų vardą siejo su senovės kolchais, saulės garbintojais, atėjusiais iš Indijos prie Meotų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -179,9 +178,6 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-005
-
 - c-004
   santrauka: 'Prie pačių keisčiausių išvadų, nepaisant slaviško skambėjimo panašumo, labai artimo esmei, derėtų pri 1 Tai įrodo Riteris (Vorhalle ettr.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -195,8 +191,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194882
 ## Citatos
 
 - id: c-174424
@@ -223,7 +218,6 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191542
-
 - id: c-174425
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -257,7 +251,6 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   pagrindzia:
     - t-191543
     - t-197618
-
 - id: c-174770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -281,7 +274,6 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   pagrindzia:
     - t-191888
     - t-197619
-
 - id: c-177278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

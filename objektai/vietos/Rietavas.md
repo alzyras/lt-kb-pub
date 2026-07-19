@@ -69,4 +69,4 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189050

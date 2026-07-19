@@ -45,7 +45,7 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61310
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Biržiška parašė darbą „Kryžiuočių keliai“.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60678
 ## Citatos
 
 - id: c-61310

@@ -49,7 +49,7 @@ Didelės apimties 862 lapų rankraštis saugomas Lietuvos mokslų akademijos bib
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172433
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Didelės apimties 862 lapų rankraštis saugomas Lietuvos mokslų akademijos bibliotekos Rankraščių skyriuje.'
@@ -68,8 +68,7 @@ Didelės apimties 862 lapų rankraštis saugomas Lietuvos mokslų akademijos bib
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189545
 ## Citatos
 
 - id: c-172433

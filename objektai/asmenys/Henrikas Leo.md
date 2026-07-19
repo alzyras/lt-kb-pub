@@ -113,7 +113,6 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191207
-
 - id: c-174090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

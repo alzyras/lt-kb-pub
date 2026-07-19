@@ -116,6 +116,5 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
   pagrindzia:
     - t-21527
     - t-183612
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jonas Paulius II]]

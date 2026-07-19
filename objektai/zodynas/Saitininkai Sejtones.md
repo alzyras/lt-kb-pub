@@ -49,7 +49,7 @@ Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172217
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas ant ligonio kaklo kabinamais amuletais.'
@@ -69,8 +69,7 @@ Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189330
 ## Citatos
 
 - id: c-172217

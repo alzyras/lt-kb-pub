@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata remia faktą, bet pradinis teiginys kopijuoja antraštę ir yra per daug gremėzdiškas."
   pagrindžia:
     - c-87562
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1232 m. Tolede žydas rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.'
@@ -91,8 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91920
 ## Citatos
 
 - id: c-87562

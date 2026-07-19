@@ -45,6 +45,7 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59362
+    - c-167591
 - susijęs iš Nalepa J., Stabo: J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte.
 ## Citatos
 
@@ -67,7 +68,6 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58730
-
 - id: c-167591
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -79,7 +79,7 @@ Tekste jos siejamos su viešu išplakimu.
   temporalinis_llm_pakomentavimas: "Teiginys jau yra gramatiškas sakinys su aiškiu subjektu ir predikatu apie rykštes. Citata tiesiogiai palaiko viešo išplakimo rykštėmis faktą."
   pagrindžia:
     - c-170768
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -95,8 +95,7 @@ Tekste jos siejamos su viešu išplakimu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187814
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

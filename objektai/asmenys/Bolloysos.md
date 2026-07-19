@@ -48,7 +48,7 @@ Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kur
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173021
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kurie kritikui kėlė įtarimą ir skambėjo neprūsiškai.'
@@ -63,8 +63,7 @@ Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190138
 ## Citatos
 
 - id: c-173021

@@ -517,7 +517,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58561
-
 - id: c-59193
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -538,7 +537,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58560
-
 ## Ryšiai
 - Puolė Kaimą: [[objektai/asmenys/Martynas iš Golino]]
 - Užėmė Kaimą: [[objektai/asmenys/Martynas iš Golino]]

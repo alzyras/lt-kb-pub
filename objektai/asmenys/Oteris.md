@@ -44,7 +44,7 @@ Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61030
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Oteris pateko į nelaisvę, bet netrukus iš jos išsigelbėjo ir dešimt dienų keliavo be maisto.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60398
 ## Citatos
 
 - id: c-61030

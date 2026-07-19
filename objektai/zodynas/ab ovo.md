@@ -145,7 +145,6 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192295
-
 - id: c-175111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -86,7 +86,7 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174167
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius.'
@@ -112,8 +112,7 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191285
 ## Citatos
 
 - id: c-174166
@@ -137,7 +136,6 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191284
-
 - id: c-174167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -167,6 +165,5 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191285
-
 ## Ryšiai
 - Jonas Komninas kariavo prieš [[objektai/grupes/Pečenegai]]

@@ -116,7 +116,6 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
   pagrindzia:
     - t-186160
     - t-196588
-
 - id: c-173848
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -139,6 +138,5 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190966
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Giliginas]]

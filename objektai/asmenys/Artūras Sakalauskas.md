@@ -56,7 +56,7 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, o citata patvirtina pateiktą apibūdinimą."
   pagrindžia:
     - c-44290
-
+    - c-44289
 <a id="claim-t-40041"></a>
 - t-002
   global_id: t-40041
@@ -96,7 +96,6 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40041
-
 - id: c-44289
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -112,8 +111,7 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-40039
-
+    - t-40040
 - id: c-44290
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

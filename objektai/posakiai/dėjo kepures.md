@@ -55,6 +55,7 @@ Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172463
+    - c-001
 - susijęs iš Senųjų Lietuvos teismų sprendimai: Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“.
 - susijęs iš [[objektai/paprociai/Kepurės padėjimas teismo priesaikoje.md#claim-t-189780|Kepurės padėjimas teismo priesaikoje]]: Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.
 - susijęs iš [[objektai/zodynas/Dėti kepurę.md#claim-t-189124|Dėti kepurę]]: Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika, minimą senųjų teismų sprendimuose.
@@ -82,8 +83,7 @@ Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189576
 ## Citatos
 
 - id: c-172463

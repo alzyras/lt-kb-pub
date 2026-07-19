@@ -107,7 +107,6 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195267
-
 - id: c-177631
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -129,7 +128,6 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195265
-
 - id: c-177632
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

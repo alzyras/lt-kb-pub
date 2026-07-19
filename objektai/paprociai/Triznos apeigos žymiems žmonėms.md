@@ -58,7 +58,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172782
-
+    - c-001
 <a id="claim-t-194634"></a>
 - t-002
   global_id: t-194634
@@ -72,7 +72,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177032
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas trizną apibūdina kaip kai kurioms lietuvių genties tautoms žinotas apeigas, atliekamas laidojant labai žymius žmones.'
@@ -89,8 +89,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189899
 - c-002
   santrauka: 'Lietuvoje gyveno garsi Triznų giminė22.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -108,8 +107,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194634
 ## Citatos
 
 - id: c-172782
@@ -132,7 +130,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189899
-
 - id: c-177032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

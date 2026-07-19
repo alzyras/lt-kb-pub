@@ -74,7 +74,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174873
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Laiške Ignui Onacevičiui Teodoras Narbutas antrą LTI tomą vadino skirtu lietuvių tautos versmėms tyrinėti.'
@@ -100,8 +100,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191991
 ## Citatos
 
 - id: c-174873

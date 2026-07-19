@@ -212,7 +212,6 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88108
-
 - id: c-84083
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -256,7 +255,6 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88109
-
 - id: c-84084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -282,7 +280,6 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88107
-
 - id: c-84085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -322,7 +319,6 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88105
-
 - id: c-84086
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -369,7 +365,6 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88106
-
 - id: c-84087
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -404,7 +399,6 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88103
-
 - id: c-84088
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -437,7 +431,6 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88104
-
 - id: c-84089
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

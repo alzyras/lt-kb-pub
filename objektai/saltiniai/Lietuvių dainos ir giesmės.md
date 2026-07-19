@@ -92,7 +92,6 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195224
-
 - id: c-177590
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"

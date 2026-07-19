@@ -50,7 +50,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172312
-
+    - c-001
 <a id="claim-t-189426"></a>
 - t-002
   global_id: t-189426
@@ -71,7 +71,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172313
-
+    - c-002
 <a id="claim-t-189427"></a>
 - t-003
   global_id: t-189427
@@ -154,7 +154,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175232
-
+    - c-006
 <a id="claim-t-192439"></a>
 - t-007
   global_id: t-192439
@@ -203,6 +203,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175234
+    - c-008
 - susijęs iš [[objektai/asmenys/Indatiras.md#claim-t-191210|Indatiras]]: 514 m. pr. Kr. Darijus patraukė prieš Indatirą, o persų būriai, remiami graikų sąjungininkų, brovėsi Dunojaus link.
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190874|Herodotas]]: Pasak Herodoto, gelonai ir budinai turėjo tvirtovių bei nekilnojamojo turto, kurį sunaikino persų antpuolis.
 - susijęs iš [[objektai/asmenys/Indatiras.md#claim-t-191210|Indatiras]]: 514 m. pr. Kr. Darijus patraukė prieš Indatirą, o persų būriai, remiami graikų sąjungininkų, brovėsi Dunojaus link.
@@ -277,8 +278,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189425
 - c-002
   santrauka: 'Narbutas šio dievo mitą sieja su senovės persų Oromazu ir Arimanu ir spėja iš jų kilmę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -293,8 +293,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189426
 - c-006
   santrauka: 'Teodoras Narbutas vaizduoja, kad Indatiras niekino graikus ir persus kaip svetimus žmones, o persai savo ruožtu niekino skitus kaip barbarus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -316,8 +315,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-192438
 - c-008
   santrauka: '552 m. Naršo vadovaujamoje Justiniano kariuomenėje prie Pado žemupio greta longobardų ir persų buvo herulų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -336,8 +334,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-192440
 ## Citatos
 
 - id: c-172312
@@ -364,7 +361,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189425
-
 - id: c-172313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -383,7 +379,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189426
-
 - id: c-172314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -401,7 +396,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189427
-
 - id: c-172315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -422,7 +416,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189428
-
 - id: c-172316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -446,7 +439,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189429
-
 - id: c-175232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -472,7 +464,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192438
-
 - id: c-175233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -493,7 +484,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192439
-
 - id: c-175234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -515,7 +505,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192440
-
 ## Ryšiai
 - Rėmė Persai: [[objektai/grupes/Graikai]]
 - Persai keliavo į [[objektai/vietos/Europa]]

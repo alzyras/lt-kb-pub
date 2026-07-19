@@ -124,7 +124,6 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26547
-
 - id: c-26777
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,7 +143,6 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26548
-
 - id: c-166837
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -87,6 +87,5 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87880
-
 ## Ryšiai
 - Venceslavas (Mazovijos ir Plocko kunigaikštis) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

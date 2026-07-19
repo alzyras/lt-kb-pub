@@ -89,7 +89,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pirminis teiginys sugadintas OCR; citata leidžia suformuluoti aiškų faktą."
   pagrindžia:
     - c-168968
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Netekę vadų, Mazovijos žmonės bandė priešintis, bet buvo sumušti, o po to nusiaubta visa Mazovija ir didelė Kujavijos dalis.'
@@ -121,8 +121,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185607
 ## Citatos
 
 - id: c-168967
@@ -148,7 +147,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185606
-
 - id: c-168968
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -146,7 +146,6 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74186
-
 - id: c-72233
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -169,7 +168,6 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74187
-
 - id: c-166300
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -196,7 +194,6 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182896
-
 - id: c-166301
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

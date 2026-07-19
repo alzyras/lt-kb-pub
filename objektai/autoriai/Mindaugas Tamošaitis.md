@@ -144,7 +144,6 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26608
-
 - id: c-154575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -162,7 +161,6 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26720
-
 - id: c-154576
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

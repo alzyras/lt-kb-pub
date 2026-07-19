@@ -52,7 +52,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   semantiniai_rysiai: "Abenda priklausė Semba (0.67)"
   pagrindžia:
     - c-59057
-
+    - c-002
 <a id="claim-t-58425"></a>
 - t-002
   global_id: t-58425
@@ -70,7 +70,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59058
-
+    - c-003
 <a id="claim-t-58426"></a>
 - t-003
   global_id: t-58426
@@ -90,6 +90,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo per ilgas ir nutrūkęs, bet citata palaiko glaustą faktą apie Abendą."
   pagrindžia:
     - c-59056
+    - c-001
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 - susijęs iš [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje.md#claim-t-62736|1283 m. žiemos lietuvių antpuolis Sembos žemėje]]: 1283 m. žiemą 800 lietuvių raitelių per Kuršių neriją įsiveržė į Sembą, nusiaubė Abendos ir Pabečių valsčius, nužudė 150 krikščionių ir grįžo be pasipriešinimo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
@@ -116,8 +117,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-58426
 - c-002
   santrauka: 'Abenda minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -130,8 +130,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58424
 - c-003
   santrauka: 'Manoma, kad Abendos vardas galėjęs būti Betin, t.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -144,8 +143,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58425
 ## Citatos
 
 - id: c-59056
@@ -171,7 +169,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58426
-
 - id: c-59057
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -196,7 +193,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58424
-
 - id: c-59058
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

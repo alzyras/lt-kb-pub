@@ -42,7 +42,7 @@ Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, s
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177182
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, scilicet purificationem (O krikštas jiems buvo ugnis, tai yra ele mentarusis apsivalymas).'
@@ -62,8 +62,7 @@ Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194786
 ## Citatos
 
 - id: c-177182

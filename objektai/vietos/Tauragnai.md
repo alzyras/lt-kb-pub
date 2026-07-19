@@ -119,7 +119,6 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42181
-
 - id: c-45354
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -142,6 +141,5 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42182
-
 ## Ryšiai
 - Užėmė Tauragnai: [[objektai/grupes/Lenkai]]

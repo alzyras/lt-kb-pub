@@ -139,7 +139,6 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181338
-
 - id: c-164890
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -162,7 +161,6 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181336
-
 - id: c-164892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,7 +186,6 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181335
-
 - id: c-176243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -205,6 +202,5 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193564
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

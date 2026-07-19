@@ -75,6 +75,5 @@ TRAKINIŲ KAUTYNĖS 1945 m. birželio 27 d. Ukmergės apskr.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38563
-
 ## Ryšiai
 - Puolė Trakiniai: [[objektai/grupes/NKVD]]

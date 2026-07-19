@@ -58,7 +58,7 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-60738
-
+    - c-001
 <a id="claim-t-60107"></a>
 - t-002
   global_id: t-60107
@@ -108,8 +108,7 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60106
 ## Citatos
 
 - id: c-60738
@@ -133,7 +132,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60106
-
 - id: c-60739
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,7 +155,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   pagrindzia:
     - t-60107
     - t-197067
-
 ## Ryšiai
 - Ditrichas iš Ezbeko gynė [[objektai/vietos/Ragainė]]
 - Ditrichas iš Ezbeko siuntė į [[objektai/vietos/Ragainė]]

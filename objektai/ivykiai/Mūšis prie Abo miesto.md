@@ -76,7 +76,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškai ir dalykiškai išplečia citatos informaciją apie kontūzijos pasekmę. Nepridėta jokių biografinių versijų, kurios citatoje pateiktos kaip neaiškios."
   pagrindžia:
     - c-170758
-
+    - c-001
 <a id="claim-t-187808"></a>
 - t-002
   global_id: t-187808
@@ -98,7 +98,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie mūšį ir Teodoro Narbuto patirtą kontūziją. Citata tiesiogiai sieja šį įvykį su 1808–1809 m. Rusijos ir Švedijos karu."
   pagrindžia:
     - c-170758
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -116,9 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-187807
+    - t-187808
 ## Data ir vieta
 
 Aiškus vartojimo laikas nenurodytas.

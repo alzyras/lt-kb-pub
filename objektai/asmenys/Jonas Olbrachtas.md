@@ -177,7 +177,6 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185965
-
 - id: c-169327
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -209,7 +208,6 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185966
-
 - id: c-178731
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -231,6 +229,5 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196498
-
 ## Ryšiai
 - Jonas Olbrachtas kariavo prieš [[objektai/grupes/Vengrai]]

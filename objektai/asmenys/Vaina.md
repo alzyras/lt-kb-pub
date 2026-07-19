@@ -98,7 +98,6 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40498
-
 - id: c-44556
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

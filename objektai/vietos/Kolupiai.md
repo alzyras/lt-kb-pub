@@ -99,7 +99,6 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79488
-
 - id: c-176423
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

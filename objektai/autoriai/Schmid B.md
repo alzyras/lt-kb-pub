@@ -103,9 +103,6 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-61418
@@ -129,7 +126,6 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   pagrindzia:
     - t-60786
     - t-197011
-
 - id: c-179000
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -380,7 +380,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179754
-
 - id: c-05711
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -400,7 +399,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
     - t-179747
     - t-179750
     - t-194985
-
 - id: c-43321
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -420,7 +418,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179749
-
 - id: c-163409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -441,7 +438,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179751
-
 - id: c-163410
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -462,7 +458,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179746
-
 - id: c-163414
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -482,7 +477,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179752
-
 - id: c-168282
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -510,7 +504,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184921
-
 - id: c-168283
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -554,7 +547,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184922
-
 - id: c-171554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -575,7 +567,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188665
-
 - id: c-171555
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -597,7 +588,6 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188666
-
 - id: c-171556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -620,6 +610,5 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188667
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

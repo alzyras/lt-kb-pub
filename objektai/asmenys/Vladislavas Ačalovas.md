@@ -81,6 +81,5 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40514
-
 ## Ryšiai
 - Vladislavas Ačalovas keliavo į [[objektai/vietos/Vilnius]]

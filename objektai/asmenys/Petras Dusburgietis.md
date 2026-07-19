@@ -357,7 +357,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190022
-
 - id: c-172906
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -378,7 +377,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190023
-
 - id: c-172907
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -403,7 +401,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190024
-
 - id: c-172908
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -429,7 +426,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190025
-
 - id: c-176946
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -451,7 +447,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194507
-
 - id: c-176947
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -470,7 +465,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194508
-
 - id: c-176948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -493,7 +487,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   pagrindzia:
     - t-194509
     - t-197144
-
 - id: c-176949
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -511,7 +504,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194510
-
 - id: c-176950
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -535,7 +527,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194511
-
 - id: c-176951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -558,7 +549,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194512
-
 - id: c-176952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -578,7 +568,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194513
-
 - id: c-176953
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -604,7 +593,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   pagrindzia:
     - t-194514
     - t-197145
-
 - id: c-177113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -632,7 +620,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194717
-
 - id: c-177114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -654,7 +641,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194718
-
 - id: c-179186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -675,7 +661,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197435
-
 - id: c-179187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -703,7 +688,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197436
-
 - id: c-179188
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -723,7 +707,6 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197437
-
 - id: c-179342
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

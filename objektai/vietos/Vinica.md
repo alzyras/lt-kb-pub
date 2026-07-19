@@ -42,7 +42,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168680
-
+    - c-001
 <a id="claim-t-193455"></a>
 - t-002
   global_id: t-193455
@@ -55,7 +55,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168680
-
+    - c-001
 <a id="claim-t-194277"></a>
 - t-003
   global_id: t-194277
@@ -94,9 +94,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-185319
+    - t-193455
 ## Citatos
 
 - id: c-168680
@@ -130,7 +129,6 @@ media_all_json: |-
   pagrindzia:
     - t-185319
     - t-193455
-
 - id: c-176870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -188,7 +188,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   pagrindzia:
     - t-55243
     - t-83199
-
 - id: c-79573
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -213,7 +212,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55242
-
 - id: c-79574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

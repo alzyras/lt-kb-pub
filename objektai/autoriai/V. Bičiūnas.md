@@ -88,7 +88,6 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34854
-
 - id: c-36080
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

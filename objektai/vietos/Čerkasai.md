@@ -48,6 +48,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168684
+    - c-001
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172883|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus.
 - susijęs iš Kanevas: Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.
 - susijęs iš Kanevas: XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.
@@ -89,8 +90,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185323
 ## Citatos
 
 - id: c-168684

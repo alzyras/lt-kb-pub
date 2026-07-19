@@ -50,7 +50,7 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177234
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.'
@@ -68,8 +68,7 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194838
 ## Citatos
 
 - id: c-177234

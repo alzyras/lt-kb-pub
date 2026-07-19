@@ -115,7 +115,6 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70178
-
 - id: c-69261
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,7 +136,6 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70177
-
 - id: c-166824
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

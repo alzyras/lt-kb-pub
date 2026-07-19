@@ -56,7 +56,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172070
-
+    - c-002
 <a id="claim-t-189183"></a>
 - t-003
   global_id: t-189183
@@ -77,7 +77,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172071
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas trizną apibūdino kaip kai kurioms lietuvių genties tautoms žinotas apeigas, atliekamas laidojant labai žymius žmones.'
@@ -93,8 +93,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189182
 - c-003
   santrauka: 'Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -117,8 +116,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189183
 ## Citatos
 
 - id: c-172069
@@ -140,7 +138,6 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189181
-
 - id: c-172070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -162,7 +159,6 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189182
-
 - id: c-172071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

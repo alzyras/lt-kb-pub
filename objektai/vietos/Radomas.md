@@ -78,6 +78,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37684
+    - c-167691
 - susijęs iš [[objektai/ivykiai/Radomo konfederacija (1767 m.).md#claim-t-01784|Radomo konfederacija (1767 m.)]]: Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72615|Ponų taryba (institucija)]]: Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.
 - susijęs iš [[objektai/ivykiai/Radomo konfederacija (1767 m.).md#claim-t-01784|Radomo konfederacija (1767 m.)]]: Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.
@@ -128,8 +129,6 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
 ## Citatos
 
 - id: c-37684
@@ -149,7 +148,6 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69127
-
 - id: c-68541
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -171,7 +169,6 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69126
-
 - id: c-167691
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

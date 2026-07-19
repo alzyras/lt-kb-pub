@@ -83,7 +83,6 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03004
-
 - id: c-175896
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

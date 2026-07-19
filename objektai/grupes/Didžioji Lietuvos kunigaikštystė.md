@@ -48,7 +48,7 @@ media_all_json: |-
   pagrindžia:
     - c-90810
     - c-90813
-
+    - c-90814
 <a id="claim-t-96096"></a>
 - t-002
   global_id: t-96096
@@ -140,8 +140,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-96094
-
+    - t-96095
 - id: c-90816
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -162,7 +161,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96096
-
 - id: c-175853
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -111,9 +111,6 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-172439
@@ -144,7 +141,6 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
   pagrindzia:
     - t-189551
     - t-197384
-
 - id: c-172440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -111,7 +111,6 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67412
-
 - id: c-43255
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

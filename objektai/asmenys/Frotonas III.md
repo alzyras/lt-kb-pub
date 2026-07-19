@@ -49,7 +49,7 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174022
-
+    - c-001
 <a id="claim-t-191141"></a>
 - t-002
   global_id: t-191141
@@ -70,7 +70,7 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174023
-
+    - c-002
 <a id="claim-t-197731"></a>
 - t-003
   global_id: t-197731
@@ -106,8 +106,7 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191140
 - c-002
   santrauka: 'Teodoro Narbuto pasakojime Frotono III sūnus Fridleifas Rusioje augo pas Chunigardijos gimines ir susigrąžino Danijos sostą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -129,8 +128,7 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191141
 ## Citatos
 
 - id: c-174022
@@ -157,7 +155,6 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191140
-
 - id: c-174023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -185,7 +182,6 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191141
-
 - id: c-179312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -207,7 +203,6 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197731
-
 ## Ryšiai
 - Frotonas III buvo valdovas [[objektai/vietos/Danija]]
 - Frotonas III kariavo prieš [[objektai/grupes/Slavai]]

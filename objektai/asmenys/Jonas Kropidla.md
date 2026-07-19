@@ -83,7 +83,6 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35148
-
 - id: c-38057
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

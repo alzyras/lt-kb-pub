@@ -131,7 +131,6 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68020
-
 - id: c-67714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -153,6 +152,5 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68021
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

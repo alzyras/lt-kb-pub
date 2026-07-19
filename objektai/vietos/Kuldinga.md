@@ -44,6 +44,7 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-28283
+    - c-167758
 - susijęs iš [[objektai/ivykiai/Skuodo kautynės (1259 m.).md#claim-t-28863|Skuodo kautynės (1259 m.)]]: Skuodo laukuose žemaičiai sumušė juos persekiojusį Kuldingos komtūrą Bernhardą von Hareną, žuvo 33 riteriai.
 - susijęs iš Skuodo laukai: Skuodo laukuose žemaičiai sumušė juos persekiojusius Kuldingos komtūro Bernhardo von Hareno karius.
 - susijęs iš Kuršas: Paliauboms pasibaigus, žemaičiai puolė Kuršą ir vėliau Skuodo laukuose sumušė juos persekiojusius riterius.
@@ -68,7 +69,6 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28379
-
 - id: c-167758
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

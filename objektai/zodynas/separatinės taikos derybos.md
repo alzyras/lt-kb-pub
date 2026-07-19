@@ -57,7 +57,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Sakinys pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-73321
-
+    - c-73320
 ## Citatos
 
 - id: c-73320
@@ -83,8 +83,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75587
-
+    - t-75588
 - id: c-73321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

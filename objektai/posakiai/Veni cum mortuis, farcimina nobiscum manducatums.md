@@ -71,4 +71,4 @@ Narbutas maldą „Veni cum mortuis, farcimina nobiscum manducatums“ siejo su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189594

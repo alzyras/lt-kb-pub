@@ -100,7 +100,6 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68039
-
 - id: c-37406
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

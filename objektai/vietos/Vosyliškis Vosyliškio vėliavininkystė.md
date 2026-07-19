@@ -65,4 +65,4 @@ Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189082

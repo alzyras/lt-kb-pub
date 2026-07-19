@@ -100,7 +100,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182853
-
 - id: c-176873
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -137,6 +136,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194281
-
 ## Ryšiai
 - Užėmė Žitomirą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

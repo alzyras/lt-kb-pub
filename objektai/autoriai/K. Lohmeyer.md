@@ -106,7 +106,6 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64678
-
 - id: c-13914
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -125,7 +124,6 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64680
-
 - id: c-13915
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

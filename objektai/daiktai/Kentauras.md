@@ -63,6 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169209
+    - c-001
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-187706|Gediminaičių dinastija]]: Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.
 - susijęs iš [[objektai/grupes/Kentauro herbo dinastija.md#claim-t-198583|Kentauro herbo dinastija]]: Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186809|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.
@@ -97,8 +98,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185848
 ## Citatos
 
 - id: c-169209

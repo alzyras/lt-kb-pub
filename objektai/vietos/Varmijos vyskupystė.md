@@ -108,7 +108,6 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02829
-
 - id: c-03068
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -125,6 +124,5 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02830
-
 ## Ryšiai
 - Varmijos vyskupystė priklausė [[objektai/vietos/Lenkija]]

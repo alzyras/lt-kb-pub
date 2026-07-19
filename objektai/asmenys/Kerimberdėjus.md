@@ -118,7 +118,6 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87533
-
 - id: c-83513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

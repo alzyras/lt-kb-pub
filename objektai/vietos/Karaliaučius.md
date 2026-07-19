@@ -89,7 +89,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   temporalinis_llm_pakomentavimas: "Pridėtas citatoje nurodytas Ordino kontekstas, kad faktas būtų tikslesnis."
   pagrindžia:
     - c-32083
-
+    - c-123507
 <a id="claim-t-135436"></a>
 - t-002
   global_id: t-135436
@@ -1102,7 +1102,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   sudarymo_pagrindimas: 'Retorinis klausimas paverstas aiškiu Narbuto svarstymu. Nepridėta atsakymo į klausimą ar Dusburgiečio žinių patikimumo vertinimo daugiau, nei leidžia citata.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Livonija'
   pagrindžia:
-    - c-171595
+    - c-043
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-182899|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš Codex Diplomaticus Prussicus: „Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.
@@ -1137,8 +1137,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059
-
+    - t-188706
 ## Citatos
 
 - id: c-13409
@@ -1159,7 +1158,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindzia:
     - t-135487
     - t-135492
-
 - id: c-14877
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1180,7 +1178,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135441
-
 - id: c-21461
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1208,7 +1205,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
     - t-135449
     - t-135454
     - t-135458
-
 - id: c-32083
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1244,7 +1240,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindzia:
     - t-135438
     - t-135488
-
 - id: c-32086
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1261,8 +1256,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-135440
-
+    - t-135482
 - id: c-37414
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1282,7 +1276,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135461
-
 - id: c-123504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1303,7 +1296,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135480
-
 - id: c-123506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1324,7 +1316,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135447
-
 - id: c-123507
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1344,8 +1335,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-135435
-
+    - t-135474
 - id: c-123508
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1365,7 +1355,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135485
-
 - id: c-123509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1386,7 +1375,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135475
-
 - id: c-123511
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1406,7 +1394,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135459
-
 - id: c-123512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1430,7 +1417,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindzia:
     - t-135481
     - t-135489
-
 - id: c-123513
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1451,7 +1437,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135472
-
 - id: c-123514
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1473,7 +1458,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindzia:
     - t-135439
     - t-135457
-
 - id: c-123515
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1491,9 +1475,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-135444
+    - t-135476
     - t-135466
-
 - id: c-123516
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1518,7 +1501,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindzia:
     - t-135456
     - t-135477
-
 - id: c-123517
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1538,7 +1520,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135469
-
 - id: c-123519
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1557,7 +1538,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135468
-
 - id: c-123520
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1581,7 +1561,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135460
-
 - id: c-123521
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1600,7 +1579,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135483
-
 - id: c-123522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1622,7 +1600,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135443
-
 - id: c-123524
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1647,7 +1624,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindzia:
     - t-135470
     - t-135491
-
 - id: c-123525
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1666,7 +1642,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135436
-
 - id: c-123526
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1689,7 +1664,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindzia:
     - t-135463
     - t-135473
-
 - id: c-123528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1710,7 +1684,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135464
-
 - id: c-123529
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1729,7 +1702,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135453
-
 - id: c-123530
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1755,7 +1727,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135484
-
 - id: c-123531
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1787,8 +1758,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-135442
-
+    - t-135448
 - id: c-123532
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1807,7 +1777,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135479
-
 - id: c-123536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1846,7 +1815,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindzia:
     - t-135450
     - t-135455
-
 - id: c-123540
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1864,7 +1832,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135462
-
 - id: c-123541
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1889,7 +1856,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135493
-
 - id: c-123542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1910,7 +1876,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135467
-
 - id: c-123543
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1937,7 +1902,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135445
-
 - id: c-123544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1960,7 +1924,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135437
-
 - id: c-123548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1977,7 +1940,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-135446
-
 - id: c-167545
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1994,7 +1956,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184160
-
 - id: c-168330
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2021,7 +1982,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184969
-
 - id: c-168332
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2054,7 +2014,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindzia:
     - t-184971
     - t-196688
-
 - id: c-171594
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2079,7 +2038,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188705
-
 - id: c-175438
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2108,7 +2066,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192668
-
 - id: c-175932
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2128,7 +2085,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193188
-
 - id: c-179045
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2153,7 +2109,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197171
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ignas Onacevičius]], [[objektai/grupes/Vokiečiai]]
 - Prekiavo su: [[objektai/vietos/Lietuva]]

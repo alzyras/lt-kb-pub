@@ -85,7 +85,6 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35262
-
 - id: c-38111
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

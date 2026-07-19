@@ -138,7 +138,6 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184454
-
 - id: c-167806
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -165,7 +164,6 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184455
-
 - id: c-167807
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

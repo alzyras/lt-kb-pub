@@ -99,7 +99,6 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36246
-
 - id: c-38496
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

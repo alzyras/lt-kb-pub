@@ -76,7 +76,7 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
   sudarymo_pagrindimas: 'Išvalytas lentelės ir puslapio triukšmas, išskleistas Romovės vietos apibūdinimas. Religinis-mitologinis vaizdinys paliktas su Narbuto atribucija.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Prūsa; mentioned_place: Romovė'
   pagrindžia:
-    - c-171566
+    - c-003
 - susijęs iš [[objektai/asmenys/Pasdrauputis.md#claim-t-60405|Pasdrauputis]]: Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.
 - susijęs iš [[objektai/asmenys/Nameda.md#claim-t-60393|Nameda]]: Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175135|Sūduviai-jotvingiai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
@@ -124,8 +124,7 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188677
 ## Citatos
 
 - id: c-59168
@@ -145,7 +144,6 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58537
-
 - id: c-59169
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -164,7 +162,6 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58536
-
 ## Ryšiai
 - Puolė Bysleidą: [[objektai/grupes/Nadruviai]], [[objektai/grupes/Skalviai]]
 - Apgulė Bysleidą: [[objektai/grupes/Nadruviai]], [[objektai/grupes/Skalviai]], [[objektai/grupes/Sūduviai]]

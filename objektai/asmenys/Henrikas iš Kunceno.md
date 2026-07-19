@@ -80,7 +80,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60606
-
+    - c-002
 <a id="claim-t-194488"></a>
 - t-004
   global_id: t-194488
@@ -110,8 +110,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59975
 ## Citatos
 
 - id: c-60605
@@ -133,7 +132,6 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   pagrindzia:
     - t-59973
     - t-194488
-
 - id: c-60606
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -154,7 +152,6 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59975
-
 - id: c-60607
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -178,7 +175,6 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59974
-
 ## Ryšiai
 - Henrikas iš Kunceno keliavo į [[objektai/vietos/Prūsija]]
 - Henrikas iš Kunceno mirė [[objektai/vietos/Prūsija]]

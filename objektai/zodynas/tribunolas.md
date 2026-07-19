@@ -228,7 +228,6 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82102
-
 - id: c-78594
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -252,7 +251,6 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
   pagrindzia:
     - t-82098
     - t-82101
-
 - id: c-78596
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -285,7 +283,6 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82100
-
 - id: c-166380
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -312,7 +309,6 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182982
-
 - id: c-175913
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

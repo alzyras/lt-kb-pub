@@ -115,7 +115,6 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54761
-
 - id: c-55761
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -109,7 +109,6 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86064
-
 - id: c-82044
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -134,6 +133,5 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86065
-
 ## Ryšiai
 - Puolė Dorpato vyskupiją: [[objektai/grupes/Lietuviai]]

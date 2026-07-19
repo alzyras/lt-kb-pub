@@ -200,7 +200,6 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23201
-
 - id: c-21742
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -223,7 +222,6 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - t-23204
     - t-23205
     - t-23206
-
 - id: c-25097
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -246,7 +244,6 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   pagrindzia:
     - t-23202
     - t-23203
-
 - id: c-25413
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

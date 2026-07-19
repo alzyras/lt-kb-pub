@@ -75,7 +75,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi perteklinio konteksto; citata palaiko aiškų sakinį apie žygį."
   pagrindžia:
     - c-63704
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje buvusias Dorpato vyskupo valdas.'
@@ -96,8 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62865
 ## Citatos
 
 - id: c-63704

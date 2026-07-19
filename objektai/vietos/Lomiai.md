@@ -82,7 +82,6 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195495
-
 - id: c-177919
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

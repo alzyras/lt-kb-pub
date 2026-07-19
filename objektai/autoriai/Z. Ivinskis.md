@@ -245,7 +245,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00084
-
 - id: c-163247
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -267,7 +266,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05581
-
 - id: c-163248
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -286,7 +284,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05579
-
 - id: c-163250
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -309,7 +306,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05579
-
 - id: c-163251
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -329,7 +325,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12267
-
 - id: c-163252
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -352,7 +347,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179567
-
 - id: c-163253
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

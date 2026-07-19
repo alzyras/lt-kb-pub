@@ -49,7 +49,7 @@ Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Don
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171877
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Doneco, o jų tėvynėje buvusi šventoji Ross upė.'
@@ -70,8 +70,7 @@ Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Don
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188988
 ## Citatos
 
 - id: c-171877

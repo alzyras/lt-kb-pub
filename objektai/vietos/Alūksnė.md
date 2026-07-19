@@ -79,6 +79,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38591
-
 ## Ryšiai
 - Užėmė Alūksnę: [[objektai/grupes/Rusai]]

@@ -119,7 +119,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64645
-
 - id: c-03991
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -138,7 +137,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64642
-
 - id: c-03992
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

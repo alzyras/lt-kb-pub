@@ -83,7 +83,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38385
-
 - id: c-176432
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -97,6 +96,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193780
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kiršenšteinai]]

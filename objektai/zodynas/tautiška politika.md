@@ -100,7 +100,6 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72766
-
 - id: c-71139
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -120,7 +119,6 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72768
-
 - id: c-175912
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

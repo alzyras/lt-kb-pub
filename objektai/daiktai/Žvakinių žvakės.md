@@ -63,7 +63,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172645
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas žvakinius apibūdino kaip pranašautojus, kurie nusiliedavo žvakes ir pagal jų degimą bei dūmus pranašaudavo ateitį.'
@@ -84,8 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189762
 ## Citatos
 
 - id: c-172645

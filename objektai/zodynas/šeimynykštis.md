@@ -46,6 +46,7 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   semantiniai_rysiai: "Gerhardas (valdovas) gyveno Marienburgas (0.93)"
   pagrindžia:
     - c-59579
+    - c-001
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60121|Gerhardas (valdovas)]]: Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.
 - susijęs iš [[objektai/zodynas/šeimynykštis famulus.md#claim-t-58886|šeimynykštis famulus]]: Skomanto šeimynykštis išvadavo brolį Liudviką iš nelaisvės ir sugrąžino pas brolius.
 - susijęs iš [[objektai/ivykiai/Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės.md#claim-t-62868|Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės]]: Vėliau vienas Skomanto šeimynykštis išvadavo Liudviką iš Libencelės iš nelaisvės ir sugrąžino jį pas brolius.
@@ -71,8 +72,7 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58947
 ## Citatos
 
 - id: c-59579

@@ -81,6 +81,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21466
-
 ## Ryšiai
 - Karo muziejaus sodelis priklausė [[objektai/vietos/Kaunas]]

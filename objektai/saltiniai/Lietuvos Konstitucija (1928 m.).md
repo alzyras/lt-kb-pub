@@ -119,7 +119,6 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21123
-
 - id: c-166765
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

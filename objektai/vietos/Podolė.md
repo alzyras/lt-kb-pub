@@ -882,7 +882,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182556
-
+    - c-170583
 <a id="claim-t-199684"></a>
 - t-045
   global_id: t-199684
@@ -915,8 +915,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo pranciškonų atvykimą į Vilnių."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-182535
-
+    - c-182565
 <a id="claim-t-199687"></a>
 - t-047
   global_id: t-199687
@@ -991,7 +990,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Valdovo titulas šiame profilyje turi likti atribuuotas.'
   pagrindžia:
-    - c-182551
+    - c-170582
 - susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
 - susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
 - susijęs iš [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.).md#claim-t-185840|Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]: Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
@@ -1281,8 +1280,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057
-
 ## Citatos
 
 - id: c-24387
@@ -1323,7 +1320,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183074
-
 - id: c-24389
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1342,7 +1338,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177912
-
 - id: c-32336
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1359,7 +1354,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177931
-
 - id: c-46677
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1378,7 +1372,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193225
-
 - id: c-161722
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1397,7 +1390,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177918
-
 - id: c-161725
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1422,7 +1414,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177908
-
 - id: c-161726
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1448,7 +1439,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177907
-
 - id: c-161728
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1472,7 +1462,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177915
-
 - id: c-161730
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1497,7 +1486,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     - t-177921
     - t-177926
     - t-177927
-
 - id: c-161733
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1521,7 +1509,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177934
-
 - id: c-161734
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1540,7 +1527,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177910
-
 - id: c-161736
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1578,7 +1564,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindzia:
     - t-177909
     - t-177943
-
 - id: c-161738
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1604,7 +1589,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177942
-
 - id: c-161739
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1630,7 +1614,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177946
-
 - id: c-161740
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1653,7 +1636,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177929
-
 - id: c-161741
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1679,7 +1661,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindzia:
     - t-177913
     - t-177932
-
 - id: c-161742
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1701,7 +1682,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177917
-
 - id: c-161743
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1730,7 +1710,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindzia:
     - t-177928
     - t-177930
-
 - id: c-161744
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1752,7 +1731,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177922
-
 - id: c-161745
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1770,7 +1748,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177920
-
 - id: c-161747
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1794,7 +1771,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177941
-
 - id: c-161748
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1816,7 +1792,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177916
-
 - id: c-161749
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1837,7 +1812,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177924
-
 - id: c-161755
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1859,7 +1833,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177914
-
 - id: c-166464
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1880,7 +1853,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183073
-
 - id: c-168448
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1912,7 +1884,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindzia:
     - t-185087
     - t-196727
-
 - id: c-168449
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1937,7 +1908,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185088
-
 - id: c-168450
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1974,7 +1944,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindzia:
     - t-185089
     - t-196728
-
 - id: c-168452
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2003,7 +1972,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185091
-
 - id: c-168453
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2039,7 +2007,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185092
-
 - id: c-168454
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2064,7 +2031,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185093
-
 - id: c-175491
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2084,7 +2050,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192721
-
 - id: c-176851
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2111,7 +2076,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194257
-
 - id: c-182523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2159,7 +2123,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindzia:
     - t-199687
     - t-199715
-
 - id: c-182525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2319,7 +2282,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindzia:
     - t-199672
     - t-199684
-
 - id: c-182538
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2352,7 +2314,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199671
-
 - id: c-182540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2552,7 +2513,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199703
-
 - id: c-182552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2632,7 +2592,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199681
-
 - id: c-182557
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2750,7 +2709,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199676
-
 - id: c-182564
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2774,7 +2732,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199688
-
 - id: c-182565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2810,8 +2767,44 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199685
+    - t-177939
+- id: c-170582
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Pirmas bu­
+    vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
+    kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
+    mę. Trečias — kunigaikštis Simonas Lengvenis6 , jo da­
+    lis— Mstislavlis7 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199682
+- id: c-170583
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Didysis kunigaikštis Vytautas, paėmęs Vi­
+    tebsko miestą, vėl sugrįžo į Vilnių.
+    09
 
+    ## Puslapis 95
+
+    Tais pačiais metais", pavasariop, didysis kunigaikš­
+    tis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis
+    Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­
+    ti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199681
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Daugirdas Gedgaila]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Nestanas]], [[objektai/asmenys/Spytekas iš Melštyno]], [[objektai/asmenys/Spytkas iš Melsztyno]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo kelionės vieta: [[objektai/grupes/Karijotaičiai]]

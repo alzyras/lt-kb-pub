@@ -158,7 +158,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87857
-
 - id: c-177117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -182,7 +181,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194721
-
 - id: c-184112
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -201,7 +199,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200767
-
 - id: c-184235
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"

@@ -115,7 +115,6 @@ Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200427
-
 - id: c-183813
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede

@@ -47,7 +47,7 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60792
-
+    - c-002
 <a id="claim-t-60160"></a>
 - t-002
   global_id: t-60160
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60791
-
+    - c-001
 <a id="claim-t-197119"></a>
 - t-003
   global_id: t-197119
@@ -90,8 +90,7 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60160
 - c-002
   santrauka: 'Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -108,8 +107,7 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60159
 ## Citatos
 
 - id: c-60791
@@ -133,7 +131,6 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60160
-
 - id: c-60792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,7 +154,6 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60159
-
 - id: c-179032
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -178,6 +174,5 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197119
-
 ## Ryšiai
 - Konradas Štangė keliavo į [[objektai/vietos/Junigeda]]

@@ -104,7 +104,6 @@ Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185394
-
 - id: c-168756
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -100,7 +100,6 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88305
-
 - id: c-84284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

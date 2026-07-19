@@ -227,7 +227,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63385
-
 - id: c-64428
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -249,7 +248,6 @@ Nenurodyta
   pagrindzia:
     - t-63389
     - t-63390
-
 - id: c-64429
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -269,7 +267,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63387
-
 - id: c-166680
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -289,6 +286,5 @@ Nenurodyta
   pagrindzia:
     - t-63386
     - t-183291
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]]

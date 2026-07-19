@@ -62,7 +62,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169167
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kazimieras, gindamas teises į Rusią, sudarė palankią sutartį su lietuvių valdovu ir pasuko ginklus į kitą Rusios dalį.'
@@ -92,8 +92,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185806
 ## Citatos
 
 - id: c-169167

@@ -69,4 +69,4 @@ Aleksandro Makedoniečio užkariavimai lėmė politines permainas Azijoje, po ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191363

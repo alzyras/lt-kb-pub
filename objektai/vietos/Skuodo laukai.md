@@ -85,7 +85,6 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28464
-
 - id: c-167767
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

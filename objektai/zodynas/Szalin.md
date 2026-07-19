@@ -65,7 +65,7 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175073
-
+    - c-001
 <a id="claim-t-192578"></a>
 - t-002
   global_id: t-192578
@@ -87,7 +87,7 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175073
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -102,10 +102,8 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-004
-
+    - t-192221
+    - t-192578
 ## Citatos
 
 - id: c-175073

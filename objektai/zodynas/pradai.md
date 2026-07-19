@@ -103,7 +103,6 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70287
-
 - id: c-166850
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

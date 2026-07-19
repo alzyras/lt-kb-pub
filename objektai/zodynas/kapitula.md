@@ -186,7 +186,6 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70168
-
 - id: c-37913
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -206,7 +205,6 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70167
-
 - id: c-175900
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

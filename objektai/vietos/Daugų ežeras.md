@@ -50,7 +50,7 @@ Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171874
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų apie šventais laikytus ežerus.'
@@ -65,8 +65,7 @@ Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188985
 ## Citatos
 
 - id: c-171874

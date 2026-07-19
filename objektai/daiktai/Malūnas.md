@@ -164,6 +164,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35536
-
 ## Ryšiai
 - Malūnas priklausė [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Mikalojus Radvila]]

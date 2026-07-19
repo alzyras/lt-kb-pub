@@ -84,7 +84,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177268
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vėliau dažniau matome jotvingių ryšius su lietuvių gentimis, su kuriomis jie nuo seno turėjo santykių, nes, gyvendami klajokliškai, turėjo daug naudos iš medžiok lės.'
@@ -106,8 +106,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194872
 ## Citatos
 
 - id: c-175791
@@ -131,7 +130,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193021
-
 - id: c-177268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

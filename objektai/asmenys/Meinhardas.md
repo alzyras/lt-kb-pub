@@ -145,7 +145,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186067
-
 - id: c-169429
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -180,7 +179,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   pagrindzia:
     - t-186068
     - t-193507
-
 - id: c-169430
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -227,7 +225,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   pagrindzia:
     - t-186069
     - t-193508
-
 - id: c-184363
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

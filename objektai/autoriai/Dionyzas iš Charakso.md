@@ -49,7 +49,7 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174444
-
+    - c-001
 <a id="claim-t-191563"></a>
 - t-002
   global_id: t-191563
@@ -70,7 +70,7 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174445
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įteka į Šiaurės jūrą.'
@@ -91,8 +91,7 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191562
 - c-002
   santrauka: 'Dionyzas iš Charakso Oktaviano Augusto laikais aprašinėdamas pasaulį minėjo Pantikapo ir Aldeskos upes prie gintaro pakrančių jūros.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -111,8 +110,7 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191563
 ## Citatos
 
 - id: c-174444
@@ -144,7 +142,6 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191562
-
 - id: c-174445
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

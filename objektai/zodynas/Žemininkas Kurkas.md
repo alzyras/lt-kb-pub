@@ -49,7 +49,7 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172032
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų Kurku (Kurko, Kurchus).'
@@ -67,8 +67,7 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189144
 ## Citatos
 
 - id: c-172032

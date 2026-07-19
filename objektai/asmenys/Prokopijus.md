@@ -71,7 +71,7 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174853
-
+    - c-002
 <a id="claim-t-197807"></a>
 - t-003
   global_id: t-197807
@@ -106,8 +106,7 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191971
 ## Citatos
 
 - id: c-174191
@@ -131,7 +130,6 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191309
-
 - id: c-174853
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -155,7 +153,6 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191971
-
 - id: c-179350
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

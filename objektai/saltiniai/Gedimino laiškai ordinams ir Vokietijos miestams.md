@@ -134,7 +134,6 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88156
-
 - id: c-84134
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -159,7 +158,6 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88153
-
 - id: c-84135
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -183,7 +181,6 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88154
-
 - id: c-84136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

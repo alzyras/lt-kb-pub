@@ -95,7 +95,6 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22098
-
 - id: c-24784
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

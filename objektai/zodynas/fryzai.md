@@ -66,4 +66,4 @@ Naugardiečiai Vytautui kasmet duodavo keturiasdešimt sunkiųjų žirgų, kurie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187555

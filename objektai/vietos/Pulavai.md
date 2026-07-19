@@ -67,6 +67,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171706
+    - c-002
 - susijęs iš Pulavų bibliotekos rankraščiai: Pulavų bibliotekos rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86986|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis.
@@ -92,8 +93,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188817
 ## Citatos
 
 - id: c-02950
@@ -115,7 +115,6 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02712
-
 - id: c-171706
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

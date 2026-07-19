@@ -224,7 +224,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79513
-
 - id: c-76498
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -252,7 +251,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   pagrindzia:
     - t-79512
     - t-79516
-
 - id: c-76499
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -276,7 +274,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79515
-
 - id: c-167176
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -304,7 +301,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183788
-
 - id: c-184427
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -324,7 +320,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201077
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]]
 - Užėmė Kuoknesę: [[objektai/grupes/Švedijos kariuomenė]]

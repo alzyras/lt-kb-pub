@@ -84,7 +84,6 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70104
-
 - id: c-166801
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

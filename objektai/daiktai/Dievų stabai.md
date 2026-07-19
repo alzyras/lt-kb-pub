@@ -141,7 +141,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171276
-
+    - c-005
 <a id="claim-t-188383"></a>
 - t-006
   global_id: t-188383
@@ -155,7 +155,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171277
-
+    - c-006
 <a id="claim-t-197237"></a>
 - t-007
   global_id: t-197237
@@ -203,8 +203,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188382
 - c-006
   santrauka: 'Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -225,8 +224,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-188383
 ## Pastabos
 
 - tekste stabas minimas tik greta aukuro, be atskiro aprašymo ar formos detalės.
@@ -252,7 +250,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08287
-
 - id: c-10245
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -271,7 +268,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08288
-
 - id: c-171274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -294,7 +290,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188380
-
 - id: c-171275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -315,7 +310,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188381
-
 - id: c-171276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -337,7 +331,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188382
-
 - id: c-171277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -365,7 +358,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188383
-
 - id: c-179078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -388,7 +380,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197237
-
 - id: c-179079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -49,7 +49,7 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172022
-
+    - c-001
 <a id="claim-t-189135"></a>
 - t-002
   global_id: t-189135
@@ -84,8 +84,7 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189134
 ## Citatos
 
 - id: c-172022
@@ -107,7 +106,6 @@ Narbutas Ragutį apibūdina kaip midaus darytojų, bartininkų, aludarių ir deg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189134
-
 - id: c-172023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

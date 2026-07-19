@@ -48,7 +48,7 @@ Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos g
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175767
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos gyventojai, iš dalies buvo lietuvių kilmės.'
@@ -66,8 +66,7 @@ Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192997
 ## Citatos
 
 - id: c-175767

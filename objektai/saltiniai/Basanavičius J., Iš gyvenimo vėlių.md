@@ -94,7 +94,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   temporalinis_llm_pakomentavimas: "Teiginys pašalina puslapio triukšmą ir tiksliai nusako, kur citatoje nurodomas Basanavičiaus veikalas."
   pagrindžia:
     - c-61567
-
+    - c-001
 <a id="claim-t-60938"></a>
 - t-004
   global_id: t-60938
@@ -131,8 +131,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60937
 ## Citatos
 
 - id: c-61567
@@ -158,7 +157,6 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60937
-
 - id: c-61568
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -177,7 +175,6 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60936
-
 - id: c-61569
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -193,7 +190,6 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60938
-
 - id: c-61570
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

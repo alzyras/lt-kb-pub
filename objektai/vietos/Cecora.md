@@ -55,7 +55,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie mūšio vietą."
   pagrindžia:
     - c-45051
-
+    - c-167168
 ## Citatos
 
 - id: c-45051
@@ -78,7 +78,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41639
-
 - id: c-167168
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -74,6 +74,7 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   semantiniai_rysiai: "Lietuviai užėmė Piarnu (0.80); Jonas Karolis Chodkevičius gynė Piarnu (0.78)"
   pagrindžia:
     - c-45273
+    - c-167185
 - susijęs iš Talinas: 1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.
 - susijęs iš Salacgryva: Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.
 - susijęs iš Salacgryva: Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.
@@ -107,7 +108,6 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42024
-
 - id: c-45273
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -131,7 +131,6 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42025
-
 - id: c-167185
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

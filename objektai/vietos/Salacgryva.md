@@ -55,7 +55,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   semantiniai_rysiai: "Lietuviai puolė Salacgryva (0.94); Lietuviai kariavo prieš Švedai (0.82)"
   pagrindžia:
     - c-45313
-
+    - c-167192
 <a id="claim-t-42113"></a>
 - t-002
   global_id: t-42113
@@ -97,6 +97,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-45314
+    - c-167191
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš Piarnu: 1609 m. kovo 14 d. Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė pasiekė Piarnu, bet netikėtas antpuolis nepavyko.
 - susijęs iš Talinas: 1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.
@@ -126,7 +127,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42112
-
 - id: c-45314
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -147,7 +147,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42114
-
 - id: c-45315
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -178,7 +177,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42113
-
 - id: c-167191
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

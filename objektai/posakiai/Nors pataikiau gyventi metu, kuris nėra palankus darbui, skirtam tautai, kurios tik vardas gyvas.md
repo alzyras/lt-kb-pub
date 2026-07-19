@@ -56,7 +56,7 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175018
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1852 m. Teodoras Narbutas rašė, kad darbą tautai tęsė nepalankiomis sąlygomis, tikėdamasis jo naudos pajėgesniems tyrėjams.'
@@ -82,8 +82,7 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192130
 ## Citatos
 
 - id: c-175018

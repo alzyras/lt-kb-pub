@@ -85,7 +85,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
-
+    - c-169907
 <a id="claim-t-199217"></a>
 - t-004
   global_id: t-199217
@@ -99,7 +99,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
-
+    - c-169907
 <a id="claim-t-199218"></a>
 - t-005
   global_id: t-199218
@@ -113,7 +113,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
-
+    - c-169907
 <a id="claim-t-199219"></a>
 - t-006
   global_id: t-199219
@@ -127,7 +127,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
-
+    - c-169907
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -163,7 +163,6 @@ Nenurodyta
     - t-199217
     - t-199218
     - t-199219
-
 - id: c-181703
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -191,3 +190,31 @@ Nenurodyta
   pagrindzia:
     - t-199214
     - t-199215
+- id: c-169907
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tarybos ponai su kariuomene prastovėjo prie
+    Smolensko tris savaites8  ir miesto niekaip neįveikė,
+    o priemiesčius bei vienuolynus sudegino, daug žmonių
+    išsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­
+    jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
+    Didysis kunigaikštis Kazimieras, sutelkęs visas savo
+    Lietuvos pajėgas, tą patį rudenį atėjo prie Smolensko,
+    pats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­
+    gaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­
+    tybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .
+    Ir didysis kunigaikštis vėl perduoda Smolensko val­
+    dymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­
+    vo sostinę.
+  citata_rodoma: "Didysis kunigaikštis Kazimieras, sutelkęs visas savo\nLietuvos pajėgas, tą patį rudenį atėjo prie Smolensko,\npats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­\ngaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­\ntybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .\nIr didysis kunigaikštis vėl perduoda Smolensko val­\ndymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­\nvo sostinę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199216
+    - t-199217
+    - t-199218
+    - t-199219

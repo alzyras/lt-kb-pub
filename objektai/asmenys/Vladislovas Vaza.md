@@ -213,7 +213,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79227
-
 - id: c-76284
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -230,7 +229,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79229
-
 - id: c-76287
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -254,7 +252,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79226
-
 - id: c-76288
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -275,7 +272,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79230
-
 - id: c-76289
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -293,7 +289,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79222
-
 - id: c-76290
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -310,7 +305,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79221
-
 - id: c-76291
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -330,7 +324,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79225
-
 - id: c-76292
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

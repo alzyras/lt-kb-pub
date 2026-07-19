@@ -126,7 +126,6 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
   pagrindzia:
     - t-05598
     - t-05599
-
 - id: c-06418
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -148,7 +147,6 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05598
-
 - id: c-06419
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

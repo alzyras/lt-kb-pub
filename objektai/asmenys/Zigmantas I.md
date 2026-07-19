@@ -142,7 +142,6 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   pagrindzia:
     - t-114075
     - t-114076
-
 - id: c-105234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -164,6 +163,5 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114074
-
 ## Ryšiai
 - Zigmantas I rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

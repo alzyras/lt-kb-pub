@@ -86,7 +86,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28564
-
 - id: c-28469
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

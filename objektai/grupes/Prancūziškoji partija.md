@@ -95,7 +95,6 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66038
-
 - id: c-175882
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -118,7 +117,6 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193123
-
 - id: c-175883
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

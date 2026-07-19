@@ -74,6 +74,5 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36406
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -49,7 +49,7 @@ Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171803
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose dėdavo sudegintų žmonių pelenus.'
@@ -68,8 +68,7 @@ Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188914
 ## Citatos
 
 - id: c-171803

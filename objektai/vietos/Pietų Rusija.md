@@ -85,7 +85,6 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32450
-
 - id: c-33996
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

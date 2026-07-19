@@ -52,7 +52,7 @@ Dusburgietis teigia, kad 16— Žulkus V.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62034
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Žulkaus „Birutės kalno ir gyvenvietės tyrinėjimai“ paskelbta leidinyje „Archeologiniai tyrinėjimai Lietuvoje 1982 ir 1983 metais“.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad 16— Žulkus V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61402
 ## Citatos
 
 - id: c-62034

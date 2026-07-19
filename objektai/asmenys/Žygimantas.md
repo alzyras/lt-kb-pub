@@ -418,7 +418,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184380
-
 - id: c-167750
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -438,7 +437,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184381
-
 - id: c-168266
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -466,7 +464,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184905
-
 - id: c-168267
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -508,7 +505,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184906
-
 - id: c-168268
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -540,7 +536,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184907
-
 - id: c-168269
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -567,7 +562,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184908
-
 - id: c-171544
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -591,7 +585,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188655
-
 - id: c-171545
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -618,7 +611,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188656
-
 - id: c-176845
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -645,6 +637,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194249
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]]

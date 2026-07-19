@@ -61,7 +61,7 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172961
-
+    - c-001
 <a id="claim-t-190079"></a>
 - t-002
   global_id: t-190079
@@ -82,7 +82,7 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172962
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir teigė, kad Vinrichas Kniprodė 1351–1355 m. įsakė jį nukirsti.'
@@ -102,8 +102,7 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190078
 - c-002
   santrauka: 'Narbutas vertino, kad Treteris Jono I, Varmijos vyskupo, gyvenimo aprašyme tiksliausiai nurodė, kur ieškoti Romovės šventyklos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -120,8 +119,7 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190079
 ## Citatos
 
 - id: c-172961
@@ -150,7 +148,6 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190078
-
 - id: c-172962
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

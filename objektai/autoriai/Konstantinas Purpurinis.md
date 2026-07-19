@@ -49,7 +49,7 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174466
-
+    - c-001
 <a id="claim-t-191585"></a>
 - t-002
   global_id: t-191585
@@ -89,8 +89,7 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191584
 ## Citatos
 
 - id: c-174466
@@ -116,7 +115,6 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191584
-
 - id: c-174467
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

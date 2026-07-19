@@ -44,7 +44,7 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61374
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Lasickis Ragainą laikė miškų deive.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60742
 ## Citatos
 
 - id: c-61374

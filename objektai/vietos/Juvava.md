@@ -52,6 +52,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175646
+    - c-001
 - susijęs iš [[objektai/ivykiai/Herulų surengtas Juvavos sudeginimas Norike 477 m.md#claim-t-191062|Herulų surengtas Juvavos sudeginimas Norike 477 m]]: 477 m. herulai, Narbuto pasakojimu, Norike sudegino romėnų koloniją Juvavą prie Saurus upės, dabartinio Zalcburgo vietoje.
 - susijęs iš Norikas: Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės.
 - susijęs iš Norikas: Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės.
@@ -74,8 +75,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192876
 ## Citatos
 
 - id: c-175646

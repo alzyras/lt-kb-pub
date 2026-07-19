@@ -214,7 +214,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai apibendrina citatoje minimą Algirdo pergalės rezultatą."
   pagrindžia:
     - c-92246
-
+    - c-92257
 <a id="claim-t-97832"></a>
 - t-010
   global_id: t-97832
@@ -591,7 +591,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindzia:
     - t-97825
     - t-97837
-
 - id: c-37335
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -618,7 +617,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindzia:
     - t-97826
     - t-97845
-
 - id: c-37336
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -644,7 +642,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindzia:
     - t-97832
     - t-97842
-
 - id: c-37337
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -668,7 +665,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindzia:
     - t-97834
     - t-97841
-
 - id: c-43402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -702,7 +698,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindzia:
     - t-97828
     - t-97836
-
 - id: c-43403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -724,7 +719,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97835
-
 - id: c-46480
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -743,8 +737,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97827
-
+    - t-97838
 - id: c-46481
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -762,7 +755,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97830
-
 - id: c-92246
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -811,7 +803,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97822
-
 - id: c-92254
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -829,8 +820,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-97829
-
+    - t-97833
 - id: c-92255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -859,7 +849,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindzia:
     - t-97839
     - t-97844
-
 - id: c-92257
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -882,8 +871,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97823
-    - t-97831
-
+    - t-97843
 - id: c-166404
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -901,7 +889,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183011
-
 - id: c-167170
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

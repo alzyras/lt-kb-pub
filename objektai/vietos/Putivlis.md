@@ -97,8 +97,7 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187299
-
+    - t-187302
 - id: c-176147
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -93,7 +93,6 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191726
-
 - id: c-174609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

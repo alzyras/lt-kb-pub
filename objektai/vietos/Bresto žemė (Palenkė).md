@@ -57,7 +57,7 @@ Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łoki
   temporalinis_llm_pakomentavimas: "Sakinys aiškus, faktinis ir paremtas citata."
   pagrindžia:
     - c-59321
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1323 m. pabaigoje–1324 m. pradžioje Gedimino Lietuva, puldama Volynę, užėmė Bresto žemę, arba Palenkę.'
@@ -73,8 +73,7 @@ Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łoki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58689
 ## Citatos
 
 - id: c-59321

@@ -85,7 +85,6 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86493
-
 - id: c-82472
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

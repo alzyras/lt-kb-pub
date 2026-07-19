@@ -93,7 +93,6 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-29721
-
 - id: c-29627
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

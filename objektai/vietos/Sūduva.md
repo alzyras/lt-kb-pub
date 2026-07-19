@@ -184,7 +184,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175532
-
+    - c-007
 <a id="claim-t-192763"></a>
 - t-009
   global_id: t-192763
@@ -206,7 +206,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175533
-
+    - c-008
 <a id="claim-t-192764"></a>
 - t-010
   global_id: t-192764
@@ -227,7 +227,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175534
-
+    - c-009
 <a id="claim-t-197931"></a>
 - t-011
   global_id: t-197931
@@ -461,8 +461,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-192762
 - c-008
   santrauka: 'Narbutas Sūduvą vaizdavo kaip provinciją, turėjusią daug įtvirtintų pilių, kur gyveno buvę savarankiški valdovai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -486,8 +485,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-192763
 - c-009
   santrauka: 'Narbutas spėjo, kad Sūduvos šiaurinė siena buvo Pisos upė, skyrusi ją nuo Salavijos ir Nadruvos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -506,8 +504,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-192764
 ## Citatos
 
 - id: c-32448
@@ -528,7 +525,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175424
-
 - id: c-159549
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -550,7 +546,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   pagrindzia:
     - t-175425
     - t-175430
-
 - id: c-159550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -565,7 +560,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175422
-
 - id: c-159553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -587,7 +581,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175421
-
 - id: c-159555
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -608,7 +601,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175427
-
 - id: c-159557
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -627,7 +619,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175428
-
 - id: c-175532
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -651,7 +642,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   pagrindzia:
     - t-192762
     - t-197931
-
 - id: c-175533
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -683,7 +673,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192763
-
 - id: c-175534
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -708,7 +697,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192764
-
 - id: c-179406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -737,7 +725,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197932
-
 - id: c-179407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -757,7 +744,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197933
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]
 - Puolė Sūduvą: [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]], [[objektai/asmenys/Ulrichas Bajeris]]

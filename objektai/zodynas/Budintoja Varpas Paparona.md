@@ -43,7 +43,7 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172171
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pažadinanti miegančiuosius.'
@@ -61,8 +61,7 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189283
 - c-002
   santrauka: 'Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -88,8 +87,6 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172171

@@ -87,7 +87,6 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35052
-
 - id: c-38003
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

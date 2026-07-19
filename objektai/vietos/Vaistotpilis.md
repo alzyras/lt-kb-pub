@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   semantiniai_rysiai: "Vaistotpilis priklausė Prūsai (0.82)"
   pagrindžia:
     - c-59116
-
+    - c-001
 <a id="claim-t-58485"></a>
 - t-002
   global_id: t-58485
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   semantiniai_rysiai: "Vaistotpilis priklausė Barta (0.78)"
   pagrindžia:
     - c-59118
-
+    - c-003
 <a id="claim-t-58486"></a>
 - t-003
   global_id: t-58486
@@ -112,8 +112,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58484
 - c-003
   santrauka: 'Vaistotpilis buvo Bartos žemėje, Gubros pakrantėje stovėjusi brolių pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -130,8 +129,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58485
 ## Citatos
 
 - id: c-59116
@@ -153,7 +151,6 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58484
-
 - id: c-59117
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -174,7 +171,6 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   pagrindzia:
     - t-58486
     - t-194552
-
 - id: c-59118
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

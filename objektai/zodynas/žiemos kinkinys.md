@@ -136,7 +136,6 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
   pagrindzia:
     - t-192183
     - t-192184
-
 - id: c-175353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

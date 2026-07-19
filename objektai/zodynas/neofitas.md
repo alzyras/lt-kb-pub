@@ -118,7 +118,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179584
-
 - id: c-37936
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -138,7 +137,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179583
-
 - id: c-37937
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

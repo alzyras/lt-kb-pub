@@ -147,7 +147,6 @@ Nenurodyta
     - t-66861
     - t-66863
     - t-66864
-
 - id: c-66968
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -169,6 +168,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66862
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

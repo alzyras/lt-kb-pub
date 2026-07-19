@@ -101,7 +101,6 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179681
-
 - id: c-167227
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -123,6 +122,5 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183842
-
 ## Ryšiai
 - Sofija keliavo į [[objektai/vietos/Pernu]]

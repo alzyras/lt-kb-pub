@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie monetos radimą prie Druskininkų 1841 m. Citatos triukšmas neperkeltas."
   pagrindžia:
     - c-174906
-
+    - c-001
 <a id="claim-t-192028"></a>
 - t-002
   global_id: t-192028
@@ -89,7 +89,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174906
-
+    - c-001
 <a id="claim-t-192486"></a>
 - t-003
   global_id: t-192486
@@ -113,7 +113,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174906
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -131,11 +131,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-
+    - t-192027
+    - t-192028
+    - t-192486
 ## Citatos
 
 - id: c-174906

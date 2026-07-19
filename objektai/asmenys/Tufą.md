@@ -114,9 +114,6 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-174212
@@ -140,7 +137,6 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   pagrindzia:
     - t-191330
     - t-197835
-
 - id: c-174213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

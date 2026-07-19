@@ -46,7 +46,7 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
   semantiniai_rysiai: "Prūsija priklausė Teutonai (0.72)"
   pagrindžia:
     - c-59790
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.'
@@ -72,8 +72,7 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59158
 ## Citatos
 
 - id: c-59790

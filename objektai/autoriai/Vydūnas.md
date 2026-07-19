@@ -78,7 +78,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89486
-
 - id: c-85436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -93,7 +92,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89487
-
 - id: c-85437
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

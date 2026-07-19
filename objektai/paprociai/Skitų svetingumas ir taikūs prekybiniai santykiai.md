@@ -114,8 +114,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-177270
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais.'
@@ -140,8 +139,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194874
 ## Citatos
 
 - id: c-175788
@@ -164,7 +162,6 @@ Nenurodyta
   pagrindzia:
     - t-193018
     - t-197570
-
 - id: c-175789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

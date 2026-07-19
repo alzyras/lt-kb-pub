@@ -103,8 +103,7 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
   sudarymo_pagrindimas: 'Mitologinis tapatinimas ir lyginimas palikti su Narbuto atribucija. Nepridėta etimologinių detalių, kurios cituotoje vietoje būtų per ilgos vienam glaustam teiginiui.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]'
   pagrindžia:
-    - c-172998
-
+    - c-002
 <a id="claim-t-190967"></a>
 - t-004
   global_id: t-190967
@@ -114,7 +113,7 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria Narbutui Rėzos įvertinimą ir poziciją kronikų kritikų atžvilgiu. Vertinamasis apibūdinimas paliktas su atribucija.'
   pagrindžia:
-    - c-173849
+    - c-004
 - susijęs iš [[objektai/asmenys/Liudvikas Rėza.md#claim-t-188578|Liudvikas Rėza]]: Narbutas nurodo, kad pono Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų lazdų paprotį.
 - susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188471|Rėza (leidėjas, 1818 m.)]]: Narbutas rašo, kad, Rėzos teigimu, lietuviai turėjo iš skandinavų perimtą laiko dalijimą į devynis periodus.
 - susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188472|Rėza (leidėjas, 1818 m.)]]: Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį.
@@ -148,8 +147,7 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190115
 - c-004
   santrauka: 'Narbutas Rėzą vadina puikiu lietuvių kalbos žinovu ir jo surinktų giesmių leidėju, priekaištavusiu skeptiškiems kronikų kritikams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -174,8 +172,7 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190967
 ## Citatos
 
 - id: c-172997
@@ -198,7 +195,6 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
   pagrindzia:
     - t-190114
     - t-197441
-
 - id: c-172999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

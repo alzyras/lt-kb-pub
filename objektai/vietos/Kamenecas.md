@@ -97,7 +97,7 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   sudarymo_pagrindimas: 'Patikslinta kryptis ir pašalintas negrakštus jungimas.'
   susije_objektai: 'mentioned_place: Lvovas; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
-    - c-170527
+    - c-004
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42433|atamanas]]: Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
@@ -178,8 +178,7 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-187579
 ## Citatos
 
 - id: c-82054
@@ -218,7 +217,6 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86075
-
 - id: c-82055
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -240,7 +238,6 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86076
-
 - id: c-168328
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -269,7 +266,6 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184967
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Karijotaičiai]]
 - Užėmė Kamenecą: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]

@@ -89,6 +89,5 @@ Smetona žuvo Klivlande per gaisrą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-15274
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

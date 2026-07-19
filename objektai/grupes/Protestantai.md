@@ -143,7 +143,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01459
-
 - id: c-166322
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -163,7 +162,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182919
-
 - id: c-175884
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -180,7 +178,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193125
-
 - id: c-175885
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

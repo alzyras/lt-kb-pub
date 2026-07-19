@@ -69,7 +69,7 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174679
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto vertinimu, Mechovitos padavimų prielaida apie jotvingių dukras esą atsispindi jaunų polesiečių išvaizdoje.'
@@ -92,8 +92,7 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191797
 ## Citatos
 
 - id: c-174678
@@ -113,7 +112,6 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191796
-
 - id: c-174679
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

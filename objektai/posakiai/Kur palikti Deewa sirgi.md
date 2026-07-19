@@ -49,7 +49,7 @@ Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eil
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172449
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eilutę pasakojime apie žvaigždžių tuoktuves.'
@@ -70,8 +70,7 @@ Narbutas posakį „Kur palikti Deewa sirgi?“ pateikė kaip latvių dainos eil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189561
 ## Citatos
 
 - id: c-172449

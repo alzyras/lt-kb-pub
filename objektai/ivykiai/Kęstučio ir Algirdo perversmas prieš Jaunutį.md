@@ -112,8 +112,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija, kuriuose nuorašuose po perversmo buvo įdėtas papildymas. Nepridėta Algirdo žygio į Maskvą legenda, nes ji yra atskiras citatos kontekstas.'
   pagrindžia:
-    - c-170452
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas.'
@@ -142,8 +141,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187493
 ## Citatos
 
 - id: c-170453

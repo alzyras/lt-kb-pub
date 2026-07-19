@@ -67,7 +67,7 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171493
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.'
@@ -90,8 +90,7 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188604
 ## Citatos
 
 - id: c-38115
@@ -115,7 +114,6 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35268
-
 - id: c-171493
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

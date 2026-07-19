@@ -176,7 +176,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179685
-
 - id: c-163350
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -193,7 +192,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179683
-
 - id: c-163352
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -212,7 +210,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179683
-
 - id: c-168199
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -250,7 +247,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   pagrindzia:
     - t-184838
     - t-196597
-
 - id: c-184383
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -273,7 +269,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201033
-
 - id: c-184384
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -301,7 +296,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201034
-
 - id: c-184385
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -323,7 +317,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201035
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]], [[objektai/asmenys/Jurijus]]
 - Sviatoslavas valdė [[objektai/vietos/Mstislavlis]], [[objektai/vietos/Smolenskas]]

@@ -76,7 +76,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys apie briliantinį žiedą. Jame aiškiai nurodyti metai, gavėjas, siuntimo aplinkybė ir žiedo vertė."
   pagrindžia:
     - c-170993
-
+    - c-001
 <a id="claim-t-192060"></a>
 - t-002
   global_id: t-192060
@@ -98,7 +98,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-174930
-
+    - c-002
 <a id="claim-t-192061"></a>
 - t-003
   global_id: t-192061
@@ -120,7 +120,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174931
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -137,8 +137,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192059
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -154,8 +153,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192060
 - c-003
   santrauka: 'Narbutas 1839 m. gavo Jo Didenybės Imperatoriaus dovanotą briliantinį žiedą, galėjusį atgaivinti viltį išleisti rusiškąjį variantą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -174,8 +172,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192061
 ## Citatos
 
 - id: c-170993
@@ -198,7 +195,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192059
-
 - id: c-174930
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -220,7 +216,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192060
-
 - id: c-174931
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

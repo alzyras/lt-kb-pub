@@ -97,7 +97,6 @@ Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis, savo ranka. Šiuo rašt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173010
-
 - id: c-176816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

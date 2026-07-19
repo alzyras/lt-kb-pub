@@ -69,7 +69,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63560
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolių kariuomenė nukovė 70 lietuvių, išgelbėjo daug belaisvių krikščionių, o likę lietuviai bėgdami prarado daug žmonių ir arklių.'
@@ -88,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62769
 ## Citatos
 
 - id: c-63560

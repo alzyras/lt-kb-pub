@@ -89,7 +89,6 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35195
-
 - id: c-176570
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

@@ -95,7 +95,6 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86746
-
 - id: c-82724
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

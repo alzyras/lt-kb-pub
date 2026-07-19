@@ -110,7 +110,6 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183633
-
 - id: c-176319
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,7 +127,6 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193650
-
 - id: c-176433
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

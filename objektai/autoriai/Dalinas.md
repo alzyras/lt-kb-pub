@@ -48,7 +48,7 @@ Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuoda
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174550
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuodami Baltijos jūros nusekimą nuo Kristaus gimimo.'
@@ -72,8 +72,7 @@ Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuoda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191668
 ## Citatos
 
 - id: c-174550

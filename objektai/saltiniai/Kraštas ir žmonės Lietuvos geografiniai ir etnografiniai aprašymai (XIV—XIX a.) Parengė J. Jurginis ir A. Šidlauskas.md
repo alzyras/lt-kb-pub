@@ -56,7 +56,7 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
   temporalinis_llm_pakomentavimas: "Citata pateikia leidinio rengėjus ir leidimo duomenis."
   pagrindžia:
     - c-61738
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61106
 ## Citatos
 
 - id: c-61738

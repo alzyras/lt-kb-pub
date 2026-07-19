@@ -49,7 +49,7 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174469
-
+    - c-001
 <a id="claim-t-191588"></a>
 - t-002
   global_id: t-191588
@@ -106,8 +106,7 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191587
 ## Citatos
 
 - id: c-174469
@@ -136,7 +135,6 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191587
-
 - id: c-174470
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

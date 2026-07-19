@@ -151,7 +151,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_saltinis: ai
   pagrindzia:
     - t-44994
-
 - id: c-22541
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -172,7 +171,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_saltinis: ai
   pagrindzia:
     - t-44997
-
 - id: c-22542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -197,7 +195,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_saltinis: ai
   pagrindzia:
     - t-44993
-
 - id: c-22543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -219,7 +216,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_saltinis: ai
   pagrindzia:
     - t-44996
-
 - id: c-47941
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

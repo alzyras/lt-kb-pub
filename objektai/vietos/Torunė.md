@@ -65,7 +65,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159559
-
+    - c-002
 <a id="claim-t-175432"></a>
 - t-002
   global_id: t-175432
@@ -203,7 +203,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159569
-
+    - c-009
 <a id="claim-t-175442"></a>
 - t-010
   global_id: t-175442
@@ -258,7 +258,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159575
-
+    - c-013
 <a id="claim-t-175445"></a>
 - t-013
   global_id: t-175445
@@ -309,7 +309,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159561
-
+    - c-004
 <a id="claim-t-175449"></a>
 - t-016
   global_id: t-175449
@@ -493,8 +493,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-175431
 - c-004
   santrauka: 'Prie Torunės priėjusi kariuomenė sudegino ligoninę ir kitus už miesto sienų buvusius degius objektus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -511,8 +510,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-175448
 - c-009
   santrauka: 'XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -526,8 +524,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-175441
 - c-013
   santrauka: 'Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -545,8 +542,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-175444
 ## Citatos
 
 - id: c-159558
@@ -573,7 +569,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   pagrindzia:
     - t-175432
     - t-175438
-
 - id: c-159559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -600,7 +595,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175431
-
 - id: c-159560
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -617,7 +611,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175449
-
 - id: c-159561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -639,7 +632,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175448
-
 - id: c-159562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -655,7 +647,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175437
-
 - id: c-159565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -672,7 +663,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175440
-
 - id: c-159567
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -693,7 +683,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175442
-
 - id: c-159568
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -725,7 +714,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   pagrindzia:
     - t-175436
     - t-175445
-
 - id: c-159569
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -743,7 +731,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175441
-
 - id: c-159570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -760,7 +747,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175435
-
 - id: c-159571
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -782,7 +768,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175446
-
 - id: c-159574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -812,7 +797,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175433
-
 - id: c-159575
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -836,7 +820,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175444
-
 - id: c-159577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -858,7 +841,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175443
-
 - id: c-184458
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -891,7 +873,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201108
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Pipinas]]
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

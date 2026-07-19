@@ -78,6 +78,5 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60444
-
 ## Ryšiai
 - Tame (Baigos brolis) gyveno [[objektai/vietos/Baiga]]

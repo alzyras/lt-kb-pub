@@ -70,7 +70,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171003
-
+    - c-001
 <a id="claim-t-187997"></a>
 - t-002
   global_id: t-187997
@@ -109,7 +109,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171013
-
+    - c-003
 <a id="claim-t-188388"></a>
 - t-004
   global_id: t-188388
@@ -130,7 +130,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171280
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad švento plauko kumeliuką reikėdavo auginti iki penkerių metų ir atiduoti vyriausiajam žyniui.'
@@ -153,8 +153,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187995
 - c-003
   santrauka: 'Narbutas arklio aukos apeigoje mini pagrobto arklio nujodinimą, Krivių Krivaičio papjovimą ir sudeginimą ant laužo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -173,8 +172,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188387
 - c-004
   santrauka: 'Narbutas rašo, kad prūsai aukai rinkdavosi širmus arklius, o kitos lietuvių genties tautos turėjusios savus plauko ir ženklų pasirinkimus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -197,8 +195,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188388
 ## Citatos
 
 - id: c-171003
@@ -229,7 +226,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187995
-
 - id: c-171004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -248,7 +244,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187997
-
 - id: c-171013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -273,7 +268,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188387
-
 - id: c-171280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

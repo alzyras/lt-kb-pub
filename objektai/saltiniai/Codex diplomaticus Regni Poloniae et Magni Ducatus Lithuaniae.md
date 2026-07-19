@@ -115,7 +115,6 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-29668
-
 - id: c-167722
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -135,7 +134,6 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184352
-
 - id: c-167723
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

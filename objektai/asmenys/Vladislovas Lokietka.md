@@ -76,7 +76,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   pagrindžia:
     - c-56172
-
+    - c-002
 <a id="claim-t-90067"></a>
 - t-003
   global_id: t-90067
@@ -135,7 +135,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   temporalinis_llm_pakomentavimas: "Pašalintas perteklinis šaltinio įvadas ir sutrumpinta iki aiškaus fakto."
   pagrindžia:
     - c-56172
-
+    - c-002
 <a id="claim-t-90071"></a>
 - t-006
   global_id: t-90071
@@ -188,7 +188,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85951
-
+    - c-006
 <a id="claim-t-90075"></a>
 - t-009
   global_id: t-90075
@@ -299,9 +299,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-005
-
+    - t-90066
+    - t-90070
 - c-006
   santrauka: 'Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -320,8 +319,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-90073
 ## Citatos
 
 - id: c-56171
@@ -339,7 +337,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90065
-
 - id: c-56172
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -361,7 +358,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   pagrindzia:
     - t-90066
     - t-90070
-
 - id: c-56173
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -381,7 +377,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90071
-
 - id: c-56174
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -402,7 +397,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   pagrindzia:
     - t-90072
     - t-194526
-
 - id: c-85949
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -422,7 +416,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90075
-
 - id: c-85951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -453,7 +446,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90073
-
 - id: c-85952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -471,7 +463,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90068
-
 - id: c-85953
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -491,7 +482,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90067
-
 - id: c-167747
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -508,7 +498,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184378
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Vladislovas Lokietka puolė [[objektai/vietos/Kulmas]]

@@ -78,6 +78,5 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35250
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Danuta]]

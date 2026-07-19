@@ -81,6 +81,5 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41712
-
 ## Ryšiai
 - Puolė Embutę: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

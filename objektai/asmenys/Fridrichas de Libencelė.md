@@ -82,6 +82,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87674
-
 ## Ryšiai
 - Fridrichas de Libencelė apgulė [[objektai/vietos/Gedimino pilis Castrum Gedemini]]

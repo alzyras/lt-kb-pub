@@ -166,7 +166,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70099
-
 - id: c-14684
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -189,7 +188,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   pagrindzia:
     - t-70098
     - t-70101
-
 - id: c-37901
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -212,7 +210,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70100
-
 - id: c-166338
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -233,7 +230,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182937
-
 - id: c-175894
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

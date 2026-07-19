@@ -132,7 +132,6 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
   pagrindzia:
     - t-192821
     - t-197881
-
 - id: c-175592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -155,7 +154,6 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192822
-
 - id: c-175593
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -177,6 +175,5 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192823
-
 ## Ryšiai
 - Apgulė Giurgevo tvirtovę: [[objektai/grupes/Poloviečiai]]

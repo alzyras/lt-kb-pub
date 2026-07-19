@@ -81,6 +81,7 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   temporalinis_llm_pakomentavimas: "Pašalintas neaiškus įvardis ir palikta citatos paremta esmė."
   pagrindžia:
     - c-76198
+    - c-167141
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 ## Citatos
@@ -126,7 +127,6 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79107
-
 - id: c-76198
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -152,7 +152,6 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79108
-
 - id: c-167141
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

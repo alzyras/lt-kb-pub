@@ -123,7 +123,6 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   pagrindzia:
     - t-90250
     - t-90251
-
 - id: c-179042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -142,6 +141,5 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197167
-
 ## Ryšiai
 - Zigfridas iš Foichtvangeno keliavo į [[objektai/vietos/Venecija]]

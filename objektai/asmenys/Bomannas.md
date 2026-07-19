@@ -96,7 +96,6 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87487
-
 - id: c-83467
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

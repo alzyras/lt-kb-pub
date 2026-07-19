@@ -48,6 +48,7 @@ Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir ski
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174350
+    - c-001
 - susijęs iš [[objektai/asmenys/Berosijus.md#claim-t-191339|Berosijus]]: Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, buvo skitų protėvio Skito motina.
 - susijęs iš Vysla: Narbutas aiškino, kad gentys nesustojo tarp Vyslos aukštupio ir Bugo, o traukėsi kitapus Karpatų, veikiamos skitų baimės.
 - susijęs iš Ilyrija: Narbuto aiškinimu, baimė dėl skitų ar po Skitų karalystės žlugimo judėjusių genčių vertė šią grupę trauktis ir įsikurti Ilyrijoje.
@@ -73,8 +74,7 @@ Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191468
 ## Citatos
 
 - id: c-174350

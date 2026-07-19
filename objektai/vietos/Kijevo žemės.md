@@ -48,6 +48,7 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168648
+    - c-001
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78789|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.
 - susijęs iš [[objektai/autoriai/M. Hruševskis.md#claim-t-30833|M. Hruševskis]]: M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47898|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.
@@ -81,8 +82,7 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185287
 ## Citatos
 
 - id: c-168648
@@ -116,6 +116,5 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185287
-
 ## Ryšiai
 - Užėmė Kijevo žemės: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

@@ -94,7 +94,6 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40247
-
 - id: c-44400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -116,6 +115,5 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40246
-
 ## Ryšiai
 - K. Dragunevičius gynė [[objektai/vietos/Kėdainiai]]

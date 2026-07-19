@@ -53,7 +53,7 @@ Dusburgietis teigia, kad wenta J.
   temporalinis_llm_pakomentavimas: "Citata yra bibliografinis įrašas, todėl galima suformuluoti faktą apie publikaciją."
   pagrindžia:
     - c-61997
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Wentos straipsnis apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje paskelbtas 1980 m. leidinyje „Studia źródłoznawcze“.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad wenta J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61365
 ## Citatos
 
 - id: c-61997

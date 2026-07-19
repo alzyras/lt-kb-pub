@@ -49,7 +49,7 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   semantiniai_rysiai: "Jonas Gornostajus keliavo į Maskva (0.78)"
   pagrindžia:
     - c-169408
-
+    - c-001
 <a id="claim-t-186048"></a>
 - t-002
   global_id: t-186048
@@ -89,7 +89,7 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169410
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.'
@@ -118,8 +118,7 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186047
 - c-003
   santrauka: 'Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -138,8 +137,7 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-186049
 ## Citatos
 
 - id: c-169408
@@ -170,7 +168,6 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186047
-
 - id: c-169409
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -192,7 +189,6 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186048
-
 - id: c-169410
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

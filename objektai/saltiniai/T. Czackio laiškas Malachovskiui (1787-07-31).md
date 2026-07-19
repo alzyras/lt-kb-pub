@@ -57,7 +57,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174741
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1787 m. liepos 31 d. T. Cackio laiške Malachovskiui rašyta, kad Jasuose lankėsi kunigas Sevaljė, L’Abbé Chevalier.'
@@ -74,8 +74,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191859
 ## Citatos
 
 - id: c-174741

@@ -297,7 +297,6 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - t-172965
     - t-172967
     - t-172978
-
 - id: c-42467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -322,7 +321,6 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   pagrindzia:
     - t-172970
     - t-172971
-
 - id: c-157308
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -351,7 +349,6 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   pagrindzia:
     - t-172969
     - t-172972
-
 - id: c-157309
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -375,7 +372,6 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
     - t-172968
     - t-172970
     - t-172978
-
 - id: c-157310
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -416,7 +412,6 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172977
-
 - id: c-157311
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -438,8 +433,7 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172974
-
+    - t-172975
 - id: c-157314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -475,7 +469,6 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172976
-
 - id: c-176508
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

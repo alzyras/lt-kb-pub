@@ -106,7 +106,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   temporalinis_llm_pakomentavimas: "Citata pagrindžia teiginį apie kronikos dėstymo tvarką ir Tepliavos pilies paminėjimą."
   pagrindžia:
     - c-59037
-
+    - c-003
 <a id="claim-t-194551"></a>
 - t-005
   global_id: t-194551
@@ -166,8 +166,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-58406
 ## Citatos
 
 - id: c-59035
@@ -190,7 +189,6 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58403
-
 - id: c-59036
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -210,7 +208,6 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   pagrindzia:
     - t-58405
     - t-194551
-
 - id: c-59037
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -232,7 +229,6 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58406
-
 - id: c-59038
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

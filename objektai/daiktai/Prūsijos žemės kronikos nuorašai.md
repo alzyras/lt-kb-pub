@@ -77,7 +77,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra savarankiškas, faktinis ir paremtas citata."
   pagrindžia:
     - c-60336
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.'
@@ -98,8 +98,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59704
 ## Citatos
 
 - id: c-60336

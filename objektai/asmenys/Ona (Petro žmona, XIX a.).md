@@ -100,7 +100,6 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195553
-
 - id: c-177971
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -121,7 +120,6 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195555
-
 - id: c-177972
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

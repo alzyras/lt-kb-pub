@@ -107,7 +107,6 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12593
-
 - id: c-69407
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -129,7 +128,6 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70370
-
 - id: c-166381
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

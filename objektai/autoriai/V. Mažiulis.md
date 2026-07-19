@@ -55,7 +55,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65450
-
+    - c-004
 <a id="claim-t-64861"></a>
 - t-003
   global_id: t-64861
@@ -105,8 +105,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-64860
 ## Citatos
 
 - id: c-65447
@@ -130,7 +129,6 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64862
-
 - id: c-65448
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -152,7 +150,6 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64859
-
 - id: c-65449
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -170,7 +167,6 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64861
-
 - id: c-65450
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

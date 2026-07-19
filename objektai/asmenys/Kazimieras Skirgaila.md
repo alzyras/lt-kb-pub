@@ -152,7 +152,6 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   pagrindzia:
     - t-185949
     - t-196520
-
 - id: c-169311
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -192,7 +191,6 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185950
-
 - id: c-169312
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -227,7 +225,6 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185951
-
 - id: c-178746
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -172,7 +172,6 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   pagrindzia:
     - t-60109
     - t-197071
-
 - id: c-60741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -195,7 +194,6 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   pagrindzia:
     - t-60108
     - t-197072
-
 - id: c-168055
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -220,7 +218,6 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184694
-
 - id: c-178692
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -247,7 +244,6 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196445
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Pinas]]
 - Draika keliavo į [[objektai/vietos/Ragainė]]

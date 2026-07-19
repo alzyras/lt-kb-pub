@@ -68,4 +68,4 @@ Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto gri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192879

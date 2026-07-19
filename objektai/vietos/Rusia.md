@@ -291,7 +291,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85943
-
 - id: c-81924
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -326,7 +325,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85945
-
 - id: c-81925
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -356,7 +354,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85942
-
 - id: c-175516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -384,7 +381,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192746
-
 - id: c-175517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -408,7 +404,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192747
-
 - id: c-176149
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -435,7 +430,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193427
-
 - id: c-176150
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -467,7 +461,6 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193428
-
 - id: c-177146
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -490,6 +483,5 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194750
-
 ## Ryšiai
 - Rusia priklausė [[objektai/vietos/Salavija]]

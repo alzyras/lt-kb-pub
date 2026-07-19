@@ -52,7 +52,7 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   semantiniai_rysiai: "Marijampolės batalionas priklausė 11 brigada (0.90)"
   pagrindžia:
     - c-40642
-
+    - c-167043
 <a id="claim-t-38839"></a>
 - t-002
   global_id: t-38839
@@ -93,7 +93,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38838
-
 - id: c-40643
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -115,7 +114,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38839
-
 - id: c-167043
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

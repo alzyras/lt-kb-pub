@@ -57,7 +57,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176691
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M Gėrimų ir valgių kiekiai, kuriuos Vytautas suvaišino Lucke savo svečiams, Lietuvos metraščiuose vis didinami: pagal TS išgerta 300 statinių midaus, pagal PS — jau 500 statinių, o BK — net 700 statinių.'
@@ -76,8 +76,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194078
 ## Citatos
 
 - id: c-176691

@@ -105,7 +105,6 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40393
-
 - id: c-44488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -131,6 +130,5 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40392
-
 ## Ryšiai
 - Petras Šuiskis keliavo į [[objektai/vietos/Druckas]]

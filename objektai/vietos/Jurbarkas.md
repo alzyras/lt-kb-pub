@@ -148,7 +148,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168326
-
+    - c-004
 <a id="claim-t-188701"></a>
 - t-007
   global_id: t-188701
@@ -168,7 +168,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171590
-
+    - c-005
 <a id="claim-t-188702"></a>
 - t-008
   global_id: t-188702
@@ -259,8 +259,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-184965
 - c-005
   santrauka: 'Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -279,8 +278,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188701
 ## Citatos
 
 - id: c-46509
@@ -300,7 +298,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83427
-
 - id: c-46510
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -321,7 +318,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   pagrindzia:
     - t-83423
     - t-83425
-
 - id: c-79746
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -343,7 +339,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   pagrindzia:
     - t-83426
     - t-83428
-
 - id: c-168326
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -375,7 +370,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184965
-
 - id: c-171590
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -396,7 +390,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188701
-
 - id: c-171591
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -413,7 +406,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188702
-
 ## Ryšiai
 - Apgulė Jurbarką: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Užėmė Jurbarką: [[objektai/grupes/Kryžiuočių ordinas]]

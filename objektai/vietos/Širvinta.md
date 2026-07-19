@@ -143,7 +143,6 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   pagrindzia:
     - t-85646
     - t-85647
-
 - id: c-81629
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

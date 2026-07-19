@@ -91,7 +91,6 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21995
-
 - id: c-166828
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

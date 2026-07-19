@@ -73,7 +73,6 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89593
-
 - id: c-85535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

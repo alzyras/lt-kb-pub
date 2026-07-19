@@ -92,7 +92,6 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64848
-
 - id: c-166737
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

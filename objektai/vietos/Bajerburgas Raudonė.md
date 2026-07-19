@@ -123,7 +123,6 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86002
-
 - id: c-81982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -185,7 +184,6 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86004
-
 - id: c-81983
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

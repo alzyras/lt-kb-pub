@@ -62,7 +62,7 @@ Nenurodyta
   semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.96)"
   pagrindžia:
     - c-62982
-
+    - c-001
 <a id="claim-t-194403"></a>
 - t-003
   global_id: t-194403
@@ -75,7 +75,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62982
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -96,10 +96,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
+    - t-62387
+    - t-194403
 ## Citatos
 
 - id: c-62982

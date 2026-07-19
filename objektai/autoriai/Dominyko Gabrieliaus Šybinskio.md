@@ -49,7 +49,7 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173217
-
+    - c-001
 <a id="claim-t-190335"></a>
 - t-002
   global_id: t-190335
@@ -63,7 +63,7 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173218
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą buvo išvertęs Dominykas Šybinskis.'
@@ -79,8 +79,7 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190334
 - c-002
   santrauka: 'Narbutas rašo, kad Šybinskis mitologijos žodyne Lucinos vardą pripažino Junonai, bet dėl to klydo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -95,8 +94,7 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190335
 ## Citatos
 
 - id: c-173217
@@ -128,7 +126,6 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190334
-
 - id: c-173218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

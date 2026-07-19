@@ -129,7 +129,6 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55207
-
 - id: c-55631
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -150,7 +149,6 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55208
-
 - id: c-78497
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

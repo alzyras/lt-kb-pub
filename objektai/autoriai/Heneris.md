@@ -48,7 +48,7 @@ Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174526
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip keturiasdešimt metų gyvenusį Baltarusijoje.'
@@ -72,8 +72,7 @@ Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191644
 ## Citatos
 
 - id: c-174526

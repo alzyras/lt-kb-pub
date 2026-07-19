@@ -116,7 +116,6 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60100
-
 - id: c-60733
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -141,7 +140,6 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60101
-
 - id: c-168051
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

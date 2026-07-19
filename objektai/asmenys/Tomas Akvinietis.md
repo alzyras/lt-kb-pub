@@ -46,7 +46,7 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61079
-
+    - c-167519
 ## Citatos
 
 - id: c-61079
@@ -65,7 +65,6 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60447
-
 - id: c-167519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -93,7 +93,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02085
-
 - id: c-02322
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -112,7 +111,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02084
-
 - id: c-02323
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

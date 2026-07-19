@@ -91,7 +91,6 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193732
-
 - id: c-44747
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -111,7 +110,6 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40893
-
 ## Ryšiai
 - Puolė Janičarai: [[objektai/grupes/Lisovčikai]]
 - Janičarai puolė [[objektai/grupes/Kazokai]]

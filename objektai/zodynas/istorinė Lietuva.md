@@ -188,7 +188,6 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   pagrindzia:
     - t-75553
     - t-75554
-
 - id: c-26773
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -215,7 +214,6 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   pagrindzia:
     - t-75551
     - t-75555
-
 - id: c-26774
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,7 +232,6 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75550
-
 - id: c-26885
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

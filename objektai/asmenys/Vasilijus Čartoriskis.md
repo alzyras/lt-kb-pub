@@ -71,6 +71,5 @@ Antra: Pinsko kunigaikš­ tis nebuvo joks Narimantas, bet Va­ silijus Čertori
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87879
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Karigaila]]

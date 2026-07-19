@@ -104,7 +104,7 @@ Nenurodyta
   semantiniai_rysiai: "Sembai puolė Rinava (0.88)"
   pagrindžia:
     - c-85356
-
+    - c-003
 <a id="claim-t-89397"></a>
 - t-004
   global_id: t-89397
@@ -155,8 +155,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-89396
 ## Citatos
 
 - id: c-85352
@@ -179,7 +178,6 @@ Nenurodyta
   pagrindzia:
     - t-89395
     - t-196967
-
 - id: c-85354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -199,7 +197,6 @@ Nenurodyta
   pagrindzia:
     - t-89394
     - t-89397
-
 - id: c-85356
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

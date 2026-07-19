@@ -74,7 +74,7 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24104
-
+    - c-166981
 <a id="claim-t-183590"></a>
 - t-003
   global_id: t-183590
@@ -115,7 +115,7 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175410
-
+    - c-005
 <a id="claim-t-197864"></a>
 - t-005
   global_id: t-197864
@@ -166,8 +166,7 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-192640
 ## Citatos
 
 - id: c-24104
@@ -190,7 +189,6 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67799
-
 - id: c-67566
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,7 +210,6 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67798
-
 - id: c-166981
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -245,7 +242,6 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183590
-
 - id: c-175410
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

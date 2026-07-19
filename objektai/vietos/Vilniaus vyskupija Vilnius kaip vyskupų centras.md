@@ -54,7 +54,7 @@ Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stip
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171987
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stipriaisiais gėrimais uždraudė ir likvidavo paprotį.'
@@ -76,8 +76,7 @@ Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189099
 ## Citatos
 
 - id: c-171987

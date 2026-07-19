@@ -83,7 +83,6 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41216
-
 - id: c-44882
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

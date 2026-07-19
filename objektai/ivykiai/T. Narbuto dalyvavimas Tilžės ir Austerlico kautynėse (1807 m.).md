@@ -78,7 +78,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai įvardija T. Narbutą, datą, tarnybą ir sužeidimą. Citata šiuos faktus tiesiogiai patvirtina."
   pagrindžia:
     - c-170756
-
+    - c-001
 <a id="claim-t-187804"></a>
 - t-002
   global_id: t-187804
@@ -99,7 +99,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai pagrįstas citatos faktine informacija. Jame sąmoningai neįtrauktas sužeidimas, nes pats teiginys apsiriboja dalyvavimu kautynėse."
   pagrindžia:
     - c-170756
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -114,9 +114,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-187803
+    - t-187804
 ## Data ir vieta
 
 Data: 1807 m..

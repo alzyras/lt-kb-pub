@@ -145,7 +145,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jaroslavas surengė žygį į Lenkija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie didžiojo kunigaikščio Jaroslavo veiksmus Narbuto pasakojime. Palikta valdovo titulo atribucija, o papildomos pastabos apie pečenegus ir Lietuvą neįtrauktos.'
   pagrindžia:
-    - c-173767
+    - c-004
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47770|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.
@@ -185,8 +185,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190885
 ## Citatos
 
 - id: c-21716
@@ -208,7 +207,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18955
-
 - id: c-173765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -230,7 +228,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190883
-
 - id: c-173766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -253,7 +250,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190884
-
 - id: c-179326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -277,7 +273,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197755
-
 - id: c-184348
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -305,7 +300,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200998
-
 ## Ryšiai
 - Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]
 - Jaroslavas surengė žygį į [[objektai/vietos/Lenkija]]

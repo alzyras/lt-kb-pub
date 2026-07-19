@@ -50,7 +50,7 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173399
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszawska“ 1858 m. trečiame tome, p. 192-195.'
@@ -64,8 +64,7 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190516
 ## Citatos
 
 - id: c-173399

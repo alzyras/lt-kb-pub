@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60846
-
+    - c-001
 <a id="claim-t-184136"></a>
 - t-002
   global_id: t-184136
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60846
-
+    - c-001
 <a id="claim-t-194521"></a>
 - t-003
   global_id: t-194521
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60846
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -105,10 +105,9 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
+    - t-60214
+    - t-184136
+    - t-194521
 ## Citatos
 
 - id: c-60846

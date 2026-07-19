@@ -125,7 +125,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-108132
-
+    - c-006
 <a id="claim-t-117486"></a>
 - t-005
   global_id: t-117486
@@ -182,7 +182,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   temporalinis_llm_pakomentavimas: "Raw kronikos citata perrašyta į vientisą sakinį apie Bychovco kroniką. Laidotuvių papročio aiškinimas paliktas su Narbuto citavimo atribucija."
   pagrindžia:
     - c-171380
-
+    - c-007
 <a id="claim-t-190825"></a>
 - t-008
   global_id: t-190825
@@ -227,7 +227,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173708
-
+    - c-009
 <a id="claim-t-193752"></a>
 - t-010
   global_id: t-193752
@@ -269,8 +269,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-117485
 - c-007
   santrauka: 'Narbutas cituoja Bychovco kroniką, kurioje rašoma, kad deginant lietuvių kunigaikštį ar didiką prie kūno dėdavo lūšies arba lokio nagus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -298,8 +297,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188490
 - c-009
   santrauka: 'Narbutas rašo, kad Žemaitija nuo senovės plytėjo tarp Baltijos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Venta.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -320,8 +318,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-190826
 ## Citatos
 
 - id: c-11252
@@ -337,7 +334,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117483
-
 - id: c-37224
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -358,7 +354,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117486
-
 - id: c-43282
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -386,7 +381,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117484
-
 - id: c-108129
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -409,7 +403,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117482
-
 - id: c-108131
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -442,7 +435,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117488
-
 - id: c-108132
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -461,7 +453,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117485
-
 - id: c-171380
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -496,7 +487,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   pagrindzia:
     - t-188490
     - t-197351
-
 - id: c-173707
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -511,7 +501,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190825
-
 - id: c-173708
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -536,7 +525,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190826
-
 - id: c-176412
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

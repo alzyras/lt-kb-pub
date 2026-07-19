@@ -92,7 +92,6 @@ Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194917
-
 - id: c-179333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

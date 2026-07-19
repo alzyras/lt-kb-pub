@@ -163,7 +163,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-177121
+    - c-003
 - susijęs iš [[objektai/ivykiai/Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas.md#claim-t-189633|Vaidevučio ir Prutenio civilinės bei religinės tvarkos įvedimas]]: Narbutas Vaidevutį ir Prutenį vaizduoja kaip geresnės civilinės bei religinės tvarkos įvedėjus, vyriausiuosius žynius ir tautos vadus.
 - susijęs iš [[objektai/paprociai/Šneibratui aukojami paukščiai ir sorų paplotėliai prie liepų.md#claim-t-189886|Šneibratui aukojami paukščiai ir sorų paplotėliai prie liepų]]: Narbutas aiškina, kad Šneibrato mitas galėjo virsti nusipelniusio tautai dievinamo vyro simboliu, o jam aukoti prie liepų kepti sorų paplotėliai.
 ## Reikšmingi paminėjimai
@@ -190,8 +190,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194725
 ## Citatos
 
 - id: c-172913
@@ -218,7 +217,6 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190030
-
 - id: c-172914
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -250,7 +248,6 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190031
-
 - id: c-177122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -273,7 +270,6 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194726
-
 - id: c-177317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -298,7 +294,6 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194921
-
 - id: c-178797
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -320,7 +315,6 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196611
-
 - id: c-178798
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -349,7 +343,6 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196612
-
 - id: c-178799
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -372,7 +365,6 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196613
-
 - id: c-179203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

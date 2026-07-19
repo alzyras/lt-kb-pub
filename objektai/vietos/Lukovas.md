@@ -104,7 +104,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86082
-
 - id: c-168396
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

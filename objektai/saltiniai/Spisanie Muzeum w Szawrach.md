@@ -61,8 +61,7 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
   sudarymo_pagrindimas: 'Objektas susietas su katalogo duomenimis apie Obelių kapinyno radinių vietą. Palikta vertinamoji formuluotė iš citatos, bet nepridėta radinių aprašymo.'
   susije_objektai: 'mentioned_place: Viena; mentioned_place: Šaurų dvaras'
   pagrindžia:
-    - c-174577
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '„Spisanie Muzeum w Szawrach“ sieja Obelių kapinyno radinius su viena garbingiausių vietų Saurų dvaro muziejuje.'
@@ -81,8 +80,7 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191695
 ## Citatos
 
 - id: c-174576

@@ -90,7 +90,6 @@ Vartojamos formos: `žiuponais`.
   pagrindzia:
     - t-07692
     - t-07693
-
 - id: c-09622
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

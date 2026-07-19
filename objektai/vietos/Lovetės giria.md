@@ -53,8 +53,7 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
   sudarymo_pagrindimas: 'Ilgas vietovių sąrašas sutrumpintas iki teiginio apie Lovetės girią. Vietovės vardo forma palikta su Narbuto atribucija.'
   susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Bernas; mentioned_place: Drūsinė; mentioned_place: Drūsinės ežeras; mentioned_place: Elbingas; mentioned_place: Pagudė'
   pagrindžia:
-    - c-175652
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų.'
@@ -80,8 +79,7 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192882
 ## Citatos
 
 - id: c-179385

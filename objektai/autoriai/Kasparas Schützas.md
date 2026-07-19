@@ -52,7 +52,7 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173237
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia“, išleistą Gdanske 1769 m.'
@@ -66,8 +66,7 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190354
 ## Citatos
 
 - id: c-173237

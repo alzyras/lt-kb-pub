@@ -70,7 +70,6 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67557
-
 - id: c-67421
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

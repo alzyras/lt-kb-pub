@@ -107,7 +107,6 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42503
-
 - id: c-45544
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

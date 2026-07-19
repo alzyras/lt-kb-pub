@@ -55,7 +55,7 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172438
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popiežių“ kėlė abejones dėl vyriausiojo žynio egzistavimo.'
@@ -87,8 +87,6 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas teigė, kad krivio laikymas „Šiaurės popiežiumi“ perdeda jo galią, nes jo veikimas dažnai ribojosi vienu valsčiumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -118,8 +116,7 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189550
 ## Citatos
 
 - id: c-172438

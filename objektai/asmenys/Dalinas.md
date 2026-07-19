@@ -48,7 +48,7 @@ Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174379
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos jūros nusekimą nuo Kristaus gimimo.'
@@ -72,8 +72,7 @@ Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191497
 ## Citatos
 
 - id: c-174379

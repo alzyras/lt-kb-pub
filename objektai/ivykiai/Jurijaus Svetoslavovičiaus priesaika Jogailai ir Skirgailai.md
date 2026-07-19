@@ -78,7 +78,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169950
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1386 m. gegužės 20 d. Krokuvoje Jurijus Svetoslavovičius davė Jogailai ir Skirgailai vasalo ištikimybės priesaiką.'
@@ -96,8 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186727
 ## Citatos
 
 - id: c-169950

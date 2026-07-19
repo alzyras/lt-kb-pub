@@ -66,6 +66,5 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32101
-
 ## Ryšiai
 - Puolė Cesį: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

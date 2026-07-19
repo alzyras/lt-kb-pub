@@ -62,6 +62,7 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60835
+    - c-001
 - susijęs iš Pamedė: Pamedės kilmingasis Samilis padėjo badaujančiai Kristburgo piliai, nors gyveno tarp priešų ir tikėjimą bei brolius gerbė slapta.
 - susijęs iš [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas.md#claim-t-89373|Kristburgo bado krizės ir Samilio nukankinimo bandymas]]: Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, nusiuntė broliams, o Samilis vėliau pagijo.
 ## Reikšmingi paminėjimai
@@ -84,8 +85,7 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60204
 ## Citatos
 
 - id: c-60835
@@ -111,7 +111,6 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60204
-
 - id: c-60836
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

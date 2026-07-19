@@ -142,7 +142,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - t-002
   teiginys: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
   pagrindžia:
-    - c-002
+    - c-78180
 - susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62997|Flandrai]]: Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.
 - susijęs iš Klaipėda: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
@@ -326,7 +326,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81588
-
 - id: c-78180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -354,7 +353,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81591
-
+    - t-002
 - id: c-78185
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -379,7 +378,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81593
-
 - id: c-78187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -401,7 +399,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81592
-
 - id: c-167276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -421,7 +418,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183891
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Flandrai]]
 - Prancūzai keliavo į [[objektai/vietos/Prūsija]]

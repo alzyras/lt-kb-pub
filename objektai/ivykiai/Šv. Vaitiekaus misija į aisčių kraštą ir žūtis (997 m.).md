@@ -130,7 +130,6 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07571
-
 - id: c-00196
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -149,7 +148,6 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07572
-
 - id: c-00198
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

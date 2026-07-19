@@ -151,7 +151,6 @@ Nenurodyta
     - t-66454
     - t-183912
     - t-194377
-
 - id: c-66685
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

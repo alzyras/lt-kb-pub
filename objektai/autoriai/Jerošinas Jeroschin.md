@@ -94,7 +94,6 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88022
-
 - id: c-84001
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -56,7 +56,7 @@ Dusburgietis teigia, kad mierzyński A.
   temporalinis_llm_pakomentavimas: "Bibliografinė citata pagrindžia autoriaus, veikalo, vietos ir metų faktą."
   pagrindžia:
     - c-61388
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mierzyński A. 1896 m. Varšuvoje paskelbė antrąją „Źródła do mytologii litewskiej“ dalį apie XIV ir XV amžius.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad mierzyński A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60756
 ## Citatos
 
 - id: c-61388

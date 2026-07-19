@@ -69,7 +69,7 @@ Nenurodyta
   semantiniai_rysiai: "Krikščionys gyveno Tripolis (0.92)"
   pagrindžia:
     - c-63193
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.'
@@ -87,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62514
 ## Citatos
 
 - id: c-63193

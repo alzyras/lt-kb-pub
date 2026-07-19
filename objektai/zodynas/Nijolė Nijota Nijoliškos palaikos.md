@@ -60,8 +60,7 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
   sudarymo_pagrindimas: 'Deivės genealogija ir titulas yra mitologinis teiginys, todėl palikta Narbuto atribucija. Pašalintas OCR triukšmas ir neplėsta mito santrauka.'
   susije_objektai: 'mentioned_place: Pragaras'
   pagrindžia:
-    - c-172052
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliaus žmoną ir Krūminės dukterį.'
@@ -82,8 +81,7 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189164
 ## Citatos
 
 - id: c-172053

@@ -137,7 +137,6 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     - t-195035
     - t-195036
     - t-195037
-
 - id: c-177406
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

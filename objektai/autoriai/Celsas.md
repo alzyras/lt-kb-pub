@@ -69,4 +69,4 @@ Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-190419

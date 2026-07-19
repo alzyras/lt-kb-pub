@@ -57,7 +57,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177336
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą.'
@@ -76,8 +76,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194940
 ## Citatos
 
 - id: c-177336

@@ -69,7 +69,7 @@ Nenurodyta
   semantiniai_rysiai: "Sembai dalyvavo mūšyje Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.) (0.86)"
   pagrindžia:
     - c-66780
-
+    - c-003
 <a id="claim-t-66572"></a>
 - t-002
   global_id: t-66572
@@ -143,8 +143,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-66571
 ## Citatos
 
 - id: c-66778
@@ -166,7 +165,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66574
-
 - id: c-66779
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -192,7 +190,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66573
-
 - id: c-66780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -214,7 +211,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66571
-
 - id: c-66781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

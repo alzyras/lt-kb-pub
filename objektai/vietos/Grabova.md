@@ -101,7 +101,6 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67983
-
 - id: c-67692
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

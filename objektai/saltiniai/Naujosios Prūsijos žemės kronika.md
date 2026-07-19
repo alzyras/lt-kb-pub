@@ -174,7 +174,6 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171552
-
 - id: c-43288
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -204,7 +203,6 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   pagrindzia:
     - t-171553
     - t-171556
-
 - id: c-156051
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -236,7 +234,6 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   pagrindzia:
     - t-171555
     - t-171557
-
 - id: c-179006
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

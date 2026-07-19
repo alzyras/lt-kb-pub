@@ -95,7 +95,6 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195477
-
 - id: c-177898
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

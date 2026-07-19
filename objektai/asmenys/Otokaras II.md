@@ -166,7 +166,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197138
-
 - id: c-159418
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -189,7 +188,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175267
-
 - id: c-159419
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -214,7 +212,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   pagrindzia:
     - t-175269
     - t-197137
-
 ## Ryšiai
 - Otokaras II keliavo į [[objektai/vietos/Baiga]]
 - Otokaras II dalyvavo mūšyje [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]], [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]

@@ -93,7 +93,6 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190523
-
 - id: c-173407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

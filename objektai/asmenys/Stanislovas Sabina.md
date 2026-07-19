@@ -134,7 +134,6 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87459
-
 - id: c-83438
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

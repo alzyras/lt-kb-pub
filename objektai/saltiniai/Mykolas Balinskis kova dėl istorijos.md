@@ -81,7 +81,6 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88265
-
 - id: c-84244
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -49,7 +49,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172081
-
+    - c-001
 <a id="claim-t-189194"></a>
 - t-002
   global_id: t-189194
@@ -112,7 +112,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172084
-
+    - c-004
 <a id="claim-t-197359"></a>
 - t-005
   global_id: t-197359
@@ -145,8 +145,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189193
 - c-004
   santrauka: 'Narbutas burtininkę Burte apibrėžė kaip lietuvių bardę Burtyniczka, kuri sakydavo eiles, dainuodavo ir pranašaudavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -161,8 +160,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-189196
 ## Citatos
 
 - id: c-172081
@@ -190,7 +188,6 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189193
-
 - id: c-172082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -216,7 +213,6 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   pagrindzia:
     - t-189194
     - t-197359
-
 - id: c-172083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -239,7 +235,6 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189195
-
 - id: c-172084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

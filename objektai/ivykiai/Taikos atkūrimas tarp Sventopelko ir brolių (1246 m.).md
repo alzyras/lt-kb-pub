@@ -91,7 +91,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, faktinis ir tiesiogiai paremtas pastabos citata."
   pagrindžia:
     - c-63167
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1246 m. buvo sudarytos paliaubos tarp Ordino ir Sventopelko.'
@@ -105,8 +105,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62497
 ## Citatos
 
 - id: c-63166
@@ -134,7 +133,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62496
-
 - id: c-63167
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

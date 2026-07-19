@@ -121,7 +121,6 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87479
-
 - id: c-83458
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -145,7 +144,6 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87477
-
 - id: c-178785
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

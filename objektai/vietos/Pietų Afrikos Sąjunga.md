@@ -67,7 +67,6 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-77144
-
+    - t-77145
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Žydai]]

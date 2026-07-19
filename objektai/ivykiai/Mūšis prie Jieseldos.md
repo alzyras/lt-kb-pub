@@ -94,8 +94,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Sąsaja su kitu aprašymu yra interpretacinė, todėl palikta su komentaro atribucija. Nepridėta detalių apie Pinsko kunigaikščių dalyvavimą.'
   pagrindžia:
-    - c-169926
-
+    - c-002
 <a id="claim-t-186684"></a>
 - t-002
   global_id: t-186684
@@ -107,8 +106,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Spėjama pasakojimo kilmė suformuluota kaip komentaro vertinimas. Nepridėta Vasilkos Romanovičiaus veiksmų, nes šis teiginys apsiriboja šaltinio pagrindu.'
   pagrindžia:
-    - c-169926
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -129,9 +127,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-186683
+    - t-186684
 ## Citatos
 
 - id: c-169925

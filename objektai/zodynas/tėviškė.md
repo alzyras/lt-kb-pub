@@ -108,7 +108,6 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36844
-
 - id: c-167634
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -86,7 +86,6 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30717
-
 - id: c-179263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

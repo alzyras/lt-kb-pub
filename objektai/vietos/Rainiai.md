@@ -101,7 +101,6 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21756
-
 - id: c-167016
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

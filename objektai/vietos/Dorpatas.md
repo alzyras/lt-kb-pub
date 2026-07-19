@@ -177,7 +177,6 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36197
-
 - id: c-38475
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -203,7 +202,6 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36198
-
 ## Ryšiai
 - Puolė Dorpatą: [[objektai/grupes/Lietuviai]]
 - Užėmė Dorpatą: [[objektai/grupes/Maskvėnai]]

@@ -77,7 +77,7 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171823
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino.'
@@ -100,8 +100,7 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188934
 ## Citatos
 
 - id: c-171822
@@ -128,7 +127,6 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188933
-
 - id: c-171823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

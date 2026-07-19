@@ -216,7 +216,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70268
-
 - id: c-44202
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -233,7 +232,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70265
-
 - id: c-69319
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -250,7 +248,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70264
-
 - id: c-69320
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -271,7 +268,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70269
-
 - id: c-167993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -295,7 +291,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184632
-
 - id: c-175904
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

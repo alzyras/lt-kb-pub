@@ -79,7 +79,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40545
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Zemovitas (Mozūrijos kunigaikštis) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

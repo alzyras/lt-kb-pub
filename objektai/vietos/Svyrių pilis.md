@@ -92,7 +92,6 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185310
-
 - id: c-178885
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

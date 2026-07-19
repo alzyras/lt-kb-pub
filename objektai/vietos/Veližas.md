@@ -63,7 +63,7 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-182944
-
+    - c-002
 <a id="claim-t-199955"></a>
 - t-001
   global_id: t-199955
@@ -113,8 +113,7 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-199954
 ## Citatos
 
 - id: c-182943
@@ -143,7 +142,6 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199955
-
 - id: c-182944
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

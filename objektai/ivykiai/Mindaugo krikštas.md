@@ -159,8 +159,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys tinkamai atribuuoja religinį ir moralinį vertinimą.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-170459
-
+    - c-003
 <a id="claim-t-187504"></a>
 - t-004
   global_id: t-187504
@@ -168,8 +167,7 @@ Nenurodyta
   teiginio_tipas: 'saltinio_teiginys'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-170459
-
+    - c-003
 <a id="claim-t-187505"></a>
 - t-005
   global_id: t-187505
@@ -178,8 +176,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Kronikos pasakojimui palikta inline atribucija.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-170459
-
+    - c-003
 <a id="claim-t-187506"></a>
 - t-006
   global_id: t-187506
@@ -187,7 +184,7 @@ Nenurodyta
   teiginio_tipas: 'faktas'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-170459
+    - c-003
 - susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-183552|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113903|Mindaugas (valdovas, XIII a.)]]: Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.
 - susijęs iš Klemenso IV bulė apie Mindaugą (1268 m.): 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
@@ -220,12 +217,10 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-001
-    - t-003
-    - t-006
-    - t-006
-
+    - t-187501
+    - t-187504
+    - t-187505
+    - t-187506
 ## Citatos
 
 - id: c-37037
@@ -246,7 +241,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187509
-
 - id: c-170458
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -270,7 +264,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187507
-
 - id: c-170460
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -293,7 +286,6 @@ Nenurodyta
   pagrindzia:
     - t-187502
     - t-187508
-
 - id: c-184289
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

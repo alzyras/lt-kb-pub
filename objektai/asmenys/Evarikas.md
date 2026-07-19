@@ -91,9 +91,6 @@ Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Eva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-174275

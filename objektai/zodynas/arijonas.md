@@ -123,7 +123,6 @@ Religinė Odoakro charakteristika šaltinyje.
   pagrindzia:
     - t-192243
     - t-192244
-
 - id: c-175341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

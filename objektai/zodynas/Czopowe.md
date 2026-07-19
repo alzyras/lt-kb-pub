@@ -98,7 +98,6 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86520
-
 - id: c-82500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

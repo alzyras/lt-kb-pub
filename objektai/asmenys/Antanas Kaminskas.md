@@ -85,7 +85,6 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39710
-
 - id: c-167115
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

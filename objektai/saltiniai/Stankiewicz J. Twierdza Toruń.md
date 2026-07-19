@@ -53,7 +53,7 @@ Dusburgietis teigia, kad stankiewicz J.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą ir publikavimo duomenis."
   pagrindžia:
     - c-61929
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad stankiewicz J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61297
 ## Citatos
 
 - id: c-61929

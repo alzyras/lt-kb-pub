@@ -79,7 +79,6 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67435
-
 - id: c-67334
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

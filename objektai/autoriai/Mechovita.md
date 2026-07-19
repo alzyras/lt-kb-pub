@@ -78,7 +78,7 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174458
-
+    - c-002
 <a id="claim-t-191577"></a>
 - t-003
   global_id: t-191577
@@ -102,7 +102,7 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174459
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbuto vertinimu, Mechovitos padavimuose esanti prielaida apie jotvingių dukras atrodė pasitvirtinanti polesiečių moterų išvaizdoje.'
@@ -125,8 +125,7 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191576
 - c-003
   santrauka: 'Narbuto leidime lotyniška citata nurodyta kaip paimta iš M. Mechovitos 1517 m. Krokuvoje išleisto veikalo „Tractatus de duabus sarmatiis Asiana et Europiana“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -140,8 +139,7 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191577
 ## Citatos
 
 - id: c-174457
@@ -161,7 +159,6 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191575
-
 - id: c-174458
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -188,7 +185,6 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191576
-
 - id: c-174459
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

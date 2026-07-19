@@ -124,7 +124,6 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181244
-
 - id: c-166295
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -143,7 +142,6 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182891
-
 - id: c-175855
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

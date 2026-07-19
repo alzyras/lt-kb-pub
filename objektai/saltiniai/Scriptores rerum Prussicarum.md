@@ -55,7 +55,7 @@ Dusburgietis teigia, kad nuorašus parengė ir 1861 m. „Scriptores rerum Pruss
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie 1861 m. leidimą."
   pagrindžia:
     - c-61922
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.'
@@ -76,8 +76,7 @@ Dusburgietis teigia, kad nuorašus parengė ir 1861 m. „Scriptores rerum Pruss
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61290
 ## Citatos
 
 - id: c-61922

@@ -104,7 +104,6 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42429
-
 - id: c-45499
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

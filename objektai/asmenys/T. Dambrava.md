@@ -100,7 +100,6 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40453
-
 - id: c-44527
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -125,7 +124,6 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40452
-
 - id: c-44528
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

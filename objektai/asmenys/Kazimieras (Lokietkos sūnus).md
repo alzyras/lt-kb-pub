@@ -79,6 +79,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30329
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Aldona Gediminaitė]]

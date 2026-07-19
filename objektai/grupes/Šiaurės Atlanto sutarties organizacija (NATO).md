@@ -179,7 +179,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75053
-
 - id: c-22836
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -200,7 +199,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75057
-
 - id: c-72977
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -221,7 +219,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75050
-
 - id: c-72979
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -242,7 +239,6 @@ media_all_json: |-
   pagrindzia:
     - t-75051
     - t-75056
-
 - id: c-176246
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -262,6 +258,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193567
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

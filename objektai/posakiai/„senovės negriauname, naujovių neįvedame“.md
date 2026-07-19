@@ -153,7 +153,6 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - t-186413
     - t-186414
     - t-186415
-
 - id: c-169755
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -173,7 +172,6 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186417
-
 - id: c-169756
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

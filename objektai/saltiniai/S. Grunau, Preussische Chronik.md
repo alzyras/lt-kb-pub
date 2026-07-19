@@ -80,7 +80,6 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61005
-
 - id: c-61637
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

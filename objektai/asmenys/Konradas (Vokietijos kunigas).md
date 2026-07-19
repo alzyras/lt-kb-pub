@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai pateikia asmens veiksmą, datą ir baigtį."
   pagrindžia:
     - c-60995
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė.'
@@ -74,8 +74,7 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60363
 ## Citatos
 
 - id: c-60995

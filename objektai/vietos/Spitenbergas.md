@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   semantiniai_rysiai: "Spitenbergas priklausė Pamedė (0.72)"
   pagrindžia:
     - c-59275
-
+    - c-002
 <a id="claim-t-58643"></a>
 - t-002
   global_id: t-58643
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   semantiniai_rysiai: "Spitenbergas priklausė Kryžiuočių ordinas (0.80); Spitenbergas priklausė Pamedė (0.62)"
   pagrindžia:
     - c-59274
-
+    - c-001
 <a id="claim-t-194549"></a>
 - t-004
   global_id: t-194549
@@ -77,6 +77,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59275
+    - c-002
 - susijęs iš [[objektai/ivykiai/Spitenbergo pilies palikimas.md#claim-t-183962|Spitenbergo pilies palikimas (pilis)]]: Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais.
 - susijęs iš [[objektai/ivykiai/Spitenbergo pilies palikimas.md#claim-t-62483|Spitenbergo pilies palikimas (pilis)]]: Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais.
 - susijęs iš [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos.md#claim-t-62712|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]: Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.
@@ -100,8 +101,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58643
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -119,10 +119,8 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-    - t-004
-
+    - t-58642
+    - t-194549
 ## Citatos
 
 - id: c-59274
@@ -144,7 +142,6 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58643
-
 - id: c-59275
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -167,6 +164,5 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   pagrindzia:
     - t-58642
     - t-194549
-
 ## Ryšiai
 - Spitenbergas priklausė [[objektai/vietos/Pamedė]]

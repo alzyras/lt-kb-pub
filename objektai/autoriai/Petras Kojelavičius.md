@@ -141,7 +141,6 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88013
-
 - id: c-83993
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,7 +162,6 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88016
-
 - id: c-83994
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -186,7 +184,6 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88015
-
 - id: c-83995
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

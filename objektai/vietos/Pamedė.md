@@ -257,7 +257,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175488
-
+    - c-011
 <a id="claim-t-197905"></a>
 - t-012
   global_id: t-197905
@@ -400,9 +400,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-    - t-012
-
 - c-011
   santrauka: 'Narbutas iš tvirtovių išsidėstymo sprendė, kad rytinė ir šiaurinė Pamedės dalys buvo gerai apgyvendintos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -424,8 +421,7 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-192718
 ## Citatos
 
 - id: c-107349
@@ -449,7 +445,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116517
-
 - id: c-107350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -472,7 +467,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116519
-
 - id: c-107351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -495,7 +489,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116518
-
 - id: c-107352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -518,7 +511,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116520
-
 - id: c-107353
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -540,7 +532,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116516
-
 - id: c-171688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -562,7 +553,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188799
-
 - id: c-171689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -585,7 +575,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188800
-
 - id: c-175485
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -603,7 +592,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192715
-
 - id: c-175486
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -622,7 +610,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192716
-
 - id: c-175487
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -648,7 +635,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   pagrindzia:
     - t-192717
     - t-197905
-
 - id: c-175488
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -677,7 +663,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192718
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]
 - Turėjo priklausinį: [[objektai/vietos/Spitenbergas]]

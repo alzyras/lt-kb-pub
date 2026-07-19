@@ -62,7 +62,7 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172107
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Baubliu vadino pasakojimų pranašišką ąžuolą, kuris esą kalbėdavęs ir atsakydavęs į klausimus.'
@@ -79,8 +79,7 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189219
 ## Citatos
 
 - id: c-172106
@@ -104,7 +103,6 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189218
-
 - id: c-172107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

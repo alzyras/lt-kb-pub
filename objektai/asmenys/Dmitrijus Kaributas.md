@@ -83,7 +83,6 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87491
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Rėmė Dmitrijus Kaributą: [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]

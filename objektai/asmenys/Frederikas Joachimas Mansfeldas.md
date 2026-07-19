@@ -91,7 +91,6 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40107
-
 - id: c-44329
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

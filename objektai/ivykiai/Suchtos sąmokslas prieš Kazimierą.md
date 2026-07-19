@@ -126,8 +126,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia tikslesnę datavimo formuluotę.'
   pagrindžia:
-    - c-169963
-
+    - c-001
 <a id="claim-t-186757"></a>
 - t-005
   global_id: t-186757
@@ -139,8 +138,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis žodis ir sutrumpinta formuluotė.'
   pagrindžia:
-    - c-169963
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -167,9 +165,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-004
-
+    - t-186755
+    - t-186757
 ## Citatos
 
 - id: c-169964
@@ -196,7 +193,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186754
-
 - id: c-169965
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

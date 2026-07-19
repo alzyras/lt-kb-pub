@@ -100,7 +100,6 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45085
-
 - id: c-48004
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

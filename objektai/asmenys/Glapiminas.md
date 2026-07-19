@@ -57,6 +57,7 @@ Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173036
+    - c-001
 - susijęs iš [[objektai/asmenys/Sutinkąs.md#claim-t-190211|Sutinkąs]]: Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemaitijoje.
 - susijęs iš Žemaitija: Narbutas pasakoja, kad Glapimino sūnus Sutinkąs ir vaikaitis Dormunimundas valdė Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Dormunimundas.md#claim-t-190143|Dormunimundas]]: Narbuto pasakojime Imino vaikaitis Dormunimundas valdė Žemaitijoje ir buvo Liutauro tėvas.
@@ -78,8 +79,7 @@ Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190153
 ## Citatos
 
 - id: c-173036
@@ -102,6 +102,5 @@ Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190153
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Sutinkąs]]

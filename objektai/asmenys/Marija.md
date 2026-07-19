@@ -137,7 +137,6 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35219
-
 - id: c-176579
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

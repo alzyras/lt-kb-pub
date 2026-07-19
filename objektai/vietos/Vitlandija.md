@@ -125,7 +125,6 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
   pagrindzia:
     - t-192832
     - t-197941
-
 - id: c-175603
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -145,6 +144,5 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192833
-
 ## Ryšiai
 - Vitlandija priklausė [[objektai/vietos/Varmija]]

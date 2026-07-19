@@ -67,6 +67,5 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99948
-
 ## Ryšiai
 - Santoko pilis Dobrine priklausė [[objektai/grupes/Kryžiuočių ordinas]]

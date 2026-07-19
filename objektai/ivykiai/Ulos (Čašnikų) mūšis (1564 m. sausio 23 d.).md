@@ -162,7 +162,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09887
-
 - id: c-11928
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -191,7 +190,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09885
-
 - id: c-11929
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -210,7 +208,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09886
-
 - id: c-11930
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -238,7 +235,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09884
-
 - id: c-11931
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -258,6 +254,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09884
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Maskvėnai]]

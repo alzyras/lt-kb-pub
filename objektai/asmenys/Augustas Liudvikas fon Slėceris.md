@@ -57,7 +57,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-173997
-
+    - c-001
 <a id="claim-t-191117"></a>
 - t-002
   global_id: t-191117
@@ -78,7 +78,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173999
-
+    - c-002
 <a id="claim-t-191118"></a>
 - t-003
   global_id: t-191118
@@ -120,7 +120,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174001
-
+    - c-004
 <a id="claim-t-191120"></a>
 - t-005
   global_id: t-191120
@@ -196,8 +196,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191115
 - c-002
   santrauka: 'Narbutas rašo, kad Slėceris juoko vertu dalyku laikė krivičių siejimą su prūsų vyriausiuoju kunigu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -216,8 +215,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191117
 - c-004
   santrauka: 'Slėceris darė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų žemesnis išsivystymas iš dalies siejosi su raitos medžioklės nežinojimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -234,8 +232,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-191119
 - c-006
   santrauka: 'Narbutas rašo, kad Slėceris keliautojų patiriamus žinių rinkimo sunkumus priskyrė kliūtims, trukdančioms aiškintis geografinius vaizdinius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -255,9 +252,6 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-    - t-007
-
 ## Citatos
 
 - id: c-173997
@@ -282,7 +276,6 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191115
-
 - id: c-173999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -305,7 +298,6 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191117
-
 - id: c-174000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -325,7 +317,6 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191118
-
 - id: c-174001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -347,7 +338,6 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191119
-
 - id: c-174002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -372,7 +362,6 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191120
-
 - id: c-174824
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

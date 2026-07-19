@@ -109,13 +109,11 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 <a id="claim-t-26668"></a>
 - t-003
-  global_id: t-26668
   teiginys: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
   sudarymo_pagrindimas: 'Sakinys padarytas sklandesnis ir aiškesnis, nekeičiant citatos paremto fakto.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
-    - c-002
-
+    - c-73292
 ## Citatos
 
 - id: c-16540
@@ -137,7 +135,6 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   pagrindzia:
     - t-13543
     - t-13544
-
 - id: c-73292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,3 +154,4 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26668
+    - t-003

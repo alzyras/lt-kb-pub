@@ -465,7 +465,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-177002
+    - c-019
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md#claim-t-62874|Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]: Po bendražygių žūties Martynas iš Golino sušaukė išsklaidytus vyrus, atgavo ginklus ir užpuolęs sūduvius juos išžudė.
 - susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
 - susijęs iš [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą.md#claim-t-62515|Ulricho Bajerio žygis į Sūduvą]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių.
@@ -664,8 +664,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026
-
+    - t-194603
 ## Citatos
 
 - id: c-85212
@@ -690,7 +689,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   pagrindzia:
     - t-89248
     - t-194366
-
 - id: c-85213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -712,7 +710,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89250
-
 - id: c-85214
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -732,7 +729,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89235
-
 - id: c-85215
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -752,7 +748,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   pagrindzia:
     - t-89246
     - t-194365
-
 - id: c-85216
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -772,7 +767,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89236
-
 - id: c-85218
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -794,7 +788,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89243
-
 - id: c-85219
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -819,7 +812,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89239
-
 - id: c-85220
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -840,7 +832,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   pagrindzia:
     - t-89247
     - t-194364
-
 - id: c-85221
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -861,7 +852,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89245
-
 - id: c-85222
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -881,7 +871,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89237
-
 - id: c-85223
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -904,7 +893,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89240
-
 - id: c-85224
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -927,7 +915,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89251
-
 - id: c-85225
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -949,7 +936,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89233
-
 - id: c-85226
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -971,7 +957,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89234
-
 - id: c-85227
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -994,7 +979,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   pagrindzia:
     - t-89238
     - t-89241
-
 - id: c-85228
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1015,7 +999,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89249
-
 - id: c-85229
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1045,7 +1028,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89242
-
 - id: c-85230
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1065,7 +1047,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89244
-
 - id: c-178982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1087,7 +1068,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196924
-
 - id: c-179229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1116,7 +1096,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197523
-
 ## Ryšiai
 - Puolė Sūduviai: [[objektai/asmenys/Martynas iš Golino]]
 - Sūduviai puolė [[objektai/vietos/Galinda]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]], [[objektai/vietos/Notanga]], [[objektai/vietos/Semba]], [[objektai/vietos/Vartenbergas]]

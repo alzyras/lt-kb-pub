@@ -49,7 +49,7 @@ Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 coli
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171921
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 colių skersmens varpeliai.'
@@ -66,8 +66,7 @@ Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 coli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189032
 ## Citatos
 
 - id: c-171921

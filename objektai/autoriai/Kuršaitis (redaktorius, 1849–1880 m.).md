@@ -124,7 +124,6 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-11075
-
 - id: c-13626
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -145,7 +144,6 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-11074
-
 - id: c-13628
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

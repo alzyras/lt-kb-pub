@@ -86,7 +86,6 @@ Narbutas rašo, kad Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191404
-
 - id: c-179314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

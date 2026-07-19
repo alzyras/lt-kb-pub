@@ -294,7 +294,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176650
-
+    - c-181895
 <a id="claim-t-196698"></a>
 - t-015
   global_id: t-196698
@@ -473,7 +473,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindzia:
     - t-111659
     - t-111661
-
 - id: c-103195
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -493,7 +492,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindzia:
     - t-111662
     - t-111663
-
 - id: c-103196
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -511,7 +509,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111657
-
 - id: c-103199
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -535,7 +532,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindzia:
     - t-111658
     - t-111664
-
 - id: c-103200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -561,7 +557,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindzia:
     - t-111656
     - t-111660
-
 - id: c-166427
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -580,7 +575,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183035
-
 - id: c-168356
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -621,7 +615,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184995
-
 - id: c-168357
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -651,7 +644,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184996
-
 - id: c-176312
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -667,7 +659,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193642
-
 - id: c-176650
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -693,7 +684,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194028
-
 - id: c-178850
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -731,7 +721,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196698
-
 - id: c-181887
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -832,7 +821,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199334
-
 - id: c-181893
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   semantiniai_rysiai: "Gerhardas (valdovas) gyveno Marienburgas (0.95)"
   pagrindžia:
     - c-60754
-
+    - c-002
 <a id="claim-t-60122"></a>
 - t-002
   global_id: t-60122
@@ -64,6 +64,7 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   semantiniai_rysiai: "Gerhardas (valdovas) keliavo į Prūsija (0.95)"
   pagrindžia:
     - c-60753
+    - c-001
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-60287|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
 - susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
@@ -104,8 +105,7 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60122
 - c-002
   santrauka: 'Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -127,8 +127,7 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60121
 ## Citatos
 
 - id: c-60753
@@ -157,7 +156,6 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60122
-
 - id: c-60754
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -186,7 +184,6 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60121
-
 ## Ryšiai
 - Gerhardas (valdovas) keliavo į [[objektai/vietos/Prūsija]]
 - Gerhardas (valdovas) gyveno [[objektai/vietos/Marienburgas]]

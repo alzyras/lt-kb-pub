@@ -59,7 +59,7 @@ Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174717
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo išleista 1756 m. ir saugota T. Narbuto Saurų dvaro bibliotekoje.'
@@ -82,8 +82,7 @@ Gotchardo Frideriko Stenderio „Neue vollständige lettische Grammatik“ buvo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191835
 ## Citatos
 
 - id: c-174717

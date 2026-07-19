@@ -59,6 +59,7 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173339
+    - c-001
 - susijęs iš [[objektai/asmenys/Jonas Potockis.md#claim-t-190070|Jonas Potockis]]: Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.
 - susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190326|Jonas Potockis]]: Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.
 - susijęs iš [[objektai/autoriai/Tunmanas.md#claim-t-190460|Tunmanas]]: Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose.
@@ -81,8 +82,7 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190456
 ## Citatos
 
 - id: c-173339

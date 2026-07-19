@@ -73,4 +73,4 @@ Kazimieras priėmė jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai tarna
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194051

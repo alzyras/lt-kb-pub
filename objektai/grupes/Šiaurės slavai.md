@@ -49,7 +49,7 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172372
-
+    - c-001
 <a id="claim-t-189485"></a>
 - t-002
   global_id: t-189485
@@ -70,7 +70,7 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172373
-
+    - c-002
 <a id="claim-t-194605"></a>
 - t-003
   global_id: t-194605
@@ -103,8 +103,7 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189484
 - c-002
   santrauka: 'Narbutas biarmius, arba permius, laikė atskira didelės šiaurės slavų šeimos šaka pagal kalbos, papročių ir fizionomijos skirtumus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -124,8 +123,7 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189485
 ## Citatos
 
 - id: c-172372
@@ -149,7 +147,6 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189484
-
 - id: c-172373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -184,7 +181,6 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189485
-
 - id: c-177004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

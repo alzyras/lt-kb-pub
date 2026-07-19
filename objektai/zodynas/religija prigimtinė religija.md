@@ -41,8 +41,7 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172212
-
+    - c-001
 <a id="claim-t-189326"></a>
 - t-002
   global_id: t-189326
@@ -63,7 +62,7 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172213
-
+    - c-172212
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinimo, įrėžto žmogaus širdyje.'
@@ -81,8 +80,7 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189325
 ## Citatos
 
 - id: c-172212
@@ -107,8 +105,7 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-189325
-
+    - t-189326
 - id: c-172213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

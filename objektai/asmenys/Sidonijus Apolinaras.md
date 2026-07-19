@@ -49,7 +49,7 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174237
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi veidą, plaukus ir kūną raudona arba ruda spalva.'
@@ -73,8 +73,7 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191355
 ## Citatos
 
 - id: c-174237

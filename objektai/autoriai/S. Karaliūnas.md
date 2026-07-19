@@ -38,7 +38,7 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61411
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. Karaliūnas buvo vienas iš rankraščio recenzentų rengiant knygą spaudai.'
@@ -53,8 +53,7 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60779
 ## Citatos
 
 - id: c-61411

@@ -131,7 +131,6 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86105
-
 - id: c-184049
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
@@ -149,6 +148,5 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200703
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]

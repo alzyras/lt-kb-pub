@@ -141,7 +141,6 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75454
-
 - id: c-23776
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -160,7 +159,6 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75453
-
 - id: c-23777
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -183,7 +181,6 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75451
-
 - id: c-73230
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

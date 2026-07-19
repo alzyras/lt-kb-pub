@@ -139,11 +139,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-001
-    - t-002
-    - t-004
-
 ## Citatos
 
 - id: c-85317

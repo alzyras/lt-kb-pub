@@ -216,6 +216,5 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32452
-
 ## Ryšiai
 - Gynė Pilėnai: [[objektai/grupes/Lietuviai]]

@@ -137,7 +137,6 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186044
-
 - id: c-169406
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -174,7 +173,6 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186045
-
 - id: c-178712
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

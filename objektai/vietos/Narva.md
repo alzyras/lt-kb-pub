@@ -152,7 +152,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183794
-
 - id: c-166275
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -175,7 +174,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182871
-
 - id: c-166446
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -193,6 +191,5 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183055
-
 ## Ryšiai
 - Užėmė Narvą: [[objektai/grupes/Maskvos kariuomenė]]

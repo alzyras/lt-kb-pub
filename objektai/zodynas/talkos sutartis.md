@@ -59,7 +59,7 @@ Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-170510
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta 1494 m. vasario 5 d. Maskvoje.'
@@ -74,8 +74,7 @@ Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187560
 ## Citatos
 
 - id: c-170510

@@ -49,7 +49,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169490
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žiemą, užšalus Nemunui, magistro Konrado fon Tirbergo vedami kryžiuočiai įsiveržė į Lietuvą.'
@@ -83,8 +83,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186129
 ## Citatos
 
 - id: c-169490

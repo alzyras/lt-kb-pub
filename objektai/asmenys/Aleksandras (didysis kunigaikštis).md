@@ -106,7 +106,6 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75650
-
 - id: c-73365
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -127,7 +126,6 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75647
-
 - id: c-73367
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

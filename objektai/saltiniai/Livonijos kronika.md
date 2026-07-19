@@ -76,7 +76,7 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169656
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
@@ -98,8 +98,7 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186295
 ## Citatos
 
 - id: c-169655
@@ -131,7 +130,6 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186294
-
 - id: c-169656
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

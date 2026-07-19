@@ -139,7 +139,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86929
-
 - id: c-82908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

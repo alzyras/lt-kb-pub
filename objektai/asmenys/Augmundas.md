@@ -79,7 +79,6 @@ Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191370
-
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Heiridė]]
 - Sutuoktiniai: [[objektai/asmenys/Heiridė]]

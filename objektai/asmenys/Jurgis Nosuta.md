@@ -63,6 +63,7 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176557
+    - c-002
 - susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186624|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.
 - susijęs iš Drohičinas: Kazimierui būnant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta.
@@ -96,8 +97,7 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-193932
 ## Citatos
 
 - id: c-169585
@@ -121,7 +121,6 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186224
-
 - id: c-176557
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -152,7 +151,6 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193932
-
 ## Ryšiai
 - Jurgis Nosuta keliavo į [[objektai/vietos/Mazovija]]
 - Jurgis Nosuta užėmė [[objektai/vietos/Palenkė]]

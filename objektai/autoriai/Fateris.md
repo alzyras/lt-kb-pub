@@ -132,7 +132,6 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   pagrindzia:
     - t-190350
     - t-197290
-
 - id: c-173234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -162,7 +161,6 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
   pagrindzia:
     - t-190351
     - t-197292
-
 - id: c-179107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

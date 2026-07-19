@@ -54,7 +54,7 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43554
-
+    - c-175942
 <a id="claim-t-181502"></a>
 - t-002
   global_id: t-181502
@@ -72,20 +72,6 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-43554
-
-<a id="claim-t-193198"></a>
-- t-003
-  global_id: t-193198
-  teiginys: "Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-175942
 
 ## Citatos
 
@@ -117,7 +103,6 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   pagrindzia:
     - t-181501
     - t-181502
-
 - id: c-175942
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -136,4 +121,4 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193198
+    - t-181501

@@ -48,7 +48,7 @@ Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus planta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174554
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas prūsiškos palmės vaisiaus kilmę.'
@@ -67,8 +67,7 @@ Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus planta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191672
 ## Citatos
 
 - id: c-174554

@@ -48,7 +48,7 @@ Narbutas nurodo, kad Divonio kelionės aprašymas išliko rankraštyje, siejamam
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174653
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu.'
@@ -67,8 +67,7 @@ Narbutas nurodo, kad Divonio kelionės aprašymas išliko rankraštyje, siejamam
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191771
 ## Citatos
 
 - id: c-174653

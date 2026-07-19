@@ -68,7 +68,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175099
-
+    - c-003
 <a id="claim-t-192272"></a>
 - t-003
   global_id: t-192272
@@ -87,7 +87,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175099
-
+    - c-003
 <a id="claim-t-192273"></a>
 - t-004
   global_id: t-192273
@@ -169,9 +169,8 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-002
-
+    - t-192271
+    - t-192272
 ## Citatos
 
 - id: c-175097
@@ -193,7 +192,6 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192270
-
 - id: c-175098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -215,7 +213,6 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     - t-192273
     - t-192274
     - t-192275
-
 - id: c-175099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

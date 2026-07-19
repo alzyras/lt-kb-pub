@@ -133,7 +133,6 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   pagrindzia:
     - t-55187
     - t-55188
-
 - id: c-55781
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

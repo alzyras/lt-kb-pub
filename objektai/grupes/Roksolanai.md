@@ -73,7 +73,7 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175711
-
+    - c-002
 <a id="claim-t-192942"></a>
 - t-003
   global_id: t-192942
@@ -139,8 +139,7 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192941
 ## Citatos
 
 - id: c-175710
@@ -166,7 +165,6 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192940
-
 - id: c-175711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -190,7 +188,6 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192941
-
 - id: c-175712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -219,7 +216,6 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192942
-
 - id: c-175713
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

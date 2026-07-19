@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-169899
-
+    - c-169900
 <a id="claim-t-186618"></a>
 - t-002
   global_id: t-186618
@@ -90,7 +90,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169898
-
+    - c-001
 <a id="claim-t-186619"></a>
 - t-003
   global_id: t-186619
@@ -108,7 +108,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169898
-
+    - c-001
 <a id="claim-t-186621"></a>
 - t-005
   global_id: t-186621
@@ -126,7 +126,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169898
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -155,10 +155,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-002
-    - t-005
-
+    - t-186618
+    - t-186619
+    - t-186621
 ## Citatos
 
 - id: c-169898
@@ -194,7 +193,6 @@ Nenurodyta
     - t-186618
     - t-186619
     - t-186621
-
 - id: c-169899
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -215,7 +213,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186617
-
 - id: c-169900
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

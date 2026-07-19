@@ -328,7 +328,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12289
-
 - id: c-14304
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -349,7 +348,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12290
-
 - id: c-14306
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -372,7 +370,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12289
-
 - id: c-14307
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -391,7 +388,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12292
-
 - id: c-21394
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -414,7 +410,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92960
-
 - id: c-21395
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -436,7 +431,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92965
-
 - id: c-21396
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -474,7 +468,6 @@ Nenurodyta
   pagrindzia:
     - t-92962
     - t-92964
-
 - id: c-21397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -498,7 +491,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92963
-
 - id: c-21398
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -525,7 +517,6 @@ Nenurodyta
   pagrindzia:
     - t-12291
     - t-92966
-
 - id: c-88394
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

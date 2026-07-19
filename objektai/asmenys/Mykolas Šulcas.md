@@ -128,7 +128,6 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   pagrindzia:
     - t-190054
     - t-197430
-
 - id: c-172938
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -153,7 +152,6 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190055
-
 - id: c-184111
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

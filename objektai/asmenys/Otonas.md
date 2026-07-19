@@ -100,6 +100,5 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
   pagrindzia:
     - t-60400
     - t-197139
-
 ## Ryšiai
 - Otonas buvo palaidotas [[objektai/vietos/Akonas]]

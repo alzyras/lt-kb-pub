@@ -94,7 +94,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   semantiniai_rysiai: "Kulmas priklausė Prūsija (0.74); Lubavas priklausė Prūsija (0.74)"
   pagrindžia:
     - c-86532
-
+    - c-167555
 <a id="claim-t-90751"></a>
 - t-004
   global_id: t-90751
@@ -150,7 +150,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   temporalinis_llm_pakomentavimas: "Teiginys sutampa su citatos informacija apie 1243 m. įvykius Kulmo žemėje."
   pagrindžia:
     - c-86525
-
+    - c-86533
+    - c-005
 <a id="claim-t-90754"></a>
 - t-007
   global_id: t-90754
@@ -186,7 +187,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86523
-
+    - c-003
+    - c-167556
 <a id="claim-t-90756"></a>
 - t-009
   global_id: t-90756
@@ -203,7 +205,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86534
-
+    - c-013
 <a id="claim-t-90758"></a>
 - t-010
   global_id: t-90758
@@ -828,8 +830,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-90755
 - c-005
   santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -846,8 +847,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-90757
 - c-013
   santrauka: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -864,8 +864,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-90756
 ## Citatos
 
 - id: c-32163
@@ -888,7 +887,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindzia:
     - t-90747
     - t-90754
-
 - id: c-46553
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -909,7 +907,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90752
-
 - id: c-86523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -935,7 +932,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90755
-
 - id: c-86524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -953,7 +949,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90759
-
 - id: c-86525
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -996,7 +991,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90751
-
 - id: c-86528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1025,7 +1019,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90758
-
 - id: c-86529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1045,7 +1038,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90760
-
 - id: c-86531
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1066,7 +1058,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90748
-
 - id: c-86532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1088,7 +1079,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90749
-
 - id: c-86533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1108,8 +1098,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90753
-
+    - t-90757
 - id: c-86534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1140,7 +1129,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90756
-
 - id: c-167555
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1201,7 +1189,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192680
-
 - id: c-179048
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1223,7 +1210,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197175
-
 - id: c-179380
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1245,7 +1231,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197885
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Prūsai]]
 - Buvo pastatyta: [[objektai/asmenys/Hermanas (Ordino magistras)]], [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

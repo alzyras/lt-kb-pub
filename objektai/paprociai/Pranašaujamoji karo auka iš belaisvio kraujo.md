@@ -59,7 +59,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172738
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pranašaujamąją karo auką aprašė kaip apeigą, kai žynys smogdavo belaisviui į krūtinę ir iš kraujo spręsdavo apie karo sėkmę.'
@@ -78,8 +78,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189855
 ## Citatos
 
 - id: c-172738

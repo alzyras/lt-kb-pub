@@ -166,7 +166,6 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   pagrindzia:
     - t-185428
     - t-196099
-
 - id: c-168790
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -192,7 +191,6 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185429
-
 - id: c-168791
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -222,7 +220,6 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185430
-
 - id: c-168792
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -261,7 +258,6 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196101
-
 - id: c-178528
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -287,6 +283,5 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196100
-
 ## Ryšiai
 - Lenkų senatas siuntė į [[objektai/vietos/Lietuva]]

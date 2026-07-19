@@ -41,7 +41,7 @@ Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 1
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173013
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 15 pav.'
@@ -58,8 +58,7 @@ Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190130
 ## Citatos
 
 - id: c-173013

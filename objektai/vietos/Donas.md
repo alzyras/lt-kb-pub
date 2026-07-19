@@ -192,7 +192,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36196
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Sarmatai]]

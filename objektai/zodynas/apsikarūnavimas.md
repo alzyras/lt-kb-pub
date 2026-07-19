@@ -100,7 +100,6 @@ Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36767
-
 - id: c-38721
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

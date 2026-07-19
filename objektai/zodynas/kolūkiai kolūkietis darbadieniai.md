@@ -97,7 +97,6 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22194
-
 - id: c-166830
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

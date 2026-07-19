@@ -334,7 +334,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189481
-
 - id: c-172369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -359,7 +358,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189482
-
 - id: c-172370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -394,7 +392,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189483
-
 - id: c-175255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -420,7 +417,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192461
-
 - id: c-175258
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -448,7 +444,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   pagrindzia:
     - t-192464
     - t-197519
-
 - id: c-175259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -475,7 +470,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192465
-
 - id: c-176068
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -500,7 +494,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193340
-
 - id: c-176069
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -532,7 +525,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193341
-
 - id: c-176070
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -555,7 +547,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193342
-
 - id: c-176072
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -586,7 +577,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193343
-
 - id: c-176073
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -609,7 +599,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193345
-
 - id: c-176076
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -644,7 +633,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193348
-
 - id: c-177262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -668,7 +656,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194866
-
 - id: c-177263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -695,7 +682,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194867
-
 - id: c-178544
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -716,7 +702,6 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196124
-
 - id: c-178545
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

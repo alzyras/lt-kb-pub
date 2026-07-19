@@ -138,7 +138,6 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   pagrindzia:
     - t-32099
     - t-184384
-
 - id: c-33813
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -159,7 +158,6 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32100
-
 - id: c-167752
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

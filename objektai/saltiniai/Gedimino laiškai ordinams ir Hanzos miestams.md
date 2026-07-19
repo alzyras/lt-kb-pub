@@ -133,7 +133,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172983
-
 - id: c-157319
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -171,7 +170,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172979
-
 - id: c-157320
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -201,7 +199,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172980
-
 - id: c-157321
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

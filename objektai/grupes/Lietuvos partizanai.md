@@ -116,7 +116,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22635
-
+    - c-166549
 <a id="claim-t-74765"></a>
 - t-005
   global_id: t-74765
@@ -195,7 +195,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74760
-
 - id: c-22634
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -215,7 +214,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74759
-
 - id: c-22635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -238,7 +236,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74764
-
 - id: c-22636
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -264,7 +261,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74765
-
 - id: c-22637
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -287,7 +283,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74766
-
 - id: c-72777
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -313,7 +308,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74763
-
 - id: c-166549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -352,6 +346,5 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193555
-
 ## Ryšiai
 - Lietuvos partizanai valdė [[objektai/vietos/Lietuva]]

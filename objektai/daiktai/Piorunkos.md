@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172580
-
+    - c-001
 <a id="claim-t-189698"></a>
 - t-002
   global_id: t-189698
@@ -85,7 +85,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172581
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'XV amžiuje kursavo lenkiški grašiai, vadinti piorunkomis, kuriuos Kojalavičius skyrė nuo Lietuvoje žinotų auksinių ir sidabrinių perunų.'
@@ -103,8 +103,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189697
 - c-002
   santrauka: 'Narbutas piorunkomis vadina Petro iš Kurozvenkų kaldintus lenkiškuosius grašius, kurie, pasak jo, turėjo tik pusę vertės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -122,8 +121,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189698
 ## Citatos
 
 - id: c-172580
@@ -145,7 +143,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189697
-
 - id: c-172581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -44,7 +44,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60817
-
+    - c-001
 <a id="claim-t-60186"></a>
 - t-002
   global_id: t-60186
@@ -62,6 +62,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   semantiniai_rysiai: "Numa gyveno Pagudė (0.86); Derska gyveno Pagudė (0.86)"
   pagrindžia:
     - c-60818
+    - c-002
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-184473|Bartai]]: Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.
@@ -91,8 +92,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60185
 - c-002
   santrauka: 'Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,8 +114,7 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60186
 ## Citatos
 
 - id: c-60817
@@ -142,7 +141,6 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60185
-
 - id: c-60818
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

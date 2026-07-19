@@ -50,6 +50,7 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175673
+    - c-001
 - susijęs iš [[objektai/grupes/Kartaginiečiai.md#claim-t-192952|Kartaginiečiai]]: Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio stulpų iki Gadiros ir Tarteso uosto.
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192956|Masiliečiai]]: Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo iki Tarteso tų pačių prekių kaip kartaginiečiai.
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
@@ -77,8 +78,7 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192903
 ## Citatos
 
 - id: c-175673

@@ -101,7 +101,6 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35029
-
 - id: c-37985
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -123,6 +122,5 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35030
-
 ## Ryšiai
 - Andrius Vosylius Jastrzębiecas keliavo į [[objektai/vietos/Vilnius]]

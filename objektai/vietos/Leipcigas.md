@@ -147,7 +147,6 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83728
-
 - id: c-79985
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -171,7 +170,6 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   pagrindzia:
     - t-83727
     - t-83730
-
 - id: c-79986
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

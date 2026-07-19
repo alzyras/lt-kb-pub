@@ -184,6 +184,7 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37853
+    - c-167696
 - susijęs iš [[objektai/asmenys/Spytkas iš Melsztyno.md#claim-t-30384|Spytkas iš Melsztyno]]: Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54946|Andrius Algirdaitis]]: Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m.
 - susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30264|Hlebas]]: Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais.
@@ -285,7 +286,6 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178748
-
 - id: c-37853
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -304,7 +304,6 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178750
-
 - id: c-44046
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -341,7 +340,6 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   pagrindzia:
     - t-178743
     - t-178744
-
 - id: c-162442
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -361,7 +359,6 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178746
-
 - id: c-162443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -389,7 +386,6 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178745
-
 - id: c-162445
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -410,7 +406,6 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178747
-
 - id: c-162446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -434,7 +429,6 @@ Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su A
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178749
-
 - id: c-167696
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

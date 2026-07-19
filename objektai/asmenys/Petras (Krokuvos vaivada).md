@@ -120,7 +120,6 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186155
-
 - id: c-178775
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -57,7 +57,7 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-57653
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prastuomenė Dusburgiečio kronikoje vadinama communis populus arba ignobiles.'
@@ -74,8 +74,7 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-56951
 ## Citatos
 
 - id: c-57653

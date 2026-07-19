@@ -128,7 +128,6 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
   pagrindzia:
     - t-185380
     - t-196366
-
 - id: c-168742
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

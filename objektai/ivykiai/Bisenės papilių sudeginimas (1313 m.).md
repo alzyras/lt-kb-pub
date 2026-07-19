@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai atitinka citatos turinį."
   pagrindžia:
     - c-62686
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenę, o po ilgų kovų sudegė abu jos papiliai.'
@@ -90,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62207
 ## Citatos
 
 - id: c-62686

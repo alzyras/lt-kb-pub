@@ -79,6 +79,7 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171440
+    - c-002
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87352|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu.
 - susijęs iš Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.
 - susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-87163|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: 1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.
@@ -101,8 +102,7 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188551
 ## Citatos
 
 - id: c-83891
@@ -130,7 +130,6 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87912
-
 - id: c-171440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

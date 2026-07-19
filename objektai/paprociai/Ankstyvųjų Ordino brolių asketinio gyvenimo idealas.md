@@ -84,7 +84,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63396
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kronikos pratarmėje Dusburgietis idealizuoja pirmuosius Ordino brolius, pasirinkusius neturtą, pavojus, rūpesčius ir vienatvę.'
@@ -102,8 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62666
 ## Citatos
 
 - id: c-63395
@@ -125,7 +124,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62665
-
 - id: c-63396
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

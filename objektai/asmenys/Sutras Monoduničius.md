@@ -72,6 +72,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174207
+    - c-002
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1227 m. jotvingių antpuoliai pasiekė Voluinės Vladimirą, kur buvo suimti Sutras Monoduničius ir Stegutas Zebrovičius.
 - susijęs iš [[objektai/asmenys/Gotardas.md#claim-t-191405|Gotardas]]: Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus.
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190906|Konradas]]: Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru.
@@ -91,8 +92,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191325
 ## Citatos
 
 - id: c-174206
@@ -121,7 +121,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191324
-
 - id: c-174207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

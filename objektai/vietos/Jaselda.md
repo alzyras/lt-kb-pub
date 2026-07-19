@@ -108,7 +108,6 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184963
-
 - id: c-184412
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

@@ -117,7 +117,6 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58422
-
 - id: c-59054
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

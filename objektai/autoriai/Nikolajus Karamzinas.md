@@ -124,7 +124,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173653
-
+    - c-004
 <a id="claim-t-190772"></a>
 - t-005
   global_id: t-190772
@@ -222,8 +222,7 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190771
 ## Citatos
 
 - id: c-173190
@@ -249,7 +248,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190307
-
 - id: c-173191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -268,7 +266,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190308
-
 - id: c-173652
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -290,7 +287,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190770
-
 - id: c-173653
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -312,7 +308,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190771
-
 - id: c-173654
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -333,7 +328,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190772
-
 - id: c-174780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -358,7 +352,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191898
-
 - id: c-177282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -374,7 +367,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194886
-
 - id: c-179266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -397,7 +389,6 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197626
-
 - id: c-179267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

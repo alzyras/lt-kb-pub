@@ -102,7 +102,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   temporalinis_llm_pakomentavimas: "Išskleistas laiško autorius, adresatas, data ir liudijimo objektas. Nepridėta papildomų teiginių apie monetų kilmę ar lobio sudėtį."
   pagrindžia:
     - c-171365
-
+    - c-003
 <a id="claim-t-188476"></a>
 - t-004
   global_id: t-188476
@@ -122,7 +122,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171366
-
+    - c-004
 <a id="claim-t-197337"></a>
 - t-005
   global_id: t-197337
@@ -168,8 +168,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188475
 - c-004
   santrauka: 'Redakcinėje pastaboje spėjama, kad Raseinių korespondentas galėjo būti Simonas Stanevičius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -185,8 +184,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188476
 ## Citatos
 
 - id: c-154578
@@ -214,7 +212,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169894
-
 - id: c-166738
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -244,7 +241,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183347
-
 - id: c-171365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -270,7 +266,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   pagrindzia:
     - t-188475
     - t-197337
-
 - id: c-171366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

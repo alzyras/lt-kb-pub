@@ -226,7 +226,6 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86735
-
 - id: c-82714
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -249,7 +248,6 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86736
-
 - id: c-82715
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -282,7 +280,6 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86734
-
 - id: c-170670
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -302,7 +299,6 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187731
-
 - id: c-175227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -329,7 +325,6 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192433
-
 - id: c-175228
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -355,6 +350,5 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192434
-
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/grupes/Kryžiuočių ordinas]]

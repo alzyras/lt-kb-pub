@@ -51,7 +51,7 @@ Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai i
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175746
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi.'
@@ -76,8 +76,7 @@ Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192976
 ## Citatos
 
 - id: c-175746
@@ -103,6 +102,5 @@ Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192976
-
 ## Ryšiai
 - Turcilingai paskyrė [[objektai/asmenys/Odoakras]]

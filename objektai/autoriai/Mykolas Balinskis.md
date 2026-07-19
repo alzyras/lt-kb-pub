@@ -242,7 +242,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171346
-
+    - c-010
 <a id="claim-t-190768"></a>
 - t-011
   global_id: t-190768
@@ -266,7 +266,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173650
-
+    - c-011
 <a id="claim-t-190769"></a>
 - t-012
   global_id: t-190769
@@ -287,6 +287,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173651
+    - c-012
 - susijęs iš [[objektai/asmenys/Juozapas Ignas Kraševskis.md#claim-t-87433|Juozapas Ignas Kraševskis]]: Juozapas Ignas Kraševskis beveik tuo pat metu kaip M. Balinskis rašė savo Vilniaus miesto istoriją.
 - susijęs iš [[objektai/asmenys/Jurgis Sniadeckis.md#claim-t-87744|Jurgis Sniadeckis]]: Jurgis Sniadeckis buvo universiteto profesorius, kurio dukrą Zofiją 1820 m. vedė M. Balinskis.
 - susijęs iš [[objektai/asmenys/Mikalojus Kopernikas.md#claim-t-87785|Mikalojus Kopernikas]]: Mikalojus Kopernikas buvo astronomas, kurio raštus rengė M. Balinskis.
@@ -448,8 +449,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-188456
 - c-011
   santrauka: 'Mykolui Balinskiui priskiriami straipsniai, kurių dauguma kritikavo 1856 m. T. Narbuto „Mažesniuosius istorinius raštus“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -470,8 +470,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-190768
 - c-012
   santrauka: 'Mykolas Balinskis galėjo būti anoniminės „Lietuvių mitologijos“ recenzijos autorius, bet citatoje ši autorystė pateikiama tik kaip hipotezė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -488,8 +487,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-190769
 ## Citatos
 
 - id: c-55264
@@ -513,7 +511,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55015
-
 - id: c-55265
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -533,7 +530,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55010
-
 - id: c-55266
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -552,7 +548,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55012
-
 - id: c-55267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -577,7 +572,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55011
-
 - id: c-55268
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -597,7 +591,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55013
-
 - id: c-55269
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -617,7 +610,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55014
-
 - id: c-55270
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -656,7 +648,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55017
-
 - id: c-55271
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -677,7 +668,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55016
-
 - id: c-55272
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -703,7 +693,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64768
-
 - id: c-171346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -725,7 +714,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188456
-
 - id: c-173650
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -749,7 +737,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190768
-
 - id: c-173651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

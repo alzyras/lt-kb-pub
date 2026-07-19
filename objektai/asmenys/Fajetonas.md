@@ -48,7 +48,7 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174148
-
+    - c-001
 <a id="claim-t-191267"></a>
 - t-002
   global_id: t-191267
@@ -101,8 +101,7 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191266
 ## Citatos
 
 - id: c-174148
@@ -130,7 +129,6 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191266
-
 - id: c-174149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

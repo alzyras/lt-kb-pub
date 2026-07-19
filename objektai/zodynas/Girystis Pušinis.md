@@ -49,7 +49,7 @@ Narbutas Girystį (Giristį), Bogušo minimą miško dievaitį, sieja su kaimie�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172111
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Girystį (Giristį), Bogušo minimą miško dievaitį, sieja su kaimiečių pasakojimuose vadintu Pušiniu (Pusinas).'
@@ -67,8 +67,7 @@ Narbutas Girystį (Giristį), Bogušo minimą miško dievaitį, sieja su kaimie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189223
 ## Citatos
 
 - id: c-172111

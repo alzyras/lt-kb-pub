@@ -58,8 +58,7 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Numeruotas fragmentas paverstas sakiniu apie note objektą ir išlaikyta šaltinio-pastabos atribucija. Neplėsta į Jogailos vedybų ar Lietuvos krikšto pasakojimą.'
   pagrindžia:
-    - c-176767
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos.'
@@ -79,8 +78,7 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194154
 ## Citatos
 
 - id: c-176766

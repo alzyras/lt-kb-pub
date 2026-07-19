@@ -99,7 +99,6 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93182
-
 - id: c-88582
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -120,6 +119,5 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93183
-
 ## Ryšiai
 - Benediktas Makras siuntė į [[objektai/vietos/Lietuva]]

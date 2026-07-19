@@ -155,7 +155,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193666
-
 - id: c-176336
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -180,7 +179,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193667
-
 - id: c-176337
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -199,7 +197,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193668
-
 - id: c-176477
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -223,7 +220,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193833
-
 - id: c-176478
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -249,7 +245,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196780
-
 - id: c-176479
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -272,7 +267,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193835
-
 - id: c-178903
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

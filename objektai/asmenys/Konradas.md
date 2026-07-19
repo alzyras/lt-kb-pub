@@ -286,7 +286,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79083
-
 - id: c-76178
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -308,7 +307,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79084
-
 - id: c-173788
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -337,7 +335,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190906
-
 - id: c-173789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -364,7 +361,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190907
-
 - id: c-184352
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -398,7 +394,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201002
-
 - id: c-184353
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -418,7 +413,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201003
-
 - id: c-184354
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -445,7 +439,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201004
-
 ## Ryšiai
 - Konradas buvo valdovas [[objektai/vietos/Mazovija]]
 - Konradas valdė [[objektai/vietos/Drohičinas]]

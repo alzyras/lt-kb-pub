@@ -78,6 +78,5 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42205
-
 ## Ryšiai
 - Užėmė Troškūnai: [[objektai/grupes/Panevėžio rinktinė]]

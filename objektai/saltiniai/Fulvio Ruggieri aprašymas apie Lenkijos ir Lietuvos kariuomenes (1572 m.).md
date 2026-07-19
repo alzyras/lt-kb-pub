@@ -127,7 +127,6 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
   pagrindzia:
     - t-78835
     - t-78837
-
 - id: c-75976
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

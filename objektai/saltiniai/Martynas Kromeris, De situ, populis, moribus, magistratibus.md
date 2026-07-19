@@ -48,7 +48,7 @@ Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, mag
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174676
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, magistratibus“ poloviečius vadina gotais ir šios nuomonės nelaiko visai nepagrįsta.'
@@ -63,8 +63,7 @@ Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, mag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191794
 ## Citatos
 
 - id: c-174676

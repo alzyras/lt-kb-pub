@@ -106,7 +106,6 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87386
-
 - id: c-83365
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

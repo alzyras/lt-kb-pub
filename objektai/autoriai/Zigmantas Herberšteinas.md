@@ -83,7 +83,6 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193824
-
 - id: c-176469
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

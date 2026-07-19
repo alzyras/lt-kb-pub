@@ -2494,8 +2494,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-24560
@@ -2513,7 +2511,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91447
-
 - id: c-24561
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2535,7 +2532,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91448
-
 - id: c-87155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2552,7 +2548,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91446
-
 - id: c-87157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2571,7 +2566,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91450
-
 - id: c-171737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

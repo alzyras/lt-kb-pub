@@ -67,5 +67,5 @@ Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas. Jonas Pliateris tuo metu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
+    - t-200515
+    - t-200516

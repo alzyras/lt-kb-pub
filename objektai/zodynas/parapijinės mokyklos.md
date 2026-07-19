@@ -92,7 +92,6 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72713
-
 - id: c-71093
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

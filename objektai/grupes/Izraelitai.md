@@ -63,7 +63,7 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176966
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Iš mitolo gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei.'
@@ -81,8 +81,7 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194566
 ## Citatos
 
 - id: c-172378
@@ -104,7 +103,6 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189490
-
 - id: c-176966
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

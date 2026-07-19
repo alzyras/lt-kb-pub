@@ -220,7 +220,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   semantiniai_rysiai: "Baltai kariavo prieš Vokiečiai (0.84)"
   pagrindžia:
     - c-90795
-
+    - c-004
 <a id="claim-t-96088"></a>
 - t-011
   global_id: t-96088
@@ -573,8 +573,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-96087
 ## Citatos
 
 - id: c-31042
@@ -600,7 +599,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96077
-
 - id: c-31043
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -622,7 +620,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96085
-
 - id: c-90794
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -641,7 +638,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96078
-
 - id: c-90795
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -664,7 +660,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96087
-
 - id: c-90796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -683,7 +678,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96083
-
 - id: c-90797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -698,7 +692,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96076
-
 - id: c-90798
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -718,7 +711,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96088
-
 - id: c-90799
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -741,7 +733,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96080
-
 - id: c-90800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -767,7 +758,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96086
-
 - id: c-90803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -792,7 +782,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96081
-
 - id: c-90804
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -815,7 +804,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96084
-
 - id: c-166507
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -834,7 +822,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183122
-
 - id: c-179219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -855,7 +842,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197490
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Bartai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Sembai]]
 - Baltai gyveno [[objektai/vietos/Baltija]], [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]], [[objektai/vietos/Okos baseinai]]

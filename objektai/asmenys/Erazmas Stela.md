@@ -50,7 +50,7 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174029
-
+    - c-001
 <a id="claim-t-194701"></a>
 - t-002
   global_id: t-194701
@@ -87,8 +87,7 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191147
 ## Citatos
 
 - id: c-174029
@@ -118,7 +117,6 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191147
-
 - id: c-177097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

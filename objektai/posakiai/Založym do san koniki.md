@@ -75,4 +75,4 @@ Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189570

@@ -49,7 +49,7 @@ Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę liet
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174361
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai.'
@@ -81,8 +81,7 @@ Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191479
 ## Citatos
 
 - id: c-174361

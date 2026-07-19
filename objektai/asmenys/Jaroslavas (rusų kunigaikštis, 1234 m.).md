@@ -88,6 +88,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40177
-
 ## Ryšiai
 - Jaroslavas (rusų kunigaikštis, 1234 m.) sudarė sutartį su [[objektai/grupes/Kalavijuočių ordinas]]

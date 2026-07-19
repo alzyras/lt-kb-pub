@@ -131,7 +131,6 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64821
-
 - id: c-22185
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

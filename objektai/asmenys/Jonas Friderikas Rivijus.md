@@ -48,7 +48,7 @@ Narbutas laikė labiau tikėtina, kad Jonas Friderikas Rivijus kai kuriuos kroni
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172952
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas laikė labiau tikėtina, kad Jonas Friderikas Rivijus kai kuriuos kronikos dalykus perėmė iš senelio užrašų, o ne iš turėtos Rotundo Lietuvos istorijos.'
@@ -68,8 +68,7 @@ Narbutas laikė labiau tikėtina, kad Jonas Friderikas Rivijus kai kuriuos kroni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190069
 ## Citatos
 
 - id: c-172952

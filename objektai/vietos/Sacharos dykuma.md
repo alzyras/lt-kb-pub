@@ -49,7 +49,7 @@ Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą prip
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171949
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą pripažino ir Afrikos Sacharos dykumos gyventojams.'
@@ -73,8 +73,7 @@ Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą prip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189060
 ## Citatos
 
 - id: c-171949

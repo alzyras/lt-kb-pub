@@ -56,7 +56,7 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškų faktą apie leidinio pobūdį."
   pagrindžia:
     - c-23823
-
+    - c-48407
 <a id="claim-t-45688"></a>
 - t-002
   global_id: t-45688
@@ -109,5 +109,5 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45687
+    - t-45689
     - t-45688

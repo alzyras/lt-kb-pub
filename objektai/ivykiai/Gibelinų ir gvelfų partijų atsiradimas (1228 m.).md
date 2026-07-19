@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-62785
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas – bažnyčią.'
@@ -88,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62268
 ## Citatos
 
 - id: c-62785

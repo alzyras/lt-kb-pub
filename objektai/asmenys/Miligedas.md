@@ -46,7 +46,7 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   semantiniai_rysiai: "Miligedas keliavo į Bartenšteinas (0.93)"
   pagrindžia:
     - c-60805
-
+    - c-001
 <a id="claim-t-60174"></a>
 - t-002
   global_id: t-60174
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60806
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.'
@@ -80,8 +80,7 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60173
 - c-002
   santrauka: 'Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -96,8 +95,7 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60174
 ## Citatos
 
 - id: c-60805
@@ -121,7 +119,6 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60173
-
 - id: c-60806
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -143,6 +140,5 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60174
-
 ## Ryšiai
 - Miligedas keliavo į [[objektai/vietos/Bartenšteinas]]

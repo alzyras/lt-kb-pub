@@ -133,7 +133,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65604
-
+    - c-003
 <a id="claim-t-65113"></a>
 - t-006
   global_id: t-65113
@@ -223,8 +223,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-65112
 ## Citatos
 
 - id: c-65602
@@ -243,7 +242,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65108
-
 - id: c-65603
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -264,7 +262,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65109
-
 - id: c-65604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -288,7 +285,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65112
-
 - id: c-65605
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -313,7 +309,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65111
-
 - id: c-65606
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -356,7 +351,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   pagrindzia:
     - t-65110
     - t-65113
-
 - id: c-175169
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -383,7 +377,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192375
-
 - id: c-184266
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -401,7 +394,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200916
-
 - id: c-184267
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

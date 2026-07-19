@@ -57,7 +57,7 @@ Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bi
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174488
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis, rašė 997-1006 metais.'
@@ -79,8 +79,7 @@ Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191606
 ## Citatos
 
 - id: c-174488

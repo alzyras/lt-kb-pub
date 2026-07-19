@@ -67,7 +67,7 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   vertinimo_atnaujinta: "2026-07-02T09:57:54Z"
   pagrindžia:
     - c-171049
-
+    - c-001
 <a id="claim-t-188164"></a>
 - t-002
   global_id: t-188164
@@ -81,6 +81,7 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   vertinimo_atnaujinta: "2026-07-02T09:57:54Z"
   pagrindžia:
     - c-171052
+    - c-002
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188639|Teodoras Narbutas]]: Teodoras Narbutas Šaurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą.
 - susijęs iš [[objektai/autoriai/Francua Žozefas Noelis.md#claim-t-190297|Francua Žozefas Noelis]]: Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje.
 - susijęs iš [[objektai/daiktai/Šaurų dvaro muziejaus eksponatai.md#claim-t-189705|Šaurų dvaro muziejaus eksponatai]]: Rusijos valdžiai sekvestravus Šaurų dvarą, jo muziejaus eksponatai, knygos ir archyvai buvo suvežti į vieną Vilniaus bažnyčią.
@@ -110,8 +111,7 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188163
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -127,8 +127,7 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188164
 ## Citatos
 
 - id: c-171049
@@ -152,7 +151,6 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188163
-
 - id: c-171052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -53,7 +53,7 @@ Dusburgietis teigia, kad powierski J.
   temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį teiginį apie publikavimo vietą ir metus."
   pagrindžia:
     - c-61870
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad powierski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61238
 ## Citatos
 
 - id: c-61870

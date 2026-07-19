@@ -85,7 +85,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172687
-
+    - c-002
 <a id="claim-t-189805"></a>
 - t-003
   global_id: t-189805
@@ -106,7 +106,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172688
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Grunau pasakojimu, per ožio aukojimą vyrai klaupėsi prieš vaidilą, išpažindavo nuodėmes ir gaudavo fizinę atgailą.'
@@ -126,8 +126,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189804
 - c-003
   santrauka: 'Narbutas aiškino, kad po krikščionybės įvedimo lietuvių išpažintis mėgdžiojo katalikų išpažintį, bet turėjo senesnių stabmeldiškų bruožų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -151,8 +150,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189805
 ## Citatos
 
 - id: c-172686
@@ -174,7 +172,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189803
-
 - id: c-172687
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -202,7 +199,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189804
-
 - id: c-172688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

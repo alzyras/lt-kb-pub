@@ -117,7 +117,6 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88221
-
 - id: c-84201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -147,7 +146,6 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88222
-
 - id: c-84202
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

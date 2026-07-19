@@ -86,7 +86,6 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60180
-
 - id: c-60812
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -110,6 +109,5 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60179
-
 ## Ryšiai
 - Paskyrė Naudžiotą (karvedys): [[objektai/grupes/Sembai]]

@@ -107,7 +107,6 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60991
-
 - id: c-61623
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -48,7 +48,7 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173437
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę.'
@@ -73,8 +73,7 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190554
 ## Citatos
 
 - id: c-173437

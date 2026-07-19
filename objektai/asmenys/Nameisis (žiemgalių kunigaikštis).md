@@ -112,7 +112,6 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40367
-
 - id: c-167144
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

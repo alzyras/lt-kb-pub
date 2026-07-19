@@ -137,7 +137,6 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   pagrindzia:
     - t-20870
     - t-183503
-
 - id: c-166898
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

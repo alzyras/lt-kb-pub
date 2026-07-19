@@ -105,7 +105,7 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171378
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos.'
@@ -123,8 +123,7 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188488
 ## Citatos
 
 - id: c-170963
@@ -150,7 +149,6 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
   pagrindzia:
     - t-188029
     - t-188030
-
 - id: c-171378
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

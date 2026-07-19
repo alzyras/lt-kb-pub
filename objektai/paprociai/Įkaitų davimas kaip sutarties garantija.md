@@ -128,7 +128,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67232
-
+    - c-005
 <a id="claim-t-67241"></a>
 - t-005
   global_id: t-67241
@@ -193,8 +193,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-67239
 ## Citatos
 
 - id: c-14489
@@ -215,7 +214,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67243
-
 - id: c-14490
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -233,7 +231,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67238
-
 - id: c-14492
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -252,7 +249,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67236
-
 - id: c-14493
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -273,7 +269,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67242
-
 - id: c-67232
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -293,7 +288,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67239
-
 - id: c-67233
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -313,7 +307,6 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67237
-
 - id: c-67235
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

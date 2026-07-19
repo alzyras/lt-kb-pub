@@ -124,7 +124,6 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186082
-
 - id: c-169444
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -157,7 +156,6 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186083
-
 - id: c-169445
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -181,6 +179,5 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196608
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Giliginas]]

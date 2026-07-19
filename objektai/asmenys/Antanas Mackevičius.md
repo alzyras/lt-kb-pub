@@ -194,7 +194,6 @@ Mackevičius, vėliau K.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75694
-
 - id: c-41831
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -215,7 +214,6 @@ Mackevičius, vėliau K.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75697
-
 - id: c-41832
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -234,7 +232,6 @@ Mackevičius, vėliau K.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75701
-
 - id: c-41833
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -258,7 +255,6 @@ Mackevičius, vėliau K.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75700
-
 - id: c-41834
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -282,7 +278,6 @@ Mackevičius, vėliau K.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75696
-
 - id: c-41835
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -306,7 +301,6 @@ Mackevičius, vėliau K.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75699
-
 - id: c-73410
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -332,7 +326,6 @@ Mackevičius, vėliau K.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75695
-
+    - t-75698
 ## Ryšiai
 - Paskyrė Antanas Mackevičių: [[objektai/asmenys/Zigmantas Sierakauskas]]

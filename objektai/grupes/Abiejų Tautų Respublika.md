@@ -846,7 +846,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80771
-
 - id: c-26822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -868,7 +867,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80775
-
 - id: c-26823
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -902,7 +900,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindzia:
     - t-80773
     - t-80782
-
 - id: c-26824
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -924,7 +921,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindzia:
     - t-80771
     - t-80779
-
 - id: c-26825
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -945,7 +941,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80780
-
 - id: c-26826
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -969,7 +964,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindzia:
     - t-80777
     - t-80781
-
 - id: c-26827
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -994,7 +988,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindzia:
     - t-80772
     - t-80773
-
 - id: c-26828
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1016,7 +1009,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindzia:
     - t-80769
     - t-80773
-
 - id: c-42627
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1038,7 +1030,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80783
-
 - id: c-77418
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1060,7 +1051,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80774
-
 - id: c-77420
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1089,7 +1079,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80770
-
 - id: c-77421
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1112,7 +1101,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80776
-
 - id: c-176784
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1139,6 +1127,5 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194171
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Zigmantas III]]

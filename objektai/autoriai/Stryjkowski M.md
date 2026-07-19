@@ -46,7 +46,7 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus veikalo pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-65439
-
+    - c-002
 <a id="claim-t-64852"></a>
 - t-002
   global_id: t-64852
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
   temporalinis_llm_pakomentavimas: "Citata pagrindžia konkretaus veikalo tomo leidimo vietą ir metus."
   pagrindžia:
     - c-65438
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m.'
@@ -80,8 +80,7 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-64852
 - c-002
   santrauka: 'M. Stryjkowskis 1582 m. Karaliaučiuje paskelbė „Kronika polska, litewska, żmódzka i wszystkiej Rusi“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -94,8 +93,7 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-64851
 ## Citatos
 
 - id: c-65438
@@ -115,7 +113,6 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64852
-
 - id: c-65439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

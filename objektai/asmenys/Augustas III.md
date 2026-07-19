@@ -141,7 +141,6 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82228
-
 - id: c-78718
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -160,7 +159,6 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82222
-
 - id: c-78719
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -180,7 +178,6 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82224
-
 - id: c-78720
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

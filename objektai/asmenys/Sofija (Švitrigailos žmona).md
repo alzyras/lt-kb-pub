@@ -90,6 +90,5 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87855
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]

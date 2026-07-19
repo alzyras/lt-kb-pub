@@ -77,7 +77,7 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171509
-
+    - c-002
 <a id="claim-t-188621"></a>
 - t-003
   global_id: t-188621
@@ -127,8 +127,7 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188620
 ## Citatos
 
 - id: c-83580
@@ -181,7 +180,6 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87601
-
 - id: c-171509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -206,7 +204,6 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188620
-
 - id: c-171510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -229,7 +226,6 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188621
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Rėmė Tautvilą: [[objektai/grupes/Rusai]]

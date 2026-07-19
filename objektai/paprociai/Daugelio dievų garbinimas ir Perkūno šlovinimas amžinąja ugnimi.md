@@ -63,7 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169275
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos krikšto aprašyme bajorų ir kunigaikščių pagonybė siejama su daugelio dievų garbinimu ir Perkūno šlovinimu amžinąja ugnimi.'
@@ -82,8 +82,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185914
 ## Citatos
 
 - id: c-169275

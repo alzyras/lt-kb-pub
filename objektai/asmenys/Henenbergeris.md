@@ -288,9 +288,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-    - t-013
-
 ## Citatos
 
 - id: c-172886
@@ -318,7 +315,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   pagrindzia:
     - t-190003
     - t-197399
-
 - id: c-172887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -341,7 +337,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190004
-
 - id: c-172888
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -360,7 +355,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190005
-
 - id: c-172889
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -384,7 +378,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190006
-
 - id: c-172890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -407,7 +400,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190007
-
 - id: c-172891
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -429,7 +421,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190008
-
 - id: c-173746
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -455,7 +446,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190864
-
 - id: c-173747
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -486,7 +476,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   pagrindzia:
     - t-190865
     - t-197743
-
 - id: c-174833
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -506,7 +495,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191951
-
 - id: c-177101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

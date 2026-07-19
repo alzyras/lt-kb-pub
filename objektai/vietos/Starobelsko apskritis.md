@@ -79,6 +79,5 @@ Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192855
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Gelonai]]

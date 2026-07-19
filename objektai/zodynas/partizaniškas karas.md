@@ -75,7 +75,6 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70270
-
 - id: c-69325
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

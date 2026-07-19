@@ -282,7 +282,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108580
-
 - id: c-00274
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -305,7 +304,6 @@ Nenurodyta
   pagrindzia:
     - t-108568
     - t-108577
-
 - id: c-24661
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -325,7 +323,6 @@ Nenurodyta
   pagrindzia:
     - t-108574
     - t-108579
-
 - id: c-100721
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -346,7 +343,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108575
-
 - id: c-100725
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -366,7 +362,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108583
-
 - id: c-100726
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -390,8 +385,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-108576
-
+    - t-108582
 - id: c-100727
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -411,7 +405,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108573
-
 - id: c-100728
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -429,7 +422,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108570
-
 - id: c-175893
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

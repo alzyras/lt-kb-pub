@@ -123,7 +123,6 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58517
-
 - id: c-59150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

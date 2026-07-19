@@ -56,7 +56,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172642
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad prie šventyklų buvę šventieji šuliniai ar šaltiniai teikė apeigoms reikalingą vandenį.'
@@ -75,8 +75,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189759
 ## Citatos
 
 - id: c-172642

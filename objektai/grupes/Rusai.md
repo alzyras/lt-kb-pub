@@ -278,7 +278,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   sudarymo_pagrindimas: 'Palikta istorikų atribucija, nes tai kilmės ir vardo aiškinimas. Nepridėta Rimuko, variagų ir Baltijos pakrančių valdymo detalių.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Rusia; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_place: Baltija'
   pagrindžia:
-    - c-175247
+    - c-009
 - susijęs iš [[objektai/grupes/Vytauto būrys.md#claim-t-39019|Vytauto būrys]]: 14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą.
 - susijęs iš [[objektai/asmenys/Heiraudas.md#claim-t-191410|Heiraudas]]: Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo.
 - susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams rašoma, kad valdovas pasiuntė popiežiui Jonui laišką dėl krikšto ir laukė jo pasiuntinių.
@@ -1764,8 +1764,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-192453
 ## Citatos
 
 - id: c-31253
@@ -1787,7 +1786,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117253
-
 - id: c-42906
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1812,7 +1810,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   pagrindzia:
     - t-117251
     - t-117255
-
 - id: c-42907
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1837,7 +1834,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117248
-
 - id: c-107970
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1858,7 +1854,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117252
-
 - id: c-107971
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1897,7 +1892,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   pagrindzia:
     - t-117249
     - t-117250
-
 - id: c-107974
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1916,7 +1910,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117254
-
 - id: c-107975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1939,7 +1932,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117247
-
 - id: c-167941
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1977,7 +1969,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184580
-
 - id: c-175886
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2004,7 +1995,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193127
-
 - id: c-176065
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2034,7 +2024,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193337
-
 - id: c-178540
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2066,7 +2055,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196120
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kazokai]]
 - Turėjo valdovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Heiraudas]]

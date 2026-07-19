@@ -83,7 +83,7 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32665
-
+    - c-167727
 <a id="claim-t-47929"></a>
 - t-002
   global_id: t-47929
@@ -145,7 +145,6 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47928
-
 - id: c-32666
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -171,7 +170,6 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   pagrindzia:
     - t-47929
     - t-47930
-
 - id: c-167727
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

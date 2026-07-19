@@ -55,8 +55,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Sventopelkas pastatė Santyras (0.98)"
   pagrindžia:
-    - c-56165
-
+    - c-007
 <a id="claim-t-90012"></a>
 - t-002
   global_id: t-90012
@@ -147,7 +146,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   semantiniai_rysiai: "Sventopelkas puolė Kulmas (0.94); Sventopelkas keliavo į Vysla (0.64)"
   pagrindžia:
     - c-85925
-
+    - c-019
 <a id="claim-t-90017"></a>
 - t-007
   global_id: t-90017
@@ -164,7 +163,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56163
-
+    - c-005
 <a id="claim-t-90018"></a>
 - t-008
   global_id: t-90018
@@ -306,7 +305,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   semantiniai_rysiai: "Sventopelkas puolė Kulmas (0.90); Sventopelkas buvo sąjungininkas su Sūduviai (0.76)"
   pagrindžia:
     - c-56160
-
+    - c-004
 <a id="claim-t-90026"></a>
 - t-016
   global_id: t-90026
@@ -342,7 +341,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   semantiniai_rysiai: "Sventopelkas pastatė Santyras (0.82)"
   pagrindžia:
     - c-56166
-
+    - c-56165
 <a id="claim-t-90028"></a>
 - t-018
   global_id: t-90028
@@ -379,7 +378,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   semantiniai_rysiai: "Sventopelkas puolė Kulmas (0.90)"
   pagrindžia:
     - c-85925
-
+    - c-019
 <a id="claim-t-90030"></a>
 - t-020
   global_id: t-90030
@@ -417,7 +416,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85918
-
+    - c-012
 <a id="claim-t-90033"></a>
 - t-022
   global_id: t-90033
@@ -452,7 +451,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85922
-
+    - c-016
 <a id="claim-t-90035"></a>
 - t-023
   global_id: t-90035
@@ -507,7 +506,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   semantiniai_rysiai: "Sventopelkas puolė Kulmas (0.70)"
   pagrindžia:
     - c-56160
-
+    - c-004
 <a id="claim-t-90038"></a>
 - t-028
   global_id: t-90038
@@ -517,7 +516,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85918
-
+    - c-012
 <a id="claim-t-90039"></a>
 - t-026
   global_id: t-90039
@@ -592,8 +591,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173855
-
+    - c-026
 <a id="claim-t-190974"></a>
 - t-032
   global_id: t-190974
@@ -615,7 +613,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173856
-
+    - c-173855
 <a id="claim-t-194519"></a>
 - t-035
   global_id: t-194519
@@ -628,7 +626,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85925
-
+    - c-019
 <a id="claim-t-194520"></a>
 - t-034
   global_id: t-194520
@@ -842,9 +840,8 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027
-    - t-015
-
+    - t-90025
+    - t-90037
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -863,8 +860,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-90017
 - c-007
   santrauka: 'Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -880,8 +876,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-90011
 - c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -900,9 +895,8 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028
-    - t-021
-
+    - t-90031
+    - t-90038
 - c-016
   santrauka: 'Sventopelkas per Henriką iš Lichtenšteino skundėsi broliais ir reikalavo grąžinti sūnų, duotą jiems kaip įkaitą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -926,8 +920,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
-
+    - t-90034
 - c-019
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -950,11 +943,9 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-    - t-019
-    - t-022
-    - t-035
-
+    - t-90016
+    - t-90029
+    - t-194519
 - c-026
   santrauka: 'Pasak Nestoro, poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet sudarė taiką su Sventopelku.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -970,8 +961,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033
-
+    - t-190973
 ## Citatos
 
 - id: c-56157
@@ -991,7 +981,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90014
-
 - id: c-56158
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1017,7 +1006,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90040
-
 - id: c-56159
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1039,7 +1027,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90040
-
 - id: c-56160
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1067,7 +1054,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   pagrindzia:
     - t-90025
     - t-90037
-
 - id: c-56163
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1095,7 +1081,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90017
-
 - id: c-56164
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1117,7 +1102,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90023
-
 - id: c-56165
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1139,8 +1123,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90011
-
+    - t-90027
 - id: c-56166
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1162,7 +1145,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90027
-
 - id: c-56168
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1190,7 +1172,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90026
-
 - id: c-85915
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1212,7 +1193,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   pagrindzia:
     - t-90013
     - t-90021
-
 - id: c-85916
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1244,7 +1224,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90015
-
 - id: c-85918
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1270,7 +1249,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   pagrindzia:
     - t-90031
     - t-90038
-
 - id: c-85919
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1298,7 +1276,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90035
-
 - id: c-85920
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1321,7 +1298,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90020
-
 - id: c-85921
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1341,7 +1317,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90039
-
 - id: c-85922
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1371,7 +1346,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90034
-
 - id: c-85923
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1395,7 +1369,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90033
-
 - id: c-85924
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1424,7 +1397,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     - t-90022
     - t-90036
     - t-194520
-
 - id: c-85925
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1452,7 +1424,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     - t-90016
     - t-90029
     - t-194519
-
 - id: c-85926
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1475,7 +1446,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   pagrindzia:
     - t-90024
     - t-197158
-
 - id: c-85928
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1495,7 +1465,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90012
-
 - id: c-85929
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1519,7 +1488,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     - t-90018
     - t-90028
     - t-197160
-
 - id: c-85930
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1566,7 +1534,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90030
-
 - id: c-85932
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1593,7 +1560,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90042
-
 - id: c-85933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1614,7 +1580,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90019
-
 - id: c-173855
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1638,8 +1603,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190973
-
+    - t-190974
 - id: c-173856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1663,7 +1627,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190974
-
 - id: c-179040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1691,7 +1654,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197159
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Mstivojus]], [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
 - Tėvai: [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]

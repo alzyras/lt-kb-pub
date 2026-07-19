@@ -129,7 +129,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74769
-
 - id: c-22567
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -148,7 +147,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74770
-
 - id: c-176236
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -167,6 +165,5 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193556
-
 ## Ryšiai
 - Lietuvos Respublika kariavo prieš [[objektai/grupes/Bermontininkai]]

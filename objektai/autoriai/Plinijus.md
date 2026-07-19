@@ -157,7 +157,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173663
-
+    - c-006
 <a id="claim-t-190782"></a>
 - t-007
   global_id: t-190782
@@ -199,7 +199,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173666
-
+    - c-008
 <a id="claim-t-190785"></a>
 - t-009
   global_id: t-190785
@@ -220,7 +220,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173667
-
+    - c-009
 <a id="claim-t-191903"></a>
 - t-010
   global_id: t-191903
@@ -272,8 +272,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190781
 - c-008
   santrauka: 'Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -291,8 +290,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-190784
 - c-009
   santrauka: 'Teodoro Narbuto pasakojime Plinijus mini Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -315,8 +313,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-190785
 - c-010
   santrauka: 'Teodoro Narbuto vertinimu, tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno klydo prielaidose apie skirių ir hirių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -338,9 +335,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-    - t-011
-
 ## Citatos
 
 - id: c-173259
@@ -364,7 +358,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190376
-
 - id: c-173260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -384,7 +377,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190377
-
 - id: c-173660
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -407,7 +399,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190778
-
 - id: c-173661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -430,7 +421,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190779
-
 - id: c-173662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -451,7 +441,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190780
-
 - id: c-173663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -477,7 +466,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190781
-
 - id: c-173664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -498,7 +486,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190782
-
 - id: c-173666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -521,7 +508,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190784
-
 - id: c-173667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -553,7 +539,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190785
-
 - id: c-174785
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

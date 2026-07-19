@@ -49,7 +49,7 @@ Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsa
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177253
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsak.'
@@ -65,8 +65,7 @@ Kadangi vienas Kauno priemiestis vadinosi Žr.: Lietuvių kalbos žodynas / Atsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194857
 ## Citatos
 
 - id: c-177253

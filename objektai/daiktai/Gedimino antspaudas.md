@@ -182,7 +182,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   pagrindzia:
     - t-55034
     - t-55035
-
 - id: c-78389
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -236,7 +235,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81847
-
 - id: c-78390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -269,7 +267,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81846
-
 - id: c-78391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

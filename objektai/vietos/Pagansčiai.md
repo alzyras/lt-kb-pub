@@ -74,6 +74,7 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
   temporalinis_llm_pakomentavimas: "Citata palaiko vietos lokalizaciją ir vėlesnį pavadinimą."
   pagrindžia:
     - c-59241
+    - c-002
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66519|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.
 - susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
 - susijęs iš Zirgūna: Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.
@@ -92,8 +93,7 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58609
 ## Citatos
 
 - id: c-59240
@@ -119,7 +119,6 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58608
-
 - id: c-59241
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

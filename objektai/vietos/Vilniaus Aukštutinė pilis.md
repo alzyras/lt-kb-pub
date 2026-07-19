@@ -166,7 +166,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195166
-
 - id: c-177527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -188,7 +187,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195163
-
 - id: c-177528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -221,7 +219,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195164
-
 - id: c-177529
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -247,7 +244,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195163
-
 - id: c-177530
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -289,7 +285,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   pagrindzia:
     - t-195162
     - t-195165
-
 - id: c-177531
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -313,6 +308,5 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   pagrindzia:
     - t-195163
     - t-195166
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

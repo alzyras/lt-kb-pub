@@ -100,7 +100,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32422
-
+    - c-167766
 <a id="claim-t-80138"></a>
 - t-004
   global_id: t-80138
@@ -172,7 +172,6 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80135
-
 - id: c-43853
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -196,7 +195,6 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80132
-
 - id: c-77001
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -220,8 +218,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-80134
-
+    - t-80139
 - id: c-77004
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -242,7 +239,6 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80138
-
 - id: c-167766
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -283,6 +279,5 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201106
-
 ## Ryšiai
 - Puolė Skirsnemunę: [[objektai/grupes/Žemaičiai]]

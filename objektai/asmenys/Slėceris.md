@@ -50,7 +50,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174058
-
+    - c-001
 <a id="claim-t-191177"></a>
 - t-002
   global_id: t-191177
@@ -92,7 +92,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174060
-
+    - c-003
 <a id="claim-t-191179"></a>
 - t-004
   global_id: t-191179
@@ -134,7 +134,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174062
-
+    - c-005
 <a id="claim-t-191181"></a>
 - t-006
   global_id: t-191181
@@ -212,8 +212,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191176
 - c-002
   santrauka: 'Narbuto vertinimu, Slėceris keliautojų sunkumus renkant žinias net apsišvietusiuose kraštuose teisingai priskyrė vaizdinių aiškinimo kliūtims.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -233,9 +232,6 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-007
-
 - c-003
   santrauka: 'Narbutas rašo, kad Slėceris laikė juokinga mintį, jog krivičių paminėjimas galėtų reikšti prūsų vyriausiąjį kunigą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -254,8 +250,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191178
 - c-005
   santrauka: 'Slėceris kėlė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų išsivystymą galėjo riboti raitos medžioklės nežinojimas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -272,8 +267,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-191180
 ## Citatos
 
 - id: c-174058
@@ -298,7 +292,6 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191176
-
 - id: c-174059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -325,7 +318,6 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   pagrindzia:
     - t-191177
     - t-197815
-
 - id: c-174060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -348,7 +340,6 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191178
-
 - id: c-174061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -368,7 +359,6 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191179
-
 - id: c-174062
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -390,7 +380,6 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191180
-
 - id: c-174063
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

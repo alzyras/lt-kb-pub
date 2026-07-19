@@ -74,8 +74,7 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas skyriaus pavadinimo triukšmas ir OCR klaidos. Valdovo titulas bei genealoginis kronikos pasakojimas palikti su atribucija.'
   pagrindžia:
-    - c-176726
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai.'
@@ -100,8 +99,7 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194113
 ## Citatos
 
 - id: c-176727
@@ -128,7 +126,6 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194114
-
 - id: c-184362
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

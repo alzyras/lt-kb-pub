@@ -50,6 +50,7 @@ Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Neb
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174329
+    - c-001
 - susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
 - susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
 ## Reikšmingi paminėjimai
@@ -74,8 +75,7 @@ Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Neb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191447
 ## Citatos
 
 - id: c-174329

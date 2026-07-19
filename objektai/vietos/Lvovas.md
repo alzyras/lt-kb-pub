@@ -224,6 +224,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182379
+    - c-170552
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184764|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.
 - susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184775|Liubartas]]: Algirdo brolis Liubartas valdė Lvovą Rusioje.
@@ -299,7 +300,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-121908
-
 - id: c-111632
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -320,7 +320,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-121910
-
 - id: c-111634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -342,8 +341,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-121909
-
+    - t-121912
 - id: c-168397
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -378,7 +376,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185036
-
 - id: c-175955
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -399,7 +396,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193211
-
 - id: c-182377
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -417,7 +413,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199604
-
 - id: c-182379
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -436,7 +431,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199605
-
 - id: c-182380
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -476,7 +470,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199596
-
 - id: c-182383
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -516,7 +509,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199603
-
 - id: c-182385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -556,3 +548,18 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-170552
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
+    buvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos
+    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)
+    35 Visos šios past ra i Įlo s chronologija netiksli.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199605

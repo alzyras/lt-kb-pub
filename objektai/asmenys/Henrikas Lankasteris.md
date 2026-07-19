@@ -142,7 +142,6 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87430
-
 - id: c-83408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -171,7 +170,6 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87429
-
 - id: c-83409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -203,6 +201,5 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87428
-
 ## Ryšiai
 - Henrikas Lankasteris keliavo į [[objektai/vietos/Prūsija]]

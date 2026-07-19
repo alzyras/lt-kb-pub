@@ -113,7 +113,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173643
-
+    - c-004
 <a id="claim-t-190762"></a>
 - t-005
   global_id: t-190762
@@ -181,8 +181,7 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190761
 ## Citatos
 
 - id: c-173212
@@ -208,7 +207,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190329
-
 - id: c-173213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -237,7 +235,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190330
-
 - id: c-173642
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -259,7 +256,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190760
-
 - id: c-173643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -285,7 +281,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190761
-
 - id: c-173644
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -313,7 +308,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
   pagrindzia:
     - t-190762
     - t-197625
-
 - id: c-179265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

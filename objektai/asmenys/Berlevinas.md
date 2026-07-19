@@ -85,7 +85,6 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60247
-
 - id: c-184320
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

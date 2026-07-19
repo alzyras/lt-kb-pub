@@ -71,6 +71,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38436
-
 ## Ryšiai
 - Užėmė Antalieptę: [[objektai/asmenys/P. Genys]]

@@ -99,7 +99,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41027
-
 - id: c-44793
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

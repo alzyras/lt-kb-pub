@@ -132,7 +132,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - t-184059
     - t-194480
     - t-197074
-
 ## Ryšiai
 - Egidijus (arkivyskupas, XIV a.) mirė [[objektai/vietos/Avinjonas]]
 - Egidijus (arkivyskupas, XIV a.) buvo palaidotas [[objektai/vietos/Paryžius]]

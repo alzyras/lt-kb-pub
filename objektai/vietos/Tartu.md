@@ -122,7 +122,6 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80185
-
 - id: c-43895
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -142,7 +141,6 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80186
-
 - id: c-77038
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -162,6 +160,5 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80189
-
 ## Ryšiai
 - Užėmė Tartu: [[objektai/grupes/Maskvos kariuomenė]]

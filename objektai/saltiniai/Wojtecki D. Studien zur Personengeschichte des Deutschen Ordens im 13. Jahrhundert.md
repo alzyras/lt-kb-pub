@@ -53,7 +53,7 @@ Dusburgietis teigia, kad wojtecki D.
   temporalinis_llm_pakomentavimas: "Citata nurodo leidinio autorių, temą, vietą ir metus."
   pagrindžia:
     - c-62001
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'D. Wojteckio studija apie Vokiečių ordino XIII a. personalijų istoriją išleista Vysbadene 1971 m.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad wojtecki D.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61369
 ## Citatos
 
 - id: c-62001

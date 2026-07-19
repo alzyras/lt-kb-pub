@@ -79,6 +79,5 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19108
-
 ## Ryšiai
 - Liucijanas Želigovskis užėmė [[objektai/vietos/Vilnius]]

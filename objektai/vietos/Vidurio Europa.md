@@ -73,7 +73,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24558
-
+    - c-49809
 <a id="claim-t-47314"></a>
 - t-003
   global_id: t-47314
@@ -149,6 +149,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175540
+    - c-006
 - susijęs iš Lietuva: XVI–XVII a. Lietuva buvo šiauriausias katalikiškosios Pietų ir Vidurio Europos kultūrinio pasaulio pakraštys.
 ## Reikšmingi paminėjimai
 - c-006
@@ -175,8 +176,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-192770
 ## Citatos
 
 - id: c-24556
@@ -204,7 +204,6 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47315
-
 - id: c-24557
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -229,7 +228,6 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47312
-
 - id: c-24558
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,7 +246,6 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47313
-
 - id: c-49809
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -294,7 +291,6 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   pagrindzia:
     - t-47314
     - t-183640
-
 - id: c-175540
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

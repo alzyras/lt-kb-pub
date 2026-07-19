@@ -96,7 +96,6 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87435
-
 - id: c-167226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -123,6 +122,5 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183841
-
 ## Ryšiai
 - Karolis Tryrietis keliavo į [[objektai/vietos/Avinjonas]]

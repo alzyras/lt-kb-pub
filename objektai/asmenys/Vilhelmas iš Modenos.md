@@ -81,7 +81,7 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą, bet reikia pašalinti nereikalingą atribuciją."
   pagrindžia:
     - c-60710
-
+    - c-003
 <a id="claim-t-60078"></a>
 - t-003
   global_id: t-60078
@@ -128,8 +128,7 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60077
 ## Citatos
 
 - id: c-60708
@@ -159,7 +158,6 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   pagrindzia:
     - t-60078
     - t-197165
-
 - id: c-60709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -181,7 +179,6 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60076
-
 - id: c-60710
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

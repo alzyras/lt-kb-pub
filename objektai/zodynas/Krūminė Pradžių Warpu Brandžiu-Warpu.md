@@ -51,8 +51,7 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys paverstas pilnu sakiniu apie Krūminę ir jos alternatyvius vardus. Mitologinė funkcija išlaikyta su Narbuto atribucija, be papildomų etimologinių išvadų.'
   pagrindžia:
-    - c-172043
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu.'
@@ -75,8 +74,7 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189155
 ## Citatos
 
 - id: c-179152

@@ -66,4 +66,4 @@ Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191827

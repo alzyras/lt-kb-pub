@@ -66,4 +66,4 @@ Kaributas buvo Algirdo ir Julijonos Tveriškės sūnus, apie 1380 m. pakrikštyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194112

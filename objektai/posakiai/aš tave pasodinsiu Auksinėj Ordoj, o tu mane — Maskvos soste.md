@@ -88,7 +88,6 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176271
-
 - id: c-160279
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -96,7 +96,6 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189253
-
 - id: c-172142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

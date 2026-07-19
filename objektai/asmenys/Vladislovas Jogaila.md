@@ -542,7 +542,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173232
-
 - id: c-157556
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -566,7 +565,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173243
-
 - id: c-157557
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -596,7 +594,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173250
-
 - id: c-157558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -619,7 +616,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173236
-
 - id: c-157559
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -641,7 +637,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173247
-
 - id: c-157560
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -665,7 +660,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173238
-
 - id: c-157561
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -693,7 +687,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173228
-
 - id: c-157562
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -717,7 +710,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173226
-
 - id: c-157563
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -741,7 +733,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173245
-
 - id: c-157564
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -776,7 +767,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173244
-
 - id: c-157565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -810,7 +800,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173241
-
 - id: c-157568
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -834,7 +823,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173229
-
 - id: c-157569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -860,7 +848,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173237
-
 - id: c-157570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -882,7 +869,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173227
-
 - id: c-157571
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -903,7 +889,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173246
-
 - id: c-157572
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -933,7 +918,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173248
-
 - id: c-157573
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -954,7 +938,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173239
-
 - id: c-157574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -982,7 +965,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173240
-
 - id: c-157575
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1003,7 +985,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173225
-
 - id: c-157577
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1029,7 +1010,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173235
-
 - id: c-157578
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1052,7 +1032,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173242
-
 - id: c-157579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1089,7 +1068,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173249
-
 - id: c-176839
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1134,7 +1112,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194243
-
 - id: c-176840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1157,7 +1134,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194244
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Broliai: [[objektai/asmenys/Skirgaila]]

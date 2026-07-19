@@ -49,7 +49,7 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174086
-
+    - c-001
 <a id="claim-t-191205"></a>
 - t-002
   global_id: t-191205
@@ -84,7 +84,7 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174088
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekančią iš Kiliklo kalnų ir susiliejančią su Kūra.'
@@ -110,8 +110,7 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191204
 - c-003
   santrauka: 'Hameris dar prieš Volianskį mėgino šifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė trečios eilutės pirmą žodį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -132,8 +131,7 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191206
 ## Citatos
 
 - id: c-174086
@@ -166,7 +164,6 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191204
-
 - id: c-174087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -193,7 +190,6 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191205
-
 - id: c-174088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

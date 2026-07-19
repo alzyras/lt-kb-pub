@@ -138,7 +138,6 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173440
-
 - id: c-157740
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -158,7 +157,6 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173439
-
 - id: c-184411
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

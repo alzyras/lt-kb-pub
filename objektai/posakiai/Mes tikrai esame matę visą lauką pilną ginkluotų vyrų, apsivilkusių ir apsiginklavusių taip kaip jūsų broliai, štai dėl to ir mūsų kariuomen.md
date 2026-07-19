@@ -90,7 +90,6 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103451
-
 - id: c-96634
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

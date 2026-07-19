@@ -534,7 +534,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti turiningesnį faktą apie Tverę.'
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_place: Florencija; mentioned_place: Livonija'
   pagrindžia:
-    - c-170607
+    - c-018
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
@@ -704,8 +704,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-
+    - t-187665
 ## Citatos
 
 - id: c-43926
@@ -726,7 +725,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180703
-
 - id: c-164268
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -754,7 +752,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindzia:
     - t-180681
     - t-180699
-
 - id: c-164271
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -778,7 +775,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180690
-
 - id: c-164272
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -797,7 +793,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180680
-
 - id: c-164273
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -822,7 +817,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180686
-
 - id: c-164274
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -844,7 +838,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindzia:
     - t-180684
     - t-180689
-
 - id: c-164275
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -867,7 +860,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180694
-
 - id: c-164276
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -893,7 +885,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180692
-
 - id: c-164278
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -918,7 +909,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindzia:
     - t-180675
     - t-180695
-
 - id: c-164279
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -939,7 +929,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindzia:
     - t-180687
     - t-180701
-
 - id: c-164281
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -963,7 +952,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindzia:
     - t-180678
     - t-180691
-
 - id: c-164282
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -985,7 +973,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180679
-
 - id: c-164284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1019,7 +1006,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindzia:
     - t-180677
     - t-180702
-
 - id: c-164286
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1037,7 +1023,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180697
-
 - id: c-164288
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1055,7 +1040,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180704
-
 - id: c-164291
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1083,7 +1067,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180700
-
 - id: c-168528
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1116,7 +1099,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185167
-
 - id: c-175973
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1135,7 +1117,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193236
-
 - id: c-175974
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1157,7 +1138,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193237
-
 - id: c-175975
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1177,7 +1157,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193238
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Michailas Aleksandrovičius]]
 - Puolė Tverę: [[objektai/asmenys/Dmitrijus Ivanovičius]]

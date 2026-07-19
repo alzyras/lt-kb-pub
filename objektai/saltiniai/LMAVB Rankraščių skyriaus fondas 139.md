@@ -40,4 +40,3 @@ LMAVB Rankraščių skyriaus fondas 139 straipsnyje naudojamas kaip pagrindinis 
 - t-001
   teiginys: "Straipsnyje santrumpa LMAVB, RS išskleidžiama kaip Lietuvos mokslų akademijos Vrublevskių bibliotekos rankraščių skyrius, o nurodytas fondas yra 139."
   pagrindžia:
-    - c-183814

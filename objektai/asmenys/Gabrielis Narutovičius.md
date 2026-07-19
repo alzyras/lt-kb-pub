@@ -73,6 +73,5 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26441
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Stanislovas Narutavičius]]

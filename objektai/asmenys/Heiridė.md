@@ -80,7 +80,6 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191411
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Augmundas]]
 - Sutuoktiniai: [[objektai/asmenys/Augmundas]]

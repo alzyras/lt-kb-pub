@@ -129,7 +129,6 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82732
-
 - id: c-79175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -152,7 +151,6 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82731
-
 - id: c-79176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

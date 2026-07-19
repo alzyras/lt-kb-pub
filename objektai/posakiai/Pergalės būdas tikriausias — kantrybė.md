@@ -64,7 +64,7 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59683
-
+    - c-002
 <a id="claim-t-59052"></a>
 - t-003
   global_id: t-59052
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59684
-
+    - c-003
 <a id="claim-t-197052"></a>
 - t-004
   global_id: t-197052
@@ -113,8 +113,7 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59051
 - c-003
   santrauka: 'Dusburgietis Grigaliui priskiria mintį, kad kankiniu galima būti ir be kalavijo ar liepsnų, jei sieloje išsaugoma kantrybė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,8 +128,7 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59052
 ## Citatos
 
 - id: c-59682
@@ -152,7 +150,6 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   pagrindzia:
     - t-59050
     - t-197052
-
 - id: c-59683
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -178,7 +175,6 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59051
-
 - id: c-59684
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

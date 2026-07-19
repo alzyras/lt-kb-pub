@@ -60,7 +60,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175060
-
+    - c-001
 <a id="claim-t-192197"></a>
 - t-002
   global_id: t-192197
@@ -79,7 +79,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175061
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas Rus ramovę prie Nemuno šakos Russ įvardija kaip senovinę piliavietę.'
@@ -101,8 +101,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192196
 - c-002
   santrauka: 'Teodoras Narbutas rašo, kad prie Nemuno yra daug senovės piliaviečių, pylimų, pilkapių, kapų ir šventųjų vietų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -122,8 +121,7 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192197
 ## Citatos
 
 - id: c-175060
@@ -154,7 +152,6 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192196
-
 - id: c-175061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

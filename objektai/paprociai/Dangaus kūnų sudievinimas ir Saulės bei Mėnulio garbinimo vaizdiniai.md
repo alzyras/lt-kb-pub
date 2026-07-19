@@ -100,8 +100,7 @@ Nenurodyta
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Mitologinis giminystės aiškinimas suformuluotas kaip Narbuto vaizdinys. Nepridėta papildomų duomenų apie Saulės sūnų vardus.'
   pagrindžia:
-    - c-172710
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas lietuvių mitologijoje Saulę vaizduoja kaip deivę, Mėnulio žmoną, kurios vaikai buvo žvaigždės.'
@@ -123,8 +122,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189827
 ## Citatos
 
 - id: c-172711
@@ -151,7 +149,6 @@ Nenurodyta
   pagrindzia:
     - t-189828
     - t-197253
-
 - id: c-177024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

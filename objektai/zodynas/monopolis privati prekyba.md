@@ -159,7 +159,6 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86487
-
 - id: c-82467
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -183,7 +182,6 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86489
-
 - id: c-82468
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

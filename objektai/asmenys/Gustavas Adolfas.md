@@ -90,7 +90,6 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79027
-
 - id: c-76126
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

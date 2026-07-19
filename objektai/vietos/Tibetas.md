@@ -61,6 +61,7 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175535
+    - c-002
 - susijęs iš [[objektai/asmenys/Bodhidana.md#claim-t-190135|Bodhidana]]: Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m.
 - susijęs iš [[objektai/grupes/Pelazgai.md#claim-t-192437|Pelazgai]]: Teodoro Narbuto teigimu, pelazgai buvo žmonės, atklydę nuo Tibeto prie Viduržemio jūros pakrančių.
 - susijęs iš Lhasa: Lhasa aprašyta kaip šventasis Tibeto miestas, į kurį vietos tautelės neįsileisdavo europiečių.
@@ -86,8 +87,7 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192765
 ## Citatos
 
 - id: c-38653
@@ -111,7 +111,6 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36597
-
 - id: c-175535
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

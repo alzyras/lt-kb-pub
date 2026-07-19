@@ -118,7 +118,6 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60553
-
 - id: c-61184
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -132,7 +131,6 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60552
-
 - id: c-61185
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

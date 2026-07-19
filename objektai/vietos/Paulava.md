@@ -136,7 +136,6 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68910
-
 - id: c-68366
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -156,7 +155,6 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68908
-
 - id: c-68367
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -175,6 +173,5 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68909
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]

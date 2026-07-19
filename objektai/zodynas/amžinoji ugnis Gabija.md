@@ -85,7 +85,6 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86510
-
 - id: c-82489
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

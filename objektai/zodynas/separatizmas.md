@@ -97,7 +97,6 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34311
-
 - id: c-167632
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

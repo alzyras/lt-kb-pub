@@ -54,7 +54,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatinis bibliografinis sakinys apie note objektą. Citata palaiko autorių, pavadinimą, vietą ir metus."
   pagrindžia:
     - c-170970
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Schleicherio „Lituanica“ nurodoma kaip 1853 m. Vienoje išleistas veikalas.'
@@ -69,8 +69,7 @@ media_all_json: |-
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188036
 ## Citatos
 
 - id: c-170970

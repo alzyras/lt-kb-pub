@@ -119,8 +119,6 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-003
   santrauka: 'Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -151,8 +149,6 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Teodoro Narbuto vertinimu, Homero žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -179,9 +175,6 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-005
-
 ## Citatos
 
 - id: c-173236
@@ -205,7 +198,6 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190353
-
 - id: c-173607
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

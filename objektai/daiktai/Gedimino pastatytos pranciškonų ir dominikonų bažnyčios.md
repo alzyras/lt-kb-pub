@@ -96,6 +96,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87077
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

@@ -154,7 +154,6 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185240
-
 - id: c-171691
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -177,7 +176,6 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188802
-
 - id: c-171692
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -203,6 +201,5 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188803
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]

@@ -68,4 +68,4 @@ Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kaz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187332

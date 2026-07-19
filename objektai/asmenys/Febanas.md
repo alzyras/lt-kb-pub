@@ -65,4 +65,4 @@ Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191395

@@ -48,7 +48,7 @@ Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173064
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų, nes jie esą skambėjo visai neprūsiškai.'
@@ -63,8 +63,7 @@ Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190181
 ## Citatos
 
 - id: c-173064

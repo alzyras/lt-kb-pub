@@ -77,7 +77,7 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174078
-
+    - c-002
 <a id="claim-t-191980"></a>
 - t-003
   global_id: t-191980
@@ -132,8 +132,7 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191196
 ## Citatos
 
 - id: c-174075
@@ -157,7 +156,6 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191193
-
 - id: c-174078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -180,7 +178,6 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191196
-
 - id: c-174862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -207,7 +204,6 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191980
-
 - id: c-177316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

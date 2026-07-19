@@ -86,7 +86,6 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70303
-
 - id: c-166372
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

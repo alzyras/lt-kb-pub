@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet per ilgas ir su pertekliniu autorystės įvadu."
   pagrindžia:
     - c-63796
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
@@ -90,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62924
 ## Citatos
 
 - id: c-63796

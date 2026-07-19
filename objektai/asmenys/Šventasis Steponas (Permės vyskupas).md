@@ -119,7 +119,6 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190058
-
 - id: c-172942
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -142,7 +141,6 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190059
-
 - id: c-172943
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

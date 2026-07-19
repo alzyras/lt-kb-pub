@@ -88,7 +88,7 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie šaltinio objektą ir paremtas citatos antraštiniu sakiniu."
   pagrindžia:
     - c-167088
-
+    - c-43229
 ## Citatos
 
 - id: c-43229
@@ -109,8 +109,7 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41496
-
+    - t-41497
 - id: c-44986
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -138,8 +137,7 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41495
-
+    - t-41498
 - id: c-167088
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

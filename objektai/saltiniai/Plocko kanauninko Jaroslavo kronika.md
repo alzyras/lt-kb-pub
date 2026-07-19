@@ -48,7 +48,7 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174642
-
+    - c-001
 <a id="claim-t-191761"></a>
 - t-002
   global_id: t-191761
@@ -81,8 +81,7 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191760
 ## Citatos
 
 - id: c-174642
@@ -106,7 +105,6 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191760
-
 - id: c-174643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -99,7 +99,6 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69879
-
 - id: c-69089
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

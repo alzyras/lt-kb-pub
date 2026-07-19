@@ -78,6 +78,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28509
-
 ## Ryšiai
 - Puolė Šešuoliai: [[objektai/grupes/Kryžiuočių ordinas]]

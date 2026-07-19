@@ -149,7 +149,6 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83194
-
 - id: c-79569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -170,7 +169,6 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83195
-
 - id: c-79570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -196,7 +194,6 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83196
-
 - id: c-79571
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -220,6 +217,5 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83193
-
 ## Ryšiai
 - Baltoji Rusia priklausė [[objektai/vietos/Lietuva]]

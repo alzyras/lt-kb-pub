@@ -120,7 +120,6 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67254
-
 - id: c-37126
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -142,7 +141,6 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67255
-
 - id: c-167635
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

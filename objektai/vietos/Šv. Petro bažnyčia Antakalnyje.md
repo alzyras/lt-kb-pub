@@ -86,7 +86,6 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86131
-
 - id: c-82110
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -57,7 +57,7 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-69306
-
+    - c-001
 <a id="claim-t-70247"></a>
 - t-002
   global_id: t-70247
@@ -74,6 +74,7 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-69306
+    - c-001
 - susijęs iš [[objektai/asmenys/Ernestas (Livonijos žemės magistras).md#claim-t-89708|Ernestas (Livonijos žemės magistras)]]: Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.
 - susijęs iš [[objektai/posakiai/Ar ilgai, viešpatie, rūstausi.md#claim-t-59076|Ar ilgai, viešpatie, rūstausi]]: Po posakio „Ar ilgai, viešpatie, rūstausi?“ prašoma parodyti rūstį netikėliams ir neleisti jiems klausti, kur yra krikščionių Dievas.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59876|Bertoldas, vadinamas Briuhavenu]]: Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.
@@ -142,9 +143,8 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-70246
+    - t-70247
 ## Citatos
 
 - id: c-69306

@@ -62,7 +62,7 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175067
-
+    - c-001
 <a id="claim-t-192207"></a>
 - t-002
   global_id: t-192207
@@ -82,7 +82,7 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175067
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -100,9 +100,8 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-192206
+    - t-192207
 ## Citatos
 
 - id: c-175067

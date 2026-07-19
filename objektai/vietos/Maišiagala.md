@@ -100,6 +100,5 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183861
-
 ## Ryšiai
 - Užėmė Maišiagalą: [[objektai/asmenys/Engelhardas Rabė]], [[objektai/grupes/Kryžiuočių ordinas]]

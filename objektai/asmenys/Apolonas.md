@@ -64,4 +64,4 @@ Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194128

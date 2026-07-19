@@ -49,7 +49,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173980
-
+    - c-001
 <a id="claim-t-191099"></a>
 - t-002
   global_id: t-191099
@@ -112,7 +112,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173984
-
+    - c-004
 <a id="claim-t-191972"></a>
 - t-005
   global_id: t-191972
@@ -194,8 +194,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191098
 - c-002
   santrauka: 'Teodoro Narbuto perteikimu, Naruševičius Ptolemėjo chunų koloniją siejo su vieta, kur vėliau buvo Kijevas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -215,9 +214,6 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-007
-
 - c-004
   santrauka: 'Teodoro Narbuto aiškinimu, Ptolemėjas stavanus vadino Stabatii ir minėjo juos tvarka, leidžiančia atpažinti lietuvius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -233,8 +229,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-191102
 ## Citatos
 
 - id: c-173980
@@ -267,7 +262,6 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191098
-
 - id: c-173981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -291,7 +285,6 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   pagrindzia:
     - t-191099
     - t-197809
-
 - id: c-173982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -319,7 +312,6 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   pagrindzia:
     - t-191100
     - t-197810
-
 - id: c-173984
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -341,7 +333,6 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191102
-
 - id: c-174854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -363,7 +354,6 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191972
-
 - id: c-174855
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

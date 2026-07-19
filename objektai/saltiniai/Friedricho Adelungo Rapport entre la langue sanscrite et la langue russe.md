@@ -57,7 +57,7 @@ Friedricho Adelungo „Rapport entre la langue sanscrite et la langue russe“ i
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174716
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Friedricho Adelungo „Rapport entre la langue sanscrite et la langue russe“ išleistas Sankt Peterburge 1811 m.'
@@ -77,8 +77,7 @@ Friedricho Adelungo „Rapport entre la langue sanscrite et la langue russe“ i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191834
 ## Citatos
 
 - id: c-174716

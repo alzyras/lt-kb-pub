@@ -112,7 +112,6 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58731
-
 - id: c-168518
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -135,6 +134,5 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185157
-
 ## Ryšiai
 - Puolė Straisbergą: [[objektai/grupes/Lietuviai]]

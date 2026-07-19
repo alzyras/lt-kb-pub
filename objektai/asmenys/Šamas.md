@@ -66,4 +66,4 @@ Anot Narbuto perteikiamų padavimų, Vaidevučio sūnus Šamas įkūrė savo rez
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191492

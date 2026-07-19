@@ -91,7 +91,6 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20971
-
 - id: c-166909
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

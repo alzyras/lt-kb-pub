@@ -50,7 +50,7 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61607
-
+    - c-001
 <a id="claim-t-60976"></a>
 - t-002
   global_id: t-60976
@@ -87,8 +87,7 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60975
 ## Citatos
 
 - id: c-61607
@@ -111,7 +110,6 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60975
-
 - id: c-61608
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

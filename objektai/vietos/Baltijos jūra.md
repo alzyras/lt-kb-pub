@@ -416,8 +416,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_place: Baltija; mentioned_place: Pajūris; mentioned_group: [[objektai/grupes/Čeltyčios|Čeltyčios]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Vilija; llm_object: Baltijos jūra'
   semantiniai_rysiai: '[[objektai/grupes/Čeltyčios|Čeltyčios]] gyveno Baltijos jūra'
   pagrindžia:
-    - c-177451
-
+    - c-014
 <a id="claim-t-195074"></a>
 - t-020
   global_id: t-195074
@@ -427,7 +426,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir suformuluotas aiškus geologinio aiškinimo sakinys. Fajetono legenda nepridėta, nes ji priklauso kitai pastraipai.'
   pagrindžia:
-    - c-177459
+    - c-022
 - susijęs iš [[objektai/asmenys/Augustas Liudvikas fon Slėceris.md#claim-t-191120|Augustas Liudvikas fon Slėceris]]: Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją.
 - susijęs iš [[objektai/asmenys/Dalinas.md#claim-t-191497|Dalinas]]: Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos jūros nusekimą nuo Kristaus gimimo.
 - susijęs iš [[objektai/asmenys/Kelsijus.md#claim-t-191431|Kelsijus]]: Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks.
@@ -480,8 +479,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-
+    - t-195073
 - c-022
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -514,8 +512,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-
+    - t-195074
 ## Citatos
 
 - id: c-24063
@@ -534,7 +531,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195061
-
 - id: c-177439
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -563,7 +559,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195070
-
 - id: c-177440
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -587,7 +582,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195060
-
 - id: c-177441
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -608,7 +602,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195056
-
 - id: c-177442
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -633,7 +626,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195077
-
 - id: c-177443
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -653,7 +645,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195076
-
 - id: c-177444
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -677,7 +668,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195078
-
 - id: c-177445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -696,7 +686,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195063
-
 - id: c-177446
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -718,7 +707,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195064
-
 - id: c-177447
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -744,7 +732,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195075
-
 - id: c-177448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -771,7 +758,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   pagrindzia:
     - t-195058
     - t-197858
-
 - id: c-177449
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -810,7 +796,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195072
-
 - id: c-177450
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -833,7 +818,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195062
-
 - id: c-177452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -859,7 +843,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195059
-
 - id: c-177453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -882,7 +865,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195071
-
 - id: c-177454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -907,7 +889,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195066
-
 - id: c-177455
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -928,7 +909,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195055
-
 - id: c-177456
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -952,7 +932,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195067
-
 - id: c-177457
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -974,7 +953,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195069
-
 - id: c-177458
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1015,7 +993,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195065
-
 - id: c-177460
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1051,7 +1028,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195057
-
 - id: c-177461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1076,7 +1052,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195068
-
 - id: c-179365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1097,7 +1072,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197856
-
 - id: c-179366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1123,6 +1097,5 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197857
-
 ## Ryšiai
 - Užėmė Baltijos jūrą: [[objektai/grupes/Slavai]]

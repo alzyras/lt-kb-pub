@@ -90,8 +90,6 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-09743
@@ -107,7 +105,6 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70052
-
 - id: c-09744
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -121,34 +118,6 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70051
-
-- id: c-09745
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
-  citata_originali: |
-    - status: unused
-    - claim_role: supports_existing_claim
-    - kategorija: zodynas
-    - kandidatas: dabą
-    - potencialus_teiginys: Dabą
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 14326-14508; match: whitespace_regex
-    - santrauka: Dabą
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        jog svietas dar pasakomis minėjo, jog nuo Indijos kilimo buvo, jau nuo jų būdo, dabos ir tikybos, kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69.
-  citata_rodoma: "kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-70051
-
 - id: c-09745
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

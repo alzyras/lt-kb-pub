@@ -63,7 +63,7 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177299
-
+    - c-002
 <a id="claim-t-197695"></a>
 - t-003
   global_id: t-197695
@@ -97,8 +97,7 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194903
 ## Citatos
 
 - id: c-175693
@@ -125,7 +124,6 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   pagrindzia:
     - t-192923
     - t-197695
-
 - id: c-177299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

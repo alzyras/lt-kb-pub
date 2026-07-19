@@ -96,7 +96,6 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58515
-
 - id: c-59148
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

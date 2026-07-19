@@ -98,7 +98,6 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195618
-
 - id: c-178020
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

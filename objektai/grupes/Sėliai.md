@@ -91,6 +91,5 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-52441
-
 ## Ryšiai
 - Sėliai gyveno [[objektai/vietos/Dauguva]]

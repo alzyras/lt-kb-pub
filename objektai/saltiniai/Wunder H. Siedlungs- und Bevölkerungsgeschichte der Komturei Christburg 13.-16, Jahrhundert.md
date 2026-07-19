@@ -46,7 +46,7 @@ Dusburgietis teigia, kad wunder H.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, laikotarpį, vietą ir metus."
   pagrindžia:
     - c-62004
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'H. Wunder knyga apie Christburgo komtūrijos gyvenviečių ir gyventojų istoriją XIII-XVI a. išleista Vysbadene 1968 m.'
@@ -60,8 +60,7 @@ Dusburgietis teigia, kad wunder H.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61372
 ## Citatos
 
 - id: c-62004

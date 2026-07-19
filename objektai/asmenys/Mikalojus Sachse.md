@@ -72,6 +72,5 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87788
-
 ## Ryšiai
 - Mikalojus Sachse keliavo į [[objektai/vietos/Silezija]]

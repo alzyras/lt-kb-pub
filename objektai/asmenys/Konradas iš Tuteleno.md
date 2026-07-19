@@ -45,7 +45,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60999
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Konradas iš Tuteleno, buvęs šventosios Elžbietos kamerarijus, buvo paskirtas pagalbininku Hermanui Balkui.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60367
 ## Citatos
 
 - id: c-60999

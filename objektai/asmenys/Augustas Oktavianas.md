@@ -71,7 +71,7 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174065
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad Augusto valdymo metais geografijos tyrinėjimas pažengė, o Augustas pats rašė geografijos traktatus, rinko žinias ir pasitelkė matematikus.'
@@ -95,8 +95,7 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191183
 ## Citatos
 
 - id: c-174064
@@ -125,7 +124,6 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191182
-
 - id: c-174065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

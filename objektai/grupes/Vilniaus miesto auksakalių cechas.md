@@ -128,7 +128,6 @@ Vilniaus miesto amatininkų cechas.
   pagrindzia:
     - t-55091
     - t-55092
-
 - id: c-55903
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -119,7 +119,6 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   pagrindzia:
     - t-55269
     - t-55270
-
 - id: c-78590
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

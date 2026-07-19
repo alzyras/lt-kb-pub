@@ -116,7 +116,6 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78087
-
 - id: c-171297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -135,7 +134,6 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188407
-
 - id: c-179113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

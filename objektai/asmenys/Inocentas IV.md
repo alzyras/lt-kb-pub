@@ -121,7 +121,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   pagrindzia:
     - t-60333
     - t-197104
-
 - id: c-184347
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -146,6 +145,5 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200997
-
 ## Ryšiai
 - Inocentas IV siuntė į [[objektai/vietos/Prūsija]]

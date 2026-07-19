@@ -49,7 +49,7 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172215
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškino jį kaip susilaikymo, pamaldumo bei taikos vietą.'
@@ -69,8 +69,7 @@ Narbutas Romovės mitologinį pavadinimą siejo su ąžuolo šventumu ir aiškin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189328
 ## Citatos
 
 - id: c-172215

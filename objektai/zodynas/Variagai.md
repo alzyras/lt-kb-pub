@@ -158,7 +158,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55272
-
 - id: c-78599
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -190,7 +189,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82105
-
 - id: c-78600
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

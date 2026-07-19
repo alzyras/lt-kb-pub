@@ -213,9 +213,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-    - t-008
-
 ## Citatos
 
 - id: c-172919
@@ -240,7 +237,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190036
-
 - id: c-172920
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -263,7 +259,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190037
-
 - id: c-172921
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -285,7 +280,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190038
-
 - id: c-172922
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -306,7 +300,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190039
-
 - id: c-172923
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -328,7 +321,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190040
-
 - id: c-173717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -349,7 +341,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190835
-
 - id: c-173718
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

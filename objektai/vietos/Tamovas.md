@@ -105,9 +105,7 @@ Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-    - t-005
-    - t-006
+    - t-187353
+    - t-187352
+    - t-187658
+    - t-194040

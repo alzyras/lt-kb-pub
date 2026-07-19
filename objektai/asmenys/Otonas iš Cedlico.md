@@ -57,6 +57,7 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   temporalinis_llm_pakomentavimas: "Reikia pašalinti antraštės triukšmą ir suformuluoti pilną sakinį apie asmenį."
   pagrindžia:
     - c-61034
+    - c-001
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Otonas iš Bergo.md#claim-t-60401|Otonas iš Bergo]]: 1294 m. Otonas iš Bergo su Ditrichu iš Ezbeko ir Otonu iš Cedlico buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
 ## Reikšmingi paminėjimai
@@ -76,8 +77,7 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60402
 ## Citatos
 
 - id: c-61034
@@ -101,6 +101,5 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60402
-
 ## Ryšiai
 - Otonas iš Cedlico siuntė į [[objektai/vietos/Ragainė]]

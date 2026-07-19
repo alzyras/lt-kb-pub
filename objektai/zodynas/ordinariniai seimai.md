@@ -91,7 +91,6 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72706
-
 - id: c-71088
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -113,7 +112,6 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72710
-
 - id: c-71089
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -128,8 +126,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72707
-
+    - t-72708
 - id: c-166361
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

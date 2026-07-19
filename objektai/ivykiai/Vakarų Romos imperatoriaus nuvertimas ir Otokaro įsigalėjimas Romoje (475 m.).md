@@ -63,7 +63,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys buvo OCR triukšmingas ir negramatiškas; citata palaiko aiškų faktą."
   pagrindžia:
     - c-169192
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '475 m. herulų valdovas Otokaras, arba Odoakras, užėmė Romą, nuvertė Vakarų Romos imperatorių ir valdė Romoje kaip pirmasis svetimšalis.'
@@ -99,8 +99,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185831
 ## Citatos
 
 - id: c-169192

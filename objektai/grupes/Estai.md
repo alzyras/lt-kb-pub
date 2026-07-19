@@ -115,7 +115,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171074
-
+    - c-004
 <a id="claim-t-192377"></a>
 - t-005
   global_id: t-192377
@@ -314,8 +314,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188180
 ## Citatos
 
 - id: c-22381
@@ -341,7 +340,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65144
-
 - id: c-42665
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -370,7 +368,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65145
-
 - id: c-42666
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -393,7 +390,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65146
-
 - id: c-171074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -413,7 +409,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188180
-
 - id: c-175171
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -436,7 +431,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192377
-
 - id: c-175172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -461,7 +455,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192378
-
 - id: c-175173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -486,7 +479,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192379
-
 ## Ryšiai
 - Buvo užkariauta: [[objektai/asmenys/Germanarikas]]
 - Estai gyveno [[objektai/vietos/Pajūris]], [[objektai/vietos/Peipaus ežeras]]

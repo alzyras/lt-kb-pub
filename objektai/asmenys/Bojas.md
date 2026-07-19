@@ -95,7 +95,6 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191256
-
 - id: c-179304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -115,7 +114,6 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197718
-
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Rinda]]
 - Kariavo prieš: [[objektai/asmenys/Goteris]]

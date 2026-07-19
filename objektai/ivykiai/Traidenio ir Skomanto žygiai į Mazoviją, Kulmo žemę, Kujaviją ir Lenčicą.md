@@ -75,7 +75,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169008
-
+    - c-169009
 <a id="claim-t-196260"></a>
 - t-003
   global_id: t-196260
@@ -123,3 +123,23 @@ Nenurodyta
     - t-185647
     - t-185648
     - t-196260
+- id: c-169009
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 132."
+  citata_originali: |
+    Po atkaklios apsiausties užėmęs
+    Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
+    vė pilį. Traideniui su didžiuliu grobiu pasitraukus iš
+    priešų krašto, beveik jo pėdomis įsiveržė čia naujas
+    priešas ir vėl nusiaubė viską ugnimi ir kalaviju. \ tas
+    pačias žemes įsibrovė Skomantas su žemaičių ir sūdu­
+    vių kariais: jis sudegino apiplėštus Liubavos ir Kulmo
+    miestus ir nusiaubė visą Kujaviją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185648

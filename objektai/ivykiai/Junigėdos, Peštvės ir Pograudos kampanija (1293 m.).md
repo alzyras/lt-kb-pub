@@ -73,7 +73,7 @@ Sudegė abiejų pilių papiliai.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-69725
-
+    - c-001
 <a id="claim-t-70941"></a>
 - t-002
   global_id: t-70941
@@ -90,7 +90,7 @@ Sudegė abiejų pilių papiliai.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-69725
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,9 +106,8 @@ Sudegė abiejų pilių papiliai.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-70938
+    - t-70941
 ## Citatos
 
 - id: c-69725

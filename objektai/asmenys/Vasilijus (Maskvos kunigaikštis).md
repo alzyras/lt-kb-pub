@@ -147,7 +147,6 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185992
-
 - id: c-169354
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -177,7 +176,6 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185993
-
 - id: c-169355
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -213,6 +211,5 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   pagrindzia:
     - t-185994
     - t-196622
-
 ## Ryšiai
 - Vasilijus (Maskvos kunigaikštis) kariavo prieš [[objektai/asmenys/Žygimantas]]

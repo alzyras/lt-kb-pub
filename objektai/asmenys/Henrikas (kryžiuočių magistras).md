@@ -155,7 +155,6 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
   pagrindzia:
     - t-186002
     - t-196468
-
 - id: c-169364
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -182,7 +181,6 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186003
-
 - id: c-169365
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

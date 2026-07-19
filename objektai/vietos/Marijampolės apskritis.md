@@ -87,6 +87,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189023
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lokaičiai]]

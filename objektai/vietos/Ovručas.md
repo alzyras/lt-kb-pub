@@ -107,8 +107,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-38593
@@ -129,6 +127,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36470
-
 ## Ryšiai
 - Užėmė Ovručą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

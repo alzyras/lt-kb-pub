@@ -89,7 +89,6 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31549
-
 - id: c-167729
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -48,7 +48,7 @@ Narbutas Malte-Brunui priskiria nuomonę, kad Kaukazo pavadinimas išvedamas iš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173431
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Malte-Brunui priskiria nuomonę, kad Kaukazo pavadinimas išvedamas iš prūsiško „Khohkasp“ – plikojo kalno.'
@@ -67,8 +67,7 @@ Narbutas Malte-Brunui priskiria nuomonę, kad Kaukazo pavadinimas išvedamas iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190548
 ## Citatos
 
 - id: c-173431

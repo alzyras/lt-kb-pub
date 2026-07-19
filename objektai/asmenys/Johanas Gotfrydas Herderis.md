@@ -55,7 +55,7 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Herderio idėjų paplitimą."
   pagrindžia:
     - c-21727
-
+    - c-73553
 ## Citatos
 
 - id: c-21727
@@ -81,7 +81,6 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75881
-
 - id: c-73553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

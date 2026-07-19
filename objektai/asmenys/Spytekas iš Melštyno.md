@@ -74,6 +74,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40426
-
 ## Ryšiai
 - Spytekas iš Melštyno valdė [[objektai/vietos/Podolė]]

@@ -57,7 +57,7 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174524
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la lanąue russe“, išleistą Sankt Peterburge 1811 metais.'
@@ -77,8 +77,7 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191642
 ## Citatos
 
 - id: c-174524

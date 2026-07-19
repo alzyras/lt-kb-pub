@@ -58,7 +58,7 @@ Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172165
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiulius akmenis, vadintus „Atmeszenes Wiete“.'
@@ -81,8 +81,7 @@ Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189277
 ## Citatos
 
 - id: c-172165

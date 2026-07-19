@@ -54,7 +54,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61498
-
+    - c-005
 <a id="claim-t-60863"></a>
 - t-002
   global_id: t-60863
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   semantiniai_rysiai: "Vilkija priklausė Paštuvos valsčius (0.76); Paštuvos valsčius priklausė Nemunas (0.64)"
   pagrindžia:
     - c-61500
-
+    - c-007
 <a id="claim-t-60864"></a>
 - t-003
   global_id: t-60864
@@ -125,7 +125,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   semantiniai_rysiai: "Pieštvė priklausė Nemunas (0.65)"
   pagrindžia:
     - c-61496
-
+    - c-003
 <a id="claim-t-60867"></a>
 - t-006
   global_id: t-60867
@@ -145,7 +145,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   temporalinis_llm_pakomentavimas: "Citata patvirtina, kad šaltinis minimas prie Kalsheimo lauko lokalizacijos."
   pagrindžia:
     - c-61501
-
+    - c-008
 <a id="claim-t-60868"></a>
 - t-007
   global_id: t-60868
@@ -162,7 +162,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61494
-
+    - c-001
 <a id="claim-t-60869"></a>
 - t-008
   global_id: t-60869
@@ -196,8 +196,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-60868
 - c-003
   santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -211,8 +210,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-60866
 - c-005
   santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Bebirvaitės pilį lokalizuojančių prie Bebirvyčio upelio netoli Bebirvų kaimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -227,8 +225,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60862
 - c-007
   santrauka: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -244,8 +241,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60863
 - c-008
   santrauka: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ siejama su Kalsheimo lauko lokalizavimu į vakarus nuo Veliuonos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -259,8 +255,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-60867
 ## Citatos
 
 - id: c-61494
@@ -284,7 +279,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60868
-
 - id: c-61495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -302,7 +296,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60869
-
 - id: c-61496
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -321,7 +314,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60866
-
 - id: c-61497
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -337,7 +329,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60864
-
 - id: c-61498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -364,7 +355,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60862
-
 - id: c-61499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -383,7 +373,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60865
-
 - id: c-61500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -406,7 +395,6 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60863
-
 - id: c-61501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

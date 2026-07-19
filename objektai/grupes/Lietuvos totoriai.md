@@ -118,7 +118,7 @@ media_all_json: |-
   sudarymo_pagrindimas: 'Mitologinis ir religinis aiškinimas paliktas su Narbuto atribucija. Pašalinta nutrūkusi OCR nuoroda ir nepridėta daugiau, nei leidžia citata.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Barstukai|Barstukai]]'
   pagrindžia:
-    - c-171181
+    - c-005
 - susijęs iš [[objektai/asmenys/Kurovičius.md#claim-t-39772|Kurovičius]]: Kurovičius buvo „vengrų“ pėstininkų rotmistras, kurį paryčiais girti bajorai nužudė kartu su kitais žymesniais belaisviais.
 - susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65305|Kazokai]]: Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.
@@ -154,8 +154,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188287
 ## Citatos
 
 - id: c-75662
@@ -184,7 +183,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78381
-
 - id: c-75663
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -207,7 +205,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78382
-
 - id: c-75664
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -228,7 +225,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78379
-
 - id: c-75665
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

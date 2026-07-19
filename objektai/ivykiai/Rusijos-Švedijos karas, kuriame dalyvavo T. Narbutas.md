@@ -72,7 +72,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172514
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare, buvo kontūzytas mūšyje prie Abo miesto ir netrukus apkurto.'
@@ -89,8 +89,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189631
 ## Citatos
 
 - id: c-172514

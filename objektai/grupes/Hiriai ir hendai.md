@@ -50,7 +50,7 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172432
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno hiriai ir hendai, Raseinių bei Upytės apskrityse.'
@@ -68,8 +68,7 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189544
 ## Citatos
 
 - id: c-172432
@@ -94,6 +93,5 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189544
-
 ## Ryšiai
 - Hiriai ir hendai gyveno [[objektai/vietos/Raseiniai]], [[objektai/vietos/Upytė]]

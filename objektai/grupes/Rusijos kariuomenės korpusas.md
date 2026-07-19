@@ -85,7 +85,6 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41132
-
 - id: c-44842
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -109,7 +108,6 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41133
-
 ## Ryšiai
 - Rusijos kariuomenės korpusas keliavo į [[objektai/vietos/Vilnius]]
 - Rusijos kariuomenės korpusas puolė [[objektai/vietos/Vilnius]]

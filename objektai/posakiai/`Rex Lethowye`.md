@@ -98,7 +98,6 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186411
-
 - id: c-169753
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

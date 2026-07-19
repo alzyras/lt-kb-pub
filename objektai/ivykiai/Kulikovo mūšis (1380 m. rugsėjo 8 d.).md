@@ -119,6 +119,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86954
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/asmenys/Andrius Algirdaitis]]

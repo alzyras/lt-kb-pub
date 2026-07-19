@@ -103,7 +103,6 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45013
-
 - id: c-176231
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

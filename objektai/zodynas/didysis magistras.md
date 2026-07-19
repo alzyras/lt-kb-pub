@@ -100,7 +100,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-104814
-
+    - c-003
 <a id="claim-t-113615"></a>
 - t-004
   global_id: t-113615
@@ -368,8 +368,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-113614
 ## Citatos
 
 - id: c-44160
@@ -391,8 +390,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113613
-
+    - t-113622
 - id: c-104813
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -418,7 +416,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   pagrindzia:
     - t-113612
     - t-113620
-
 - id: c-104814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -442,7 +439,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113614
-
 - id: c-104815
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -490,7 +486,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113618
-
 - id: c-104816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -533,7 +528,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113615
-
 - id: c-104817
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -549,7 +543,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113616
-
 - id: c-179012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

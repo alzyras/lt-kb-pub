@@ -74,7 +74,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie šiame šaltinyje esančią informaciją."
   pagrindžia:
     - c-61577
-
+    - c-003
 <a id="claim-t-60945"></a>
 - t-003
   global_id: t-60945
@@ -128,8 +128,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60944
 ## Citatos
 
 - id: c-61575
@@ -154,7 +153,6 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60943
-
 - id: c-61576
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -172,7 +170,6 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60945
-
 - id: c-61577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -195,7 +192,6 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60944
-
 - id: c-61578
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -48,7 +48,7 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173256
-
+    - c-001
 <a id="claim-t-190374"></a>
 - t-002
   global_id: t-190374
@@ -89,8 +89,7 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190373
 ## Citatos
 
 - id: c-173256
@@ -118,7 +117,6 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190373
-
 - id: c-173257
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

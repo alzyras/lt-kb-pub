@@ -50,7 +50,7 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175699
-
+    - c-001
 <a id="claim-t-192930"></a>
 - t-002
   global_id: t-192930
@@ -72,7 +72,7 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175700
-
+    - c-002
 <a id="claim-t-192931"></a>
 - t-003
   global_id: t-192931
@@ -127,8 +127,7 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192929
 - c-002
   santrauka: 'Narbutas rašo, kad skiriai su sudargais po gotų žygių kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandakoso.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -153,8 +152,7 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192930
 ## Citatos
 
 - id: c-175699
@@ -189,7 +187,6 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192929
-
 - id: c-175700
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -219,7 +216,6 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192930
-
 - id: c-175701
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

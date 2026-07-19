@@ -48,7 +48,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174611
-
+    - c-002
 <a id="claim-t-191730"></a>
 - t-001
   global_id: t-191730
@@ -106,8 +106,6 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas rašo, kad Nestoras išsaugojo nepilną krivičių gyvenimo paveikslą: palaikų deginimą, pelenų rinkimą į urnas ir laidotuvių turnyrus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -127,8 +125,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191729
 ## Citatos
 
 - id: c-174611
@@ -157,7 +154,6 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191729
-
 - id: c-174612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -181,7 +177,6 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191730
-
 - id: c-179294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

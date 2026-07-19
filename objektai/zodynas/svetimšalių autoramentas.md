@@ -96,7 +96,6 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78910
-
 - id: c-76014
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -113,7 +112,6 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78908
-
 - id: c-76015
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

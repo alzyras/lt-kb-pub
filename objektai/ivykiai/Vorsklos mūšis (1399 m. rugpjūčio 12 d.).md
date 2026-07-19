@@ -224,7 +224,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63377
-
 - id: c-43141
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -244,7 +243,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63383
-
 - id: c-167069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -275,7 +273,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183677
-
 - id: c-167619
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

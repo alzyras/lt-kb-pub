@@ -61,7 +61,7 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173315
-
+    - c-001
 <a id="claim-t-190746"></a>
 - t-002
   global_id: t-190746
@@ -82,7 +82,7 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173628
-
+    - c-002
 <a id="claim-t-190747"></a>
 - t-003
   global_id: t-190747
@@ -148,8 +148,7 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190432
 - c-002
   santrauka: 'Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -167,8 +166,7 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190746
 ## Citatos
 
 - id: c-173315
@@ -196,7 +194,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190432
-
 - id: c-173628
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -220,7 +217,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   pagrindzia:
     - t-190746
     - t-197615
-
 - id: c-173629
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -241,7 +237,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190747
-
 - id: c-176258
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

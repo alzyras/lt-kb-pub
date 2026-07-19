@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   semantiniai_rysiai: "Judas Makabėjus kariavo prieš Antiochas Eupatoras (0.96); Judas Makabėjus kariavo prieš Bachidas (0.93)"
   pagrindžia:
     - c-60870
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60238
 ## Citatos
 
 - id: c-60870
@@ -108,6 +107,5 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60238
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Judas Makabėjus]]

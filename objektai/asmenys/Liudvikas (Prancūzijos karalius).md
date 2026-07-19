@@ -135,7 +135,6 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   pagrindzia:
     - t-60050
     - t-194502
-
 - id: c-60682
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

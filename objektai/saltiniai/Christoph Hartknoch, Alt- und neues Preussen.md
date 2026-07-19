@@ -70,7 +70,7 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174594
-
+    - c-002
 <a id="claim-t-197667"></a>
 - t-003
   global_id: t-197667
@@ -104,8 +104,7 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191712
 ## Citatos
 
 - id: c-174593
@@ -128,7 +127,6 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191711
-
 - id: c-174594
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -153,7 +151,6 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191712
-
 - id: c-179287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

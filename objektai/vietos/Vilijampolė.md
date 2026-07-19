@@ -53,6 +53,7 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, datuotas ir paremtas citata apie Vilijampolę."
   pagrindžia:
     - c-24563
+    - c-167033
 - susijęs iš [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.).md#claim-t-20531|Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]: 1941 m. birželio 26 d. Vilijampolėje ir birželio 27 d. Kauno „Lietūkio“ garaže įvyko SD inspiruoti žiaurūs pogromai.
 ## Citatos
 
@@ -80,7 +81,6 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21883
-
 - id: c-167033
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

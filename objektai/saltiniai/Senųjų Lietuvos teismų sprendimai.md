@@ -55,7 +55,7 @@ Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173443
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi žmonės priesaikos metu „dėjo kepures“.'
@@ -76,8 +76,7 @@ Narbutas senųjų Lietuvos teismų sprendimuose cituoja liudijimą, kad patikimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190560
 ## Citatos
 
 - id: c-173443

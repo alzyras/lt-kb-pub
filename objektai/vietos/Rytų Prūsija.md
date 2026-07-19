@@ -170,7 +170,6 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170846
-
 - id: c-155456
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,7 +187,6 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170847
-
 - id: c-167023
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -209,7 +207,6 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   pagrindzia:
     - t-170843
     - t-170844
-
 - id: c-167024
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,7 +224,6 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183632
-
 - id: c-175520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -246,6 +242,5 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192750
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Vokiečiai]]

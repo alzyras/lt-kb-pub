@@ -101,7 +101,6 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58568
-
 - id: c-59201
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -123,6 +122,5 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58569
-
 ## Ryšiai
 - Katavos valsčius priklausė [[objektai/vietos/Nadruva]]

@@ -59,7 +59,7 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173178
-
+    - c-001
 <a id="claim-t-190296"></a>
 - t-002
   global_id: t-190296
@@ -133,8 +133,7 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190295
 ## Citatos
 
 - id: c-173178
@@ -166,7 +165,6 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190295
-
 - id: c-173179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -192,7 +190,6 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   pagrindzia:
     - t-190296
     - t-197293
-
 - id: c-173180
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

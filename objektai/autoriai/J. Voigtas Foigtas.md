@@ -78,7 +78,7 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174435
-
+    - c-002
 <a id="claim-t-191554"></a>
 - t-003
   global_id: t-191554
@@ -131,8 +131,7 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191553
 - c-003
   santrauka: 'Narbutas teigė, kad Foigtas pasiklydo prielaidose apie skirių ir hirių gentis ir padarė visiškai netaiklių išvadų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -154,9 +153,6 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-004
-
 ## Citatos
 
 - id: c-174434
@@ -182,7 +178,6 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191552
-
 - id: c-174435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -205,7 +200,6 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191553
-
 - id: c-174436
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -118,7 +118,6 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87519
-
 - id: c-83498
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

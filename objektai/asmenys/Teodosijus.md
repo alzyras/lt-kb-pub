@@ -71,7 +71,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177119
-
+    - c-002
 <a id="claim-t-197456"></a>
 - t-003
   global_id: t-197456
@@ -105,8 +105,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194723
 ## Citatos
 
 - id: c-32808
@@ -128,7 +127,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30394
-
 - id: c-177119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

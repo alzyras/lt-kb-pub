@@ -50,6 +50,7 @@ Narbutas Krewe-Krewejto pateikia kaip tikslų vyriausiojo žynio pavadinimą, re
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172189
+    - c-001
 - susijęs iš [[objektai/zodynas/Krivis Krewe Kriwe.md#claim-t-189200|Krivis Krewe Kriwe]]: Narbutas remiasi Pretorijumi aiškindamas, kad „Kreive“ arba „Kriwe“ reiškė žynį arba tautos teisėją.
 - susijęs iš [[objektai/zodynas/Krivūlė Krewule Krewula.md#claim-t-189202|Krivūlė Krewule Krewula]]: Narbutas remiasi Pretorijumi aiškindamas, kad „Krewule“ vadinti mažieji kriviai, žemesnės kategorijos teisėjai arba žyniai.
 - susijęs iš [[objektai/zodynas/Krivūlė Krewule.md#claim-t-189304|Krivūlė Krewule]]: Narbutas remiasi Pretorijumi aiškindamas, kad „Krewule“ vadinti mažieji kriviai, žemesnės kategorijos teisėjai arba žyniai.
@@ -74,8 +75,7 @@ Narbutas Krewe-Krewejto pateikia kaip tikslų vyriausiojo žynio pavadinimą, re
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189302
 ## Citatos
 
 - id: c-172189

@@ -112,7 +112,6 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67453
-
 - id: c-67347
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -134,7 +133,6 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67449
-
 - id: c-67348
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -155,7 +153,6 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67448
-
 - id: c-67350
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -174,7 +171,6 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67451
-
 - id: c-178646
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

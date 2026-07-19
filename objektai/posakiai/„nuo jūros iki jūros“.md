@@ -137,7 +137,6 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - t-26654
     - t-26906
     - t-75621
-
 - id: c-73342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

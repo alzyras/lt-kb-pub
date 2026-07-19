@@ -127,7 +127,6 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   pagrindzia:
     - t-91761
     - t-91762
-
 - id: c-167600
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -150,6 +149,5 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91764
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -55,7 +55,7 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, leidimo metus ir veikalo pobūdį."
   pagrindžia:
     - c-167818
-
+    - c-001
 <a id="claim-t-190692"></a>
 - t-002
   global_id: t-190692
@@ -76,7 +76,7 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173574
-
+    - c-002
 <a id="claim-t-190693"></a>
 - t-003
   global_id: t-190693
@@ -117,8 +117,7 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-184465
 - c-002
   santrauka: 'Augustas Liudvigas Šleceris rašė, kad prūsai prieš tūkstantį metų kavalerija nugalėdavo savo užpuolikus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -135,8 +134,7 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190692
 ## Citatos
 
 - id: c-167818
@@ -161,7 +159,6 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184465
-
 - id: c-173574
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -183,7 +180,6 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190692
-
 - id: c-173575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -1059,7 +1059,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-181258
-
+    - c-181242
 <a id="claim-t-198932"></a>
 - t-059
   global_id: t-198932
@@ -1146,7 +1146,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-181267
-
+    - c-163095
 <a id="claim-t-198961"></a>
 - t-065
   global_id: t-198961
@@ -1167,7 +1167,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-181267
-
+    - c-163095
 <a id="claim-t-198963"></a>
 - t-066
   global_id: t-198963
@@ -1328,8 +1328,7 @@ media_all_json: |-
   susije_objektai: "mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ryga"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-181242
-
+    - c-31222
 <a id="claim-t-199003"></a>
 - t-077
   global_id: t-199003
@@ -1409,7 +1408,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179391
-
 - id: c-22663
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1425,7 +1423,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179410
-
 - id: c-36906
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1443,7 +1440,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179370
-
 - id: c-36908
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1463,7 +1459,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179415
-
 - id: c-36911
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1505,7 +1500,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179394
-
 - id: c-163058
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1534,7 +1528,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179417
-
 - id: c-163060
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1566,7 +1559,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179388
-
 - id: c-163061
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1587,7 +1579,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179384
-
 - id: c-163065
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1609,7 +1600,6 @@ media_all_json: |-
   pagrindzia:
     - t-179357
     - t-179426
-
 - id: c-163066
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1630,7 +1620,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179363
-
 - id: c-163068
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1654,7 +1643,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179369
-
 - id: c-163070
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1673,7 +1661,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179406
-
 - id: c-163071
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1694,7 +1681,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179409
-
 - id: c-163074
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1720,7 +1706,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179377
-
 - id: c-163076
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1742,7 +1727,6 @@ media_all_json: |-
   pagrindzia:
     - t-179434
     - t-179436
-
 - id: c-163078
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1768,7 +1752,6 @@ media_all_json: |-
   pagrindzia:
     - t-179379
     - t-179414
-
 - id: c-163084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1791,7 +1774,6 @@ media_all_json: |-
   pagrindzia:
     - t-179389
     - t-179408
-
 - id: c-163085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1809,7 +1791,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179351
-
 - id: c-163086
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1831,7 +1812,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179407
-
 - id: c-163089
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1850,7 +1830,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179424
-
 - id: c-163094
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1869,7 +1848,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179393
-
 - id: c-163097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1892,7 +1870,6 @@ media_all_json: |-
   pagrindzia:
     - t-179387
     - t-179431
-
 - id: c-163103
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1912,8 +1889,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179374
-
+    - t-179400
 - id: c-163107
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1946,7 +1922,6 @@ media_all_json: |-
   pagrindzia:
     - t-179367
     - t-179382
-
 - id: c-163112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1969,7 +1944,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179405
-
 - id: c-163113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1988,7 +1962,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179390
-
 - id: c-163114
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2017,7 +1990,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179381
-
 - id: c-163115
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2042,7 +2014,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179356
-
 - id: c-163116
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2069,7 +2040,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179411
-
 - id: c-163118
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2097,7 +2067,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179352
-
 - id: c-163121
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2123,7 +2092,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179378
-
 - id: c-163124
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2153,7 +2121,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179399
-
 - id: c-163127
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2172,7 +2139,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179421
-
 - id: c-163128
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2197,7 +2163,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179402
-
 - id: c-163129
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2221,7 +2186,6 @@ media_all_json: |-
   pagrindzia:
     - t-179366
     - t-179392
-
 - id: c-175874
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2240,7 +2204,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193114
-
 - id: c-175875
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2257,7 +2220,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193115
-
 - id: c-176046
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2300,7 +2262,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193318
-
 - id: c-176049
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2333,7 +2294,6 @@ media_all_json: |-
   pagrindzia:
     - t-193321
     - t-196112
-
 - id: c-176050
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2359,7 +2319,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193322
-
 - id: c-176051
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2395,7 +2354,6 @@ media_all_json: |-
   pagrindzia:
     - t-193322
     - t-193323
-
 - id: c-176052
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2429,7 +2387,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193324
-
 - id: c-176482
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2467,7 +2424,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193838
-
 - id: c-178534
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2502,7 +2458,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196110
-
 - id: c-178535
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2530,7 +2485,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196111
-
 - id: c-181236
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2551,7 +2505,6 @@ media_all_json: |-
   pagrindzia:
     - t-198963
     - t-198974
-
 - id: c-181237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2634,7 +2587,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198983
-
 - id: c-181242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2654,8 +2606,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-198999
-
+    - t-198930
 - id: c-181243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2696,7 +2647,6 @@ media_all_json: |-
   pagrindzia:
     - t-198995
     - t-198997
-
 - id: c-181245
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2711,7 +2661,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198943
-
 - id: c-181250
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2802,7 +2751,6 @@ media_all_json: |-
   pagrindzia:
     - t-198928
     - t-198969
-
 - id: c-181254
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2902,7 +2850,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198930
-
 - id: c-181259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2960,7 +2907,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198932
-
 - id: c-181262
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3024,7 +2970,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198988
-
 - id: c-181265
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3066,7 +3011,6 @@ media_all_json: |-
   pagrindzia:
     - t-198958
     - t-198961
-
 - id: c-181268
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3133,8 +3077,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-12379
-
 - id: c-181274
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3245,7 +3187,6 @@ media_all_json: |-
   pagrindzia:
     - t-198993
     - t-199003
-
 - id: c-181278
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3306,7 +3247,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198929
-
 - id: c-181281
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3349,7 +3289,6 @@ media_all_json: |-
   pagrindzia:
     - t-198934
     - t-198967
-
 - id: c-181283
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3432,7 +3371,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198926
-
 - id: c-181289
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3454,7 +3392,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198937
-
 - id: c-181290
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3536,7 +3473,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198980
-
 - id: c-181294
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3645,7 +3581,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198936
-
 - id: c-181299
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3701,7 +3636,46 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-
+- id: c-31222
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Mindaugui buvo savotiška laimė, kad Tautvilas krikštijosi pas
+    Rygos arkivyskupą, kuriam nebenorėjo paklusti Livonijos ordinas.
+    Naudodamasis tokia savo priešų nesantaika, Mindaugas pirmasis iš
+    lietuvių kunigaikščių gelbėjosi iš savo sunkios padėties, kreipdamasis
+    į Livonijos ordino magistrą ir siųsdamas jam įvairių brangių dovanų^86.
+    Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes
+    ir magistrui Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais
+    nebuvo pakeliui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198999
+- id: c-163095
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    O vasaros žygis buvo ruošiamas apie rug­
+    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
+    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
+    kryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje
+    ordino riterių suorganizuoti savanorių — « plėšikėlių » (vad. « strut­
+    ter », «latrunculi ») nuolatiniai plėšikavimai, be to, pasienių pilių
+    valdytojų vykdomi teriojimai į artimas Žemaičių ir Aukštaičių
+    žemes.
+  citata_rodoma: "Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų\nkryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje\nordino riterių suorganizuoti savanorių — « plėšikėlių » (vad."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198958
+    - t-198961
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Švitrigaila]]
 - Sudarė sutartį su: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

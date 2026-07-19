@@ -73,7 +73,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174918
-
+    - c-002
 <a id="claim-t-192048"></a>
 - t-002
   global_id: t-192048
@@ -95,7 +95,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174917
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai.'
@@ -114,8 +114,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192048
 - c-002
   santrauka: 'Griškaitės aiškinimu, Lavrovo laiškai rodė, kad lietuvių kilmės klausimas penktajame dešimtmetyje tebebuvo diskusijų objektas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -136,8 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192047
 ## Citatos
 
 - id: c-174917
@@ -163,7 +161,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192048
-
 - id: c-174918
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -77,7 +77,7 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171557
-
+    - c-002
 <a id="claim-t-197851"></a>
 - t-003
   global_id: t-197851
@@ -120,8 +120,7 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188668
 ## Citatos
 
 - id: c-26551
@@ -149,7 +148,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26326
-
 - id: c-171557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -179,7 +177,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188668
-
 - id: c-179362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

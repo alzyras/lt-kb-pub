@@ -144,7 +144,6 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86733
-
 - id: c-82710
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -183,7 +182,6 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86731
-
 - id: c-82711
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -207,7 +205,6 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86730
-
 - id: c-82712
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

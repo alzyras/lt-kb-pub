@@ -96,7 +96,6 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01420
-
 - id: c-166313
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

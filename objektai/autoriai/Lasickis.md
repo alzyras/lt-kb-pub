@@ -41,6 +41,7 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173320
+    - c-001
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188552|Janas Lasickis]]: Vienintelis Lasickis išsaugojo mums šį faktą.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188556|Janas Lasickis]]: Pasak Narbuto perteikiamų Lasickio tyrimų, Alabatės buvo šaukiamasi dirbant linininkystės darbus.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188557|Janas Lasickis]]: Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.
@@ -137,8 +138,7 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190437
 ## Citatos
 
 - id: c-173320

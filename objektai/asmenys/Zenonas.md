@@ -82,7 +82,7 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173883
-
+    - c-002
 <a id="claim-t-197845"></a>
 - t-003
   global_id: t-197845
@@ -128,8 +128,7 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191001
 ## Citatos
 
 - id: c-38168
@@ -154,7 +153,6 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35392
-
 - id: c-173883
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

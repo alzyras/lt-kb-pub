@@ -208,7 +208,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87939
-
 - id: c-83919
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -232,7 +231,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87938
-
 - id: c-83920
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -252,7 +250,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87942
-
 - id: c-83921
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -279,7 +276,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87941
-
 - id: c-83922
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -308,7 +304,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87944
-
 - id: c-83923
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -344,7 +339,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87940
-
 - id: c-83924
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -380,7 +374,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87945
-
 - id: c-176799
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

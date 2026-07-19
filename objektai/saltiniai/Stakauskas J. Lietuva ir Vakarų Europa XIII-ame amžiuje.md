@@ -53,7 +53,7 @@ Dusburgietis teigia, kad stakauskas J.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą ir leidimo metus."
   pagrindžia:
     - c-61928
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad stakauskas J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61296
 ## Citatos
 
 - id: c-61928

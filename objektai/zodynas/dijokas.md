@@ -73,4 +73,4 @@ Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus pasiuntinių grupėje su 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187550

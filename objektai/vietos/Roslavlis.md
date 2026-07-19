@@ -47,7 +47,7 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170346
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.'
@@ -67,8 +67,7 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187311
 ## Citatos
 
 - id: c-170346

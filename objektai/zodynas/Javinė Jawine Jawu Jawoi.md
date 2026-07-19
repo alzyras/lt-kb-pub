@@ -42,7 +42,7 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172187
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir sieja ją su Krūmine.'
@@ -58,8 +58,7 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189299
 ## Citatos
 
 - id: c-172187

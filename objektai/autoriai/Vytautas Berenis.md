@@ -87,7 +87,7 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
   sudarymo_pagrindimas: 'Išskleistas subjektas Vytautas Berenis ir jo vertinamasis apibūdinimas apie Teodorą Narbutą. Vertinimas paliktas kaip Berenio formuluotė, nepridedant platesnio konteksto.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Viena'
   pagrindžia:
-    - c-171377
+    - c-003
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
 - susijęs iš Vytauto Berenio ir Norberto Vėliaus įvadiniai straipsniai Teodoro Narbuto LTI leidinyje: Įvadiniuose straipsniuose Vytautas Berenis ir Norbertas Vėlius išsamiai aptarė „Lietuvių mitologijai“ tekusią mokslinę kritiką.
 - susijęs iš [[objektai/asmenys/Tadas Kosciuška.md#claim-t-82740|Tadas Kosciuška]]: Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse.
@@ -125,8 +125,7 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188487
 ## Citatos
 
 - id: c-55557
@@ -146,7 +145,6 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54651
-
 - id: c-55558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

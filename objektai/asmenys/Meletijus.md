@@ -41,7 +41,7 @@ Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorija
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177223
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.'
@@ -60,8 +60,7 @@ Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194827
 ## Citatos
 
 - id: c-177223

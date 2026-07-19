@@ -103,7 +103,6 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88159
-
 - id: c-84138
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

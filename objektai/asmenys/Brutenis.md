@@ -96,7 +96,6 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190089
-
 - id: c-184323
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

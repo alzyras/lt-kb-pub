@@ -78,6 +78,5 @@ Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86825
-
 ## Ryšiai
 - Silezijos ir Vroclavo gyventojai keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

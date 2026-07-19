@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiksliai nusako citatoje pagrįstą faktą."
   pagrindžia:
     - c-168898
-
+    - c-001
 <a id="claim-t-185538"></a>
 - t-002
   global_id: t-185538
@@ -135,8 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185537
 ## Citatos
 
 - id: c-168898
@@ -181,7 +180,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185537
-
 - id: c-168899
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

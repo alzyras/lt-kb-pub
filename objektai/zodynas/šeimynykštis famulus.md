@@ -46,7 +46,7 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
   semantiniai_rysiai: "Gerhardas (valdovas) gyveno Marienburgas (0.93)"
   pagrindžia:
     - c-59517
-
+    - c-001
 <a id="claim-t-58886"></a>
 - t-002
   global_id: t-58886
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59518
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis.'
@@ -86,8 +86,7 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58885
 - c-002
   santrauka: 'Skomanto šeimynykštis išvadavo brolį Liudviką iš nelaisvės ir sugrąžino pas brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,8 +102,7 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58886
 ## Citatos
 
 - id: c-59517
@@ -135,7 +133,6 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58885
-
 - id: c-59518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

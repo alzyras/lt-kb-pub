@@ -86,7 +86,6 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22018
-
 - id: c-166852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -105,7 +104,6 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183457
-
 - id: c-176284
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -84,7 +84,7 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Alšėnų kunigaikščių giminės narį ir jo pareigas Kijeve. Nepridėta mirties ar pirmojo paminėjimo informacija.'
   pagrindžia:
-    - c-170642
+    - c-003
 - susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-183181|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-20002|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
 - susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-183182|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
@@ -110,8 +110,7 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187703
 ## Citatos
 
 - id: c-22329
@@ -135,7 +134,6 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74068
-
 - id: c-72148
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

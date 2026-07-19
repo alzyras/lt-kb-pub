@@ -103,7 +103,6 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183466
-
 - id: c-166862
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

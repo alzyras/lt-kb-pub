@@ -89,7 +89,6 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88324
-
 - id: c-176815
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

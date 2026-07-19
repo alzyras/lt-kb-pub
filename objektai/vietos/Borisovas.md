@@ -95,6 +95,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168295
+    - c-003
 - susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-190853|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184907|Žygimantas]]: Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.
 - susijęs iš [[objektai/autoriai/Eustachijus Tiškevičius.md#claim-t-191564|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
@@ -145,8 +146,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-184934
 ## Citatos
 
 - id: c-105319
@@ -182,7 +182,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114162
-
 - id: c-167165
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -228,7 +227,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114163
-
 - id: c-168295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -265,6 +263,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184934
-
 ## Ryšiai
 - Užėmė Borisovą: [[objektai/grupes/Totorių pajėgos]]

@@ -82,7 +82,6 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40457
-
 - id: c-44530
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

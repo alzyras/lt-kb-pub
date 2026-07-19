@@ -280,7 +280,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34572
-
 - id: c-175288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -303,7 +302,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192498
-
 - id: c-177266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -324,7 +322,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194870
-
 - id: c-177341
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -345,7 +342,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194945
-
 - id: c-184106
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -363,6 +359,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200761
-
 ## Ryšiai
 - Herbas priklausė [[objektai/asmenys/Ostapas Kropotkovas]], [[objektai/vietos/Vilnius]]

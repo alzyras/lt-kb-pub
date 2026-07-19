@@ -93,7 +93,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64983
-
 - id: c-184292
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

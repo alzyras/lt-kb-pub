@@ -73,4 +73,4 @@ S. M. Kuczynskio nuomone, apie 85 procentai Bychovco kronikos pasakojimo faktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194149

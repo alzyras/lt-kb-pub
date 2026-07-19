@@ -55,7 +55,7 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, turi išnašos triukšmo ir rašybos klaidą."
   pagrindžia:
     - c-87068
-
+    - c-002
 <a id="claim-t-91353"></a>
 - t-002
   global_id: t-91353
@@ -113,8 +113,7 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91352
 ## Citatos
 
 - id: c-87067
@@ -137,7 +136,6 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91353
-
 - id: c-87068
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -158,7 +156,6 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91352
-
 - id: c-87069
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -175,6 +172,5 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91354
-
 ## Ryšiai
 - Retavos valsčius priklausė [[objektai/vietos/Nadruva]]

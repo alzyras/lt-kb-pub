@@ -48,6 +48,7 @@ Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173107
+    - c-001
 - susijęs iš [[objektai/asmenys/Bodhidana.md#claim-t-190135|Bodhidana]]: Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m.
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,8 +71,7 @@ Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190224
 ## Citatos
 
 - id: c-173107

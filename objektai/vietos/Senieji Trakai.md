@@ -97,7 +97,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-175832
-
+    - c-002
 <a id="claim-t-193067"></a>
 - t-003
   global_id: t-193067
@@ -136,8 +136,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-193066
 ## Citatos
 
 - id: c-05670
@@ -156,7 +155,6 @@ Nenurodyta
   pagrindzia:
     - t-193065
     - t-193067
-
 - id: c-175832
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

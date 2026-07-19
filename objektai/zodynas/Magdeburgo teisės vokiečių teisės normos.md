@@ -89,7 +89,6 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86482
-
 - id: c-176818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

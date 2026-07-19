@@ -42,7 +42,7 @@ Betgi Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenenbergeris pirmas
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177238
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Betgi Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenenbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar ba.'
@@ -67,8 +67,7 @@ Betgi Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenenbergeris pirmas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194842
 ## Citatos
 
 - id: c-177238

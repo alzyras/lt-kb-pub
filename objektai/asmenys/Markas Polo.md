@@ -48,7 +48,7 @@ Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuoki
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174324
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuokiamos, bet Barovas jas vėliau siejo su jėzuitų aprašymais.'
@@ -68,8 +68,7 @@ Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuoki
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191442
 ## Citatos
 
 - id: c-174324

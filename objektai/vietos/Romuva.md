@@ -74,7 +74,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24437
-
+    - c-167019
 <a id="claim-t-84718"></a>
 - t-004
   global_id: t-84718
@@ -185,7 +185,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84716
-
 - id: c-24437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -204,7 +203,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84717
-
 - id: c-80850
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -225,7 +223,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84715
-
 - id: c-80851
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -245,7 +242,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84718
-
 - id: c-167018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -263,7 +259,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183626
-
 - id: c-167019
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

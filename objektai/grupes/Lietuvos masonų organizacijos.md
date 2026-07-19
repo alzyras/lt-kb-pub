@@ -62,7 +62,7 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170858
-
+    - c-001
 <a id="claim-t-188045"></a>
 - t-002
   global_id: t-188045
@@ -101,8 +101,7 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188044
 ## Citatos
 
 - id: c-170858
@@ -126,7 +125,6 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188044
-
 - id: c-171055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -68,8 +68,7 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-
+    - t-187365
 - id: c-170379
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -87,4 +86,4 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-187366

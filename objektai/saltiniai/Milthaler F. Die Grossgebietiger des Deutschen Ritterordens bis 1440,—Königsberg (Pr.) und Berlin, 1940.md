@@ -55,7 +55,7 @@ Dusburgietis teigia, kad milthaler F.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietas ir metus."
   pagrindžia:
     - c-61814
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'F. Milthalerio „Die Grossgebietiger des Deutschen Ritterordens bis 1440“ išleista Karaliaučiuje ir Berlyne 1940 m.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad milthaler F.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61182
 ## Citatos
 
 - id: c-61814

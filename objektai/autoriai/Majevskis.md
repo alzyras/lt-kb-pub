@@ -59,6 +59,7 @@ Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173321
+    - c-001
 - susijęs iš Majevskio studija apie Indijos budinų hierarchiją: Narbutas skaitytoją nukreipia į Majevskio studiją apie Indijos budinų hierarchiją, išspausdintą „Zbior rozpraw“ 1827 m.
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,8 +74,7 @@ Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190438
 ## Citatos
 
 - id: c-173321

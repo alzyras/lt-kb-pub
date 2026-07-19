@@ -56,7 +56,7 @@ Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J.
   temporalinis_llm_pakomentavimas: "Citata leidžia susieti autorių su konkrečiu cituojamu darbu."
   pagrindžia:
     - c-61401
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Piętka cituojamas dėl darbo „Geneza mazowieckiej...“, siejamo su Hugono Butyro veiklos Kulme aiškinimu.'
@@ -74,8 +74,7 @@ Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60769
 ## Citatos
 
 - id: c-61401

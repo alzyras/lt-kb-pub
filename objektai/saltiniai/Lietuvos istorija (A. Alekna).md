@@ -118,7 +118,6 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
   pagrindzia:
     - t-97255
     - t-97257
-
 - id: c-91741
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

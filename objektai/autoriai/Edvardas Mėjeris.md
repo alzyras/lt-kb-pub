@@ -48,7 +48,7 @@ T. Narbutas lyginamąją mitologinę medžiagą ėmė ir iš Edvardo Mėjerio mi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173208
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Narbutas lyginamąją mitologinę medžiagą ėmė ir iš Edvardo Mėjerio mitologinio žodyno.'
@@ -64,8 +64,7 @@ T. Narbutas lyginamąją mitologinę medžiagą ėmė ir iš Edvardo Mėjerio mi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190325
 ## Citatos
 
 - id: c-173208

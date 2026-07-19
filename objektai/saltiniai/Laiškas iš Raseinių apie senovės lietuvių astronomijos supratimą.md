@@ -56,7 +56,7 @@ Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško frag
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174673
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško fragmentu.'
@@ -78,8 +78,7 @@ Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško frag
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191791
 ## Citatos
 
 - id: c-174673

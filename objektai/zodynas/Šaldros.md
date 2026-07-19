@@ -75,7 +75,6 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   pagrindzia:
     - t-70422
     - t-70423
-
 - id: c-09775
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

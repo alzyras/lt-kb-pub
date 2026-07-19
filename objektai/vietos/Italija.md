@@ -215,7 +215,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   semantiniai_rysiai: "Gotai buvo priešas Herulai (0.91)"
   pagrindžia:
     - c-171589
-
+    - c-007
 <a id="claim-t-192667"></a>
 - t-009
   global_id: t-192667
@@ -475,8 +475,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-188700
 ## Citatos
 
 - id: c-46502
@@ -501,7 +500,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindzia:
     - t-114293
     - t-114294
-
 - id: c-105413
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -524,8 +522,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-114298
-
+    - t-114299
 - id: c-105417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -551,7 +548,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114296
-
 - id: c-166413
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -569,7 +565,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183020
-
 - id: c-166414
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -592,7 +587,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindzia:
     - t-114297
     - t-183021
-
 - id: c-168323
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -623,7 +617,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184962
-
 - id: c-171589
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -654,7 +647,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188700
-
 - id: c-175437
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -673,7 +665,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192667
-
 - id: c-176308
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -691,7 +682,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193637
-
 - id: c-184123
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -711,7 +701,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200778
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Odoakras]]
 - Buvo žygio kryptis: [[objektai/asmenys/Karolis Didysis]]

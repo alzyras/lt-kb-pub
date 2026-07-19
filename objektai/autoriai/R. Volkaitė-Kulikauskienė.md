@@ -100,7 +100,6 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97218
-
 - id: c-91703
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -96,6 +96,5 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   pagrindzia:
     - t-60188
     - t-197140
-
 ## Ryšiai
 - Otonas (Brandenburgo markgrafas) surengė žygį į [[objektai/vietos/Prūsija]]

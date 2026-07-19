@@ -108,7 +108,6 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87598
-
 - id: c-83578
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

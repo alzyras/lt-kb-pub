@@ -49,7 +49,7 @@ Dusburgietis teigia, kad labuda G.
   temporalinis_llm_pakomentavimas: "Citata patvirtina publikacijos pavadinimą, metus, vietą ir leidinį."
   pagrindžia:
     - c-61754
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'G. Labudos „Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228–1454“ paskelbta 1954 m. Varšuvoje, „Przegląd historyczny“ 45 tome.'
@@ -63,8 +63,7 @@ Dusburgietis teigia, kad labuda G.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61122
 ## Citatos
 
 - id: c-61754

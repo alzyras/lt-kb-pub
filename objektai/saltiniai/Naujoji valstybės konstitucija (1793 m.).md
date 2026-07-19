@@ -67,7 +67,6 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67493
-
 - id: c-67384
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

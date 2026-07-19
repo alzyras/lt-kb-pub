@@ -68,6 +68,5 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35217
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

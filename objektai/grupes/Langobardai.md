@@ -103,6 +103,5 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185424
-
 ## Ryšiai
 - Langobardai sudarė sutartį su [[objektai/grupes/Romėnai]]

@@ -43,7 +43,7 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173231
-
+    - c-001
 <a id="claim-t-190349"></a>
 - t-002
   global_id: t-190349
@@ -64,7 +64,7 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173232
-
+    - c-002
 <a id="claim-t-190696"></a>
 - t-003
   global_id: t-190696
@@ -85,7 +85,7 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
   pagrindžia:
     - c-173578
-
+    - c-003
 <a id="claim-t-190697"></a>
 - t-004
   global_id: t-190697
@@ -123,8 +123,7 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190348
 - c-002
   santrauka: 'Narbutas nurodo, kad Erazmas Stela, remdamasis Lietuvos padavimais, laidojimo apeigų tvarką siejo su Vaidevučio laikais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -143,8 +142,7 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190349
 - c-003
   santrauka: 'Narbuto aiškinimu, Erazmas Stela lietuvių kilmę iš alanų siejo su į šias šalis atėjusių hunų antplūdžiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -167,8 +165,7 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190696
 ## Citatos
 
 - id: c-173231
@@ -189,7 +186,6 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190348
-
 - id: c-173232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -215,7 +211,6 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190349
-
 - id: c-173578
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -243,7 +238,6 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190696
-
 - id: c-173579
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

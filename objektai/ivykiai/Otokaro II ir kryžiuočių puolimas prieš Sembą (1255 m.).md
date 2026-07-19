@@ -93,6 +93,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59667
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Otokaras II]]

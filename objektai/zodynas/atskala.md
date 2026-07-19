@@ -57,7 +57,7 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   temporalinis_llm_pakomentavimas: "Citata remia faktą apie popiežiaus laišką ir husitų atskalą."
   pagrindžia:
     - c-168708
-
+    - c-001
 <a id="claim-t-185348"></a>
 - t-002
   global_id: t-185348
@@ -77,6 +77,7 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168709
+    - c-002
 - susijęs iš [[objektai/asmenys/Flekenšteinas.md#claim-t-60275|Flekenšteinas]]: Brolis Flekenšteinas iš Reino krašto į Brandenburgo pilį atgabeno Viešpaties kryžiaus atskalą.
 - susijęs iš [[objektai/asmenys/Gebhardas iš Manstfeldo.md#claim-t-60284|Gebhardas iš Manstfeldo]]: Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.
 - susijęs iš [[objektai/asmenys/Hertvigas iš Pokarvių.md#claim-t-60329|Hertvigas iš Pokarvių]]: Hertvigas iš Pokarvių buvo Tomo, kuris 1322 m. Brandenburgo pilyje mirė ir atgijo per Viešpaties kryžiaus atskalą, tėvas.
@@ -118,8 +119,7 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185347
 - c-002
   santrauka: 'Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -149,8 +149,7 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185348
 ## Citatos
 
 - id: c-168708
@@ -189,7 +188,6 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185347
-
 - id: c-168709
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

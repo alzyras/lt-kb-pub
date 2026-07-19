@@ -471,7 +471,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-160416
-
+    - c-166925
 <a id="claim-t-176339"></a>
 - t-027
   global_id: t-176339
@@ -1752,8 +1752,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporaliniai_duomenys: 'įvykio data: 1337 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-179561
-
+    - c-032
 <a id="claim-t-176328"></a>
 - t-021
   global_id: t-176328
@@ -1761,8 +1760,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Gedimino kalnas; mentioned_place: Veliuona; llm_object: Bajerburgas; llm_object: Gedimino kalnas'
   semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] mirė Bajerburgas; [[objektai/asmenys/Gediminas|Gediminas]] buvo palaidotas Gedimino kalnas'
   pagrindžia:
-    - c-179573
-
+    - c-062
 <a id="claim-t-176343"></a>
 - t-035
   global_id: t-176343
@@ -1770,8 +1768,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; citata palaiko aiškų teiginį apie Gedimino vaidmenį.'
   susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
   pagrindžia:
-    - c-179561
-
+    - c-032
 <a id="claim-t-176344"></a>
 - t-036
   global_id: t-176344
@@ -1779,16 +1776,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   sudarymo_pagrindimas: 'Citata perteikia autoriaus interpretaciją apie laiškų autorystę, todėl reikia atribucijos.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga'
   pagrindžia:
-    - c-179629
-
+    - c-035
 <a id="claim-t-176345"></a>
 - t-037
   global_id: t-176345
   teiginys: 'Gediminas popiežiui pareiškė esąs pasirengęs priimti krikščioniškąjį tikėjimą, jei neturės būti dėkingas Ordinui.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
-    - c-179559
-
+    - c-042
 <a id="claim-t-176347"></a>
 - t-039
   global_id: t-176347
@@ -1800,8 +1795,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
-    - c-179603
-
+    - c-046
 <a id="claim-t-176362"></a>
 - t-051
   global_id: t-176362
@@ -1809,8 +1803,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
-    - c-179567
-
+    - c-021
 <a id="claim-t-176367"></a>
 - t-056
   global_id: t-176367
@@ -1818,8 +1811,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   sudarymo_pagrindimas: 'Citata perteikia autoriaus interpretaciją apie laiškų klastojimą, todėl reikia atribucijos.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga'
   pagrindžia:
-    - c-179629
-
+    - c-035
 <a id="claim-t-176371"></a>
 - t-059
   global_id: t-176371
@@ -1828,8 +1820,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-179565
-
+    - c-071
 <a id="claim-t-176373"></a>
 - t-061
   global_id: t-176373
@@ -1837,8 +1828,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   sudarymo_pagrindimas: 'Pradinis teiginys buvo apie vietovę, todėl perrašytas į faktą apie Gediminą.'
   susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Veliuona'
   pagrindžia:
-    - c-179598
-
+    - c-067
 <a id="claim-t-176381"></a>
 - t-064
   global_id: t-176381
@@ -1850,8 +1840,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pataisytas pagal citatoje nurodytą įvykį.'
   pagrindžia:
-    - c-179602
-
+    - c-028
 <a id="claim-t-176384"></a>
 - t-072
   global_id: t-176384
@@ -1859,8 +1848,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys sutrumpintas, išlaikant citatos faktą.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
-    - c-179636
-
+    - c-029
 <a id="claim-t-176389"></a>
 - t-076
   global_id: t-176389
@@ -1868,16 +1856,14 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_place: Gotlandas; mentioned_place: Viena; mentioned_place: Štetinas'
   semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
-    - c-179621
-
+    - c-023
 <a id="claim-t-176391"></a>
 - t-077
   global_id: t-176391
   teiginys: 'Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę.'
   susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija'
   pagrindžia:
-    - c-179576
-
+    - c-037
 <a id="claim-t-176397"></a>
 - t-082
   global_id: t-176397
@@ -1886,8 +1872,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   susije_objektai: 'llm_object: Mazovija; llm_object: Dobrynė; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Mazovija; [[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Dobrynė'
   pagrindžia:
-    - c-179603
-
+    - c-046
 <a id="claim-t-198022"></a>
 - t-119
   global_id: t-198022
@@ -1901,8 +1886,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pašalintos išnašos ir lotyniškos citatos triukšmas. Ginčytina vietos identifikacija palikta su Narbuto atribucija.'
   pagrindžia:
-    - c-179563
-
+    - c-171421
 <a id="claim-t-198024"></a>
 - t-121
   global_id: t-198024
@@ -1916,8 +1900,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleista, kad tai Strijkovskiu paremta Narbuto žinia. Nepridėta informacijos apie paties herbo pavidalą.'
   pagrindžia:
-    - c-179544
-
+    - c-171422
 <a id="claim-t-198028"></a>
 - t-125
   global_id: t-198028
@@ -1931,8 +1914,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Išskleistas Lizdeikos ryšys su Gediminu ir Vilniumi. Legendinė miesto įkūrimo tradicija palikta kaip Narbuto teiginys.'
   pagrindžia:
-    - c-179588
-
+    - c-079
 <a id="claim-t-198029"></a>
 - t-126
   global_id: t-198029
@@ -1947,8 +1929,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas buvo brolis Gvaželutis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susiaurintas iki Gedimino, nes pastaba apie kitus vaikus labiau liečia Vytenį. Nepridėta duomenų iš už citatos ribų.'
   pagrindžia:
-    - c-179630
-
+    - c-077
 <a id="claim-t-198043"></a>
 - t-140
   global_id: t-198043
@@ -1963,8 +1944,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas gyveno Ariogala“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos ponai paskyrė Gediminas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir pataisyti lūžiai. Titulas bei kronikinė žinia palikti su Narbuto atribucija.'
   pagrindžia:
-    - c-179614
-
+    - c-078
 <a id="claim-t-198062"></a>
 - t-159
   global_id: t-198062
@@ -1978,8 +1958,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Fragmentas paverstas vientisu sakiniu apie Gedimino sapno pasakojimą. Legendinis turinys paliktas su Narbuto atribucija.'
   pagrindžia:
-    - c-179639
-
+    - c-080
 <a id="claim-t-198092"></a>
 - t-188
   global_id: t-198092
@@ -1994,7 +1973,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ištaisytas OCR ir išskleistas pilių kontekstas. Mirties aplinkybė palikta su Narbuto atribucija.'
   pagrindžia:
-    - c-179595
+    - c-076
 - susijęs iš [[objektai/asmenys/Teodoras.md#claim-t-79203|Teodoras]]: 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.
 - susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82552|Marija (Gedimino duktė)]]: Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66537|Gedimino sąjunga su Lenkija]]: Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
@@ -3059,8 +3038,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051
-
+    - t-176362
 - c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3087,8 +3065,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-076
-
+    - t-176389
 - c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3113,9 +3090,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-069
-    - t-064
-
+    - t-176381
 - c-029
   santrauka: 'Kryžiuočiams atsitraukus, Gediminas jėga privertė gynėjus sulaužyti pažadą paklusti Ordinui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3150,8 +3125,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-173
-
+    - t-176384
 - c-032
   santrauka: 'Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3186,9 +3160,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-150
-    - t-019
-
+    - t-176326
+    - t-176343
 - c-035
   santrauka: 'Gedimino vardu laiškus popiežiui, pajūrio miestams ir vienuoliams slapta parašė Rygos arkivyskupas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3210,9 +3183,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-202
-    - t-214
-
+    - t-176344
+    - t-176367
 - c-037
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3239,8 +3211,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-077
-
+    - t-176391
 - c-042
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3262,8 +3233,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-176
-
+    - t-176345
 - c-046
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3297,9 +3267,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-209
-    - t-112
-
+    - t-176347
+    - t-176397
 - c-062
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3317,8 +3286,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-223
-
+    - t-176328
 - c-067
   santrauka: 'Prie Veliuonos esantis Gedimino kalno pilkapis laikytas tikėtina Gedimino kapaviete.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3337,8 +3305,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-113
-
+    - t-176373
 - c-071
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3363,8 +3330,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-206
-
+    - t-176371
 - c-076
   santrauka: 'Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3384,8 +3350,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-188
-
+    - t-198092
 - c-077
   santrauka: 'Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3409,8 +3374,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-126
-
+    - t-198029
 - c-078
   santrauka: 'Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3428,8 +3392,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-140
-
+    - t-198043
 - c-079
   santrauka: 'Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3449,8 +3412,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-125
-
+    - t-198028
 - c-080
   santrauka: 'Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3476,8 +3438,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-159
-
+    - t-198062
 - c-081
   santrauka: 'Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3500,8 +3461,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-119
-
 - c-082
   santrauka: 'Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -3525,8 +3484,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-121
-
 ## Citatos
 
 - id: c-00143
@@ -3547,7 +3504,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10675
-
 - id: c-00145
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3566,7 +3522,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10677
-
 - id: c-00146
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3586,7 +3541,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10678
-
 - id: c-11533
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3606,7 +3560,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193758
-
 - id: c-41920
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3638,7 +3591,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176357
-
 - id: c-56143
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3664,7 +3616,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176365
-
 - id: c-56144
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3702,7 +3653,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176332
-
 - id: c-56146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3727,7 +3677,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176348
-
 - id: c-160336
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3748,7 +3697,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176327
-
 - id: c-160337
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3769,7 +3717,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176366
-
 - id: c-160339
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3789,7 +3736,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05172
-
 - id: c-160341
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3827,7 +3773,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-176359
     - t-176363
-
 - id: c-160343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3846,7 +3791,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05175
-
 - id: c-160344
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3899,7 +3843,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - t-176329
     - t-176370
     - t-176400
-
 - id: c-160347
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3923,7 +3866,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176387
-
 - id: c-160350
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3945,7 +3887,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176322
-
 - id: c-160352
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3966,8 +3907,8 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-05167
     - t-05170
-
 - id: c-160354
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3996,7 +3937,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-176324
     - t-176356
-
 - id: c-160357
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4018,7 +3958,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176368
-
 - id: c-160358
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4044,7 +3983,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176377
-
 - id: c-160360
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4073,7 +4011,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-176353
     - t-176372
-
 - id: c-160361
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4109,7 +4046,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - t-176374
     - t-176393
     - t-194226
-
 - id: c-160363
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4141,7 +4077,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176352
-
 - id: c-160371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4161,7 +4096,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176386
-
 - id: c-160374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4192,7 +4126,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-176346
     - t-176354
-
 - id: c-160376
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4214,7 +4147,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176360
-
 - id: c-160377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4235,7 +4167,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176325
-
 - id: c-160378
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4254,7 +4185,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176375
-
 - id: c-160383
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4274,7 +4204,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176342
-
 - id: c-160387
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4293,7 +4222,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-176333
     - t-197081
-
 - id: c-160388
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4321,7 +4249,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176336
-
 - id: c-160390
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4341,7 +4268,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176335
-
 - id: c-160395
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4358,7 +4284,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05169
-
 - id: c-160396
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4388,7 +4313,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-176334
     - t-176339
-
 - id: c-160397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4411,7 +4335,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176401
-
 - id: c-160398
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4434,7 +4357,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176382
-
 - id: c-160401
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4454,7 +4376,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176331
-
 - id: c-160403
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4488,7 +4409,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176388
-
 - id: c-160405
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4506,7 +4426,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05176
-
 - id: c-160406
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4526,7 +4445,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05174
-
 - id: c-160408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4549,7 +4467,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176323
-
 - id: c-160410
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4568,7 +4485,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176395
-
 - id: c-160411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4590,7 +4506,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176361
-
 - id: c-160413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4611,7 +4526,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176399
-
 - id: c-160416
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4638,7 +4552,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176337
-
 - id: c-166925
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4716,7 +4629,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-184699
     - t-198049
-
 - id: c-168061
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4744,7 +4656,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-184700
     - t-196455
-
 - id: c-168063
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4779,7 +4690,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-184702
     - t-196457
-
 - id: c-173738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -4804,7 +4714,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190856
-
 - id: c-173739
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -4824,7 +4733,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190857
-
 - id: c-173740
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -4846,7 +4754,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190858
-
 - id: c-176291
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4866,7 +4773,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193620
-
 - id: c-176826
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4893,7 +4799,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194227
-
 - id: c-177099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4915,7 +4820,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194703
-
 - id: c-178698
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4951,7 +4855,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196454
-
 - id: c-178699
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -4982,7 +4885,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196456
-
 - id: c-178930
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5014,7 +4916,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196822
-
 - id: c-178931
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5035,7 +4936,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196823
-
 - id: c-178932
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5057,7 +4957,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196824
-
 - id: c-178933
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -5075,7 +4974,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196825
-
 - id: c-179545
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5119,7 +5017,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-198039
     - t-198048
-
 - id: c-179547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5197,7 +5094,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198051
-
 - id: c-179552
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5374,7 +5270,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198023
-
 - id: c-179562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -5393,7 +5288,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198094
-
 - id: c-179566
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -5409,8 +5303,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05166
-
 - id: c-179568
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5475,7 +5367,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198105
-
 - id: c-179575
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5542,7 +5433,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198108
-
 - id: c-179582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -5585,7 +5475,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198097
-
 - id: c-179584
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -5643,7 +5532,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198025
-
 - id: c-179587
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -5685,7 +5573,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198012
-
 - id: c-179590
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5721,7 +5608,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198055
-
 - id: c-179592
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5813,7 +5699,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198066
-
 - id: c-179599
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -6081,7 +5966,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198088
-
 - id: c-179615
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -6132,7 +6016,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198085
-
 - id: c-179618
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -6208,7 +6091,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindzia:
     - t-198076
     - t-198127
-
 - id: c-179626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -6273,7 +6155,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198015
-
 - id: c-179633
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -6370,7 +6251,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198047
-
 - id: c-179641
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -6410,8 +6290,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05165
-
 - id: c-184336
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -6436,7 +6314,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200986
-
 - id: c-184337
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -6459,7 +6336,6 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200987
-
 - id: c-184338
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -6485,7 +6361,51 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200988
+- id: c-171421
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
+    numeryje**.
+    372
 
+    ## Puslapis 372
+
+    vedančio iš Užupio į Antakalnį. Tai yra kalnas, gerokai aukš­
+    tesnis už kitus gretimus, stūksantis atskirai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198022
+- id: c-171422
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
+  citata_originali: |
+    Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
+    jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
+    Hipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­
+    nigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302
+    metais Gediminas davė Krunevičiui10. Sis paprotys lietuviams
+    nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios
+    Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,
+    kad jiems būtų suteikti herbai -  taip būdavo Lenkijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198024
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Jaunė (Jievna)]]
 - Sūnūs: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

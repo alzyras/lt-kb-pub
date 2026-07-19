@@ -99,7 +99,6 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86742
-
 - id: c-82722
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -93,7 +93,7 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171809
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas.'
@@ -112,8 +112,7 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188920
 ## Citatos
 
 - id: c-171807
@@ -134,7 +133,6 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188918
-
 - id: c-171808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -158,7 +156,6 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188919
-
 - id: c-171809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

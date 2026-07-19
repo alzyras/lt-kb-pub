@@ -42,7 +42,7 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173346
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „legis custos“, „sacerdos“, „ewa“ ir „eu-werd“.'
@@ -63,8 +63,7 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190463
 ## Citatos
 
 - id: c-173346

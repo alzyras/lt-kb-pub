@@ -59,7 +59,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56016
-
+    - c-002
 <a id="claim-t-64633"></a>
 - t-002
   global_id: t-64633
@@ -96,7 +96,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56015
-
+    - c-001
 <a id="claim-t-64635"></a>
 - t-004
   global_id: t-64635
@@ -113,7 +113,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-65311
-
+    - c-004
 <a id="claim-t-64639"></a>
 - t-005
   global_id: t-64639
@@ -171,8 +171,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-64634
 - c-002
   santrauka: 'J. Poverskis parašė darbą „Przekaz“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -184,8 +183,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-64631
 - c-004
   santrauka: 'J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -199,8 +197,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-64635
 ## Citatos
 
 - id: c-56015
@@ -224,7 +221,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64634
-
 - id: c-56016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -240,7 +236,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64631
-
 - id: c-65309
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -262,7 +257,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   pagrindzia:
     - t-64639
     - t-197001
-
 - id: c-65311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -281,7 +275,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64635
-
 - id: c-65314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -299,7 +292,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64633
-
 - id: c-178997
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

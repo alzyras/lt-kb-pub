@@ -91,7 +91,6 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
   pagrindzia:
     - t-186028
     - t-193504
-
 - id: c-178671
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

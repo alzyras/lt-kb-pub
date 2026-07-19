@@ -146,7 +146,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-163435
-
+    - c-163437
 <a id="claim-t-179780"></a>
 - t-006
   global_id: t-179780
@@ -347,7 +347,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   temporalinis_llm_pakomentavimas: "Perrašyta glaustesniu enciklopediniu sakiniu, pašalinant nereikalingą įvardinę konstrukciją."
   pagrindžia:
     - c-37331
-
+    - c-167674
 <a id="claim-t-179795"></a>
 - t-017
   global_id: t-179795
@@ -404,7 +404,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171574
-
+    - c-021
 <a id="claim-t-193177"></a>
 - t-022
   global_id: t-193177
@@ -480,8 +480,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022
-
+    - t-188685
 ## Citatos
 
 - id: c-24099
@@ -499,7 +498,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179775
-
 - id: c-24101
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -517,7 +515,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193177
-
 - id: c-32007
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -535,7 +532,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179780
-
 - id: c-32008
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -554,7 +550,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179792
-
 - id: c-37329
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -572,7 +567,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179784
-
 - id: c-37331
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -593,7 +587,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179794
-
 - id: c-163431
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -614,7 +607,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179783
-
 - id: c-163432
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -636,7 +628,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179781
-
 - id: c-163433
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -659,7 +650,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179793
-
 - id: c-163435
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -679,7 +669,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179779
-
 - id: c-163436
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -704,7 +693,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179790
-
 - id: c-163437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -743,7 +731,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179795
-
 - id: c-163439
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -765,7 +752,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   pagrindzia:
     - t-179774
     - t-179777
-
 - id: c-163440
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -786,7 +772,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179791
-
 - id: c-163441
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -807,7 +792,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179778
-
 - id: c-163443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -835,7 +819,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   pagrindzia:
     - t-179782
     - t-179786
-
 - id: c-163445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -854,7 +837,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179796
-
 - id: c-167674
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -900,7 +882,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188685
-
 - id: c-176847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -926,7 +907,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194252
-
 - id: c-184406
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -957,6 +937,5 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201056
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -80,7 +80,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175550
-
+    - c-002
 <a id="claim-t-192781"></a>
 - t-003
   global_id: t-192781
@@ -204,8 +204,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192780
 ## Citatos
 
 - id: c-168617
@@ -226,7 +225,6 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185256
-
 - id: c-175550
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -252,7 +250,6 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192780
-
 - id: c-175551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

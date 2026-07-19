@@ -86,6 +86,5 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186200
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Fridrichas]]

@@ -48,7 +48,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-92844
-
+    - c-004
 <a id="claim-t-98614"></a>
 - t-002
   global_id: t-98614
@@ -86,7 +86,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-92845
-
+    - c-005
 <a id="claim-t-98616"></a>
 - t-004
   global_id: t-98616
@@ -180,8 +180,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-98613
 - c-005
   santrauka: 'Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -201,8 +200,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-98615
 ## Citatos
 
 - id: c-92841
@@ -225,7 +223,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-98617
-
 - id: c-92842
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -252,7 +249,6 @@ media_all_json: |-
   pagrindzia:
     - t-98616
     - t-98618
-
 - id: c-92843
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -282,7 +278,6 @@ media_all_json: |-
   pagrindzia:
     - t-98614
     - t-194542
-
 - id: c-92844
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -306,7 +301,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-98613
-
 - id: c-92845
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -330,7 +324,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-98615
-
 ## Ryšiai
 - Apgulė Medvėgalį: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - Gynė Medvėgalį: [[objektai/grupes/Žemaičiai]]

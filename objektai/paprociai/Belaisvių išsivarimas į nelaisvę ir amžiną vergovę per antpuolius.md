@@ -66,7 +66,8 @@ Nenurodyta
   pagrindžia:
     - c-63400
     - c-63403
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.'
@@ -86,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62669
 - c-002
   santrauka: 'Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,8 +103,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62669
 ## Citatos
 
 - id: c-63400
@@ -128,7 +127,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62669
-
 - id: c-63403
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

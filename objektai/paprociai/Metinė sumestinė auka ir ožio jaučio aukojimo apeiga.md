@@ -117,8 +117,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-177025
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos vainiką, uždeda ranką ant ožio arba jaučio ir prašo visų dievų, kiekvieno atskirai, kuriuos pirmiau išvar dijau, idant maloningai teiktųsi priimti tos šventės apeigą li auką.'
@@ -145,8 +144,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194626
 ## Citatos
 
 - id: c-172651
@@ -169,7 +167,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189768
-
 - id: c-172653
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -191,7 +188,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189770
-
 - id: c-179091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

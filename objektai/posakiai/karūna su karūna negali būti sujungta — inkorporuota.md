@@ -107,7 +107,6 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36006
-
 - id: c-38386
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

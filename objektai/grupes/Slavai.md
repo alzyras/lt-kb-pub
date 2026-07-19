@@ -209,7 +209,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171239
-
+    - c-008
 <a id="claim-t-188347"></a>
 - t-010
   global_id: t-188347
@@ -223,7 +223,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171240
-
+    - c-009
 <a id="claim-t-188348"></a>
 - t-011
   global_id: t-188348
@@ -265,7 +265,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171242
-
+    - c-011
 <a id="claim-t-188350"></a>
 - t-013
   global_id: t-188350
@@ -286,7 +286,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171243
-
+    - c-012
 <a id="claim-t-188351"></a>
 - t-014
   global_id: t-188351
@@ -342,7 +342,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171247
-
+    - c-015
 <a id="claim-t-190620"></a>
 - t-017
   global_id: t-190620
@@ -377,7 +377,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173504
-
+    - c-017
 <a id="claim-t-190622"></a>
 - t-019
   global_id: t-190622
@@ -391,7 +391,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173505
-
+    - c-018
 <a id="claim-t-192466"></a>
 - t-020
   global_id: t-192466
@@ -490,7 +490,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175264
-
+    - c-023
 <a id="claim-t-192472"></a>
 - t-025
   global_id: t-192472
@@ -512,7 +512,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175266
-
+    - c-025
 <a id="claim-t-192473"></a>
 - t-026
   global_id: t-192473
@@ -534,7 +534,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175267
-
+    - c-026
 <a id="claim-t-192474"></a>
 - t-027
   global_id: t-192474
@@ -555,7 +555,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175268
-
+    - c-027
 <a id="claim-t-192475"></a>
 - t-028
   global_id: t-192475
@@ -577,7 +577,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175269
-
+    - c-028
 <a id="claim-t-194601"></a>
 - t-029
   global_id: t-194601
@@ -590,7 +590,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177000
-
+    - c-029
 <a id="claim-t-194602"></a>
 - t-030
   global_id: t-194602
@@ -1068,8 +1068,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-188346
 - c-009
   santrauka: 'Narbutas slavų Sievą ir lietuvių Pergrubę lygino su antikine Flora, remdamasis slavų kronikose išlikusiu stabo atvaizdu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1087,8 +1086,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-188347
 - c-011
   santrauka: 'Narbutas rašė, kad šiaurės slavai nimfas vadino rusalkomis dėl rusvų arba šviesiai pilkų plaukų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1105,8 +1103,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-188349
 - c-012
   santrauka: 'Narbutas pagal Prilvico stabo piešinį sprendė, kad slavai vaizdavosi milžiną, ant pečių nešantį mažesnį žmogų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1122,8 +1119,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-188350
 - c-015
   santrauka: 'Narbutas rašė, kad slavai uosį skyrė Jupiteriui, vadintam Jesse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1143,8 +1139,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-188354
 - c-017
   santrauka: 'Narbutas teigė, kad pakirptuvių, rusiškai Zastryžyny, apeigos buvo įprastos slavų kiltims ir bendros daugeliui Europos tautų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1167,8 +1162,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-
+    - t-190621
 - c-018
   santrauka: 'Narbutas vertino slavų vestuvių papročius kaip linkusius į svaigalus, nepadorias dainas ir kraštutinumus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1190,8 +1184,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-
+    - t-190622
 - c-023
   santrauka: 'Narbutas manė, kad lietuvių protėvių gyvenvietės prie Rosės galėjo išlikti iki IV amžiaus, kol jas ėmė spausti slavų gentys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1214,8 +1207,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
-
+    - t-192470
 - c-025
   santrauka: 'Danijos karalius Frotonas III pirmiausia kariavo su slavais, kurių karvedys Strunikas buvo nukautas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1240,8 +1232,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026
-
+    - t-192472
 - c-026
   santrauka: 'Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1261,8 +1252,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027
-
+    - t-192473
 - c-027
   santrauka: 'Narbutas rašė, kad senovės tyrinėtojai vilkų tautą laikė viena seniausių slaviškų genčių, persikėlusių į Oderio žemupį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1284,8 +1274,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028
-
+    - t-192474
 - c-028
   santrauka: 'V amžiaus pabaigoje slavų gyvenamosios vietovės, pasak Narbuto, plačiai driekėsi kraštuose, iš kurių germanai traukėsi į pietus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1308,8 +1297,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029
-
+    - t-192475
 - c-029
   santrauka: 'Egiptiečiai turėjo savo Kamefius, japonai - dievus Kami, pono Georgi nuomone, vi siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką slavų Tryzną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1326,8 +1314,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030
-
+    - t-194601
 ## Citatos
 
 - id: c-22744
@@ -1349,7 +1336,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89225
-
 - id: c-42934
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1371,7 +1357,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89228
-
 - id: c-85208
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1395,7 +1380,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   pagrindzia:
     - t-89226
     - t-89230
-
 - id: c-85209
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1414,7 +1398,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89227
-
 - id: c-166326
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1432,7 +1415,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182923
-
 - id: c-171236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1454,7 +1436,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188343
-
 - id: c-171237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1475,7 +1456,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188344
-
 - id: c-171239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1501,7 +1481,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188346
-
 - id: c-171240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1523,7 +1502,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188347
-
 - id: c-171241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1543,7 +1521,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188348
-
 - id: c-171242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1564,7 +1541,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188349
-
 - id: c-171243
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1586,7 +1562,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188350
-
 - id: c-171244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1609,7 +1584,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188351
-
 - id: c-171246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1635,7 +1609,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188353
-
 - id: c-171247
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1658,7 +1631,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188354
-
 - id: c-173503
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1679,7 +1651,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190620
-
 - id: c-173504
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1702,7 +1673,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190621
-
 - id: c-173505
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1728,7 +1698,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190622
-
 - id: c-175260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1757,7 +1726,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192466
-
 - id: c-175261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1783,7 +1751,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192467
-
 - id: c-175262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1807,7 +1774,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192468
-
 - id: c-175263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1830,7 +1796,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192469
-
 - id: c-175264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1865,7 +1830,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192470
-
 - id: c-175266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1893,7 +1857,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192472
-
 - id: c-175267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1916,7 +1879,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   pagrindzia:
     - t-192473
     - t-197521
-
 - id: c-175268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1944,7 +1906,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192474
-
 - id: c-175269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1972,7 +1933,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192475
-
 - id: c-177000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1999,7 +1959,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   pagrindzia:
     - t-194601
     - t-197224
-
 - id: c-177001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2025,7 +1984,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194602
-
 - id: c-179228
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2048,7 +2006,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197520
-
 ## Ryšiai
 - Puolė Slavai: [[objektai/asmenys/Jarmerikas]]
 - Kariavo prieš: [[objektai/asmenys/Frotonas III]]

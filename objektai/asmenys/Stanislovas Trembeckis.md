@@ -60,7 +60,7 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174198
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo Trembeckio pasakėčia „Balandėliai“.'
@@ -85,8 +85,7 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191316
 ## Citatos
 
 - id: c-174198

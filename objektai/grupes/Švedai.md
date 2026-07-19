@@ -151,6 +151,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-171254
+    - c-005
 - susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-183124|Chodkevičiai]]: 1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49165|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.
 - susijęs iš [[objektai/grupes/Bajorų konfederacija.md#claim-t-183652|Bajorų konfederacija]]: Bajorų konfederacija kovojo prieš švedus ir jų sąjungininkus, deklaravo ištikimybę Lenkijai ir Jonui Kazimierui Vazai.
@@ -466,8 +467,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-188360
 ## Citatos
 
 - id: c-22844
@@ -487,7 +487,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75063
-
 - id: c-72980
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -513,7 +512,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75058
-
 - id: c-72981
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -537,7 +535,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   pagrindzia:
     - t-75060
     - t-75062
-
 - id: c-166591
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -555,7 +552,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75059
-
 - id: c-171254
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -577,7 +573,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188360
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Gotbrodas]]
 - Kariavo prieš: [[objektai/grupes/Bajorų konfederacija]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Lietuvos kariuomenė]]

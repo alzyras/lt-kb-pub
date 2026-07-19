@@ -53,7 +53,7 @@ Dusburgietis teigia, kad [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kra
   temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio ir puslapių duomenis."
   pagrindžia:
     - c-61885
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Powierskio „Sambia“ nurodyta 1975 m. SSS 5 tomo 37-38 puslapiuose.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61253
 ## Citatos
 
 - id: c-61885

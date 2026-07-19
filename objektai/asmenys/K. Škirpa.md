@@ -90,7 +90,7 @@ media_all_json: |-
   semantiniai_rysiai: "K. Škirpa puolė Suvalkai (0.86)"
   pagrindžia:
     - c-42054
-
+    - c-167135
 <a id="claim-t-49402"></a>
 - t-004
   global_id: t-49402
@@ -153,7 +153,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49403
-
 - id: c-42054
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -176,7 +175,6 @@ media_all_json: |-
   pagrindzia:
     - t-49400
     - t-49401
-
 - id: c-51392
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -196,7 +194,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49402
-
 - id: c-51393
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -220,7 +217,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49399
-
 - id: c-167135
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -54,7 +54,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibūdina komisijų sudėties ir pirmininkavimo taisyklę."
   pagrindžia:
     - c-22445
-
+    - c-166526
 <a id="claim-t-19739"></a>
 - t-002
   global_id: t-19739
@@ -115,7 +115,6 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19739
-
 - id: c-22445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,7 +136,6 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19738
-
 - id: c-166525
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -157,7 +155,6 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183140
-
 - id: c-166526
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

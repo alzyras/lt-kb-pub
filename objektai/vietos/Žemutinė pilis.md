@@ -88,7 +88,6 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86165
-
 - id: c-82144
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

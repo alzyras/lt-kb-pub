@@ -66,7 +66,7 @@ Nenurodyta
   semantiniai_rysiai: "Martynas iš Golino užėmė Kaimas (0.84); Martynas iš Golino surengė žygį į Sūduva (0.82)"
   pagrindžia:
     - c-60337
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.'
@@ -86,8 +86,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59705
 ## Citatos
 
 - id: c-60337
@@ -114,7 +113,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59705
-
 - id: c-167366
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

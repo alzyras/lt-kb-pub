@@ -76,7 +76,6 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195488
-
 - id: c-177910
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

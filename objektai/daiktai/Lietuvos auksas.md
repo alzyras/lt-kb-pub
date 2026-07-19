@@ -110,7 +110,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-13781
-
+    - t-13782
 ## Ryšiai
 - Lietuvos auksas priklausė [[objektai/vietos/Lietuva]]

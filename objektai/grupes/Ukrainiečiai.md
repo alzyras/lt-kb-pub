@@ -159,7 +159,6 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99994
-
 - id: c-171249
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -82,7 +82,6 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19942
-
 - id: c-166559
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

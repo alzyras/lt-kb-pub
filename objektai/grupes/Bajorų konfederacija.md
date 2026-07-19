@@ -102,7 +102,6 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40861
-
 - id: c-167044
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -122,6 +121,5 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183652
-
 ## Ryšiai
 - Bajorų konfederacija kariavo prieš [[objektai/grupes/Švedai]]

@@ -48,7 +48,7 @@ Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jū
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174298
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jūros gyvenę lietuviai kariavo su romėnais.'
@@ -80,8 +80,7 @@ Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191416
 ## Citatos
 
 - id: c-174298

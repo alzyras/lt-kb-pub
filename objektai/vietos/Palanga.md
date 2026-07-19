@@ -78,7 +78,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-175148
-
+    - c-004
 <a id="claim-t-192351"></a>
 - t-003
   global_id: t-192351
@@ -93,7 +93,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-175147
-
+    - c-175149
 <a id="claim-t-192352"></a>
 - t-004
   global_id: t-192352
@@ -109,19 +109,6 @@ media_all_json: |-
   pagrindžia:
     - c-175151
 
-<a id="claim-t-192353"></a>
-- t-005
-  global_id: t-192353
-  teiginys: "Sukilėliai planavo užimti Palangos ir Liepojos uostus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Liepoja; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Minija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-175149
-
-<a id="claim-t-192354"></a>
 - t-006
   global_id: t-192354
   teiginys: "Narbutas daro išvadą, kad ant kalno prie Palangos nuolat degė Praurimės ugnis, saugota vaidilutėmis vadintų žynių."
@@ -143,7 +130,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-175150
-
+    - c-006
 <a id="claim-t-192355"></a>
 - t-007
   global_id: t-192355
@@ -179,7 +166,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-175146
-
+    - c-002
 <a id="claim-t-194741"></a>
 - t-009
   global_id: t-194741
@@ -193,7 +180,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177137
-
+    - c-008
 <a id="claim-t-194742"></a>
 - t-010
   global_id: t-194742
@@ -207,6 +194,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177138
+    - c-009
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188261|Lietuviai]]: Narbutas nurodė Jucevičiaus nuomonę, kad Palangos apylinkių lietuviai žvejai Atrimpą vadino Dzivsvits.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188516|Birutė]]: Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo.
 - susijęs iš [[objektai/autoriai/Liudvikas Adomas Jucevičius.md#claim-t-188441|Liudvikas Adomas Jucevičius]]: Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“.
@@ -310,8 +298,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-192356
 - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -326,8 +313,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192350
 - c-006
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -343,8 +329,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-192354
 - c-008
   santrauka: 'Mat ant švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau goma mergelių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -362,8 +347,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-194741
 - c-009
   santrauka: 'Birutė (Biruta) Žemaičių didiko duktė29, kuri iš pašaukimo tapo vaidilu te būryje mergelių, saugojančių šventą Praurimės aukuro ug nį netoli Palangos, ant švento kalno.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -386,8 +370,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-194742
 ## Citatos
 
 - id: c-175145
@@ -411,7 +394,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192355
-
 - id: c-175146
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -447,7 +429,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192356
-
 - id: c-175147
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -469,7 +450,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192351
-
 - id: c-175148
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -491,7 +471,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192350
-
 - id: c-175149
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -511,8 +490,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192349
-    - t-192353
-
+    - t-192351
 - id: c-175150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -538,7 +516,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192354
-
 - id: c-175151
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -563,7 +540,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192352
-
 - id: c-177137
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -587,7 +563,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194741
-
 - id: c-177138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -611,7 +586,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194742
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Birutė]]
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

@@ -127,7 +127,6 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79297
-
 - id: c-76337
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -149,7 +148,6 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79298
-
 - id: c-168290
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

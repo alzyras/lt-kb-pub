@@ -141,7 +141,6 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185230
-
 - id: c-168592
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -171,7 +170,6 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185231
-
 - id: c-168594
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -202,7 +200,6 @@ Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir i�
   pagrindzia:
     - t-185233
     - t-193439
-
 - id: c-178835
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

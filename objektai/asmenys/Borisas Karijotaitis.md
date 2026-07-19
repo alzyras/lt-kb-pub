@@ -88,7 +88,6 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28992
-
 - id: c-167741
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -107,6 +106,5 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184371
-
 ## Ryšiai
 - Borisas Karijotaitis gyveno [[objektai/vietos/Podolė]]

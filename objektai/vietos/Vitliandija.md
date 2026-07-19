@@ -63,4 +63,4 @@ Narbutas spėjo, kad sagos minima Vindliandija arba Vitlanda galėjo būti prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192912

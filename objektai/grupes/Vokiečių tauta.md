@@ -49,7 +49,7 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172427
-
+    - c-001
 <a id="claim-t-197226"></a>
 - t-002
   global_id: t-197226
@@ -84,8 +84,7 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189539
 ## Citatos
 
 - id: c-172427
@@ -122,7 +121,6 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189539
-
 - id: c-179074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -165,7 +165,6 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78881
-
 - id: c-75997
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -187,7 +186,6 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78882
-
 - id: c-75998
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

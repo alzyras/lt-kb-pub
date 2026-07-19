@@ -125,7 +125,6 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63663
-
 - id: c-21695
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -144,7 +143,6 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63664
-
 - id: c-184222
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"

@@ -129,7 +129,6 @@ Nenurodyta
   pagrindzia:
     - t-93031
     - t-93034
-
 - id: c-88443
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

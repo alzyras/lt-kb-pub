@@ -96,7 +96,6 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172013
-
 - id: c-156447
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

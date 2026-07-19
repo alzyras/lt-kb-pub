@@ -93,7 +93,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175206
-
+    - c-004
 <a id="claim-t-192413"></a>
 - t-004
   global_id: t-192413
@@ -114,7 +114,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175207
-
+    - c-005
 <a id="claim-t-197508"></a>
 - t-005
   global_id: t-197508
@@ -193,8 +193,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192412
 - c-005
   santrauka: 'Teodoras Narbutas vaizdavo, kad Olegas, kviesdamas krivičius į žygį į pietus, turėjo gauti Krivio paskelbtą dievų leidimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -221,8 +220,7 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-192413
 ## Citatos
 
 - id: c-33280
@@ -246,7 +244,6 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31222
-
 - id: c-171101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -269,7 +266,6 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188207
-
 - id: c-175206
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -295,7 +291,6 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192412
-
 - id: c-175207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -332,7 +327,6 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   pagrindzia:
     - t-192413
     - t-197508
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]
 - Krivičiai gyveno [[objektai/vietos/Naugardukas]]

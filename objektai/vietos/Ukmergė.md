@@ -154,7 +154,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43935
-
+    - c-164295
 <a id="claim-t-180711"></a>
 - t-007
   global_id: t-180711
@@ -485,6 +485,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171733
+    - c-018
 - susijęs iš [[objektai/grupes/8-asis pėstininkų pulkas.md#claim-t-40830|8-asis pėstininkų pulkas]]: Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus.
 - susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200523|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: Benediktas Tyzenhauzas buvo Ukmergės seniūnas.
@@ -674,8 +675,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028
-
+    - t-188844
 ## Citatos
 
 - id: c-43930
@@ -701,7 +701,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180731
-
 - id: c-43935
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -726,7 +725,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180710
-
 - id: c-164295
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -773,9 +771,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180707
+    - t-180723
     - t-180713
-
 - id: c-164297
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -796,8 +793,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180717
-
+    - t-180720
 - id: c-164298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -817,7 +813,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindzia:
     - t-180706
     - t-180727
-
 - id: c-164299
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -867,7 +862,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180712
-
 - id: c-164301
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -890,7 +884,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindzia:
     - t-180716
     - t-180732
-
 - id: c-164302
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -910,7 +903,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180714
-
 - id: c-164305
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -935,7 +927,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180705
-
 - id: c-164307
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -956,7 +947,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindzia:
     - t-180709
     - t-180726
-
 - id: c-164309
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -984,7 +974,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindzia:
     - t-180719
     - t-180722
-
 - id: c-164310
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1007,7 +996,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindzia:
     - t-180729
     - t-180733
-
 - id: c-164312
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1030,7 +1018,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindzia:
     - t-180724
     - t-180730
-
 - id: c-164313
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1053,7 +1040,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180715
-
 - id: c-164314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1074,7 +1060,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180708
-
 - id: c-164316
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1097,7 +1082,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180711
-
 - id: c-171733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1121,6 +1105,5 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188844
-
 ## Ryšiai
 - Ukmergė priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

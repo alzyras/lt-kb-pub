@@ -51,6 +51,7 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59166
+    - c-001
 - susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
 - susijęs iš [[objektai/grupes/Bremeno pirkliai.md#claim-t-55060|Bremeno pirkliai]]: Bremeno pirkliai 1158 m. atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu.
 - susijęs iš [[objektai/grupes/Bremeno pirkliai.md#claim-t-55061|Bremeno pirkliai]]: Apie 1192 m. kolonija iš Bremeno, regis, įkūrė Rygą.
@@ -110,8 +111,7 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58534
 ## Citatos
 
 - id: c-59166

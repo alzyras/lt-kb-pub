@@ -82,6 +82,5 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69178
-
 ## Ryšiai
 - Užėmė Ruhro sritį: [[objektai/grupes/Prancūzai]]

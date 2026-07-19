@@ -136,7 +136,6 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   pagrindzia:
     - t-58458
     - t-194538
-
 - id: c-59090
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,7 +156,6 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58457
-
 - id: c-59091
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

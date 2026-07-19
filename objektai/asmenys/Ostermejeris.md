@@ -41,7 +41,7 @@ Ostermejeris pavadinimą aiškino kildindamas jį iš „Cwalgiti“, reiškian�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173077
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ostermejeris pavadinimą aiškino kildindamas jį iš „Cwalgiti“, reiškiančio gerai įsižiūrėti arba deramai ištirti.'
@@ -58,8 +58,7 @@ Ostermejeris pavadinimą aiškino kildindamas jį iš „Cwalgiti“, reiškian�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190194
 ## Citatos
 
 - id: c-173077

@@ -378,7 +378,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   pagrindzia:
     - t-113845
     - t-113849
-
 - id: c-16099
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -396,8 +395,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113835
-
+    - t-113844
 - id: c-21351
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -416,7 +414,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113843
-
 - id: c-105015
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -436,7 +433,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113842
-
 - id: c-105016
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -465,7 +461,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113837
-
 - id: c-105018
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -506,7 +501,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   pagrindzia:
     - t-113832
     - t-113834
-
 - id: c-105019
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -541,7 +535,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   pagrindzia:
     - t-113836
     - t-113840
-
 - id: c-105021
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -560,7 +553,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   pagrindzia:
     - t-113841
     - t-113846
-
 - id: c-105022
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -585,7 +577,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113839
-
 - id: c-105023
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -635,7 +626,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113831
-
 - id: c-105024
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -657,7 +647,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113847
-
 - id: c-105025
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -693,7 +682,6 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113833
-
 - id: c-105028
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -712,8 +700,7 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-113838
-
+    - t-113848
 - id: c-168105
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -50,7 +50,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61599
-
+    - c-002
 <a id="claim-t-60966"></a>
 - t-002
   global_id: t-60966
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-61598
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
@@ -83,8 +83,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60966
 - c-002
   santrauka: 'A. Tuulse veikalas „Die Burgen in Estland und Lettland“ minimas kaip šaltinis apie Adažių pilį į šiaurės rytus nuo Rygos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -98,8 +97,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60965
 ## Citatos
 
 - id: c-61598
@@ -119,7 +117,6 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60966
-
 - id: c-61599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

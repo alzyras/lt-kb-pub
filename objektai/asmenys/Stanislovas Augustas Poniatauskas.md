@@ -84,7 +84,6 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64086
-
 - id: c-64940
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -102,7 +101,6 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64088
-
 - id: c-64942
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

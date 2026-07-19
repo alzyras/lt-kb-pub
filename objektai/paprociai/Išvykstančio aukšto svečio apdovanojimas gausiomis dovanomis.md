@@ -63,7 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169276
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas išvykstančiam imperatoriui davė daug dovanų, tarp jų auksu ir brangakmeniais papuoštą Gedimino nukauto tauro ragą.'
@@ -90,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185915
 ## Citatos
 
 - id: c-169276

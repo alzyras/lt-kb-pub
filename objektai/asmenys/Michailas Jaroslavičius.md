@@ -108,6 +108,5 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
   pagrindzia:
     - t-79112
     - t-79113
-
 ## Ryšiai
 - Puolė Michailas Jaroslavičių: [[objektai/grupes/Lietuviai]]

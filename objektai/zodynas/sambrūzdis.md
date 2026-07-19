@@ -48,7 +48,7 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168772
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.'
@@ -73,8 +73,7 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185411
 ## Citatos
 
 - id: c-168772

@@ -162,7 +162,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190126
-
 - id: c-173875
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -187,7 +186,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190993
-
 - id: c-176624
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -210,7 +208,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193999
-
 - id: c-177120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -237,7 +234,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194724
-
 - id: c-178796
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -271,7 +267,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196610
-
 - id: c-184391
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -289,6 +284,5 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201041
-
 ## Ryšiai
 - Utenis rėmė [[objektai/grupes/Prūsai]]

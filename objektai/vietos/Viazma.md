@@ -97,7 +97,7 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   semantiniai_rysiai: "Viazma priklausė Smolenskas (0.78)"
   pagrindžia:
     - c-37797
-
+    - c-167693
 <a id="claim-t-184406"></a>
 - t-004
   global_id: t-184406
@@ -181,7 +181,6 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69558
-
 - id: c-37797
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -200,7 +199,6 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69560
-
 - id: c-68864
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -222,7 +220,6 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69559
-
 - id: c-167693
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -256,7 +253,6 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184406
-
 - id: c-170610
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -276,7 +272,6 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187669
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Ivanas Vasiljevičius]]
 - Užėmė Viazmą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

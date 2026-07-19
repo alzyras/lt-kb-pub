@@ -73,7 +73,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-63056
-
+    - c-001
 <a id="claim-t-62431"></a>
 - t-002
   global_id: t-62431
@@ -95,7 +95,8 @@ Nenurodyta
   pagrindžia:
     - c-63056
     - c-63057
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -111,9 +112,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-62430
+    - t-62431
 - c-002
   santrauka: '1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją magistrui Verneriui iš Orzelno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,8 +129,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62431
 ## Citatos
 
 - id: c-63056
@@ -155,7 +154,6 @@ Nenurodyta
   pagrindzia:
     - t-62430
     - t-62431
-
 - id: c-63057
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

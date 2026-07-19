@@ -149,7 +149,6 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86059
-
 - id: c-82039
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -175,7 +174,6 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86061
-
 - id: c-82040
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -196,6 +194,5 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86060
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

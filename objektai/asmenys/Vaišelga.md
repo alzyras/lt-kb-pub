@@ -167,7 +167,6 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82778
-
 - id: c-166966
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -189,7 +188,6 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   pagrindzia:
     - t-82777
     - t-183573
-
 - id: c-178801
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -206,7 +204,6 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196616
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - Vaišelga (kunigaikštis) buvo valdovas [[objektai/vietos/Lietuva]]

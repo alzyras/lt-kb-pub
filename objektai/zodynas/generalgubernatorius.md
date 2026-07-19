@@ -57,7 +57,7 @@ Jį valdė Vilniaus generalgubernatorius.
   temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, veiksmą ir yra tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-48499
-
+    - c-166819
 <a id="claim-t-45822"></a>
 - t-002
   global_id: t-45822
@@ -118,7 +118,6 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182947
-
 - id: c-48497
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -136,7 +135,6 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45822
-
 - id: c-48499
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,7 +157,6 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45820
-
 - id: c-166819
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

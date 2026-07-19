@@ -94,7 +94,6 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191643
-
 - id: c-179110
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

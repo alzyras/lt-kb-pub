@@ -139,7 +139,6 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54711
-
 - id: c-55681
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -165,7 +164,6 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54710
-
 - id: c-55682
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

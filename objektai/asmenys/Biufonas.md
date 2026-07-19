@@ -62,4 +62,4 @@ Biufono sistema, kurią cituoja Teodoras Narbutas, organinio pasaulio pradžią 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191496

@@ -394,7 +394,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179522
-
 - id: c-30681
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -412,7 +411,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179526
-
 - id: c-163201
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -434,7 +432,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   pagrindzia:
     - t-179525
     - t-179527
-
 - id: c-163203
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -455,7 +452,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   pagrindzia:
     - t-179516
     - t-179517
-
 - id: c-163205
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -477,7 +473,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179519
-
 - id: c-163206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -499,7 +494,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179514
-
 - id: c-163207
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -520,7 +514,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179529
-
 - id: c-163209
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -544,7 +537,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   pagrindzia:
     - t-179515
     - t-179528
-
 - id: c-163210
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -567,7 +559,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   pagrindzia:
     - t-179521
     - t-179523
-
 - id: c-163211
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -590,7 +581,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179518
-
 - id: c-163214
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -619,7 +609,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   pagrindzia:
     - t-179520
     - t-179524
-
 - id: c-163215
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -639,7 +628,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179511
-
 - id: c-163216
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

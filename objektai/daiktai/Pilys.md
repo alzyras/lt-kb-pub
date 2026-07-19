@@ -207,6 +207,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59675
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

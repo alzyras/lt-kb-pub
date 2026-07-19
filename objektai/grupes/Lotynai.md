@@ -261,6 +261,5 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63146
-
 ## Ryšiai
 - Lotynai valdė [[objektai/vietos/Konstantinopolis]]

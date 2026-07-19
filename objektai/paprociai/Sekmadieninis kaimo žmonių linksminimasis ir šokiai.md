@@ -66,7 +66,7 @@ Nenurodyta
   semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.67)"
   pagrindžia:
     - c-63474
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vieną sekmadienį aplinkinių Vartenbergo kaimų žmonės linksminosi ir šoko, kai juos netikėtai užpuolė kariuomenė iš Sūduvos.'
@@ -87,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62715
 ## Citatos
 
 - id: c-63474

@@ -126,7 +126,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-74491
-
+    - c-006
 <a id="claim-t-77022"></a>
 - t-006
   global_id: t-77022
@@ -271,7 +271,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   semantiniai_rysiai: "Nadruva priklausė Prūsija (0.78)"
   pagrindžia:
     - c-74488
-
+    - c-004
 <a id="claim-t-192700"></a>
 - t-014
   global_id: t-192700
@@ -293,7 +293,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175470
-
+    - c-010
 <a id="claim-t-192701"></a>
 - t-015
   global_id: t-192701
@@ -314,7 +314,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175471
-
+    - c-011
 <a id="claim-t-197899"></a>
 - t-016
   global_id: t-197899
@@ -433,8 +433,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-77029
 - c-006
   santrauka: 'Istoriografijoje formavosi nuomonė, kad Nadruva, Skalva ir Semba buvo Žemaitijos dalys arba lietuvių kalbos dialektų sritys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -453,8 +452,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-77021
 - c-010
   santrauka: 'Nadruva Narbuto aprašyme yra devintoji prūsų provincija, šiaurėje galbūt per Pisos upę ribojusis su Sūduva.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -475,8 +473,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-192700
 - c-011
   santrauka: 'Narbutas Nadruvą apibūdina kaip beveik ežerų neturėjusią, bet miškų turtingą prūsų provinciją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -495,8 +492,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-192701
 ## Citatos
 
 - id: c-74485
@@ -519,7 +515,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   pagrindzia:
     - t-77017
     - t-77018
-
 - id: c-74486
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -538,7 +533,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   pagrindzia:
     - t-77026
     - t-77028
-
 - id: c-74487
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -556,7 +550,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77022
-
 - id: c-74488
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -579,7 +572,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77029
-
 - id: c-74490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -605,7 +597,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - t-77019
     - t-77020
     - t-77025
-
 - id: c-74491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -630,7 +621,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77021
-
 - id: c-74492
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -648,7 +638,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77023
-
 - id: c-74494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -666,7 +655,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77027
-
 - id: c-74495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -687,7 +675,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77024
-
 - id: c-175470
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -715,7 +702,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192700
-
 - id: c-175471
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -742,7 +728,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192701
-
 - id: c-179387
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -765,7 +750,6 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197899
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Turėjo priklausinį: [[objektai/vietos/Katavos valsčius]], [[objektai/vietos/Retavos valsčius]], [[objektai/vietos/Romuva]]

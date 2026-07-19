@@ -46,7 +46,7 @@ Rodo paties Narbuto etimologinę pastabą ir originalią formuluotę.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175013
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas LTI PE pastaboje žodį Wannas aiškino kaip senovės prūsų kalbos žodį, reiškiantį uodą.'
@@ -64,8 +64,7 @@ Rodo paties Narbuto etimologinę pastabą ir originalią formuluotę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192127
 ## Citatos
 
 - id: c-175013

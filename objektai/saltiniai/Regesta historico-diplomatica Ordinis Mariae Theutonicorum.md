@@ -77,7 +77,7 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-61594
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
@@ -92,8 +92,7 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60963
 ## Citatos
 
 - id: c-61594
@@ -115,7 +114,6 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60963
-
 - id: c-61596
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

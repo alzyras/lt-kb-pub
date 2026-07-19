@@ -49,7 +49,7 @@ Netoli Lukoinių dvaro Kauno apskrityje buvo atkastas stiklinis tuščiaviduris 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171907
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Netoli Lukoinių dvaro Kauno apskrityje buvo atkastas stiklinis tuščiaviduris rutuliukas greta sidabro grandine apjuosto skeleto.'
@@ -67,8 +67,7 @@ Netoli Lukoinių dvaro Kauno apskrityje buvo atkastas stiklinis tuščiaviduris 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189018
 ## Citatos
 
 - id: c-171907

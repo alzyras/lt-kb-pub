@@ -70,7 +70,7 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174847
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbuto pasakojime Dionyzas iš Charakso imperatoriaus Oktaviano Augusto laikais geografiškai aprašė pasaulį ir minėjo Pantikapo bei Aldeskos upes.'
@@ -91,8 +91,7 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191965
 ## Citatos
 
 - id: c-174182
@@ -115,7 +114,6 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191300
-
 - id: c-174847
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

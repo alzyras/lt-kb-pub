@@ -88,7 +88,6 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42431
-
 - id: c-45501
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

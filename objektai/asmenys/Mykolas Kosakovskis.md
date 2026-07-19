@@ -48,7 +48,7 @@ Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu gl
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172944
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu globėju, kurį esą rodė karūna.'
@@ -66,8 +66,7 @@ Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu gl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190061
 ## Citatos
 
 - id: c-172944

@@ -49,7 +49,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43204
-
+    - c-43205
 ## Citatos
 
 - id: c-43204
@@ -68,7 +68,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41471
-
 - id: c-43205
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

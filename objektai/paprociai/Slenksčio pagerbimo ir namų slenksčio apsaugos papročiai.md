@@ -57,7 +57,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177205
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigia, kad lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal kas laikoma Dievo įžeidimu3.'
@@ -77,8 +77,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194809
 ## Citatos
 
 - id: c-177205

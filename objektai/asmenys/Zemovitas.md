@@ -144,7 +144,6 @@ Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60471
-
 - id: c-168255
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -174,7 +173,6 @@ Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184894
-
 - id: c-168256
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

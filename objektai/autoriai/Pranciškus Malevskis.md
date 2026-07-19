@@ -120,7 +120,6 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
   pagrindzia:
     - t-55019
     - t-55020
-
 - id: c-78479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

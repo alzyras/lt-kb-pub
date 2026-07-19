@@ -121,7 +121,6 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
     - t-101568
     - t-101570
     - t-193601
-
 - id: c-24759
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

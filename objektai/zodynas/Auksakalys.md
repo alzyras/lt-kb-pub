@@ -60,7 +60,7 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175127
-
+    - c-001
 <a id="claim-t-192326"></a>
 - t-002
   global_id: t-192326
@@ -72,6 +72,7 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175127
+    - c-001
 - susijęs iš [[objektai/asmenys/Herberis.md#claim-t-191414|Herberis]]: Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai esą buvo auksakaliai arba ginklakaliai.
 - susijęs iš [[objektai/autoriai/Herberis.md#claim-t-191645|Herberis]]: Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai buvo auksakaliai arba ginklakaliai.
 ## Reikšmingi paminėjimai
@@ -91,9 +92,8 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-192325
+    - t-192326
 ## Citatos
 
 - id: c-175127

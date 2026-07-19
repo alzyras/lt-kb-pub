@@ -97,7 +97,6 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86541
-
 - id: c-82521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

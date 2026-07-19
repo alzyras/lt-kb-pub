@@ -99,7 +99,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   semantiniai_rysiai: "Baiga priklausė Kryžiuočių ordinas (0.87); Elbingas priklausė Kryžiuočių ordinas (0.87)"
   pagrindžia:
     - c-159316
-
+    - c-007
 <a id="claim-t-175159"></a>
 - t-004
   global_id: t-175159
@@ -117,7 +117,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   semantiniai_rysiai: "Kryžiuočių ordinas pastatė Elbingas (0.74); Kryžiuočių ordinas pastatė Baiga (0.72); Kryžiuočių ordinas pastatė Marienverderis (0.63)"
   pagrindžia:
     - c-159314
-
+    - c-006
 <a id="claim-t-175160"></a>
 - t-005
   global_id: t-175160
@@ -155,7 +155,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Hohenlohės reliacijoje priskiriamą Konrado dovanojimą."
   pagrindžia:
     - c-159313
-
+    - c-005
 <a id="claim-t-175162"></a>
 - t-007
   global_id: t-175162
@@ -169,7 +169,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-159309
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166).'
@@ -183,8 +183,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-175162
 - c-005
   santrauka: 'Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -199,8 +198,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-175161
 - c-006
   santrauka: 'Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -215,8 +213,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-175159
 - c-007
   santrauka: 'Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -232,8 +229,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-175158
 ## Citatos
 
 - id: c-159309
@@ -256,7 +252,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175162
-
 - id: c-159310
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -272,7 +267,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175157
-
 - id: c-159311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -296,7 +290,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175160
-
 - id: c-159312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -316,7 +309,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175155
-
 - id: c-159313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -337,7 +329,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175161
-
 - id: c-159314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -363,7 +354,6 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175159
-
 - id: c-159316
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

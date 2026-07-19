@@ -58,7 +58,7 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   pagrindžia:
     - c-69301
     - c-69302
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -78,8 +78,7 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-70237
 ## Citatos
 
 - id: c-69301
@@ -105,7 +104,6 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70237
-
 - id: c-69302
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

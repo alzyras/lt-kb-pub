@@ -176,7 +176,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65925
-
 - id: c-26830
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -197,7 +196,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65923
-
 - id: c-42876
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -213,7 +211,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65926
-
 - id: c-42877
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -141,7 +141,6 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82033
-
 - id: c-78538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -169,7 +168,6 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82032
-
 - id: c-78539
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -195,7 +193,6 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82031
-
 - id: c-176814
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

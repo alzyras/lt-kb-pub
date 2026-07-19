@@ -158,7 +158,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82653
-
 - id: c-79117
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -193,7 +192,6 @@ media_all_json: |-
   pagrindzia:
     - t-82654
     - t-82655
-
 - id: c-176600
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -213,7 +211,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193975
-
 - id: c-176601
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -233,6 +230,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193976
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Tochtamyšas]], [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]

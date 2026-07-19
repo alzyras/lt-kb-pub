@@ -101,7 +101,6 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39865
-
 - id: c-167086
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

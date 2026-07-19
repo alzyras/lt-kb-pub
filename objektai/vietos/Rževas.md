@@ -137,7 +137,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69216
-
 - id: c-68610
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -157,7 +156,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69217
-
 - id: c-167763
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

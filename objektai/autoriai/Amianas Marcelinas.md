@@ -117,9 +117,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-174409
@@ -148,7 +145,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
   pagrindzia:
     - t-191527
     - t-197578
-
 - id: c-174410
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

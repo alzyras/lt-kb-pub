@@ -92,7 +92,6 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41613
-
 - id: c-45034
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

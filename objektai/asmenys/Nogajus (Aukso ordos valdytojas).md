@@ -83,6 +83,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40377
-
 ## Ryšiai
 - Nogajus (Aukso ordos valdytojas) siuntė į [[objektai/vietos/Lietuva]]

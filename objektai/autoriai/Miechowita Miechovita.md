@@ -114,7 +114,6 @@ Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Vale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88034
-
 - id: c-178917
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

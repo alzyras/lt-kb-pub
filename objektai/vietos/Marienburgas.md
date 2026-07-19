@@ -481,7 +481,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177697
-
 - id: c-37528
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -505,7 +504,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   pagrindzia:
     - t-177689
     - t-177700
-
 - id: c-161534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -525,7 +523,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177686
-
 - id: c-161535
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -540,7 +537,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177683
-
 - id: c-161536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -561,7 +557,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177694
-
 - id: c-161537
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -587,7 +582,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   pagrindzia:
     - t-177692
     - t-177698
-
 - id: c-161538
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -609,7 +603,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177687
-
 - id: c-161539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -649,7 +642,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   pagrindzia:
     - t-177685
     - t-177696
-
 - id: c-161540
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -669,7 +661,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177684
-
 - id: c-161543
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -691,7 +682,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177690
-
 - id: c-161544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -714,7 +704,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177688
-
 - id: c-161546
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -733,7 +722,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177695
-
 - id: c-161547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -756,7 +744,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177693
-
 - id: c-168399
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -799,7 +786,6 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185038
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
 - Gyvenamoji vieta: [[objektai/asmenys/Fridrichas (Marienburgo brolis)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Heinemanas (Marienburgo brolis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

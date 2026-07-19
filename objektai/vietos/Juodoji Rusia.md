@@ -94,7 +94,6 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68026
-
 - id: c-32075
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

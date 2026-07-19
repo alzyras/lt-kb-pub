@@ -111,7 +111,6 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22287
-
 - id: c-24977
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,7 +139,6 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22289
-
 - id: c-24978
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

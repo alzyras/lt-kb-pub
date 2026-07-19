@@ -98,7 +98,6 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181355
-
 - id: c-164911
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

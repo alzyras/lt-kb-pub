@@ -51,7 +51,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85145
-
+    - c-002
 <a id="claim-t-89177"></a>
 - t-002
   global_id: t-89177
@@ -85,7 +85,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85146
-
+    - c-003
 <a id="claim-t-89179"></a>
 - t-004
   global_id: t-89179
@@ -118,7 +118,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85146
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dalis pulti pilį iš priekio ir iš kitos pusės.'
@@ -137,8 +137,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89176
 - c-003
   santrauka: 'Magistras Henrikas rengėsi sunaikinti Sventopelką ir Prūsijos naujakrikščius atsimetėlius, kaltintus žala tikėjimui ir tikintiesiems.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -159,9 +158,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-005
-
+    - t-89178
+    - t-194356
 ## Citatos
 
 - id: c-85144
@@ -188,7 +186,6 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   pagrindzia:
     - t-89177
     - t-89179
-
 - id: c-85145
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -212,7 +209,6 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89176
-
 - id: c-85146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

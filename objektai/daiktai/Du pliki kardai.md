@@ -162,7 +162,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92957
-
 - id: c-14301
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -185,7 +184,6 @@ Nenurodyta
   pagrindzia:
     - t-92955
     - t-92956
-
 - id: c-36715
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -66,7 +66,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172733
-
+    - c-001
 <a id="claim-t-194628"></a>
 - t-002
   global_id: t-194628
@@ -80,7 +80,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177026
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Patelo garbei laikomą numirėlio kaukolę siejo su dievu Patelu, kurio stabą lokalizavo Romovės šventykloje, Perkūno dešinėje.'
@@ -98,8 +98,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189850
 - c-002
   santrauka: 'Narbutas teigia, kad lietuvių kalboje Potalas reiškia mirties patalą, neštuvus, ant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik riausiai šio dievo globojami buvo laužai, ant kurių degindavo numirėlius, o jų vėles dievas pernešdavo į amžiną buveinę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -117,8 +116,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194628
 ## Citatos
 
 - id: c-172733
@@ -144,7 +142,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189850
-
 - id: c-177026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

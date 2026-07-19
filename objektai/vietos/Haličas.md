@@ -186,7 +186,6 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114292
-
 - id: c-105412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -220,7 +219,6 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114291
-
 - id: c-166985
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -240,7 +238,6 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183593
-
 - id: c-170525
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -258,7 +255,6 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187577
-
 - id: c-175434
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -282,6 +278,5 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192664
-
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vasilka]]

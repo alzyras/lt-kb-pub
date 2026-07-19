@@ -71,8 +71,7 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Malachovskio rinkinyje minimą žinią apie Gedimino suteiktą herbą. Nepridėta neaiškaus šaltinio pagrindo, kurį pats tekstas pažymi kaip neapibrėžtą.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-174497
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą.'
@@ -94,8 +93,7 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191615
 ## Citatos
 
 - id: c-174498

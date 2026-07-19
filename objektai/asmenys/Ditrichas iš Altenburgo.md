@@ -56,7 +56,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.88)"
   pagrindžia:
     - c-60583
-
+    - c-003
 <a id="claim-t-59950"></a>
 - t-002
   global_id: t-59950
@@ -97,7 +97,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   temporalinis_llm_pakomentavimas: "Reikia glaustesnio sakinio, aiškiau susieto su Ditrichu iš Altenburgo."
   pagrindžia:
     - c-60581
-
+    - c-001
 <a id="claim-t-59952"></a>
 - t-004
   global_id: t-59952
@@ -152,8 +152,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59951
 - c-003
   santrauka: 'Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -172,8 +171,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59949
 ## Citatos
 
 - id: c-60581
@@ -194,7 +192,6 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59951
-
 - id: c-60582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -223,7 +220,6 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   pagrindzia:
     - t-59952
     - t-197066
-
 - id: c-60583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -246,7 +242,6 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59949
-
 - id: c-60584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -266,6 +261,5 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59950
-
 ## Ryšiai
 - Ditrichas iš Altenburgo pastatė [[objektai/vietos/Lunenburgas]]

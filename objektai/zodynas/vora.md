@@ -105,7 +105,6 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193385
-
 - id: c-176414
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

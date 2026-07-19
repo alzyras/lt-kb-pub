@@ -125,7 +125,6 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   pagrindzia:
     - t-185257
     - t-196762
-
 - id: c-170630
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

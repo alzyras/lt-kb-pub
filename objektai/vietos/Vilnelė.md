@@ -261,7 +261,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   pagrindžia:
     - c-177512
     - c-177511
-
+    - c-011
 <a id="claim-t-195148"></a>
 - t-017
   global_id: t-195148
@@ -483,8 +483,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023
-
+    - t-195147
 ## Citatos
 
 - id: c-177511
@@ -507,7 +506,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195147
-
 - id: c-177512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -538,7 +536,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-195144
     - t-195147
     - t-195148
-
 - id: c-177513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -573,10 +570,9 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195137
-    - t-195138
+    - t-195160
     - t-195150
     - t-195155
-
 - id: c-177514
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -602,7 +598,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-195136
     - t-195139
     - t-195145
-
 - id: c-177515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -639,7 +634,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195134
-
 - id: c-177516
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -668,7 +662,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-195152
     - t-195156
     - t-195158
-
 - id: c-177517
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -694,7 +687,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   pagrindzia:
     - t-195142
     - t-195159
-
 - id: c-177518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -731,7 +723,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195132
-
 - id: c-177519
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -757,7 +748,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195137
-
 - id: c-177520
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -779,7 +769,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195161
-
 - id: c-177521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -808,7 +797,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195146
-
 - id: c-177522
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -849,7 +837,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   pagrindzia:
     - t-195133
     - t-195157
-
 - id: c-177523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -879,7 +866,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195135
-
 - id: c-177524
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -904,7 +890,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-195140
     - t-195151
     - t-195154
-
 - id: c-177525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -928,22 +913,3 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   pagrindzia:
     - t-195149
     - t-195153
-
-- id: c-177511
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    Iš to žodžio paimtas pa­
-    vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
-    niaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­
-    jimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­
-    niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
-    ja, kurią seniau vadino Nerimi.
-  citata_rodoma: "Iš to žodžio paimtas pa­\nvadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­\nniaus arsenalo įtekančiai į Viliją. Tą patvirtina vietos pastebė­\njimai ir prie tos upės esančios vietovės. Tai ji davė vardą Vil­\nniui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­\nja, kurią seniau vadino Nerimi."
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-023

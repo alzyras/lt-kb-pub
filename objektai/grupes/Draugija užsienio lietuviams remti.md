@@ -86,6 +86,5 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77822
-
 ## Ryšiai
 - Draugija užsienio lietuviams remti rėmė [[objektai/grupes/Lietuviai]]

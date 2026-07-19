@@ -115,7 +115,6 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86429
-
 - id: c-82407
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,7 +140,6 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86428
-
 - id: c-82408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

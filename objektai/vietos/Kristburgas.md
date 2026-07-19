@@ -56,7 +56,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   semantiniai_rysiai: "Sventopelkas puolė Kristburgas (0.76)"
   pagrindžia:
     - c-86505
-
+    - c-005
 <a id="claim-t-90721"></a>
 - t-002
   global_id: t-90721
@@ -110,7 +110,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86508
-
+    - c-007
 <a id="claim-t-90724"></a>
 - t-005
   global_id: t-90724
@@ -165,7 +165,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie įvykį Kristburgo pilies apylinkėse."
   pagrindžia:
     - c-86508
-
+    - c-007
 <a id="claim-t-90727"></a>
 - t-008
   global_id: t-90727
@@ -183,7 +183,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   semantiniai_rysiai: "Sventopelkas apgulė Kristburgas (0.83)"
   pagrindžia:
     - c-86505
-
+    - c-005
 <a id="claim-t-90728"></a>
 - t-009
   global_id: t-90728
@@ -402,9 +402,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-008
-
+    - t-90720
+    - t-90727
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -425,9 +424,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-    - t-004
-
+    - t-90723
+    - t-90726
 ## Citatos
 
 - id: c-86498
@@ -454,7 +452,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   pagrindzia:
     - t-90724
     - t-90728
-
 - id: c-86499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -474,7 +471,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90722
-
 - id: c-86500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -494,7 +490,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90730
-
 - id: c-86504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -518,7 +513,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   pagrindzia:
     - t-90729
     - t-194536
-
 - id: c-86505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -544,7 +538,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   pagrindzia:
     - t-90720
     - t-90727
-
 - id: c-86506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -568,7 +561,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90721
-
 - id: c-86508
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -596,7 +588,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   pagrindzia:
     - t-90723
     - t-90726
-
 - id: c-167553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -616,7 +607,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90725
-
 - id: c-179046
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -635,7 +625,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197173
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Gynė Kristburgą: [[objektai/asmenys/Sirenas]]

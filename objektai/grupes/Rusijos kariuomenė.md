@@ -178,7 +178,6 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
   pagrindzia:
     - t-66078
     - t-66079
-
 - id: c-22722
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -201,7 +200,6 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66077
-
 - id: c-42911
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -222,7 +220,6 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66080
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kazokai]]
 - Rusijos kariuomenė užėmė [[objektai/vietos/Livonija]], [[objektai/vietos/Minskas]], [[objektai/vietos/Vilnius]]

@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172784
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žymesni asmenys laidoti su luomui būdingais drabužiais ir gyvenimo užsiėmimą žymėjusiais daiktais, pavyzdžiui, karys su ginklu, o amatininkas su įrankiais.'
@@ -86,8 +86,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189901
 ## Citatos
 
 - id: c-172784

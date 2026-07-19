@@ -86,4 +86,3 @@ Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

@@ -84,8 +84,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Ištaisyta OCR klaida ir paliktas aiškus subjektas - visuomenės švietimo bei ugdymo uždaviniai. Nepridėta duomenų apie taurę ar jos savininką, nes teiginys apima tik uždavinius.'
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
-    - c-172728
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose.'
@@ -111,8 +110,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189845
 ## Citatos
 
 - id: c-172729

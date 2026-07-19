@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys perteklinis ir prasideda netinkamu autorystės boilerplate."
   pagrindžia:
     - c-63530
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1266 m. Brandenburgo markgrafas, magistro ir brolių patariamas, Prūsijoje pastatydino Brandenburgo pilį.'
@@ -88,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62750
 ## Citatos
 
 - id: c-63530

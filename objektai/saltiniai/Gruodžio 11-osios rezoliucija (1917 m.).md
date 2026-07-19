@@ -141,7 +141,6 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75449
-
 - id: c-23773
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -162,7 +161,6 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75448
-
 - id: c-73229
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -184,7 +182,6 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75450
-
 - id: c-166751
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

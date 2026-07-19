@@ -76,6 +76,5 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39997
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

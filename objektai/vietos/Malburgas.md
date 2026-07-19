@@ -196,7 +196,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195097
-
 - id: c-177479
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -216,7 +215,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195100
-
 - id: c-177480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -241,7 +239,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195101
-
 - id: c-177481
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -281,7 +278,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195096
-
 - id: c-177482
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -307,7 +303,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - t-195098
     - t-195099
     - t-195102
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Bonifacas IX]]

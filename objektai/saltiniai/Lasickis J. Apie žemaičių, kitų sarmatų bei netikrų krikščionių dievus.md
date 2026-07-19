@@ -46,7 +46,7 @@ Dusburgietis teigia, kad lasickis J.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą ir leidimo metus."
   pagrindžia:
     - c-61758
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m.'
@@ -59,8 +59,7 @@ Dusburgietis teigia, kad lasickis J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61126
 ## Citatos
 
 - id: c-61758

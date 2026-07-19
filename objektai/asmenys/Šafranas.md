@@ -84,6 +84,5 @@ Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pran
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191491
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Khaintajas]]

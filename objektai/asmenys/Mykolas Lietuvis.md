@@ -43,7 +43,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173070
-
+    - c-001
 <a id="claim-t-190929"></a>
 - t-002
   global_id: t-190929
@@ -95,8 +95,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190187
 ## Citatos
 
 - id: c-173070
@@ -120,7 +119,6 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190187
-
 - id: c-173811
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -138,7 +136,6 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190929
-
 - id: c-174844
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

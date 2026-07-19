@@ -86,7 +86,6 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58662
-
 - id: c-59295
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

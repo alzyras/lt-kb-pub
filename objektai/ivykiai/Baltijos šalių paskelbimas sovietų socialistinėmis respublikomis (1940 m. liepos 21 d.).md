@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos informaciją."
   pagrindžia:
     - c-22910
-
+    - c-166605
 ## Citatos
 
 - id: c-22910
@@ -91,7 +91,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20169
-
 - id: c-166605
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

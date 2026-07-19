@@ -57,7 +57,7 @@ Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleis
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174683
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczególnie do historyi Litwy odnoszące się“.'
@@ -77,8 +77,7 @@ Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191801
 ## Citatos
 
 - id: c-174683

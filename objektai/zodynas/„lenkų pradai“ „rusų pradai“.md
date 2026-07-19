@@ -126,7 +126,6 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   pagrindzia:
     - t-22360
     - t-183488
-
 - id: c-166883
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

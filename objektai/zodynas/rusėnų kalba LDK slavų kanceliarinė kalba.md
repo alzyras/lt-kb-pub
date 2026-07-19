@@ -84,7 +84,6 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22294
-
 - id: c-24984
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

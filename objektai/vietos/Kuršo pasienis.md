@@ -85,7 +85,6 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02529
-
 - id: c-175943
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

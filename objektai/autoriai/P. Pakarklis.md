@@ -88,6 +88,7 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-91690
+    - c-001
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179535|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.
 - susijęs iš Nadruva: Istoriografijoje formavosi nuomonė, kad Nadruva, Skalva ir Semba buvo Žemaitijos dalys arba lietuvių kalbos dialektų sritys.
 ## Reikšmingi paminėjimai
@@ -109,8 +110,7 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-97208
 ## Citatos
 
 - id: c-91690
@@ -137,7 +137,6 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97208
-
 - id: c-91692
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -166,7 +165,6 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97205
-
 - id: c-91694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

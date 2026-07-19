@@ -87,7 +87,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173741
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Komentare G. Braunas įvardijamas kaip 1541-1622 m. gyvenęs geografas ir kartografas, atlaso „Civitates orbis terrarum“ autorius.'
@@ -103,8 +103,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190859
 ## Citatos
 
 - id: c-173034
@@ -124,7 +123,6 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190151
-
 - id: c-173741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

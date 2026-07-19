@@ -93,7 +93,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   pagrindzia:
     - t-70012
     - t-70013
-
 - id: c-09697
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Reikia sklandesnės formuluotės ir aiškesnio veiksmo laiko, išlaikant citatos atsargumą."
   pagrindžia:
     - c-59983
-
+    - c-002
 <a id="claim-t-59351"></a>
 - t-002
   global_id: t-59351
@@ -92,7 +92,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, tiksliai perteikiantis cituojamą popiežiaus leidimą."
   pagrindžia:
     - c-59982
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Popiežius 1217 m. kovo 3 d. leido Kristijonui organizuoti kryžiaus žygį į kitas Prūsijos žemes.'
@@ -106,8 +106,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59351
 - c-002
   santrauka: 'Per 1218 m. žygį Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -121,8 +120,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59350
 ## Citatos
 
 - id: c-59982
@@ -144,7 +142,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59351
-
 - id: c-59983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

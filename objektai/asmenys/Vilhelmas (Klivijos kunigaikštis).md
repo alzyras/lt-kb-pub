@@ -88,7 +88,6 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34766
-
 - id: c-167666
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

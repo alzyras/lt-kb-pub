@@ -136,7 +136,6 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185932
-
 - id: c-169294
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -174,7 +173,6 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185933
-
 - id: c-169295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -204,7 +202,6 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185934
-
 - id: c-178680
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

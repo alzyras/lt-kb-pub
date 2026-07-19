@@ -48,6 +48,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168762
+    - c-001
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-87923|Ona (Vytauto žmona)]]: Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176715|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.
 - susijęs iš [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje.md#claim-t-87066|Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]: 1394 metų Vilniaus apgultyje didysis kunigaikštis įtvirtino įgulas abiejose pilyse ir mieste.
@@ -425,8 +426,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185401
 ## Citatos
 
 - id: c-168762

@@ -108,7 +108,6 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87526
-
 - id: c-83505
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

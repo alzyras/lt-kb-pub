@@ -280,7 +280,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176408
-
 - id: c-160424
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -298,7 +297,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176410
-
 - id: c-160426
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -319,7 +317,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176407
-
 - id: c-160429
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -338,7 +335,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176411
-
 - id: c-168075
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -362,7 +358,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184714
-
 - id: c-171427
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -395,7 +390,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188538
-
 - id: c-176294
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -416,7 +410,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193623
-
 - id: c-177104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -438,7 +431,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194708
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Jadvyga keliavo į [[objektai/vietos/Vilnius]]

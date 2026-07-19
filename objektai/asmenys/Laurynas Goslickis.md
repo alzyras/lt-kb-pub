@@ -104,7 +104,6 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87539
-
 - id: c-83518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

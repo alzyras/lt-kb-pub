@@ -331,7 +331,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindzia:
     - t-180416
     - t-180418
-
 - id: c-164032
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -356,7 +355,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180412
-
 - id: c-164036
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -376,7 +374,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180419
-
 - id: c-164037
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -396,7 +393,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180415
-
 - id: c-164038
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -422,7 +418,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180420
-
 - id: c-164039
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -453,7 +448,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180422
-
 - id: c-182504
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -473,7 +467,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199668
-
 - id: c-182505
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -519,7 +512,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199666
-
 - id: c-182507
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -652,6 +644,5 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201099
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

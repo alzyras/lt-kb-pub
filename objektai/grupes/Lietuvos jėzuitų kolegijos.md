@@ -116,7 +116,6 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81463
-
 - id: c-78084
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -140,7 +139,6 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81465
-
 - id: c-78085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

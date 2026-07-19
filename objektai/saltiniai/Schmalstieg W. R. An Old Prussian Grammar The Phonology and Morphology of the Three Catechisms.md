@@ -53,7 +53,7 @@ Dusburgietis teigia, kad schmalstieg W.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61918
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'W. R. Schmalstiego „An Old Prussian Grammar: The Phonology and Morphology of the Three Catechisms“ buvo išleista Londone 1974 m.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad schmalstieg W.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61286
 ## Citatos
 
 - id: c-61918

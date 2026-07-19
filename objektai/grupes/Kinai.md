@@ -49,7 +49,7 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172381
-
+    - c-001
 <a id="claim-t-194568"></a>
 - t-002
   global_id: t-194568
@@ -88,8 +88,7 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189493
 ## Citatos
 
 - id: c-172381
@@ -119,7 +118,6 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189493
-
 - id: c-176968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

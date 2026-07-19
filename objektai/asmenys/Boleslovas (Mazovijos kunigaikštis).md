@@ -171,7 +171,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   pagrindzia:
     - t-89678
     - t-89680
-
 - id: c-168040
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -203,7 +202,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184679
-
 - id: c-168042
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -237,7 +235,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184681
-
 ## Ryšiai
 - Boleslovas (Mazovijos kunigaikštis) puolė [[objektai/vietos/Palenkė]]
 - Boleslovas (Mazovijos kunigaikštis) užėmė [[objektai/vietos/Belskas]], [[objektai/vietos/Drohičinas]]

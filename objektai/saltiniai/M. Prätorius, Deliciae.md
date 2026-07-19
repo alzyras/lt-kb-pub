@@ -77,7 +77,7 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61587
-
+    - c-003
 <a id="claim-t-60955"></a>
 - t-003
   global_id: t-60955
@@ -113,8 +113,7 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60954
 ## Citatos
 
 - id: c-61585
@@ -135,7 +134,6 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60953
-
 - id: c-61586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,7 +155,6 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60955
-
 - id: c-61587
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -54,6 +54,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60855
+    - c-002
 - susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-183986|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.
 - susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-62681|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.
 ## Reikšmingi paminėjimai
@@ -75,8 +76,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60223
 ## Citatos
 
 - id: c-60854
@@ -100,7 +100,6 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60222
-
 - id: c-60855
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

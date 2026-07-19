@@ -296,7 +296,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   pagrindzia:
     - t-177249
     - t-177256
-
 - id: c-161142
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -316,8 +315,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-177253
-
+    - t-177255
 - id: c-161143
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -358,7 +356,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177248
-
 - id: c-161144
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -376,7 +373,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177251
-
 - id: c-161148
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -398,7 +394,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   pagrindzia:
     - t-177250
     - t-194533
-
 - id: c-167549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -418,7 +413,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184164
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Lotynai]]
 - Užėmė Konstantinopolį: [[objektai/asmenys/Paleologas]], [[objektai/grupes/Prancūzai]]

@@ -92,7 +92,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata.'
   pagrindžia:
-    - c-170467
+    - c-002
 - susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
 - susijęs iš [[objektai/asmenys/Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200473|Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Davainis Solohubas buvo LDK artilerijos generolas.
 - susijęs iš [[objektai/asmenys/Antanas Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200493|Antanas Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Solohubas buvo LDK artilerijos generolas.
@@ -327,8 +327,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187515
 ## Citatos
 
 - id: c-170466

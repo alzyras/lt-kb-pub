@@ -95,7 +95,6 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   pagrindzia:
     - t-70045
     - t-70048
-
 - id: c-09736
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

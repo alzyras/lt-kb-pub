@@ -101,7 +101,6 @@ Amsterdamas, 1650 m.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46497
-
 - id: c-49067
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

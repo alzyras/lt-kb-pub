@@ -49,7 +49,7 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
   semantiniai_rysiai: "Stanislovas Jendžejevskis keliavo į Maskva (0.78)"
   pagrindžia:
     - c-169616
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.'
@@ -73,8 +73,7 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186255
 ## Citatos
 
 - id: c-169616

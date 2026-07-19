@@ -280,7 +280,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172074
-
 - id: c-10106
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -294,7 +293,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172074
-
 - id: c-156493
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -313,7 +311,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172075
-
 - id: c-156494
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -374,7 +371,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172069
-
 - id: c-156496
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -408,7 +404,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   pagrindzia:
     - t-172070
     - t-172071
-
 - id: c-156497
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -463,7 +458,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172067
-
 - id: c-156499
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

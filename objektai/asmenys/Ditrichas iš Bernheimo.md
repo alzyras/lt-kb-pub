@@ -54,7 +54,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60539
-
+    - c-002
 <a id="claim-t-59906"></a>
 - t-002
   global_id: t-59906
@@ -85,7 +85,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   temporalinis_llm_pakomentavimas: "Citata remia kovos rezultatą; pašalintas religinis ir neaiškus kontekstas."
   pagrindžia:
     - c-60540
-
+    - c-003
+    - c-006
 <a id="claim-t-59908"></a>
 - t-004
   global_id: t-59908
@@ -103,7 +104,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyrė Ditrichas iš Bernheimo (0.90); Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į Prūsija (0.70)"
   pagrindžia:
     - c-60541
-
+    - c-004
 <a id="claim-t-59909"></a>
 - t-005
   global_id: t-59909
@@ -123,6 +124,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatą."
   pagrindžia:
     - c-60538
+    - c-001
 - susijęs iš [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.).md#claim-t-89398|Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]: 1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir dvidešimt keturiais ginklanešiais slapta įsigavo į Sartovicų pilį.
 ## Reikšmingi paminėjimai
 - c-001
@@ -144,8 +146,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-59909
 - c-002
   santrauka: 'Prie Renzeno pelkės Ditrichas iš Bernheimo siūlė pulti tą priešo kariuomenės dalį, kuri dar nebuvo perėjusi pelkės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -164,8 +165,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59905
 - c-003
   santrauka: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -183,8 +183,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59907
 - c-004
   santrauka: 'Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -206,8 +205,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-59908
 - c-006
   santrauka: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -225,8 +223,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-59907
 ## Citatos
 
 - id: c-60538
@@ -252,7 +249,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59909
-
 - id: c-60539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -275,7 +271,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59905
-
 - id: c-60540
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -298,7 +293,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59907
-
 - id: c-60541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -325,7 +319,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59908
-
 - id: c-167438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -344,7 +337,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59906
-
 - id: c-167439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -49,7 +49,7 @@ Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas nepriei
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172162
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas neprieinamas kalnas, į kurį turėjo kopti vėlės.'
@@ -66,8 +66,7 @@ Narbutas pasakoja, kad padavimuose Anapilis arba Anafielas buvo aukštas nepriei
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189274
 ## Citatos
 
 - id: c-172162

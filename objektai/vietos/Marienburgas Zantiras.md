@@ -50,7 +50,7 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171910
-
+    - c-001
 <a id="claim-t-189022"></a>
 - t-002
   global_id: t-189022
@@ -71,7 +71,7 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171911
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėjusi trečia šventykla.'
@@ -87,8 +87,7 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189021
 - c-002
   santrauka: 'Narbutas nurodė, kad Marienburgo vietovė prie Nogato anksčiau vadinosi Zantiras.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -104,8 +103,7 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189022
 ## Citatos
 
 - id: c-171910
@@ -128,7 +126,6 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189021
-
 - id: c-171911
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

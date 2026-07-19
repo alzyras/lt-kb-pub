@@ -119,7 +119,6 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74619
-
 - id: c-72664
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -142,7 +141,6 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74618
-
 - id: c-72665
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -162,7 +160,6 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74617
-
 - id: c-177579
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

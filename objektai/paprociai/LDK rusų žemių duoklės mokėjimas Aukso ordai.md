@@ -84,7 +84,7 @@ Nenurodyta
   semantiniai_rysiai: "Gediminas valdė Lietuva (0.68); Algirdas (Lietuvos valdovas) valdė Lietuva (0.68)"
   pagrindžia:
     - c-55156
-
+    - c-166706
 ## Citatos
 
 - id: c-55156
@@ -108,7 +108,6 @@ Nenurodyta
   pagrindzia:
     - t-54266
     - t-54267
-
 - id: c-166706
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

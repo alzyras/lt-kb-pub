@@ -267,7 +267,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   pagrindzia:
     - t-10128
     - t-10129
-
 - id: c-13010
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

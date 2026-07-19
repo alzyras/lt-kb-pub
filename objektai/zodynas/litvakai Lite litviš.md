@@ -121,7 +121,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26551
-
 - id: c-26792
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -139,7 +138,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26549
-
 - id: c-166841
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

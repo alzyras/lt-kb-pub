@@ -45,7 +45,7 @@ Dusburgietis teigia, kad zinkevičius Z. Dusburgietis teigia, kad zinkevičius Z
   semantiniai_rysiai: "Krivičiai gyveno Naugardukas (0.92)"
   pagrindžia:
     - c-61653
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.'
@@ -61,8 +61,7 @@ Dusburgietis teigia, kad zinkevičius Z. Dusburgietis teigia, kad zinkevičius Z
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61020
 ## Citatos
 
 - id: c-61653

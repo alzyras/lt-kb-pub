@@ -136,7 +136,6 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18997
-
 - id: c-21757
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -166,7 +165,6 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18998
-
 - id: c-21758
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

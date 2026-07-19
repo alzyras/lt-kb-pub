@@ -69,6 +69,5 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36476
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kryžiuočių ordinas]]

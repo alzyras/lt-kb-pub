@@ -101,7 +101,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81608
-
 - id: c-78199
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

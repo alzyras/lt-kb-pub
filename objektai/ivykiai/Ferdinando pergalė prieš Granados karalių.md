@@ -73,7 +73,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškai perteikia citatos faktą apie Ferdinando pergalę ir duoklę."
   pagrindžia:
     - c-63573
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę.'
@@ -92,8 +92,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62779
 ## Citatos
 
 - id: c-63573

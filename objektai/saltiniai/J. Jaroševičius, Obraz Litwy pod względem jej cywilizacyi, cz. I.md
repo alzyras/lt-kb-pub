@@ -54,7 +54,7 @@ Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywil
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173382
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywilizacyi“ kaip darbą apie pagoniškąją Lietuvą.'
@@ -70,8 +70,7 @@ Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190499
 ## Citatos
 
 - id: c-173382

@@ -48,7 +48,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173393
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„De veteribus Tumulis vulgo Kurhani nuncupatis“ Narbutui buvo žinomas iš velionio Vilniaus universiteto profesoriaus Mykolo Šulco pasakojimo.'
@@ -68,8 +68,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190510
 ## Citatos
 
 - id: c-173393

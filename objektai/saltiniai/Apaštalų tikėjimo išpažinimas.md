@@ -44,7 +44,7 @@ Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61679
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Henrikas regėjime ištarė Apaštalų tikėjimo išpažinimą, atsakydamas į raginimą priimti žydų tikėjimą.'
@@ -62,8 +62,7 @@ Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61047
 ## Citatos
 
 - id: c-61679

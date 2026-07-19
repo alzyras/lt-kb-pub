@@ -262,7 +262,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101550
-
 - id: c-23851
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -286,7 +285,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   pagrindzia:
     - t-101551
     - t-101552
-
 - id: c-23852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -305,7 +303,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101559
-
 - id: c-23853
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -326,7 +323,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101553
-
 - id: c-95088
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -344,7 +340,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101560
-
 - id: c-95089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -366,7 +361,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101556
-
 - id: c-95090
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -396,7 +390,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101557
-
 - id: c-95091
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -417,7 +410,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101555
-
 - id: c-95092
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -443,7 +435,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101558
-
 - id: c-176271
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

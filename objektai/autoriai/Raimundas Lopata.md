@@ -102,7 +102,6 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-23255
-
 - id: c-65427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

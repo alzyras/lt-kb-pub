@@ -119,7 +119,6 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67315
-
 - id: c-67268
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

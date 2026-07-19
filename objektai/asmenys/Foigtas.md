@@ -49,7 +49,7 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174227
-
+    - c-001
 <a id="claim-t-197729"></a>
 - t-002
   global_id: t-197729
@@ -94,8 +94,7 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191345
 - c-002
   santrauka: 'Narbutas IV priede rėmėsi Foigto surinktomis žiniomis apie senovės Prūsijos geografiją, statistiką ir provincijų istoriją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -124,8 +123,6 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-174227
@@ -158,7 +155,6 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191345
-
 - id: c-179311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

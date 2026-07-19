@@ -73,6 +73,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80636
-
 ## Ryšiai
 - Puolė oji pėstininkų diviziją: [[objektai/asmenys/L. Želigovskis]]

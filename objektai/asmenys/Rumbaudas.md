@@ -125,7 +125,6 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184284
-
 - id: c-166265
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -146,7 +145,6 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182861
-
 - id: c-168185
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

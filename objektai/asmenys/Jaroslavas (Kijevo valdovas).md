@@ -78,6 +78,5 @@ Lietuva patyrė Kijevo Rusios agresiją.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39556
-
 ## Ryšiai
 - Jaroslavas (Kijevo valdovas) surengė žygį į [[objektai/vietos/Lietuva]]

@@ -64,7 +64,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   temporalinis_llm_pakomentavimas: "Teiginys konkrečiai perteikia citatoje minimą įsibrovimą į Kulmo žemę."
   pagrindžia:
     - c-76494
-
+    - c-017
 <a id="claim-t-79493"></a>
 - t-002
   global_id: t-79493
@@ -84,7 +84,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   temporalinis_llm_pakomentavimas: "Teiginys pagrįstai priskiria Dusburgiečiui citatoje aptartą nutylėjimą."
   pagrindžia:
     - c-76492
-
+    - c-015
 <a id="claim-t-79494"></a>
 - t-003
   global_id: t-79494
@@ -119,7 +119,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   semantiniai_rysiai: "Sventopelkas puolė Kulmo žemė (0.90)"
   pagrindžia:
     - c-167558
-
+    - c-018
 <a id="claim-t-79496"></a>
 - t-005
   global_id: t-79496
@@ -154,7 +154,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-76490
-
+    - c-013
 <a id="claim-t-79498"></a>
 - t-007
   global_id: t-79498
@@ -208,8 +208,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatą apie Kulmo žemės paminėjimą ir vardo įsitvirtinimą."
   pagrindžia:
-    - c-76487
-
+    - c-010
 <a id="claim-t-79501"></a>
 - t-010
   global_id: t-79501
@@ -226,7 +225,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-76493
-
+    - c-016
 <a id="claim-t-79502"></a>
 - t-011
   global_id: t-79502
@@ -281,7 +280,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-76482
-
+    - c-006
 <a id="claim-t-79505"></a>
 - t-014
   global_id: t-79505
@@ -299,7 +298,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   semantiniai_rysiai: "Kulmo žemė priklausė Prūsai (0.80)"
   pagrindžia:
     - c-76488
-
+    - c-76487
 <a id="claim-t-79506"></a>
 - t-015
   global_id: t-79506
@@ -338,7 +337,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   semantiniai_rysiai: "Sūduviai puolė Kulmo žemė (0.88); Rusai puolė Kulmo žemė (0.82)"
   pagrindžia:
     - c-76486
-
+    - c-009
 <a id="claim-t-79508"></a>
 - t-017
   global_id: t-79508
@@ -414,8 +413,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-79504
 - c-009
   santrauka: 'Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -432,8 +430,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-79507
 - c-010
   santrauka: 'Kulmo žemė rašytiniuose šaltiniuose minima nuo 1222 m., o jos vardas įsitvirtino XIII a. 3–4 dešimtmečiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -447,8 +444,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-79500
 - c-013
   santrauka: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -465,8 +461,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-79497
 - c-015
   santrauka: 'Dusburgietis nutyli lenkų ir kryžiuočių ginčus dėl Kulmo žemės dovanojimo pobūdžio bei apimties.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -484,8 +479,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-79493
 - c-016
   santrauka: 'Druzigeriui Torunėje paskelbus klaidingą žinią apie kariuomenės žūtį, Kulmo žemėje ir Lenkijoje kilo didelis krikščionių raudojimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -504,8 +498,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-79501
 - c-017
   santrauka: 'Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -526,8 +519,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-79492
 - c-018
   santrauka: 'Dusburgietis teigia, kad jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -551,9 +543,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-    - t-004
-
+    - t-79495
 ## Citatos
 
 - id: c-24223
@@ -575,7 +565,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79503
-
 - id: c-43534
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -597,7 +586,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79502
-
 - id: c-76478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -621,7 +609,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79498
-
 - id: c-76479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -638,7 +625,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79511
-
 - id: c-76480
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -655,7 +641,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79499
-
 - id: c-76482
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -678,7 +663,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79504
-
 - id: c-76484
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -698,7 +682,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79508
-
 - id: c-76485
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -718,7 +701,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79506
-
 - id: c-76486
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -740,7 +722,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79507
-
 - id: c-76487
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -757,8 +738,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79500
-
+    - t-79505
 - id: c-76488
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -777,7 +757,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79505
-
 - id: c-76489
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -798,7 +777,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79496
-
 - id: c-76490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -829,7 +807,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79497
-
 - id: c-76491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -846,7 +823,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79494
-
 - id: c-76492
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -870,7 +846,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79493
-
 - id: c-76493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -897,7 +872,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79501
-
 - id: c-76494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -924,7 +898,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79492
-
 - id: c-167558
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -950,6 +923,5 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79495
-
 ## Ryšiai
 - Puolė Kulmo žemę: [[objektai/asmenys/Linkas]], [[objektai/asmenys/Sventopelkas]]

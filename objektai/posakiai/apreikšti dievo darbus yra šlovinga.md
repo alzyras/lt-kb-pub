@@ -45,6 +45,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59706
+    - c-002
 - susijęs iš [[objektai/asmenys/Jėzus Kristus.md#claim-t-89876|Jėzus Kristus]]: Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino praeities šventieji tėvai.
 - susijęs iš [[objektai/asmenys/Jėzus Kristus.md#claim-t-89878|Jėzus Kristus]]: Jėzus Kristus, pasak dedikacijos, stebuklingus darbus nuveikė pats arba per savo mokinius.
 - susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
@@ -75,8 +76,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59074
 ## Citatos
 
 - id: c-59706
@@ -103,7 +103,6 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59074
-
 - id: c-167409
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

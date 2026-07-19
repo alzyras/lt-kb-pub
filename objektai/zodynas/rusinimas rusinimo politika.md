@@ -93,7 +93,6 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22286
-
 - id: c-24975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

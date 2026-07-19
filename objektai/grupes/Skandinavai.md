@@ -91,7 +91,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171227
-
+    - c-003
 <a id="claim-t-188335"></a>
 - t-004
   global_id: t-188335
@@ -133,7 +133,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171229
-
+    - c-005
 <a id="claim-t-188339"></a>
 - t-006
   global_id: t-188339
@@ -259,7 +259,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175253
-
+    - c-012
 <a id="claim-t-192460"></a>
 - t-012
   global_id: t-192460
@@ -308,7 +308,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176994
-
+    - c-015
 <a id="claim-t-194596"></a>
 - t-015
   global_id: t-194596
@@ -347,7 +347,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-176997
-
+    - c-018
 <a id="claim-t-194599"></a>
 - t-018
   global_id: t-194599
@@ -373,6 +373,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-176999
+    - c-020
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Variagai (normanai).md#claim-t-192477|Variagai (normanai)]]: Narbutas rašo, kad Rimuko variagai buvo vadinti rus-variagais arba rusais ir laikyti karinga skandinavų gentimi.
 - susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190932|Nestoras]]: Teodoras Narbutas Nestoro pateiktomis žiniomis grindė teiginį, kad skandinavams priklausė daug kraštų ir tautų.
@@ -499,8 +500,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188334
 - c-005
   santrauka: 'Narbutas perteikia Prūsijos kronikininkų nuomonę, kad lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -516,8 +516,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188336
 - c-012
   santrauka: 'Narbutas Assagardą laikė senovės šiaurės miestu Rusioje, kur, jo teigimu, nuolat gyveno skandinavai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -543,8 +542,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-192459
 - c-015
   santrauka: 'Su šių dviejų religijų sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam plaikos kilo mitologija, kurią imamės išdėstyti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -564,8 +562,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-194595
 - c-018
   santrauka: 'Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -585,8 +582,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-
+    - t-194598
 - c-020
   santrauka: 'Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -603,8 +599,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-
+    - t-194600
 ## Citatos
 
 - id: c-42931
@@ -626,7 +621,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66129
-
 - id: c-171225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -653,7 +647,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188332
-
 - id: c-171227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -678,7 +671,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188334
-
 - id: c-171228
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -698,7 +690,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188335
-
 - id: c-171229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -725,7 +716,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188336
-
 - id: c-171232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -743,7 +733,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188339
-
 - id: c-171233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -766,7 +755,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188340
-
 - id: c-175250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -792,7 +780,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192456
-
 - id: c-175251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -816,7 +803,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192457
-
 - id: c-175252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -840,7 +826,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192458
-
 - id: c-175253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -868,7 +853,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192459
-
 - id: c-175254
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -889,7 +873,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192460
-
 - id: c-175887
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -909,7 +892,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193128
-
 - id: c-176994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -937,7 +919,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194595
-
 - id: c-176995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -959,7 +940,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194596
-
 - id: c-176996
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -979,7 +959,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194597
-
 - id: c-176997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1005,7 +984,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194598
-
 - id: c-176998
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1035,7 +1013,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194599
-
 - id: c-176999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1055,6 +1032,5 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194600
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kuršiai]]

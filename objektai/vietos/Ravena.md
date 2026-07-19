@@ -71,7 +71,7 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175601
-
+    - c-002
 <a id="claim-t-197913"></a>
 - t-003
   global_id: t-197913
@@ -123,8 +123,7 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192831
 ## Citatos
 
 - id: c-175600
@@ -148,7 +147,6 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
   pagrindzia:
     - t-192830
     - t-197913
-
 - id: c-175601
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -171,7 +169,6 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192831
-
 - id: c-179394
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

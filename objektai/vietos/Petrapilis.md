@@ -125,7 +125,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68918
-
 - id: c-68373
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -146,7 +145,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68917
-
 - id: c-166463
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -164,6 +162,5 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183072
-
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/grupes/Čartoriskiai]]

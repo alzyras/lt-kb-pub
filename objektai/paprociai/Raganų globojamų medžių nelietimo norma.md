@@ -58,7 +58,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177211
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ragana (Ragana) Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei vės, globojančios tam tikrus medžius, augančius savaime arba kieno nors persodintus.'
@@ -81,8 +81,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Kiekviena ragana turėjo savo medį, kurį globojo stengda masi padalyti viską, kad jis būtų sveikas ir augtų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -100,8 +98,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194815
 ## Citatos
 
 - id: c-177211

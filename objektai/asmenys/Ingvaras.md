@@ -49,6 +49,7 @@ Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto te
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174302
+    - c-001
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,8 +73,7 @@ Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto te
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191420
 ## Citatos
 
 - id: c-174302

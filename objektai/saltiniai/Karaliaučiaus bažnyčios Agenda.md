@@ -58,7 +58,7 @@ Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173423
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvius iki 1530 m. laikiusis aukų Pergrubei apeigų.'
@@ -77,8 +77,7 @@ Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190540
 ## Citatos
 
 - id: c-173423

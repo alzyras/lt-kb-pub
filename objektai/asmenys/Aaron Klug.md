@@ -91,6 +91,5 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18753
-
 ## Ryšiai
 - Aaron Klug gimė [[objektai/vietos/Želva]]

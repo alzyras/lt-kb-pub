@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-59129
-
+    - c-002
 <a id="claim-t-58497"></a>
 - t-002
   global_id: t-58497
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatą apie Liudviko iš Šipeno mirtį ir palaidojimą."
   pagrindžia:
     - c-59131
-
+    - c-004
 <a id="claim-t-58498"></a>
 - t-003
   global_id: t-58498
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59130
-
+    - c-003
 <a id="claim-t-58499"></a>
 - t-004
   global_id: t-58499
@@ -101,7 +101,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   semantiniai_rysiai: "Sūduviai puolė Kulmas (0.82); Ninerikas keliavo į Kulmenzė (0.78); Rusai puolė Kulmas (0.78)"
   pagrindžia:
     - c-59128
-
+    - c-001
 <a id="claim-t-58500"></a>
 - t-005
   global_id: t-58500
@@ -118,7 +118,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59132
-
+    - c-005
 <a id="claim-t-194537"></a>
 - t-007
   global_id: t-194537
@@ -131,6 +131,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59128
+    - c-001
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-60182|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
@@ -170,10 +171,8 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-006
-    - t-007
-
+    - t-58499
+    - t-194537
 - c-002
   santrauka: 'Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsisakęs pareigų ir ten miręs.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -189,8 +188,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58496
 - c-003
   santrauka: 'Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -206,8 +204,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-58498
 - c-004
   santrauka: 'Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -224,8 +221,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58497
 - c-005
   santrauka: 'Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango netoli Kulmenzės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -243,8 +239,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-58500
 ## Citatos
 
 - id: c-59128
@@ -273,7 +268,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   pagrindzia:
     - t-58499
     - t-194537
-
 - id: c-59129
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -293,7 +287,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58496
-
 - id: c-59130
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -315,7 +308,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58498
-
 - id: c-59131
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -336,7 +328,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58497
-
 - id: c-59132
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -356,7 +347,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58500
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ninerikas]]
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Helmerichas]]

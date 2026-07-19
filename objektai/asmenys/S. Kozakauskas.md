@@ -90,7 +90,6 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40409
-
 - id: c-44501
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

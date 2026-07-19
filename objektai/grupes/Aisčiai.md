@@ -161,7 +161,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43365
-
 - id: c-175850
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -180,6 +179,5 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193085
-
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Vokiečių pirkliai]]

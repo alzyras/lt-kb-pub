@@ -132,7 +132,6 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75517
-
 - id: c-23957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -155,7 +154,6 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75516
-
 - id: c-23958
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -175,7 +173,6 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75519
-
 - id: c-73280
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

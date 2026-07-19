@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo; citata palaiko glaustą faktą."
   pagrindžia:
     - c-169280
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prūsijoje kryžiuočių ordino aukščiausi ir žemiausi pareigūnai laužė Dievui duotus įžadus ir ėmė tuoktis.'
@@ -106,8 +106,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185919
 ## Citatos
 
 - id: c-169280

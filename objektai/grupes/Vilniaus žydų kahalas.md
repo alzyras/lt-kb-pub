@@ -169,7 +169,6 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   pagrindzia:
     - t-55106
     - t-55107
-
 - id: c-55912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -195,7 +194,6 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55108
-
 - id: c-78324
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -225,7 +223,6 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81750
-
 - id: c-78325
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

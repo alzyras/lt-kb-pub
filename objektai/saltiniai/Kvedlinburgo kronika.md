@@ -59,7 +59,7 @@ Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią,
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174729
-
+    - c-001
 <a id="claim-t-197679"></a>
 - t-002
   global_id: t-197679
@@ -97,8 +97,7 @@ Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191847
 ## Citatos
 
 - id: c-174729
@@ -126,7 +125,6 @@ Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191847
-
 - id: c-179293
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

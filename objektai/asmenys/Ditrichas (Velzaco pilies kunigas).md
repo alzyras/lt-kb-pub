@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai susijęs su kunigu Ditrichu."
   pagrindžia:
     - c-60896
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1295 m. negalės kamuojamas Velzaco pilies brolis mirties akivaizdoje puolė kunigui Ditrichui ant krūtinės.'
@@ -74,8 +74,7 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60264
 ## Citatos
 
 - id: c-60896

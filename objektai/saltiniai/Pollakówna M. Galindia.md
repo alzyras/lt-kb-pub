@@ -53,7 +53,7 @@ Dusburgietis teigia, kad pollakówna M.
   temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį faktą, o pradinis teiginys yra nebaigtas."
   pagrindžia:
     - c-61862
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad pollakówna M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61230
 ## Citatos
 
 - id: c-61862

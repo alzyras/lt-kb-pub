@@ -90,7 +90,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172371
-
+    - c-002
 <a id="claim-t-197225"></a>
 - t-003
   global_id: t-197225
@@ -130,8 +130,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188108
 ## Citatos
 
 - id: c-170861
@@ -155,7 +154,6 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188107
-
 - id: c-172371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -176,7 +174,6 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188108
-
 - id: c-179073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

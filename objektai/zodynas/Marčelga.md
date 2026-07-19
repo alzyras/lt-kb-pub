@@ -110,7 +110,6 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07656
-
 - id: c-184301
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -131,7 +130,6 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200951
-
 - id: c-184302
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

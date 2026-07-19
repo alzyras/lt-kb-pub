@@ -86,7 +86,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93088
-
 - id: c-88493
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -106,6 +106,5 @@ Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86772
-
 ## Ryšiai
 - Tverės ir Riazanės kunigaikščiai keliavo į [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

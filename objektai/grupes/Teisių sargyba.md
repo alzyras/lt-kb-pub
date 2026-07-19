@@ -45,7 +45,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22781
-
+    - c-166575
 ## Citatos
 
 - id: c-22781
@@ -69,7 +69,6 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20046
-
 - id: c-166575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

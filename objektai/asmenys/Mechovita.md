@@ -82,7 +82,7 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174842
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbuto cituojamas Mechovitos veikalas „Tractatus de duabus sarmatiis Asiana et Europiana, et de continentis in eis“ buvo išleistas Krokuvoje 1517 m.'
@@ -97,8 +97,7 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191960
 ## Citatos
 
 - id: c-174046
@@ -121,7 +120,6 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191164
-
 - id: c-174842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

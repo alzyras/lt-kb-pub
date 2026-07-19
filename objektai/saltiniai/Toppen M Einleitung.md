@@ -44,7 +44,7 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61951
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.'
@@ -58,8 +58,7 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61319
 ## Citatos
 
 - id: c-61951

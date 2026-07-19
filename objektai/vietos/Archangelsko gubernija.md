@@ -105,7 +105,6 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195472
-
 - id: c-177893
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"

@@ -233,7 +233,6 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193227
-
 - id: c-164993
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -257,7 +256,6 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181442
-
 - id: c-164994
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -280,7 +278,6 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181441
-
 - id: c-166468
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -299,7 +296,6 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183079
-
 - id: c-167253
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -321,7 +317,6 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183868
-
 - id: c-168460
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -346,7 +341,6 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185099
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Butrimas]], [[objektai/asmenys/Zigmantas Kaributas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

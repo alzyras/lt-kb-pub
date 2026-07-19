@@ -50,7 +50,7 @@ Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-181209
-
+    - c-170721
 ## Citatos
 
 - id: c-181209
@@ -70,6 +70,25 @@ Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą
   citata_rodoma: "1 Lenkijos didikų ir bajorų seimas, kuriame buvo nutarta kvies­\nti Lietuvos didįjį kunigaikšti Jogailą į Lenkijos sostą, buvo ne \nPetrakave, o  Krokuvoje 1385 m. birželio ar liepos mėn. Prieš jį \n1385 m. vasario 18 d. | Krokuvą Jogailos ir Jadvygos vedybų rei­\nkalu buvo atvykusi Jogailos atstovi) delegacija, vadovaujam a Jo­\ngailos brolio Skirgailos. 1385 m. kovo mėn. pradžioje Lietuvos \ndelegacija buvo nuvykusi | Vengriją, kur gavo oficialų Jadvygos \nmotinos Elžbietos sutikimą."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198909
+- id: c-170721
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1 Lenkijos didikų ir bajorų seimas, kuriame buvo nutarta kvies­
+    ti Lietuvos didįjį kunigaikšti Jogailą į Lenkijos sostą, buvo ne
+    Petrakave, o  Krokuvoje 1385 m. birželio ar liepos mėn. Prieš jį
+    1385 m. vasario 18 d. | Krokuvą Jogailos ir Jadvygos vedybų rei­
+    kalu buvo atvykusi Jogailos atstovi) delegacija, vadovaujam a Jo­
+    gailos brolio Skirgailos. 1385 m. kovo mėn. pradžioje Lietuvos
+    delegacija buvo nuvykusi | Vengriją, kur gavo oficialų Jadvygos
+    motinos Elžbietos sutikimą.
+  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -161,7 +161,6 @@ media_all_json: |-
   pagrindzia:
     - t-81966
     - t-81968
-
 - id: c-78483
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -211,7 +210,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81965
-
 - id: c-78485
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

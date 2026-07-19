@@ -45,7 +45,7 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-35392
-
+    - c-167673
 ## Citatos
 
 - id: c-35392
@@ -66,7 +66,6 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34167
-
 - id: c-167673
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

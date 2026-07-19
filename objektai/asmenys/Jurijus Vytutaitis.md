@@ -80,6 +80,5 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190168
-
 ## Ryšiai
 - Jurijus Vytutaitis valdė [[objektai/vietos/Pskovas]]

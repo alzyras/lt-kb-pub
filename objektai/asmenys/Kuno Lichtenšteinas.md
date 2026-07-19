@@ -87,7 +87,6 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19083
-
 - id: c-166950
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

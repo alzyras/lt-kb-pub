@@ -90,6 +90,5 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60415
-
 ## Ryšiai
 - Popiežius Honorijus II surengė žygį į [[objektai/vietos/Prūsija]]

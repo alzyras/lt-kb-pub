@@ -48,7 +48,7 @@ Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius ž
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174592
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius žmones veikėjus.'
@@ -71,8 +71,7 @@ Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191710
 ## Citatos
 
 - id: c-174592

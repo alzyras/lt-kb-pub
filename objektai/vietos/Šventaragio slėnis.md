@@ -354,7 +354,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120083
-
 - id: c-110178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -383,7 +382,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   pagrindzia:
     - t-120088
     - t-120091
-
 - id: c-110180
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -409,7 +407,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120081
-
 - id: c-110181
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -436,7 +433,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   pagrindzia:
     - t-120086
     - t-120092
-
 - id: c-110182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -457,7 +453,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120084
-
 - id: c-110183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -479,7 +474,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120090
-
 - id: c-110186
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -500,7 +494,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120093
-
 - id: c-110188
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -530,7 +523,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   pagrindzia:
     - t-120087
     - t-120089
-
 - id: c-110189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -571,7 +563,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   pagrindzia:
     - t-120082
     - t-120095
-
 - id: c-110191
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -604,7 +595,6 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
     - t-120085
     - t-120094
     - t-194278
-
 - id: c-178898
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

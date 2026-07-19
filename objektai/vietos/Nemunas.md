@@ -612,7 +612,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
   pagrindžia:
     - c-32284
-
+    - c-167761
 <a id="claim-t-180374"></a>
 - t-032
   global_id: t-180374
@@ -1749,7 +1749,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   sudarymo_pagrindimas: 'Kataloginis fragmentas paverstas sakiniu apie kalbos pavyzdį ir jo šaltinį. Pačios maldos tekstas neperrašytas.'
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Bisenė; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Salos'
   pagrindžia:
-    - c-171678
+    - c-065
 - susijęs iš Salynas: Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas.
 - susijęs iš Lamata: Lamatos žemė minima kaip Nemuno pakrantėje gyvenusių lietuvių srities riba nuo Neries upės.
 - susijęs iš Klaipėda: Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
@@ -2311,8 +2311,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-080
-
+    - t-188789
 ## Citatos
 
 - id: c-32281
@@ -2331,7 +2330,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180379
-
 - id: c-32284
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2347,7 +2345,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180373
-
 - id: c-32289
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2366,7 +2363,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180356
-
 - id: c-163963
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2389,7 +2385,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180355
     - t-180387
-
 - id: c-163966
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2409,7 +2404,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180345
     - t-180371
-
 - id: c-163967
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2430,7 +2424,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180347
-
 - id: c-163968
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2453,7 +2446,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180369
     - t-180386
-
 - id: c-163969
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2473,7 +2465,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180370
-
 - id: c-163970
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2497,7 +2488,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180399
-
 - id: c-163971
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2519,7 +2509,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180374
-
 - id: c-163972
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2549,7 +2538,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180344
     - t-180391
-
 - id: c-163974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2571,7 +2559,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180398
-
 - id: c-163975
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2602,8 +2589,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180352
-
+    - t-180393
 - id: c-163976
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2626,7 +2612,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180383
-
 - id: c-163978
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2641,7 +2626,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180358
-
 - id: c-163979
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2667,7 +2651,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180368
     - t-180375
-
 - id: c-163980
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2688,7 +2671,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180363
-
 - id: c-163981
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2707,7 +2689,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180394
-
 - id: c-163982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2727,7 +2708,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180378
-
 - id: c-163983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2747,7 +2727,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180381
-
 - id: c-163985
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2777,7 +2756,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180343
     - t-180406
-
 - id: c-163986
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2794,7 +2772,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180409
-
 - id: c-163987
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2814,7 +2791,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180367
     - t-180389
-
 - id: c-163989
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2843,7 +2819,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180382
     - t-180390
-
 - id: c-163992
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2865,7 +2840,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180360
-
 - id: c-163993
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2885,9 +2859,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180348
+    - t-180396
     - t-180384
-
 - id: c-163994
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2910,7 +2883,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180392
-
 - id: c-163995
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2928,7 +2900,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180351
-
 - id: c-163996
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2960,7 +2931,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180349
     - t-180350
-
 - id: c-163997
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2982,7 +2952,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180340
-
 - id: c-164000
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3000,8 +2969,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180342
-
+    - t-180400
 - id: c-164001
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3023,7 +2991,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180341
-
 - id: c-164002
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3047,7 +3014,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180395
-
 - id: c-164003
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3070,7 +3036,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180372
-
 - id: c-164004
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3089,7 +3054,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180357
-
 - id: c-164005
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3109,7 +3073,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180377
-
 - id: c-164007
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3131,7 +3094,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180365
-
 - id: c-164009
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3157,7 +3119,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180405
     - t-180407
-
 - id: c-164011
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3180,7 +3141,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-180346
     - t-180353
-
 - id: c-164017
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3201,7 +3161,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180397
-
 - id: c-164018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3229,7 +3188,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180362
-
 - id: c-164019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3245,7 +3203,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180404
-
 - id: c-164026
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3269,7 +3226,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180359
-
 - id: c-164027
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3289,7 +3245,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180376
-
 - id: c-164028
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3316,7 +3271,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180361
-
 - id: c-167761
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3360,7 +3314,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185066
-
 - id: c-168428
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3380,7 +3333,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185067
-
 - id: c-168429
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3408,7 +3360,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185068
-
 - id: c-168430
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3439,7 +3390,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185069
-
 - id: c-168431
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3471,7 +3421,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185070
-
 - id: c-168432
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3498,7 +3447,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185071
-
 - id: c-170572
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3518,7 +3466,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187625
-
 - id: c-171667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3543,7 +3490,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188778
-
 - id: c-171668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3564,7 +3510,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188779
-
 - id: c-171669
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3581,7 +3526,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188780
-
 - id: c-171670
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3603,7 +3547,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188781
-
 - id: c-171671
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3623,7 +3566,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188782
-
 - id: c-171672
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3646,7 +3588,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188783
-
 - id: c-171673
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3671,7 +3612,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188784
-
 - id: c-171674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3697,7 +3637,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188785
-
 - id: c-171675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3721,7 +3660,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188786
-
 - id: c-171676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3740,7 +3678,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188787
-
 - id: c-171677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3762,7 +3699,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188788
-
 - id: c-173538
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3787,7 +3723,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190655
-
 - id: c-173539
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3808,7 +3743,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190656
-
 - id: c-175474
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3829,7 +3763,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192704
-
 - id: c-175475
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3854,7 +3787,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindzia:
     - t-192705
     - t-197901
-
 - id: c-175476
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3876,7 +3808,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192706
-
 - id: c-175477
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3900,7 +3831,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192707
-
 - id: c-175478
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3923,7 +3853,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192708
-
 - id: c-175479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3945,7 +3874,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192709
-
 - id: c-175480
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3971,7 +3899,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192710
-
 - id: c-179050
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3997,7 +3924,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197177
-
 - id: c-179388
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -4022,7 +3948,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197900
-
 - id: c-179389
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -4045,7 +3970,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197902
-
 - id: c-184439
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -4074,7 +3998,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201089
-
 - id: c-184440
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -4100,7 +4023,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201090
-
 - id: c-184441
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -4123,7 +4045,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201091
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
 - Turėjo priklausinį: [[objektai/vietos/Salynas]]

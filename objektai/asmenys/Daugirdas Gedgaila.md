@@ -76,6 +76,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87651
-
 ## Ryšiai
 - Daugirdas Gedgaila valdė [[objektai/vietos/Podolė]]

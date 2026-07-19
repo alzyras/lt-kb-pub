@@ -53,7 +53,7 @@ Dusburgietis teigia, kad vileišis V.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį faktą apie leidinio temą, vietą ir metus."
   pagrindžia:
     - c-61982
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad vileišis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61350
 ## Citatos
 
 - id: c-61982

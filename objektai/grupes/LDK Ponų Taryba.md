@@ -78,8 +78,7 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-
+    - t-187764
 - id: c-170704
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -98,4 +97,4 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-187765

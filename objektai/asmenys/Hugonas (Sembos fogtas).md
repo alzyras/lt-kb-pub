@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
   temporalinis_llm_pakomentavimas: "Pašalintas antraštės triukšmas ir nutrūkęs įsiveržimo fragmentas."
   pagrindžia:
     - c-60963
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1316 m. vasarą Sembos fogtas Hugonas maršalo įsakymu su aštuoniais šimtais vyrų išjojo link Medininkų valsčiaus.'
@@ -77,8 +77,7 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60331
 ## Citatos
 
 - id: c-60963

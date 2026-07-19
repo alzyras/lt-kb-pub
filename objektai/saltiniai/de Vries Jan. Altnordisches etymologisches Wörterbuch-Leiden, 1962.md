@@ -46,7 +46,7 @@ Dusburgietis teigia, kad de Vries Jan.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61697
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m.'
@@ -61,8 +61,7 @@ Dusburgietis teigia, kad de Vries Jan.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61065
 ## Citatos
 
 - id: c-61697

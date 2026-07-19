@@ -114,7 +114,6 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88271
-
 - id: c-84251
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -142,7 +141,6 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88272
-
 - id: c-84252
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

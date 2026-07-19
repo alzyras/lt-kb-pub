@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   semantiniai_rysiai: "Kristijonas gyveno Prūsija (0.78)"
   pagrindžia:
     - c-59722
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59090
 ## Citatos
 
 - id: c-59722

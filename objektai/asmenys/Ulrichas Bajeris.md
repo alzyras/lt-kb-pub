@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60702
-
+    - c-001
 <a id="claim-t-60071"></a>
 - t-002
   global_id: t-60071
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60704
-
+    - c-003
 <a id="claim-t-60072"></a>
 - t-003
   global_id: t-60072
@@ -79,6 +79,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60703
+    - c-002
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175122|Sūduviai-jotvingiai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
 - susijęs iš [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą.md#claim-t-62515|Ulricho Bajerio žygis į Sūduvą]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89239|Sūduviai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
@@ -98,8 +99,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60070
 - c-002
   santrauka: 'Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, žudė ir ėmė belaisvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -117,8 +117,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60072
 - c-003
   santrauka: 'Dusburgietis Ulrichą Bajerį apibūdina kaip narsų brolį, ryždavusįsi sunkiems žygiams ir dariusį sūduviams didelių nuostolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -133,8 +132,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60071
 ## Citatos
 
 - id: c-60702
@@ -157,7 +155,6 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60070
-
 - id: c-60703
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -182,7 +179,6 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60072
-
 - id: c-60704
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -203,7 +199,6 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60071
-
 ## Ryšiai
 - Ulrichas Bajeris puolė [[objektai/vietos/Sūduva]]
 - Ulrichas Bajeris surengė žygį į [[objektai/vietos/Sūduva]]

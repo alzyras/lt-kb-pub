@@ -79,7 +79,6 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65847
-
 - id: c-175873
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

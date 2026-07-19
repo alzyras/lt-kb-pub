@@ -382,7 +382,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   pagrindzia:
     - t-59831
     - t-197155
-
 - id: c-60457
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -406,7 +405,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59832
-
 - id: c-60458
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -429,7 +427,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59830
-
 - id: c-60459
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -456,7 +453,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   pagrindzia:
     - t-59826
     - t-194518
-
 - id: c-60460
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -486,7 +482,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59828
-
 - id: c-60461
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -509,7 +504,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59829
-
 - id: c-60462
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -532,7 +526,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59825
-
 - id: c-60463
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -554,7 +547,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59827
-
 - id: c-60464
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -576,7 +568,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59824
-
 - id: c-168188
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -612,7 +603,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184827
-
 - id: c-168189
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -644,7 +634,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184828
-
 - id: c-168190
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -669,7 +658,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   pagrindzia:
     - t-184829
     - t-196591
-
 - id: c-173854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -694,7 +682,6 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190972
-
 - id: c-184378
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -718,6 +705,5 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201028
-
 ## Ryšiai
 - Skomantas puolė [[objektai/vietos/Kulmas]]

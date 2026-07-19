@@ -143,7 +143,6 @@ Vieta: pasakotojo namai.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195295
-
 - id: c-177660
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -164,7 +163,6 @@ Vieta: pasakotojo namai.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195296
-
 - id: c-177661
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

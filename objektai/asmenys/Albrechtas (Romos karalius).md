@@ -64,7 +64,7 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-64450
-
+    - c-001
 <a id="claim-t-63417"></a>
 - t-002
   global_id: t-63417
@@ -123,7 +123,7 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą 1303 m. įvykį ir vėlesnį atšaukimą."
   pagrindžia:
     - c-64450
-
+    - c-001
 <a id="claim-t-63420"></a>
 - t-005
   global_id: t-63420
@@ -176,9 +176,8 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-001
-
+    - t-63416
+    - t-63419
 ## Citatos
 
 - id: c-64450
@@ -204,7 +203,6 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   pagrindzia:
     - t-63416
     - t-63419
-
 - id: c-64452
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -225,7 +223,6 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   pagrindzia:
     - t-63417
     - t-63421
-
 - id: c-64455
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

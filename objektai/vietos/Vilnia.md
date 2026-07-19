@@ -268,7 +268,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas legendinis kontekstas ir vieta prie Vilnios. Sapno pasakojimas paliktas atribuotai, nepridedant platesnio Vilniaus įkūrimo aiškinimo.'
   pagrindžia:
-    - c-171742
+    - c-010
 - susijęs iš [[objektai/asmenys/Vaišelga.md#claim-t-82778|Vaišelga (kunigaikštis)]]: Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną.
 - susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
 - susijęs iš Kijevas: Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių.
@@ -306,8 +306,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
+    - t-188853
 ## Citatos
 
 - id: c-158384
@@ -338,7 +337,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174175
-
 - id: c-158385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -363,7 +361,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174184
-
 - id: c-158386
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -399,7 +396,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174187
-
 - id: c-158387
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -425,7 +421,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174178
-
 - id: c-158388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -464,8 +459,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-174177
-
+    - t-174181
 - id: c-158390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -521,7 +515,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174176
-
 - id: c-158391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -549,7 +542,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174183
-
 - id: c-171740
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -570,7 +562,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188851
-
 - id: c-171741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -594,7 +585,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188852
-
 - id: c-171743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -619,7 +609,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188854
-
 - id: c-176153
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -657,7 +646,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193431
-
 - id: c-176855
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -693,7 +681,6 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194262
-
 - id: c-179408
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

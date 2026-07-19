@@ -70,4 +70,4 @@ Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187556

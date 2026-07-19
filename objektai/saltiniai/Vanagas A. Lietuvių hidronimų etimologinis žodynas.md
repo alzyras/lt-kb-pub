@@ -53,7 +53,7 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, leidinio pavadinimą, vietą ir metus."
   pagrindžia:
     - c-61976
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vanago „Lietuvių hidronimų etimologinis žodynas“ išleistas Vilniuje 1981 m.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad vanagas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61344
 ## Citatos
 
 - id: c-61976

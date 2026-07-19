@@ -86,7 +86,6 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01344
-
 - id: c-175859
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

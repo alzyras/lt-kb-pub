@@ -82,6 +82,5 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87808
-
 ## Ryšiai
 - Olegas (Riazanės kunigaikštis) rėmė [[objektai/asmenys/Dmitrijus Kaributas]]

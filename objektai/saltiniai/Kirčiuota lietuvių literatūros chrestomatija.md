@@ -79,7 +79,6 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36062
-
 - id: c-38416
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

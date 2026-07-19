@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas su aiškiais veikėjais ir pašalintais įvardžiais."
   pagrindžia:
     - c-60851
-
+    - c-002
 <a id="claim-t-60219"></a>
 - t-002
   global_id: t-60219
@@ -98,8 +98,7 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60218
 ## Citatos
 
 - id: c-60850
@@ -123,7 +122,6 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60219
-
 - id: c-60851
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

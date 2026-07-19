@@ -87,6 +87,5 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80657
-
 ## Ryšiai
 - Panevėžio batalionas puolė [[objektai/grupes/Bermontininkai]]

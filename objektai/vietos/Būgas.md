@@ -57,7 +57,7 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170266
-
+    - c-001
 <a id="claim-t-192626"></a>
 - t-002
   global_id: t-192626
@@ -78,7 +78,7 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175396
-
+    - c-002
 <a id="claim-t-192627"></a>
 - t-003
   global_id: t-192627
@@ -151,8 +151,7 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187176
 - c-002
   santrauka: 'Teodoras Narbutas senovinį Hipanio upės vardą tapatino su dabartiniu Būgu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -177,8 +176,7 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192626
 ## Citatos
 
 - id: c-170266
@@ -209,7 +207,6 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187176
-
 - id: c-175396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -235,7 +232,6 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192626
-
 - id: c-175397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

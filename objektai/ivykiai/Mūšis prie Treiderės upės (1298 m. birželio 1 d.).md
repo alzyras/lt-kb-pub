@@ -75,7 +75,7 @@ Nenurodyta
   pagrindžia:
     - c-63726
     - c-63727
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių.'
@@ -98,8 +98,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62880
 ## Citatos
 
 - id: c-63726
@@ -127,7 +126,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62880
-
 - id: c-63727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

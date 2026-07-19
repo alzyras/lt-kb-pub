@@ -116,7 +116,6 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34346
-
 - id: c-35572
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -137,7 +136,6 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34347
-
 - id: c-167607
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -54,7 +54,7 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis sakinys apie straipsnį ir atitinka citatos duomenis. Papildomos interpretacijos ar atribucijos nereikia."
   pagrindžia:
     - c-170967
-
+    - c-002
 <a id="claim-t-188034"></a>
 - t-002
   global_id: t-188034
@@ -90,8 +90,7 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188033
 ## Citatos
 
 - id: c-170966
@@ -115,7 +114,6 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188034
-
 - id: c-170967
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

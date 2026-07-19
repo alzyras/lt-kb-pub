@@ -362,7 +362,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas, paliekant laiką, veikėją ir šaltinių paskirtį. Nepridėta citatoje minimų rankraščių ir kalbų sąrašo.'
   susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
-    - c-171370
+    - c-004
 - susijęs iš [[objektai/asmenys/Anicetas Renjė.md#claim-t-187895|Anicetas Renjė]]: Paaiškinime Anicetas Renjė pristatomas kaip Vilniaus gydytojas ir visuomenės veikėjas, ilgai susirašinėjęs su Teodoru Narbutu.
 - susijęs iš [[objektai/asmenys/Anicetas Renjė.md#claim-t-187896|Anicetas Renjė]]: Anicetas Renjė ir Adomas Honorijus Kirkoras periodikoje bandė užtarti kritikuotą Teodorą Narbutą, girdami jo sumanymo mastą.
 - susijęs iš [[objektai/asmenys/Eduardas Eichvaldas.md#claim-t-191344|Eduardas Eichvaldas]]: Eduardo Eichvaldo tyrinėjimais Narbutas rėmėsi rengdamas antrojo leidimo papildymą apie Darijaus Histapo žygį Pinsko apylinkių link.
@@ -538,8 +538,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188480
 ## Citatos
 
 - id: c-171367
@@ -562,7 +561,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188477
-
 - id: c-171368
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -580,7 +578,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188478
-
 - id: c-171369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -599,7 +596,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188479
-
 - id: c-171371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -618,7 +614,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188481
-
 - id: c-171372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -641,7 +636,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188482
-
 - id: c-171373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -661,7 +655,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188483
-
 - id: c-173690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -691,7 +684,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190808
-
 - id: c-173692
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -713,7 +705,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190810
-
 - id: c-173693
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -732,7 +723,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190811
-
 - id: c-174789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -757,7 +747,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191907
-
 - id: c-176264
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -776,7 +765,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193589
-
 - id: c-176507
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -802,7 +790,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193880
-
 - id: c-176810
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -822,7 +809,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194207
-
 - id: c-176811
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -844,7 +830,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194208
-
 - id: c-179140
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -866,7 +851,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197342
-
 - id: c-179141
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -890,7 +874,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197343
-
 - id: c-179280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -910,7 +893,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197650
-
 - id: c-179281
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -931,7 +913,6 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197651
-
 - id: c-179282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

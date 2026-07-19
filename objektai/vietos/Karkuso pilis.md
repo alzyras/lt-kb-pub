@@ -53,7 +53,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   semantiniai_rysiai: "Karkuso pilis (pilis, XIII a.) priklausė Livonija (0.95)"
   pagrindžia:
     - c-59196
-
+    - c-001
 <a id="claim-t-58565"></a>
 - t-002
   global_id: t-58565
@@ -73,7 +73,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėją, veiksmą ir Karkuso pilį."
   pagrindžia:
     - c-59197
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karkuso, arba Karksio, pilis buvo Livonijoje, pietinėje Estijoje, į pietus nuo dabartinio Viljandžio.'
@@ -88,8 +88,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58564
 - c-002
   santrauka: '1298 m. Vytenis, Rygos miestiečių pakviestas, užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -111,8 +110,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58565
 ## Citatos
 
 - id: c-59196
@@ -132,7 +130,6 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58564
-
 - id: c-59197
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -158,6 +155,5 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58565
-
 ## Ryšiai
 - Karkuso pilis (pilis, XIII a.) priklausė [[objektai/vietos/Livonija]]

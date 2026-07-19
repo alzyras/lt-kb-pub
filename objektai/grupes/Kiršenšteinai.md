@@ -111,6 +111,5 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86799
-
 ## Ryšiai
 - Kiršenšteinai valdė [[objektai/vietos/Raudonė]]

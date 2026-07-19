@@ -134,7 +134,6 @@ media_all_json: |-
   pagrindzia:
     - t-55201
     - t-55202
-
 - id: c-55404
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

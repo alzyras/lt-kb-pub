@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės, nuorodos ir OCR triukšmo; citata remia trumpą faktą."
   pagrindžia:
     - c-60068
-
+    - c-002
 <a id="claim-t-59436"></a>
 - t-002
   global_id: t-59436
@@ -91,7 +91,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata palaiko invaziją, žūtis ir nuniokojimą, o pradinis teiginys turi OCR bei antraštės triukšmo."
   pagrindžia:
     - c-60067
-
+    - c-001
 <a id="claim-t-194428"></a>
 - t-004
   global_id: t-194428
@@ -104,7 +104,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60068
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1241 m. totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką ir nuniokojo tas šalis.'
@@ -123,8 +123,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59436
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -139,10 +138,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-    - t-004
-
+    - t-59435
+    - t-194428
 ## Citatos
 
 - id: c-60067
@@ -169,7 +166,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59436
-
 - id: c-60068
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -60,7 +60,7 @@ Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į t�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173102
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į tėvynę juos parsinešė.'
@@ -83,8 +83,7 @@ Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į t�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190219
 ## Citatos
 
 - id: c-173102

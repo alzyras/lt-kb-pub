@@ -50,6 +50,7 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173105
+    - c-001
 - susijęs iš [[objektai/grupes/Dausprungų giminė.md#claim-t-189487|Dausprungų giminė]]: Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu, kuriam Pajauta kaip kraitį atnešė Kernavės kunigaikštystę.
 - susijęs iš Ukmergės sritis: Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu, vedusiu Kerniaus dukterį Pajautą.
 ## Reikšmingi paminėjimai
@@ -74,8 +75,7 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190222
 ## Citatos
 
 - id: c-173105

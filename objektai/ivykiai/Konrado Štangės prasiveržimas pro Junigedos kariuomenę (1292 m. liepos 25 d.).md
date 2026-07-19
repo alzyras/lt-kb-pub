@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir paremtas citatos informacija."
   pagrindžia:
     - c-66830
-
+    - c-002
 <a id="claim-t-66633"></a>
 - t-002
   global_id: t-66633
@@ -120,8 +120,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-66632
 ## Citatos
 
 - id: c-66829
@@ -147,7 +146,6 @@ Nenurodyta
   pagrindzia:
     - t-66633
     - t-196951
-
 - id: c-66830
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

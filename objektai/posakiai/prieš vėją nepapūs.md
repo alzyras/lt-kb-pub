@@ -102,7 +102,6 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36017
-
 - id: c-38390
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

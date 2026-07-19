@@ -119,7 +119,6 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
   pagrindzia:
     - t-74105
     - t-74106
-
 - id: c-72175
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

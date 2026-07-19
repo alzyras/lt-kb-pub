@@ -117,7 +117,6 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43757
-
 - id: c-47097
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -141,7 +140,6 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43759
-
 - id: c-175956
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -161,7 +159,6 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193212
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Marijenburgas priklausė [[objektai/vietos/Lenkija]]

@@ -48,7 +48,7 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175766
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadintas kartas, o nuo jų kraštas vadintas Lužica.'
@@ -70,8 +70,7 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192996
 ## Citatos
 
 - id: c-175766

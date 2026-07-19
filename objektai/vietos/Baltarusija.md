@@ -298,7 +298,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76167
-
 - id: c-24060
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -321,7 +320,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76165
-
 - id: c-24061
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -339,7 +337,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76168
-
 - id: c-73805
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -363,7 +360,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   pagrindzia:
     - t-76169
     - t-76170
-
 - id: c-73806
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -387,7 +383,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76166
-
 - id: c-168287
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -410,7 +405,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184926
-
 - id: c-175381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -440,7 +434,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192611
-
 - id: c-177319
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -460,7 +453,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194923
-
 - id: c-179363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -486,6 +478,5 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197853
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Heneris]]

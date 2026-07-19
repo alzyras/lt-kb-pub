@@ -75,6 +75,5 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35082
-
 ## Ryšiai
 - Paskyrė Gregorijų (Vladimiro vyskupas): [[objektai/asmenys/Bonifacas IX]]

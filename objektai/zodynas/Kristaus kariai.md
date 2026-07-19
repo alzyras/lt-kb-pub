@@ -90,7 +90,6 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58855
-
 - id: c-59487
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -80,6 +80,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177127
+    - c-003
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175079|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-183894|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
 - susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89394|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos valsčiaus sembai atkrito nuo tikėjimo, subūrė kariuomenę ir užpuolė Sembos vyskupo Fišhauzeno pilį.
@@ -125,8 +126,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194731
 ## Citatos
 
 - id: c-59180
@@ -143,7 +143,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58548
-
 - id: c-167538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -161,7 +160,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58549
-
 - id: c-177127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -191,6 +189,5 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194731
-
 ## Ryšiai
 - Puolė Fišhauzeną: [[objektai/grupes/Sembai]]

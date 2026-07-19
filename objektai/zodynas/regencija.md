@@ -72,7 +72,6 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70302
-
 - id: c-69353
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

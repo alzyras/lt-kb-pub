@@ -119,7 +119,6 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64242
-
 - id: c-36532
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -144,7 +143,6 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64243
-
 - id: c-65049
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

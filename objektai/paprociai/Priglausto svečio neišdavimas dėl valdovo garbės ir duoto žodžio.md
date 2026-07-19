@@ -63,7 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169284
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.'
@@ -84,8 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185923
 ## Citatos
 
 - id: c-169284

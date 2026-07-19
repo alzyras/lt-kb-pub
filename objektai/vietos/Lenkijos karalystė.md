@@ -263,7 +263,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114452
-
 - id: c-24243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -284,7 +283,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114457
-
 - id: c-105527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -314,7 +312,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   pagrindzia:
     - t-114453
     - t-114454
-
 - id: c-105528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -343,7 +340,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114450
-
 - id: c-105529
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -362,7 +358,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114458
-
 - id: c-105530
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -398,7 +393,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114455
-
 - id: c-105531
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -431,7 +425,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114459
-
 - id: c-105532
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -457,7 +450,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114456
-
 - id: c-105533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -479,6 +471,5 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114451
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Suvalkija]]

@@ -89,7 +89,6 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19316
-
 - id: c-22057
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

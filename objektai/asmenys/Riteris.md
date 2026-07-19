@@ -48,7 +48,7 @@ Narbutas nurodo, kad ponas Riteris „Šiaurės senovės tyrimuose“ plačiai a
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173122
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad ponas Riteris „Šiaurės senovės tyrimuose“ plačiai aptarė saulės, arba Apolono, garbinimą prie Baltijos jūros.'
@@ -70,8 +70,7 @@ Narbutas nurodo, kad ponas Riteris „Šiaurės senovės tyrimuose“ plačiai a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190239
 ## Citatos
 
 - id: c-173122

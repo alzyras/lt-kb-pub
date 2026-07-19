@@ -100,7 +100,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171722
-
+    - c-003
 <a id="claim-t-194753"></a>
 - t-004
   global_id: t-194753
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177149
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas nurodo Hartknocho spėjimą, kad ten, kur stovėjo Senoji Torunė, anksčiau taip pat buvusi šventykla.'
@@ -133,8 +133,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188833
 - c-004
   santrauka: 'Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo las arba šventykla, savo viduryje turėjusi neapsakomo didumo ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -151,8 +150,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194753
 ## Citatos
 
 - id: c-59266
@@ -172,7 +170,6 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58634
-
 - id: c-59267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -190,7 +187,6 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58635
-
 - id: c-171722
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -213,7 +209,6 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188833
-
 - id: c-177149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

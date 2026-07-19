@@ -50,7 +50,7 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173181
-
+    - c-001
 <a id="claim-t-197307"></a>
 - t-002
   global_id: t-197307
@@ -95,8 +95,7 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190298
 ## Citatos
 
 - id: c-173181
@@ -119,7 +118,6 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190298
-
 - id: c-179119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -138,7 +136,6 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197307
-
 - id: c-179120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

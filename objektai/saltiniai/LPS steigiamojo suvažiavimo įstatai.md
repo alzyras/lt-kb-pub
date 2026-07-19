@@ -87,7 +87,6 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21102
-
 - id: c-166769
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

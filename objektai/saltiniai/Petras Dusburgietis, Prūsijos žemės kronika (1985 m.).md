@@ -76,7 +76,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55982
-
+    - c-007
 <a id="claim-t-71035"></a>
 - t-002
   global_id: t-71035
@@ -94,7 +94,7 @@ Nenurodyta
   semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsų žemė (0.74)"
   pagrindžia:
     - c-55964
-
+    - c-001
 <a id="claim-t-71036"></a>
 - t-003
   global_id: t-71036
@@ -130,7 +130,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55981
-
+    - c-006
 <a id="claim-t-71038"></a>
 - t-005
   global_id: t-71038
@@ -150,7 +150,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-55982
-
+    - c-007
 <a id="claim-t-71039"></a>
 - t-006
   global_id: t-71039
@@ -170,7 +170,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55977
-
+    - c-002
 <a id="claim-t-71040"></a>
 - t-007
   global_id: t-71040
@@ -189,7 +189,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-55978
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -208,8 +208,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-71035
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -226,8 +225,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-71039
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -244,8 +242,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-71040
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -266,8 +263,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-71037
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -286,9 +282,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-001
-
+    - t-71034
+    - t-71038
 ## Citatos
 
 - id: c-55964
@@ -317,7 +312,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71035
-
 - id: c-55977
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -341,7 +335,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71039
-
 - id: c-55978
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -365,7 +358,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71040
-
 - id: c-55980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -385,7 +377,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71036
-
 - id: c-55981
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -415,7 +406,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71037
-
 - id: c-55982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

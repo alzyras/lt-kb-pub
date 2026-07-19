@@ -50,7 +50,7 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171970
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante.'
@@ -71,8 +71,7 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189081
 ## Citatos
 
 - id: c-171970
@@ -102,6 +101,5 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189081
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Budinai]], [[objektai/grupes/Gelonai]]

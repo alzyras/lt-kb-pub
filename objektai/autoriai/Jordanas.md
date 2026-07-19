@@ -132,7 +132,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173621
-
+    - c-005
 <a id="claim-t-190740"></a>
 - t-006
   global_id: t-190740
@@ -174,7 +174,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173623
-
+    - c-007
 <a id="claim-t-190742"></a>
 - t-008
   global_id: t-190742
@@ -241,7 +241,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173626
-
+    - c-010
 <a id="claim-t-190745"></a>
 - t-011
   global_id: t-190745
@@ -325,8 +325,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190739
 - c-007
   santrauka: 'Narbutas Jordano požiūrį pasitelkė kartu su Tacitu ir Naruševičiumi, svarstydamas venedams priklausiusių genčių klausimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -349,8 +348,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-190741
 - c-010
   santrauka: 'Narbutas nurodo, kad Jordanas žodžio rašyboje įžvelgė klaidą ir taisė ją į formą Lethas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -365,8 +363,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-190744
 ## Citatos
 
 - id: c-63352
@@ -402,7 +399,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62623
-
 - id: c-173618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -428,7 +424,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190736
-
 - id: c-173619
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -453,7 +448,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190737
-
 - id: c-173620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -476,7 +470,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190738
-
 - id: c-173621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -505,7 +498,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190739
-
 - id: c-173622
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -529,7 +521,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190740
-
 - id: c-173623
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -555,7 +546,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190741
-
 - id: c-173624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -581,7 +571,6 @@ media_all_json: |-
   pagrindzia:
     - t-190742
     - t-197612
-
 - id: c-173625
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -606,7 +595,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190743
-
 - id: c-173626
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -634,7 +622,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190744
-
 - id: c-173627
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -653,7 +640,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190745
-
 - id: c-179262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

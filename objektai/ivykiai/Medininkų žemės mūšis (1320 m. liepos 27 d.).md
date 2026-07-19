@@ -101,6 +101,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62876
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuvos kariuomenė]]

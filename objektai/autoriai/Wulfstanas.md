@@ -123,7 +123,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97235
-
 - id: c-91712
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -144,7 +143,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97234
-
 - id: c-91713
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -162,7 +160,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97233
-
 - id: c-91714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

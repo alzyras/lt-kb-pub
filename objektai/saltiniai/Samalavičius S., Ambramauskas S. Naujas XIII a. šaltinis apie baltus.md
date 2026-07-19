@@ -49,7 +49,7 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorius, straipsnio pavadinimą, leidinį, metus ir numerį."
   pagrindžia:
     - c-61912
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. Samalavičiaus ir S. Ambramausko straipsnis „Naujas XIII a. šaltinis apie baltus“ paskelbtas „Kultūros baruose“ 1984 m., Nr. 6.'
@@ -63,8 +63,7 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61280
 ## Citatos
 
 - id: c-61912

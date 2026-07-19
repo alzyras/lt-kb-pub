@@ -88,4 +88,4 @@ Tantae fuit auctoritatis, quod non solum ipse vel ali quis de sanguine sua, veru
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194784

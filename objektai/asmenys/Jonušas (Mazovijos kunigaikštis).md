@@ -140,7 +140,6 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   pagrindzia:
     - t-185986
     - t-196502
-
 - id: c-169348
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -180,7 +179,6 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   pagrindzia:
     - t-185987
     - t-196503
-
 - id: c-169349
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -207,7 +205,6 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196504
-
 ## Ryšiai
 - Jonušas (Mazovijos kunigaikštis) keliavo į [[objektai/vietos/Piotrkovas]]
 - Jonušas (Mazovijos kunigaikštis) puolė [[objektai/vietos/Poleksija]]

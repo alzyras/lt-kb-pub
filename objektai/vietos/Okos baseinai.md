@@ -66,6 +66,5 @@ baltų genčių apgyvendintas arealas driekėsi nuo Vyslos iki Dniepro ir Okos b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21664
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Baltai]]

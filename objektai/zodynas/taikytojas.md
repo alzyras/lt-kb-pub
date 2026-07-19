@@ -48,7 +48,7 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168730
-
+    - c-001
 <a id="claim-t-185370"></a>
 - t-002
   global_id: t-185370
@@ -90,8 +90,7 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185369
 ## Citatos
 
 - id: c-168730
@@ -122,7 +121,6 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185369
-
 - id: c-168731
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

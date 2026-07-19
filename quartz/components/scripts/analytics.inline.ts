@@ -277,6 +277,21 @@ function installAnalytics() {
       },
       options,
     )
+    if (action === "open" || action === "map_preview_open") {
+      const mapView = params.map_view || (action === "map_preview_open" ? "preview" : "full")
+      track(
+        "map_open",
+        {
+          ...commonParams("map"),
+          map_view: mapView,
+        },
+        {
+          dedupeScope: options.dedupeScope ?? "page",
+          dedupeKey:
+            options.dedupeKey ?? analyticsDedupeKey([pageMetadata().content_id, "map", mapView]),
+        },
+      )
+    }
   }
 
   const trackFeature = (
@@ -368,6 +383,17 @@ function installAnalytics() {
       }>
     ).detail
     if (!detail?.name || !detail.action) return
+    if (detail.name === "media_gallery" && detail.action === "open") {
+      track(
+        "gallery_open",
+        { ...commonParams("gallery"), media_action: "open" },
+        {
+          dedupeScope: detail.dedupeScope ?? "page",
+          dedupeKey:
+            detail.dedupeKey ?? analyticsDedupeKey([pageMetadata().content_id, "gallery"]),
+        },
+      )
+    }
     trackFeature(
       detail.name,
       detail.action,
@@ -608,9 +634,19 @@ function installAnalytics() {
     const link = target.closest<HTMLAnchorElement>("a[href]")
     if (!link) return
     const url = new URL(link.href, location.href)
+    if (url.pathname.endsWith("/index.xml") || url.pathname.endsWith(".rss")) {
+      track(
+        "rss_click",
+        { ...commonParams("rss"), destination_type: "rss" },
+        {
+          dedupeScope: "page",
+          dedupeKey: analyticsDedupeKey([pageMetadata().content_id, "rss"]),
+        },
+      )
+    }
     if (url.origin !== location.origin) {
       if (link.dataset.analyticsResource === "true") {
-        track("outbound_source_open", {
+        track("outbound_source_click", {
           ...commonParams("outbound"),
           destination_domain: url.hostname.toLowerCase().slice(0, 100),
         })
@@ -644,6 +680,24 @@ function installAnalytics() {
           : "local"
       trackMap(mapView === "preview" ? "map_preview_open" : "open", { map_view: mapView })
     }
+  })
+
+  document.addEventListener("submit", (event) => {
+    const form = (event.target as Element | null)?.closest<HTMLFormElement>(
+      "form[data-newsletter-signup], form[data-analytics-newsletter], form[action*='subscribe']",
+    )
+    if (!form) return
+    track(
+      "newsletter_signup",
+      {
+        ...commonParams("newsletter"),
+        destination_type: form.dataset.newsletterProvider || "newsletter",
+      },
+      {
+        dedupeScope: "session",
+        dedupeKey: analyticsDedupeKey([pageMetadata().content_id, "newsletter_signup"]),
+      },
+    )
   })
 
   document.addEventListener(

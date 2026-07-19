@@ -57,7 +57,7 @@ M. Mechovitos „Tractatus de duabus sarmatiis Asiana et Europiana“ Teodoro Na
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174629
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Mechovitos „Tractatus de duabus sarmatiis Asiana et Europiana“ Teodoro Narbuto nuorodoje siejamas su 1517 m. Krokuvos leidimu ir II knyga apie Europos Sarmatiją.'
@@ -72,8 +72,7 @@ M. Mechovitos „Tractatus de duabus sarmatiis Asiana et Europiana“ Teodoro Na
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191747
 ## Citatos
 
 - id: c-174629

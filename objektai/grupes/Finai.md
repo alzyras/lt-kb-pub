@@ -49,6 +49,7 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175738
+    - c-001
 - susijęs iš [[objektai/asmenys/Safaržykas.md#claim-t-191980|Safaržykas]]: Narbutas rašo, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, jų skirtumus aiškindamas germanų ir finų valdžia.
 - susijęs iš [[objektai/autoriai/Safaržykas.md#claim-t-191555|Safaržykas]]: Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais ir jų skirtumus aiškino germanų bei finų valdžia.
 - susijęs iš [[objektai/asmenys/Povilas Juozapas Safaržykas.md#claim-t-191107|Povilas Juozapas Safaržykas]]: Teodoro Narbuto teigimu, Povilas Juozapas Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, o kalbų skirtumus aiškino istoriniu likimu.
@@ -78,8 +79,7 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192968
 ## Citatos
 
 - id: c-175738

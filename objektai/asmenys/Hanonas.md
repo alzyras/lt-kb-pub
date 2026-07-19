@@ -60,7 +60,7 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174288
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir palei Afrikos krantus nuplaukė iki Bajadoro kyšulio.'
@@ -80,8 +80,7 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191406
 ## Citatos
 
 - id: c-174288

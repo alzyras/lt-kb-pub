@@ -144,7 +144,6 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55095
-
 - id: c-55906
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -175,6 +174,5 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55096
-
 ## Ryšiai
 - Vilniaus prastuomenė puolė [[objektai/grupes/Pranciškonų ordinas]]

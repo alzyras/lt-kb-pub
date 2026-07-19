@@ -94,7 +94,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata yra redakcinis komentaras, todėl būtina atribucija; data tiesiogiai paremta."
   pagrindžia:
     - c-63013
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Komentare nurodoma, kad mūšis prie Svečės vyko 1244 m. arba 1245 m. pradžioje.'
@@ -108,8 +108,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62405
 ## Citatos
 
 - id: c-63011
@@ -136,7 +135,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62404
-
 - id: c-63013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

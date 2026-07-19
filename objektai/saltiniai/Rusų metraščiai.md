@@ -47,7 +47,7 @@ Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai,
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173440
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos apeigų paprotį, kiekviena tauta kitonišką.'
@@ -66,8 +66,7 @@ Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190557
 ## Citatos
 
 - id: c-173440

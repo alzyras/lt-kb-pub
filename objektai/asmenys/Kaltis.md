@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60784
-
+    - c-002
 <a id="claim-t-60152"></a>
 - t-002
   global_id: t-60152
@@ -75,6 +75,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai nurodo Kalčio paskyrimą apgulos pėstininkų vadu."
   pagrindžia:
     - c-60783
+    - c-001
 - susijęs iš Zirgūna: Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.
 ## Reikšmingi paminėjimai
 - c-001
@@ -97,8 +98,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60152
 - c-002
   santrauka: 'Prūsų vadas Kaltis žuvo nukautas kalaviju, kai bėgantys pėstininkai susidūrė su raiteliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -115,8 +115,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60151
 ## Citatos
 
 - id: c-60783
@@ -145,7 +144,6 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60152
-
 - id: c-60784
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

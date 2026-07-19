@@ -222,7 +222,6 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82430
-
 - id: c-78905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -252,7 +251,6 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82432
-
 - id: c-78906
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -276,7 +274,6 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   pagrindzia:
     - t-82428
     - t-82431
-
 - id: c-78907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -301,7 +298,6 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   pagrindzia:
     - t-82429
     - t-82434
-
 - id: c-78908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -323,7 +319,6 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82436
-
 - id: c-78910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -348,7 +343,6 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82433
-
 - id: c-168101
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -382,6 +376,5 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184740
-
 ## Ryšiai
 - Jonas Olesnickis puolė [[objektai/grupes/Vokiečiai]]

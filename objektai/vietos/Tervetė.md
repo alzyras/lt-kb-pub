@@ -84,6 +84,5 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32581
-
 ## Ryšiai
 - Užėmė Tervetę: [[objektai/grupes/Žiemgaliai]]

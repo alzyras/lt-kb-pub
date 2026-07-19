@@ -105,7 +105,6 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58851
-
 - id: c-59483
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -126,7 +125,6 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58850
-
 - id: c-167390
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

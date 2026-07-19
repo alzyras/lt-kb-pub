@@ -122,7 +122,6 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19167
-
 - id: c-21913
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,7 +139,6 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19169
-
 - id: c-21914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

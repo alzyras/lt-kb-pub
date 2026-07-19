@@ -76,6 +76,5 @@ Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42101
-
 ## Ryšiai
 - Rotušės aikštė priklausė [[objektai/vietos/Vilnius]]

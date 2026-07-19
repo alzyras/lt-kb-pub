@@ -93,7 +93,6 @@ Priselkova, Maskva 1950. Priselkov, M.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30847
-
 - id: c-33062
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

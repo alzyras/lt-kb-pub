@@ -184,6 +184,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175279
+    - c-005
 - susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
 - susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
 - susijęs iš [[objektai/asmenys/Kazimieras Kontrimas.md#claim-t-87751|Kazimieras Kontrimas]]: Kazimieras Kontrimas, priklausęs Vilniaus šubravcų draugijai, pasirinko senovės lietuvių dievybės Pokliaus vardą.
@@ -225,8 +226,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-192485
 ## Citatos
 
 - id: c-55460
@@ -256,7 +256,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - t-55109
     - t-55110
     - t-188020
-
 - id: c-55461
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -279,7 +278,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55111
-
 - id: c-55462
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -300,7 +298,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55112
-
 - id: c-171253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -321,7 +318,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188109
-
 - id: c-175279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

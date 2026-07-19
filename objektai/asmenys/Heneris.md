@@ -49,7 +49,7 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174295
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų tyrinėtoju, Baltarusijoje buvo išgyvenęs per keturiasdešimt metų.'
@@ -73,8 +73,7 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191413
 ## Citatos
 
 - id: c-174295
@@ -106,6 +105,5 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191413
-
 ## Ryšiai
 - Heneris gyveno [[objektai/vietos/Baltarusija]]

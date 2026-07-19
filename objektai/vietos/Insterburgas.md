@@ -68,6 +68,7 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175436
+    - c-002
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189972|Kristoforas Hartknochas]]: Hartknochas pateikė duomenų apie Insterburgo valsčiaus šventąją pušį Romutą arba Ruombotą, kurią 1664 metais suskaldė žaibas.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188431|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas pateikė duomenų apie Insterburgo valsčiuje augusią šventąją pušį Romutą arba Ruombotą.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190767|Motiejus Strijkovskis (kronikininkas)]]: Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.
@@ -100,8 +101,7 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192666
 ## Citatos
 
 - id: c-38501
@@ -130,7 +130,6 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36254
-
 - id: c-175436
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

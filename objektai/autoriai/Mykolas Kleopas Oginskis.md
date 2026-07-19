@@ -81,7 +81,7 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiesiogiai remiasi citatos informacija apie Oginskį."
   pagrindžia:
     - c-25418
-
+    - c-73213
 <a id="claim-t-75423"></a>
 - t-003
   global_id: t-75423
@@ -98,7 +98,7 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22181
-
+    - c-22179
 ## Citatos
 
 - id: c-22179
@@ -128,8 +128,7 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75420
-    - t-75422
-
+    - t-75423
 - id: c-22181
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -200,4 +199,4 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75421
+    - t-75424

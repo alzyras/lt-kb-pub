@@ -49,7 +49,7 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172131
-
+    - c-001
 <a id="claim-t-194690"></a>
 - t-002
   global_id: t-194690
@@ -63,7 +63,7 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177087
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriukus, o pajūrio gyventojų Bangpūtį siejo su jūros putos plakimu.'
@@ -92,8 +92,7 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189243
 - c-002
   santrauka: 'Jo giminės vadinosi Puciatais (Puciataj).'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -113,8 +112,7 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194690
 ## Citatos
 
 - id: c-172131
@@ -142,7 +140,6 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189243
-
 - id: c-177087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -99,7 +99,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172661
-
+    - c-004
 <a id="claim-t-189779"></a>
 - t-003
   global_id: t-189779
@@ -159,8 +159,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 - c-004
   santrauka: 'Narbutas rašė, kad Lietuvos kaimiečiai išsaugojo kelionės prietarą neišvažiuojant perkirsti kelio keleiviui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -180,8 +178,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-189778
 ## Citatos
 
 - id: c-172658
@@ -209,7 +206,6 @@ Nenurodyta
   pagrindzia:
     - t-189775
     - t-197256
-
 - id: c-172660
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -235,7 +231,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189777
-
 - id: c-172661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -259,7 +254,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189778
-
 - id: c-172662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

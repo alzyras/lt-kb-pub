@@ -50,7 +50,7 @@ Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174133
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų karalių Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų.'
@@ -71,8 +71,7 @@ Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191251
 ## Citatos
 
 - id: c-174133

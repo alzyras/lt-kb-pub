@@ -197,7 +197,6 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
   pagrindzia:
     - t-200578
     - t-200579
-
 - id: c-183921
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
@@ -218,7 +217,6 @@ Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės. Lo
     - t-200580
     - t-200581
     - t-200583
-
 - id: c-183985
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede

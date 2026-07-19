@@ -176,7 +176,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-170855
-
+    - c-002
 <a id="claim-t-187882"></a>
 - t-010
   global_id: t-187882
@@ -195,7 +195,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   vertinimo_atnaujinta: "2026-07-02T04:21:55Z"
   pagrindžia:
     - c-170856
-
+    - c-003
 <a id="claim-t-187884"></a>
 - t-011
   global_id: t-187884
@@ -309,7 +309,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171175
-
+    - c-014
 <a id="claim-t-188282"></a>
 - t-019
   global_id: t-188282
@@ -351,7 +351,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171177
-
+    - c-016
 <a id="claim-t-188284"></a>
 - t-021
   global_id: t-188284
@@ -455,8 +455,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-187881
 - c-003
   santrauka: 'Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -475,8 +474,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-187882
 - c-014
   santrauka: 'Narbutas perteikia autoriaus pagyrimą Lietuvos bajorams, kurie, vėl paklusę Apaštališkajam sostui, esą nusipelnė didžio vardo Bažnyčioje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -495,8 +493,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-
+    - t-188281
 - c-016
   santrauka: 'Įvadinio straipsnio autorius teigia, kad lenkiškai parašytas Narbuto veikalas išryškino lietuvių ir koroniažų etnokultūrinius skirtumus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -513,8 +510,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022
-
+    - t-188283
 ## Citatos
 
 - id: c-46363
@@ -535,7 +531,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187879
-
 - id: c-170855
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -559,7 +554,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187881
-
 - id: c-170856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -582,7 +576,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187882
-
 - id: c-170862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -608,7 +601,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187880
-
 - id: c-170863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -634,7 +626,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   pagrindzia:
     - t-187875
     - t-187884
-
 - id: c-170864
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -658,7 +649,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   pagrindzia:
     - t-187874
     - t-187892
-
 - id: c-170865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -682,7 +672,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187886
-
 - id: c-170866
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -703,8 +692,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187877
-
+    - t-187890
 - id: c-170867
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -724,7 +712,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187889
-
 - id: c-170868
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -747,7 +734,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187873
-
 - id: c-170869
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -771,7 +757,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   pagrindzia:
     - t-187888
     - t-187891
-
 - id: c-170870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -801,7 +786,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   pagrindzia:
     - t-187876
     - t-187887
-
 - id: c-170871
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -826,7 +810,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187878
-
 - id: c-171175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -855,7 +838,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188281
-
 - id: c-171176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -876,7 +858,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188282
-
 - id: c-171177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -898,7 +879,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188283
-
 - id: c-171178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -922,7 +902,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188284
-
 - id: c-175870
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -941,7 +920,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193110
-
 - id: c-175871
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -961,7 +939,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193111
-
 - id: c-175872
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -980,6 +957,5 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193112
-
 ## Ryšiai
 - Priešai: [[objektai/grupes/Sapiegos]]

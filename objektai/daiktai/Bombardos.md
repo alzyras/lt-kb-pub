@@ -174,7 +174,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113458
-
 - id: c-42485
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -197,7 +196,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113454
-
 - id: c-104687
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -223,7 +221,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113457
-
 - id: c-104689
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -244,7 +241,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113456
-
 - id: c-176408
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

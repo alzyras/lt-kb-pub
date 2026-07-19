@@ -60,7 +60,7 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174091
-
+    - c-001
 <a id="claim-t-191210"></a>
 - t-002
   global_id: t-191210
@@ -129,8 +129,7 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191209
 ## Citatos
 
 - id: c-174091
@@ -158,7 +157,6 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191209
-
 - id: c-174092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -179,7 +177,6 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191210
-
 - id: c-174093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -199,6 +196,5 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191211
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Darijus]]

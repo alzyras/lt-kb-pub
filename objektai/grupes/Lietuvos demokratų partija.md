@@ -72,7 +72,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-22594
-
+    - c-166538
 <a id="claim-t-74648"></a>
 - t-003
   global_id: t-74648
@@ -115,7 +115,6 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74647
-
 - id: c-22595
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -138,7 +137,6 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74646
-
 - id: c-72687
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -162,7 +160,6 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74648
-
 - id: c-166538
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

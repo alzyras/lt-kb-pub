@@ -143,7 +143,6 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193462
-
 - id: c-176168
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -182,7 +181,6 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193463
-
 - id: c-176940
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -201,7 +199,6 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194460
-
 - id: c-176941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -223,7 +220,6 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194461
-
 - id: c-179013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

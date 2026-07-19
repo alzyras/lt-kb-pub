@@ -104,7 +104,6 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86233
-
 - id: c-168499
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -127,7 +126,6 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185138
-
 ## Ryšiai
 - Užėmė Seversko Naugardą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Seversko kunigaikščiai]]

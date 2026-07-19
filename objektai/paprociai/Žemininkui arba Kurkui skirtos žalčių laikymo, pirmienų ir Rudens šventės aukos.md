@@ -68,8 +68,7 @@ Nenurodyta
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Religinis teiginys apie dievybės stabą paliktas su Narbuto atribucija. Nepridėta vietos ar platesnio ritualo, nes ši citata jų aiškiai neišskleidžia.'
   pagrindžia:
-    - c-172698
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad kasmet Didžiosios šventės išvakarėse šios dievybės stabas būdavo sudaužomas ir padaromas naujas.'
@@ -91,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189815
 ## Citatos
 
 - id: c-177041

@@ -85,7 +85,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175428
-
+    - c-003
 <a id="claim-t-194931"></a>
 - t-004
   global_id: t-194931
@@ -98,7 +98,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177327
-
+    - c-004
 <a id="claim-t-197872"></a>
 - t-005
   global_id: t-197872
@@ -141,8 +141,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192658
 - c-004
   santrauka: 'Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -163,8 +162,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194931
 ## Citatos
 
 - id: c-171884
@@ -185,7 +183,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188995
-
 - id: c-175426
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -212,7 +209,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   pagrindzia:
     - t-192656
     - t-197872
-
 - id: c-175428
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -235,7 +231,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192658
-
 - id: c-177327
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -261,7 +256,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194931
-
 - id: c-179375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

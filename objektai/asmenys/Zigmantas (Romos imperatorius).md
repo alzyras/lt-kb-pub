@@ -482,7 +482,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87381
-
 - id: c-83359
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -512,7 +511,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87382
-
 - id: c-83360
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -554,7 +552,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87383
-
 - id: c-83361
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -577,7 +574,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87379
-
 - id: c-83362
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -601,7 +597,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87380
-
 - id: c-176132
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -624,7 +619,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193410
-
 - id: c-176133
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -650,7 +644,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193411
-
 - id: c-176134
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -688,7 +681,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193412
-
 - id: c-176136
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -723,7 +715,6 @@ media_all_json: |-
   pagrindzia:
     - t-193414
     - t-196654
-
 - id: c-176644
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -743,7 +734,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194019
-
 - id: c-176842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -761,7 +751,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194246
-
 - id: c-178820
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -787,7 +776,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196653
-
 - id: c-178963
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -805,7 +793,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196883
-
 - id: c-184055
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
@@ -832,6 +819,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200710
-
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Cyleikaitė]]

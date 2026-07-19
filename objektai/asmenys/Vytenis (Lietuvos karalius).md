@@ -106,7 +106,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39419
-
 - id: c-41224
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -127,6 +126,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39420
-
 ## Ryšiai
 - Vytenis (Lietuvos karalius) puolė [[objektai/vietos/Semba]]

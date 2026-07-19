@@ -99,6 +99,7 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171806
+    - c-003
 - susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
 - susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
 - susijęs iš [[objektai/asmenys/Albertas Krantcas.md#claim-t-190128|Albertas Krantcas]]: Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuolatinio žaliavimo, bet negalėjo nustatyti jo rūšies.
@@ -128,8 +129,7 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188917
 ## Citatos
 
 - id: c-171804
@@ -154,7 +154,6 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188915
-
 - id: c-171805
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -175,7 +174,6 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188916
-
 - id: c-171806
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -199,6 +197,5 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188917
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Žyniai]]

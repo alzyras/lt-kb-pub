@@ -56,7 +56,7 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį sakinį apie Rotundui perduotą kroniką."
   pagrindžia:
     - c-60718
-
+    - c-001
 <a id="claim-t-60087"></a>
 - t-002
   global_id: t-60087
@@ -86,8 +86,7 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60086
 ## Citatos
 
 - id: c-60718
@@ -107,7 +106,6 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60086
-
 - id: c-60719
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

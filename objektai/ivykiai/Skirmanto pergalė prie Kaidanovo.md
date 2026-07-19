@@ -131,8 +131,7 @@ Nenurodyta
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas subjektas Skirmantas ir Kaidanovo kontekstas, pašalintas OCR triukšmas. Pergalės pasakojimas paliktas su metraščio atribucija, nepridedant duomenų už citatos ribų.'
   pagrindžia:
-    - c-176494
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Lietuvos metraščio pasakojime Skirmantas prie Kaidanovo nukovė totorių chaną, paėmė kelis Rusų žemės miestus ir grįžo be nuostolių.'
@@ -158,8 +157,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-193857
 ## Citatos
 
 - id: c-170450
@@ -187,7 +185,6 @@ Nenurodyta
   pagrindzia:
     - t-187488
     - t-187491
-
 - id: c-170451
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

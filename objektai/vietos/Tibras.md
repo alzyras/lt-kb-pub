@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą i
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys ir atitinka citatoje pateiktą informaciją."
   pagrindžia:
     - c-59369
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1277 m. Romoje Tibras ištvino ir pakilo daugiau kaip keturias pėdas virš Švč. Marijos altoriaus rotondoje.'
@@ -71,8 +71,7 @@ Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58737
 ## Citatos
 
 - id: c-59369

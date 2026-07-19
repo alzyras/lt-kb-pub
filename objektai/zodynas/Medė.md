@@ -94,8 +94,6 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-09705
@@ -122,7 +120,6 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70028
-
 - id: c-09707
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -137,28 +134,3 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70027
-
-- id: c-09705
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
-  citata_originali: |
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 15692-16003; match: exact
-    - santrauka: Tyrulė minima kaip viena iš didžiųjų pietinės įšleities upių.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą. Susieta su kandidatais: Tyrulė, Uksinė jūra, įšleitė; kategorijos: vieta, zodynas.
-      citata_originali: |
-        Nuo Uksinių pamarių į šiaurę einant, tame sluoksny krašto yra tyrai, beje, neapregimi laukai
-        per kelias dešimtis mylių, kuriuose auga aukšta žolė taip, jog raito žmogaus negal regėti, per
-        kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
-        buvo medės, arba girios.
-  citata_rodoma: "už tų tyrų, juo į šiaurę einant,\nbuvo medės, arba girios."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-70028

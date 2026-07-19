@@ -48,6 +48,7 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174471
+    - c-001
 - susijęs iš Pisanskio Pastabos apie Baltijos jūrą: Pisanskis pastabose apie Baltijos jūrą rašė, kad jūra toliau plauna vakarines ir šiaurines Sambijos pakrantes.
 - susijęs iš Pisanskio Pastabos apie Baltijos jūrą: Pisanskis rašė, kad vietovės, anksčiau buvusios gana toli nuo jūros krantų, vėliau pamažu prie jų priartėjo.
 - susijęs iš [[objektai/asmenys/Radlofas.md#claim-t-191229|Radlofas]]: Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.
@@ -79,8 +80,7 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191589
 ## Citatos
 
 - id: c-174471

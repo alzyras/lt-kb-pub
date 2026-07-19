@@ -38,7 +38,7 @@ Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59710
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Makabiejų knygos citatoje raginama atkeršyti priešams už savo tautą ir atsilyginti jiems pagal nuopelnus.'
@@ -52,8 +52,7 @@ Dusburgietis teigia, kad 67—68): „...atkeršykite priešams už savo tautą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59078
 ## Citatos
 
 - id: c-59710

@@ -77,7 +77,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   semantiniai_rysiai: "Kuršiai priklausė Baltai (0.82); Skalviai priklausė Baltai (0.82); Nadruviai priklausė Baltai (0.82)"
   pagrindžia:
     - c-69410
-
+    - c-001
 <a id="claim-t-70378"></a>
 - t-003
   global_id: t-70378
@@ -95,7 +95,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   semantiniai_rysiai: "Nadruviai priklausė Baltai (0.82); Skalviai priklausė Baltai (0.82)"
   pagrindžia:
     - c-69410
-
+    - c-001
 <a id="claim-t-70380"></a>
 - t-004
   global_id: t-70380
@@ -144,9 +144,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
+    - t-70377
+    - t-70378
 ## Citatos
 
 - id: c-69410
@@ -169,7 +168,6 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   pagrindzia:
     - t-70377
     - t-70378
-
 - id: c-69413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -191,7 +189,6 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   pagrindzia:
     - t-70380
     - t-70381
-
 - id: c-69414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

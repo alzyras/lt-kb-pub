@@ -300,6 +300,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176643
+    - c-012
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179457|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.
 - susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179455|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: 1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.
@@ -322,8 +323,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-194018
 ## Citatos
 
 - id: c-36599
@@ -345,7 +345,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176859
-
 - id: c-36607
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -363,7 +362,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176855
-
 - id: c-36608
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -382,7 +380,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176849
-
 - id: c-36609
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -401,7 +398,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176851
-
 - id: c-160806
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -419,7 +415,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176863
-
 - id: c-160807
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -442,7 +437,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176850
-
 - id: c-160809
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -466,7 +460,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   pagrindzia:
     - t-176862
     - t-176864
-
 - id: c-160810
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -489,7 +482,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   pagrindzia:
     - t-176856
     - t-176857
-
 - id: c-160811
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -513,7 +505,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   pagrindzia:
     - t-176848
     - t-176853
-
 - id: c-160812
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -532,7 +523,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176854
-
 - id: c-160814
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -556,7 +546,6 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176852
-
 - id: c-176643
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -579,6 +568,5 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194018
-
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

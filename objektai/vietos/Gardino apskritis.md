@@ -76,7 +76,6 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194763
-
 - id: c-179205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -56,7 +56,7 @@ Dusburgietis teigia, kad steponavičienė J.
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą apie autorės paskelbtą straipsnį."
   pagrindžia:
     - c-61425
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Steponavičienė 1974 m. paskelbė straipsnį apie lietuviškų vietovardžių prūsinimą Kryžiuočių ordino raštuose.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad steponavičienė J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60793
 ## Citatos
 
 - id: c-61425

@@ -94,6 +94,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175541
+    - c-003
 - susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
 ## Reikšmingi paminėjimai
 - c-003
@@ -120,8 +121,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192771
 ## Citatos
 
 - id: c-166489
@@ -140,7 +140,6 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183104
-
 - id: c-166490
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -163,7 +162,6 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183105
-
 - id: c-175541
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

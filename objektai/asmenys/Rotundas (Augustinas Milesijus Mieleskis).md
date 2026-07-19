@@ -131,7 +131,6 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87455
-
 - id: c-83435
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -155,7 +154,6 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87456
-
 - id: c-83436
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

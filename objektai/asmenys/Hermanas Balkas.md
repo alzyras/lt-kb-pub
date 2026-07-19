@@ -79,7 +79,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir nutrūkęs; citata palaiko aiškų faktą apie Hermaną Balką."
   pagrindžia:
     - c-85744
-
+    - c-004
 <a id="claim-t-89817"></a>
 - t-003
   global_id: t-89817
@@ -140,8 +140,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-89816
 ## Citatos
 
 - id: c-85741
@@ -163,7 +162,6 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89818
-
 - id: c-85742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -187,7 +185,6 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89815
-
 - id: c-85743
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -211,7 +208,6 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89817
-
 - id: c-85744
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

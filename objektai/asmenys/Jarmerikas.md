@@ -49,8 +49,7 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   semantiniai_rysiai: "Jarmerikas puolė Slavai (0.92); Jarmerikas rėmė Helgė (0.90); Jarmerikas kariavo prieš Venedai (0.76)"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174066
-
+    - c-001
 <a id="claim-t-191185"></a>
 - t-002
   global_id: t-191185
@@ -72,6 +71,7 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174067
+    - c-174066
 - susijęs iš [[objektai/asmenys/Helgė.md#claim-t-191412|Helgė]]: Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas.
 - susijęs iš [[objektai/asmenys/Skalka.md#claim-t-191465|Skalka]]: Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko įsiveržimo Skalka žuvo mūšyje, o jo kraštas atiteko priešams.
 - susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą.md#claim-t-191063|Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą]]: Narbutas vaizduoja Jarmeriką po slavų krašto pavergimo įsiveržusį į Prūsiją, užgrobusį Sembą ir Kuršą bei žiauriai engusį žmones.
@@ -103,8 +103,7 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191184
 ## Citatos
 
 - id: c-174066
@@ -126,8 +125,7 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-191184
-
+    - t-191185
 - id: c-174067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -154,7 +152,6 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191185
-
 ## Ryšiai
 - Jarmerikas puolė [[objektai/vietos/Semba]], [[objektai/grupes/Slavai]]
 - Jarmerikas užėmė [[objektai/vietos/Semba]]

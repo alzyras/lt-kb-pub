@@ -96,7 +96,6 @@ Bumblauskas A.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64572
-
 - id: c-42402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

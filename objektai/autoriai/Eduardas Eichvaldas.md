@@ -49,7 +49,7 @@ Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiau
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174504
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų.'
@@ -69,8 +69,7 @@ Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191622
 ## Citatos
 
 - id: c-174504

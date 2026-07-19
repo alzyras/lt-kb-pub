@@ -104,7 +104,6 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60110
-
 - id: c-167445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

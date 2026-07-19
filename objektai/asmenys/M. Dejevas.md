@@ -107,7 +107,6 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40313
-
 - id: c-42110
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -123,7 +122,6 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40311
-
 - id: c-44439
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

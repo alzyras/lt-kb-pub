@@ -89,9 +89,6 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-174305

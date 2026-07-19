@@ -62,7 +62,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87575
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'J. Remeikos darbe minima, kad Nemuno senvagė dešiniajame krante priešais Ragainę vadinama Merguva.'
@@ -78,8 +78,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-91934
 ## Citatos
 
 - id: c-87574
@@ -99,7 +98,6 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91933
-
 - id: c-87575
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

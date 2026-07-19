@@ -87,7 +87,6 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40966
-
 - id: c-44775
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -120,7 +120,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36554
-
 - id: c-38628
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -140,7 +139,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36552
-
 - id: c-38629
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

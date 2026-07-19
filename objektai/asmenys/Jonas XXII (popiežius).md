@@ -97,7 +97,6 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97448
-
 - id: c-91937
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

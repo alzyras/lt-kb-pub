@@ -204,7 +204,6 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68248
-
 - id: c-171615
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -227,7 +226,6 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188726
-
 - id: c-171617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -254,7 +252,6 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188728
-
 - id: c-175448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -280,6 +277,5 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192678
-
 ## Ryšiai
 - Puolė Kražiai: [[objektai/grupes/Kazokai]]

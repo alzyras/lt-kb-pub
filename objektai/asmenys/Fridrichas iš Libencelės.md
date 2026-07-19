@@ -93,7 +93,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60587
-
+    - c-003
 <a id="claim-t-59956"></a>
 - t-004
   global_id: t-59956
@@ -110,6 +110,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60588
+    - c-004
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56683|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.
 - susijęs iš [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.).md#claim-t-59476|lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]: Fridrichas iš Libencelės su bendražygiais išžudė Bisenės pilies sargybą keitusius lietuvius; pabėgo tik penki vyrai.
 - susijęs iš Bisenė: 1316 m. Fridrichas iš Libencelės prie Bisenės pilies išžudė lietuvių sargybos pamainą, išskyrus penkis pabėgusius vyrus.
@@ -137,8 +138,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59955
 - c-004
   santrauka: 'Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -158,8 +158,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-59956
 ## Citatos
 
 - id: c-60585
@@ -181,7 +180,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59954
-
 - id: c-60586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -210,7 +208,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59953
-
 - id: c-60587
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -236,7 +233,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59955
-
 - id: c-60588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

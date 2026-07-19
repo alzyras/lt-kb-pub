@@ -79,7 +79,7 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174117
-
+    - c-002
 <a id="claim-t-191236"></a>
 - t-003
   global_id: t-191236
@@ -114,8 +114,7 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191235
 ## Citatos
 
 - id: c-174116
@@ -139,7 +138,6 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191234
-
 - id: c-174117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -164,7 +162,6 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191235
-
 - id: c-174118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

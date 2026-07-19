@@ -97,7 +97,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   temporalinis_llm_pakomentavimas: "Pirminis teiginys fragmentiškas ir su OCR triukšmu; citata pagrindžia chronologijos pastabą."
   pagrindžia:
     - c-86512
-
+    - c-004
 <a id="claim-t-90734"></a>
 - t-004
   global_id: t-90734
@@ -118,7 +118,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citatos duomenimis apie 1263 m. apgultį."
   pagrindžia:
     - c-86510
-
+    - c-002
 <a id="claim-t-90735"></a>
 - t-005
   global_id: t-90735
@@ -138,7 +138,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus chronologijos netikslumo pastabą."
   pagrindžia:
     - c-86514
-
+    - c-006
 <a id="claim-t-90736"></a>
 - t-006
   global_id: t-90736
@@ -155,6 +155,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86513
+    - c-005
 - susijęs iš Kaustra: Kryžiuočių ordino broliai Notangos žemėje prie Kaustros upės pastatė Kroicburgo pilį.
 - susijęs iš [[objektai/ivykiai/Kroicburgo pilies sugriovimas (1263 m.).md#claim-t-62344|Kroicburgo pilies sugriovimas (1263 m.)]]: 1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, naudodami tris apgulos mašinas ir tris kuorus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
@@ -209,8 +210,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-90734
 - c-004
   santrauka: 'Kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors šis įvykis aprašomas po vėlesnių pilių statybos epizodų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -226,8 +226,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-90733
 - c-005
   santrauka: 'Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -243,8 +242,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-90736
 - c-006
   santrauka: 'Petro Dusburgiečio kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors aprašomas po vėlesnių įvykių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -260,8 +258,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-90735
 ## Citatos
 
 - id: c-86509
@@ -281,7 +278,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90731
-
 - id: c-86510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -302,7 +298,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90734
-
 - id: c-86511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -324,7 +319,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90732
-
 - id: c-86512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -346,7 +340,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90733
-
 - id: c-86513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -367,7 +360,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90736
-
 - id: c-86514
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -389,7 +381,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90735
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
 - Puolė Kroicburgą: [[objektai/grupes/Notangai]]

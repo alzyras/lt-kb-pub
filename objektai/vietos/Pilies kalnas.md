@@ -114,7 +114,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195128
-
 - id: c-177508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -133,7 +132,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195131
-
 - id: c-177509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -153,7 +151,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195130
-
 - id: c-177510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

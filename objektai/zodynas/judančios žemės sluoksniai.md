@@ -129,7 +129,6 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
   pagrindzia:
     - t-192291
     - t-192292
-
 - id: c-175109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

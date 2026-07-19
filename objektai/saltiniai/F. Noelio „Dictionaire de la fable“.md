@@ -41,7 +41,7 @@ Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyve
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177245
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyvenusios prie Oderio, Vyslos, Dnepro ir pan.'
@@ -60,8 +60,7 @@ Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194849
 ## Citatos
 
 - id: c-177245

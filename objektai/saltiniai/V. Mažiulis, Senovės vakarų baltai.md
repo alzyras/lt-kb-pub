@@ -37,7 +37,8 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61645
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį.'
@@ -50,8 +51,7 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61013
 - c-002
   santrauka: 'V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-61013
 ## Citatos
 
 - id: c-61644
@@ -90,8 +89,6 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-61012
-
 - id: c-61645
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

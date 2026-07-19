@@ -102,6 +102,5 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
   pagrindzia:
     - t-80103
     - t-80104
-
 ## Ryšiai
 - Puolė Riazanės kunigaikštystę: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

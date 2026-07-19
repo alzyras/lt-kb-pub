@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Reikia pašalinti OCR triukšmą ir aiškiai suformuluoti seimo veiksmą."
   pagrindžia:
     - c-169193
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1548 m. Vilniaus seime Lietuvos luomai pasirašė aktą, kuriuo Belsko žemė Palenkėje atskirta nuo Lietuvos ir atiduota lenkams.'
@@ -96,8 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185832
 ## Citatos
 
 - id: c-169193

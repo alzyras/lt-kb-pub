@@ -41,7 +41,7 @@ Tas pava dinimas yra Lasickio mitologijoje.
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177252
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tas pava dinimas yra Lasickio mitologijoje.'
@@ -57,8 +57,7 @@ Tas pava dinimas yra Lasickio mitologijoje.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194856
 ## Citatos
 
 - id: c-177252

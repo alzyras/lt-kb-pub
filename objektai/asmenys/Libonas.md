@@ -61,8 +61,6 @@ Kojelavičius Liboną vadina laivyno legatu ir Pompėjaus partijos šalininku.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 

@@ -194,7 +194,6 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
     - t-187906
     - t-188519
     - t-194698
-
 - id: c-173731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

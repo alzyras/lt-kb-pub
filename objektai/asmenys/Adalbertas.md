@@ -99,6 +99,5 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18754
-
 ## Ryšiai
 - Puolė Adalbertą: [[objektai/grupes/Prūsai]]

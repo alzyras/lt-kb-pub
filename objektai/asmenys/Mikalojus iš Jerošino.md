@@ -56,7 +56,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-60803
-
+    - c-167500
 <a id="claim-t-60172"></a>
 - t-002
   global_id: t-60172
@@ -76,6 +76,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   temporalinis_llm_pakomentavimas: "Teiginys yra enciklopedinis, gramatiškas ir tiksliai paremtas citata."
   pagrindžia:
     - c-60804
+    - c-002
 - susijęs iš [[objektai/asmenys/Liuteris iš Braunšveigo.md#claim-t-60380|Liuteris iš Braunšveigo]]: Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą.
 - susijęs iš 1781 m. vokiškas Dusburgiečio kronikos vertimas: 1781 m. Dusburgiečio kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto buvo išversta į vokiečių kalbą.
 - susijęs iš Mikalojaus iš Jerošino Prūsijos žemės kronika: XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.
@@ -95,8 +96,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60172
 ## Citatos
 
 - id: c-60803
@@ -118,7 +118,6 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60171
-
 - id: c-60804
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -139,7 +138,6 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60172
-
 - id: c-167500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

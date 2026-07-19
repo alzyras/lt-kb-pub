@@ -49,7 +49,7 @@ Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė L
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172137
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė Lasickio jai priskirtą tešlos globą.'
@@ -69,8 +69,7 @@ Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189249
 ## Citatos
 
 - id: c-172137

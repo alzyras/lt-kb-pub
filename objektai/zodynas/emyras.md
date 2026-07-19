@@ -105,7 +105,6 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42449
-
 - id: c-45512
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -131,7 +130,6 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42448
-
 - id: c-167097
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -146,7 +146,6 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89583
-
 - id: c-85526
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -178,7 +177,6 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
   pagrindzia:
     - t-89585
     - t-197046
-
 - id: c-85527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -205,7 +203,6 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89584
-
 - id: c-179017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

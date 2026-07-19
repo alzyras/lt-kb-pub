@@ -99,7 +99,6 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75008
-
 - id: c-72949
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

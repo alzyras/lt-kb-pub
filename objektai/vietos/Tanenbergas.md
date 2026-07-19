@@ -95,7 +95,6 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186422
-
 - id: c-175972
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

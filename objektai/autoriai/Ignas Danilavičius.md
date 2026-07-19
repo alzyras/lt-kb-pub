@@ -129,7 +129,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177057
-
+    - c-005
 <a id="claim-t-200945"></a>
 - t-006
   global_id: t-200945
@@ -167,8 +167,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-194660
 ## Citatos
 
 - id: c-78439
@@ -191,7 +190,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81908
-
 - id: c-78440
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -212,7 +210,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81910
-
 - id: c-78441
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -235,7 +232,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81909
-
 - id: c-171294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -257,7 +253,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188404
-
 - id: c-177057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -281,7 +276,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194660
-
 - id: c-184295
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

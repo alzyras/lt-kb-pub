@@ -63,7 +63,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata apie kronikos reikšmę."
   pagrindžia:
     - c-165014
-
+    - c-007
 <a id="claim-t-181460"></a>
 - t-002
   global_id: t-181460
@@ -100,7 +100,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   semantiniai_rysiai: "Teutonai keliavo į Prūsija (0.84)"
   pagrindžia:
     - c-165017
-
+    - c-009
 <a id="claim-t-181463"></a>
 - t-004
   global_id: t-181463
@@ -117,7 +117,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-165013
-
+    - c-006
 <a id="claim-t-181464"></a>
 - t-005
   global_id: t-181464
@@ -134,7 +134,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56023
-
+    - c-003
 <a id="claim-t-181467"></a>
 - t-006
   global_id: t-181467
@@ -151,7 +151,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-165013
-
+    - c-006
 <a id="claim-t-181468"></a>
 - t-007
   global_id: t-181468
@@ -192,7 +192,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-165012
-
+    - c-005
 <a id="claim-t-181470"></a>
 - t-009
   global_id: t-181470
@@ -284,7 +284,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   semantiniai_rysiai: "Teutonai keliavo į Prūsija (0.84)"
   pagrindžia:
     - c-165017
-
+    - c-009
 <a id="claim-t-181476"></a>
 - t-014
   global_id: t-181476
@@ -322,7 +322,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-165013
-
+    - c-006
 <a id="claim-t-188459"></a>
 - t-016
   global_id: t-188459
@@ -342,7 +342,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171349
-
+    - c-013
 <a id="claim-t-188460"></a>
 - t-017
   global_id: t-188460
@@ -362,7 +362,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171350
-
+    - c-014
 <a id="claim-t-188461"></a>
 - t-018
   global_id: t-188461
@@ -382,7 +382,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171351
-
+    - c-015
 <a id="claim-t-188462"></a>
 - t-019
   global_id: t-188462
@@ -403,7 +403,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-171352
-
+    - c-016
 <a id="claim-t-188463"></a>
 - t-020
   global_id: t-188463
@@ -424,7 +424,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   semantiniai_rysiai: "Teutonai keliavo į Prūsija (0.76)"
   pagrindžia:
     - c-171353
-
+    - c-017
 <a id="claim-t-188465"></a>
 - t-021
   global_id: t-188465
@@ -508,7 +508,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173659
-
+    - c-022
 <a id="claim-t-194449"></a>
 - t-025
   global_id: t-194449
@@ -522,7 +522,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-165013
-
+    - c-006
 <a id="claim-t-194671"></a>
 - t-026
   global_id: t-194671
@@ -707,9 +707,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-    - t-007
-
+    - t-181464
 - c-005
   santrauka: 'Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -725,8 +723,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-181469
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -749,11 +746,10 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-    - t-005
-    - t-019
-    - t-030
-
+    - t-181463
+    - t-181467
+    - t-183995
+    - t-194449
 - c-007
   santrauka: 'Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -775,8 +771,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-181459
 - c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -795,9 +790,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-    - t-004
-
+    - t-181462
+    - t-181475
 - c-013
   santrauka: 'Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -816,8 +810,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-
+    - t-188459
 - c-014
   santrauka: 'Narbutas rašo, kad Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie apeigoms naudotų šventųjų šaltinių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -835,8 +828,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021
-
+    - t-188460
 - c-015
   santrauka: 'Narbutas aiškino, kad Dusburgietis vyriausiąjį žynį prilygino popiežiui, bet tokį palyginimą laikė menkai tinkamu dalykui pažinti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -857,8 +849,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022
-
+    - t-188461
 - c-016
   santrauka: 'Narbutas manė, kad Dusburgiečio aplinkos kryžiuočiai, nors ir cenzūruojami, išsaugojo senųjų vyriausiųjų žynių sąrašą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -881,8 +872,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023
-
+    - t-188462
 - c-017
   santrauka: 'Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -899,8 +889,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
-
+    - t-188463
 - c-022
   santrauka: 'Teodoro Narbuto pasakojime Petras Dusburgietis minėjo Sūduvos valsčių Kirsowia, arba Kirsnavą, tarp Olecko ir Raigardo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -924,8 +913,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029
-
+    - t-190777
 ## Citatos
 
 - id: c-42455
@@ -956,7 +944,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181470
-
 - id: c-42456
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -971,7 +958,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181474
-
 - id: c-56023
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -994,7 +980,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181464
-
 - id: c-165011
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1016,7 +1001,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181471
-
 - id: c-165012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1038,7 +1022,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181469
-
 - id: c-165013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1068,7 +1051,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-183995
     - t-194449
     - t-197007
-
 - id: c-165014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1098,7 +1080,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181459
-
 - id: c-165017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1124,7 +1105,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindzia:
     - t-181462
     - t-181475
-
 - id: c-165018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1150,7 +1130,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181476
-
 - id: c-165019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1175,7 +1154,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindzia:
     - t-181460
     - t-181468
-
 - id: c-165020
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1204,7 +1182,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181472
-
 - id: c-171349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1226,7 +1203,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindzia:
     - t-188459
     - t-197328
-
 - id: c-171350
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1248,7 +1224,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188460
-
 - id: c-171351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1281,7 +1256,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindzia:
     - t-188461
     - t-197329
-
 - id: c-171352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1309,7 +1283,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindzia:
     - t-188462
     - t-197331
-
 - id: c-171353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1330,7 +1303,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188463
-
 - id: c-171355
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1355,7 +1327,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188465
-
 - id: c-171357
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1383,7 +1354,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188467
-
 - id: c-171358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1405,7 +1375,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188468
-
 - id: c-173659
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1437,7 +1406,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190777
-
 - id: c-177068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1463,7 +1431,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194671
-
 - id: c-178999
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1489,7 +1456,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197006
-
 - id: c-179134
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1510,7 +1476,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197330
-
 - id: c-179135
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

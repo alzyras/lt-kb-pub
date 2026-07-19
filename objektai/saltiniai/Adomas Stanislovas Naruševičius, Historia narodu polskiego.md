@@ -95,7 +95,6 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191699
-
 - id: c-174582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

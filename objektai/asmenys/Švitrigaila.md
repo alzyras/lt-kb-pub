@@ -283,7 +283,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau ir enciklopediškiau, išlaikant citatos faktus."
   pagrindžia:
     - c-163376
-
+    - c-163354
 <a id="claim-t-179702"></a>
 - t-014
   global_id: t-179702
@@ -355,7 +355,7 @@ media_all_json: |-
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vitebskas (0.90)"
   pagrindžia:
     - c-163385
-
+    - c-163382
 <a id="claim-t-179706"></a>
 - t-018
   global_id: t-179706
@@ -1415,7 +1415,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179688
-
 - id: c-16101
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1434,7 +1433,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179716
-
 - id: c-30378
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1453,7 +1451,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179695
-
 - id: c-163353
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1493,7 +1490,6 @@ media_all_json: |-
   pagrindzia:
     - t-179727
     - t-179732
-
 - id: c-163354
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1534,7 +1530,6 @@ media_all_json: |-
   pagrindzia:
     - t-179687
     - t-179703
-
 - id: c-163356
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1561,7 +1556,6 @@ media_all_json: |-
   pagrindzia:
     - t-179697
     - t-179719
-
 - id: c-163357
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1581,7 +1575,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179693
-
 - id: c-163359
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1603,7 +1596,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179706
-
 - id: c-163360
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1622,7 +1614,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179721
-
 - id: c-163361
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1649,7 +1640,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179715
-
 - id: c-163362
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1671,7 +1661,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179724
-
 - id: c-163363
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1707,7 +1696,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179733
-
 - id: c-163364
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1730,7 +1718,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179718
-
 - id: c-163365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1755,7 +1742,6 @@ media_all_json: |-
   pagrindzia:
     - t-179700
     - t-179710
-
 - id: c-163367
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1788,7 +1774,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179726
-
 - id: c-163369
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1809,7 +1794,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179698
-
 - id: c-163371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1869,7 +1853,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179712
-
 - id: c-163373
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1893,7 +1876,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179729
-
 - id: c-163374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1919,7 +1901,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179707
-
 - id: c-163375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1942,7 +1923,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179696
-
 - id: c-163376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1964,7 +1944,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179701
-
 - id: c-163377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1990,7 +1969,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179704
-
 - id: c-163379
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2012,7 +1990,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179702
-
 - id: c-163380
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2037,7 +2014,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179723
-
 - id: c-163381
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2058,7 +2034,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179720
-
 - id: c-163382
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2109,7 +2084,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179699
-
 - id: c-163384
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2133,7 +2107,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179731
-
 - id: c-163385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2165,7 +2138,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179705
-
 - id: c-163386
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2190,7 +2162,6 @@ media_all_json: |-
   pagrindzia:
     - t-179708
     - t-179725
-
 - id: c-163387
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2209,7 +2180,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179690
-
 - id: c-163388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2247,7 +2217,6 @@ media_all_json: |-
   pagrindzia:
     - t-179717
     - t-179722
-
 - id: c-163390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2274,7 +2243,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179713
-
 - id: c-163391
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2293,7 +2261,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179709
-
 - id: c-163394
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2317,7 +2284,6 @@ media_all_json: |-
   pagrindzia:
     - t-179692
     - t-179694
-
 - id: c-163395
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2339,7 +2305,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179734
-
 - id: c-168257
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2364,7 +2329,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184896
-
 - id: c-168258
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2405,7 +2369,6 @@ media_all_json: |-
   pagrindzia:
     - t-184897
     - t-196661
-
 - id: c-168259
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2434,7 +2397,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184898
-
 - id: c-168260
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2467,7 +2429,6 @@ media_all_json: |-
   pagrindzia:
     - t-184899
     - t-196662
-
 - id: c-168261
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2494,7 +2455,6 @@ media_all_json: |-
   pagrindzia:
     - t-184900
     - t-196665
-
 - id: c-173888
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2517,7 +2477,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191006
-
 - id: c-178824
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2540,7 +2499,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196660
-
 - id: c-178825
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2571,7 +2529,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196663
-
 - id: c-178826
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2601,7 +2558,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196664
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Livonijos ordinas]]
 - Kariavo prieš: [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]

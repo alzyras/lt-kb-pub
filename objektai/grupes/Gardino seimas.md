@@ -143,7 +143,6 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   pagrindzia:
     - t-72073
     - t-72077
-
 - id: c-46281
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -162,7 +161,6 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72074
-
 - id: c-70499
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

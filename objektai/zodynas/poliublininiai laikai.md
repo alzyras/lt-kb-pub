@@ -94,7 +94,6 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32803
-
 - id: c-34172
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

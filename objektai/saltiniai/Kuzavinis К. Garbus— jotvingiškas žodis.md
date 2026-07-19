@@ -53,7 +53,7 @@ Dusburgietis teigia, kad kuzavinis К.
   temporalinis_llm_pakomentavimas: "Citata patvirtina publikacijos metus, leidinį, numerį ir puslapius."
   pagrindžia:
     - c-61747
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Kuzavinio „Garbus – jotvingiškas žodis“ paskelbta 1968 m. „Baltistica“ 4 tomo 1 numeryje, p. 65–67.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad kuzavinis К.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61115
 ## Citatos
 
 - id: c-61747

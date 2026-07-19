@@ -83,6 +83,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170030
+    - c-002
 - susijęs iš [[objektai/daiktai/Ragučio šventės stabas ant rogių.md#claim-t-189742|Ragučio šventės stabas ant rogių]]: Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą.
 - susijęs iš [[objektai/paprociai/Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas.md#claim-t-189865|Ragučio garbinimo apeigos ir vasario šventės stabo vežiojimas]]: Narbutas Ragučio vardą kildino iš žodžio „Ragutas“, nes per vasario šventę dievo stabas ar atvaizdas būdavo vežiojamas rogėmis.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189992|Frydrichas Stenderis]]: Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.
@@ -114,8 +115,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186847
 ## Citatos
 
 - id: c-10279
@@ -133,7 +133,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08324
-
 - id: c-170030
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

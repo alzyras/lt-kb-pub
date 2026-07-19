@@ -56,7 +56,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-87576
-
+    - c-001
 <a id="claim-t-197012"></a>
 - t-002
   global_id: t-197012
@@ -84,8 +84,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91935
 ## Citatos
 
 - id: c-87576
@@ -105,7 +104,6 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91935
-
 - id: c-179001
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

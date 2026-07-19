@@ -50,7 +50,7 @@ Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vak
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174144
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vakarų kraštų valdovą, laiko karalių arba Titaną, vadintą Saturnu.'
@@ -69,8 +69,7 @@ Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191262
 ## Citatos
 
 - id: c-174144

@@ -114,7 +114,6 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   pagrindzia:
     - t-58476
     - t-194547
-
 - id: c-59108
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -129,7 +128,6 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58475
-
 - id: c-59109
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

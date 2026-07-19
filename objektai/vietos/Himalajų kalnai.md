@@ -50,7 +50,7 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171893
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kultas kilo iš prie jų gyvenusios tautos.'
@@ -73,8 +73,7 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189004
 ## Citatos
 
 - id: c-171893

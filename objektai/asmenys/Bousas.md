@@ -88,7 +88,6 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190088
-
 - id: c-177095
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

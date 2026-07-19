@@ -57,7 +57,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177203
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žmonėms pareikalavus, vienas iš die vų surinko visus mūsų krašto šliužus ir, sukišęs į daugybę šikšni nių maišų, įsakė žmonėms nešti juos prie jūros ir nuskandinti, bet su sąlyga, kad neatrištų maišų ir nepažiūrėtų, kas juose yra.'
@@ -83,8 +83,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194807
 ## Citatos
 
 - id: c-177203

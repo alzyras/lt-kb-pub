@@ -139,7 +139,6 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64125
-
 - id: c-64968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

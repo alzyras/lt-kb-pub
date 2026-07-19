@@ -87,7 +87,6 @@ Hugas Grocijus, tirdamas budinų kolonijas Prūsijoje, citavo Geropijų Bekaną 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191417
-
 - id: c-179325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

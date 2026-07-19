@@ -157,7 +157,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85904
-
 - id: c-81884
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -181,7 +180,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85901
-
 - id: c-81885
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -202,7 +200,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85902
-
 - id: c-81886
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -217,7 +214,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85903
-
 - id: c-81887
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

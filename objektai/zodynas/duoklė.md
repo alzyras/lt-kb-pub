@@ -49,7 +49,7 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168743
-
+    - c-001
 <a id="claim-t-187519"></a>
 - t-002
   global_id: t-187519
@@ -70,6 +70,7 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170470
+    - c-002
 - susijęs iš [[objektai/posakiai/Iki gyvos galvos.md#claim-t-86851|Iki gyvos galvos]]: Vilniaus vyskupui Andriui iki gyvos galvos buvo paskirta šimtas grivinų iš iždo ir kasmetinė medaus duoklė iš Vilniaus pilies.
 - susijęs iš [[objektai/zodynas/sidabrinė duoklė tributum serebsčina.md#claim-t-34312|sidabrinė duoklė tributum serebsčina]]: Sidabrinė duoklė buvo piniginis paklusnybės mokestis, daugiausia žinomas sidabrinės arba serebsčinos vardu.
 - susijęs iš [[objektai/zodynas/sidabrinė duoklė.md#claim-t-12588|sidabrinė duoklė]]: Sidabrinė duoklė šiame tekste reiškia mokestį pinigais.
@@ -105,8 +106,7 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185382
 - c-002
   santrauka: 'Naugardiečiai pasižadėjo Vytautui tarnauti, duoti duoklę ir laikyti jį savo valdovu kaip pskoviečiai.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -137,8 +137,7 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187519
 ## Citatos
 
 - id: c-168743
@@ -171,7 +170,6 @@ Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185382
-
 - id: c-170470
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

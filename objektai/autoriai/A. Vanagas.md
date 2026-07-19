@@ -43,7 +43,7 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56012
-
+    - c-001
 <a id="claim-t-184448"></a>
 - t-002
   global_id: t-184448
@@ -75,8 +75,7 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-184447
 ## Citatos
 
 - id: c-56012
@@ -105,7 +104,6 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184447
-
 - id: c-56014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -120,7 +120,6 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69972
-
 - id: c-69155
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

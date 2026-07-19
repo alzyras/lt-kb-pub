@@ -50,7 +50,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-67974
-
+    - c-001
 <a id="claim-t-201078"></a>
 - t-002
   global_id: t-201078
@@ -92,8 +92,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-68384
 ## Citatos
 
 - id: c-67974
@@ -112,7 +111,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68384
-
 - id: c-184428
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -137,7 +135,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201078
-
 ## Ryšiai
 - Užėmė Labguvą: [[objektai/grupes/Skalviai]]
 - Buvo žygio kryptis: [[objektai/grupes/Skalviai]]

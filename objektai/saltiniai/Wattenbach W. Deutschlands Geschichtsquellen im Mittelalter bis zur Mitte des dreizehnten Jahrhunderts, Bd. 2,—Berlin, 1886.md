@@ -55,7 +55,7 @@ Dusburgietis teigia, kad wattenbach W.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, tomą, leidimo vietą ir metus."
   pagrindžia:
     - c-61995
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad wattenbach W.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61363
 ## Citatos
 
 - id: c-61995

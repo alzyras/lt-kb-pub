@@ -76,7 +76,7 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys su aiškiu subjektu, data ir vieta. Citata tiesiogiai patvirtina Liudviko Narbuto suėmimą Vilniaus gimnazijoje."
   pagrindžia:
     - c-170971
-
+    - c-001
 <a id="claim-t-187968"></a>
 - t-002
   global_id: t-187968
@@ -97,7 +97,7 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiesiogiai paremtas citata apie kaltinimus. Papildomų aplinkybių nepridėta."
   pagrindžia:
     - c-170971
-
+    - c-001
 <a id="claim-t-187969"></a>
 - t-003
   global_id: t-187969
@@ -119,7 +119,7 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Liudviko Narbuto bausmės eigą ir rezultatą. Citata patvirtina tardymą, kalinimą, viešą nuplakimą ir išsiuntimą į Kaukazą."
   pagrindžia:
     - c-170971
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -135,10 +135,9 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
+    - t-187967
+    - t-187968
+    - t-187969
 ## Data ir vieta
 
 Data: 1850 m. Vieta: Vilniaus gimnazija.

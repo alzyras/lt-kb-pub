@@ -48,7 +48,7 @@ Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo l
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169540
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo lietuvių sumuštas ir žuvo.'
@@ -68,8 +68,7 @@ Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186179
 ## Citatos
 
 - id: c-169540

@@ -124,7 +124,6 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86091
-
 - id: c-82070
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -152,6 +151,5 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86090
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Totoriai]]

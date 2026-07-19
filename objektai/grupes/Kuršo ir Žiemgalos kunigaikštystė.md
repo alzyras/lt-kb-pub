@@ -51,7 +51,7 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-40772
-
+    - c-167048
 ## Citatos
 
 - id: c-40772
@@ -80,7 +80,6 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38968
-
 - id: c-167048
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -102,7 +102,6 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87523
-
 - id: c-83502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

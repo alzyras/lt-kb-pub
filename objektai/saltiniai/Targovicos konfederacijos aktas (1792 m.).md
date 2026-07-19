@@ -91,7 +91,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02290
-
 - id: c-02529
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

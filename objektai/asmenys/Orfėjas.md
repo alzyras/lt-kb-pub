@@ -48,7 +48,7 @@ Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau sus
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173075
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau susiklosčiusias slaptas religines apeigas.'
@@ -66,8 +66,7 @@ Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau sus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190192
 ## Citatos
 
 - id: c-173075

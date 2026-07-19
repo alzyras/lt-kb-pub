@@ -99,6 +99,7 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   temporalinis_llm_pakomentavimas: "Citata palaiko enciklopedinį faktą apie Vaclovą; pašalinta abstrakti ramybės formuluotė."
   pagrindžia:
     - c-168212
+    - c-003
 - susijęs iš [[objektai/asmenys/Vaclovas (Medininkų vyskupas).md#claim-t-87481|Vaclovas (Medininkų vyskupas)]]: Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais.
 - susijęs iš [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius).md#claim-t-60453|Vaclovas (Čekijos ir Lenkijos karalius)]]: 1300 m. Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Vaclovas (čekų kunigaikštis).md#claim-t-60455|Vaclovas (čekų kunigaikštis)]]: Dusburgiečio pasakojime šventas čekų kunigaikštis Vaclovas išpranašavo Danijos karaliaus Henriko nužudymą.
@@ -141,8 +142,7 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-184851
 ## Citatos
 
 - id: c-28881
@@ -160,7 +160,6 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28977
-
 - id: c-28882
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -176,7 +175,6 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28976
-
 - id: c-168212
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

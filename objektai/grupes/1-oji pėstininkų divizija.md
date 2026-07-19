@@ -91,7 +91,6 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40818
-
 - id: c-44707
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

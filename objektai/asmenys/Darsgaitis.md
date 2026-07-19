@@ -77,7 +77,7 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-170895
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos.'
@@ -93,8 +93,7 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187915
 ## Citatos
 
 - id: c-170895

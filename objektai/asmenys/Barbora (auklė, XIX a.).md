@@ -117,7 +117,6 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
   pagrindzia:
     - t-195275
     - t-195276
-
 - id: c-177641
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

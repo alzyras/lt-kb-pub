@@ -65,7 +65,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172818
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. Daukantas „Darbų“ pratarmėje rašė motinoms, kurios vaikams pasakodavo bočių ir prabočių darbus, bet be raštų dažnai apsirikdavo.'
@@ -82,8 +82,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189935
 ## Citatos
 
 - id: c-172818

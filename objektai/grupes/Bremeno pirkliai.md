@@ -150,6 +150,5 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
     - t-55060
     - t-55061
     - t-80802
-
 ## Ryšiai
 - Bremeno pirkliai prekiavo su [[objektai/vietos/Pamaris]]

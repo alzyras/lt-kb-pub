@@ -152,7 +152,6 @@ media_all_json: |-
   pagrindzia:
     - t-200657
     - t-200658
-
 - id: c-184021
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede

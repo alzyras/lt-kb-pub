@@ -42,7 +42,7 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172328
-
+    - c-001
 <a id="claim-t-189442"></a>
 - t-002
   global_id: t-189442
@@ -63,6 +63,7 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172329
+    - c-002
 - susijęs iš [[objektai/daiktai/Buthas.md#claim-t-189677|Buthas]]: Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu.
 - susijęs iš [[objektai/daiktai/Vaidilų apeiginiai drabužiai.md#claim-t-189665|Vaidilų apeiginiai drabužiai]]: Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų.
 - susijęs iš [[objektai/paprociai/Kariuomenės klaupimasis prieš nešamą Krivių Krivaitį.md#claim-t-189921|Kariuomenės klaupimasis prieš nešamą Krivių Krivaitį]]: Narbutas aprašė, kad į karą žygiuojanti kariuomenė klaupdavosi prieš vaidilų nešamą Krivių Krivaitį.
@@ -95,8 +96,7 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189441
 - c-002
   santrauka: 'Narbutas abejojo pasakojimu, kad vaidila galėjęs pagalve uždusinti ligonį, jei būrimai rodė neišvengiamą mirtį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -120,8 +120,7 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189442
 ## Citatos
 
 - id: c-172328
@@ -147,7 +146,6 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189441
-
 - id: c-172329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

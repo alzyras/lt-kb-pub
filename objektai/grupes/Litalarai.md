@@ -49,7 +49,7 @@ Teodoras Narbutas neatmetė autoriaus nuomonės, kad litalarai buvo lietuvių-al
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175757
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas neatmetė autoriaus nuomonės, kad litalarai buvo lietuvių-alanų tauta, galėjusi susidaryti iš lietuvių ir alanų mišinio.'
@@ -70,8 +70,7 @@ Teodoras Narbutas neatmetė autoriaus nuomonės, kad litalarai buvo lietuvių-al
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192987
 ## Citatos
 
 - id: c-175757

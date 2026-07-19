@@ -54,7 +54,7 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
   temporalinis_llm_pakomentavimas: "Pašalintas netikslus autorystės boilerplate ir sutvarkyta rašyba."
   pagrindžia:
     - c-61247
-
+    - c-002
 <a id="claim-t-60615"></a>
 - t-002
   global_id: t-60615
@@ -88,8 +88,7 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60614
 ## Citatos
 
 - id: c-61246
@@ -109,7 +108,6 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60615
-
 - id: c-61247
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

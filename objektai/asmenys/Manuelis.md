@@ -74,7 +74,6 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35214
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Jonas Paleologas]]
 - Tėvai: [[objektai/asmenys/Paleologas]]

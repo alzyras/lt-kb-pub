@@ -107,7 +107,6 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38746
-
 - id: c-167094
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -147,7 +147,6 @@ media_all_json: |-
     - t-200650
     - t-200651
     - t-200652
-
 - id: c-184019
   autorius: "Domininkas Burba"
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
@@ -167,6 +166,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200653
-
 ## Ryšiai
 - Smolensko pavieto seimelis priklausė [[objektai/vietos/Smolenskas]]

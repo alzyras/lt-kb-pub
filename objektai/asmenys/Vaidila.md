@@ -113,7 +113,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Fragmentas sutrumpintas į aiškų sakinį apie Vaidilos kilimą ir santuoką. Vertinamoji socialinio iškėlimo kalba palikta metraščio pasakojimo rėmuose.'
   pagrindžia:
-    - c-176625
+    - c-004
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182813|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179311|Lietuviai]]: Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.
@@ -178,8 +178,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194000
 ## Citatos
 
 - id: c-83441
@@ -204,7 +203,6 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87463
-
 - id: c-83442
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -233,7 +231,6 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87464
-
 - id: c-83443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -261,7 +258,6 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87462
-
 - id: c-178954
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -286,6 +282,5 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196874
-
 ## Ryšiai
 - Vaidila keliavo į [[objektai/vietos/Prūsija]]

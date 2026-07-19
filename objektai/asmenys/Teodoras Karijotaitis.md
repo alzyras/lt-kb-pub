@@ -141,8 +141,7 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'OCR ir pastabos numeracija pašalinti, paliktas aiškus Teodoro Karijotaičio veiksmas, titulas ir valdymo vieta. Legenda apie huculus nepridėta.'
   pagrindžia:
-    - c-176618
-
+    - c-005
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Pašalintas iš Podolės, Teodoras Karijotaitis pabėgo į Vengriją, gavo grafo titulą ir 1396–1414 m. valdė Mukačiovą Užkarpatėje.'
@@ -161,8 +160,7 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-193993
 ## Citatos
 
 - id: c-169344
@@ -192,7 +190,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   pagrindzia:
     - t-185983
     - t-193499
-
 - id: c-169345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -210,7 +207,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185984
-
 - id: c-169346
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -242,7 +238,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   pagrindzia:
     - t-185985
     - t-193501
-
 - id: c-176617
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -266,7 +261,6 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193992
-
 - id: c-178790
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

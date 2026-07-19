@@ -336,7 +336,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195168
-
 - id: c-177533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -359,7 +358,6 @@ media_all_json: |-
   pagrindzia:
     - t-195169
     - t-195171
-
 - id: c-177534
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -388,7 +386,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195168
-
 - id: c-177535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -412,7 +409,6 @@ media_all_json: |-
   pagrindzia:
     - t-195168
     - t-195169
-
 - id: c-177536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -448,7 +444,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195169
-
 - id: c-177537
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -477,7 +472,6 @@ media_all_json: |-
   pagrindzia:
     - t-195174
     - t-195178
-
 - id: c-177538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -508,7 +502,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195176
-
 - id: c-177539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -537,7 +530,6 @@ media_all_json: |-
   pagrindzia:
     - t-195168
     - t-195179
-
 - id: c-177540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -562,7 +554,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195176
-
 - id: c-177541
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -587,7 +578,6 @@ media_all_json: |-
   pagrindzia:
     - t-195172
     - t-195184
-
 - id: c-177542
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -611,7 +601,6 @@ media_all_json: |-
     - t-195170
     - t-195180
     - t-195181
-
 - id: c-177543
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -636,7 +625,6 @@ media_all_json: |-
     - t-195182
     - t-195183
     - t-195184
-
 - id: c-177544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -673,7 +661,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195176
-
 - id: c-177545
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -711,7 +698,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195176
-
 - id: c-177546
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -741,7 +727,6 @@ media_all_json: |-
   pagrindzia:
     - t-195176
     - t-195177
-
 - id: c-177547
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -770,7 +755,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195173
-
 - id: c-177548
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -794,7 +778,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195184
-
 ## Ryšiai
 - Puolė Vilniaus pilį: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Užėmė Vilniaus pilį: [[objektai/asmenys/Daugirdas]]

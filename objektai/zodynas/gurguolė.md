@@ -260,7 +260,6 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113628
-
 - id: c-104823
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -286,7 +285,6 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113626
-
 - id: c-104824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -322,7 +320,6 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113627
-
 - id: c-167974
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -360,7 +357,6 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   pagrindzia:
     - t-184613
     - t-196371
-
 - id: c-167976
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -402,7 +398,6 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   pagrindzia:
     - t-184615
     - t-196372
-
 - id: c-167977
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -436,7 +431,6 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   pagrindzia:
     - t-184616
     - t-196373
-
 - id: c-176103
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -469,7 +463,6 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193378
-
 - id: c-178651
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

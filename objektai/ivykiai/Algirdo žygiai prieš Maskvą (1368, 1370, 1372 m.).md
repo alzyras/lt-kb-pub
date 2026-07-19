@@ -197,7 +197,6 @@ Nenurodyta
   pagrindzia:
     - t-05286
     - t-05287
-
 - id: c-04981
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -223,7 +222,6 @@ Nenurodyta
   pagrindzia:
     - t-05288
     - t-05289
-
 - id: c-11816
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -245,7 +243,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10183
-
 - id: c-11817
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -110,9 +110,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-173929
@@ -149,6 +146,5 @@ Nenurodyta
   pagrindzia:
     - t-191047
     - t-197543
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Galindai]], [[objektai/grupes/Venedai]]

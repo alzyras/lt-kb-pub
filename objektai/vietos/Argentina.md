@@ -79,6 +79,5 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46505
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

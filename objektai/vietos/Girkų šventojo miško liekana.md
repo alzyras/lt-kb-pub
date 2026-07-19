@@ -49,7 +49,7 @@ Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni m
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171890
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško liekana.'
@@ -79,8 +79,7 @@ Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189001
 ## Citatos
 
 - id: c-171890

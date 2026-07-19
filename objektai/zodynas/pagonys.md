@@ -50,7 +50,7 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170492
-
+    - c-001
 <a id="claim-t-187543"></a>
 - t-002
   global_id: t-187543
@@ -142,8 +142,7 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187542
 ## Citatos
 
 - id: c-170492
@@ -180,7 +179,6 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187542
-
 - id: c-170493
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

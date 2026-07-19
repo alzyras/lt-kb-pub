@@ -85,7 +85,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194978
-
 - id: c-177365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

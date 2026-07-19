@@ -90,6 +90,5 @@ Belskas buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36155
-
 ## Ryšiai
 - Užėmė Belską: [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]

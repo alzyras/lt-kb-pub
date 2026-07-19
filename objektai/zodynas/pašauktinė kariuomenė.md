@@ -121,7 +121,6 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78905
-
 - id: c-76011
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -145,7 +144,6 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78906
-
 - id: c-76013
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

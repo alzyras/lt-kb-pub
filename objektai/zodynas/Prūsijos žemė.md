@@ -58,7 +58,7 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   semantiniai_rysiai: "Kulmas priklausė Lenkai (0.87); Kryžiuočių ordinas užkariavo Prūsija (0.78)"
   pagrindžia:
     - c-85515
-
+    - c-167402
 <a id="claim-t-89574"></a>
 - t-002
   global_id: t-89574
@@ -76,6 +76,7 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Prūsija (0.78)"
   pagrindžia:
     - c-85516
+    - c-85514
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-188221|Latviai]]: Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą.
 - susijęs iš Barta: Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Galinda: Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių.
@@ -145,7 +146,6 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89573
-
 - id: c-85516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -166,7 +166,6 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89574
-
 - id: c-167402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

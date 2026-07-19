@@ -42,7 +42,7 @@ Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173329
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė elementarųjį apsivalymą.'
@@ -62,8 +62,7 @@ Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190446
 ## Citatos
 
 - id: c-173329

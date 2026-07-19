@@ -112,7 +112,6 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66261
-
 - id: c-166331
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -134,7 +134,6 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86468
-
 - id: c-82446
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -162,7 +161,6 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86466
-
 - id: c-82447
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

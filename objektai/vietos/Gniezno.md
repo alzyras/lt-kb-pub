@@ -172,7 +172,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94047
-
 - id: c-89256
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -187,6 +186,5 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94046
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Vilniaus vyskupija]]

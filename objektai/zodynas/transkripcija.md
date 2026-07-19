@@ -72,6 +72,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-183739
+    - c-170099
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186810|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.
 ## Citatos
 
@@ -95,6 +96,29 @@ Nenurodyta
   citata_rodoma: "lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame \nrankraščio puslapyje, XVII a. rašysena buvę lenkiškai \nužrašyta: „Kronika Litewska z ruskiego języka na pols- \nki przettumaczona\", nors iš tikrųjų rankraštis buvo ne \nvertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­\nčio, kirilica rašyto teksto transkripcija lotyniškai len­\nkiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­\nto paraštėse būta tos pačios rašysenos trumpų pastabų \napie turinį lenkų kalba, bet ar jų jau būta toje kopi­\njoje, iš kurios transkribuotas rastasis lankraštis, ar jos \npaties transkribuotojo prirašytos — neišaiškinta."
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200401
+- id: c-170099
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame
+    rankraščio puslapyje, XVII a. rašysena buvę lenkiškai
+    užrašyta: „Kronika Litewska z ruskiego języka na pols-
+    ki przettumaczona", nors iš tikrųjų rankraštis buvo ne
+    vertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­
+    čio, kirilica rašyto teksto transkripcija lotyniškai len­
+    kiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­
+    to paraštėse būta tos pačios rašysenos trumpų pastabų
+    apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
+    joje, iš kurios transkribuotas rastasis lankraštis, ar jos
+    paties transkribuotojo prirašytos — neišaiškinta.
+  citata_rodoma: "lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame \nrankraščio puslapyje, XVII a. rašysena buvę lenkiškai \nužrašyta: „Kronika Litewska z ruskiego języka na pols- \nki przettumaczona\", nors iš tikrųjų rankraštis buvo ne \nvertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­\nčio, kirilica rašyto teksto transkripcija lotyniškai len­\nkiškais rašmenimis."
+  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

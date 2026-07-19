@@ -49,7 +49,7 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173309
-
+    - c-001
 <a id="claim-t-197299"></a>
 - t-002
   global_id: t-197299
@@ -81,8 +81,7 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190426
 ## Citatos
 
 - id: c-173309
@@ -106,7 +105,6 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190426
-
 - id: c-179112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

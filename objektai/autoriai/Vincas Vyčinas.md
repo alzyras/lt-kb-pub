@@ -131,7 +131,6 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88083
-
 - id: c-84063
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

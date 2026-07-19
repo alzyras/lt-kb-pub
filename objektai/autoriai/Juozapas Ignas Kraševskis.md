@@ -60,7 +60,7 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174557
-
+    - c-001
 <a id="claim-t-194199"></a>
 - t-002
   global_id: t-194199
@@ -105,8 +105,7 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191675
 ## Citatos
 
 - id: c-174557
@@ -132,7 +131,6 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
   pagrindzia:
     - t-191675
     - t-197616
-
 - id: c-176802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -50,7 +50,7 @@ Dusburgietis teigia, kad mannhardt M.
   temporalinis_llm_pakomentavimas: "Bibliografinė citata pagrindžia autoriaus darbą, pavadinimą, vietą ir metus."
   pagrindžia:
     - c-63371
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Mannhardtas parašė darbą „Letto-Preussische Götterlehre“, 1936 m. išleistą Rygoje.'
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad mannhardt M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62644
 ## Citatos
 
 - id: c-63371

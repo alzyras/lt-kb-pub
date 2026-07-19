@@ -75,7 +75,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys yra kontekstinis fragmentas, bet citata pagrindžia Vernerio pareigas ir ryšį su veikalu."
   pagrindžia:
     - c-63832
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Verneris nuo 1313 m. buvo Ragainės komtūras, o nuo 1324 m. tapo didžiuoju magistru, kuriam Dusburgietis įteikė savo veikalą.'
@@ -91,8 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62948
 - c-002
   santrauka: 'Verneris iš Orzelno didžiuoju magistru buvo išrinktas 1324 m. liepos 6 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

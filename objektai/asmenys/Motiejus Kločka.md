@@ -50,7 +50,7 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   semantiniai_rysiai: "Motiejus Kločka keliavo į Maskva (0.80)"
   pagrindžia:
     - c-169431
-
+    - c-001
 <a id="claim-t-186071"></a>
 - t-002
   global_id: t-186071
@@ -102,8 +102,7 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186070
 ## Citatos
 
 - id: c-169431
@@ -140,7 +139,6 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186070
-
 - id: c-169432
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

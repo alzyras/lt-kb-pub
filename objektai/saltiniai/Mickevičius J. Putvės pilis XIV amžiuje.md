@@ -87,7 +87,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61590
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu.'
@@ -104,8 +104,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60958
 ## Citatos
 
 - id: c-61588
@@ -127,7 +126,6 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60957
-
 - id: c-61589
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -142,7 +140,6 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60956
-
 - id: c-61590
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -132,7 +132,6 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32211
-
 - id: c-175439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

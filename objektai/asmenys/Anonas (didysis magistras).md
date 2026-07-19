@@ -62,7 +62,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60714
-
+    - c-001
 <a id="claim-t-194475"></a>
 - t-003
   global_id: t-194475
@@ -94,8 +94,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60083
 ## Citatos
 
 - id: c-60714
@@ -123,7 +122,6 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60083
-
 - id: c-60715
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

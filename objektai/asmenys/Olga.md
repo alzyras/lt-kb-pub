@@ -58,7 +58,7 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173074
-
+    - c-001
 <a id="claim-t-201018"></a>
 - t-002
   global_id: t-201018
@@ -103,8 +103,7 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190191
 ## Citatos
 
 - id: c-173074
@@ -128,7 +127,6 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190191
-
 - id: c-184368
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -148,7 +146,6 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201018
-
 - id: c-184369
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

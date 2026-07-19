@@ -95,7 +95,6 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31955
-
 - id: c-33732
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

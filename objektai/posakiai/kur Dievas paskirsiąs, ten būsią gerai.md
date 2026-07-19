@@ -79,7 +79,6 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34398
-
 - id: c-167636
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

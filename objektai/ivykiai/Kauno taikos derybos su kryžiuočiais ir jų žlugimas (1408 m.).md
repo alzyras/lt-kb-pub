@@ -67,7 +67,7 @@ Nenurodyta
   semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.70)"
   pagrindžia:
     - c-169166
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.'
@@ -88,8 +88,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185805
 ## Citatos
 
 - id: c-169166

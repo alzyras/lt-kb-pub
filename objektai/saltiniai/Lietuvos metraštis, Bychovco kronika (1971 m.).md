@@ -64,7 +64,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-169780
-
+    - c-002
 <a id="claim-t-186430"></a>
 - t-002
   global_id: t-186430
@@ -85,7 +85,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Sakinys gramatiškas, aiškus ir tiesiogiai paremtas antraštiniu puslapiu."
   pagrindžia:
     - c-169765
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -108,8 +108,7 @@ media_all_json: |-
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186430
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -129,8 +128,7 @@ media_all_json: |-
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186429
 ## Citatos
 
 - id: c-169765
@@ -154,7 +152,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186430
-
 - id: c-169780
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

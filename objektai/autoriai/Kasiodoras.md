@@ -50,7 +50,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174447
-
+    - c-001
 <a id="claim-t-191566"></a>
 - t-002
   global_id: t-191566
@@ -64,7 +64,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174448
-
+    - c-002
 <a id="claim-t-191567"></a>
 - t-003
   global_id: t-191567
@@ -85,7 +85,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174449
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, minėjo pajūryje gyvenusius estus.'
@@ -104,8 +104,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191565
 - c-002
   santrauka: 'Narbutas nurodo Kasiodoro raštų rinkinį „Variarum“ kaip šaltinį, kuriame yra penktos knygos antrasis laiškas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -120,8 +119,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191566
 - c-003
   santrauka: 'Narbuto išnašoje nurodoma, kad dokumentai apie estus yra Kasiodoro laiškų rinkinyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -141,8 +139,7 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191567
 ## Citatos
 
 - id: c-174447
@@ -169,7 +166,6 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191565
-
 - id: c-174448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -192,7 +188,6 @@ Narbutas rašo, kad gotų istorikas Jordanas, daugiausia rėmęsis Kasiodoru, mi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191566
-
 - id: c-174449
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

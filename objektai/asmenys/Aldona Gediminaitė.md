@@ -295,7 +295,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     - t-05154
     - t-97304
     - t-97313
-
 - id: c-30095
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -315,7 +314,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   pagrindzia:
     - t-05155
     - t-97303
-
 - id: c-91795
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -333,7 +331,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97309
-
 - id: c-91797
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -359,7 +356,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97311
-
 - id: c-91798
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -377,7 +373,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97305
-
 - id: c-91800
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -403,7 +398,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   pagrindzia:
     - t-97302
     - t-97308
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]], [[objektai/asmenys/Kazimieras Didysis]]
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

@@ -85,7 +85,6 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58610
-
 - id: c-59243
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

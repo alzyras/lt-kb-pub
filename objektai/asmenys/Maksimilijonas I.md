@@ -92,7 +92,6 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40325
-
 - id: c-176418
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

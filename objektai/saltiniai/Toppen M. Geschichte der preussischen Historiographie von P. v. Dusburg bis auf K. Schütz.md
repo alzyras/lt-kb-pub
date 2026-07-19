@@ -55,7 +55,7 @@ Dusburgietis teigia, kad toppen M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia šaltinio pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61952
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad toppen M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61320
 ## Citatos
 
 - id: c-61952

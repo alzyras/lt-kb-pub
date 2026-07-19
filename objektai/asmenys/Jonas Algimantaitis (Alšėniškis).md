@@ -81,7 +81,6 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-53956
-
 - id: c-178729
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

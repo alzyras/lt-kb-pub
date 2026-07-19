@@ -145,7 +145,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37930
-
+    - c-167628
 <a id="claim-t-184619"></a>
 - t-007
   global_id: t-184619
@@ -352,7 +352,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169923
-
 - id: c-154599
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -399,7 +398,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169919
-
 - id: c-154600
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -424,7 +422,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169920
-
 - id: c-154601
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -453,7 +450,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169921
-
 - id: c-154602
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -476,7 +472,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   pagrindzia:
     - t-169917
     - t-169918
-
 - id: c-167628
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -525,7 +520,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   pagrindzia:
     - t-184619
     - t-196379
-
 - id: c-167981
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -557,7 +551,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   pagrindzia:
     - t-184620
     - t-196380
-
 - id: c-167982
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -584,7 +577,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184621
-
 - id: c-167983
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -616,7 +608,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184622
-
 - id: c-167984
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

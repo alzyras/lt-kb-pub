@@ -54,7 +54,7 @@ Dusburgietis teigia, kad vaičiulaitis A.
   temporalinis_llm_pakomentavimas: "Citata nurodo publikacijos leidinį, vietą, metus, tomą ir puslapius."
   pagrindžia:
     - c-61966
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Vaičiulaičio „Vidurinių amžių poetas Machaut Lietuvoj“ paskelbta 1940 m. Kaune išleistų „Suvažiavimo darbų“ trečiame tome.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad vaičiulaitis A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61334
 ## Citatos
 
 - id: c-61966

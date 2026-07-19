@@ -56,6 +56,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-43942
+    - c-167198
 - susijęs iš [[objektai/grupes/Hiriai ir hendai.md#claim-t-189544|Hiriai ir hendai]]: Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno hiriai ir hendai, Raseinių bei Upytės apskrityse.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172873|J. Dlugošas]]: J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti.
 - susijęs iš [[objektai/grupes/Hiriai ir hendai.md#claim-t-189544|Hiriai ir hendai]]: Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno hiriai ir hendai, Raseinių bei Upytės apskrityse.
@@ -108,7 +109,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69480
-
 - id: c-167198
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -132,7 +132,6 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60041
-
 - id: c-60673
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -155,7 +154,6 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   pagrindzia:
     - t-60040
     - t-197112
-
 - id: c-60674
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

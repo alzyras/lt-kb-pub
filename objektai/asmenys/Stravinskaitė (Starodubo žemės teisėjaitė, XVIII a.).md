@@ -117,7 +117,6 @@ Stravinskaitė buvo Starodubo žemės teisėjaitė. 1760 m. Starodubo žemės te
   pagrindzia:
     - t-200527
     - t-200528
-
 - id: c-184048
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"

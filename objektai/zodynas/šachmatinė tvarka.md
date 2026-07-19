@@ -88,7 +88,6 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38786
-
 - id: c-167108
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

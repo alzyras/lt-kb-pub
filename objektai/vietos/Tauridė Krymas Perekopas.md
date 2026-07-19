@@ -59,4 +59,3 @@ Po Vytauto pergalės Tauridės, tai yra Krymo arba Perekopo, skitai suartėjo su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

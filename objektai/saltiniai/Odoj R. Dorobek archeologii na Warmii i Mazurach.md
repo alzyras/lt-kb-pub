@@ -46,7 +46,7 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinius duomenis, o pradinis teiginys neturi predikato."
   pagrindžia:
     - c-61834
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Odoj straipsnis „Dorobek archeologii na Warmii i Mazurach“ paskelbtas 1965 m. žurnalo „Z otchłani wieków“ 2 sąsiuvinyje, p. 95–105.'
@@ -60,8 +60,7 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61202
 ## Citatos
 
 - id: c-61834

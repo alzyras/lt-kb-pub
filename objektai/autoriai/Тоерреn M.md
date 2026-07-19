@@ -93,7 +93,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-61298
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).'
@@ -107,8 +107,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-60667
 ## Citatos
 
 - id: c-61297
@@ -132,7 +131,6 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60666
-
 - id: c-61298
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -151,7 +149,6 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60667
-
 - id: c-61299
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

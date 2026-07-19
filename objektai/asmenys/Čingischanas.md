@@ -61,6 +61,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174372
+    - c-001
 - susijęs iš [[objektai/asmenys/Bojaduras.md#claim-t-191378|Bojaduras]]: 1223 m. Bojaduras su Cipnovianu vadovavo Čingischano pasiųstam būriui į vakarinę Kaspijos pakrantę užimti Samachos ir Derbento.
 - susijęs iš [[objektai/asmenys/Cipnovianas.md#claim-t-191383|Cipnovianas]]: 1223 m. Cipnovianas su Bojaduru vadovavo Čingischano kariuomenės būriui, pasiųstam užimti Samachos ir Derbento.
 - susijęs iš [[objektai/ivykiai/Čingischano vadų karas su alanais.md#claim-t-191078|Čingischano vadų karas su alanais]]: Narbutas rašo, kad 1223 m. Čingischano vadai kariavo toje pačioje pusėje su alanais, kuriems su poloviečiais priklausė Dagestanas.
@@ -90,8 +91,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191490
 ## Citatos
 
 - id: c-174372

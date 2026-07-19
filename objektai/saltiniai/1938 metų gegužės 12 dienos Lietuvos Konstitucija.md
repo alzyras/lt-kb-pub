@@ -101,7 +101,6 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20990
-
 - id: c-166743
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

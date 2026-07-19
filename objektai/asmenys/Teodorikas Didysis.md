@@ -71,7 +71,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174035
-
+    - c-002
 <a id="claim-t-191154"></a>
 - t-003
   global_id: t-191154
@@ -92,7 +92,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174036
-
+    - c-003
 <a id="claim-t-191155"></a>
 - t-004
   global_id: t-191155
@@ -201,8 +201,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191153
 - c-003
   santrauka: 'Narbutas rašo, kad Teodorikas ir visi gotai buvo krikščionys, kaip ir Odoakras bei jo herulai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -225,8 +224,7 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191154
 ## Citatos
 
 - id: c-174034
@@ -252,7 +250,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191152
-
 - id: c-174035
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -277,7 +274,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191153
-
 - id: c-174036
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -316,7 +312,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191154
-
 - id: c-174037
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -338,7 +333,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191155
-
 - id: c-174038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -371,7 +365,6 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   pagrindzia:
     - t-191156
     - t-197831
-
 - id: c-174040
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -396,6 +389,5 @@ Narbutas vaizduoja Teodoriką Didįjį kaip gotų karalių, užkariavusį Romą 
   pagrindzia:
     - t-191158
     - t-197832
-
 ## Ryšiai
 - Teodorikas Didysis užkariavo [[objektai/vietos/Italija]]

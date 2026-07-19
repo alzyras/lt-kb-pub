@@ -78,7 +78,7 @@ Greta didžiojo etmono M.
   sudarymo_pagrindimas: 'Pareigybės ir titulai suformuluoti kaip šaltinio vartosena. Nepridėtas ankstesnis Mstislavlio epizodas ar Olbrachto mirtis.'
   susije_objektai: 'mentioned_place: Polockas; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mstislavlis'
   pagrindžia:
-    - c-170473
+    - c-003
 - susijęs iš [[objektai/asmenys/Avigenas.md#claim-t-186096|Avigenas]]: Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas.
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63715|Jonas Chodkevičius]]: Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103053|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas.
@@ -188,8 +188,7 @@ Greta didžiojo etmono M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187522
 ## Citatos
 
 - id: c-45514
@@ -223,7 +222,6 @@ Greta didžiojo etmono M.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42451
-
 - id: c-170472
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

@@ -102,7 +102,6 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195547
-
 - id: c-177963
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -122,7 +121,6 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195548
-
 - id: c-177964
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -143,7 +141,6 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195547
-
 - id: c-177965
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

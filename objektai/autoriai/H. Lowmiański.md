@@ -118,7 +118,6 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05941
-
 - id: c-03981
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -137,7 +136,6 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05941
-
 - id: c-03982
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -158,7 +156,6 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05943
-
 - id: c-03984
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

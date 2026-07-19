@@ -66,4 +66,4 @@ Narbuto aprašyme lietuvių liudytojas dėdavo kepurę prieš teisėją ir ja la
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189583

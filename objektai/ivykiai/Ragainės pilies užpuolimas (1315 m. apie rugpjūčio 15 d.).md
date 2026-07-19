@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas nereikalingas šaltinio įvardijimas ir OCR liekana."
   pagrindžia:
     - c-63094
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos slapta atžygiavo prie Ragainės pilies ir ją užpuolė.'
@@ -93,8 +93,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62452
 ## Citatos
 
 - id: c-63094

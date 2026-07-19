@@ -83,7 +83,6 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
   pagrindzia:
     - t-69028
     - t-69029
-
 - id: c-175966
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

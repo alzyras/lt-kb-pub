@@ -103,7 +103,6 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19064
-
 - id: c-166945
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

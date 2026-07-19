@@ -92,6 +92,5 @@ media_all_json: |-
   pagrindzia:
     - t-18932
     - t-183533
-
 ## Ryšiai
 - Ivanas Rūstusis apgulė [[objektai/vietos/Polockas]]

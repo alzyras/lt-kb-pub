@@ -90,9 +90,6 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-174364

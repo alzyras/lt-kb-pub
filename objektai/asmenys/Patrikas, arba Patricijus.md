@@ -89,6 +89,5 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87816
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

@@ -116,7 +116,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185345
-
 - id: c-168707
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -146,7 +145,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   pagrindzia:
     - t-185346
     - t-193459
-
 - id: c-178652
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -60,7 +60,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   temporalinis_llm_pakomentavimas: "Citata patvirtina datą, veikėją, pilį ir rezultatą."
   pagrindžia:
     - c-60505
-
+    - c-003
 <a id="claim-t-59872"></a>
 - t-002
   global_id: t-59872
@@ -116,7 +116,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   temporalinis_llm_pakomentavimas: "Citata palaiko konkrečią datą, veikėją, žygį ir pilies pastatymą."
   pagrindžia:
     - c-60507
-
+    - c-005
 <a id="claim-t-59875"></a>
 - t-005
   global_id: t-59875
@@ -189,8 +189,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59871
 - c-005
   santrauka: '1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -211,8 +210,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-59874
 ## Citatos
 
 - id: c-60503
@@ -235,7 +233,6 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59872
-
 - id: c-60504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -257,7 +254,6 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   pagrindzia:
     - t-59875
     - t-197130
-
 - id: c-60505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -281,7 +277,6 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59871
-
 - id: c-60506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -303,7 +298,6 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     - t-59873
     - t-194505
     - t-197129
-
 - id: c-60507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -327,7 +321,6 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59874
-
 ## Ryšiai
 - Meinhardas Saksas iš Kverfurto puolė [[objektai/vietos/Junigeda]], [[objektai/vietos/Pieštvė]]
 - Meinhardas Saksas iš Kverfurto užėmė [[objektai/vietos/Vizna]]

@@ -93,5 +93,5 @@ Vilniaus klasicizmas: parodos katalogas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45770
+    - t-45772
     - t-45771

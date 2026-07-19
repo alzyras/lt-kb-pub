@@ -100,7 +100,6 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60030
-
 - id: c-60662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -128,6 +127,5 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60029
-
 ## Ryšiai
 - Hermanas (Ordino magistras) pastatė [[objektai/vietos/Kulmas]], [[objektai/vietos/Marienverderis]]

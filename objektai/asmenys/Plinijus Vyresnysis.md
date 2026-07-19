@@ -91,7 +91,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173973
-
+    - c-004
 <a id="claim-t-191092"></a>
 - t-003
   global_id: t-191092
@@ -154,7 +154,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173977
-
+    - c-007
 <a id="claim-t-191096"></a>
 - t-008
   global_id: t-191096
@@ -175,7 +175,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173978
-
+    - c-008
 <a id="claim-t-191097"></a>
 - t-009
   global_id: t-191097
@@ -196,7 +196,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173979
-
+    - c-009
 <a id="claim-t-191969"></a>
 - t-010
   global_id: t-191969
@@ -261,8 +261,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-191091
 - c-007
   santrauka: 'Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -280,8 +279,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-191095
 - c-008
   santrauka: 'Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -308,8 +306,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-191096
 - c-009
   santrauka: 'Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -332,8 +329,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-191097
 - c-010
   santrauka: 'Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -355,9 +351,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-    - t-011
-
 ## Citatos
 
 - id: c-173971
@@ -381,7 +374,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191089
-
 - id: c-173972
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -402,7 +394,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191090
-
 - id: c-173973
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -428,7 +419,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191091
-
 - id: c-173974
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -452,7 +442,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191092
-
 - id: c-173975
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -477,7 +466,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191093
-
 - id: c-173977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -500,7 +488,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191095
-
 - id: c-173978
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -533,7 +520,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191096
-
 - id: c-173979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -565,7 +551,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191097
-
 - id: c-174851
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -593,7 +578,6 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   pagrindzia:
     - t-191969
     - t-197801
-
 - id: c-179346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

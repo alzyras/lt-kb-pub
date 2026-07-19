@@ -79,4 +79,4 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-79101
+    - t-79102

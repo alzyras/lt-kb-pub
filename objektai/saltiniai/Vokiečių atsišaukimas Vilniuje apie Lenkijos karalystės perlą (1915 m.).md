@@ -103,7 +103,6 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21317
-
 - id: c-166781
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

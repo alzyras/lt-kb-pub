@@ -92,7 +92,6 @@ Vytautas tad stojo vidury tarp husitų ir popiežiaus. Tad Vytautas įsakė grį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34409
-
 - id: c-35634
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

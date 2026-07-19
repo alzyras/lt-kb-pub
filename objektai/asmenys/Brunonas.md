@@ -141,7 +141,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89681
-
 - id: c-85623
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -163,7 +162,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89683
-
 - id: c-85624
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -193,7 +191,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89682
-
 - id: c-168043
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

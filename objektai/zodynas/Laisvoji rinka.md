@@ -109,7 +109,6 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
   pagrindzia:
     - t-75565
     - t-75566
-
 - id: c-24680
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

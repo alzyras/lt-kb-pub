@@ -101,7 +101,6 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19174
-
 - id: c-21920
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

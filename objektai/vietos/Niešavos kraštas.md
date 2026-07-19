@@ -68,6 +68,5 @@ Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Nie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32420
-
 ## Ryšiai
 - Niešavos kraštas (kraštas) priklausė [[objektai/vietos/Lenkija]]

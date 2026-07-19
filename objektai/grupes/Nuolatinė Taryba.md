@@ -122,7 +122,6 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65961
-
 - id: c-66302
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -141,7 +140,6 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65962
-
 - id: c-66305
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,7 +163,6 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65964
-
 - id: c-166315
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -184,7 +181,6 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182912
-
 - id: c-166316
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

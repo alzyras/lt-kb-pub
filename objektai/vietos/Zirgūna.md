@@ -63,6 +63,7 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59293
+    - c-002
 - susijęs iš [[objektai/autoriai/Górnowicz H.md#claim-t-60556|Górnowicz H]]: H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą.
 - susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
 - susijęs iš [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas.md#claim-t-89371|Kristburgo bado krizės ir Samilio nukankinimo bandymas]]: Apsupti Kristburgo broliai maistą ir būtinus daiktus iš Elbingo Zirgūnos upe gabendavo sunkiai ir pavojingai.
@@ -102,8 +103,7 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58661
 ## Citatos
 
 - id: c-59292
@@ -129,7 +129,6 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58660
-
 - id: c-59293
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

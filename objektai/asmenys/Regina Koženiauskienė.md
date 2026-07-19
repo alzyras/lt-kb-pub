@@ -76,4 +76,4 @@ Regina Koženiauskienė vertė šiame leidime pateiktus eiliuotus tekstus.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191457

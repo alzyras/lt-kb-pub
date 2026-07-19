@@ -96,7 +96,6 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188982
-
 - id: c-175921
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

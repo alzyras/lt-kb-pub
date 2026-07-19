@@ -109,7 +109,6 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18827
-
 - id: c-21601
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

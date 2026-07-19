@@ -122,7 +122,6 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77779
-
 - id: c-184118
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -142,7 +141,6 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200773
-
 - id: c-184119
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

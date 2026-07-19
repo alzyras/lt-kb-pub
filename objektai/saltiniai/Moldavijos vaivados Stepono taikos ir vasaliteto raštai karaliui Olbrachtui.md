@@ -66,8 +66,7 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutvarkytas nutrūkęs sakinys ir aiškiai įvardytas Olbrachto judėjimas po sutarties. Nepakartotas citatos moralinis Stepono vertinimas, nes šiam teiginiui jo nereikia.'
   pagrindžia:
-    - c-176769
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kalnus ir sunkiai pereinamus miškus Lenkijos sienos link.'
@@ -100,8 +99,7 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194156
 ## Citatos
 
 - id: c-178920
@@ -132,7 +130,6 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196803
-
 - id: c-178921
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

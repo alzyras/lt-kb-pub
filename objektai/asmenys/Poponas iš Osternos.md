@@ -76,7 +76,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60578
-
+    - c-003
 <a id="claim-t-59946"></a>
 - t-003
   global_id: t-59946
@@ -96,7 +96,8 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą informaciją."
   pagrindžia:
     - c-60577
-
+    - c-002
+    - c-167505
 <a id="claim-t-59947"></a>
 - t-004
   global_id: t-59947
@@ -114,7 +115,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   semantiniai_rysiai: "Poponas iš Osternos siuntė į Elbingas (0.86)"
   pagrindžia:
     - c-60579
-
+    - c-004
 <a id="claim-t-59948"></a>
 - t-005
   global_id: t-59948
@@ -132,7 +133,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   semantiniai_rysiai: "Poponas iš Osternos keliavo į Višogrudas (0.88)"
   pagrindžia:
     - c-60576
-
+    - c-001
 <a id="claim-t-194515"></a>
 - t-008
   global_id: t-194515
@@ -145,7 +146,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60578
-
+    - c-003
 <a id="claim-t-197149"></a>
 - t-007
   global_id: t-197149
@@ -176,8 +177,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-59948
 - c-002
   santrauka: '1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -196,8 +196,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59946
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -215,10 +214,8 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-007
-    - t-008
-
+    - t-59945
+    - t-194515
 - c-004
   santrauka: 'Magistras Poponas pavedė Konradui Bremeriui nuplukdyti į Elbingą tris maisto prikrautus laivus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -238,8 +235,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-59947
 ## Citatos
 
 - id: c-60576
@@ -262,7 +258,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59948
-
 - id: c-60577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -285,7 +280,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59946
-
 - id: c-60578
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -312,7 +306,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   pagrindzia:
     - t-59945
     - t-194515
-
 - id: c-60579
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -337,7 +330,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59947
-
 - id: c-60580
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -361,7 +353,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59944
-
 - id: c-167505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -404,6 +395,5 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197149
-
 ## Ryšiai
 - Poponas iš Osternos keliavo į [[objektai/vietos/Vokietija]]

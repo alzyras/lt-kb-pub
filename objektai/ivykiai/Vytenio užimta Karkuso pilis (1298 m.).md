@@ -73,7 +73,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi išnašos triukšmo."
   pagrindžia:
     - c-63838
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
@@ -96,8 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62953
 ## Citatos
 
 - id: c-63838

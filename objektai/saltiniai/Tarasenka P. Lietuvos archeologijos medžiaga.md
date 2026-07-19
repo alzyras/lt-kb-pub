@@ -77,7 +77,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį leidimo faktą."
   pagrindžia:
     - c-61643
-
+    - c-002
 <a id="claim-t-197028"></a>
 - t-003
   global_id: t-197028
@@ -103,8 +103,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-61011
 ## Citatos
 
 - id: c-61642
@@ -129,7 +128,6 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
   pagrindzia:
     - t-61010
     - t-197028
-
 - id: c-61643
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

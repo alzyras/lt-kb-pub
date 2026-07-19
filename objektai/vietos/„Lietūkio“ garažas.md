@@ -54,7 +54,7 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo nutrūkęs ir per daug kontekstinis."
   pagrindžia:
     - c-69157
-
+    - c-167042
 <a id="claim-t-69975"></a>
 - t-002
   global_id: t-69975
@@ -103,7 +103,6 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69975
-
 - id: c-69157
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -128,7 +127,6 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69974
-
 - id: c-167042
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

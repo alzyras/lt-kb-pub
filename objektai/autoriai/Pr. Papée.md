@@ -117,7 +117,6 @@ Papée). Papée, Pr. i Papée, Fr.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30928
-
 - id: c-33108
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -135,7 +134,6 @@ Papée). Papée, Pr. i Papée, Fr.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30930
-
 - id: c-33109
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

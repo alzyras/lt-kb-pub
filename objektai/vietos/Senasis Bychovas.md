@@ -48,7 +48,7 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175624
-
+    - c-001
 <a id="claim-t-197927"></a>
 - t-002
   global_id: t-197927
@@ -85,8 +85,7 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192854
 ## Citatos
 
 - id: c-175624
@@ -118,7 +117,6 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192854
-
 - id: c-179403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -376,7 +376,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103054
-
 - id: c-96256
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -404,7 +403,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   pagrindzia:
     - t-103048
     - t-103049
-
 - id: c-96257
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -441,7 +439,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103039
-
 - id: c-96260
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -474,7 +471,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   pagrindzia:
     - t-103044
     - t-103053
-
 - id: c-96262
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -502,7 +498,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103037
-
 - id: c-96263
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -534,7 +529,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103051
-
 - id: c-96264
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -565,8 +559,7 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-103038
-
+    - t-103050
 - id: c-96267
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -590,7 +583,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103052
-
 - id: c-96268
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -616,7 +608,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103040
-
 - id: c-96270
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -652,7 +643,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
     - t-103043
     - t-103055
     - t-194229
-
 - id: c-96272
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -676,7 +666,6 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   pagrindzia:
     - t-103046
     - t-103047
-
 - id: c-96273
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

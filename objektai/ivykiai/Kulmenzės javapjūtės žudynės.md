@@ -62,7 +62,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62924
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per javapjūtę prūsai prie Fogelzango užpuolė Kulmenzės miestiečius, išžudė vyrus, o moteris ir vaikus išsivarė į nelaisvę.'
@@ -82,8 +82,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62349
 ## Citatos
 
 - id: c-62924

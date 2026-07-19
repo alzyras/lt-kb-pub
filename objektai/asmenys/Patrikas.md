@@ -170,7 +170,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-121122
-
 - id: c-111010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -190,7 +189,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-121123
-
 - id: c-168177
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -231,7 +229,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   pagrindzia:
     - t-184816
     - t-196577
-
 - id: c-171492
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -256,7 +253,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188603
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
 - Patrikas (kunigaikštis, XIV a.) puolė [[objektai/vietos/Skalva]], [[objektai/vietos/Skalvos žemė]]

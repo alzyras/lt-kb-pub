@@ -136,7 +136,6 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190494
-
 - id: c-173714
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -154,7 +153,6 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190832
-
 - id: c-173715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

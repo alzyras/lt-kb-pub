@@ -116,7 +116,6 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47945
-
 - id: c-32689
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

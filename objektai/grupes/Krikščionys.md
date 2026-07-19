@@ -312,7 +312,6 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07840
-
 - id: c-167843
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -335,7 +334,6 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184482
-
 - id: c-167844
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -376,7 +374,6 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   pagrindzia:
     - t-184483
     - t-196076
-
 - id: c-167845
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -400,7 +397,6 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184484
-
 - id: c-171099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -431,7 +427,6 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188205
-
 ## Ryšiai
 - Krikščionys puolė [[objektai/grupes/Galindai]]
 - Krikščionys gyveno [[objektai/vietos/Tripolis]]

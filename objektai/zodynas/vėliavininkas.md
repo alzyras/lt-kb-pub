@@ -106,8 +106,6 @@ Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-168777

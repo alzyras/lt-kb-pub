@@ -156,7 +156,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą sutarties datą, vietą ir šalis."
   pagrindžia:
     - c-90122
-
+    - c-003
 <a id="claim-t-95157"></a>
 - t-007
   global_id: t-95157
@@ -613,8 +613,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-95155
 ## Citatos
 
 - id: c-24449
@@ -633,7 +632,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95159
-
 - id: c-24451
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -649,7 +647,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95150
-
 - id: c-90122
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -674,7 +671,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95155
-
 - id: c-90123
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -694,7 +690,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95157
-
 - id: c-90124
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -725,7 +720,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95151
-
 - id: c-90125
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -745,7 +739,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95152
-
 - id: c-90127
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -763,7 +756,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95149
-
 - id: c-90129
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -787,7 +779,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95158
-
 - id: c-90130
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -813,7 +804,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95147
-
 - id: c-176853
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -850,7 +840,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194259
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]]
 - Mirties vieta: [[objektai/asmenys/Bertoldas]]

@@ -415,7 +415,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186819
-
 - id: c-169997
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -437,7 +436,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186813
-
 - id: c-169999
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -456,7 +454,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186816
-
 - id: c-170001
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -477,7 +474,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186814
-
 - id: c-170002
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -496,7 +492,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12301
-
 - id: c-170003
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -514,7 +509,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186815
-
 - id: c-170005
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -535,7 +529,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186821
-
 - id: c-177369
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

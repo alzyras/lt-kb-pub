@@ -80,8 +80,7 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
   sudarymo_pagrindimas: 'Legendinis kilmės pasakojimas tinkamai atribuotinas kronikai ir gali būti kiek informatyvesnis.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]'
   pagrindžia:
-    - c-175083
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -101,8 +100,7 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192242
 ## Citatos
 
 - id: c-175084

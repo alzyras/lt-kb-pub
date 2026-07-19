@@ -72,7 +72,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-69389
-
+    - c-166868
 <a id="claim-t-183472"></a>
 - t-003
   global_id: t-183472
@@ -117,7 +117,6 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70347
-
 - id: c-69389
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -140,7 +139,6 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70348
-
 - id: c-166867
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -161,7 +159,6 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183472
-
 - id: c-166868
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

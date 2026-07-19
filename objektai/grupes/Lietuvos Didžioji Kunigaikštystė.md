@@ -188,7 +188,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-181219
-
+    - c-171180
 <a id="claim-t-198914"></a>
 - t-008
   global_id: t-198914
@@ -214,7 +214,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181213
-
+    - c-170658
 <a id="claim-t-198915"></a>
 - t-009
   global_id: t-198915
@@ -375,7 +375,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169700
-
 - id: c-154401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -395,7 +394,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169699
-
 - id: c-154403
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -434,7 +432,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169703
-
 - id: c-167921
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -460,7 +457,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184560
-
 - id: c-181211
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -476,7 +472,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198915
-
 - id: c-181212
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -500,7 +495,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198918
-
 - id: c-181213
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -527,7 +521,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198914
-
 - id: c-181214
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -551,7 +544,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198911
-
 - id: c-181215
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -660,7 +652,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198913
-
 - id: c-181220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -681,7 +672,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198916
-
 - id: c-181221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -702,7 +692,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198912
-
 - id: c-181222
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -719,7 +708,6 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198917
-
 - id: c-181223
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -739,6 +727,45 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198920
-
+- id: c-170658
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Kaip neišma­
+    tuojama dangaus aukštybė ir jūros gilybė, taip neap­
+    sakoma ir to šlovingojo valdovo galybė ir narsumas.
+    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
+    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
+    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
+    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
+    im peratorium igyveno su juo didelėje meilėje.
+    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
+    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
+    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
+    atvykti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198914
+- id: c-171180
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
+  citata_originali: |
+    Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
+    vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
+    klaidomis, netikslumais, asmenine „kūryba“. Pagrindinė LTI
+    nuvertinimo priežastis -  istoriko politinės simpatijos LDK ir
+    lietuvių tautai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198913
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Smolenskas]]

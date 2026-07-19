@@ -99,7 +99,6 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35334
-
 - id: c-38148
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

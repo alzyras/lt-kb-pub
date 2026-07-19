@@ -173,7 +173,6 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75682
-
 - id: c-21569
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -200,7 +199,6 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75683
-
 - id: c-21570
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -220,7 +218,6 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75681
-
 - id: c-73404
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -245,7 +242,6 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75684
-
 - id: c-166914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

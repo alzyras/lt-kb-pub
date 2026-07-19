@@ -95,7 +95,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-43179
-
+    - c-167085
 <a id="claim-t-78729"></a>
 - t-003
   global_id: t-78729
@@ -140,7 +140,6 @@ Nenurodyta
     - t-78727
     - t-78728
     - t-78729
-
 - id: c-167085
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -93,7 +93,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą, pašalinti bibliografiniai ir fragmentiniai priedai."
   pagrindžia:
     - c-60533
-
+    - c-002
 <a id="claim-t-59903"></a>
 - t-004
   global_id: t-59903
@@ -173,8 +173,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59902
 ## Citatos
 
 - id: c-60532
@@ -196,7 +195,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59903
-
 - id: c-60533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -219,7 +217,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59902
-
 - id: c-60534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -238,7 +235,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59904
-
 - id: c-60535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -262,7 +258,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - t-59901
     - t-194476
     - t-197062
-
 - id: c-60536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

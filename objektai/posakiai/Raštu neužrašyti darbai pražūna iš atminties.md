@@ -130,7 +130,6 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54783
-
 - id: c-55783
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -152,7 +151,6 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54781
-
 - id: c-55784
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

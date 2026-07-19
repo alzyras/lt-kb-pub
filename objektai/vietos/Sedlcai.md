@@ -47,7 +47,7 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   semantiniai_rysiai: "Sedlcai priklausė Kryžiuočių ordinas (0.78)"
   pagrindžia:
     - c-59354
-
+    - c-001
 <a id="claim-t-58723"></a>
 - t-002
   global_id: t-58723
@@ -82,8 +82,7 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58722
 ## Citatos
 
 - id: c-59354
@@ -112,7 +111,6 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58722
-
 - id: c-59355
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -132,6 +130,5 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58723
-
 ## Ryšiai
 - Sedlcai priklausė [[objektai/vietos/Kujavija]]

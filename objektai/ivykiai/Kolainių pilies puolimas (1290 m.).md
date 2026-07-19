@@ -72,7 +72,7 @@ Pilis liko nepaimta.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-69731
-
+    - c-002
 <a id="claim-t-70948"></a>
 - t-002
   global_id: t-70948
@@ -89,7 +89,7 @@ Pilis liko nepaimta.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-69732
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -105,8 +105,7 @@ Pilis liko nepaimta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-70947
 - c-003
   santrauka: 'Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -125,8 +124,7 @@ Pilis liko nepaimta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-70948
 ## Citatos
 
 - id: c-69731
@@ -150,7 +148,6 @@ Pilis liko nepaimta.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70947
-
 - id: c-69732
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

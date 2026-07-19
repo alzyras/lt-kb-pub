@@ -213,7 +213,6 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94746
-
 ## Ryšiai
 - Puolė Medininkai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Buvo žygio kryptis: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Notangai]], [[objektai/grupes/Vokietijos maldininkai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -54,7 +54,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173348
-
+    - c-001
 <a id="claim-t-190468"></a>
 - t-002
   global_id: t-190468
@@ -131,7 +131,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173354
-
+    - c-006
 <a id="claim-t-190472"></a>
 - t-007
   global_id: t-190472
@@ -152,7 +152,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173355
-
+    - c-007
 <a id="claim-t-190473"></a>
 - t-008
   global_id: t-190473
@@ -173,7 +173,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173356
-
+    - c-008
 <a id="claim-t-190474"></a>
 - t-005
   global_id: t-190474
@@ -300,8 +300,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190465
 - c-006
   santrauka: 'Narbutas rašo, kad, pasak Lasickio, kaukai pasirodydavę tik jais tikėjusiems žmonėms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -318,8 +317,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190471
 - c-007
   santrauka: 'Narbutas nurodo, kad Lasickis lietuviams priskyrė kai kurių dievų garbinimo apeigų slėpimą, dažniausiai nuo krikščionių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -340,8 +338,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-190472
 - c-008
   santrauka: 'Narbutas Dievaitį aprašo kaip Pajūrio kaimo fetišą, kurį lokalizuoja Raseinių apskrityje, tikriausiai prie Jūros upės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -363,8 +360,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-190473
 ## Citatos
 
 - id: c-173348
@@ -388,7 +384,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190465
-
 - id: c-173351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -405,7 +400,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190468
-
 - id: c-173352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -432,7 +426,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   pagrindzia:
     - t-190469
     - t-197347
-
 - id: c-173353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -450,7 +443,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190470
-
 - id: c-173354
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -473,7 +465,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190471
-
 - id: c-173355
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -499,7 +490,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190472
-
 - id: c-173356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -519,7 +509,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190473
-
 - id: c-173357
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -543,7 +532,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190474
-
 - id: c-173358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -573,7 +561,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   pagrindzia:
     - t-190475
     - t-197349
-
 - id: c-177075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -594,7 +581,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194678
-
 - id: c-179143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -613,7 +599,6 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197346
-
 - id: c-179144
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

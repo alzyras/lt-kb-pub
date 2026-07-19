@@ -85,6 +85,5 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41823
-
 ## Ryšiai
 - Apgulė Kuoknesės pilį (pilis): [[objektai/grupes/Švedijos kariuomenė]]

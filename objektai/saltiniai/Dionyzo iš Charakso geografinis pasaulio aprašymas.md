@@ -49,7 +49,7 @@ Dionyzas iš Charakso, aprašinėjęs pasaulį Oktaviano Augusto laikais, minėj
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174713
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dionyzas iš Charakso, aprašinėjęs pasaulį Oktaviano Augusto laikais, minėjo Pantikapo ir Aldeskos upes, susiliejančias ir įtekančias į gintaro pakrančių jūrą.'
@@ -69,8 +69,7 @@ Dionyzas iš Charakso, aprašinėjęs pasaulį Oktaviano Augusto laikais, minėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191831
 ## Citatos
 
 - id: c-174713

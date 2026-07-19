@@ -291,7 +291,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186353
-
 - id: c-169713
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -317,7 +316,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186354
-
 - id: c-169715
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -341,7 +339,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186356
-
 - id: c-169716
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -365,7 +362,6 @@ media_all_json: |-
     - t-186357
     - t-186361
     - t-196561
-
 - id: c-169718
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -387,7 +383,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186351
-
 - id: c-169719
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -419,7 +414,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186358
-
 - id: c-178767
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -444,7 +438,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196562
-
 - id: c-178768
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -469,6 +462,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196563
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Malūnas]]

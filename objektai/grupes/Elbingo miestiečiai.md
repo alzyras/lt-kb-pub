@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
   pagrindžia:
     - c-63896
     - c-63897
-
+    - c-002
 <a id="claim-t-62995"></a>
 - t-002
   global_id: t-62995
@@ -130,8 +130,7 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62994
 ## Citatos
 
 - id: c-63896
@@ -160,7 +159,6 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
     - t-62995
     - t-183880
     - t-194324
-
 - id: c-63897
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

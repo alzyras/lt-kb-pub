@@ -68,7 +68,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   pagrindžia:
     - c-159255
     - c-159276
-
+    - c-159257
 <a id="claim-t-175107"></a>
 - t-002
   global_id: t-175107
@@ -85,7 +85,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159274
-
+    - c-019
 <a id="claim-t-175108"></a>
 - t-003
   global_id: t-175108
@@ -120,7 +120,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159268
-
+    - c-015
 <a id="claim-t-175111"></a>
 - t-005
   global_id: t-175111
@@ -177,7 +177,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - c-159272
     - c-159278
     - c-159280
-
+    - c-022
 <a id="claim-t-175114"></a>
 - t-008
   global_id: t-175114
@@ -213,7 +213,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-159252
-
+    - c-001
 <a id="claim-t-175116"></a>
 - t-010
   global_id: t-175116
@@ -233,8 +233,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-159257
-
+    - c-005
 <a id="claim-t-175117"></a>
 - t-011
   global_id: t-175117
@@ -323,7 +322,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   semantiniai_rysiai: "Ulrichas Bajeris puolė Sūduva (0.92)"
   pagrindžia:
     - c-159280
-
+    - c-022
 <a id="claim-t-175123"></a>
 - t-016
   global_id: t-175123
@@ -341,7 +340,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-159265
-
+    - c-012
 <a id="claim-t-175124"></a>
 - t-017
   global_id: t-175124
@@ -380,7 +379,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   semantiniai_rysiai: "Sūduviai apgulė Vėluva (0.93); Sūduviai puolė Vėluva (0.88)"
   pagrindžia:
     - c-159252
-
+    - c-001
 <a id="claim-t-175126"></a>
 - t-019
   global_id: t-175126
@@ -417,7 +416,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - c-159263
     - c-159274
     - c-159282
-
+    - c-019
 <a id="claim-t-175129"></a>
 - t-021
   global_id: t-175129
@@ -510,7 +509,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   semantiniai_rysiai: "Sūduviai puolė Kulmas (0.88); Rusai puolė Kulmas (0.86)"
   pagrindžia:
     - c-159290
-
+    - c-028
 <a id="claim-t-175134"></a>
 - t-026
   global_id: t-175134
@@ -616,7 +615,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159252
-
+    - c-001
 <a id="claim-t-194368"></a>
 - t-032
   global_id: t-194368
@@ -655,7 +654,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159274
-
+    - c-019
 <a id="claim-t-196925"></a>
 - t-035
   global_id: t-196925
@@ -700,10 +699,9 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-    - t-018
-    - t-034
-
+    - t-175115
+    - t-175125
+    - t-194367
 - c-005
   santrauka: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -718,8 +716,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-175116
 - c-012
   santrauka: 'Sūduviai pranoko kitus kilnumu, turtais ir galybe ir turėjo šešis tūkstančius raitelių bei daug kitokių karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -734,8 +731,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-175123
 - c-015
   santrauka: 'Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -755,8 +751,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-175110
 - c-019
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -774,11 +769,9 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-020
-    - t-033
-    - t-037
-
+    - t-175107
+    - t-175128
+    - t-194370
 - c-022
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -797,9 +790,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-    - t-007
-
+    - t-175113
+    - t-175122
 - c-028
   santrauka: 'Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -816,8 +808,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-
+    - t-175133
 ## Citatos
 
 - id: c-159252
@@ -849,7 +840,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - t-175115
     - t-175125
     - t-194367
-
 - id: c-159253
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -879,7 +869,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175131
-
 - id: c-159254
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -899,7 +888,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175135
-
 - id: c-159255
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -921,7 +909,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175106
-
 - id: c-159257
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -941,8 +928,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-175116
-
+    - t-175106
 - id: c-159258
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -963,7 +949,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175124
-
 - id: c-159259
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -983,7 +968,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   pagrindzia:
     - t-175112
     - t-194369
-
 - id: c-159260
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1005,7 +989,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - t-175112
     - t-175137
     - t-194368
-
 - id: c-159262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1025,7 +1008,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175117
-
 - id: c-159263
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1039,7 +1021,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175128
-
 - id: c-159264
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1056,7 +1037,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   pagrindzia:
     - t-175111
     - t-175129
-
 - id: c-159265
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1078,7 +1058,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175123
-
 - id: c-159266
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1098,7 +1077,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175118
-
 - id: c-159267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1121,7 +1099,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175130
-
 - id: c-159268
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1144,7 +1121,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175110
-
 - id: c-159270
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1165,7 +1141,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175134
-
 - id: c-159271
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1182,7 +1157,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175126
-
 - id: c-159272
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1205,7 +1179,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   pagrindzia:
     - t-175113
     - t-175138
-
 - id: c-159274
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1229,7 +1202,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - t-175107
     - t-175128
     - t-194370
-
 - id: c-159276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1250,7 +1222,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   pagrindzia:
     - t-175106
     - t-196925
-
 - id: c-159278
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1271,7 +1242,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175113
-
 - id: c-159280
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1297,7 +1267,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   pagrindzia:
     - t-175113
     - t-175122
-
 - id: c-159282
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1317,7 +1286,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175128
-
 - id: c-159286
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1339,7 +1307,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175108
-
 - id: c-159287
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1357,7 +1324,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175114
-
 - id: c-159288
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1380,7 +1346,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   pagrindzia:
     - t-175119
     - t-175120
-
 - id: c-159289
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1403,7 +1368,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175132
-
 - id: c-159290
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1425,7 +1389,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175133
-
 - id: c-159291
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1463,7 +1426,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175136
-
 - id: c-178983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1485,6 +1447,5 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196926
-
 ## Ryšiai
 - Sūduviai-jotvingiai gyveno [[objektai/vietos/Sūduva]]

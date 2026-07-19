@@ -104,7 +104,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186158
-
 - id: c-169520
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -124,7 +123,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186159
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Skirmantas]]
 - Pisimantas valdė [[objektai/vietos/Turovas]]

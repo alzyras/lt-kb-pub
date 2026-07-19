@@ -73,7 +73,7 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-177257
+    - c-002
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190672|Adomas Stanislovas Naruševičius]]: Naruševičius gotų išėjimą aiškino tuo, kad dakai ir getai pasikvietė gotus, norėdami jungtis su jais, o ne būti svetimų valdomi.
 - susijęs iš [[objektai/posakiai/Panašu į tiesą, kad dakai su getais, prisimindami tiek iš romėnų patirtų pralaimėjimų, pasikvietė pas save gotus, pasiryžę veikiau jungtis su jais negu būti svetimų valdomi.md#claim-t-192117|Panašu į tiesą, kad dakai su getais, prisimindami tiek iš romėnų patirtų pralaimėjimų, pasikvietė pas save gotus, pasiryžę veikiau jungtis su jais negu būti svetimų valdomi]]: Narbutas nurodo Naruševičiaus aiškinimą, kad dakai ir getai po romėnų pralaimėjimų pasikvietė gotus, bet pats su juo nesutinka.
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-192370|Budinai]]: Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse.
@@ -105,8 +105,7 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194861
 ## Citatos
 
 - id: c-175708
@@ -134,7 +133,6 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192938
-
 - id: c-184270
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -159,6 +157,5 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200920
-
 ## Ryšiai
 - Getai gyveno [[objektai/vietos/Isteris]]

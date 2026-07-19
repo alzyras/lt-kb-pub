@@ -48,6 +48,7 @@ Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį,
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174256
+    - c-001
 - susijęs iš [[objektai/asmenys/Markas Polo.md#claim-t-191442|Markas Polo]]: Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuokiamos, bet Barovas jas vėliau siejo su jėzuitų aprašymais.
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,8 +69,7 @@ Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191374
 ## Citatos
 
 - id: c-174256

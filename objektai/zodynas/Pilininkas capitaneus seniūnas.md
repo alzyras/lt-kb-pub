@@ -98,7 +98,6 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86567
-
 - id: c-82547
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

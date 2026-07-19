@@ -140,9 +140,8 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-004
-
+    - t-187341
+    - t-187342
 - id: c-170365
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -164,9 +163,8 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-006
-
+    - t-187340
+    - t-187343
 - id: c-170366
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -195,8 +193,7 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-
+    - t-187339
+    - t-187344
 ## Ryšiai
 - Puolė Sučiavą: [[objektai/grupes/Turkijos kariuomenė]]

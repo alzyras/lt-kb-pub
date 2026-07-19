@@ -129,7 +129,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60224
-
 - id: c-60857
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -157,7 +156,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   pagrindzia:
     - t-60225
     - t-197063
-
 - id: c-184324
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

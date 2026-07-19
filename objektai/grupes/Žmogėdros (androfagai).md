@@ -49,7 +49,7 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172395
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vakarų lietuvių kraštus puldinėjusią grėsmę.'
@@ -69,8 +69,7 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189507
 ## Citatos
 
 - id: c-172395

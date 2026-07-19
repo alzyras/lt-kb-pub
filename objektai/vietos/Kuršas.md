@@ -102,7 +102,7 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir nurodo Saksonijos kariuomenės veiksmą Kurše."
   pagrindžia:
     - c-43552
-
+    - c-167177
 <a id="claim-t-90778"></a>
 - t-003
   global_id: t-90778
@@ -406,7 +406,7 @@ media_all_json: |-
   semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Prūsija (0.90); Mindaugas (valdovas, XIII a.) puolė Semba (0.82); Mindaugas (valdovas, XIII a.) užėmė Kuršas (0.78)"
   pagrindžia:
     - c-168360
-
+    - c-168359
 <a id="claim-t-192682"></a>
 - t-019
   global_id: t-192682
@@ -752,7 +752,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90770
-
 - id: c-32166
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -774,7 +773,6 @@ media_all_json: |-
   pagrindzia:
     - t-90768
     - t-90777
-
 - id: c-32168
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -796,7 +794,6 @@ media_all_json: |-
   pagrindzia:
     - t-90761
     - t-90764
-
 - id: c-32169
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -815,7 +812,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90771
-
 - id: c-43547
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -834,9 +830,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-90763
+    - t-90778
     - t-193771
-
 - id: c-43548
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -858,7 +853,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90772
-
 - id: c-43549
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -886,7 +880,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90767
-
 - id: c-43551
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -915,7 +908,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90776
-
 - id: c-43552
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -936,7 +928,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90762
-
 - id: c-86536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -956,7 +947,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90773
-
 - id: c-86538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -976,7 +966,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90766
-
 - id: c-86539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1011,7 +1000,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90769
-
 - id: c-86541
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1030,7 +1018,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90774
-
 - id: c-86542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1055,7 +1042,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90775
-
 - id: c-167177
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1101,7 +1087,7 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184998
-
+    - t-184999
 - id: c-168360
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1144,7 +1130,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184999
-
 - id: c-175452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1172,7 +1157,6 @@ media_all_json: |-
   pagrindzia:
     - t-192682
     - t-197886
-
 - id: c-175453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1194,7 +1178,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192683
-
 - id: c-175454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1220,7 +1203,6 @@ media_all_json: |-
   pagrindzia:
     - t-192684
     - t-197887
-
 - id: c-175455
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1241,7 +1223,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192685
-
 - id: c-177129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1264,7 +1245,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194733
-
 - id: c-178851
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1298,7 +1278,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196699
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Ketleris]]
 - Mirties vieta: [[objektai/asmenys/Burchardas iš Hornhauzeno]]

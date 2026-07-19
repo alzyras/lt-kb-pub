@@ -72,6 +72,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177156
+    - c-002
 - susijęs iš [[objektai/asmenys/Simonas Stanevičius.md#claim-t-190045|Simonas Stanevičius]]: Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jurgis Plioteris turėjo keletą Švėkšnoje rastų auksinių monetų.
 - susijęs iš [[objektai/autoriai/Simonas Stanevičius.md#claim-t-188475|Simonas Stanevičius]]: Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui liudijo apie Švėkšnos klebono Juozapo Januškevičiaus sode rastą lobį.
 - susijęs iš [[objektai/daiktai/Spero Palemono auksinė moneta ir Švėkšnos lobis.md#claim-t-189650|Spero Palemono auksinė moneta ir Švėkšnos lobis]]: Narbutas nusipirko auksinę monetą, kuri, jo žiniomis, apie 1814–1815 m. buvo rasta Švėkšnos klebonijos sode.
@@ -98,8 +99,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194760
 ## Citatos
 
 - id: c-171831
@@ -121,7 +121,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188942
-
 - id: c-177156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

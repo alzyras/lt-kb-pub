@@ -49,7 +49,7 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174128
-
+    - c-001
 <a id="claim-t-191247"></a>
 - t-002
   global_id: t-191247
@@ -91,7 +91,7 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174130
-
+    - c-003
 <a id="claim-t-191249"></a>
 - t-004
   global_id: t-191249
@@ -131,8 +131,7 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191246
 - c-003
   santrauka: 'Karamzinas, Narbuto nurodymu, įrodinėjo, kad poloviečiai patys save vadino Kipczak.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -147,8 +146,7 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191248
 ## Citatos
 
 - id: c-174128
@@ -174,7 +172,6 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191246
-
 - id: c-174129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -196,7 +193,6 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191247
-
 - id: c-174130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -218,7 +214,6 @@ Karamzinas, Narbuto perteikimu, Jurjevą prie Rosės siejo su poloviečių veiks
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191248
-
 - id: c-174131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

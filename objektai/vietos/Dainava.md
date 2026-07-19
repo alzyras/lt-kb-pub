@@ -103,6 +103,5 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32102
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

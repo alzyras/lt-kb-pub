@@ -176,7 +176,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184327
-
 - id: c-155906
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -203,7 +202,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171344
-
 - id: c-155908
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -232,7 +230,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171343
-
 - id: c-155909
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -268,7 +265,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171341
-
 - id: c-155910
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -304,7 +300,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171342
-
 ## Ryšiai
 - Rėmė Karijotaičiai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Karijotaičiai keliavo į [[objektai/vietos/Podolė]]

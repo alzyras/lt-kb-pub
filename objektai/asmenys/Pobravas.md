@@ -79,6 +79,5 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60414
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Notangai]]

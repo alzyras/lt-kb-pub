@@ -117,7 +117,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86737
-
 - id: c-82717
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -151,6 +150,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86738
-
 ## Ryšiai
 - Varmės kapitula paskyrė [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]

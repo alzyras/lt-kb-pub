@@ -113,7 +113,6 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   pagrindzia:
     - t-78446
     - t-78448
-
 - id: c-75725
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

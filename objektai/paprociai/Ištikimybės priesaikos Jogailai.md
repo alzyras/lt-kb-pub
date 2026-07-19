@@ -116,7 +116,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176229
-
 - id: c-160253
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

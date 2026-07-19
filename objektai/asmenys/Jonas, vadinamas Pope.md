@@ -55,7 +55,7 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir turi neaiškių įvardžių."
   pagrindžia:
     - c-60983
-
+    - c-001
 <a id="claim-t-194495"></a>
 - t-003
   global_id: t-194495
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60983
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -88,10 +88,8 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
+    - t-60351
+    - t-194495
 ## Citatos
 
 - id: c-60983

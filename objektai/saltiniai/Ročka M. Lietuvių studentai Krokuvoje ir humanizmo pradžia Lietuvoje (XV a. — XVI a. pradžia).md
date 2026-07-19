@@ -56,7 +56,7 @@ Dusburgietis teigia, kad ročka M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, straipsnio pavadinimą, metus ir leidinį."
   pagrindžia:
     - c-61906
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Ročkos straipsnis „Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje“ 1966 m. paskelbtas leidinyje „Literatūra“.'
@@ -70,8 +70,7 @@ Dusburgietis teigia, kad ročka M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61274
 ## Citatos
 
 - id: c-61906

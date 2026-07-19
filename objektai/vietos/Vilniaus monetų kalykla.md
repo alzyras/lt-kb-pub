@@ -129,7 +129,6 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55252
-
 - id: c-55854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -156,7 +155,6 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55253
-
 - id: c-81228
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

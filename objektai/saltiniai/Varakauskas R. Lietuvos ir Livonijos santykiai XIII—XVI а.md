@@ -53,7 +53,7 @@ Dusburgietis teigia, kad varakauskas R.
   temporalinis_llm_pakomentavimas: "Citata nurodo autoriaus darbą, leidimo vietą ir metus."
   pagrindžia:
     - c-61979
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Varakausko darbas „Lietuvos ir Livonijos santykiai XIII—XVI a.“ išleistas Vilniuje 1982 m.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad varakauskas R.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61347
 ## Citatos
 
 - id: c-61979

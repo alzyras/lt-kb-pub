@@ -80,7 +80,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168035
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Šv. Teofrido vienuolyno abatas Bernardas kartu su Alėto vyskupu Baltramiejumi tapo pasiuntiniu taikos ir krikšto reikalu.'
@@ -100,8 +100,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184674
 ## Citatos
 
 - id: c-60882
@@ -132,7 +131,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60250
-
 - id: c-168035
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -157,6 +155,5 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184674
-
 ## Ryšiai
 - Bernardas (Šv. Teofrido vienuolyno abatas) keliavo į [[objektai/vietos/Livonija]]

@@ -110,7 +110,6 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19486
-
 - id: c-176265
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,7 +134,6 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193590
-
 - id: c-176266
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -88,7 +88,6 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36594
-
 - id: c-38650
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -113,7 +113,6 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79828
-
 - id: c-76752
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,7 +139,6 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79829
-
 - id: c-76753
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

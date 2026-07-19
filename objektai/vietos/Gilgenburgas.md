@@ -100,7 +100,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177105
-
 - id: c-167755
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -118,7 +117,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184387
-
 ## Ryšiai
 - Puolė Gilgenburgą: [[objektai/grupes/Lietuviai]]
 - Užėmė Gilgenburgą: [[objektai/grupes/Lietuviai]]

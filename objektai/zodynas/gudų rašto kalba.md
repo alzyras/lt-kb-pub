@@ -79,7 +79,6 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72693
-
 - id: c-175898
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

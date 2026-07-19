@@ -127,6 +127,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77929
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Antanas Gustaitis]]

@@ -89,7 +89,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60140
-
 - id: c-60772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -109,6 +108,5 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60139
-
 ## Ryšiai
 - Puolė Henrikas Ulenbušą: [[objektai/asmenys/Herkus Mantas]]

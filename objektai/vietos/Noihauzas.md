@@ -45,6 +45,7 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59236
+    - c-001
 - susijęs iš [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje.md#claim-t-62415|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]: Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179327|Lietuviai]]: Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
 ## Reikšmingi paminėjimai
@@ -67,8 +68,7 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58604
 ## Citatos
 
 - id: c-59236

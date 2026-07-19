@@ -49,7 +49,7 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
   semantiniai_rysiai: "Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas keliavo į Maskva (0.78)"
   pagrindžia:
     - c-169517
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.'
@@ -78,8 +78,7 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186156
 ## Citatos
 
 - id: c-169517

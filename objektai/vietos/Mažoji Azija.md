@@ -112,7 +112,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175469
-
+    - c-004
 <a id="claim-t-197895"></a>
 - t-005
   global_id: t-197895
@@ -152,8 +152,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192699
 ## Citatos
 
 - id: c-153796
@@ -173,7 +172,6 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169045
-
 - id: c-153797
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -191,7 +189,6 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169044
-
 - id: c-166443
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -214,7 +211,6 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183052
-
 - id: c-175469
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -102,7 +102,6 @@ Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėję
   pagrindzia:
     - t-195285
     - t-195287
-
 - id: c-177651
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

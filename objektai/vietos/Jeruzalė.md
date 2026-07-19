@@ -63,7 +63,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   temporalinis_llm_pakomentavimas: "Pradiniame teiginyje neįvardyta Jeruzalės sąsaja, nors citata ją aiškiai pateikia."
   pagrindžia:
     - c-67713
-
+    - c-008
 <a id="claim-t-68011"></a>
 - t-002
   global_id: t-68011
@@ -116,7 +116,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   semantiniai_rysiai: "Popiežius Celestinas III pastatė Namas (0.76); Popiežius Celestinas III paskyrė Teutonai (0.68)"
   pagrindžia:
     - c-67706
-
+    - c-001
 <a id="claim-t-68015"></a>
 - t-005
   global_id: t-68015
@@ -175,7 +175,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   temporalinis_llm_pakomentavimas: "Citata kalba apie kitą šaltinį, todėl būtina tiksli atribucija."
   pagrindžia:
     - c-67709
-
+    - c-004
 <a id="claim-t-68018"></a>
 - t-008
   global_id: t-68018
@@ -335,8 +335,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-68013
 - c-004
   santrauka: '„Pelplino analų“ pirmojoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -354,8 +353,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-68017
 - c-008
   santrauka: 'Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -373,8 +371,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-68010
 ## Citatos
 
 - id: c-67706
@@ -404,7 +401,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68013
-
 - id: c-67707
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -433,7 +429,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68015
-
 - id: c-67708
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -472,7 +467,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68012
-
 - id: c-67709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -494,7 +488,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68017
-
 - id: c-67710
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -516,7 +509,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68011
-
 - id: c-67711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -539,7 +531,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68016
-
 - id: c-67712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -565,7 +556,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68018
-
 - id: c-67713
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -590,7 +580,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68010
-
 - id: c-179044
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

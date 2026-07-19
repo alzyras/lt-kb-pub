@@ -49,6 +49,7 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175750
+    - c-001
 - susijęs iš [[objektai/asmenys/Hamilkaras.md#claim-t-191276|Hamilkaras]]: Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyšulį ir atrado Britaniją bei Airiją.
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,8 +76,7 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192980
 ## Citatos
 
 - id: c-175750

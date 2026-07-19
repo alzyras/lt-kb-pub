@@ -93,7 +93,6 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185437
-
 - id: c-176067
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -128,7 +127,6 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193339
-
 - id: c-178543
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -161,6 +159,5 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193339
-
 ## Ryšiai
 - Seversko kunigaikščiai gyveno [[objektai/vietos/Seversko Naugardas]]

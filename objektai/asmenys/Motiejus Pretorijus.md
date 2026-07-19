@@ -92,7 +92,7 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174098
-
+    - c-003
 <a id="claim-t-191217"></a>
 - t-004
   global_id: t-191217
@@ -113,7 +113,7 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174099
-
+    - c-004
 <a id="claim-t-197777"></a>
 - t-005
   global_id: t-197777
@@ -146,8 +146,7 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191216
 - c-004
   santrauka: 'Pretorijus Sasavos tvirtovę siejo su Šyšos upe, kuri, Narbuto perteikimu, kadaise turėjo būti vadinama Cyse arba Sussa.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -169,8 +168,7 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-191217
 ## Citatos
 
 - id: c-174096
@@ -199,7 +197,6 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191214
-
 - id: c-174097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -216,7 +213,6 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191215
-
 - id: c-174098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -242,7 +238,6 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191216
-
 - id: c-174099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -266,7 +261,6 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191217
-
 - id: c-179335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

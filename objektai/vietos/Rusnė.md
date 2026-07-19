@@ -72,7 +72,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171717
-
+    - c-002
 <a id="claim-t-192748"></a>
 - t-003
   global_id: t-192748
@@ -115,7 +115,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175519
-
+    - c-004
 <a id="claim-t-201102"></a>
 - t-005
   global_id: t-201102
@@ -197,8 +197,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188828
 - c-004
   santrauka: 'Narbutas rašo, kad prie Sancinės dešinioji Nemuno vaga buvo vadinama Russ, Rusnytė, Rusna arba Rusnia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -219,8 +218,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192749
 ## Citatos
 
 - id: c-34030
@@ -244,7 +242,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32520
-
 - id: c-171717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -269,7 +266,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188828
-
 - id: c-175518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -298,7 +294,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192748
-
 - id: c-175519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -327,7 +322,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192749
-
 - id: c-184452
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -350,7 +344,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201102
-
 - id: c-184453
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -382,7 +375,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201103
-
 - id: c-184454
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

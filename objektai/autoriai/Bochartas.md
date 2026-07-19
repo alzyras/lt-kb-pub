@@ -49,7 +49,7 @@ Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173299
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabir“, reiškiančio galią.'
@@ -67,8 +67,7 @@ Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190416
 ## Citatos
 
 - id: c-173299

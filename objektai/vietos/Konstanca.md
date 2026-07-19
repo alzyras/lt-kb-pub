@@ -111,6 +111,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171614
+    - c-004
 - susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-183185|Stačiatikiai]]: 1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.
 - susijęs iš [[objektai/asmenys/Jeronimas Prahiškis.md#claim-t-190012|Jeronimas Prahiškis]]: Jeronimas Prahiškis 1416 m. birželio 21 d. buvo sudegintas gyvas Konstancoje.
 - susijęs iš [[objektai/asmenys/Teodoras Lenkas.md#claim-t-190246|Teodoras Lenkas]]: Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirinkimą išdėstyti skundų prieš kryžiuočius.
@@ -190,8 +191,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188725
 ## Citatos
 
 - id: c-24199
@@ -214,7 +214,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68242
-
 - id: c-32139
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -235,7 +234,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68240
-
 - id: c-32140
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -251,7 +249,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68241
-
 - id: c-171614
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -286,7 +283,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188725
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Jeronimas Prahiškis]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

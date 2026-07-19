@@ -107,7 +107,6 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64172
-
 - id: c-65000
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -124,7 +123,6 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64171
-
 - id: c-65001
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -142,6 +140,5 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64173
-
 ## Ryšiai
 - Paskyrė Teodorą (Liubarto sūnus): [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

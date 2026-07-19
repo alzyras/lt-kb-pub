@@ -119,7 +119,6 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
   pagrindzia:
     - t-79132
     - t-79133
-
 ## Ryšiai
 - Priešai: [[objektai/grupes/Jogailaičiai]]
 - Motiejus Huniadis buvo valdovas [[objektai/vietos/Vengrija]]

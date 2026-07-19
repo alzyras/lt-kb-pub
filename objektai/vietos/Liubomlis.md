@@ -46,7 +46,7 @@ Teodoro Sanguškos dalis buvo Liubomlis.
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170311
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.'
@@ -63,8 +63,7 @@ Teodoro Sanguškos dalis buvo Liubomlis.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187253
 ## Citatos
 
 - id: c-170311

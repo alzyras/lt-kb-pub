@@ -70,7 +70,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai palaiko datą, o pradinis teiginys turi bibliografinio triukšmo."
   pagrindžia:
     - c-85365
-
+    - c-003
 <a id="claim-t-89404"></a>
 - t-002
   global_id: t-89404
@@ -135,8 +135,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89403
 ## Citatos
 
 - id: c-85362
@@ -166,7 +165,6 @@ Nenurodyta
   pagrindzia:
     - t-89404
     - t-89405
-
 - id: c-85363
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -200,7 +198,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89406
-
 - id: c-85365
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

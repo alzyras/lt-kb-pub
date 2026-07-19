@@ -91,7 +91,6 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169575
-
 - id: c-154281
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -54,7 +54,7 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85833
-
+    - c-002
 <a id="claim-t-89924"></a>
 - t-002
   global_id: t-89924
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   temporalinis_llm_pakomentavimas: "Pašalintas išnašos ir OCR triukšmas; citata remia tą patį vaidmenį."
   pagrindžia:
     - c-85832
-
+    - c-85834
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikautojų, kurių žygius vadino nuostabiais ir nepaprastais.'
@@ -94,8 +94,7 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-89922
 ## Citatos
 
 - id: c-85832
@@ -147,7 +146,6 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89922
-
 - id: c-85834
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -170,4 +168,4 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-89923
+    - t-89924

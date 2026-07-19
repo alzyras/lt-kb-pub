@@ -288,7 +288,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182791
-
 - id: c-166195
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -308,7 +307,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182792
-
 - id: c-166196
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -328,7 +326,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182797
-
 - id: c-166197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -358,7 +355,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182788
-
 - id: c-166198
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -379,7 +375,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182795
-
 - id: c-166199
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -448,7 +443,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182793
-
 - id: c-166200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -468,7 +462,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182789
-
 - id: c-166201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -518,7 +511,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182794
-
 - id: c-166202
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -541,7 +533,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182796
-
 - id: c-166203
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -563,7 +554,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182787
-
 - id: c-166204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -589,7 +579,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182790
-
 - id: c-176804
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

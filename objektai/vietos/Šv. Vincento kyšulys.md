@@ -49,7 +49,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175685
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šv. Vincento kyšulys Narbuto aprašyme buvo jūros kelyje, kuris ėjo pro Heraklio stulpus.'
@@ -66,8 +66,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192915
 ## Citatos
 
 - id: c-175685

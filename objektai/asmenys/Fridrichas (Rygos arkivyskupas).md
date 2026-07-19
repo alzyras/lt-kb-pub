@@ -305,7 +305,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54964
-
 - id: c-55508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -349,7 +348,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54965
-
 - id: c-55509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -379,7 +377,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   pagrindzia:
     - t-54966
     - t-89710
-
 - id: c-55510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -402,7 +399,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89711
-
 - id: c-55511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -431,7 +427,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   pagrindzia:
     - t-54967
     - t-89716
-
 - id: c-55512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -454,7 +449,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54968
-
 - id: c-55513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -483,7 +477,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54969
-
 - id: c-85642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -511,7 +504,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89712
-
 - id: c-85645
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -540,7 +532,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89714
-
 - id: c-85646
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

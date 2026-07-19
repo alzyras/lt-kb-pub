@@ -53,7 +53,7 @@ Dusburgietis teigia, kad otrębski J.
   temporalinis_llm_pakomentavimas: "Citata nurodo straipsnio autorių, pavadinimą, leidinį, vietą ir metus."
   pagrindžia:
     - c-61841
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Otrębskio „Über die Herkunft des Preussennamens“ 1955 m. publikuotas Poznanės leidinyje „Lingua Posnaniensis“.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad otrębski J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61209
 ## Citatos
 
 - id: c-61841

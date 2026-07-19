@@ -43,7 +43,7 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168660
-
+    - c-001
 <a id="claim-t-192851"></a>
 - t-002
   global_id: t-192851
@@ -64,6 +64,7 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175621
+    - c-002
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190991|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vaizduoja kaip valdovą, rengusį plėšikiškus žygius į Lenkiją, Rusią ir Mazoviją bei tironiškai elgusįsi su valdiniais.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-190927|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis savo laikais dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo ir kitur.
@@ -106,8 +107,7 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185299
 - c-002
   santrauka: 'Narbutas spėja, kad Strijkovskio prie Raigardo ir Insterburgo Prūsijoje pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -128,8 +128,7 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192851
 ## Citatos
 
 - id: c-168660
@@ -167,7 +166,6 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185299
-
 - id: c-175621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -193,6 +191,5 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192851
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

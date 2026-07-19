@@ -49,7 +49,7 @@ Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171843
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska ziemia ir vokišku Kuhrland.'
@@ -66,8 +66,7 @@ Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188954
 ## Citatos
 
 - id: c-171843

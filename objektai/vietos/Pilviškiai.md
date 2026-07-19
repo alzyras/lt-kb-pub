@@ -96,7 +96,6 @@ Pilviškių vis. Pilviškių vls.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42028
-
 - id: c-45275
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

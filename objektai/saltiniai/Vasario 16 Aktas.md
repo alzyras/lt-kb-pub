@@ -191,7 +191,6 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   pagrindzia:
     - t-71831
     - t-71835
-
 - id: c-23994
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -216,7 +215,6 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71837
-
 - id: c-23995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -251,8 +249,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-71833
-
+    - t-71838
 - id: c-70349
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

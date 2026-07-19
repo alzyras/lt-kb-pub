@@ -48,7 +48,7 @@ Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168845
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.'
@@ -76,8 +76,7 @@ Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185484
 ## Citatos
 
 - id: c-168845

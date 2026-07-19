@@ -109,7 +109,6 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40235
-
 - id: c-167133
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

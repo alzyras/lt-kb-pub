@@ -50,7 +50,7 @@ Dusburgietis teigia, kad nalepa J..
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61825
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Nalepos straipsnis apie jotvingišką Kamienne ežero vardą Suvalkų krašte paskelbtas „Rocznik Białostocki“ 15 tome.'
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad nalepa J..
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61193
 ## Citatos
 
 - id: c-61825

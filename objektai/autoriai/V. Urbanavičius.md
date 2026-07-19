@@ -114,7 +114,6 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31050
-
 - id: c-33185
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -137,7 +136,6 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31051
-
 - id: c-33186
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

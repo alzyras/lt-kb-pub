@@ -91,7 +91,7 @@ Nenurodyta
   pagrindžia:
     - c-63709
     - c-63710
-
+    - c-001
 <a id="claim-t-196957"></a>
 - t-003
   global_id: t-196957
@@ -130,8 +130,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62870
 ## Citatos
 
 - id: c-63709
@@ -162,7 +161,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62870
-
 - id: c-63710
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -190,7 +188,6 @@ Nenurodyta
   pagrindzia:
     - t-62870
     - t-196957
-
 - id: c-63711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -80,7 +80,6 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03184
-
 - id: c-175911
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

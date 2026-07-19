@@ -151,7 +151,6 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195534
-
 - id: c-46355
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -171,7 +170,6 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195534
-
 - id: c-177952
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -197,7 +195,6 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195538
-
 - id: c-177953
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -220,7 +217,6 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195535
-
 - id: c-177954
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -197,7 +197,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111432
-
 - id: c-42272
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -223,7 +222,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111435
-
 - id: c-103024
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -240,7 +238,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111437
-
 - id: c-103025
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -274,7 +271,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111436
-
 - id: c-103026
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -299,7 +295,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111433
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]
 - Priešai: [[objektai/asmenys/Timūr-Kutlukas]]

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuot
   semantiniai_rysiai: "Gediminas buvo priešas Kryžiuočių ordinas (0.68)"
   pagrindžia:
     - c-59747
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gedimino laiškai Europos miestams, ordinams ir „kiekvienam geros valios žmogui“ turėjo platų tarptautinį atgarsį.'
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59115
 ## Citatos
 
 - id: c-59747

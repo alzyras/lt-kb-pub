@@ -44,7 +44,7 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61891
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Prätoriaus „Praetorio M. Deliciae Prussicae oder Preussische Schawbühne“ 1-7 knygų rankraštis nurodytas WU Mokslo muziejaus fonduose Nr. 1365.'
@@ -58,8 +58,7 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61259
 ## Citatos
 
 - id: c-61891

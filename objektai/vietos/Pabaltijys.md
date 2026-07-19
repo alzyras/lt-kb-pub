@@ -93,7 +93,6 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182874
-
 - id: c-175964
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

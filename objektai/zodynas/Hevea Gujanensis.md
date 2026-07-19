@@ -56,7 +56,7 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175091
-
+    - c-001
 <a id="claim-t-192257"></a>
 - t-002
   global_id: t-192257
@@ -68,7 +68,7 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175091
-
+    - c-001
 <a id="claim-t-192258"></a>
 - t-003
   global_id: t-192258
@@ -80,7 +80,7 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175091
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -100,10 +100,9 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-001
-    - t-002
-
+    - t-192256
+    - t-192257
+    - t-192258
 ## Citatos
 
 - id: c-175091

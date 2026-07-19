@@ -56,7 +56,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-43763
-
+    - c-167188
 <a id="claim-t-69032"></a>
 - t-002
   global_id: t-69032
@@ -76,7 +76,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškų faktą apie Prienų vaidmenį Kauno puolimo plane."
   pagrindžia:
     - c-43761
-
+    - c-167187
 <a id="claim-t-69034"></a>
 - t-003
   global_id: t-69034
@@ -177,7 +177,6 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69034
-
 - id: c-43761
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -236,7 +235,6 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69032
-
 - id: c-43763
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -251,7 +249,6 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69030
-
 - id: c-167187
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -342,7 +339,6 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188806
-
 - id: c-171696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -364,6 +360,5 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188807
-
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/P. Liatukas]]

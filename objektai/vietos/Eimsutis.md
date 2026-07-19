@@ -75,6 +75,7 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59177
+    - c-002
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-60182|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184127|Skomantas]]: Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.
@@ -102,8 +103,7 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58545
 ## Citatos
 
 - id: c-59176
@@ -133,7 +133,6 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58544
-
 - id: c-59177
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

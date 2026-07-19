@@ -50,7 +50,7 @@ Markopolius Narbutas apibūdina kaip požemio dievaičius, kuriuos ypač garbino
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172196
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Markopolius Narbutas apibūdina kaip požemio dievaičius, kuriuos ypač garbino didikai ir bajorai.'
@@ -69,8 +69,7 @@ Markopolius Narbutas apibūdina kaip požemio dievaičius, kuriuos ypač garbino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189309
 ## Citatos
 
 - id: c-172196

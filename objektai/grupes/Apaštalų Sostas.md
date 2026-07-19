@@ -118,7 +118,6 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172076
-
 - id: c-156502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -154,7 +153,6 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172079
-
 - id: c-156504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

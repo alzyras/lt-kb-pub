@@ -87,7 +87,6 @@ Duburys šiame šaltinyje yra upuokšnis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195481
-
 - id: c-177902
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

@@ -88,7 +88,6 @@ Hubatsch^158.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64883
-
 - id: c-65468
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -53,7 +53,7 @@ Dusburgietis teigia, kad mažiulis V.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidinį, metus, tomą ir puslapius."
   pagrindžia:
     - c-61798
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Mažiulio „Dėl Neringos vardo“ paskelbtas „Lietuvių kalbotyros klausimų“ 3 tome 1960 m., p. 301–315.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad mažiulis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61166
 ## Citatos
 
 - id: c-61798

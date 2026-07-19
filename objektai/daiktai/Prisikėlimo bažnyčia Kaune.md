@@ -87,6 +87,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26412
-
 ## Ryšiai
 - Prisikėlimo bažnyčia Kaune priklausė [[objektai/vietos/Kaunas]]

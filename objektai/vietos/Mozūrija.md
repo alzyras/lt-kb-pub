@@ -233,7 +233,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79845
-
 - id: c-76766
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -259,7 +258,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   pagrindzia:
     - t-79842
     - t-79843
-
 - id: c-184433
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -281,7 +279,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201083
-
 - id: c-184434
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -304,7 +301,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201084
-
 - id: c-184435
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -335,7 +331,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201085
-
 - id: c-184436
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -359,6 +354,5 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201086
-
 ## Ryšiai
 - Puolė Mozūriją: [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

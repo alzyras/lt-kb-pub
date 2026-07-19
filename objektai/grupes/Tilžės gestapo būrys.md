@@ -78,6 +78,5 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20049
-
 ## Ryšiai
 - Tilžės gestapo būrys puolė [[objektai/grupes/Žydai]]

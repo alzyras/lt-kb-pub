@@ -90,7 +90,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22241
-
 - id: c-166845
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

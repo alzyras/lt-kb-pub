@@ -55,7 +55,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-87100
-
+    - c-002
 <a id="claim-t-91388"></a>
 - t-002
   global_id: t-91388
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87101
-
+    - c-003
 <a id="claim-t-91389"></a>
 - t-003
   global_id: t-91389
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87103
-
+    - c-004
 <a id="claim-t-91390"></a>
 - t-004
   global_id: t-91390
@@ -107,7 +107,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   semantiniai_rysiai: "Skalviai gyveno Skalvių pilis (pilis, XIII a.) (0.88); Skalvių pilis (pilis, XIII a.) priklausė Skalviai (0.78)"
   pagrindžia:
     - c-87099
-
+    - c-001
 <a id="claim-t-91391"></a>
 - t-005
   global_id: t-91391
@@ -146,7 +146,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   temporalinis_llm_pakomentavimas: "Citata leidžia susieti Skalvių pilies pastatymą su platesniu Ragainės ir Skalvių pilių statybos epizodu."
   pagrindžia:
     - c-87099
-
+    - c-001
 <a id="claim-t-194548"></a>
 - t-007
   global_id: t-194548
@@ -182,9 +182,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-    - t-004
-
+    - t-91390
+    - t-91392
 - c-002
   santrauka: 'Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -200,8 +199,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91387
 - c-003
   santrauka: 'Lietuviai pasitraukdami ištrypė ir sunaikino visus pasėlius Skalvių ir Ragainės pilių laukuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -220,8 +218,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-91388
 - c-004
   santrauka: 'Iš Ragainės pabėgęs ginklanešys pasisiūlė lietuvių karaliui perduoti Skalvių pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -242,8 +239,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-91389
 ## Citatos
 
 - id: c-87099
@@ -270,7 +266,6 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   pagrindzia:
     - t-91390
     - t-91392
-
 - id: c-87100
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -295,7 +290,6 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91387
-
 - id: c-87101
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -319,7 +313,6 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91388
-
 - id: c-87103
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -346,7 +339,6 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91389
-
 - id: c-87104
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

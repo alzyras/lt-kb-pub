@@ -155,7 +155,6 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   pagrindzia:
     - t-55232
     - t-82034
-
 - id: c-55648
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -191,7 +190,6 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55233
-
 - id: c-55649
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -154,7 +154,6 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79163
-
 - id: c-76241
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -180,7 +179,6 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79162
-
 - id: c-168192
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -214,7 +212,6 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184831
-
 - id: c-168193
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -236,6 +233,5 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184832
-
 ## Ryšiai
 - Stanislovas Kiška gynė [[objektai/vietos/Smolenskas]]

@@ -142,7 +142,6 @@ Nenurodyta
   pagrindzia:
     - t-49169
     - t-49170
-
 - id: c-43084
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

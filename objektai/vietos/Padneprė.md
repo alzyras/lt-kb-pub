@@ -52,7 +52,7 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175617
-
+    - c-001
 <a id="claim-t-192848"></a>
 - t-002
   global_id: t-192848
@@ -117,8 +117,7 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192847
 ## Citatos
 
 - id: c-175617
@@ -147,7 +146,6 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192847
-
 - id: c-175618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -167,6 +165,5 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192848
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Pečenegai]]

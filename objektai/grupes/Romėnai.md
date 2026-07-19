@@ -111,7 +111,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171219
-
+    - c-005
 <a id="claim-t-188327"></a>
 - t-005
   global_id: t-188327
@@ -178,7 +178,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171222
-
+    - c-008
 <a id="claim-t-192452"></a>
 - t-008
   global_id: t-192452
@@ -199,7 +199,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175246
-
+    - c-009
 <a id="claim-t-194864"></a>
 - t-009
   global_id: t-194864
@@ -212,7 +212,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177260
-
+    - c-010
 <a id="claim-t-197515"></a>
 - t-010
   global_id: t-197515
@@ -432,8 +432,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188326
 - c-008
   santrauka: 'Narbutas lietuvių antspaudų naudojimą vietoj parašų lygino su romėnų praktika.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -451,8 +450,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188329
 - c-009
   santrauka: 'Kartaginietis, nenorėdamas parodyti kelio paskui plaukusiam romėnų laivui, įviliojo jį į pavojingas vietas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -475,8 +473,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-192452
 - c-010
   santrauka: 'Sis autorius, kruopščiausiai rin kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės, vadovaudamas romėnų kariuomenei, be to, buvo visiškai atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos susipažinti su to meto mokslininkų požiūriais ¡bei.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -501,8 +498,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-194864
 ## Citatos
 
 - id: c-46394
@@ -524,7 +520,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66064
-
 - id: c-171217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -547,7 +542,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188324
-
 - id: c-171218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -565,7 +559,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188325
-
 - id: c-171219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -587,7 +580,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188326
-
 - id: c-171220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -604,7 +596,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188327
-
 - id: c-171221
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -627,7 +618,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188328
-
 - id: c-171222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -651,7 +641,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188329
-
 - id: c-175246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -678,7 +667,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192452
-
 - id: c-177260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -705,7 +693,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194864
-
 - id: c-179226
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -732,7 +719,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197515
-
 ## Ryšiai
 - Puolė Romėnai: [[objektai/grupes/Herulai]]
 - Kariavo prieš: [[objektai/grupes/Jotvingiai]]

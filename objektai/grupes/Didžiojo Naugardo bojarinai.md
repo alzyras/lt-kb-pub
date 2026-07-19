@@ -78,7 +78,6 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86789
-
 ## Ryšiai
 - Didžiojo Naugardo bojarinai keliavo į [[objektai/vietos/Vilnius]]
 - Didžiojo Naugardo bojarinai sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

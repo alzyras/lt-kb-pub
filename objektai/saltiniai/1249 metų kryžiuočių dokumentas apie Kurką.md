@@ -56,7 +56,7 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170962
-
+    - c-001
 <a id="claim-t-188028"></a>
 - t-002
   global_id: t-188028
@@ -78,7 +78,7 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170962
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -98,9 +98,8 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-188027
+    - t-188028
 ## Citatos
 
 - id: c-170962

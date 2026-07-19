@@ -50,7 +50,7 @@ Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas pan
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172402
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.'
@@ -76,8 +76,7 @@ Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas pan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189514
 ## Citatos
 
 - id: c-172402

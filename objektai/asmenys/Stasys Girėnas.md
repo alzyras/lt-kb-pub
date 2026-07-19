@@ -133,7 +133,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64102
-
 - id: c-166963
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,7 +153,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183570
-
 - id: c-166964
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -173,6 +171,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183571
-
 ## Ryšiai
 - Stasys Girėnas keliavo į [[objektai/vietos/Lietuva]]

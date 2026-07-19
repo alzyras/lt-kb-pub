@@ -915,7 +915,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184400
-
 - id: c-166234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -941,7 +940,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182830
-
 - id: c-166237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -981,7 +979,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182828
-
 - id: c-167193
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -999,7 +996,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183808
-
 - id: c-167194
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1019,7 +1015,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183809
-
 - id: c-167583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1044,7 +1039,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184198
-
 - id: c-167584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1069,7 +1063,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184199
-
 - id: c-167585
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1090,7 +1083,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184200
-
 - id: c-167586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1112,7 +1104,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184201
-
 - id: c-167587
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1132,7 +1123,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184202
-
 - id: c-167588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1159,7 +1149,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184203
-
 - id: c-167765
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1176,7 +1165,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184399
-
 - id: c-168491
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1203,7 +1191,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   pagrindzia:
     - t-185130
     - t-196740
-
 - id: c-168493
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1233,7 +1220,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185132
-
 - id: c-175525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1257,7 +1243,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192755
-
 - id: c-175526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1284,7 +1269,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192756
-
 - id: c-175527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1306,7 +1290,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192757
-
 - id: c-175528
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1336,7 +1319,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192758
-
 - id: c-175529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1364,7 +1346,6 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   pagrindzia:
     - t-192759
     - t-197926
-
 ## Ryšiai
 - Puolė Sembą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jarmerikas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/grupes/Nadruviai]], [[objektai/grupes/Skalviai]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Vytenis (Lietuvos karalius)]], [[objektai/grupes/Žemaičiai]]
 - Užėmė Sembą: [[objektai/asmenys/Jarmerikas]], [[objektai/grupes/Lietuviai]]

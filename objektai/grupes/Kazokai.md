@@ -56,7 +56,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42707
-
+    - c-167047
 <a id="claim-t-65305"></a>
 - t-002
   global_id: t-65305
@@ -275,7 +275,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65308
-
 - id: c-22455
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -295,7 +294,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65307
-
 - id: c-42704
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -319,7 +317,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65305
-
 - id: c-42705
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -339,7 +336,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65306
-
 - id: c-42706
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -365,7 +361,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65309
-
 - id: c-42707
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -387,7 +382,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65304
-
 - id: c-167047
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

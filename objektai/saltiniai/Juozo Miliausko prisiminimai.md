@@ -151,7 +151,6 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78852
-
 - id: c-11238
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -171,7 +170,6 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78851
-
 - id: c-43256
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -194,7 +192,6 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   pagrindzia:
     - t-78850
     - t-78854
-
 - id: c-75984
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -73,7 +73,6 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72757
-
 - id: c-175910
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

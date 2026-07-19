@@ -103,7 +103,6 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195269
-
 - id: c-177634
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -126,7 +125,6 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195270
-
 - id: c-177635
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -146,7 +144,6 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195269
-
 - id: c-177636
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

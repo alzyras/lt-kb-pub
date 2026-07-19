@@ -130,7 +130,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169941
-
 - id: c-154622
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -163,7 +162,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   pagrindzia:
     - t-169940
     - t-169944
-
 - id: c-166889
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

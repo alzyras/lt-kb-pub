@@ -70,6 +70,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39631
-
 ## Ryšiai
 - Pukuveras (Lietuvos karalius) siuntė į [[objektai/vietos/Lenkija]]

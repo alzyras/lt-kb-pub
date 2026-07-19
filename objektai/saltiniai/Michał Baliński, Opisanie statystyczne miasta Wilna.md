@@ -57,7 +57,7 @@ Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174681
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas kaip 1835 m. Vilniuje išleistas veikalas.'
@@ -76,8 +76,7 @@ Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191799
 ## Citatos
 
 - id: c-174681

@@ -313,8 +313,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   susije_objektai: 'mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; llm_object: [[objektai/grupes/Gotai|Gotai]]'
   semantiniai_rysiai: '[[objektai/grupes/Hunai|Hunai]] užkariavo [[objektai/grupes/Gotai|Gotai]]'
   pagrindžia:
-    - c-175193
-
+    - c-009
 <a id="claim-t-192400"></a>
 - t-010
   global_id: t-192400
@@ -325,7 +324,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   sudarymo_pagrindimas: 'Kilmės ir giminystės teiginys pateiktas kaip tyrinėtojų nuomonė, kurią mini Narbutas. Sąmoningai neįtraukta platesnė roksolanų ir variagų hipotezė.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Odinas|Odinas]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Roksolanai|Roksolanai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kulmas'
   pagrindžia:
-    - c-175194
+    - c-010
 - susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191017|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Skiriai sudarė sąjungą su sukilėliais, kartu puolė gotus ir po šio karo patyrė didelį pralaimėjimą.
 - susijęs iš [[objektai/asmenys/Germanarikas.md#claim-t-191149|Germanarikas]]: Narbutas, remdamasis Jordanu, rašo, kad Rytų gotų valdovas Germanarikas užėmė ilgą Vokiečių okeano pakrantę ir pavergė estų tautą.
 - susijęs iš [[objektai/asmenys/Amalas.md#claim-t-191364|Amalas]]: Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria gotų genčių lygos pradžią.
@@ -547,8 +546,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-192399
 - c-010
   santrauka: 'Narbutas mini senovės tyrinėtojų nuomonę, kad gotai buvo giminingi alanams dar asų arba Odino amžiuje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -583,8 +581,7 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-192400
 ## Citatos
 
 - id: c-33261
@@ -610,7 +607,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31185
-
 - id: c-171082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -634,7 +630,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188188
-
 - id: c-171084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -652,7 +647,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188190
-
 - id: c-171085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -679,7 +673,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188191
-
 - id: c-175189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -712,7 +705,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   pagrindzia:
     - t-192395
     - t-197502
-
 - id: c-175190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -735,7 +727,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192396
-
 - id: c-175191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -760,7 +751,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192397
-
 - id: c-175192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -785,7 +775,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192398
-
 - id: c-175195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -807,7 +796,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192401
-
 - id: c-175196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -835,7 +823,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   pagrindzia:
     - t-192402
     - t-197503
-
 - id: c-175197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -857,7 +844,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192403
-
 - id: c-176965
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -888,7 +874,6 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194565
-
 ## Ryšiai
 - Priešai: [[objektai/grupes/Herulai]]
 - Turėjo valdovą: [[objektai/asmenys/Amalas]], [[objektai/asmenys/Germanarikas]]

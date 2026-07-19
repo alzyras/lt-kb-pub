@@ -48,7 +48,7 @@ Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie v
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174505
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą.'
@@ -76,8 +76,7 @@ Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191623
 ## Citatos
 
 - id: c-174505

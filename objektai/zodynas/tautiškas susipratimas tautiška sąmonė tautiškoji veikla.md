@@ -145,7 +145,6 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
     - t-104176
     - t-182980
     - t-193161
-
 - id: c-97138
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,7 +164,6 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-104177
-
 - id: c-97139
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

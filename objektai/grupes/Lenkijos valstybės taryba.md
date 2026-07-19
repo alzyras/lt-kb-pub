@@ -122,7 +122,6 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74514
-
 - id: c-72548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -148,7 +147,6 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74512
-
 - id: c-72549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -174,7 +172,6 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74515
-
 - id: c-72550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

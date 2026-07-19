@@ -95,7 +95,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171466
-
+    - c-003
 <a id="claim-t-197422"></a>
 - t-004
   global_id: t-197422
@@ -128,8 +128,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188577
 ## Citatos
 
 - id: c-21851
@@ -151,7 +150,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19103
-
 - id: c-21852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -171,7 +169,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19102
-
 - id: c-171466
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

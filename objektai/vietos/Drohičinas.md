@@ -346,7 +346,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   pagrindzia:
     - t-93931
     - t-93934
-
 - id: c-46484
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -369,7 +368,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93937
-
 - id: c-89183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -396,7 +394,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93933
-
 - id: c-89184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -424,7 +421,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   pagrindzia:
     - t-93932
     - t-93935
-
 - id: c-89185
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -442,7 +438,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93936
-
 - id: c-89186
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -462,7 +457,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93938
-
 - id: c-168306
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -503,7 +497,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   pagrindzia:
     - t-184945
     - t-196680
-
 - id: c-170521
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -534,7 +527,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187573
-
 - id: c-175420
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -558,7 +550,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192650
-
 - id: c-175923
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -577,7 +568,6 @@ Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193178
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Konradas]]
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

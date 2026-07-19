@@ -97,7 +97,6 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72033
-
 - id: c-70470
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

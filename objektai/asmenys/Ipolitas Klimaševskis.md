@@ -99,6 +99,7 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-169843
+    - c-002
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186807|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.
 - susijęs iš Mogiliovcai: Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį.
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
@@ -126,8 +127,7 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   patikimumo_lygis: aukstas
   patikimumo_saltinis: tiesioginė-citata
   pagrindžia:
-    - t-003
-
+    - t-186506
 ## Citatos
 
 - id: c-169842
@@ -150,7 +150,6 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186504
-
 - id: c-169843
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -175,7 +174,6 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186506
-
 - id: c-169844
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

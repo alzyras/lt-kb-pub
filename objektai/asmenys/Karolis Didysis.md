@@ -65,6 +65,5 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78062
-
 ## Ryšiai
 - Karolis Didysis surengė žygį į [[objektai/vietos/Italija]]

@@ -53,7 +53,7 @@ Dusburgietis teigia, kad kučinskas A.
   temporalinis_llm_pakomentavimas: "Citata leidžia teigti leidimo vietą ir metus."
   pagrindžia:
     - c-61750
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad kučinskas A.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61118
 ## Citatos
 
 - id: c-61750

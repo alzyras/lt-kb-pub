@@ -63,7 +63,7 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175035
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -85,11 +85,7 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
-
+    - t-192155
 ## Citatos
 
 - id: c-175035

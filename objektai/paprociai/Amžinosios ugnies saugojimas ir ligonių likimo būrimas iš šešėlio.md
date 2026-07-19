@@ -83,7 +83,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177019
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Jie staty davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo įstrižai arba atrodydavo esąs šiek tiek nukrypęs į.'
@@ -111,8 +111,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194620
 ## Citatos
 
 - id: c-171006
@@ -138,7 +137,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187999
-
 - id: c-177019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

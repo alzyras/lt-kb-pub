@@ -84,7 +84,6 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86126
-
 - id: c-82105
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

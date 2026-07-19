@@ -120,7 +120,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171289
-
+    - c-004
 <a id="claim-t-190695"></a>
 - t-005
   global_id: t-190695
@@ -144,7 +144,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173577
-
+    - c-006
 <a id="claim-t-193582"></a>
 - t-006
   global_id: t-193582
@@ -203,8 +203,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188399
 - c-006
   santrauka: 'Teodoro Narbuto vertinimu, Dionizo Poškos 1829 m. straipsnis apie Lietuvos ir Žemaičių istorijos rašymą buvo literatūrinis testamentas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -224,8 +223,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190695
 ## Citatos
 
 - id: c-06625
@@ -252,7 +250,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05729
-
 - id: c-06627
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -272,7 +269,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05730
-
 - id: c-171288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -292,7 +288,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188398
-
 - id: c-171289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -316,7 +311,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188399
-
 - id: c-173577
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -342,7 +336,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   pagrindzia:
     - t-190695
     - t-197585
-
 - id: c-176257
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -365,7 +358,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193582
-
 - id: c-179106
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -115,7 +115,6 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79157
-
 - id: c-76235
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -144,6 +143,5 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
   pagrindzia:
     - t-79156
     - t-79158
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

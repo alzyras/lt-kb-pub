@@ -41,7 +41,7 @@ Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavim�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177249
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavimų, išlikusių Šventajame rašte apie žmonių giminės kilmę iš vienos pirmo sios šeimos, apie žmonių pagausėjimą pirmiausia Azijoje, pa galiau apie jų atsikraustymą iš ten į Europą.'
@@ -63,8 +63,7 @@ Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavim�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194853
 ## Citatos
 
 - id: c-177249

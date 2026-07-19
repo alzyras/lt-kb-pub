@@ -131,7 +131,6 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19661
-
 - id: c-177947
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -157,7 +156,6 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195529
-
 - id: c-177948
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -177,7 +175,6 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195533
-
 - id: c-177949
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -198,7 +195,6 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195531
-
 - id: c-177950
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

@@ -100,7 +100,6 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189505
-
 - id: c-172394
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

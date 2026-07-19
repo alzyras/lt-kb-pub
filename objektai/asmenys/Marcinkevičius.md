@@ -82,6 +82,5 @@ Marcinkevičių ir dar vieną rusą karininką.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39596
-
 ## Ryšiai
 - Puolė Marcinkevičių: [[objektai/asmenys/Tigras]]

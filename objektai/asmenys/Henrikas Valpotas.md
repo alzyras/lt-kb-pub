@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   semantiniai_rysiai: "Henrikas Valpotas buvo palaidotas Akonas (0.96)"
   pagrindžia:
     - c-60774
-
+    - c-002
 <a id="claim-t-60142"></a>
 - t-002
   global_id: t-60142
@@ -103,8 +103,7 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60141
 ## Citatos
 
 - id: c-60773
@@ -141,7 +140,6 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60142
-
 - id: c-60774
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -167,6 +165,5 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60141
-
 ## Ryšiai
 - Henrikas Valpotas buvo palaidotas [[objektai/vietos/Akonas]]

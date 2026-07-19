@@ -109,7 +109,6 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79168
-
 - id: c-76242
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -130,7 +129,6 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79166
-
 - id: c-76244
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

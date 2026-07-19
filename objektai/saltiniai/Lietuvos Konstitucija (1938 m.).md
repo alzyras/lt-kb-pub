@@ -119,7 +119,6 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45704
-
 - id: c-23838
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -141,7 +140,6 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45701
-
 - id: c-48416
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

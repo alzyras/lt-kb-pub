@@ -87,6 +87,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41184
-
 ## Ryšiai
 - Turkijos kariuomenė puolė [[objektai/vietos/Sučiava]]

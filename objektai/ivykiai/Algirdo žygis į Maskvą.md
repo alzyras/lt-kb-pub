@@ -70,7 +70,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170437
-
+    - c-003
 <a id="claim-t-187462"></a>
 - t-006
   global_id: t-187462
@@ -88,7 +88,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170437
-
+    - c-003
 <a id="claim-t-187463"></a>
 - t-007
   global_id: t-187463
@@ -106,7 +106,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170438
-
+    - c-004
 <a id="claim-t-187464"></a>
 - t-008
   global_id: t-187464
@@ -125,7 +125,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170437
-
+    - c-003
 <a id="claim-t-187465"></a>
 - t-009
   global_id: t-187465
@@ -143,7 +143,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170438
-
+    - c-004
 <a id="claim-t-187466"></a>
 - t-010
   global_id: t-187466
@@ -161,7 +161,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170438
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -199,10 +199,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-001
-    - t-004
-
 - c-002
   santrauka: 'Legenda apie Algirdo žygį į Maskvą yra Bychovco kronikoje, bet jos nėra Trumpajame ir kituose Platesniojo sąvado nuorašuose.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -230,8 +226,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -264,10 +258,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-006
-    - t-008
-
+    - t-187458
+    - t-187462
+    - t-187464
 - c-004
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -294,10 +287,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-    - t-009
-    - t-007
-
+    - t-187463
+    - t-187465
+    - t-187466
 ## Citatos
 
 - id: c-170437
@@ -338,7 +330,6 @@ Nenurodyta
     - t-187458
     - t-187462
     - t-187464
-
 - id: c-170438
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

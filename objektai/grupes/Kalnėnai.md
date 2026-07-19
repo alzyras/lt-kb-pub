@@ -153,7 +153,6 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   pagrindzia:
     - t-65270
     - t-65271
-
 - id: c-10115
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -170,7 +169,6 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   pagrindzia:
     - t-65270
     - t-65272
-
 - id: c-10116
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

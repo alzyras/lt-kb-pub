@@ -90,9 +90,6 @@ Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-174343

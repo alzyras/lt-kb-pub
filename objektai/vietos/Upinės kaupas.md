@@ -89,7 +89,6 @@ Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188970
-
 - id: c-177152
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

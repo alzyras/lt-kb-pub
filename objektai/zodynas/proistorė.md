@@ -144,7 +144,6 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - t-05457
     - t-05458
     - t-05608
-
 - id: c-69344
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -161,7 +160,6 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05457
-
 - id: c-69345
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -70,7 +70,7 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85625
-
+    - c-001
 <a id="claim-t-89687"></a>
 - t-003
   global_id: t-89687
@@ -104,7 +104,7 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85625
-
+    - c-001
 <a id="claim-t-197064"></a>
 - t-005
   global_id: t-197064
@@ -142,9 +142,8 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-002
-
+    - t-89686
+    - t-89688
 ## Citatos
 
 - id: c-85625
@@ -176,7 +175,6 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   pagrindzia:
     - t-89686
     - t-89688
-
 - id: c-85627
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -168,7 +168,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
     - t-23221
     - t-23222
     - t-23223
-
 - id: c-166732
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

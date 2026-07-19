@@ -72,6 +72,7 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-180529
+    - c-169799
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195017|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.
 - susijęs iš Gomelis: Uzos upė įteka į Sožą truputį žemiau Gomelio.
 ## Citatos
@@ -102,7 +103,6 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198527
-
 - id: c-180529
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -125,6 +125,31 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   citata_rodoma: "Pagal PSRL paskelbtą tekstą Bychovco kronika buvo \ntrečią kartą paskelbta 1966 m., N. Ulaščiko išversta \nį dabartinę rusų kalbą ir išspausdinta TSRS Mokslų \nAkademijos Istorijos instituto serijoje „TSRS tautų is­\ntoriniai paminklai\" '°. Sis leidimas atgaivino susidomė­\njimą Bychovco kronika, stimuliuodamas naujus šio LD K  \nraštijos paminklo tyrinėjimus tiek TSRS, tiek už jos \nribų.\nPrie Bychovco kronikos vertimo N. Ulaščikas pri­\ndėjo įvadą, kuriame mėginama spręsti jos parašymo \nvietos ir autorystės klausimas, davė trumpų paaiškini­\nmų apie kai kurias tekste minimas vietoves, retes­\nnius terminus ir kai kurias kitas teksto vietas."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-198528
+- id: c-169799
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Pagal PSRL paskelbtą tekstą Bychovco kronika buvo
+    trečią kartą paskelbta 1966 m., N. Ulaščiko išversta
+    į dabartinę rusų kalbą ir išspausdinta TSRS Mokslų
+    Akademijos Istorijos instituto serijoje „TSRS tautų is­
+    toriniai paminklai" '°. Sis leidimas atgaivino susidomė­
+    jimą Bychovco kronika, stimuliuodamas naujus šio LD K
+    raštijos paminklo tyrinėjimus tiek TSRS, tiek už jos
+    ribų.
+    Prie Bychovco kronikos vertimo N. Ulaščikas pri­
+    dėjo įvadą, kuriame mėginama spręsti jos parašymo
+    vietos ir autorystės klausimas, davė trumpų paaiškini­
+    mų apie kai kurias tekste minimas vietoves, retes­
+    nius terminus ir kai kurias kitas teksto vietas.
+  citata_rodoma: "Prie Bychovco kronikos vertimo N. Ulaščikas pri­\ndėjo įvadą, kuriame mėginama spręsti jos parašymo \nvietos ir autorystės klausimas, davė trumpų paaiškini­\nmų apie kai kurias tekste minimas vietoves, retes­\nnius terminus ir kai kurias kitas teksto vietas."
+  statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

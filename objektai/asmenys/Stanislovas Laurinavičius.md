@@ -128,7 +128,6 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190077
-
 - id: c-175373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -146,7 +145,6 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192602
-
 - id: c-179190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -169,7 +167,6 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197443
-
 - id: c-179351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

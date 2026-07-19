@@ -48,6 +48,7 @@ Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168647
+    - c-001
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184519|Lenkai]]: Kai kurių asmenų maištingi sumanymai išardė sutartimi sutvirtintą lietuvių draugystę su lenkais.
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,8 +84,7 @@ Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185286
 ## Citatos
 
 - id: c-168647

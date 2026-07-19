@@ -122,7 +122,6 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60195
-
 - id: c-60828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -144,7 +143,6 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60196
-
 ## Ryšiai
 - Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas [[objektai/vietos/Lietuva]]
 - Pukuveras (Lietuvos karalius, XIII a.) siuntė į [[objektai/vietos/Lenkija]]

@@ -99,7 +99,6 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40159
-
 - id: c-44361
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -121,6 +120,5 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40160
-
 ## Ryšiai
 - J. Mikoliūnas gynė [[objektai/vietos/Kėdainiai]]

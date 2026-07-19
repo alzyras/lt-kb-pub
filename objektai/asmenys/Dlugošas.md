@@ -57,7 +57,7 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-30127
-
+    - c-167742
 <a id="claim-t-30224"></a>
 - t-002
   global_id: t-30224
@@ -96,7 +96,7 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171413
-
+    - c-004
 <a id="claim-t-197724"></a>
 - t-004
   global_id: t-197724
@@ -171,8 +171,7 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188524
 ## Citatos
 
 - id: c-30127
@@ -192,7 +191,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30223
-
 - id: c-32717
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -214,7 +212,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30224
-
 - id: c-167742
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -253,7 +250,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188524
-
 - id: c-179309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

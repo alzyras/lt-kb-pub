@@ -126,7 +126,6 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185446
-
 - id: c-168808
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -153,7 +152,6 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
   pagrindzia:
     - t-185447
     - t-196123
-
 - id: c-178541
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

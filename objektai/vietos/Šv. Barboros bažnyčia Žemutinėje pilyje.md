@@ -69,6 +69,5 @@ Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86276
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

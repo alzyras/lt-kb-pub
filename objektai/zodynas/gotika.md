@@ -99,7 +99,6 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22154
-
 - id: c-24841
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

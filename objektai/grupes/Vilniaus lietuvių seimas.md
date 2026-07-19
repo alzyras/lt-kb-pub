@@ -76,7 +76,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168800
-
+    - c-002
 <a id="claim-t-185440"></a>
 - t-003
   global_id: t-185440
@@ -126,8 +126,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185439
 ## Citatos
 
 - id: c-168799
@@ -151,7 +150,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185438
-
 - id: c-168800
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -190,7 +188,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185439
-
 - id: c-168801
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

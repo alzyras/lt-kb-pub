@@ -100,7 +100,6 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36796
-
 - id: c-38743
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -121,4 +120,4 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-36795
+    - t-36797

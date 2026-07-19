@@ -69,7 +69,6 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67359
-
 - id: c-67298
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

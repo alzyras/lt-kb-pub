@@ -130,7 +130,6 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72602
-
 - id: c-71007
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -149,7 +148,6 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72604
-
 - id: c-71008
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -166,7 +164,6 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72601
-
 - id: c-71010
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -188,6 +185,5 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   pagrindzia:
     - t-72605
     - t-193122
-
 ## Ryšiai
 - Pijarų ordinas keliavo į [[objektai/vietos/Lietuva]]

@@ -46,7 +46,7 @@ Narbutas kalbinę formuluotę sieja su tėvo kilmės aiškinimu ir iš jos išve
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175008
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.'
@@ -74,8 +74,7 @@ Narbutas kalbinę formuluotę sieja su tėvo kilmės aiškinimu ir iš jos išve
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192124
 ## Citatos
 
 - id: c-175008

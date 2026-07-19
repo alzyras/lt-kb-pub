@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia Sicilijoje vykusias prancūzų žudynes ir leidžia pašalinti OCR triukšmą."
   pagrindžia:
     - c-63130
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1281 m. Sicilijos karalystėje palermiečiai išžudė ten gyvenusius prancūzus, tiek vyrus, tiek moteris.'
@@ -97,8 +97,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62476
 ## Citatos
 
 - id: c-63130

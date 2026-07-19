@@ -92,7 +92,7 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-175811
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -109,8 +109,7 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-193041
 ## Citatos
 
 - id: c-175808
@@ -135,7 +134,6 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193039
-
 - id: c-175809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -155,7 +153,6 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193040
-
 - id: c-175810
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -174,7 +171,6 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193038
-
 - id: c-175811
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

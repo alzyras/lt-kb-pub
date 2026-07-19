@@ -47,7 +47,7 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-63921
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
@@ -74,8 +74,7 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-63011
 ## Citatos
 
 - id: c-63921

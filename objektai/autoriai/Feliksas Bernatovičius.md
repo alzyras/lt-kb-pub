@@ -62,6 +62,7 @@ Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezde
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173269
+    - c-001
 - susijęs iš [[objektai/autoriai/Felikso Bernatovičiaus.md#claim-t-190387|Felikso Bernatovičiaus]]: Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezdejki, albo Litwini w XIV wieku“.
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,8 +78,7 @@ Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezde
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190386
 ## Citatos
 
 - id: c-173269

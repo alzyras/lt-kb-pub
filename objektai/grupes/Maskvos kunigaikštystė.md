@@ -82,7 +82,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   temporalinis_llm_pakomentavimas: "Reikia aiškesnės, enciklopediškos formuluotės."
   pagrindžia:
     - c-36919
-
+    - c-88238
 <a id="claim-t-92739"></a>
 - t-003
   global_id: t-92739
@@ -194,7 +194,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92734
-
 - id: c-36920
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -218,7 +217,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92737
-
 - id: c-88234
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -240,7 +238,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92736
-
 - id: c-88235
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -262,7 +259,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92736
-
 - id: c-88236
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -285,7 +281,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92738
-
 - id: c-88237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -316,8 +311,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-92735
-
+    - t-92739
 - id: c-88238
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -357,7 +351,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92733
-
 - id: c-175878
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

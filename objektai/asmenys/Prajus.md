@@ -41,7 +41,7 @@ Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolem
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174337
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolemėjo raštuose nubraižytu žemėlapiu.'
@@ -60,8 +60,7 @@ Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolem
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191455
 ## Citatos
 
 - id: c-174337

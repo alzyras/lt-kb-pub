@@ -124,7 +124,6 @@ Mickevičiaus, J.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19368
-
 - id: c-176256
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -145,7 +144,6 @@ Mickevičiaus, J.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193581
-
 - id: c-184221
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"

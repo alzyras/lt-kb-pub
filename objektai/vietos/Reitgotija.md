@@ -76,6 +76,5 @@ Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192895
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Herulai]]

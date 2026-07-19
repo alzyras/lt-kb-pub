@@ -135,7 +135,6 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59998
-
 - id: c-60630
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -159,7 +158,6 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59999
-
 - id: c-60631
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -181,7 +179,6 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59996
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Mata]]
 - Pipinas mirė [[objektai/vietos/Torunė]]

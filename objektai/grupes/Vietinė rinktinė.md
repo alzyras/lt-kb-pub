@@ -182,7 +182,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66259
-
 - id: c-22800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -200,7 +199,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66258
-
 - id: c-22801
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -221,7 +219,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66257
-
 - id: c-42976
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -244,7 +241,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66260
-
 - id: c-66563
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -262,7 +258,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66256
-
 - id: c-166580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -280,7 +275,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183193
-
 - id: c-176244
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

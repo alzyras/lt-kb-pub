@@ -84,8 +84,7 @@ Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-
+    - t-187309
+    - t-187310
 ## Ryšiai
 - Užėmė Rohačevą: [[objektai/grupes/Maskvėnai]]

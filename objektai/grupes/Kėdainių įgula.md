@@ -86,7 +86,6 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78194
-
 - id: c-75493
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

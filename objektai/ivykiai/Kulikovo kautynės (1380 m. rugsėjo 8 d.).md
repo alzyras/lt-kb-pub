@@ -71,7 +71,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį."
   pagrindžia:
     - c-33408
-
+    - c-167709
 ## Citatos
 
 - id: c-33408
@@ -92,7 +92,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31435
-
 - id: c-167709
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

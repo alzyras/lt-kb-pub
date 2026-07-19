@@ -94,7 +94,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167437
-
+    - c-008
 <a id="claim-t-59836"></a>
 - t-004
   global_id: t-59836
@@ -186,7 +186,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60472
-
+    - c-007
 <a id="claim-t-197065"></a>
 - t-009
   global_id: t-197065
@@ -221,8 +221,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-59840
 - c-008
   santrauka: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -243,9 +242,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-    - t-003
-
+    - t-59835
 ## Citatos
 
 - id: c-60465
@@ -269,7 +266,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   pagrindzia:
     - t-59839
     - t-197065
-
 - id: c-60466
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -291,7 +287,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59833
-
 - id: c-60467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -310,7 +305,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59838
-
 - id: c-60469
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -327,7 +321,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59834
-
 - id: c-60470
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -348,7 +341,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59837
-
 - id: c-60471
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -366,7 +358,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59836
-
 - id: c-60472
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -391,7 +382,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59840
-
 - id: c-167437
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -112,7 +112,6 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64647
-
 - id: c-36662
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -133,7 +132,6 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64646
-
 - id: c-65317
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

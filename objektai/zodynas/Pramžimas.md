@@ -49,6 +49,7 @@ Narbutas Pramžimą laikė pirmuoju ir visuotinai paplitusiu Senojo pasaulio die
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172021
+    - c-001
 - susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190352|Homeras]]: Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą apie geresnio patarimo radimą.
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,8 +79,7 @@ Narbutas Pramžimą laikė pirmuoju ir visuotinai paplitusiu Senojo pasaulio die
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189133
 ## Citatos
 
 - id: c-172021

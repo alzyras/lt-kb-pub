@@ -71,7 +71,7 @@ Nenurodyta
   pagrindžia:
     - c-63632
     - c-63633
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1255 m. magistras ir broliai pastatė Karaliaučiaus pilį, kurią Čekijos karaliaus garbei pavadino Karaliaus pilimi.'
@@ -91,8 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62819
 - c-003
   santrauka: 'Karaliaučiaus pilis vėliau buvo perkelta ant kalvos ir apjuosta dviem sienomis bei devyniais akmeniniais bokštais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -132,7 +131,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62819
-
 - id: c-63633
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

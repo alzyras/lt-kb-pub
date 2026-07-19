@@ -199,7 +199,6 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   pagrindzia:
     - t-83317
     - t-83319
-
 - id: c-79675
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -228,7 +227,6 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   pagrindzia:
     - t-83320
     - t-83321
-
 - id: c-184237
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"

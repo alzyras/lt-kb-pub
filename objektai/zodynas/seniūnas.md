@@ -91,7 +91,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-183732
-
+    - c-003
 <a id="claim-t-193157"></a>
 - t-003
   global_id: t-193157
@@ -237,8 +237,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-187529
 ## Citatos
 
 - id: c-14711
@@ -257,7 +256,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12581
-
 - id: c-14712
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -278,7 +276,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   pagrindzia:
     - t-12582
     - t-200400
-
 - id: c-175909
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -300,7 +297,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193157
-
 - id: c-183731
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

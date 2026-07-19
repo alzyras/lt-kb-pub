@@ -53,8 +53,7 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
   sudarymo_pagrindimas: 'Mitologinis aiškinimas paliktas su Narbuto atribucija. Išplėstas subjektas ir neperimta kaip neutralus faktas bausmės legenda.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
-    - c-172050
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, nakties karalių ir laiko tarpsnių valdovą, antrą po Saulės.'
@@ -82,8 +81,7 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189162
 ## Citatos
 
 - id: c-177086

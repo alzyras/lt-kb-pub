@@ -148,7 +148,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63395
-
 - id: c-175928
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -165,7 +164,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193184
-
 - id: c-176327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -185,7 +183,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193658
-
 - id: c-176420
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -201,7 +198,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193764
-
 - id: c-177344
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

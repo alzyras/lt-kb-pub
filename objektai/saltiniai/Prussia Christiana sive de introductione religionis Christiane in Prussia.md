@@ -48,7 +48,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174735
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Prussia Christiana sive de introductione religionis Christiane in Prussia“ yra Andriaus Soto veikalas, išleistas 1738 metais.'
@@ -68,8 +68,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191853
 ## Citatos
 
 - id: c-174735

@@ -79,4 +79,4 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-54812
+    - t-54813

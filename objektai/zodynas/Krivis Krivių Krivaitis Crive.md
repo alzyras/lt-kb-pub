@@ -111,7 +111,6 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
   pagrindzia:
     - t-189154
     - t-197369
-
 - id: c-179151
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

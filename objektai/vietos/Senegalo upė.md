@@ -55,7 +55,7 @@ Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Sene
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171953
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Senegalo upės, o vėliau terminas įgavo platesnę reikšmę.'
@@ -74,8 +74,7 @@ Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Sene
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189064
 ## Citatos
 
 - id: c-171953

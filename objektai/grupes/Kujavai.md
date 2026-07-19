@@ -50,6 +50,7 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175756
+    - c-001
 - susijęs iš Kujavija: Teodoro Narbuto pasakojime kujavai vėliau persikėlė prie Vyslos žemupio ir įsikūrė jos kairiajame krante, Kujavijoje.
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,8 +76,7 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192986
 ## Citatos
 
 - id: c-175756

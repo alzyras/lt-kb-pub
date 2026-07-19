@@ -42,7 +42,7 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172223
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargaus elgesio su ugnimi dievaitį.'
@@ -59,8 +59,7 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189336
 ## Citatos
 
 - id: c-172223

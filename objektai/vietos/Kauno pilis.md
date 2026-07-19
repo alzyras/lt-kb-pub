@@ -143,7 +143,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79424
-
 - id: c-43493
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -170,7 +169,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79425
-
 - id: c-76419
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -192,7 +190,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79423
-
 - id: c-76420
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -224,7 +221,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79426
-
 ## Ryšiai
 - Puolė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
 - Apgulė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

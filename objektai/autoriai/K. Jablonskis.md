@@ -98,7 +98,6 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179503
-
 - id: c-163197
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

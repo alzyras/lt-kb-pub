@@ -72,7 +72,7 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175514
-
+    - c-002
 <a id="claim-t-197919"></a>
 - t-003
   global_id: t-197919
@@ -108,8 +108,7 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192744
 ## Citatos
 
 - id: c-171985
@@ -138,7 +137,6 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189097
-
 - id: c-175514
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -169,7 +167,6 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192744
-
 - id: c-179397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

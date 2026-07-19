@@ -58,7 +58,7 @@ Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vysk
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir pašalina citatos OCR triukšmą."
   pagrindžia:
     - c-169694
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vyskupo Mikalojaus, Alberto Manvydo ir Jono Nemyros parašais.'
@@ -97,8 +97,7 @@ Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vysk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186333
 ## Citatos
 
 - id: c-169694

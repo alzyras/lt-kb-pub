@@ -92,7 +92,6 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182963
-
 - id: c-176282
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -124,7 +124,6 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
   pagrindzia:
     - t-192949
     - t-197489
-
 - id: c-175720
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

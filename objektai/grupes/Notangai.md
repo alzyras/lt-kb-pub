@@ -63,7 +63,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškai ir tiksliai perteikia citatos faktą apie notangus ir varmius."
   pagrindžia:
     - c-75679
-
+    - c-005
 <a id="claim-t-78395"></a>
 - t-002
   global_id: t-78395
@@ -84,7 +84,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir įtraukia antraštę."
   pagrindžia:
     - c-75681
-
+    - c-007
 <a id="claim-t-78396"></a>
 - t-003
   global_id: t-78396
@@ -120,7 +120,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75680
-
+    - c-006
 <a id="claim-t-78398"></a>
 - t-005
   global_id: t-78398
@@ -154,7 +154,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75696
-
+    - c-017
 <a id="claim-t-78400"></a>
 - t-007
   global_id: t-78400
@@ -251,7 +251,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, datuotas ir paremtas citata."
   pagrindžia:
     - c-75692
-
+    - c-015
 <a id="claim-t-78405"></a>
 - t-012
   global_id: t-78405
@@ -344,7 +344,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   semantiniai_rysiai: "Notangai paskyrė Herkus Mantas (0.90)"
   pagrindžia:
     - c-75676
-
+    - c-003
 <a id="claim-t-78410"></a>
 - t-017
   global_id: t-78410
@@ -365,7 +365,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėjus ir žygio kryptį, kaip citatoje."
   pagrindžia:
     - c-75687
-
+    - c-012
 <a id="claim-t-78411"></a>
 - t-018
   global_id: t-78411
@@ -560,8 +560,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-78409
 - c-005
   santrauka: 'Notangai ir varmiai išsižadėjo maišto sumanymų ir davė žodį būti ištikimi broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -578,8 +577,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-78394
 - c-006
   santrauka: 'Notangai sausio 22 dieną Pokarviuose užpuolė likusią brolių ir maldininkų kariuomenės dalį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -601,8 +599,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-78397
 - c-007
   santrauka: '1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -619,8 +616,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-78395
 - c-012
   santrauka: '1314 m. brolis Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -638,8 +634,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
+    - t-78410
 - c-015
   santrauka: '1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -657,8 +652,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-78404
 - c-017
   santrauka: 'Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -673,8 +667,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-78399
 ## Citatos
 
 - id: c-75674
@@ -700,7 +693,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78407
-
 - id: c-75675
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -723,7 +715,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78405
-
 - id: c-75676
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -746,7 +737,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78409
-
 - id: c-75677
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -776,7 +766,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindzia:
     - t-78396
     - t-78402
-
 - id: c-75679
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -796,7 +785,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78394
-
 - id: c-75680
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -821,7 +809,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindzia:
     - t-78397
     - t-196913
-
 - id: c-75681
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -842,7 +829,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78395
-
 - id: c-75683
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -859,7 +845,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78398
-
 - id: c-75684
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -876,7 +861,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78403
-
 - id: c-75685
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -897,7 +881,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindzia:
     - t-78412
     - t-194332
-
 - id: c-75686
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -913,7 +896,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78406
-
 - id: c-75687
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -939,7 +921,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78410
-
 - id: c-75690
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -961,7 +942,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindzia:
     - t-78408
     - t-78411
-
 - id: c-75691
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -988,7 +968,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindzia:
     - t-78400
     - t-194333
-
 - id: c-75692
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1014,7 +993,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78404
-
 - id: c-75695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1035,7 +1013,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78401
-
 - id: c-75696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1054,7 +1031,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78399
-
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Pobravas]]
 - Notangai puolė [[objektai/vietos/Baiga]], [[objektai/vietos/Bisenė]], [[objektai/vietos/Kroicburgas]]

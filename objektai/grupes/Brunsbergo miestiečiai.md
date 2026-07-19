@@ -65,6 +65,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   pagrindžia:
     - c-63884
     - c-63885
+    - c-002
+    - c-003
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
 ## Reikšmingi paminėjimai
 - c-002
@@ -82,8 +84,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62984
 - c-003
   santrauka: 'Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,8 +100,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62984
 ## Citatos
 
 - id: c-63883
@@ -120,7 +120,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62983
-
 - id: c-63884
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -148,7 +147,6 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62984
-
 - id: c-63885
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

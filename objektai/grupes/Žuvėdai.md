@@ -98,8 +98,6 @@ media_all_json: |-
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-10138
@@ -130,7 +128,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66404
-
 - id: c-10140
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -146,7 +143,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66402
-
 - id: c-10141
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -161,32 +157,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66402
-
-- id: c-10138
-  autorius: "Simonas Daukantas"
-  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
-  citata_originali: |
-    - status: unused
-    - claim_role: new_claim
-    - kategorija: grupe
-    - kandidatas: Žemgaliai
-    - potencialus_teiginys: Žemgaliai šiame šaltinyje susiejami su senųjų brolijų atmintimi ir su smurtinio krikštijimo pasakojimu.
-    - public_note:
-    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-    - vieta_saltinyje: offset: 215924-216217; match: exact
-    - santrauka: Žemgaliai šiame šaltinyje susiejami su senųjų brolijų atmintimi ir su smurtinio krikštijimo pasakojimu.
-    - pagrindzia:
-    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
-      citata_originali: |
-        rubežiaus^804 , kurią slapta didžiai vėlai, jau krikščionimis būdami, dar lankę žemaičiai, parusėnai ir
-        žemgaliai, arba kuržemininkai, minėdami savo laimingas dienas ir tardami save angis broliais
-        buvusius; bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius
-  citata_rodoma: "bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-66404

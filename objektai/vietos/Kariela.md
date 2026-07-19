@@ -96,7 +96,6 @@ Kariela šiame šaltinyje yra regionas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195653
-
 - id: c-178055
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"

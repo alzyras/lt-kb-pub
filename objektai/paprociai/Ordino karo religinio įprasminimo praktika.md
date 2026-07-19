@@ -89,8 +89,7 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ordino karo religinio įprasminimo praktika\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-67189
-
+    - c-005
 <a id="claim-t-67175"></a>
 - t-003
   global_id: t-67175
@@ -107,7 +106,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67188
-
+    - c-67189
 <a id="claim-t-67176"></a>
 - t-004
   global_id: t-67176
@@ -142,7 +141,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-67185
-
+    - c-001
 <a id="claim-t-196989"></a>
 - t-006
   global_id: t-196989
@@ -172,8 +171,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-67177
 - c-005
   santrauka: 'Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -190,8 +188,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-67174
 ## Citatos
 
 - id: c-67185
@@ -218,7 +215,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67177
-
 - id: c-67186
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -239,7 +235,6 @@ Nenurodyta
   pagrindzia:
     - t-67173
     - t-196989
-
 - id: c-67187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -267,7 +262,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67176
-
 - id: c-67188
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -290,7 +284,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67175
-
 - id: c-67189
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -310,4 +303,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-67174
+    - t-67175

@@ -218,7 +218,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173212
-
 - id: c-157542
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -249,7 +248,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173216
-
 - id: c-157544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -271,7 +269,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173220
-
 - id: c-157545
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -313,7 +310,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173213
-
 - id: c-157547
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -340,7 +336,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173218
-
 - id: c-157548
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -363,7 +358,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173221
-
 - id: c-157549
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -393,7 +387,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173214
-
 - id: c-157550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

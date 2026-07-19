@@ -73,4 +73,4 @@ Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191581

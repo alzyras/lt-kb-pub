@@ -386,7 +386,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99065
-
 - id: c-32384
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -404,7 +403,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99073
-
 - id: c-37694
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -427,7 +425,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99069
-
 - id: c-37695
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -451,7 +448,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   pagrindzia:
     - t-99062
     - t-99067
-
 - id: c-93189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -485,7 +481,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   pagrindzia:
     - t-99066
     - t-99070
-
 - id: c-93192
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -503,7 +498,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99074
-
 - id: c-93193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -531,7 +525,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   pagrindzia:
     - t-99064
     - t-99072
-
 - id: c-166476
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -549,7 +542,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183088
-
 - id: c-168484
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -573,7 +565,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185123
-
 - id: c-170592
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -594,6 +585,5 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   pagrindzia:
     - t-187646
     - t-196889
-
 ## Ryšiai
 - Puolė Riazanę: [[objektai/asmenys/Chudandachas]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

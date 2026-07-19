@@ -52,7 +52,8 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
   pagrindžia:
     - c-84556
     - c-84557
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,9 +69,7 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-88577
 - c-002
   santrauka: 'Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -85,8 +84,7 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-88577
 ## Citatos
 
 - id: c-84556
@@ -108,7 +106,6 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88577
-
 - id: c-84557
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

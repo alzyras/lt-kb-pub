@@ -133,7 +133,6 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54805
-
 - id: c-55801
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -160,7 +159,6 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54804
-
 - id: c-55802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -112,7 +112,6 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     - t-195050
     - t-195051
     - t-195052
-
 - id: c-177413
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

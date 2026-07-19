@@ -137,4 +137,4 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187547

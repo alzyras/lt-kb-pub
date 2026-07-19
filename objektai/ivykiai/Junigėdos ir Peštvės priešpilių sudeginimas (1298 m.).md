@@ -72,7 +72,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-91573
-
+    - c-91575
 <a id="claim-t-97020"></a>
 - t-002
   global_id: t-97020
@@ -89,7 +89,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-91574
-
+    - c-002
 <a id="claim-t-97022"></a>
 - t-003
   global_id: t-97022
@@ -106,7 +106,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-91574
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,9 +123,8 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-002
-
+    - t-97020
+    - t-97022
 ## Citatos
 
 - id: c-91573
@@ -149,7 +148,6 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-97019
-
 - id: c-91574
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -175,7 +173,6 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   pagrindzia:
     - t-97020
     - t-97022
-
 - id: c-91575
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

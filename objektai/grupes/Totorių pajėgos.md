@@ -62,6 +62,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75799
+    - c-75798
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-40468|Timūr-Kutlukas]]: Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.
@@ -99,7 +100,6 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78527
-
 - id: c-75798
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -127,8 +127,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-78528
-
+    - t-78529
 - id: c-75799
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

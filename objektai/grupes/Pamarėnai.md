@@ -61,7 +61,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-64179
-
+    - c-002
 <a id="claim-t-63189"></a>
 - t-002
   global_id: t-63189
@@ -101,8 +101,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-63188
 ## Citatos
 
 - id: c-64178
@@ -127,7 +126,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63189
-
 - id: c-64179
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

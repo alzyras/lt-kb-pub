@@ -87,6 +87,5 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36398
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

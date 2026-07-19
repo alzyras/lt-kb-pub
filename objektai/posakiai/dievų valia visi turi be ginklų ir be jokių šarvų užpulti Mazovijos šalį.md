@@ -72,4 +72,4 @@ Narbuto pasakojime pranašė paskelbė, kad dievų valia krašto vyrai be ginkl�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189558

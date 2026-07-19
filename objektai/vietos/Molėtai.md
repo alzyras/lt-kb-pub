@@ -79,6 +79,5 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86025
-
 ## Ryšiai
 - Užėmė Molėtai: [[objektai/grupes/Lenkai]]

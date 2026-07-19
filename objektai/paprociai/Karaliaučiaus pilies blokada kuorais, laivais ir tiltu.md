@@ -67,7 +67,7 @@ Nenurodyta
   pagrindžia:
     - c-63419
     - c-63420
-
+    - c-002
 <a id="claim-t-62679"></a>
 - t-002
   global_id: t-62679
@@ -86,7 +86,8 @@ Nenurodyta
   pagrindžia:
     - c-63421
     - c-63423
-
+    - c-003
+    - c-004
 <a id="claim-t-62680"></a>
 - t-003
   global_id: t-62680
@@ -104,7 +105,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63420
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,9 +130,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
+    - t-62678
+    - t-62680
 - c-003
   santrauka: 'Karaliaučiaus pilį, kaip ir Kroicburgo bei Bartenšteino pilis, apgulėjai apsupo trimis stipriais kuorais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -147,8 +147,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62679
 - c-004
   santrauka: 'Karaliaučiaus pilį, kaip ir Kroicburgo bei Bartenšteino pilis, apgulėjai apsupo trimis stipriais kuorais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -165,8 +164,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62679
 ## Citatos
 
 - id: c-63419
@@ -191,7 +189,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62678
-
 - id: c-63420
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -221,7 +218,6 @@ Nenurodyta
   pagrindzia:
     - t-62678
     - t-62680
-
 - id: c-63421
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -242,7 +238,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62679
-
 - id: c-63423
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

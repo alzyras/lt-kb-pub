@@ -44,7 +44,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59535
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Grabnyčių dieną, vasario 2-ąją, magistras Mangoldas įsiveržė į Sūduvos valsčių Kresmeną ir jį nusiaubė.'
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58903
 ## Citatos
 
 - id: c-59535

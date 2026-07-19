@@ -116,7 +116,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-55186
-
+    - c-166718
 <a id="claim-t-54318"></a>
 - t-004
   global_id: t-54318
@@ -201,7 +201,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54316
-
 - id: c-55187
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -224,7 +223,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54314
-
 - id: c-55189
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -253,7 +251,6 @@ Nenurodyta
   pagrindzia:
     - t-54318
     - t-54319
-
 - id: c-166717
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -277,7 +274,6 @@ Nenurodyta
   pagrindzia:
     - t-54315
     - t-183327
-
 - id: c-166718
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

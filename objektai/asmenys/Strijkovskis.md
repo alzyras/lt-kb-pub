@@ -48,7 +48,7 @@ Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius,
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174353
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius, Didžiojo Naugardo kraštuose vadintus igovėnais.'
@@ -72,8 +72,7 @@ Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191471
 ## Citatos
 
 - id: c-174353

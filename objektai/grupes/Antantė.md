@@ -171,7 +171,6 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19634
-
 - id: c-22339
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -199,7 +198,6 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19637
-
 - id: c-22340
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -221,7 +219,6 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19636
-
 - id: c-22341
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

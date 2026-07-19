@@ -101,7 +101,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58539
-
 - id: c-59171
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

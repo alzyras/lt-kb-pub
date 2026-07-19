@@ -104,7 +104,6 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87532
-
 - id: c-83511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

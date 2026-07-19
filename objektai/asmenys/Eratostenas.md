@@ -49,7 +49,7 @@ Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174831
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų.'
@@ -77,8 +77,7 @@ Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191949
 ## Citatos
 
 - id: c-174831

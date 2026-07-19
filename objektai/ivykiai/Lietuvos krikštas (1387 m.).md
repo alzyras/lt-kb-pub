@@ -209,7 +209,6 @@ Nenurodyta
     - t-186366
     - t-186368
     - t-186369
-
 - id: c-169727
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -233,7 +232,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186370
-
 - id: c-169729
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -256,7 +254,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186367
-
 - id: c-184052
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"

@@ -82,7 +82,7 @@ Lebedžio, Vilnius 1957, 31-35 p.
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171314
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Jurgis Lebedys parengė 1967 m. Vilniuje išleistus Simono Stanevičiaus „Raštus“.'
@@ -96,8 +96,7 @@ Lebedžio, Vilnius 1957, 31-35 p.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188424
 ## Citatos
 
 - id: c-32973
@@ -127,7 +126,6 @@ Lebedžio, Vilnius 1957, 31-35 p.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30687
-
 - id: c-171314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

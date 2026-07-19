@@ -248,7 +248,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   pagrindzia:
     - t-59917
     - t-197092
-
 - id: c-60548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -271,7 +270,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   pagrindzia:
     - t-59918
     - t-197093
-
 - id: c-60549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -305,7 +303,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59915
-
 - id: c-60550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -333,7 +330,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59916
-
 - id: c-60551
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -357,7 +353,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59919
-
 - id: c-168073
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -394,7 +389,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184712
-
 - id: c-178710
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -423,7 +417,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196470
-
 - id: c-178711
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -457,7 +450,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196471
-
 - id: c-179025
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -477,7 +469,6 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197094
-
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Jazbutas]]
 - Puolė Henrikas Cutsvertą: [[objektai/asmenys/Jazbutas]]

@@ -213,7 +213,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174020
-
+    - c-009
 <a id="claim-t-197796"></a>
 - t-008
   global_id: t-197796
@@ -286,8 +286,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
 - c-009
   santrauka: 'Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -314,8 +312,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-191138
 ## Citatos
 
 - id: c-174012
@@ -343,7 +340,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191130
-
 - id: c-174013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -362,7 +358,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191131
-
 - id: c-174014
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -384,7 +379,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191132
-
 - id: c-174015
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -405,7 +399,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191133
-
 - id: c-174016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -435,7 +428,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191134
-
 - id: c-174017
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -458,7 +450,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   pagrindzia:
     - t-191135
     - t-197796
-
 - id: c-174019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -480,7 +471,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   pagrindzia:
     - t-191137
     - t-197797
-
 - id: c-174020
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -513,7 +503,6 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191138
-
 - id: c-179344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

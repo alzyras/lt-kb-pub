@@ -48,6 +48,7 @@ Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačia
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173121
+    - c-001
 - susijęs iš [[objektai/autoriai/Karolis Riteris.md#claim-t-191888|Karolis Riteris]]: Narbuto teigimu, Karolis Riteris veikale apie Europos senovę įrodė sauromatų giminystę arba jų mokslingumą iš indų kolonistų.
 - susijęs iš [[objektai/autoriai/Riteris.md#claim-t-190403|Riteris]]: Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai aptarė padavimą apie saulės garbinimą prie Baltijos jūros.
 - susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190200|Plinijus]]: Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus pastebėtą Saulės, arba Apolono, garbinimą prie Baltijos jūros.
@@ -76,8 +77,7 @@ Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190238
 ## Citatos
 
 - id: c-173121

@@ -84,7 +84,6 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58862
-
 - id: c-59495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -80,7 +80,7 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-171396
-
+    - c-002
 <a id="claim-t-188507"></a>
 - t-003
   global_id: t-188507
@@ -122,7 +122,7 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-173720
-
+    - c-004
 <a id="claim-t-190839"></a>
 - t-005
   global_id: t-190839
@@ -164,7 +164,7 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-173722
-
+    - c-006
 <a id="claim-t-191935"></a>
 - t-007
   global_id: t-191935
@@ -203,8 +203,7 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188506
 - c-004
   santrauka: 'Narbutas vertina, kad Albertas Vijūkas-Kojalavičius lotyniškoje lietuvių istorijoje tik sudėjo Strijkovskio veikalą į istorinius rėmus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -224,8 +223,7 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190838
 - c-006
   santrauka: 'Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -245,8 +243,7 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190840
 ## Citatos
 
 - id: c-21550
@@ -274,7 +271,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18765
-
 - id: c-171396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -294,7 +290,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188506
-
 - id: c-171397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -318,7 +313,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188507
-
 - id: c-173720
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -349,7 +343,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190838
-
 - id: c-173721
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -370,7 +363,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190839
-
 - id: c-173722
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -393,7 +385,6 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190840
-
 - id: c-174817
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

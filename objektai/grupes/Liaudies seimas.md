@@ -62,6 +62,7 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-22518
+    - c-166534
 - susijęs iš [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md#claim-t-45085|Lietuvos SSR liaudies komisarų taryba (institucija)]]: Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę.
 - susijęs iš [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md#claim-t-45086|Lietuvos SSR liaudies komisarų taryba (institucija)]]: Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia.
 - susijęs iš [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md#claim-t-45087|Lietuvos SSR liaudies komisarų taryba (institucija)]]: Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę.
@@ -104,7 +105,6 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19796
-
 - id: c-166534
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

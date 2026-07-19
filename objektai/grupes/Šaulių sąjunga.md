@@ -55,6 +55,7 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
   temporalinis_llm_pakomentavimas: "Sakinys aiškus, faktinis ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-22833
+    - c-166590
 - susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45271|Voldemarininkai]]: Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
 - susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45272|Voldemarininkai]]: Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.
 - susijęs iš [[objektai/grupes/Lietuvos šaulių sąjunga.md#claim-t-183169|Lietuvos šaulių sąjunga]]: Lietuvos šaulių sąjunga priešinosi deryboms dėl Himanso plano, kurį Lietuvoje ragino atmesti ir Vokietijos bei Rusijos diplomatai.
@@ -93,7 +94,6 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20098
-
 - id: c-166590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

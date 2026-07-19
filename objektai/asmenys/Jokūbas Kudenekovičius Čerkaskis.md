@@ -117,7 +117,6 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40212
-
 - id: c-167131
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -145,6 +144,5 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   pagrindzia:
     - t-40211
     - t-183743
-
 ## Ryšiai
 - Jokūbas Kudenekovičius Čerkaskis užėmė [[objektai/vietos/Gardinas]], [[objektai/vietos/Vilnius]]

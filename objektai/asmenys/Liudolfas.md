@@ -47,7 +47,7 @@ Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado prot�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169502
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė.'
@@ -75,8 +75,7 @@ Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado prot�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186141
 ## Citatos
 
 - id: c-169502

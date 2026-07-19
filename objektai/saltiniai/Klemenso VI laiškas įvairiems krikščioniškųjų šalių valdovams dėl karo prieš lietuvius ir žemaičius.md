@@ -85,7 +85,6 @@ Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias mal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186297
-
 - id: c-178643
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

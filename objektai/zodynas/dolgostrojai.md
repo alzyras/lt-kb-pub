@@ -95,7 +95,6 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22126
-
 - id: c-166810
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

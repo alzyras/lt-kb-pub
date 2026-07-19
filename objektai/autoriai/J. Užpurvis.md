@@ -58,6 +58,7 @@ Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos ša
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-63348
+    - c-001
 - susijęs iš Lietuvių karas su kryžiuočiais Redagavo J. Jurginis: „Lietuvių karas su kryžiuočiais“, redaguotas J. Jurginio, išleistas Vilniuje 1964 m.
 - susijęs iš Lietuvių tautos istoriniai šaltiniai Paruošė J. Užpurvis: J. Užpurvio parengti „Lietuvių tautos istoriniai šaltiniai“ išleisti Klaipėdoje 1938–1939 m.
 ## Reikšmingi paminėjimai
@@ -76,8 +77,7 @@ Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos ša
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62619
 ## Citatos
 
 - id: c-63348

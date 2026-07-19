@@ -74,7 +74,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata palaiko interpretacinį teiginį, bet reikia pašalinti perteklinę įžangą."
   pagrindžia:
     - c-60261
-
+    - c-001
 <a id="claim-t-59630"></a>
 - t-002
   global_id: t-59630
@@ -125,8 +125,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59629
 ## Citatos
 
 - id: c-60261
@@ -149,7 +148,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59629
-
 - id: c-60262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

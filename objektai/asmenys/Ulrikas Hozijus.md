@@ -229,7 +229,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87366
-
 - id: c-83342
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -250,7 +249,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87362
-
 - id: c-83343
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -273,7 +271,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87368
-
 - id: c-83344
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -303,7 +300,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87367
-
 - id: c-83345
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -332,7 +328,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87365
-
 - id: c-83346
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -400,7 +395,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   pagrindzia:
     - t-87363
     - t-194242
-
 - id: c-83347
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -450,6 +444,5 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87364
-
 ## Ryšiai
 - Ulrikas Hozijus pastatė [[objektai/vietos/Vilniaus tiltas per Viliją]]

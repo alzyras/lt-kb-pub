@@ -58,6 +58,7 @@ Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijo
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173014
+    - c-001
 - susijęs iš Maskva: Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,8 +76,7 @@ Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190131
 ## Citatos
 
 - id: c-173014

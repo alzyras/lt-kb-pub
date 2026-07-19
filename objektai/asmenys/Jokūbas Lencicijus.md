@@ -83,7 +83,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173776
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais.'
@@ -100,8 +100,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190894
 ## Citatos
 
 - id: c-172986
@@ -122,7 +121,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190103
-
 - id: c-173776
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

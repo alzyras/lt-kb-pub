@@ -149,7 +149,6 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80130
-
 - id: c-76998
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -168,7 +167,6 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80128
-
 - id: c-76999
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -192,7 +190,6 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80129
-
 - id: c-77000
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -212,6 +209,5 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80131
-
 ## Ryšiai
 - Puolė Skalvos žemę: [[objektai/asmenys/Aleksandras Karijotaitis]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]

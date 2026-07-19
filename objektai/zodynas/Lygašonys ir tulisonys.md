@@ -89,7 +89,6 @@ Lygašonis ir tulisonis Narbutas apibūdina kaip laidotuvių žynius, atlikdavus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189123
-
 - id: c-179154
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

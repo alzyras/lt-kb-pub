@@ -121,7 +121,6 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79203
-
 - id: c-76275
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -140,7 +139,6 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79202
-
 - id: c-178789
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -165,6 +163,5 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196600
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

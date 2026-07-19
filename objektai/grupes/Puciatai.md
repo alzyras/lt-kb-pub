@@ -48,6 +48,7 @@ Narbutas Puciatus aiškina kaip Zefyrą ir Zefyriukus, o pavadinimą kildina iš
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172386
+    - c-001
 - susijęs iš [[objektai/zodynas/Pucis Puciatai Bangpūtis.md#claim-t-189243|Pucis Puciatai Bangpūtis]]: Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriukus, o pajūrio gyventojų Bangpūtį siejo su jūros putos plakimu.
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,8 +78,7 @@ Narbutas Puciatus aiškina kaip Zefyrą ir Zefyriukus, o pavadinimą kildina iš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189498
 ## Citatos
 
 - id: c-172386

@@ -122,7 +122,6 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86416
-
 - id: c-82395
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

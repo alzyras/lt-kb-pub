@@ -125,7 +125,6 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36051
-
 - id: c-38409
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

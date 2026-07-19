@@ -98,7 +98,7 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177325
-
+    - c-003
 <a id="claim-t-194930"></a>
 - t-004
   global_id: t-194930
@@ -112,6 +112,7 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177326
+    - c-004
 - susijęs iš [[objektai/grupes/Getai.md#claim-t-192938|Getai]]: Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais.
 - susijęs iš [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties.md#claim-t-191045|Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]: Narbuto pasakojimu, po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus ir ketino apsigyventi prie rugių arba Rugilandijoje.
 - susijęs iš Rugilandija: Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija.
@@ -223,8 +224,7 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194929
 - c-004
   santrauka: 'Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -247,8 +247,7 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194930
 ## Citatos
 
 - id: c-10485
@@ -268,7 +267,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67995
-
 - id: c-177324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -297,7 +295,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194928
-
 - id: c-177325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -323,7 +320,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194929
-
 - id: c-177326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -363,7 +359,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194930
-
 - id: c-179374
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -54,7 +54,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   temporalinis_llm_pakomentavimas: "Bibliografinis įrašas palaiko konkretų faktą apie publikaciją."
   pagrindžia:
     - c-65358
-
+    - c-001
 <a id="claim-t-64725"></a>
 - t-002
   global_id: t-64725
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   temporalinis_llm_pakomentavimas: "Citata palaiko trumpą faktą apie Poliakuvnos leidinį."
   pagrindžia:
     - c-65359
-
+    - c-002
 <a id="claim-t-64726"></a>
 - t-003
   global_id: t-64726
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   temporalinis_llm_pakomentavimas: "Bibliografinis įrašas palaiko konkretų faktą apie publikaciją."
   pagrindžia:
     - c-65360
-
+    - c-003
 <a id="claim-t-197005"></a>
 - t-005
   global_id: t-197005
@@ -146,8 +146,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-64724
 - c-002
   santrauka: 'M. Poliakuvna 1968 m. Vroclave, Varšuvoje ir Krokuvoje išleido darbą „Kronika Piotra z Dusburga“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -159,8 +158,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-64725
 - c-003
   santrauka: 'M. Poliakuvna parašė darbą „Zanik ludności pruskiej“, paskelbtą 1958 m. Varšuvoje leidinyje „Pomorze średniowieczne“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -173,8 +171,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-64727
 ## Citatos
 
 - id: c-65358
@@ -192,7 +189,6 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64724
-
 - id: c-65359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -208,7 +204,6 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64725
-
 - id: c-65360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -225,7 +220,6 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64727
-
 - id: c-65361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

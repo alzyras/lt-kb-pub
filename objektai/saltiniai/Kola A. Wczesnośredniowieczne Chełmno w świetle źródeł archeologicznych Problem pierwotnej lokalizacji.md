@@ -53,7 +53,7 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
   temporalinis_llm_pakomentavimas: "Citata yra bibliografinis įrašas, iš kurio galima sudaryti tvarkingą faktinį sakinį."
   pagrindžia:
     - c-61730
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Kolos straipsnis apie ankstyvųjų viduramžių Chełmno pirminę lokalizaciją paskelbtas 1977 m. Torunės mokslo draugijos leidinio 29 numeryje.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61098
 ## Citatos
 
 - id: c-61730

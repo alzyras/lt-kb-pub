@@ -194,7 +194,6 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187455
-
 - id: c-170432
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -220,7 +219,6 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187454
-
 - id: c-170433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -242,7 +240,6 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187453
-
 - id: c-171490
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -264,7 +261,6 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188601
-
 - id: c-171491
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -287,7 +283,6 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188602
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Spera Palemonaitis]]
 - Palemonas buvo valdovas [[objektai/vietos/Pajūris]]

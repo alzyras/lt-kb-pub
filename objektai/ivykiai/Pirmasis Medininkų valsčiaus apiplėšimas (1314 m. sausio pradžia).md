@@ -68,7 +68,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60028
-
+    - c-002
 <a id="claim-t-59396"></a>
 - t-002
   global_id: t-59396
@@ -88,7 +88,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatoje pateiktą laiką, veikėjus ir vietą."
   pagrindžia:
     - c-60027
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1314 m. sausio pradžioje maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
@@ -107,8 +107,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59396
 - c-002
   santrauka: 'Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -126,8 +125,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59395
 ## Citatos
 
 - id: c-60027
@@ -155,7 +153,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59396
-
 - id: c-60028
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

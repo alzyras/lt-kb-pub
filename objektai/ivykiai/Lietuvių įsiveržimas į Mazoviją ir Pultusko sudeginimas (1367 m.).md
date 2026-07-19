@@ -69,7 +69,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra rišlus, faktinis ir citata patvirtina jo pagrindinius duomenis."
   pagrindžia:
     - c-169172
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kęstučio vedami lietuviai įsiveržė į Mazoviją, užėmė Pultuską ir vėliau smarkiai nusiaubė visą kraštą.'
@@ -104,8 +104,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185811
 ## Citatos
 
 - id: c-169172

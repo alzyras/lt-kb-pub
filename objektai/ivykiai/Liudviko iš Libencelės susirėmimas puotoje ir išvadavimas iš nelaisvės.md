@@ -62,7 +62,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63706
-
+    - c-001
 <a id="claim-t-62868"></a>
 - t-002
   global_id: t-62868
@@ -80,7 +80,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63707
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą.'
@@ -101,8 +101,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62867
 - c-002
   santrauka: 'Vėliau vienas Skomanto šeimynykštis išvadavo Liudviką iš Libencelės iš nelaisvės ir sugrąžino jį pas brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -118,8 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62868
 ## Citatos
 
 - id: c-63706
@@ -146,7 +144,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62867
-
 - id: c-63707
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

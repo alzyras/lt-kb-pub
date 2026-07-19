@@ -75,6 +75,5 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42266
-
 ## Ryšiai
 - Užėmė Vidiškį: [[objektai/grupes/Lenkai]]

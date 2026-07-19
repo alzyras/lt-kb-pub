@@ -226,7 +226,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58882
-
 - id: c-59516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -255,7 +254,6 @@ media_all_json: |-
     - t-58883
     - t-184014
     - t-194462
-
 - id: c-167995
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -294,7 +292,6 @@ media_all_json: |-
   pagrindzia:
     - t-184634
     - t-196386
-
 - id: c-167996
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -333,7 +330,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184635
-
 - id: c-167997
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

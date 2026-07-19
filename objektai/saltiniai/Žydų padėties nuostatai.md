@@ -97,7 +97,6 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21334
-
 - id: c-166784
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

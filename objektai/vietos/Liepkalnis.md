@@ -87,7 +87,6 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41863
-
 - id: c-45180
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

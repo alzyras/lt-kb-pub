@@ -72,7 +72,7 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-176598
+    - c-002
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
 - susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200531|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo kunigaikštis vėliavininkas.
@@ -191,8 +191,7 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-193973
 ## Citatos
 
 - id: c-169532
@@ -237,7 +236,6 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186171
-
 - id: c-178780
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

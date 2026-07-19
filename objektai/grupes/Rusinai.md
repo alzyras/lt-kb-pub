@@ -49,7 +49,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172287
-
+    - c-001
 <a id="claim-t-189401"></a>
 - t-002
   global_id: t-189401
@@ -70,7 +70,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172288
-
+    - c-002
 <a id="claim-t-189402"></a>
 - t-003
   global_id: t-189402
@@ -91,7 +91,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172289
-
+    - c-003
 <a id="claim-t-189403"></a>
 - t-004
   global_id: t-189403
@@ -134,7 +134,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172291
-
+    - c-005
 <a id="claim-t-189405"></a>
 - t-006
   global_id: t-189405
@@ -155,7 +155,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172292
-
+    - c-006
 <a id="claim-t-189406"></a>
 - t-007
   global_id: t-189406
@@ -176,7 +176,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172293
-
+    - c-007
 <a id="claim-t-189407"></a>
 - t-008
   global_id: t-189407
@@ -197,7 +197,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172294
-
+    - c-008
 <a id="claim-t-189408"></a>
 - t-009
   global_id: t-189408
@@ -218,7 +218,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172295
-
+    - c-009
 <a id="claim-t-194584"></a>
 - t-010
   global_id: t-194584
@@ -232,7 +232,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176983
-
+    - c-010
 <a id="claim-t-194585"></a>
 - t-011
   global_id: t-194585
@@ -246,6 +246,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176984
+    - c-011
 - susijęs iš [[objektai/asmenys/Oramas.md#claim-t-191451|Oramas]]: Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188250|Lenkai]]: Aprašomoje vietoje viena iš trijų mūrinių šventyklų buvo lenkų, o dvi kitos - rusinų apeigoms.
 - susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189473|Lietuvos rusinai]]: Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į permainingą romėnų Fortūną.
@@ -296,8 +297,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189400
 - c-002
   santrauka: 'Narbutas nurodė, kad vestuvių pyrago pavadinimas „karvojus“ lietuvių vartosenoje buvo perimtas iš rusinų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -318,8 +318,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189401
 - c-003
   santrauka: 'Narbutas rašė, kad Lietuvos rusinai baidykles Zlydni vaizdavosi keliamečių vaikų pavidalo ir tikėjo jas kenkiant namams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -340,8 +339,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189402
 - c-005
   santrauka: 'Narbutas Plikojo kalno pavadinimą siejo su rusinu, vienu iš miesto kolonistų, atgabentų iš Lietuvos Rusios kuriant Vilnių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -358,8 +356,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-189404
 - c-006
   santrauka: 'Narbutas atmetė Stenderio aiškinimą, kad kriviai kildintini iš rusų žemės, nes latviai tenykščius rusinus vadino Kreews arba Kriws.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -380,8 +377,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-189405
 - c-007
   santrauka: 'Narbutas rašė, kad rusinai vilku virstantį kerėtoją vadino Wolkotak, latviai - Wilkats, o lietuviai - Witkatas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -398,8 +394,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-189406
 - c-008
   santrauka: 'Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -416,8 +411,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-189407
 - c-009
   santrauka: 'Narbutas citavo Faterio nuomonę, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadintų krieviais, pavadinimo nesupratimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -434,8 +428,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-189408
 - c-010
   santrauka: 'Lietuvos rusinai savo pasakojimuose taip pat mini Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For tūna, būdama permaininga, vieniems būdavo gera, o kitiems - bloga.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -453,8 +446,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-194584
 - c-011
   santrauka: 'Ten yra trys mūri nės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o kitos dvi - rusinu, kur jie įprastai atlieka savo apeigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -471,8 +463,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-194585
 ## Citatos
 
 - id: c-172287
@@ -498,7 +489,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189400
-
 - id: c-172288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -524,7 +514,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189401
-
 - id: c-172289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -545,7 +534,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189402
-
 - id: c-172290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -566,7 +554,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189403
-
 - id: c-172291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -588,7 +575,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189404
-
 - id: c-172292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -615,7 +601,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189405
-
 - id: c-172293
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -640,7 +625,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189406
-
 - id: c-172294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -660,7 +644,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189407
-
 - id: c-172295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -690,7 +673,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189408
-
 - id: c-176983
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -713,7 +695,6 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194584
-
 - id: c-176984
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

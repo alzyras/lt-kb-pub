@@ -81,6 +81,5 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41604
-
 ## Ryšiai
 - Užėmė Aukštadvarį: [[objektai/grupes/Lenkai]]

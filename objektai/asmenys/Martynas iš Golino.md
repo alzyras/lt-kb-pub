@@ -641,7 +641,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   pagrindzia:
     - t-63912
     - t-63915
-
 - id: c-56151
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -659,7 +658,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63908
-
 - id: c-56152
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -681,7 +679,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   pagrindzia:
     - t-63907
     - t-63919
-
 - id: c-56153
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -705,7 +702,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   pagrindzia:
     - t-63910
     - t-63914
-
 - id: c-56155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -734,7 +730,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - t-63916
     - t-63917
     - t-63918
-
 - id: c-64823
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -762,7 +757,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63911
-
 - id: c-64824
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -784,7 +778,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - t-63921
     - t-184111
     - t-194504
-
 - id: c-64825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -809,7 +802,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63913
-
 - id: c-64827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -828,7 +820,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   pagrindzia:
     - t-63905
     - t-63909
-
 - id: c-64828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -849,7 +840,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63920
-
 - id: c-179035
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -872,7 +862,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197128
-
 ## Ryšiai
 - Martynas iš Golino keliavo į [[objektai/vietos/Rudinas]]
 - Martynas iš Golino puolė [[objektai/vietos/Kaimas]], [[objektai/grupes/Sūduviai]]

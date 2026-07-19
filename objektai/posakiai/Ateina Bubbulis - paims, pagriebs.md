@@ -57,7 +57,7 @@ Vaikų gąsdinimo formulė, kurioje Bubbulis pristatomas kaip ateinanti ir pagri
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170800
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas posakį „Ateina Bubbulis - paims, pagriebs“ aiškina kaip latvių vaikams gąsdinti vartotą frazę apie baisų Bubbulį.'
@@ -75,8 +75,7 @@ Vaikų gąsdinimo formulė, kurioje Bubbulis pristatomas kaip ateinanti ir pagri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189573
 ## Citatos
 
 - id: c-170800

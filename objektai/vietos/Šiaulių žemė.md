@@ -81,6 +81,5 @@ as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42367
-
 ## Ryšiai
 - Puolė Šiaulių žemę: [[objektai/grupes/Livonijos ordinas]]

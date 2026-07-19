@@ -136,6 +136,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175351
+    - c-004
 - susijęs iš [[objektai/zodynas/Budtė.md#claim-t-192155|Budtė]]: Narbutas Budtę apibrėžia kaip išminties ir proto deivę.
 - susijęs iš [[objektai/zodynas/Budtė.md#claim-t-192156|Budtė]]: Narbutas Budtę apibrėžia kaip išminties ir proto deivę.
 - susijęs iš [[objektai/zodynas/Konlyna.md#claim-t-192321|Konlyna]]: Narbutas aiškina, kad „Konlyna“ naudota kelionės daiktams ir ginklams susidėti.
@@ -161,8 +162,7 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-192577
 ## Citatos
 
 - id: c-175022
@@ -187,7 +187,6 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192135
-
 - id: c-175023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -220,7 +219,6 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   pagrindzia:
     - t-192134
     - t-192576
-
 - id: c-175024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -246,7 +244,6 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192136
-
 - id: c-175351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -232,7 +232,6 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-13489
-
 - id: c-16377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -251,7 +250,6 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   pagrindzia:
     - t-13490
     - t-24563
-
 - id: c-16380
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -294,7 +292,6 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
     - t-24564
     - t-26855
     - t-26856
-
 - id: c-25426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

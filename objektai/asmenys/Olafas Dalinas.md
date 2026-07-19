@@ -48,7 +48,7 @@ Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kr
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174389
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių.'
@@ -72,8 +72,7 @@ Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191507
 ## Citatos
 
 - id: c-174389

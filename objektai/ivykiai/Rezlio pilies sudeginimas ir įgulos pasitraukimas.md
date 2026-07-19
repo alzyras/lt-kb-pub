@@ -62,7 +62,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63104
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rezlio pilies broliai sudegino pilį ir slaptais dykrų keliais pasitraukė, išgirdę apie prūsų apsiaustas pilis.'
@@ -81,8 +81,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62459
 ## Citatos
 
 - id: c-63104

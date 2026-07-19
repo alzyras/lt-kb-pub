@@ -147,7 +147,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176945
-
+    - c-007
 <a id="claim-t-197113"></a>
 - t-007
   global_id: t-197113
@@ -195,8 +195,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-194498
 ## Citatos
 
 - id: c-64738
@@ -218,7 +217,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   pagrindzia:
     - t-63809
     - t-197113
-
 - id: c-64740
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -236,7 +234,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63803
-
 - id: c-64741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -258,7 +255,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63806
-
 - id: c-64742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -282,7 +278,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63808
-
 - id: c-167484
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -313,7 +308,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   pagrindzia:
     - t-63804
     - t-63805
-
 - id: c-176945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -338,6 +332,5 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194498
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Kujavija]]

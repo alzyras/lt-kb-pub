@@ -105,7 +105,6 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87502
-
 - id: c-83481
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

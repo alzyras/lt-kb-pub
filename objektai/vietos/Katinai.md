@@ -99,7 +99,6 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41763
-
 - id: c-45126
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

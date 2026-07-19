@@ -82,6 +82,5 @@ Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21485
-
 ## Ryšiai
 - Užėmė Kauno tvirtovę: [[objektai/grupes/Vokiečiai]]

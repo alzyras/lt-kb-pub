@@ -52,8 +52,6 @@ Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 - susijęs iš [[objektai/asmenys/Mikalojus Kurovskis.md#claim-t-186239|Mikalojus Kurovskis]]: Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu.

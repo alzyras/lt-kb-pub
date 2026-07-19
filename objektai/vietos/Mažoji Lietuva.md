@@ -110,7 +110,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163921
-
+    - c-167011
 <a id="claim-t-180291"></a>
 - t-005
   global_id: t-180291
@@ -299,7 +299,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180302
-
 - id: c-163912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -330,7 +329,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180294
-
 - id: c-163913
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -353,7 +351,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180287
-
 - id: c-163914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -377,7 +374,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - t-180286
     - t-180291
     - t-193648
-
 - id: c-163915
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -403,7 +399,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180295
-
 - id: c-163917
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -427,7 +422,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180300
-
 - id: c-163918
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -450,7 +444,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180285
-
 - id: c-163921
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -469,7 +462,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180290
-
 - id: c-163923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -489,7 +481,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180298
-
 - id: c-163927
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -512,7 +503,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180303
-
 - id: c-166444
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -532,7 +522,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180299
-
 - id: c-167011
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

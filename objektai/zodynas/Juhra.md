@@ -64,7 +64,7 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175074
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -83,8 +83,7 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192223
 ## Citatos
 
 - id: c-175074

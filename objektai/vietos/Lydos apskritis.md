@@ -59,7 +59,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171789
-
+    - c-001
 <a id="claim-t-188901"></a>
 - t-002
   global_id: t-188901
@@ -102,7 +102,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171791
-
+    - c-003
 <a id="claim-t-194739"></a>
 - t-004
   global_id: t-194739
@@ -116,7 +116,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177135
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1826 m. Lydos apskrityje, prie Ogrodnikų kaimo Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų.'
@@ -133,8 +133,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188900
 - c-003
   santrauka: 'Narbutas Lydos apskritį priskyrė Tikrajai Lietuvai, kur, jo teigimu, nuo seniausių laikų buvo obelijomis vadintų pelenų laikymo vietų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -152,8 +151,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188902
 - c-004
   santrauka: 'Vilniaus akademijos mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens, šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę rasti Lydos apskrityje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -170,8 +168,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194739
 ## Citatos
 
 - id: c-171789
@@ -193,7 +190,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188900
-
 - id: c-171790
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -213,7 +209,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188901
-
 - id: c-171791
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -237,7 +232,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188902
-
 - id: c-177135
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -261,6 +255,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194739
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Ragutėniškiai]]

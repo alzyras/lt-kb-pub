@@ -53,7 +53,7 @@ Dusburgietis teigia, kad zientara B.
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą apie publikaciją."
   pagrindžia:
     - c-62014
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'B. Zientaros straipsnis „Sprawy pruskie w polityce Henryka Brodatego“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad zientara B.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61382
 ## Citatos
 
 - id: c-62014

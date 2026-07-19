@@ -90,7 +90,6 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196582
-
 - id: c-178779
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

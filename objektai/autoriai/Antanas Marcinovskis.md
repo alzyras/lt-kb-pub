@@ -181,7 +181,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173572
-
+    - c-007
 <a id="claim-t-190691"></a>
 - t-008
   global_id: t-190691
@@ -202,7 +202,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173573
-
+    - c-008
 <a id="claim-t-197580"></a>
 - t-009
   global_id: t-197580
@@ -248,8 +248,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-190690
 - c-008
   santrauka: 'Antanas Marcinovskis, „Kurjer Litewski“ redaktorius ir Narbuto veikalų leidėjas, atsiuntė Narbutui tikslią monetos piešinio kopiją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -267,8 +266,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-190691
 ## Citatos
 
 - id: c-170744
@@ -291,7 +289,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187939
-
 - id: c-170745
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -312,7 +309,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187935
-
 - id: c-170746
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -331,7 +327,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187937
-
 - id: c-170925
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -354,7 +349,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187938
-
 - id: c-170926
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -377,7 +371,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187936
-
 - id: c-173510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -399,7 +392,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190627
-
 - id: c-173572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -426,7 +418,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190690
-
 - id: c-173573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -452,7 +443,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190691
-
 - id: c-179251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

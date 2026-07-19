@@ -63,8 +63,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175080
-
+    - c-002
 <a id="claim-t-192235"></a>
 - t-002
   global_id: t-192235
@@ -120,7 +119,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175082
-
+    - c-004
 <a id="claim-t-192238"></a>
 - t-007
   global_id: t-192238
@@ -138,8 +137,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175080
-
+    - c-002
 <a id="claim-t-192239"></a>
 - t-008
   global_id: t-192239
@@ -159,7 +157,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175082
-
+    - c-004
 <a id="claim-t-192572"></a>
 - t-004
   global_id: t-192572
@@ -180,7 +178,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175349
-
+    - c-175080
 <a id="claim-t-192573"></a>
 - t-005
   global_id: t-192573
@@ -240,9 +238,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-007
-
+    - t-192234
+    - t-192238
 - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -261,9 +258,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-    - t-006
-
+    - t-192237
+    - t-192239
 ## Citatos
 
 - id: c-175079
@@ -287,7 +283,6 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   pagrindzia:
     - t-192235
     - t-192236
-
 - id: c-175080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -311,9 +306,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192234
-    - t-192238
-
+    - t-192572
 - id: c-175082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -342,7 +335,6 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   pagrindzia:
     - t-192237
     - t-192239
-
 - id: c-175349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -366,7 +358,6 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192572
-
 - id: c-175350
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -393,7 +384,6 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192573
-
 - id: c-179298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

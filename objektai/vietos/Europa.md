@@ -198,7 +198,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   temporalinis_llm_pakomentavimas: "Vertinamasis Europos tautų apibūdinimas paliktas su Narbuto atribucija. Neplėsta jo civilizacinė priešprieša Azijai ir Afrikai."
   pagrindžia:
     - c-171577
-
+    - c-006
 <a id="claim-t-192659"></a>
 - t-009
   global_id: t-192659
@@ -219,7 +219,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175429
-
+    - c-008
 <a id="claim-t-193635"></a>
 - t-010
   global_id: t-193635
@@ -1554,8 +1554,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188688
 - c-008
   santrauka: 'Narbutas Europą, palyginti su Azija ir Afrika, vadino naujesniu ir vėliau apgyvendintu bei civilizuotu žemynu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1575,8 +1574,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-192659
 ## Citatos
 
 - id: c-24120
@@ -1596,7 +1594,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109174
-
 - id: c-37365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1618,7 +1615,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindzia:
     - t-109176
     - t-109177
-
 - id: c-101244
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1669,7 +1665,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindzia:
     - t-109172
     - t-109173
-
 - id: c-101247
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1690,7 +1685,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109175
-
 - id: c-101248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1710,7 +1704,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109178
-
 - id: c-171577
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1737,7 +1730,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindzia:
     - t-188688
     - t-197462
-
 - id: c-175429
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1764,7 +1756,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindzia:
     - t-192659
     - t-197876
-
 - id: c-176306
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1783,7 +1774,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193635
-
 - id: c-184122
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1804,7 +1794,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200777
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Persai]], [[objektai/asmenys/Snorro Sturleson]]
 - Puolė Europą: [[objektai/grupes/Hunai]]

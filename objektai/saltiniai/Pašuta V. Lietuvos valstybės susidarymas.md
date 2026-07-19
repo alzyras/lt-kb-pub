@@ -121,7 +121,6 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   pagrindzia:
     - t-60924
     - t-197022
-
 - id: c-179007
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -137,7 +136,6 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197023
-
 - id: c-179008
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

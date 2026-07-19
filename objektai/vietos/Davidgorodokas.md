@@ -91,7 +91,7 @@ Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
+    - t-187218
+    - t-187219
+    - t-187569
+    - t-194026

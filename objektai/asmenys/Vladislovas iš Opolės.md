@@ -103,7 +103,6 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93549
-
 - id: c-88886
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -123,7 +122,6 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93547
-
 - id: c-88887
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -141,6 +139,5 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93548
-
 ## Ryšiai
 - Vladislovas iš Opolės valdė [[objektai/vietos/Galicija]]

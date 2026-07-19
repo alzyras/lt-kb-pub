@@ -59,4 +59,4 @@ Jonas Sokolas iš Lamberko, vadintas Sokolu Čeku, vadovavo čekų ir moravieči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194136

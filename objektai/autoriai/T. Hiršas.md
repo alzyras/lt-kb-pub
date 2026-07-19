@@ -57,7 +57,7 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
   temporalinis_llm_pakomentavimas: "Citata aiškiai pateikia T. Hiršo interpretaciją; pradinis teiginys negramatiškas."
   pagrindžia:
     - c-87596
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Hiršas villa Culmen laikė rašybos klaida ir siejo šį vietovardį su Kulva.'
@@ -74,8 +74,7 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-91955
 ## Citatos
 
 - id: c-87596

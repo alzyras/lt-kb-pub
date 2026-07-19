@@ -170,7 +170,6 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101586
-
 - id: c-24827
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -192,7 +191,6 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101584
-
 - id: c-24828
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -210,7 +208,6 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101585
-
 - id: c-24829
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -229,7 +226,6 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101588
-
 - id: c-95101
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -251,7 +247,6 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101587
-
 - id: c-166818
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

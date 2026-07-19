@@ -65,7 +65,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83153
-
+    - c-167211
 ## Citatos
 
 - id: c-83153
@@ -101,7 +101,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87174
-
 - id: c-167211
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -128,7 +128,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58819
-
 - id: c-59451
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -148,7 +147,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58821
-
 - id: c-59452
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -168,7 +166,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58820
-
 - id: c-59453
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

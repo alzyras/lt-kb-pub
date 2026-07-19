@@ -145,7 +145,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55218
-
 - id: c-55646
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -168,7 +167,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   pagrindzia:
     - t-55219
     - t-82004
-
 - id: c-78514
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -187,7 +185,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82003
-
 - id: c-78515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

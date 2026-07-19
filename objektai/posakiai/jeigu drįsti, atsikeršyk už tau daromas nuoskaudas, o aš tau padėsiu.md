@@ -38,7 +38,7 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59734
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Puotoje Skomantas paragino brolį Liudviką atsikeršyti už įžeidimus ir pažadėjo jam padėti.'
@@ -55,8 +55,7 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59102
 ## Citatos
 
 - id: c-59734

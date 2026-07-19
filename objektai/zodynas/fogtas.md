@@ -229,7 +229,6 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
   pagrindzia:
     - t-58811
     - t-194452
-
 - id: c-59443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -250,7 +249,6 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58810
-
 - id: c-59444
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -265,7 +263,6 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58813
-
 - id: c-59445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -284,7 +281,6 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58812
-
 - id: c-167972
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -319,7 +315,6 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
   pagrindzia:
     - t-184611
     - t-196369
-
 - id: c-167973
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

@@ -144,7 +144,6 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86728
-
 - id: c-82706
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -165,7 +164,6 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86727
-
 - id: c-82707
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -184,7 +182,6 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86726
-
 - id: c-82708
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

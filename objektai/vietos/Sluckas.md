@@ -225,8 +225,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   sudarymo_pagrindimas: 'Teiginys yra trumpas pilnas sakinys apie gyvenvietę prie Slucko. Citata tiesiogiai pateikia tą pačią lokalizaciją.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Naugardukas'
   pagrindžia:
-    - c-170595
-
+    - c-009
 <a id="claim-t-187651"></a>
 - t-012
   global_id: t-187651
@@ -240,7 +239,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Gričino pelkių pobūdį ir padėtį Slucko atžvilgiu. Citatos OCR bei gretimi vietovardžiai neįtraukti.'
   pagrindžia:
-    - c-170596
+    - c-010
 - susijęs iš [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką.md#claim-t-185695|Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]: Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos.
 - susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187762|Slucko kunigaikščiai Olelkaičiai]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.
 - susijęs iš [[objektai/grupes/Vilniaus lietuvių seimas.md#claim-t-185439|Vilniaus lietuvių seimas (seimas, XV a.)]]: Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį.
@@ -353,8 +352,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
 - c-009
   santrauka: 'Umolts — gyvenvietė prie Slucko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -371,8 +368,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-187650
 - c-010
   santrauka: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -388,8 +384,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-187651
 ## Citatos
 
 - id: c-43861
@@ -414,7 +409,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   pagrindzia:
     - t-84800
     - t-84804
-
 - id: c-43862
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -436,7 +430,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84806
-
 - id: c-46722
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -462,7 +455,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84802
-
 - id: c-46723
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -483,7 +475,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   pagrindzia:
     - t-84799
     - t-84801
-
 - id: c-80929
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -505,8 +496,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-84807
-
+    - t-84808
 - id: c-80930
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -526,7 +516,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84803
-
 - id: c-80933
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -551,6 +540,5 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84805
-
 ## Ryšiai
 - Puolė Slucką: [[objektai/asmenys/Biti Girėjus]], [[objektai/asmenys/Burnaš Girėjus]]

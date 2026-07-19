@@ -42,7 +42,7 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172120
-
+    - c-001
 <a id="claim-t-189233"></a>
 - t-002
   global_id: t-189233
@@ -56,7 +56,7 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172121
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę, laikytus svetingumo dievybėmis.'
@@ -73,8 +73,7 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189232
 - c-002
   santrauka: 'Narbutas rašo, kad miestuose buvę svečių namai, vadinti namijomis, arba Numejone, kur svetimšaliai jautėsi saugūs su savo turtu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -92,8 +91,7 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189233
 ## Citatos
 
 - id: c-172120
@@ -116,7 +114,6 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189232
-
 - id: c-172121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -42,6 +42,7 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174381
+    - c-001
 - susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191242|Aleksandras Humboltas]]: Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Žemės rutulys buvo karštas tarsi raudonai įkaitinta geležis.
 - susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191243|Aleksandras Humboltas]]: Narbutas Aleksandro Humbolto veikalus apie Žemės temperatūros kitimą siejo su prielaida, kad Šiaurėje labai seniai būta gyventojų.
 - susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191244|Aleksandras Humboltas]]: Narbutas Humboltui priskiria aiškinimą, kad tropikų augalija ir gyvūnija senovės Šiaurėje atsirado dėl ten išsiskyrusios šilumos.
@@ -74,8 +75,7 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191499
 ## Citatos
 
 - id: c-174381

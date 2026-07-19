@@ -58,4 +58,3 @@ Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomiems viešose ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001

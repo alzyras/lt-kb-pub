@@ -140,7 +140,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193688
-
 - id: c-176358
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -164,7 +163,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193689
-
 - id: c-176359
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -185,7 +183,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193690
-
 - id: c-176360
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -202,7 +199,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193691
-
 - id: c-184234
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"

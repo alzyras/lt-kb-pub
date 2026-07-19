@@ -48,7 +48,7 @@ Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storum
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173289
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storumo buvęs tarsi tvirtovė.'
@@ -67,8 +67,7 @@ Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storum
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190406
 ## Citatos
 
 - id: c-173289

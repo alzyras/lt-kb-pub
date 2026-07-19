@@ -79,6 +79,7 @@ Korsako ir J.
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia, kad K. Korsakas sąraše nurodytas redakcinės komisijos pirmininku."
   pagrindžia:
     - c-169797
+    - c-001
 - susijęs iš [[objektai/autoriai/A. Venclova.md#claim-t-186436|A. Venclova]]: A. Venclova buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
 - susijęs iš [[objektai/autoriai/J. Pauonis.md#claim-t-186435|J. Pauonis]]: J. Pauonis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
 - susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186444|Juozas Jurginis]]: Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
@@ -103,8 +104,7 @@ Korsako ir J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186447
 ## Citatos
 
 - id: c-169797
@@ -128,7 +128,6 @@ Korsako ir J.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186447
-
 - id: c-169802
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -110,7 +110,6 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40370
-
 - id: c-44475
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -134,7 +133,6 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40369
-
 - id: c-44476
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -161,6 +159,5 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40368
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

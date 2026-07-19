@@ -98,7 +98,6 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28750
-
 - id: c-167735
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

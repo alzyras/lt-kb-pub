@@ -76,7 +76,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   semantiniai_rysiai: "Gediminas rėmė Vladislovas (0.90)"
   pagrindžia:
     - c-168216
-
+    - c-002
 <a id="claim-t-184856"></a>
 - t-003
   global_id: t-184856
@@ -97,7 +97,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   semantiniai_rysiai: "Gediminas rėmė Vladislovas (0.90); Gediminas kariavo prieš Kryžiuočių ordinas (0.84)"
   pagrindžia:
     - c-168217
-
+    - c-003
 <a id="claim-t-201047"></a>
 - t-004
   global_id: t-201047
@@ -187,8 +187,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-184855
 - c-003
   santrauka: 'Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -213,8 +212,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-184856
 ## Citatos
 
 - id: c-44570
@@ -251,7 +249,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40522
-
 - id: c-168216
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -292,7 +289,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184855
-
 - id: c-168217
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -326,7 +322,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184856
-
 - id: c-184397
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -351,7 +346,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201047
-
 ## Ryšiai
 - Rėmė Vladislovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Vladislovas mirė [[objektai/vietos/Bulgarija]]

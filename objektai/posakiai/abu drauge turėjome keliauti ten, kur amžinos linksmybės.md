@@ -45,7 +45,7 @@ Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167407
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge turėjome keliauti ten, kur amžinos linksmybės“.'
@@ -64,9 +64,7 @@ Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-59071
 ## Citatos
 
 - id: c-167407

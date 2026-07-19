@@ -96,7 +96,6 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78387
-
 - id: c-75669
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -117,6 +116,5 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78386
-
 ## Ryšiai
 - Marijampolės batalionas priklausė [[objektai/grupes/11 brigada]]

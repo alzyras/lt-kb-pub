@@ -70,7 +70,7 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174953
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas trečiąjį Kurcho pakabutį aprašo kaip panašų į Berlyno muziejaus pavyzdį, tik su raiteliu iš dešinės pusės ir tomis pačiomis raidėmis.'
@@ -89,8 +89,7 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192084
 ## Citatos
 
 - id: c-174953

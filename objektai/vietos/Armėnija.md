@@ -45,6 +45,7 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59391
+    - c-001
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
 - susijęs iš Istachrio Abu Izaoko al Farisi žemėlapiai: Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi žemėlapių, tarp jų Armėnijos žemėlapį su Araksu, vadinamu Nahr-Russ.
 - susijęs iš Araksas: Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, gyveno budinai, ir Volgos žemupį, kur jie vėliau apsigyveno.
@@ -70,8 +71,7 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58759
 ## Citatos
 
 - id: c-59391

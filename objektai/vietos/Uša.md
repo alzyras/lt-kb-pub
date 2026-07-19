@@ -61,5 +61,4 @@ Uša yra Nemuno intakas, prie kurio yra Nesvyžius. Uša yra Nemuno intakas, pri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-006
+    - t-187374

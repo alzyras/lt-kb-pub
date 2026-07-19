@@ -334,7 +334,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111499
-
 - id: c-103081
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -356,7 +355,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111493
-
 - id: c-103082
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -378,7 +376,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111492
-
 - id: c-103083
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -397,7 +394,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111494
-
 - id: c-103084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -439,7 +435,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111497
-
 - id: c-103085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -466,7 +461,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   pagrindzia:
     - t-111491
     - t-111496
-
 - id: c-184236
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -503,7 +497,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200893
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Henrikas IV]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]

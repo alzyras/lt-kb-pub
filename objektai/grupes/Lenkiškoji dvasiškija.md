@@ -96,7 +96,6 @@ Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200878
-
 - id: c-184232
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"

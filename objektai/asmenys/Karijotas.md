@@ -132,7 +132,6 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179639
-
 - id: c-167136
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -168,7 +167,6 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183748
-
 - id: c-178740
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -193,7 +191,6 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196512
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - Broliai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

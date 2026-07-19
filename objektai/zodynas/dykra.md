@@ -100,7 +100,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   temporalinis_llm_pakomentavimas: "Teiginys glaustai ir aiškiai perteikia citatoje nurodytą faktą."
   pagrindžia:
     - c-06414
-
+    - c-85491
 <a id="claim-t-05595"></a>
 - t-003
   global_id: t-05595
@@ -134,7 +134,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85486
-
+    - c-002
 <a id="claim-t-89545"></a>
 - t-005
   global_id: t-89545
@@ -151,7 +151,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85494
-
+    - c-008
 <a id="claim-t-89546"></a>
 - t-006
   global_id: t-89546
@@ -168,7 +168,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85489
-
+    - c-003
 <a id="claim-t-89547"></a>
 - t-007
   global_id: t-89547
@@ -291,6 +291,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85486
+    - c-002
 - susijęs iš [[objektai/autoriai/J. Poverskis.md#claim-t-64635|J. Poverskis]]: J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60508|Powierski J]]: J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
 - susijęs iš [[objektai/grupes/Prūsijos valstybė.md#claim-t-19969|Prūsijos valstybė]]: Vokiečių ordino valstybė vėliau pasivadino Prūsijos hercogija, o dar vėliau – Prūsijos karalija.
@@ -318,9 +319,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-014
-
+    - t-89544
+    - t-89554
 - c-003
   santrauka: 'Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -340,8 +340,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-89546
 - c-008
   santrauka: 'Karalius nužygiavo į Bartos žemės dykras, į Vaplaukio lauką, ir ten gyrėsi supančiotiems krikščionių belaisviams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -361,8 +360,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-89545
 ## Citatos
 
 - id: c-06414
@@ -402,7 +400,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindzia:
     - t-89544
     - t-89554
-
 - id: c-85489
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -429,7 +426,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89546
-
 - id: c-85490
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -450,7 +446,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - t-05593
     - t-05595
     - t-89547
-
 - id: c-85491
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -467,9 +462,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-05594
+    - t-89551
     - t-89550
-
 - id: c-85492
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -490,7 +484,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindzia:
     - t-05593
     - t-89549
-
 - id: c-85493
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -510,7 +503,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   pagrindzia:
     - t-05593
     - t-89552
-
 - id: c-85494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -540,7 +532,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89545
-
 - id: c-85495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

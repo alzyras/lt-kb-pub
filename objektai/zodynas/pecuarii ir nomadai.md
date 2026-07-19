@@ -153,7 +153,6 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
   pagrindzia:
     - t-192147
     - t-192150
-
 - id: c-175033
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

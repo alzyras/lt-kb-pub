@@ -130,7 +130,6 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82282
-
 - id: c-78760
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -164,7 +163,6 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82281
-
 ## Ryšiai
 - Eberhardas (Varmės vyskupas) puolė [[objektai/vietos/Pagraudė]]
 - Eberhardas (Varmės vyskupas) surengė žygį į [[objektai/vietos/Pagraudė]]

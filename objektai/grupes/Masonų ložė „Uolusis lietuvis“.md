@@ -146,7 +146,6 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
   pagrindzia:
     - t-65916
     - t-65917
-
 - id: c-166558
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

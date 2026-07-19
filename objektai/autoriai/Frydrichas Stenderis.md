@@ -70,7 +70,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173150
-
+    - c-003
 <a id="claim-t-190268"></a>
 - t-002
   global_id: t-190268
@@ -133,7 +133,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173154
-
+    - c-006
 <a id="claim-t-190277"></a>
 - t-008
   global_id: t-190277
@@ -154,7 +154,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173160
-
+    - c-008
 <a id="claim-t-190279"></a>
 - t-007
   global_id: t-190279
@@ -230,7 +230,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177050
-
+    - c-012
 <a id="claim-t-194654"></a>
 - t-011
   global_id: t-194654
@@ -258,7 +258,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177052
-
+    - c-014
 <a id="claim-t-194656"></a>
 - t-013
   global_id: t-194656
@@ -272,7 +272,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177053
-
+    - c-015
 <a id="claim-t-194657"></a>
 - t-017
   global_id: t-194657
@@ -300,7 +300,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177055
-
+    - c-017
 <a id="claim-t-197294"></a>
 - t-016
   global_id: t-197294
@@ -345,8 +345,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190267
 - c-006
   santrauka: 'Stenderis pastebėjo, kad latviai turėjo deivę Dyža arba Dysza, kurią Narbutas pagal ypatybes siejo su Pergrube.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -365,8 +364,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-190271
 - c-008
   santrauka: 'Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -384,8 +382,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-190277
 - c-012
   santrauka: 'Narbutas teigia, kad šio dievo garbei buvo švenčiama šventė apie gruodžio 25 1 Stender.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -401,8 +398,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-194653
 - c-014
   santrauka: 'Tai rodo, kad vietos gyventojai kadaise Nemuną tik rai vadino Kruoniu (Kronus)'', o gal kaip deivė upė buvo garbi- 17 Stender.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -418,8 +414,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-194655
 - c-015
   santrauka: 'Frydrichas Stenderis gali patekti į pastatą net pro rakto skylutę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -435,8 +430,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-194656
 - c-017
   santrauka: 'Jis gyvendavo žemėje, 16 16 Stender, Lettische Grammatik.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -456,8 +450,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
+    - t-194658
 ## Citatos
 
 - id: c-173148
@@ -483,7 +476,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190265
-
 - id: c-173150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -507,7 +499,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190267
-
 - id: c-173151
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -528,7 +519,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190268
-
 - id: c-173153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -549,7 +539,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190270
-
 - id: c-173154
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -576,7 +565,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190271
-
 - id: c-173160
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -598,7 +586,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190277
-
 - id: c-173162
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -617,7 +604,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190279
-
 - id: c-173163
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -637,7 +623,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190280
-
 - id: c-173164
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -655,7 +640,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190281
-
 - id: c-177050
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -676,7 +660,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194653
-
 - id: c-177051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -695,7 +678,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194654
-
 - id: c-177052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -718,7 +700,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194655
-
 - id: c-177053
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -739,7 +720,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194656
-
 - id: c-177054
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -759,7 +739,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194657
-
 - id: c-177055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -780,7 +759,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194658
-
 - id: c-179108
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -800,7 +778,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197294
-
 - id: c-179109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

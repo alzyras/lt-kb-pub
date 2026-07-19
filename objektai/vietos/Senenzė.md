@@ -90,7 +90,6 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63297
-
 ## Ryšiai
 - Puolė Senenzę: [[objektai/grupes/Bartai]]
 - Apgulė Senenzę: [[objektai/asmenys/Divanas]]

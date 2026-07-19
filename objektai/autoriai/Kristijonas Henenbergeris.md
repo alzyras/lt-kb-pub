@@ -106,9 +106,6 @@ Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-174481
@@ -137,7 +134,6 @@ Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191599
-
 - id: c-174482
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

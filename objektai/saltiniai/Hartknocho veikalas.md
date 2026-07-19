@@ -66,4 +66,4 @@ Hartknocho veikalas pateikė lietuvių kalbos, vartotos Prūsijoje Nemuno žemup
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-190491

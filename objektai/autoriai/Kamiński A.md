@@ -78,7 +78,6 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91930
-
 - id: c-178998
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

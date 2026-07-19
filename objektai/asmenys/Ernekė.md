@@ -102,7 +102,6 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60112
-
 - id: c-60744
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -124,7 +123,6 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60111
-
 - id: c-178695
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -164,6 +162,5 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196449
-
 ## Ryšiai
 - Ernekė keliavo į [[objektai/vietos/Lietuva]]

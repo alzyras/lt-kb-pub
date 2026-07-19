@@ -49,7 +49,7 @@ Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žage
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177233
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui.'
@@ -64,8 +64,7 @@ Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žage
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194837
 ## Citatos
 
 - id: c-177233

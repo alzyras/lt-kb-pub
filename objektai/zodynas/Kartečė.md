@@ -122,7 +122,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78901
-
 - id: c-44136
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -145,7 +144,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   pagrindzia:
     - t-78900
     - t-78902
-
 - id: c-44137
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -176,7 +174,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78898
-
 - id: c-76008
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -196,7 +193,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78896
-
 - id: c-176413
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

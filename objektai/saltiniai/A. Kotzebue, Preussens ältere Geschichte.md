@@ -48,7 +48,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174589
-
+    - c-001
 <a id="claim-t-194894"></a>
 - t-002
   global_id: t-194894
@@ -78,8 +78,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191707
 ## Citatos
 
 - id: c-174589
@@ -103,7 +102,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191707
-
 - id: c-177290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

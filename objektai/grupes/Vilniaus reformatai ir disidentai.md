@@ -115,7 +115,6 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86749
-
 - id: c-82729
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -141,7 +140,6 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86750
-
 - id: c-82730
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

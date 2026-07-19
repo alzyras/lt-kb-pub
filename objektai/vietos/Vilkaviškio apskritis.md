@@ -94,7 +94,6 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELI
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42276
-
 - id: c-45409
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

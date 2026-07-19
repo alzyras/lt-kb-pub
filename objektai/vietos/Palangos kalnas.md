@@ -91,7 +91,6 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188960
-
 - id: c-171850
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

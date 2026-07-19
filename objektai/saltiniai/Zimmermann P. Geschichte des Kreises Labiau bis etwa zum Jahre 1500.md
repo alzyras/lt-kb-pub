@@ -48,7 +48,7 @@ Dusburgietis teigia, kad zimmermann P.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinę informaciją apie leidinį."
   pagrindžia:
     - c-62016
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Zimmermanno veikalas „Geschichte des Kreises Labiau bis etwa zum Jahre 1500“ išleistas Labiau 1925 m.'
@@ -62,8 +62,7 @@ Dusburgietis teigia, kad zimmermann P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61384
 ## Citatos
 
 - id: c-62016

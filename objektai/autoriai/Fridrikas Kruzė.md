@@ -85,9 +85,6 @@ Ponas Fridrikas Kruzė vykdė kapaviečių kasinėjimus Kurše, Infliantuose ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-174442

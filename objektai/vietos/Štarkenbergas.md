@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata remia užbaigtą faktą apie antrosios pilies vietą."
   pagrindžia:
     - c-59122
-
+    - c-001
 <a id="claim-t-58491"></a>
 - t-002
   global_id: t-58491
@@ -75,7 +75,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastatė Štarkenbergas (0.62)"
   pagrindžia:
     - c-59123
-
+    - c-002
 <a id="claim-t-58492"></a>
 - t-003
   global_id: t-58492
@@ -127,8 +127,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58490
 - c-002
   santrauka: 'Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -146,8 +145,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58491
 ## Citatos
 
 - id: c-59122
@@ -174,7 +172,6 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58490
-
 - id: c-59123
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -200,7 +197,6 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58491
-
 - id: c-59124
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

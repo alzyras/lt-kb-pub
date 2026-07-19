@@ -135,7 +135,6 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190213
-
 - id: c-184379
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -157,7 +156,6 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201029
-
 - id: c-184380
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -180,7 +178,6 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201030
-
 - id: c-184381
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -201,7 +198,6 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201031
-
 - id: c-184382
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

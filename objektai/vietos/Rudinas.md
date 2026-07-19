@@ -64,7 +64,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87074
-
+    - c-001
 <a id="claim-t-91361"></a>
 - t-003
   global_id: t-91361
@@ -81,6 +81,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87076
+    - c-003
 - susijęs iš [[objektai/ivykiai/Rudino brolių susidūrimas su trimis ir penkiais prūsais.md#claim-t-59596|Rudino brolių susidūrimas su trimis ir penkiais prūsais]]: Vienas Rudino brolis ir Martynas iš Golino, pasiklydę dykrose, susidūrė su prūsais, juos įveikė ir grįžo į Rudino pilį.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63910|Martynas iš Golino]]: Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63912|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.
@@ -120,8 +121,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-91360
 - c-003
   santrauka: 'Pasak kai kurių žmonių, Rudino miestas buvo du kartus užkariautas, o jo gyventojai paimti į nelaisvę arba išžudyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -137,8 +137,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-91361
 ## Citatos
 
 - id: c-87074
@@ -164,7 +163,6 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91360
-
 - id: c-87075
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -186,7 +184,6 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91359
-
 - id: c-87076
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -208,6 +205,5 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91361
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Martynas iš Golino]]

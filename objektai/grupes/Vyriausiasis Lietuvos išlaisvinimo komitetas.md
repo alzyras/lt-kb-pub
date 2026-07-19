@@ -106,7 +106,6 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66326
-
 - id: c-66609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

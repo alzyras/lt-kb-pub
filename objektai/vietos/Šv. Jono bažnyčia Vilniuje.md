@@ -177,7 +177,6 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195203
-
 - id: c-177563
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -200,7 +199,6 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195204
-
 - id: c-177564
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -224,7 +222,6 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195204
-
 - id: c-177565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -252,7 +249,6 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195202
-
 - id: c-177566
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -272,7 +268,6 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195198
-
 - id: c-177567
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -301,7 +296,6 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195200
-
 - id: c-177568
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -328,7 +322,6 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   pagrindzia:
     - t-195199
     - t-195201
-
 - id: c-184134
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

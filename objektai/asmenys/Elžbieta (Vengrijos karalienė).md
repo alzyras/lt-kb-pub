@@ -98,7 +98,6 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87494
-
 - id: c-176825
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -73,7 +73,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174945
-
+    - c-002
 <a id="claim-t-192075"></a>
 - t-002
   global_id: t-192075
@@ -91,7 +91,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174946
-
+    - c-003
 <a id="claim-t-192076"></a>
 - t-003
   global_id: t-192076
@@ -128,6 +128,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175296
+    - c-004
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
 - susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-183680|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.
 - susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71779|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.
@@ -153,8 +154,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192074
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -173,8 +173,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192075
 - c-004
   santrauka: 'Narbuto pasakojime po rusų jūros pajėgų sutriuškinimo nugalėtojai įplaukę į įlanką turėjo brautis pro sudužusias valtis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -193,8 +192,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192506
 ## Citatos
 
 - id: c-174944
@@ -228,7 +226,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192076
-
 - id: c-174945
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -254,7 +251,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192074
-
 - id: c-174946
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -279,7 +275,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192075
-
 - id: c-175296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

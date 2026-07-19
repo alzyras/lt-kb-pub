@@ -106,7 +106,6 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36344
-
 - id: c-167679
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -126,6 +125,5 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184306
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

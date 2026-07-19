@@ -138,7 +138,6 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60210
-
 - id: c-60843
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -161,7 +160,6 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60211
-
 - id: c-168195
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -186,7 +184,6 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184834
-
 ## Ryšiai
 - Puolė Sudargą: [[objektai/asmenys/Albrechtas iš Hageno]]
 - Sudargas puolė [[objektai/grupes/Kryžiuočių ordinas]]

@@ -55,7 +55,7 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko glaustą faktą."
   pagrindžia:
     - c-59337
-
+    - c-001
 <a id="claim-t-194543"></a>
 - t-003
   global_id: t-194543
@@ -68,6 +68,7 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59337
+    - c-001
 - susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-183942|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
 - susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-62388|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
 - susijęs iš Ispanija: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
@@ -94,10 +95,8 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
+    - t-58705
+    - t-194543
 ## Citatos
 
 - id: c-59337
@@ -121,6 +120,5 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   pagrindzia:
     - t-58705
     - t-194543
-
 ## Ryšiai
 - Užėmė Menorką: [[objektai/grupes/Saracėnai]]

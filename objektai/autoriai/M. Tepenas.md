@@ -97,7 +97,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-56017
-
+    - c-001
 <a id="claim-t-64748"></a>
 - t-004
   global_id: t-64748
@@ -118,7 +118,8 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   pagrindžia:
     - c-56018
     - c-56019
-
+    - c-002
+    - c-003
 <a id="claim-t-64750"></a>
 - t-005
   global_id: t-64750
@@ -138,7 +139,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Tepeno veiksmą ir datą."
   pagrindžia:
     - c-56017
-
+    - c-001
 <a id="claim-t-64752"></a>
 - t-006
   global_id: t-64752
@@ -151,6 +152,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   temporalinis_llm_pakomentavimas: "Bibliografinė citata pagrindžia autoriaus darbą, leidimo vietą ir metus."
   pagrindžia:
     - c-65379
+    - c-006
 - susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60665|Тоерреn M]]: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
 - susijęs iš 1282 m. Mstivojaus ir Ordino taikos dokumentas: M. Tepenas manė, kad Dusburgietis galėjo žinoti 1282 m. Pamario kunigaikščio Mstivojaus ir Ordino taikos dokumentą.
 - susijęs iš 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentu apie lietuvių žygius.
@@ -183,9 +185,8 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-005
-
+    - t-64747
+    - t-64750
 - c-002
   santrauka: 'M. Tepenas 1853 m. Berlyne paskelbė veikalą „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -198,8 +199,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-64748
 - c-003
   santrauka: 'M. Tepenas 1853 m. Berlyne paskelbė veikalą „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -213,8 +213,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-64748
 - c-006
   santrauka: 'M. Tepenas 1858 m. Gotoje išleido „Historisch-comparative Geographie von Preussen“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -226,8 +225,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-64752
 ## Citatos
 
 - id: c-56017
@@ -256,7 +254,6 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   pagrindzia:
     - t-64747
     - t-64750
-
 - id: c-56018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -274,7 +271,6 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64748
-
 - id: c-56019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -294,7 +290,6 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64748
-
 - id: c-65376
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -314,7 +309,6 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64746
-
 - id: c-65378
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -332,7 +326,6 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64745
-
 - id: c-65379
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -48,7 +48,7 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169570
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui.'
@@ -88,8 +88,7 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186209
 ## Citatos
 
 - id: c-169570

@@ -88,6 +88,5 @@ XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasist
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188947
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

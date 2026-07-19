@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata apie 1283 m. žygį."
   pagrindžia:
     - c-59213
-
+    - c-002
 <a id="claim-t-58581"></a>
 - t-002
   global_id: t-58581
@@ -92,8 +92,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58580
 ## Citatos
 
 - id: c-59212
@@ -111,7 +110,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58581
-
 - id: c-59213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

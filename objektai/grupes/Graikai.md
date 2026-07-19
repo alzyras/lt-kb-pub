@@ -334,7 +334,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189508
-
 - id: c-172397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -351,7 +350,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189509
-
 - id: c-172398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -372,7 +370,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189510
-
 - id: c-175198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -394,7 +391,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192404
-
 - id: c-175199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -412,7 +408,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192405
-
 - id: c-175200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -436,7 +431,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192406
-
 ## Ryšiai
 - Graikai pastatė [[objektai/daiktai/Aukurai]]
 - Graikai rėmė [[objektai/grupes/Persai]]

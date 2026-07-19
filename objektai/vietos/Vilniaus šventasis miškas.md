@@ -42,7 +42,7 @@ Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177174
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.'
@@ -58,8 +58,7 @@ Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194778
 ## Citatos
 
 - id: c-177174

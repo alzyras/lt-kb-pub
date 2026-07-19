@@ -101,7 +101,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32616
-
 - id: c-167770
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -119,6 +118,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184405
-
 ## Ryšiai
 - Puolė Tverės sritį: [[objektai/grupes/Lietuviai]]

@@ -90,6 +90,5 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93195
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vaidotas (Butauto sūnus)]]

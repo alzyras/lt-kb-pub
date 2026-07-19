@@ -116,7 +116,6 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186885
-
 - id: c-170072
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

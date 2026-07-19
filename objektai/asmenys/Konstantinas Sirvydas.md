@@ -79,7 +79,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171456
-
+    - c-003
 <a id="claim-t-188573"></a>
 - t-003
   global_id: t-188573
@@ -100,7 +100,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171462
-
+    - c-004
 <a id="claim-t-197413"></a>
 - t-004
   global_id: t-197413
@@ -136,8 +136,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188567
 - c-004
   santrauka: 'Narbutas nurodo, kad kunigas Konstantinas Sirvydas Aušrą vadino Aurora.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -152,8 +151,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188573
 ## Citatos
 
 - id: c-75368
@@ -176,7 +174,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78063
-
 - id: c-171456
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -198,7 +195,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188567
-
 - id: c-171462
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -221,7 +217,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188573
-
 - id: c-179173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

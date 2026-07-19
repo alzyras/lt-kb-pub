@@ -106,7 +106,6 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54797
-
 - id: c-55795
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

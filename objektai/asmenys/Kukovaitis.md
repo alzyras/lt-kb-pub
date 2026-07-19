@@ -158,7 +158,7 @@ media_all_json: |-
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-176567
+    - c-004
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-184587|Vokiečiai]]: Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184591|Žemaičiai]]: Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
 - susijęs iš Deltuva: Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.
@@ -191,8 +191,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-193942
 ## Citatos
 
 - id: c-169494
@@ -232,7 +231,6 @@ media_all_json: |-
   pagrindzia:
     - t-186133
     - t-196529
-
 - id: c-171460
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -257,7 +255,6 @@ media_all_json: |-
   pagrindzia:
     - t-188571
     - t-197419
-
 - id: c-171461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -283,7 +280,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188572
-
 - id: c-176568
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -304,7 +300,6 @@ media_all_json: |-
   pagrindzia:
     - t-193943
     - t-196843
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pajauta]]
 - Kukovaitis buvo valdovas [[objektai/vietos/Naugardukas]]

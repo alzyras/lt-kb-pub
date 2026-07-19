@@ -319,9 +319,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-010
-
 - c-009
   santrauka: 'Jis nuėjo net iki gelonų ir budinu krašto, kur tik pirmąsyk patyrė didelį džiaugs mą, išgriaudamas keletą tvirtų pilių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -345,8 +342,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
 ## Citatos
 
 - id: c-175157
@@ -376,7 +371,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192362
-
 - id: c-175178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -399,7 +393,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192384
-
 - id: c-175179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -423,7 +416,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   pagrindzia:
     - t-192385
     - t-197497
-
 - id: c-175181
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -450,7 +442,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192387
-
 - id: c-175182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -473,7 +464,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   pagrindzia:
     - t-192388
     - t-197499
-
 - id: c-175183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -497,7 +487,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192389
-
 - id: c-175184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -518,7 +507,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192390
-
 - id: c-175185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -545,7 +533,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192391
-
 - id: c-179220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -571,6 +558,5 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197498
-
 ## Ryšiai
 - Gelonai gyveno [[objektai/vietos/Starobelsko apskritis]], [[objektai/vietos/Volkovysko apskritis]]

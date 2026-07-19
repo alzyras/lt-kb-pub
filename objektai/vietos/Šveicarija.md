@@ -148,7 +148,6 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169555
-
 - id: c-154266
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -170,7 +169,6 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169557
-
 - id: c-175993
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -189,6 +187,5 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193261
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

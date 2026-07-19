@@ -48,6 +48,7 @@ Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171958
+    - c-001
 - susijęs iš [[objektai/asmenys/Raskas.md#claim-t-191510|Raskas]]: Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas.
 - susijęs iš [[objektai/asmenys/Rasmusas Raskas.md#claim-t-191354|Rasmusas Raskas]]: Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas.
 - susijęs iš Dauguva: Narbutas teigė, kad potvynių ir šiaurės vėjų sukelti pokyčiai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių.
@@ -70,8 +71,7 @@ Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189069
 ## Citatos
 
 - id: c-171958

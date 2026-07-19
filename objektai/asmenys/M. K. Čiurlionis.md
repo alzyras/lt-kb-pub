@@ -139,7 +139,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63887
-
 - id: c-21865
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -165,7 +164,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63885
-
 - id: c-21866
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -185,7 +183,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63886
-
 - id: c-184109
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

@@ -49,7 +49,7 @@ Narbutas žvakinius (Žwakones) aprašo kaip pranašautojus, kurie liedavosi žv
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172240
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas žvakinius (Žwakones) aprašo kaip pranašautojus, kurie liedavosi žvakes ir ateitį spėdavo pagal jų degimą bei dūmus.'
@@ -70,8 +70,7 @@ Narbutas žvakinius (Žwakones) aprašo kaip pranašautojus, kurie liedavosi žv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189353
 ## Citatos
 
 - id: c-172240

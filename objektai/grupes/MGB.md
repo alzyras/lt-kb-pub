@@ -114,7 +114,6 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65910
-
 - id: c-42862
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -132,7 +131,6 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65908
-
 - id: c-176237
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

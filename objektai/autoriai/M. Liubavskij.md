@@ -91,7 +91,6 @@ Liubavskij). Liubavskij, M.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30840
-
 - id: c-33057
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -226,7 +226,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78665
-
 - id: c-10250
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -249,7 +248,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08294
-
 - id: c-10251
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -263,7 +261,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08295
-
 - id: c-12233
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -285,7 +282,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10150
-
 - id: c-12234
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -310,7 +306,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10151
-
 - id: c-12235
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -332,7 +327,6 @@ Nenurodyta
     - t-10152
     - t-78663
     - t-193744
-
 - id: c-12236
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

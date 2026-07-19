@@ -94,6 +94,5 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
   pagrindzia:
     - t-186226
     - t-196509
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sviatoslavas]]

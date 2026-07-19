@@ -121,7 +121,6 @@ Vartojamos formos: `meldžionis`.
   pagrindzia:
     - t-07679
     - t-07680
-
 - id: c-184303
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -144,7 +143,6 @@ Vartojamos formos: `meldžionis`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200953
-
 - id: c-184304
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

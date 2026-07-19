@@ -53,7 +53,7 @@ Dusburgietis teigia, kad prūsų kalba —MLTE, 1968, 2, p. 935—936.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį įrašą, o pradinis teiginys neturi predikato."
   pagrindžia:
     - c-61897
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Prūsų kalba“ nurodyta kaip MLTE 1968 m. antro tomo 935–936 puslapių publikacija.'
@@ -68,8 +68,7 @@ Dusburgietis teigia, kad prūsų kalba —MLTE, 1968, 2, p. 935—936.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61265
 ## Citatos
 
 - id: c-61897

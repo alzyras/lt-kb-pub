@@ -45,7 +45,7 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-35656
-
+    - c-167637
 ## Citatos
 
 - id: c-35656
@@ -66,7 +66,6 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34431
-
 - id: c-167637
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -76,8 +76,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Subjektas ir vieta išskleisti iš citatos, o šaltinio grandinė palikta atribuuota dienoraščio pasakojimui. Neperimtas Narbuto vertinimas apie Mildos stabus ir Mingailą.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Kaunas'
   pagrindžia:
-    - c-175294
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Franckevičiaus dienoraščio pasakojime Kauno klebonijoje darbininkas sienoje aptiko įmūrytą cinkinę Veneros statulėlę ir nunešė ją vikarui Mingailai.'
@@ -110,8 +109,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192504
 ## Citatos
 
 - id: c-172615

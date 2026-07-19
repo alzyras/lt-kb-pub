@@ -294,7 +294,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168577
-
+    - c-010
 <a id="claim-t-188876"></a>
 - t-014
   global_id: t-188876
@@ -317,7 +317,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   temporalinis_llm_pakomentavimas: "Ištaisytas OCR sulaužytas vardas ir pridėtas tiesiogiai citatoje nurodytas sužeidimo kontekstas. Sveikatos pasekmė neįtraukta, kad sakinys liktų glaustas."
   pagrindžia:
     - c-171765
-
+    - c-011
 <a id="claim-t-188878"></a>
 - t-015
   global_id: t-188878
@@ -338,7 +338,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-171767
-
+    - c-012
 <a id="claim-t-188879"></a>
 - t-016
   global_id: t-188879
@@ -358,7 +358,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171768
-
+    - c-013
 <a id="claim-t-193260"></a>
 - t-017
   global_id: t-193260
@@ -400,6 +400,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177155
+    - c-016
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79082|Karolis IX]]: Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.
 - susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78705|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
@@ -651,8 +652,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-185216
 - c-011
   santrauka: 'Teodoras Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare ir mūšyje prie Abo miesto buvo kontūzytas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -667,8 +667,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-188876
 - c-012
   santrauka: 'Narbutas Švediją ir Daniją pateikė kaip kraštus, kuriuose prie didžiųjų šventyklų susirinkdavo gausios žmonių minios.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -691,8 +690,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-188878
 - c-013
   santrauka: 'Narbutas rašė, kad Švedijoje vyriausiasis žynys ir teisėjas dėl savo pareigų laikė save aukščiausiuoju karaliumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -707,8 +705,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-188879
 - c-016
   santrauka: 'Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -724,8 +721,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-
+    - t-194759
 ## Citatos
 
 - id: c-112473
@@ -752,7 +748,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122990
-
 - id: c-112474
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -770,7 +765,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122995
-
 - id: c-112475
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -798,7 +792,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindzia:
     - t-122989
     - t-122997
-
 - id: c-112476
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -820,7 +813,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindzia:
     - t-122992
     - t-123000
-
 - id: c-112477
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -846,7 +838,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122991
-
 - id: c-112480
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -865,7 +856,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-123001
-
 - id: c-112482
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -885,7 +875,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122999
-
 - id: c-112484
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -905,7 +894,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-122994
-
 - id: c-112485
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -936,7 +924,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindzia:
     - t-122987
     - t-122998
-
 - id: c-168577
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -967,7 +954,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185216
-
 - id: c-171765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -990,7 +976,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188876
-
 - id: c-171767
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1019,7 +1004,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188878
-
 - id: c-171768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1041,7 +1025,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188879
-
 - id: c-175992
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1058,7 +1041,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193260
-
 - id: c-176326
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1076,7 +1058,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193657
-
 - id: c-177155
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1097,7 +1078,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194759
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Karolis IX]]
 - Buvo kelionės vieta: [[objektai/asmenys/Zigmantas Vaza]]

@@ -65,7 +65,7 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171036
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas pabrėžė laikęsis „griežto kriticizmo“ ir apsiribojęs „kritikos patvirtinta medžiaga“.'
@@ -95,8 +95,7 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188002
 ## Citatos
 
 - id: c-171036

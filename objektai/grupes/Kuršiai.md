@@ -205,7 +205,7 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-31146
-
+    - c-167698
 <a id="claim-t-65565"></a>
 - t-010
   global_id: t-65565
@@ -475,7 +475,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   pagrindzia:
     - t-65554
     - t-65565
-
 - id: c-31145
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -495,7 +494,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   pagrindzia:
     - t-65556
     - t-65559
-
 - id: c-31146
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -513,7 +511,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65564
-
 - id: c-31148
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -538,7 +535,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   pagrindzia:
     - t-65557
     - t-65567
-
 - id: c-42750
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -562,7 +558,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   pagrindzia:
     - t-65555
     - t-65560
-
 - id: c-65957
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -583,7 +578,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65558
-
 - id: c-65959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -605,7 +599,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65568
-
 - id: c-65960
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -622,7 +615,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65561
-
 - id: c-65964
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -644,7 +636,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65566
-
 - id: c-167698
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -684,7 +675,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184514
-
 - id: c-175212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -708,7 +698,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192418
-
 - id: c-178520
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -750,7 +739,6 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196086
-
 ## Ryšiai
 - Kuršiai surengė žygį į [[objektai/vietos/Švedija]]
 - Kuršiai kariavo prieš [[objektai/grupes/Skandinavai]]

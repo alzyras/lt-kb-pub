@@ -49,7 +49,7 @@ Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo d
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174248
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.'
@@ -71,8 +71,7 @@ Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo d
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191366
 ## Citatos
 
 - id: c-174248

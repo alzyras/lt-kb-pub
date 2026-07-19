@@ -121,7 +121,6 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45674
-
 - id: c-23782
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -136,7 +135,6 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45675
-
 - id: c-166753
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

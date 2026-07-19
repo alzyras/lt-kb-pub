@@ -93,7 +93,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66149
-
 - id: c-175888
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

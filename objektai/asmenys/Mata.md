@@ -46,7 +46,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   semantiniai_rysiai: "Mata buvo sūnus Pipinas (0.97); Pipinas kariavo prieš Kryžiuočių ordinas (0.90); Mata rėmė Kryžiuočių ordinas (0.84)"
   pagrindžia:
     - c-60688
-
+    - c-002
 <a id="claim-t-60056"></a>
 - t-002
   global_id: t-60056
@@ -103,8 +103,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60055
 ## Citatos
 
 - id: c-60687
@@ -127,7 +126,6 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60057
-
 - id: c-60688
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -150,7 +148,6 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60055
-
 - id: c-60689
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -174,6 +171,5 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60056
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pipinas]]

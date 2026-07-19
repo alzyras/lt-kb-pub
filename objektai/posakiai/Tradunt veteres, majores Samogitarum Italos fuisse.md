@@ -76,9 +76,6 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-177303

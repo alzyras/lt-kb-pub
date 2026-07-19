@@ -79,7 +79,7 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-173735
-
+    - c-002
 <a id="claim-t-197727"></a>
 - t-003
   global_id: t-197727
@@ -111,8 +111,7 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190853
 ## Citatos
 
 - id: c-83644
@@ -136,7 +135,6 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87665
-
 - id: c-173735
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

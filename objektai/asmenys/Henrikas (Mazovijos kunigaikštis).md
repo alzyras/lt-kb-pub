@@ -76,6 +76,5 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87685
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Ringailė]]

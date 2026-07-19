@@ -66,7 +66,7 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
   susije_objektai: 'llm_object: Donas; mentioned_place: Donas; mentioned_place: Europa'
   semantiniai_rysiai: '[[objektai/grupes/Sarmatai|Sarmatai]] gyveno Donas'
   pagrindžia:
-    - c-175731
+    - c-001
 - susijęs iš [[objektai/asmenys/Valuzianas.md#claim-t-191482|Valuzianas]]: Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju.
 - susijęs iš [[objektai/asmenys/Gatereris.md#claim-t-191269|Gatereris]]: Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo galingais dešiniojo Dnepro kranto gyventojais.
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190871|Herodotas]]: Teodoras Narbutas Herodotą vadino tiksliausiu senovės rašytoju ir jam priskyrė pusiau pasakišką sarmatų kilmę iš amazonių bei skitų.
@@ -140,8 +140,7 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192961
 ## Citatos
 
 - id: c-177261
@@ -168,6 +167,5 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
   pagrindzia:
     - t-194865
     - t-197517
-
 ## Ryšiai
 - Sarmatai gyveno [[objektai/vietos/Donas]]

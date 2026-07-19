@@ -79,7 +79,7 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175230
-
+    - c-002
 <a id="claim-t-192437"></a>
 - t-003
   global_id: t-192437
@@ -152,8 +152,7 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192436
 ## Citatos
 
 - id: c-172415
@@ -177,7 +176,6 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189527
-
 - id: c-175230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -199,7 +197,6 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192436
-
 - id: c-175231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -222,7 +219,6 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192437
-
 - id: c-179224
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

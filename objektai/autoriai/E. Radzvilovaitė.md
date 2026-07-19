@@ -99,7 +99,6 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30596
-
 - id: c-32917
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

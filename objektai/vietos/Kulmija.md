@@ -171,7 +171,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99929
-
 - id: c-184421
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -194,7 +193,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201071
-
 - id: c-184422
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -220,7 +218,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201072
-
 - id: c-184423
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -243,7 +240,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201073
-
 - id: c-184424
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -266,7 +262,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201074
-
 - id: c-184425
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -289,7 +284,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201075
-
 - id: c-184426
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -314,6 +308,5 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201076
-
 ## Ryšiai
 - Kulmija priklausė [[objektai/grupes/Kryžiuočių ordinas]]

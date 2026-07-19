@@ -120,7 +120,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58445
-
 - id: c-59078
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -143,7 +142,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58446
-
 - id: c-59079
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

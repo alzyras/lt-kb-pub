@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
   semantiniai_rysiai: "Engelkė gyveno Kristburgas (0.98)"
   pagrindžia:
     - c-60905
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60273
 ## Citatos
 
 - id: c-60905
@@ -92,6 +91,5 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60273
-
 ## Ryšiai
 - Engelkė gyveno [[objektai/vietos/Kristburgas]]

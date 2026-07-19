@@ -76,7 +76,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-79124
-
+    - c-167149
 <a id="claim-t-82664"></a>
 - t-003
   global_id: t-82664
@@ -118,6 +118,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   semantiniai_rysiai: "Simonas Lengvenis (valdovas, XIV a.) keliavo į Mstislavlis (0.84)"
   pagrindžia:
     - c-168186
+    - c-004
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-39992|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
@@ -150,8 +151,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-184825
 ## Citatos
 
 - id: c-79124
@@ -178,7 +178,6 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82663
-
 - id: c-79125
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -209,7 +208,6 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   pagrindzia:
     - t-82662
     - t-82664
-
 - id: c-167149
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -260,7 +258,6 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184825
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Simonas Lengvenis (valdovas, XIV a.) puolė [[objektai/vietos/Riazanė]]

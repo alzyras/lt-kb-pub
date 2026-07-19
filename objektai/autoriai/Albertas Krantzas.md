@@ -111,7 +111,6 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54997
-
 - id: c-55563
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -131,7 +130,6 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54998
-
 - id: c-78421
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

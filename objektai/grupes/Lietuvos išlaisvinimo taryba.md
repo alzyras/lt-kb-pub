@@ -80,7 +80,6 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41028
-
 - id: c-176401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

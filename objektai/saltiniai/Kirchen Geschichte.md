@@ -48,7 +48,7 @@ Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodži
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174669
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodžiui paimti iš Enėjaus Silvijaus.'
@@ -65,8 +65,7 @@ Teodoras Narbutas nurodo, kad „Kirchen Geschichte“ esantys dalykai pažodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191787
 ## Citatos
 
 - id: c-174669

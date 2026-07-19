@@ -164,7 +164,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64518
-
 - id: c-03969
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -186,7 +185,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64515
-
 - id: c-03970
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -204,7 +202,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64517
-
 - id: c-03971
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -223,7 +220,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64514
-
 - id: c-13905
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -241,7 +237,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12236
-
 - id: c-65242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

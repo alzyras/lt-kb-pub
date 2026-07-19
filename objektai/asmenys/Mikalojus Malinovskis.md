@@ -100,7 +100,6 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87553
-
 - id: c-83533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

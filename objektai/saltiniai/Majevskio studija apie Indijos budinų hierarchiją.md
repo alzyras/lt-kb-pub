@@ -57,7 +57,7 @@ Narbutas skaitytoją nukreipia į Majevskio studiją apie Indijos budinų hierar
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173430
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas skaitytoją nukreipia į Majevskio studiją apie Indijos budinų hierarchiją, išspausdintą „Zbior rozpraw“ 1827 m.'
@@ -71,8 +71,7 @@ Narbutas skaitytoją nukreipia į Majevskio studiją apie Indijos budinų hierar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190547
 ## Citatos
 
 - id: c-173430

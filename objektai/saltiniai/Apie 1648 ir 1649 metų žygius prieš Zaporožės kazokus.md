@@ -167,7 +167,6 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
   pagrindzia:
     - t-111338
     - t-111341
-
 - id: c-102971
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -85,7 +85,6 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195656
-
 - id: c-178058
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

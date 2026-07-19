@@ -74,7 +74,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-85335
-
+    - c-001
 <a id="claim-t-89381"></a>
 - t-002
   global_id: t-89381
@@ -96,7 +96,7 @@ Nenurodyta
   pagrindžia:
     - c-85335
     - c-85336
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -115,9 +115,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-89380
+    - t-89381
 ## Citatos
 
 - id: c-85335
@@ -144,7 +143,6 @@ Nenurodyta
   pagrindzia:
     - t-89380
     - t-89381
-
 - id: c-85336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

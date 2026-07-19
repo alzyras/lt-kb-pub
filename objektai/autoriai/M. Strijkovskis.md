@@ -507,7 +507,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171337
-
+    - c-020
 <a id="claim-t-188448"></a>
 - t-026
   global_id: t-188448
@@ -548,7 +548,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171339
-
+    - c-022
 <a id="claim-t-188451"></a>
 - t-028
   global_id: t-188451
@@ -590,7 +590,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171342
-
+    - c-024
 <a id="claim-t-188453"></a>
 - t-030
   global_id: t-188453
@@ -647,7 +647,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171345
-
+    - c-027
 <a id="claim-t-190633"></a>
 - t-045
   global_id: t-190633
@@ -668,7 +668,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173516
-
+    - c-028
 <a id="claim-t-190634"></a>
 - t-034
   global_id: t-190634
@@ -710,7 +710,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173518
-
+    - c-030
 <a id="claim-t-190637"></a>
 - t-036
   global_id: t-190637
@@ -794,7 +794,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173523
-
+    - c-035
 <a id="claim-t-190641"></a>
 - t-052
   global_id: t-190641
@@ -815,7 +815,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173524
-
+    - c-036
 <a id="claim-t-190642"></a>
 - t-053
   global_id: t-190642
@@ -836,7 +836,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173525
-
+    - c-037
 <a id="claim-t-190643"></a>
 - t-054
   global_id: t-190643
@@ -857,7 +857,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173526
-
+    - c-038
 <a id="claim-t-190644"></a>
 - t-055
   global_id: t-190644
@@ -878,7 +878,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173527
-
+    - c-039
 <a id="claim-t-190645"></a>
 - t-056
   global_id: t-190645
@@ -899,7 +899,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173528
-
+    - c-040
 <a id="claim-t-190763"></a>
 - t-057
   global_id: t-190763
@@ -963,7 +963,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173647
-
+    - c-043
 <a id="claim-t-190767"></a>
 - t-060
   global_id: t-190767
@@ -985,7 +985,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173649
-
+    - c-045
 <a id="claim-t-193586"></a>
 - t-049
   global_id: t-193586
@@ -1088,8 +1088,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037
-
+    - t-188447
 - c-022
   santrauka: 'Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1111,8 +1110,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039
-
+    - t-188449
 - c-024
   santrauka: 'Narbutas nurodo, kad Strijkovskis karo dievą vadino Chaurirari, bet šį vardą laikė galimu kronikos riktu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1132,8 +1130,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041
-
+    - t-188452
 - c-027
   santrauka: 'Pasak Strijkovskio, senovėje kelių dievaičiui aukodavo baltas vištas ir prašydavo laimingos kelionės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1149,8 +1146,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044
-
+    - t-188455
 - c-028
   santrauka: 'Narbutas rašo, kad Strijkovskis paukščių dievaitį vadino Swieczpunscynis, bet šį vardą laikė rašybos ar spaudos riktu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1166,8 +1162,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045
-
+    - t-190633
 - c-030
   santrauka: 'Narbutas rašo, kad Strijkovskis pursčius vadino pigmėjais, siedamas juos su panašiais romėnų mitologijos dievaičiais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1182,8 +1177,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047
-
+    - t-190635
 - c-035
   santrauka: 'Narbutas rašo, kad Strijkovskis alyvą laikė svarbiausiu iš šventųjų medžių, siejamų su Pušaičiu ir barstukais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1197,8 +1191,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052
-
+    - t-190640
 - c-036
   santrauka: 'Narbutas rašo, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1217,8 +1210,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053
-
+    - t-190641
 - c-037
   santrauka: 'Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1233,8 +1225,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054
-
+    - t-190642
 - c-038
   santrauka: 'Narbutas rašo, kad pagal Strijkovskio suskaičiuotus šešis šventyklos kampus šventąjį ąžuolą supo šešiakampis mūrinis aptvaras.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1250,8 +1241,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055
-
+    - t-190643
 - c-039
   santrauka: 'Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1274,8 +1264,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056
-
+    - t-190644
 - c-040
   santrauka: 'Narbutas rašo, kad Strijkovskis apie aukštas lietuvių pareigas pateikė daugiau žinių nei Prūsijos ir Livonijos kronikininkai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1300,8 +1289,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057
-
+    - t-190645
 - c-043
   santrauka: 'Teodoro Narbuto teigimu, Motiejus Strijkovskis dar girdėjo apie išsklaidytų jotvingių likučius prie Naugarduko, Raigardo, Insterburgo, Kuršo ir Livonijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1324,8 +1312,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-060
-
+    - t-190765
 - c-045
   santrauka: 'Teodoro Narbuto spėjimu, Strijkovskio prie Raigardo ir Insterburgo pastebėti žmonės galėjo būti išvestų jotvingių palikuonys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -1346,8 +1333,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062
-
+    - t-190767
 ## Citatos
 
 - id: c-42443
@@ -1370,7 +1356,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172902
-
 - id: c-42444
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1390,7 +1375,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172902
-
 - id: c-42445
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1417,7 +1401,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindzia:
     - t-172883
     - t-172886
-
 - id: c-42446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1438,7 +1421,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172886
-
 - id: c-157240
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1469,7 +1451,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindzia:
     - t-172887
     - t-172903
-
 - id: c-157241
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1507,7 +1488,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172907
-
 - id: c-157242
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1535,9 +1515,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172880
+    - t-172895
     - t-172900
-
 - id: c-157243
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1556,7 +1535,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172884
-
 - id: c-157244
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1575,7 +1553,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172909
-
 - id: c-157245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1601,7 +1578,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindzia:
     - t-172893
     - t-172905
-
 - id: c-157248
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1645,7 +1621,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindzia:
     - t-172899
     - t-172908
-
 - id: c-157250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1674,9 +1649,8 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172882
-    - t-172888
+    - t-172898
     - t-172912
-
 - id: c-157259
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1694,7 +1668,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172904
-
 - id: c-157267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1733,7 +1706,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172891
-
 - id: c-157268
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1761,7 +1733,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172892
-
 - id: c-171333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1780,7 +1751,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188443
-
 - id: c-171334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1803,7 +1773,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindzia:
     - t-188444
     - t-197321
-
 - id: c-171335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1823,7 +1792,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188445
-
 - id: c-171336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1842,7 +1810,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188446
-
 - id: c-171337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1868,7 +1835,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188447
-
 - id: c-171338
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1890,7 +1856,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188448
-
 - id: c-171339
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1915,7 +1880,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188449
-
 - id: c-171341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1937,7 +1901,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188451
-
 - id: c-171342
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1963,7 +1926,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188452
-
 - id: c-171343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1979,7 +1941,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188453
-
 - id: c-171344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2000,7 +1961,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188454
-
 - id: c-171345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2026,7 +1986,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188455
-
 - id: c-173516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2049,7 +2008,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190633
-
 - id: c-173517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2068,7 +2026,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190634
-
 - id: c-173518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2091,7 +2048,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190635
-
 - id: c-173520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2112,7 +2068,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindzia:
     - t-190637
     - t-197325
-
 - id: c-173521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2134,7 +2089,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190638
-
 - id: c-173522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2155,7 +2109,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190639
-
 - id: c-173523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2176,7 +2129,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190640
-
 - id: c-173524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2195,7 +2147,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190641
-
 - id: c-173525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2215,7 +2166,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190642
-
 - id: c-173526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2235,7 +2185,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190643
-
 - id: c-173527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2261,7 +2210,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190644
-
 - id: c-173528
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2289,7 +2237,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190645
-
 - id: c-173645
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2313,7 +2260,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190763
-
 - id: c-173646
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2333,7 +2279,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190764
-
 - id: c-173647
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2357,7 +2302,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190765
-
 - id: c-173649
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2383,7 +2327,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190767
-
 - id: c-176261
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2407,7 +2350,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193586
-
 - id: c-179131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

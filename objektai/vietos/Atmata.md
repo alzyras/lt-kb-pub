@@ -39,7 +39,7 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59314
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atlanto vandenynas Atmata, u.'
@@ -55,8 +55,7 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58682
 ## Citatos
 
 - id: c-59314

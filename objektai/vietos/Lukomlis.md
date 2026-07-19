@@ -108,7 +108,6 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68568
-
 - id: c-68114
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -126,7 +125,6 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68569
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
 - Užėmė Lukomlį: [[objektai/asmenys/Andrius Polockietis]]

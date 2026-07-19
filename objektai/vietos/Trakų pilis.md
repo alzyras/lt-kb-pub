@@ -193,6 +193,7 @@ Trakų pilis.
   semantiniai_rysiai: "Kryžius priklausė Trakų pilis (pilis) (0.82)"
   pagrindžia:
     - c-171732
+    - c-006
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179020|Kryžiuočių ordinas]]: Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.
 - susijęs iš [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.).md#claim-t-54706|Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]: Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
 - susijęs iš [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje.md#claim-t-87249|Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]: Po taikos sutarties maršalas, arkikomtūras ir aukštesnieji vokiečių riteriai buvo pakviesti į Vilniaus ir Trakų pilis, pavaišinti ir apdovanoti.
@@ -220,8 +221,7 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188843
 ## Citatos
 
 - id: c-37767
@@ -246,7 +246,6 @@ Trakų pilis.
   pagrindzia:
     - t-95320
     - t-95321
-
 - id: c-90244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -268,7 +267,6 @@ Trakų pilis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95319
-
 - id: c-90245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -289,7 +287,6 @@ Trakų pilis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95314
-
 - id: c-90247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -325,7 +322,6 @@ Trakų pilis.
   pagrindzia:
     - t-95316
     - t-95318
-
 - id: c-90250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -351,7 +347,6 @@ Trakų pilis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-95317
-
 - id: c-171732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -393,6 +388,5 @@ Trakų pilis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188843
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Skirgaila]]

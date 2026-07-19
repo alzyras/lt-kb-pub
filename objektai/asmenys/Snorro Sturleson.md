@@ -102,7 +102,6 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87576
-
 - id: c-83555
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -131,6 +130,5 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87575
-
 ## Ryšiai
 - Snorro Sturleson keliavo į [[objektai/vietos/Europa]]

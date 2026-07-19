@@ -122,7 +122,6 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82167
-
 - id: c-78656
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

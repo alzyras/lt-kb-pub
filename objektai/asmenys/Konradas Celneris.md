@@ -143,7 +143,6 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185989
-
 - id: c-169351
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -173,7 +172,6 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185990
-
 - id: c-169352
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

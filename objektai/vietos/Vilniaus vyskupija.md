@@ -134,7 +134,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110178
-
 - id: c-102070
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -170,7 +169,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110180
-
 - id: c-102071
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -207,7 +205,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110181
-
 - id: c-102072
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -229,6 +226,5 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110179
-
 ## Ryšiai
 - Vilniaus vyskupija priklausė [[objektai/vietos/Gniezno]]

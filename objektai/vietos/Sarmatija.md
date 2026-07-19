@@ -69,6 +69,7 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175564
+    - c-002
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191109|Adomas Stanislovas Naruševičius]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192398|Gotai]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 metais gotai su karaliumi Filimeru per Vyslos žemupį kėlėsi iš Germanijos į Sarmatiją.
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191109|Adomas Stanislovas Naruševičius]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį.
@@ -100,8 +101,7 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192794
 ## Citatos
 
 - id: c-175563
@@ -126,7 +126,6 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192793
-
 - id: c-175564
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -153,6 +152,5 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192794
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Gotai]]

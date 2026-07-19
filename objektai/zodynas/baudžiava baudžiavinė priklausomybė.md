@@ -121,7 +121,6 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22082
-
 - id: c-24767
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -142,7 +141,6 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22080
-
 - id: c-166797
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

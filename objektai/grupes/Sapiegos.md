@@ -190,7 +190,6 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184581
-
 - id: c-176066
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -243,7 +242,6 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193338
-
 - id: c-184039
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
@@ -262,7 +260,6 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200690
-
 - id: c-184105
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -290,6 +287,5 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200760
-
 ## Ryšiai
 - Priešai: [[objektai/grupes/Lietuvos bajorija]]

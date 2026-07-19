@@ -99,7 +99,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-68435
-
+    - c-004
 <a id="claim-t-69000"></a>
 - t-004
   global_id: t-69000
@@ -136,6 +136,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-68436
+    - c-005
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90015|Sventopelkas]]: 1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
@@ -253,8 +254,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-68998
 - c-005
   santrauka: 'Nuniokojus Pomeraniją, kunigaikštis Sventopelkas paprašė brolių atkurti taiką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -276,8 +276,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-69001
 ## Citatos
 
 - id: c-37651
@@ -301,7 +300,6 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69000
-
 - id: c-68433
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -319,7 +317,6 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68996
-
 - id: c-68434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -343,7 +340,6 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68997
-
 - id: c-68435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -364,7 +360,6 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68998
-
 - id: c-68436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -389,7 +384,6 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69001
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Sventopelkas]]
 - Užėmė Pomeraniją: [[objektai/grupes/Kryžiuočių ordinas]]

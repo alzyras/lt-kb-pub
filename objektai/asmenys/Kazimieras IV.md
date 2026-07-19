@@ -115,7 +115,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87438
-
 - id: c-83416
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -161,7 +160,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87437
-
 - id: c-83417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -183,6 +181,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87436
-
 ## Ryšiai
 - Kazimieras IV gyveno [[objektai/vietos/Rūdninkai]]

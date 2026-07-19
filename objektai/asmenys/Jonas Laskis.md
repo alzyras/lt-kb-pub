@@ -75,6 +75,5 @@ Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą palieg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87725
-
 ## Ryšiai
 - Jonas Laskis keliavo į [[objektai/vietos/Vilnius]]

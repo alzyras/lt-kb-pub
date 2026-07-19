@@ -70,7 +70,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59103
-
+    - c-003
 <a id="claim-t-58471"></a>
 - t-003
   global_id: t-58471
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veiksmą ir Poterbergo pilies perkėlimą."
   pagrindžia:
     - c-59102
-
+    - c-002
 <a id="claim-t-194545"></a>
 - t-004
   global_id: t-194545
@@ -133,8 +133,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-58471
 - c-003
   santrauka: 'Poterbergas — prie Kalduso, į pietvakarius nuo Kulmo (SZCh, p 101).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -149,8 +148,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58470
 ## Citatos
 
 - id: c-59101
@@ -174,7 +172,6 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   pagrindzia:
     - t-58469
     - t-194545
-
 - id: c-59102
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -199,7 +196,6 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58471
-
 - id: c-59103
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -42,7 +42,7 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172425
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per naktį nudirbdavusias nebaigtus darbus.'
@@ -62,8 +62,7 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189537
 ## Citatos
 
 - id: c-172425

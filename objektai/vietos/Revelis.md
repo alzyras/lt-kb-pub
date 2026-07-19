@@ -262,7 +262,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69146
-
 - id: c-171711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -281,7 +280,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188822
-
 - id: c-171712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -301,7 +299,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188823
-
 - id: c-184450
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -323,7 +320,6 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201100
-
 ## Ryšiai
 - Puolė Revelį: [[objektai/asmenys/Dovydas (Gardino pilininkas)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pskoviečiai]]
 - Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]

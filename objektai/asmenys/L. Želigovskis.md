@@ -127,7 +127,6 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19101
-
 - id: c-21850
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -153,7 +152,6 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19100
-
 - id: c-166951
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -177,6 +175,5 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183558
-
 ## Ryšiai
 - L. Želigovskis puolė [[objektai/grupes/oji pėstininkų divizija]]

@@ -50,7 +50,7 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177228
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.'
@@ -64,8 +64,7 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194832
 ## Citatos
 
 - id: c-177228

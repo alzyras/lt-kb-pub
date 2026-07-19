@@ -278,7 +278,6 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198534
-
 - id: c-180570
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -299,7 +298,6 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   pagrindzia:
     - t-05245
     - t-198537
-
 - id: c-180571
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -324,7 +322,6 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198536
-
 - id: c-180572
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -346,7 +343,6 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   pagrindzia:
     - t-05243
     - t-198535
-
 - id: c-180573
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -365,7 +361,6 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198539
-
 - id: c-180574
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -388,7 +383,6 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   pagrindzia:
     - t-05244
     - t-198533
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Didžiojo Naugardo bojarinai]]
 - Didžiojo Naugardo respublika sudarė sutartį su [[objektai/grupes/Vokiečiai]]

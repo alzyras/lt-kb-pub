@@ -114,7 +114,6 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85782
-
 - id: c-81764
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -143,7 +142,6 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85783
-
 - id: c-81765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

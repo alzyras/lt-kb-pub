@@ -378,7 +378,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42479
-
 - id: c-45533
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -398,7 +397,6 @@ media_all_json: |-
   pagrindzia:
     - t-42480
     - t-183717
-
 - id: c-167988
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -424,7 +422,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184627
-
 - id: c-167989
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -451,7 +448,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184628
-
 - id: c-167990
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

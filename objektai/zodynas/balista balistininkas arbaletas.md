@@ -63,7 +63,7 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59478
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu.'
@@ -82,8 +82,7 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58847
 ## Citatos
 
 - id: c-59478
@@ -108,7 +107,6 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58847
-
 - id: c-59479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

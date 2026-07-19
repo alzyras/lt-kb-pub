@@ -98,7 +98,6 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60097
-
 - id: c-60729
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -42,6 +42,7 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177323
+    - c-001
 - susijęs iš Baltarusija: Narbutas nurodo, kad pilkapių pasitaiko visoje Baltarusijoje, bet daugiausia jų telkiasi Dnepro vidurupyje nuo Sklovo iki Pripetės žiočių.
 - susijęs iš Beržūna: Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote.
 - susijęs iš Dnepras: Narbutas rašė, kad daugiausia Baltarusijos pilkapių buvo Dnepro vidurupyje nuo Sklovo apylinkių iki Pripetės žiočių.
@@ -68,8 +69,7 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194927
 ## Citatos
 
 - id: c-177323

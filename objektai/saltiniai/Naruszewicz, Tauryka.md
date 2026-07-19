@@ -93,7 +93,6 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 . Il, 1418- gos 1418 m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88267
-
 - id: c-176813
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

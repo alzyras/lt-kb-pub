@@ -81,7 +81,7 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172366
-
+    - c-002
 <a id="claim-t-189480"></a>
 - t-003
   global_id: t-189480
@@ -131,8 +131,7 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189479
 ## Citatos
 
 - id: c-172365
@@ -155,7 +154,6 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189478
-
 - id: c-172366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -183,7 +181,6 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189479
-
 - id: c-172367
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

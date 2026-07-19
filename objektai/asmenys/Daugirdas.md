@@ -86,6 +86,5 @@ Mirus Vilniaus vaivadai Daugirdui, jo įpėdiniu buvo paskirtas Jonas Goštautas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186103
-
 ## Ryšiai
 - Daugirdas užėmė [[objektai/vietos/Vilniaus pilys]]

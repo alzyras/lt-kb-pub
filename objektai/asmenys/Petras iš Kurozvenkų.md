@@ -56,7 +56,7 @@ Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lie
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172993
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lietuvoje, dėl perkūnų perkalimo pramintą Perkūnu iš Kurozvenkų.'
@@ -78,8 +78,7 @@ Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190110
 ## Citatos
 
 - id: c-172993

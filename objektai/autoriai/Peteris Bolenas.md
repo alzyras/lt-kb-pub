@@ -104,7 +104,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187950
-
 - id: c-174784
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

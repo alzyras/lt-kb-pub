@@ -49,7 +49,7 @@ Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekioja
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172327
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekiojami rusų sentikiai, nepritarę patriarcho Nikono pataisoms.'
@@ -69,8 +69,7 @@ Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekioja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189440
 ## Citatos
 
 - id: c-172327

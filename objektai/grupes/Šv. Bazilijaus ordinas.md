@@ -74,6 +74,5 @@ Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86841
-
 ## Ryšiai
 - Šv. Bazilijaus ordinas gyveno [[objektai/vietos/Vilnius]]

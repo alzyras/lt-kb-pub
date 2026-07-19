@@ -100,7 +100,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas kaip vientisas sakinys apie maldininkų veiksmą."
   pagrindžia:
     - c-59640
-
+    - c-001
 <a id="claim-t-194372"></a>
 - t-004
   global_id: t-194372
@@ -135,8 +135,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59010
 ## Citatos
 
 - id: c-59640
@@ -162,7 +161,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59010
-
 - id: c-59641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -185,7 +183,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59008
-
 - id: c-59642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -209,7 +206,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   pagrindzia:
     - t-59009
     - t-194372
-
 ## Ryšiai
 - Vokietijos maldininkai keliavo į [[objektai/vietos/Prūsija]]
 - Vokietijos maldininkai surengė žygį į [[objektai/vietos/Medininkai]]

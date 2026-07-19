@@ -49,6 +49,7 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172132
+    - c-001
 - susijęs iš [[objektai/paprociai/Pušaičio šaukimasis, aukos po alyvų krūmais ir markopolių prašymas dėl kaimiečių.md#claim-t-189936|Pušaičio šaukimasis, aukos po alyvų krūmais ir markopolių prašymas dėl kaimiečių]]: Narbutas markopolius vaizdavo kaip požemio dievaičius, kuriuos ypač garbino didikai ir bajorai, o Pušaitis jų prašydavo už kaimiečius.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189995|Frydrichas Stenderis]]: Narbutas prie Pušaičio, požemio dievaičio ir barstukų vyriausiojo, aprašymo nurodo Stenderio „Lettische Grammatik“.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188591|Motiejus Strijkovskis]]: Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių.
@@ -77,8 +78,7 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189244
 ## Citatos
 
 - id: c-172132

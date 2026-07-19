@@ -64,7 +64,8 @@ Nenurodyta
   pagrindžia:
     - c-63052
     - c-167338
-
+    - c-001
+    - c-002
 <a id="claim-t-183953"></a>
 - t-002
   global_id: t-183953
@@ -84,7 +85,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167338
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies apylinkėse apiplėšė penkis kaimus.'
@@ -102,8 +103,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62428
 - c-002
   santrauka: 'Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -125,9 +125,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-
+    - t-62428
+    - t-183953
 ## Citatos
 
 - id: c-63052
@@ -150,7 +149,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62428
-
 - id: c-167338
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

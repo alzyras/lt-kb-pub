@@ -96,7 +96,6 @@ st.) ir lenkė Rumuniją, Bulgariją.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46558
-
 - id: c-49121
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -116,6 +115,5 @@ st.) ir lenkė Rumuniją, Bulgariją.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46557
-
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Vladislovas]]

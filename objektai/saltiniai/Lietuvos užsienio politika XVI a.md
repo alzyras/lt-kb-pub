@@ -84,7 +84,6 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41563
-
 - id: c-45008
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

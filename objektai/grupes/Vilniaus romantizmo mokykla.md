@@ -94,4 +94,4 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75020
+    - t-75021

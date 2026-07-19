@@ -92,7 +92,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173796
-
+    - c-004
 <a id="claim-t-190915"></a>
 - t-003
   global_id: t-190915
@@ -201,8 +201,7 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190914
 ## Citatos
 
 - id: c-172884
@@ -225,7 +224,6 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190001
-
 - id: c-172885
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -245,7 +243,6 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190002
-
 - id: c-173796
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -271,7 +268,6 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190914
-
 - id: c-173797
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -292,7 +288,6 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190915
-
 - id: c-173798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -313,7 +308,6 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190916
-
 - id: c-173799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -336,7 +330,6 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190917
-
 - id: c-173800
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

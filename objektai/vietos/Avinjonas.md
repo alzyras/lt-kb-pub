@@ -117,7 +117,6 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173341
-
 - id: c-157665
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -149,7 +148,6 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173342
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Karolis Tryrietis]]
 - Mirties vieta: [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]

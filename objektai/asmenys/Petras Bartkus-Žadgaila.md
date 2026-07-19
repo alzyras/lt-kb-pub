@@ -86,6 +86,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39626
-
 ## Ryšiai
 - Petras Bartkus-Žadgaila mirė [[objektai/vietos/Užpelkiai]]

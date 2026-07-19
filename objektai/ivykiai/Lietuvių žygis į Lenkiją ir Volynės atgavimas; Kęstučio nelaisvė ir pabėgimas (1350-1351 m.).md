@@ -67,7 +67,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168971
-
+    - c-001
 <a id="claim-t-185611"></a>
 - t-002
   global_id: t-185611
@@ -87,7 +87,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168972
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.'
@@ -116,8 +116,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185610
 - c-002
   santrauka: 'Kazimierui kovusis su karaliaus stovyklą užpuolusiu lietuvių pulku, lietuviai buvo išsklaidyti, o Kęstutis pateko į nelaisvę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -146,8 +145,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-185611
 ## Citatos
 
 - id: c-168971
@@ -186,7 +184,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185610
-
 - id: c-168972
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

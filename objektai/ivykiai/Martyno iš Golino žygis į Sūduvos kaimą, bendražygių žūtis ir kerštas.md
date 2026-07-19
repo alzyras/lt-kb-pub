@@ -158,7 +158,6 @@ Nenurodyta
   pagrindzia:
     - t-62873
     - t-196959
-
 - id: c-63717
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -186,7 +185,6 @@ Nenurodyta
     - t-62873
     - t-62874
     - t-194406
-
 - id: c-178987
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

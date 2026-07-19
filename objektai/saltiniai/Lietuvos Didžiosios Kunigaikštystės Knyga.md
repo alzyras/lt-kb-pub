@@ -53,7 +53,7 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
   semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Lenkai (0.70)"
   pagrindžia:
     - c-23832
-
+    - c-48410
 ## Citatos
 
 - id: c-23832
@@ -90,4 +90,4 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-45692
+    - t-45693

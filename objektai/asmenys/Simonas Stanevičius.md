@@ -84,7 +84,7 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173852
-
+    - c-002
 <a id="claim-t-197442"></a>
 - t-003
   global_id: t-197442
@@ -114,8 +114,7 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190970
 ## Citatos
 
 - id: c-172928
@@ -143,7 +142,6 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
   pagrindzia:
     - t-190045
     - t-197442
-
 - id: c-173852
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

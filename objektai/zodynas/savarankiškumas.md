@@ -71,7 +71,6 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70321
-
 - id: c-69366
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -88,6 +88,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188955
-
 ## Ryšiai
 - Lokaičiai priklausė [[objektai/vietos/Marijampolės apskritis]]

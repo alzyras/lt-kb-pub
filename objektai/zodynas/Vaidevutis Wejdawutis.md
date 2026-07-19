@@ -49,7 +49,7 @@ Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškinda
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172143
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškindamas jį kaip stabų viršininko arba pirmojo jų saugotojo vardą.'
@@ -67,8 +67,7 @@ Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškinda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189255
 ## Citatos
 
 - id: c-172143

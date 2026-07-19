@@ -50,7 +50,7 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174680
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Narbuto nuorodoje siejamas su 1615 m. Bazelio leidimu.'
@@ -66,8 +66,7 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191798
 ## Citatos
 
 - id: c-174680

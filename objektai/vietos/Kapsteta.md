@@ -47,7 +47,7 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   semantiniai_rysiai: "Sembai užkariavo Kapsteta (0.93); Sembai puolė Vonsdorfas (0.83)"
   pagrindžia:
     - c-59195
-
+    - c-002
 <a id="claim-t-58563"></a>
 - t-002
   global_id: t-58563
@@ -58,6 +58,7 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59194
+    - c-001
 - susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
@@ -77,8 +78,7 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58563
 - c-002
   santrauka: 'Sembų kariuomenė, vedama Tirsko, užkariavo Kapstetos pilį Vonsdorfo žemėje ir ją sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -95,8 +95,7 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58562
 ## Citatos
 
 - id: c-59194
@@ -119,7 +118,6 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58563
-
 - id: c-59195
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -142,7 +140,6 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58562
-
 ## Ryšiai
 - Užėmė Kapstetą: [[objektai/grupes/Sembai]]
 - Buvo užkariauta: [[objektai/grupes/Sembai]]

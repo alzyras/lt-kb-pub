@@ -54,7 +54,7 @@ Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173378
-
+    - c-001
 <a id="claim-t-190496"></a>
 - t-002
   global_id: t-190496
@@ -75,7 +75,7 @@ Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173379
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu jau buvo parašyti ir buvo žinomi D. Poškai.'
@@ -93,8 +93,7 @@ Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190495
 - c-002
   santrauka: 'S. Daukantas „Darbų“ pratarmėje rašė kūrinį skyręs ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvių darbus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -110,8 +109,7 @@ Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190496
 ## Citatos
 
 - id: c-173378
@@ -137,7 +135,6 @@ Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190495
-
 - id: c-173379
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

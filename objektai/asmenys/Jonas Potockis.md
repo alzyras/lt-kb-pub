@@ -57,7 +57,7 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172953
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.'
@@ -74,8 +74,7 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190070
 - c-002
   santrauka: 'Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -99,8 +98,6 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172953

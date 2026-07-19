@@ -71,6 +71,7 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59271
+    - c-002
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59870|Henrikas iš Plockės]]: 1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
 - susijęs iš [[objektai/asmenys/Mindotė.md#claim-t-60388|Mindotė]]: Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje.
 - susijęs iš [[objektai/asmenys/Henrikas Rutėnas.md#claim-t-60318|Henrikas Rutėnas]]: Henrikas Rutėnas žuvo 1314 m. apie vasario 2 d. užsitęsusioje kovoje prie Sizditės pilies Medininkų valsčiuje.
@@ -108,8 +109,7 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58639
 ## Citatos
 
 - id: c-59270
@@ -134,7 +134,6 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58638
-
 - id: c-59271
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -158,6 +157,5 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58639
-
 ## Ryšiai
 - Puolė Sizditę: [[objektai/asmenys/Henrikas iš Plockės]]

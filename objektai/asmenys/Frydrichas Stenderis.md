@@ -69,7 +69,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172877
-
+    - c-003
 <a id="claim-t-189995"></a>
 - t-004
   global_id: t-189995
@@ -90,7 +90,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172878
-
+    - c-004
 <a id="claim-t-189996"></a>
 - t-005
   global_id: t-189996
@@ -111,7 +111,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172879
-
+    - c-005
 <a id="claim-t-189998"></a>
 - t-002
   global_id: t-189998
@@ -175,8 +175,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189994
 - c-004
   santrauka: 'Narbutas prie Pušaičio, požemio dievaičio ir barstukų vyriausiojo, aprašymo nurodo Stenderio „Lettische Grammatik“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -196,8 +195,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-189995
 - c-005
   santrauka: 'Narbutas rašo, kad Stenderis barstukų vardą kildino iš latviškų žodžių „Berhns“ ir „Stuhke“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -215,8 +213,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-189996
 ## Citatos
 
 - id: c-172876
@@ -239,7 +236,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189993
-
 - id: c-172877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -263,7 +259,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189994
-
 - id: c-172878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -284,7 +279,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189995
-
 - id: c-172879
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -306,7 +300,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189996
-
 - id: c-172881
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -325,7 +318,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189998
-
 - id: c-179165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -345,7 +337,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197396
-
 - id: c-179166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -120,7 +120,6 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88210
-
 - id: c-84189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -151,7 +150,6 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88211
-
 - id: c-84190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

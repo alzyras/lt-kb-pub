@@ -61,14 +61,12 @@ media_all_json: |-
 
 <a id="claim-t-31874"></a>
 - t-001
-  global_id: t-31874
   teiginys: '„Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m.'
   susije_objektai: 'mentioned_place: Maskva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1910 m.; įvykio data: 1915 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-001
-
+    - c-33680
 ## Citatos
 
 - id: c-33680
@@ -91,3 +89,4 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31874
+    - t-001

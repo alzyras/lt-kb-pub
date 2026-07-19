@@ -49,7 +49,7 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175744
-
+    - c-001
 <a id="claim-t-192975"></a>
 - t-002
   global_id: t-192975
@@ -108,8 +108,7 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192974
 - c-002
   santrauka: 'Romos senatas nusiuntė pasiuntinius į Konstantinopolį pranešti, kad Romoje nebereikia skelbti imperatorių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -131,9 +130,6 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-175744
@@ -160,7 +156,6 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192974
-
 - id: c-175745
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -191,6 +186,5 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
   pagrindzia:
     - t-192975
     - t-197514
-
 ## Ryšiai
 - Romos senatas siuntė į [[objektai/vietos/Konstantinopolis]]

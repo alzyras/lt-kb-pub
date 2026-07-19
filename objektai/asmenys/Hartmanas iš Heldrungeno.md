@@ -75,7 +75,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatoje pateiktą informaciją."
   pagrindžia:
     - c-60597
-
+    - c-001
 <a id="claim-t-59968"></a>
 - t-003
   global_id: t-59968
@@ -93,7 +93,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   semantiniai_rysiai: "Livonija priklausė Kryžiuočių ordinas (0.86)"
   pagrindžia:
     - c-60599
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m.'
@@ -109,8 +109,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59967
 - c-003
   santrauka: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -125,8 +124,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-59968
 ## Citatos
 
 - id: c-60597
@@ -149,7 +147,6 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59967
-
 - id: c-60598
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -169,7 +166,6 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59966
-
 - id: c-60599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

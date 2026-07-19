@@ -89,7 +89,6 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191151
-
 - id: c-179347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

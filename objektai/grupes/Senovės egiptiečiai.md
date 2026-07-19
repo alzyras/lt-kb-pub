@@ -58,7 +58,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172302
-
+    - c-001
 <a id="claim-t-189416"></a>
 - t-002
   global_id: t-189416
@@ -121,7 +121,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172305
-
+    - c-004
 <a id="claim-t-189420"></a>
 - t-005
   global_id: t-189420
@@ -205,7 +205,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172310
-
+    - c-008
 <a id="claim-t-189424"></a>
 - t-009
   global_id: t-189424
@@ -226,7 +226,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172311
-
+    - c-009
 <a id="claim-t-194586"></a>
 - t-010
   global_id: t-194586
@@ -240,7 +240,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176985
-
+    - c-010
 <a id="claim-t-197216"></a>
 - t-011
   global_id: t-197216
@@ -304,8 +304,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189415
 - c-004
   santrauka: 'Narbutas rašė, kad egiptiečiai turėjo Kamefius, kuriuos Georgi siejo su japonų dievais Kami ir slavų Tryzna.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -322,8 +321,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-189418
 - c-008
   santrauka: 'Narbutas rašė, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus, skirtus atskiriems dievams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -340,8 +338,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-189423
 - c-009
   santrauka: 'Narbutas, remdamasis Herodotu ir Strabonu, rašė, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti šventyklas dievams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -365,8 +362,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-189424
 - c-010
   santrauka: 'Tegu mitologai sako ką nori apie senovės egiptiečių religi ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame, yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -388,8 +384,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-194586
 ## Citatos
 
 - id: c-172302
@@ -418,7 +413,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189415
-
 - id: c-172303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -443,7 +437,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   pagrindzia:
     - t-189416
     - t-197217
-
 - id: c-172304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -461,7 +454,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189417
-
 - id: c-172305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -485,7 +477,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189418
-
 - id: c-172307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -510,7 +501,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189420
-
 - id: c-172308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -528,7 +518,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189421
-
 - id: c-172309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -549,7 +538,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189422
-
 - id: c-172310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -572,7 +560,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189423
-
 - id: c-172311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -599,7 +586,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189424
-
 - id: c-176985
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -625,7 +611,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194586
-
 - id: c-179070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -651,7 +636,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197216
-
 - id: c-179071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

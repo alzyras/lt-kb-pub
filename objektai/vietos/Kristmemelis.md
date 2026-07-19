@@ -59,7 +59,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata apie Kristmemelio apgultį."
   pagrindžia:
     - c-58948
-
+    - c-003
 <a id="claim-t-58314"></a>
 - t-002
   global_id: t-58314
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-58950
-
+    - c-005
 <a id="claim-t-58315"></a>
 - t-003
   global_id: t-58315
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-58945
-
+    - c-001
 <a id="claim-t-58317"></a>
 - t-005
   global_id: t-58317
@@ -134,6 +134,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   temporalinis_llm_pakomentavimas: "Teiginys yra apie autoriaus pateikimą, todėl šaltinio atribucija tinkama."
   pagrindžia:
     - c-58947
+    - c-002
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176814|Vytenis (valdovas, XIII–XIV a.)]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176829|Vytenis (valdovas, XIII–XIV a.)]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis (valdovas, XIII–XIV a.)]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
@@ -196,8 +197,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-58316
 - c-002
   santrauka: 'Petras Dusburgietis pažymėjo, kad 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -213,8 +213,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-58317
 - c-003
   santrauka: '1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puldinėjo su dviem apgulos mašinomis bei daugybe šaulių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -234,8 +233,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58313
 - c-005
   santrauka: 'Kristmemelis panemunyje buvo pastatytas siekiant praplėsti krikščionių žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -252,8 +250,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58314
 ## Citatos
 
 - id: c-58945
@@ -281,7 +278,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58316
-
 - id: c-58947
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -305,7 +301,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58317
-
 - id: c-58948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -333,7 +328,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58313
-
 - id: c-58949
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -354,7 +348,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58315
-
 - id: c-58950
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -376,7 +369,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58314
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Karolis (didysis magistras)]]
 - Puolė Kristmemelį: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

@@ -90,7 +90,6 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40316
-
 - id: c-44443
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

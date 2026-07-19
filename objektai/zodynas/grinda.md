@@ -45,7 +45,7 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59481
-
+    - c-002
 <a id="claim-t-58849"></a>
 - t-002
   global_id: t-58849
@@ -78,8 +78,7 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58848
 ## Citatos
 
 - id: c-59480
@@ -97,7 +96,6 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58849
-
 - id: c-59481
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

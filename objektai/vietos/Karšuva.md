@@ -220,7 +220,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90531
-
 - id: c-32089
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -239,7 +238,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90533
-
 - id: c-32090
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -258,7 +256,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90529
-
 - id: c-86347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -280,7 +277,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-90530
-
 - id: c-168333
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -307,7 +303,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184972
-
 - id: c-168334
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -334,7 +329,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184973
-
 ## Ryšiai
 - Puolė Karšuvą: [[objektai/grupes/Kryžiuočių ordinas]]
 - Turėjo priklausinį: [[objektai/vietos/Putvė]]

@@ -69,7 +69,7 @@ Nenurodyta.
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170786
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto perteikiamo Lasickio, šlapią vasarą jaujose džiovinant javus buvo nusilenkiama deivei Gabijai ir kalbama maldelė.'
@@ -91,8 +91,7 @@ Nenurodyta.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187835
 ## Citatos
 
 - id: c-170786

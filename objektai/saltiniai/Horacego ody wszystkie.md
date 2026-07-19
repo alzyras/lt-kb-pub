@@ -58,7 +58,7 @@ Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego o
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173416
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego ody wszystkie“.'
@@ -73,8 +73,7 @@ Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego o
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190533
 ## Citatos
 
 - id: c-173416

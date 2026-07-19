@@ -79,6 +79,5 @@ Algirdui vedant vienintelę Vitebsko kunigaikščio sosto įpėdinę, dukterį M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30356
-
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

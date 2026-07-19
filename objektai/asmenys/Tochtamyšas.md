@@ -98,7 +98,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168202
-
+    - c-002
 <a id="claim-t-184842"></a>
 - t-004
   global_id: t-184842
@@ -119,7 +119,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-168203
-
+    - c-003
 <a id="claim-t-184843"></a>
 - t-005
   global_id: t-184843
@@ -140,6 +140,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   semantiniai_rysiai: "Kerim Berdis puolė Tochtamyšas (0.97); Tochtamyšas buvo brolis Kerim Berdis (0.90)"
   pagrindžia:
     - c-168204
+    - c-004
 - susijęs iš [[objektai/posakiai/„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“.md#claim-t-195033|„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“]]: Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prieš Temir-Kutlujų žadėjo pasodinti Tochtamyšą į chanų sostą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179003|Kryžiuočių ordinas]]: Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.
 ## Reikšmingi paminėjimai
@@ -163,8 +164,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-184841
 - c-003
   santrauka: 'Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -186,8 +186,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-184842
 - c-004
   santrauka: 'Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -211,8 +210,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-184843
 ## Citatos
 
 - id: c-36521
@@ -236,7 +234,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   pagrindzia:
     - t-51184
     - t-51185
-
 - id: c-168202
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -265,7 +262,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184841
-
 - id: c-168203
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -296,7 +292,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184842
-
 - id: c-168204
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -324,7 +319,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184843
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]
 - Broliai: [[objektai/asmenys/Kerim Berdis]]

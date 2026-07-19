@@ -214,7 +214,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86711
-
 - id: c-82684
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -234,7 +233,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86704
-
 - id: c-82685
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -254,7 +252,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86707
-
 - id: c-82686
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -275,7 +272,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86705
-
 - id: c-82687
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -303,7 +299,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86710
-
 - id: c-82688
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -320,7 +315,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86709
-
 - id: c-82689
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -347,7 +341,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86708
-
 - id: c-82690
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

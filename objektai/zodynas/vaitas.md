@@ -131,7 +131,6 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86557
-
 - id: c-82536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

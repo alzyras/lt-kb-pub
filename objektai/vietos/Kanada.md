@@ -98,6 +98,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   semantiniai_rysiai: "Huronai gyveno Kanada (0.91)"
   pagrindžia:
     - c-171593
+    - c-003
 - susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
 - susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš [[objektai/grupes/Huronai.md#claim-t-189489|Huronai]]: Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvių apeigas laikė labai panašiomis į aptariamas apeigas.
@@ -127,8 +128,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188704
 ## Citatos
 
 - id: c-67726
@@ -152,7 +152,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68041
-
 - id: c-166990
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -169,7 +168,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183598
-
 - id: c-171593
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -194,7 +192,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188704
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
 - Gyvenamoji vieta: [[objektai/grupes/Huronai]]

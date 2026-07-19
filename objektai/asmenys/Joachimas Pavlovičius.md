@@ -88,6 +88,5 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87910
-
 ## Ryšiai
 - Joachimas Pavlovičius keliavo į [[objektai/vietos/Vilnius]]

@@ -122,7 +122,6 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
     - t-187231
     - t-187580
     - t-194027
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Liubartas]]
 - Užėmė Karačevą: [[objektai/asmenys/Skirmantas]]

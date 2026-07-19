@@ -72,7 +72,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60656
-
+    - c-003
 <a id="claim-t-60024"></a>
 - t-003
   global_id: t-60024
@@ -134,9 +134,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-004
-
 - c-003
   santrauka: 'Helvigas iš Goldbacho iš Tiuringijos buvo penkioliktas Prūsijos žemės magistras ir vadovavo vienus metus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -153,8 +150,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60023
 ## Citatos
 
 - id: c-60654
@@ -177,7 +173,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60022
-
 - id: c-60655
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -202,7 +197,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   pagrindzia:
     - t-60024
     - t-197090
-
 - id: c-60656
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -226,6 +220,5 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60023
-
 ## Ryšiai
 - Puolė Helvigas iš Goldbacho: [[objektai/grupes/Pagudėnai]]

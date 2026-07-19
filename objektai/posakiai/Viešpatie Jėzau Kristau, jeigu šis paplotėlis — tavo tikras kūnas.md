@@ -85,7 +85,6 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59167
-
 - id: c-59800
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

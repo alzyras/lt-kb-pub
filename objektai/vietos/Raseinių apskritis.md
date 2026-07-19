@@ -76,7 +76,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171708
-
+    - c-002
 <a id="claim-t-188820"></a>
 - t-003
   global_id: t-188820
@@ -97,7 +97,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171709
-
+    - c-003
 <a id="claim-t-188821"></a>
 - t-004
   global_id: t-188821
@@ -118,7 +118,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171710
-
+    - c-004
 <a id="claim-t-197476"></a>
 - t-005
   global_id: t-197476
@@ -150,8 +150,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188819
 - c-003
   santrauka: 'Narbutas rašė, kad Raseinių ir Upytės apskrityse rasti akmenys rodė ten vykusias ateivių iš Brandenburgo atneštas religines apeigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -168,8 +167,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188820
 - c-004
   santrauka: 'Narbutas Pajūrio kaimo fetišą Dievaitį siejo su neapibrėžta vieta Raseinių apskrityje, tikriausiai prie Jūros upės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -191,8 +189,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188821
 ## Citatos
 
 - id: c-40344
@@ -212,7 +209,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38540
-
 - id: c-171708
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -234,7 +230,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188819
-
 - id: c-171709
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -258,7 +253,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   pagrindzia:
     - t-188820
     - t-197476
-
 - id: c-171710
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

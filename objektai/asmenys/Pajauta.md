@@ -132,7 +132,6 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186244
-
 - id: c-171489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -156,7 +155,6 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188600
-
 - id: c-179185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -177,7 +175,6 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197434
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Živinbudas]]
 - Sutuoktiniai: [[objektai/asmenys/Živinbudas]]

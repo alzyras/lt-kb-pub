@@ -129,8 +129,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
 ## Citatos
 
 - id: c-60848
@@ -151,7 +149,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60217
-
 - id: c-60849
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

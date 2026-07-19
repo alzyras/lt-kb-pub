@@ -98,6 +98,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20114
-
 ## Ryšiai
 - Želigovskininkai užėmė [[objektai/vietos/Vilnius]]

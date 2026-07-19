@@ -445,7 +445,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   pagrindzia:
     - t-185940
     - t-196421
-
 - id: c-169302
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -479,7 +478,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196423
-
 - id: c-178676
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -510,7 +508,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196422
-
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]
 - Augustas siuntė į [[objektai/vietos/Polockas]]

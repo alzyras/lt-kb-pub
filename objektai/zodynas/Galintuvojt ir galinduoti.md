@@ -63,8 +63,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175069
-
+    - c-002
 <a id="claim-t-192209"></a>
 - t-002
   global_id: t-192209
@@ -82,8 +81,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175069
-
+    - c-002
 <a id="claim-t-192210"></a>
 - t-003
   global_id: t-192210
@@ -101,8 +99,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175069
-
+    - c-002
 <a id="claim-t-192211"></a>
 - t-004
   global_id: t-192211
@@ -121,7 +118,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175068
-
+    - c-175069
 <a id="claim-t-192212"></a>
 - t-005
   global_id: t-192212
@@ -139,8 +136,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175069
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -163,11 +159,10 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-002
-    - t-003
-    - t-001
-
+    - t-192208
+    - t-192209
+    - t-192210
+    - t-192212
 ## Citatos
 
 - id: c-175068
@@ -208,7 +203,6 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192211
-
 - id: c-175069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -237,7 +231,4 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192208
-    - t-192209
-    - t-192210
-    - t-192212
+    - t-192211

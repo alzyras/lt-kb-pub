@@ -49,7 +49,7 @@ Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skan
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172404
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skandinavų ir kai kurių slavų kilčių papročiais.'
@@ -73,8 +73,7 @@ Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189516
 ## Citatos
 
 - id: c-172404

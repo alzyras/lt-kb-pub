@@ -86,7 +86,6 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28723
-
 - id: c-167734
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

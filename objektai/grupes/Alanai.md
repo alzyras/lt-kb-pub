@@ -201,7 +201,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189465
-
 - id: c-172353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -229,7 +228,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189466
-
 - id: c-175158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -256,7 +254,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192363
-
 - id: c-175159
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -288,7 +285,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192364
-
 - id: c-175160
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -311,7 +307,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192365
-
 - id: c-175161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -335,7 +330,6 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192366
-
 - id: c-176039
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

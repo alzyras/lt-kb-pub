@@ -78,4 +78,4 @@ Narbutas teigia radęs 1483 m. karaliaus Kazimiero privilegiją, rašytą rusų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-188031

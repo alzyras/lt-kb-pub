@@ -48,7 +48,7 @@ Narbutas, cituodamas Herodotą, budinų giminei priskiria trumpą išvaizdos for
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175772
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas cituoja apibūdinimą, kad budinai buvo „labai gražūs, rusvaplaukiai žmonės“ ir turėjo šviesiai mėlynas akis.'
@@ -66,8 +66,7 @@ Narbutas, cituodamas Herodotą, budinų giminei priskiria trumpą išvaizdos for
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193002
 ## Citatos
 
 - id: c-175772

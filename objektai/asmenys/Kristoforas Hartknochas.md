@@ -160,7 +160,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172858
-
+    - c-006
 <a id="claim-t-189976"></a>
 - t-007
   global_id: t-189976
@@ -202,7 +202,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172860
-
+    - c-008
 <a id="claim-t-189978"></a>
 - t-009
   global_id: t-189978
@@ -223,7 +223,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172861
-
+    - c-009
 <a id="claim-t-189979"></a>
 - t-010
   global_id: t-189979
@@ -244,7 +244,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172862
-
+    - c-010
 <a id="claim-t-189981"></a>
 - t-011
   global_id: t-189981
@@ -307,7 +307,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172867
-
+    - c-013
 <a id="claim-t-194712"></a>
 - t-014
   global_id: t-194712
@@ -321,7 +321,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177108
-
+    - c-014
 <a id="claim-t-194713"></a>
 - t-015
   global_id: t-194713
@@ -335,7 +335,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177109
-
+    - c-015
 <a id="claim-t-197414"></a>
 - t-016
   global_id: t-197414
@@ -419,8 +419,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-189975
 - c-008
   santrauka: 'Pasak Hartknocho, senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją, todėl signotai buvo laikomi vienuoliais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -438,8 +437,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-189977
 - c-009
   santrauka: 'Narbutas rašo, kad Hartknochas signotus aiškino kaip bendruomenėje su tam tikromis teisėmis gyvenusius dvasininkus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -459,8 +457,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-189978
 - c-010
   santrauka: 'Narbutas nurodė, kad Hartknochas abejojo, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -477,8 +474,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-
+    - t-189979
 - c-013
   santrauka: 'Narbutas nurodė, kad pasakojimą apie ypatingą vėliavos užrašą iš Grunau perėmė Henenbergeris ir Hartknochas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -493,8 +489,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-189984
 - c-014
   santrauka: 'Kad nuramintume žmoniškumo gynėjus, turime Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX // Apud Odoricum Raynaldum. Annales ecclesiasticae.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -510,8 +505,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-194712
 - c-015
   santrauka: 'Kristoforas Hartknochas buvo ypatingos apeigos užbėgti už akių aiškiam nusikaltimui ir atskleisti slaptam.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -529,8 +523,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-194713
 ## Citatos
 
 - id: c-172853
@@ -553,7 +546,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   pagrindzia:
     - t-189970
     - t-197414
-
 - id: c-172854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -575,7 +567,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   pagrindzia:
     - t-189971
     - t-197416
-
 - id: c-172855
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -599,7 +590,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   pagrindzia:
     - t-189972
     - t-197417
-
 - id: c-172856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -621,7 +611,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189973
-
 - id: c-172857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -643,7 +632,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189974
-
 - id: c-172858
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -666,7 +654,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189975
-
 - id: c-172859
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -689,7 +676,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189976
-
 - id: c-172860
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -716,7 +702,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189977
-
 - id: c-172861
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -743,7 +728,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189978
-
 - id: c-172862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -765,7 +749,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189979
-
 - id: c-172864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -787,7 +770,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189981
-
 - id: c-172866
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -811,7 +793,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189983
-
 - id: c-172867
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -833,7 +814,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189984
-
 - id: c-177108
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -854,7 +834,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194712
-
 - id: c-177109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -880,7 +859,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194713
-
 - id: c-179174
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -905,7 +883,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197415
-
 - id: c-179175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

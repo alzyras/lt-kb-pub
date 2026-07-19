@@ -166,7 +166,6 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193129
-
 - id: c-72888
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -186,7 +185,6 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74944
-
 - id: c-72892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -206,7 +204,6 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74943
-
 - id: c-72893
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -229,7 +226,6 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74950
-
 - id: c-72894
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

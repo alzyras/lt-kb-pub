@@ -484,8 +484,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-
 ## Citatos
 
 - id: c-55318
@@ -517,7 +515,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   pagrindzia:
     - t-54957
     - t-82288
-
 - id: c-55319
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -538,7 +535,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54958
-
 - id: c-55320
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -561,7 +557,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54959
-
 - id: c-55321
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -584,7 +579,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54960
-
 - id: c-55322
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -616,7 +610,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54961
-
 - id: c-55324
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -660,7 +653,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54963
-
 - id: c-78763
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -681,7 +673,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82290
-
 - id: c-78764
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -707,7 +698,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82287
-
 - id: c-78765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -730,7 +720,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82286
-
 - id: c-78766
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -759,7 +748,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   pagrindzia:
     - t-54956
     - t-82283
-
 - id: c-78767
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -812,7 +800,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82285
-
 - id: c-78768
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -838,7 +825,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82289
-
 - id: c-78769
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -886,7 +872,6 @@ Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti sie
   pagrindzia:
     - t-54962
     - t-82284
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Aleksandras Jogailaitis]]
 - Tėvai: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

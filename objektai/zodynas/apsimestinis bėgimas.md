@@ -82,7 +82,6 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32759
-
 - id: c-34140
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

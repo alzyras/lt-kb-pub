@@ -91,7 +91,6 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189136
-
 - id: c-172025
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

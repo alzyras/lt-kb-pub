@@ -87,6 +87,5 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21693
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

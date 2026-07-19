@@ -64,8 +64,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175087
-
+    - c-002
 <a id="claim-t-192247"></a>
 - t-002
   global_id: t-192247
@@ -84,7 +83,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175086
-
+    - c-001
 <a id="claim-t-192562"></a>
 - t-003
   global_id: t-192562
@@ -106,7 +105,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175343
-
+    - c-175087
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -124,8 +123,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192247
 - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
@@ -141,8 +139,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192246
 ## Citatos
 
 - id: c-175086
@@ -167,7 +164,6 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192247
-
 - id: c-175087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -187,8 +183,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-192246
-
+    - t-192562
 - id: c-175343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

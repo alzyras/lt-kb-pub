@@ -46,7 +46,7 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86187
-
+    - c-001
 <a id="claim-t-90327"></a>
 - t-002
   global_id: t-90327
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86187
-
+    - c-001
 <a id="claim-t-90328"></a>
 - t-003
   global_id: t-90328
@@ -105,9 +105,8 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-90326
+    - t-90327
 ## Citatos
 
 - id: c-86187
@@ -134,7 +133,6 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   pagrindzia:
     - t-90326
     - t-90327
-
 - id: c-86189
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

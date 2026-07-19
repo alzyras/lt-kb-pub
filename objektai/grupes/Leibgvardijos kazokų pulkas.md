@@ -115,7 +115,6 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40982
-
 - id: c-167050
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

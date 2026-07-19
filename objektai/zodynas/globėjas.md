@@ -48,6 +48,7 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168746
+    - c-001
 - susijęs iš [[objektai/asmenys/Fabijonas (Varmės vyskupas).md#claim-t-87667|Fabijonas (Varmės vyskupas)]]: Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189970|Kristoforas Hartknochas]]: Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumentuotai laikė tuo pačiu žemės dievu.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64221|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d.
@@ -95,8 +96,7 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185385
 ## Citatos
 
 - id: c-168746

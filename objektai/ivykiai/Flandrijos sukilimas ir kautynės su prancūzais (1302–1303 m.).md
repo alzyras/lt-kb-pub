@@ -73,7 +73,7 @@ Nenurodyta
   semantiniai_rysiai: "Flandrai kariavo prieš Prancūzai (0.82); Flandrai puolė Prancūzai (0.74)"
   pagrindžia:
     - c-63576
-
+    - c-001
 <a id="claim-t-62781"></a>
 - t-002
   global_id: t-62781
@@ -112,8 +112,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62780
 ## Citatos
 
 - id: c-63576
@@ -138,7 +137,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62780
-
 - id: c-63577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

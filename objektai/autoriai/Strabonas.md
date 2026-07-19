@@ -50,7 +50,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173337
-
+    - c-001
 <a id="claim-t-190794"></a>
 - t-002
   global_id: t-190794
@@ -71,7 +71,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173676
-
+    - c-002
 <a id="claim-t-190795"></a>
 - t-003
   global_id: t-190795
@@ -92,7 +92,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173677
-
+    - c-003
 <a id="claim-t-194890"></a>
 - t-004
   global_id: t-194890
@@ -106,6 +106,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177286
+    - c-004
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190316|Herodotas]]: Herodotas ir Strabonas tikino, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti dievams skirtas šventyklas.
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188179|Egiptiečiai]]: Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.
 - susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-188183|Finikiečiai]]: Narbutas nurodė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais šventyklų dievams statytojais.
@@ -136,8 +137,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190454
 - c-002
   santrauka: 'Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -155,8 +155,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190794
 - c-003
   santrauka: 'Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -183,8 +182,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190795
 - c-004
   santrauka: 'Strabonas pasuko į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų 1 Strabo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -198,8 +196,7 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194890
 ## Citatos
 
 - id: c-173337
@@ -228,7 +225,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190454
-
 - id: c-173676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -250,7 +246,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190794
-
 - id: c-173677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -281,7 +276,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190795
-
 - id: c-177286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -117,7 +117,6 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
   pagrindzia:
     - t-189191
     - t-197381
-
 - id: c-177090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -136,7 +135,6 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194693
-
 - id: c-179159
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

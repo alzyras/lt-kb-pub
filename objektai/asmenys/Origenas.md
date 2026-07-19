@@ -70,4 +70,4 @@ Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-190193

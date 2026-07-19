@@ -41,7 +41,7 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176709
-
+    - c-001
 <a id="claim-t-196806"></a>
 - t-002
   global_id: t-196806
@@ -81,8 +81,7 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194096
 ## Citatos
 
 - id: c-176709
@@ -117,7 +116,6 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194096
-
 - id: c-178923
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

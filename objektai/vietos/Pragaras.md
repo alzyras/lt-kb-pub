@@ -53,6 +53,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171852
+    - c-001
 - susijęs iš [[objektai/asmenys/Mnelea ir Rolandas.md#claim-t-190186|Mnelea ir Rolandas]]: Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus.
 - susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190284|Tadas Volianskis]]: Narbutas rašė, kad Tadas Volianskis Santvaro atvaizde matė ragus ir dėl nuogumo laikė jį pragaro dievybe.
 - susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189417|Senovės egiptiečiai]]: Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi.
@@ -101,8 +102,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188963
 ## Citatos
 
 - id: c-171852

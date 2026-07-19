@@ -80,7 +80,6 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką pietų kryptimi į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
+    - t-187326
+    - t-187327
+    - t-187652

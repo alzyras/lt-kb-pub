@@ -110,7 +110,6 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75483
-
 - id: c-23884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,4 +131,4 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75482
+    - t-75484

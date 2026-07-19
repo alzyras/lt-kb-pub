@@ -50,7 +50,7 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171818
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė Veliuonos pilį.'
@@ -67,8 +67,7 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188929
 ## Citatos
 
 - id: c-171818

@@ -271,7 +271,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   pagrindzia:
     - t-55004
     - t-81905
-
 - id: c-55569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -292,7 +291,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   pagrindzia:
     - t-55005
     - t-81903
-
 - id: c-55570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -315,7 +313,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55006
-
 - id: c-78433
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -346,7 +343,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81904
-
 - id: c-78436
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -374,7 +370,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81907
-
 - id: c-78437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -404,7 +399,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81906
-
 - id: c-171295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -426,7 +420,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188405
-
 - id: c-176801
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -452,7 +445,6 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194198
-
 - id: c-184296
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

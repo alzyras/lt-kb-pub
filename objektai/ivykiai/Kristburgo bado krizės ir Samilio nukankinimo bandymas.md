@@ -95,7 +95,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85325
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, nusiuntė broliams, o Samilis vėliau pagijo.'
@@ -115,8 +115,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-89373
 ## Citatos
 
 - id: c-85323
@@ -140,7 +139,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89372
-
 - id: c-85324
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -163,7 +161,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89371
-
 - id: c-85325
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

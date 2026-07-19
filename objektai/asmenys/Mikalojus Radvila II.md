@@ -85,7 +85,6 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87556
-
 - id: c-83535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

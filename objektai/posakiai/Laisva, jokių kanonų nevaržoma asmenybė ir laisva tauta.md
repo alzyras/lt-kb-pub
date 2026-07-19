@@ -54,7 +54,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171027
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Laisva, jokių kanonų nevaržoma asmenybė ir laisva tauta“ citatoje apibūdinamas kaip vienas svarbiausių tautinio judėjimo devizų.'
@@ -75,8 +75,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189596
 ## Citatos
 
 - id: c-171027

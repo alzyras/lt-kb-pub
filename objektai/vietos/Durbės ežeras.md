@@ -86,7 +86,6 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67871
-
 - id: c-175925
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

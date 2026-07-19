@@ -92,7 +92,6 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101579
-
 - id: c-95099
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

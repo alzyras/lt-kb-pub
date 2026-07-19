@@ -101,7 +101,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08342
-
 - id: c-10297
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

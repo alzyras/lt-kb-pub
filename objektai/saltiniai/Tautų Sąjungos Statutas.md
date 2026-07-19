@@ -104,7 +104,6 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75520
-
 - id: c-73282
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

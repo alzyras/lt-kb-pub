@@ -124,7 +124,6 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42376
-
 - id: c-45469
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -147,7 +146,6 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42377
-
 - id: c-45470
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -167,7 +165,6 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42378
-
 - id: c-167204
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

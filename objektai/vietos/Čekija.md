@@ -116,7 +116,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168575
-
+    - c-004
 <a id="claim-t-192787"></a>
 - t-005
   global_id: t-192787
@@ -371,8 +371,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-185214
 ## Citatos
 
 - id: c-166282
@@ -394,7 +393,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182878
-
 - id: c-167697
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -417,7 +415,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184326
-
 - id: c-167773
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -437,7 +434,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184408
-
 - id: c-168575
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -468,7 +464,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185214
-
 - id: c-175557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -489,7 +484,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192787
-
 - id: c-175558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -514,7 +508,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192788
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jonas Liuksemburgietis]], [[objektai/asmenys/Pršemyslas Otokaras II]]
 - Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]]

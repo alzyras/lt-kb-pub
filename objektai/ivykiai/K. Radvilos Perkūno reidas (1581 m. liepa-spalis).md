@@ -206,7 +206,6 @@ Nenurodyta
   pagrindzia:
     - t-78614
     - t-78615
-
 - id: c-75841
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -229,7 +228,6 @@ Nenurodyta
   pagrindzia:
     - t-78613
     - t-78617
-
 - id: c-75843
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

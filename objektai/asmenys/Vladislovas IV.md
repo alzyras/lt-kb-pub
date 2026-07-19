@@ -101,7 +101,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87593
-
 - id: c-83572
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

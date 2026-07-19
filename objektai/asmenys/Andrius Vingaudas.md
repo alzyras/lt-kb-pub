@@ -134,7 +134,6 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185996
-
 - id: c-169358
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -180,7 +179,6 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185997
-
 - id: c-169359
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

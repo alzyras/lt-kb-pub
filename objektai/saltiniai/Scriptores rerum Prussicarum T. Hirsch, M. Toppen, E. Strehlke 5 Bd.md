@@ -59,7 +59,7 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
   temporalinis_llm_pakomentavimas: "Citata pateikia leidinio tomus, vietą ir leidimo metus."
   pagrindžia:
     - c-61923
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Penkių tomų „Scriptores rerum Prussicarum“ leidinys išėjo Leipcige 1861–1874 m.'
@@ -73,8 +73,7 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61291
 ## Citatos
 
 - id: c-61923

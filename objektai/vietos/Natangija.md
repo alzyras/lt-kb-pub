@@ -50,7 +50,7 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175568
-
+    - c-001
 <a id="claim-t-192799"></a>
 - t-002
   global_id: t-192799
@@ -70,7 +70,7 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175569
-
+    - c-002
 <a id="claim-t-201087"></a>
 - t-003
   global_id: t-201087
@@ -117,8 +117,7 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192798
 - c-002
   santrauka: 'Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -134,8 +133,7 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192799
 ## Citatos
 
 - id: c-175568
@@ -167,7 +165,6 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192798
-
 - id: c-175569
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -188,7 +185,6 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192799
-
 - id: c-184437
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

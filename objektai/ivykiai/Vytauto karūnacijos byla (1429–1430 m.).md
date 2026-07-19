@@ -181,7 +181,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05326
-
 - id: c-67061
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -202,7 +201,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05325
-
 - id: c-67062
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -225,7 +223,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66987
-
 - id: c-67066
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -251,7 +248,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66986
-
 - id: c-67067
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -269,7 +265,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05326
-
 - id: c-167961
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -304,7 +299,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184600
-
 - id: c-178605
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

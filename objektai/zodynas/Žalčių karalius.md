@@ -67,7 +67,7 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-175117
-
+    - c-001
 <a id="claim-t-192310"></a>
 - t-003
   global_id: t-192310
@@ -104,8 +104,7 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192309
 ## Citatos
 
 - id: c-175117
@@ -141,7 +140,6 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192309
-
 - id: c-175118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -70,7 +70,7 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174476
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoras Narbutas Aleksandro Humbolto veikalais apie Žemės temperatūros kitimą grindė prielaidą apie labai senus Šiaurės gyventojus.'
@@ -103,8 +103,6 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Narbutas Humboltui priskyrė aiškinimą, kad senovės Šiaurės tropinę augaliją sukūrė po sausumos ir skystosios materijos atsiskyrimo likusi šiluma.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -125,8 +123,7 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191594
 ## Citatos
 
 - id: c-174474
@@ -146,7 +143,6 @@ Aleksandras Humboltas tvirtino, kad atsiskyrus skystajai ir kietajai materijai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191592
-
 - id: c-174476
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

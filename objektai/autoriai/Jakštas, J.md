@@ -148,7 +148,6 @@ Jakštas, J.
   pagrindzia:
     - t-71516
     - t-71519
-
 - id: c-70084
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -165,7 +164,6 @@ Jakštas, J.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71518
-
 - id: c-70085
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -187,7 +185,6 @@ Jakštas, J.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-71517
-
 - id: c-70086
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

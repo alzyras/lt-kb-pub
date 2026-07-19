@@ -114,7 +114,6 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108341
-
 - id: c-100537
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -132,7 +131,6 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-108340
-
 - id: c-166565
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

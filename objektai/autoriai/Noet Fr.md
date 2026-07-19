@@ -41,7 +41,7 @@ Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177283
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė jį iš Trakijos į Makedoniją (Noet Fr.'
@@ -57,8 +57,7 @@ Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194887
 ## Citatos
 
 - id: c-177283

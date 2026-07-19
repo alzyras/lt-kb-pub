@@ -71,7 +71,7 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175572
-
+    - c-002
 <a id="claim-t-197921"></a>
 - t-003
   global_id: t-197921
@@ -117,8 +117,7 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192802
 ## Citatos
 
 - id: c-175571
@@ -142,7 +141,6 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192801
-
 - id: c-175572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -165,7 +163,6 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192802
-
 - id: c-179398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -190,7 +187,6 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197921
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Rusia]]
 - Salavija priklausė [[objektai/vietos/Prūsija]]

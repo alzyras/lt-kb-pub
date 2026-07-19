@@ -121,7 +121,6 @@ Socialinė ir prekybinė grupė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195515
-
 - id: c-177935
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -143,7 +142,6 @@ Socialinė ir prekybinė grupė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195516
-
 - id: c-177936
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -163,7 +161,6 @@ Socialinė ir prekybinė grupė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195513
-
 - id: c-177937
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

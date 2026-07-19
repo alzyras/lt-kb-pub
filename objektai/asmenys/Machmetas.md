@@ -134,7 +134,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96028
-
 - id: c-90781
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -158,7 +157,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96027
-
 - id: c-90782
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -180,6 +178,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96029
-
 ## Ryšiai
 - Rėmė Machmetą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

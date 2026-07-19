@@ -72,7 +72,7 @@ Nenurodyta
   pagrindžia:
     - c-63670
     - c-63671
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1245 m. apaštališkojo sosto legatas paskelbė kryžiaus karą prieš Sventopelką ir įsakė jį skelbti įvairiose karalystėse bei provincijose.'
@@ -90,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62841
 ## Citatos
 
 - id: c-63670
@@ -115,7 +114,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62841
-
 - id: c-63671
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

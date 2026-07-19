@@ -84,7 +84,6 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59092
-
 - id: c-59725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

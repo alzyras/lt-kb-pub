@@ -80,7 +80,6 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88240
-
 - id: c-84219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

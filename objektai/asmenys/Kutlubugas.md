@@ -49,6 +49,7 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169591
+    - c-001
 - susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186695|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184665|Algirdas (Lietuvos valdovas)]]: Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.
 - susijęs iš [[objektai/asmenys/Chadžibėjus Girėjus.md#claim-t-186190|Chadžibėjus Girėjus]]: Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.
@@ -71,8 +72,7 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186230
 ## Citatos
 
 - id: c-169591
@@ -97,6 +97,5 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186230
-
 ## Ryšiai
 - Kutlubugas valdė [[objektai/vietos/Krymas]]

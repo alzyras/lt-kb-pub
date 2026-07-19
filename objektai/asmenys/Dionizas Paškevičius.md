@@ -57,7 +57,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172946
-
+    - c-001
 <a id="claim-t-190064"></a>
 - t-002
   global_id: t-190064
@@ -78,22 +78,8 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172947
-
-<a id="claim-t-190851"></a>
-- t-003
-  global_id: t-190851
-  teiginys: "Dionizas Paškevičius savo rinkinyje turėjo urną, panašią į Žemaitijos kapavietėse rastas urnas."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
+    - c-002
     - c-173733
-
-<a id="claim-t-190852"></a>
 - t-005
   global_id: t-190852
   teiginys: "Narbutas rėmėsi Kajetono Niezabitowskio straipsniu apie Dionizo Paškevičiaus Žemaitijos senienų rinkinį, paskelbtu „Dziennik Wilenski“ 1823 m."
@@ -116,6 +102,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-173734
+    - c-005
 - susijęs iš [[objektai/autoriai/Praleisti nelaikyti saugiais autoriais.md#claim-t-190448|Praleisti nelaikyti saugiais autoriais]]: Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis garbintas kaip šventasis.
 - susijęs iš Bardžių dvaras: Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko milžinišką seną ąžuolą ir jo kamiene įrengė kabinetą senienoms.
 - susijęs iš Nočia: Narbutas rašo, kad prie Nočios miestelio atsitiktinai atkastame kape rastas akmeninis kirvukas iš kietos geležies.
@@ -140,8 +127,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190063
 - c-002
   santrauka: 'Dionizas Paškevičius savo rinkinyje turėjo urną, panašią į Žemaitijos kapavietėse rastas urnas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -157,8 +143,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190064
 - c-005
   santrauka: 'Narbutas rėmėsi Kajetono Niezabitowskio straipsniu apie Dionizo Paškevičiaus Žemaitijos senienų rinkinį, paskelbtu „Dziennik Wilenski“ 1823 m.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -174,8 +159,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190852
 ## Citatos
 
 - id: c-172946
@@ -203,7 +187,6 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190063
-
 - id: c-172947
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -226,7 +209,6 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190064
-
 - id: c-173733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -247,8 +229,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-190851
-
+    - t-190064
 - id: c-173734
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

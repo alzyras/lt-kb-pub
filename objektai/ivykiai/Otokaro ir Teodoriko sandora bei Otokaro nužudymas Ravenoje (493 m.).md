@@ -63,7 +63,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo apie bendrą vertinimą; citata remia konkretesnį faktą apie nužudymą."
   pagrindžia:
     - c-169119
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.'
@@ -91,8 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185758
 ## Citatos
 
 - id: c-169119

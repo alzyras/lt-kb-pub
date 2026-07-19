@@ -194,7 +194,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86759
-
 - id: c-82738
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -218,7 +217,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86758
-
 - id: c-167898
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -250,7 +248,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   pagrindzia:
     - t-184537
     - t-196096
-
 - id: c-167899
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -276,7 +273,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184538
-
 - id: c-167900
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -306,7 +302,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184539
-
 - id: c-167901
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -345,7 +340,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196098
-
 - id: c-178527
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -371,6 +365,5 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196097
-
 ## Ryšiai
 - Lenkijos senatas siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

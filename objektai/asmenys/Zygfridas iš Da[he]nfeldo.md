@@ -101,6 +101,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80728
-
 ## Ryšiai
 - Zygfridas iš Da[he]nfeldo dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]

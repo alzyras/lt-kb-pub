@@ -54,7 +54,7 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173203
-
+    - c-001
 <a id="claim-t-194674"></a>
 - t-002
   global_id: t-194674
@@ -98,8 +98,7 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190320
 ## Citatos
 
 - id: c-173203
@@ -125,7 +124,6 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190320
-
 - id: c-177071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -141,7 +139,6 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194674
-
 - id: c-179139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -118,7 +118,6 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60968
-
 - id: c-61601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -136,7 +135,6 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60970
-
 - id: c-61602
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

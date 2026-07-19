@@ -101,7 +101,6 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67274
-
 - id: c-14563
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -117,7 +116,6 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67274
-
 - id: c-37140
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

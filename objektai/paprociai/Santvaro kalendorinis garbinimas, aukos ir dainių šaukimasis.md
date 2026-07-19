@@ -116,7 +116,6 @@ Nenurodyta
   pagrindzia:
     - t-189872
     - t-197264
-
 - id: c-179093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -58,6 +58,7 @@ Vorksla apibūdinta kaip upė, tekanti pro Poltavą ir iš kairės pusės įteka
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170637
+    - c-001
 - susijęs iš Roslavlis: Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,8 +81,7 @@ Vorksla apibūdinta kaip upė, tekanti pro Poltavą ir iš kairės pusės įteka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187698
 ## Citatos
 
 - id: c-170637

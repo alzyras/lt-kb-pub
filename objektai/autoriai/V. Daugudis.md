@@ -96,7 +96,6 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31024
-
 - id: c-33167
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

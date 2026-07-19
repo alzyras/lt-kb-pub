@@ -63,6 +63,7 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60837
+    - c-001
 - susijęs iš [[objektai/posakiai/Šiandien prisiminkite puikius drabužius.md#claim-t-59172|Šiandien prisiminkite puikius drabužius]]: Sembas Sklodas iš Kvedenavos ragino giminaičius prisiminti puikius drabužius, kurių jie dažnai gaudavo iš Ordino brolių.
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,8 +85,7 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60206
 ## Citatos
 
 - id: c-60837
@@ -110,7 +110,6 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60206
-
 - id: c-60838
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -136,6 +135,5 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60205
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Noliubas]]

@@ -2438,7 +2438,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-181943
-
+    - c-070
 <a id="claim-t-199518"></a>
 - t-174
   global_id: t-199518
@@ -2549,8 +2549,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Suderintas įvardis „ją“ su aiškiu antecedentu Lietuva.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija'
   pagrindžia:
-    - c-182088
-
+    - c-056
 <a id="claim-t-180069"></a>
 - t-005
   global_id: t-180069
@@ -2561,8 +2560,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas citata apie Lietuvos tarptautinį pripažinimą.'
   pagrindžia:
-    - c-181972
-
+    - c-057
 <a id="claim-t-180075"></a>
 - t-011
   global_id: t-180075
@@ -2570,8 +2568,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Teiginys pilnas ir aiškiai apibūdina LDK procesų rezultatą.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
-    - c-181931
-
+    - c-036
 <a id="claim-t-180085"></a>
 - t-020
   global_id: t-180085
@@ -2582,8 +2579,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paaiškina 1864 m. kaip ribos reikšmę Lietuvai.'
   pagrindžia:
-    - c-182032
-
+    - c-043
 <a id="claim-t-180110"></a>
 - t-040
   global_id: t-180110
@@ -2594,8 +2590,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pataisyta gramatinė derinimo forma pagal Lietuvos rinktinę.'
   pagrindžia:
-    - c-182053
-
+    - c-081
 <a id="claim-t-180128"></a>
 - t-051
   global_id: t-180128
@@ -2606,8 +2601,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas citata apie Lietuvos suvienijimo požymius.'
   pagrindžia:
-    - c-182002
-
+    - c-055
 <a id="claim-t-180130"></a>
 - t-053
   global_id: t-180130
@@ -2615,8 +2609,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Teiginys pilnas ir perteikia citatoje nurodytą hipotetinį vertinimą.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
-    - c-181916
-
+    - c-025
 <a id="claim-t-180132"></a>
 - t-055
   global_id: t-180132
@@ -2627,8 +2620,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia ir suformuluotas enciklopedinis sakinys.'
   pagrindžia:
-    - c-181940
-
+    - c-063
 <a id="claim-t-180135"></a>
 - t-056
   global_id: t-180135
@@ -2637,8 +2629,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_event: [[objektai/ivykiai/Kryžiaus karai|Kryžiaus karai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Baltija'
   semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė Lietuva'
   pagrindžia:
-    - c-182047
-
+    - c-072
 <a id="claim-t-180153"></a>
 - t-070
   global_id: t-180153
@@ -2646,16 +2637,14 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra perteklinė metafora ir neaiški nuoroda.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Kuršas; mentioned_place: Suvalkai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
   pagrindžia:
-    - c-181984
-
+    - c-031
 <a id="claim-t-180156"></a>
 - t-073
   global_id: t-180156
   teiginys: 'Masinis nedarbas paskatino masinę Lietuvos gyventojų emigraciją.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir aiškiai nurodo emigracijos priežastį.'
   pagrindžia:
-    - c-182003
-
+    - c-024
 <a id="claim-t-180169"></a>
 - t-082
   global_id: t-180169
@@ -2663,8 +2652,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiški nuoroda „Taip“.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
   pagrindžia:
-    - c-182069
-
+    - c-065
 <a id="claim-t-180170"></a>
 - t-083
   global_id: t-180170
@@ -2675,8 +2663,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra iliustracijos antraštės triukšmas.'
   pagrindžia:
-    - c-182023
-
+    - c-078
 <a id="claim-t-180179"></a>
 - t-089
   global_id: t-180179
@@ -2687,8 +2674,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir aprašo lietuvių reakciją į vermachto įžengimą.'
   pagrindžia:
-    - c-181926
-
+    - c-030
 <a id="claim-t-180193"></a>
 - t-098
   global_id: t-180193
@@ -2696,8 +2682,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Ilgas interpretacinis teiginys sutrumpintas iki citata paremto enciklopedinio sakinio.'
   susije_objektai: 'mentioned_place: Europa; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
-    - c-182063
-
+    - c-023
 <a id="claim-t-180198"></a>
 - t-100
   global_id: t-180198
@@ -2708,8 +2693,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai nurodo Lietuvos priėmimą į Tautų Sąjungą.'
   pagrindžia:
-    - c-182066
-
+    - c-068
 <a id="claim-t-180199"></a>
 - t-101
   global_id: t-180199
@@ -2720,8 +2704,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia aiškesnį sakinį apie sovietų kariuomenės veiksmus.'
   pagrindžia:
-    - c-182055
-
+    - c-051
 <a id="claim-t-180200"></a>
 - t-102
   global_id: t-180200
@@ -2732,8 +2715,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir apibūdina Lietuvos vidaus valdymo kryptį.'
   pagrindžia:
-    - c-181988
-
+    - c-047
 <a id="claim-t-187596"></a>
 - t-116
   global_id: t-187596
@@ -2744,8 +2726,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Sutrumpintas sakinys paliekant aiškų veikėją, veiksmą, tikslą ir kryptį į Lietuvą. Titulų grandinė neperkelta, nes teiginiui pakanka citatos remiamo veiksmo.'
   susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Kaunas; mentioned_place: Maskva'
   pagrindžia:
-    - c-181983
-
+    - c-170543
 <a id="claim-t-192688"></a>
 - t-117
   global_id: t-192688
@@ -2756,8 +2737,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Moralinis ir politinis vertinimas suformuluotas kaip Narbuto požiūris. Pašalinta skyrybos klaida ir nepridėta platesnių istorinių aiškinimų.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]'
   pagrindžia:
-    - c-182046
-
+    - c-175458
 <a id="claim-t-192689"></a>
 - t-118
   global_id: t-192689
@@ -2768,8 +2748,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Etnolingvistinė interpretacija palikta su Narbuto atribucija. Išskleistas Lietuvos kontekstas, bet nepridėta išvadų už citatos ribų.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_object: [[objektai/zodynas/Litalain|Litalain]]; llm_object: Lietuva'
   pagrindžia:
-    - c-181956
-
+    - c-175459
 <a id="claim-t-192690"></a>
 - t-119
   global_id: t-192690
@@ -2780,8 +2759,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Kilmės aiškinimas nėra neutralus faktas, todėl paliktas su Narbuto atribucija. Sakinys sutrumpintas iki aiškaus teiginio apie Lietuvą.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Graikai|Graikai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Pelazgai|Pelazgai]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Viena'
   pagrindžia:
-    - c-181985
-
+    - c-175460
 <a id="claim-t-192691"></a>
 - t-120
   global_id: t-192691
@@ -2792,8 +2770,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Išskleistas subjektas ir pašalinti OCR artefaktai. Šaltinių pirmumo vertinimas paliktas su Narbuto atribucija.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Hiriai|Hiriai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
-    - c-181936
-
+    - c-132
 <a id="claim-t-192692"></a>
 - t-121
   global_id: t-192692
@@ -2803,8 +2780,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta kaip aiškus geologinis Narbuto pastebėjimas apie Lietuvą. Nepridėta vėlesnių aiškinimų apie akmenų kilmę.'
   pagrindžia:
-    - c-182051
-
+    - c-133
 <a id="claim-t-192693"></a>
 - t-122
   global_id: t-192693
@@ -2815,8 +2791,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Neaiškus įvardis pakeistas konkrečia moneta ir įvardytas Voliankio vaidmuo. Nuomonė apie paminklus palikta su jos autoriaus atribucija.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]'
   pagrindžia:
-    - c-181994
-
+    - c-175463
 <a id="claim-t-192694"></a>
 - t-123
   global_id: t-192694
@@ -2827,8 +2802,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Pradinis sakinys turėjo neaiškų antecedentą, todėl pasirinktas konkretesnis faktas iš citatos. Nepridėta, kokia „tauta“ minima platesniame kontekste.'
   susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
-    - c-181998
-
+    - c-135
 <a id="claim-t-193645"></a>
 - t-125
   global_id: t-193645
@@ -2837,8 +2811,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-182004
-
+    - c-137
 <a id="claim-t-193774"></a>
 - t-126
   global_id: t-193774
@@ -2847,8 +2820,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-182080
-
+    - c-138
 <a id="claim-t-193775"></a>
 - t-127
   global_id: t-193775
@@ -2857,8 +2829,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181923
-
+    - c-139
 <a id="claim-t-194030"></a>
 - t-128
   global_id: t-194030
@@ -2868,8 +2839,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinti OCR tarpai ir suformuotas sklandus sakinys apie Lietuvą. Vertinamasis žodis „baisus“ paliktas su metraščio atribucija.'
   pagrindžia:
-    - c-181962
-
+    - c-140
 <a id="claim-t-194255"></a>
 - t-129
   global_id: t-194255
@@ -2878,8 +2848,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-182065
-
+    - c-141
 <a id="claim-t-194737"></a>
 - t-130
   global_id: t-194737
@@ -2888,8 +2857,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181990
-
+    - c-142
 <a id="claim-t-194738"></a>
 - t-131
   global_id: t-194738
@@ -2898,8 +2866,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181977
-
+    - c-177134
 <a id="claim-t-196885"></a>
 - t-138
   global_id: t-196885
@@ -2909,8 +2876,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į užbaigtą sakinį apie Lietuvos istorijos dėstymą šaltinio aiškinime. Nepridėta daugiau informacijos apie Kęstutį, Birutę ar Vytautą.'
   pagrindžia:
-    - c-181917
-
+    - c-148
 <a id="claim-t-196886"></a>
 - t-139
   global_id: t-196886
@@ -2920,8 +2886,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas įvardis į Aleksandrą ir pašalinti OCR lūžiai. Titulai palikti kaip citatoje paliudytas pareigų įvardijimas, nepridedant vėlesnio sprendimo dėl etmono vietos.'
   pagrindžia:
-    - c-181983
-
+    - c-116
 <a id="claim-t-197466"></a>
 - t-140
   global_id: t-197466
@@ -2930,8 +2895,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-182005
-
+    - c-120
 <a id="claim-t-197467"></a>
 - t-141
   global_id: t-197467
@@ -2940,8 +2904,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181974
-
+    - c-121
 <a id="claim-t-197468"></a>
 - t-142
   global_id: t-197468
@@ -2950,8 +2913,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181933
-
+    - c-149
 <a id="claim-t-197469"></a>
 - t-143
   global_id: t-197469
@@ -2960,8 +2922,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181977
-
+    - c-143
 <a id="claim-t-197470"></a>
 - t-144
   global_id: t-197470
@@ -2970,8 +2931,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-182077
-
+    - c-150
 <a id="claim-t-197471"></a>
 - t-145
   global_id: t-197471
@@ -2980,8 +2940,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181948
-
+    - c-151
 <a id="claim-t-197889"></a>
 - t-146
   global_id: t-197889
@@ -2990,8 +2949,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181985
-
+    - c-131
 <a id="claim-t-197890"></a>
 - t-147
   global_id: t-197890
@@ -3000,8 +2958,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-182062
-
+    - c-152
 <a id="claim-t-197891"></a>
 - t-148
   global_id: t-197891
@@ -3010,8 +2967,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   pagrindžia:
-    - c-181996
-
+    - c-153
 <a id="claim-t-199354"></a>
 - t-165
   global_id: t-199354
@@ -3025,8 +2981,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuvos bajorija buvo sąjungininkas su Lenkijos bajorija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistas šaltinio pobūdis ir Lietuvos kontekstas. Neperkelta neaiški citata apie kepures kaip atskiras faktas.'
   pagrindžia:
-    - c-181928
-
+    - c-171641
 <a id="claim-t-199382"></a>
 - t-192
   global_id: t-199382
@@ -3037,8 +2992,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir išlaikytas historiografinis kontekstas. Nepridėta citatos apie lenkų istorikus.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
-    - c-181992
-
+    - c-171628
 <a id="claim-t-199385"></a>
 - t-195
   global_id: t-199385
@@ -3049,8 +3003,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Pagyrimas ir vertinimas priskirti Narbutui. Vėlesnis krikščionybės paplitimo kontekstas neįtrauktas.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Livonija; mentioned_place: Nesvyžius; mentioned_place: Sėlpilis; llm_object: Lietuva'
   pagrindžia:
-    - c-182036
-
+    - c-171650
 <a id="claim-t-199407"></a>
 - t-217
   global_id: t-199407
@@ -3061,8 +3014,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Išvada suformuluota kaip Narbuto argumentas. Nepridėta konteksto apie konkretų dievą, nes citata jo neįvardija.'
   susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
-    - c-182005
-
+    - c-171634
 <a id="claim-t-199413"></a>
 - t-223
   global_id: t-199413
@@ -3072,8 +3024,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Mitologinis pasakojimas paliktas su Narbuto atribucija. Detalių sąrašas sutrumpintas iki citatos palaikomo apibendrinimo.'
   pagrindžia:
-    - c-182039
-
+    - c-171637
 <a id="claim-t-199425"></a>
 - t-235
   global_id: t-199425
@@ -3084,8 +3035,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Mitologinis aiškinimas paliktas kaip Narbuto vaizdinys. Nepridėta platesnių teiginių apie religijų kilmę.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Brandenburgas; mentioned_place: Graikija; mentioned_place: Lenkija; mentioned_place: Suomija'
   pagrindžia:
-    - c-181975
-
+    - c-171632
 <a id="claim-t-199446"></a>
 - t-255
   global_id: t-199446
@@ -3095,8 +3045,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Religinė ir vertinamoji interpretacija pateikta su Narbuto atribucija. XVI a. detalė neįtraukta, kad sakinys liktų glaustas.'
   pagrindžia:
-    - c-181950
-
+    - c-171639
 <a id="claim-t-199448"></a>
 - t-257
   global_id: t-199448
@@ -3107,8 +3056,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Aiškiai įvardytas objektas ir funkcija. Nepridėta daugiau apie apskritis, kad sakinys liktų glaustas.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Sandara|Sandara]]; mentioned_place: Trakai'
   pagrindžia:
-    - c-181987
-
+    - c-171646
 <a id="claim-t-199453"></a>
 - t-261
   global_id: t-199453
@@ -3119,8 +3067,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Iš fragmento atkurta pilna mintis apie Aleksotą ir Kauno apylinkes. Bibliografinis puslapio triukšmas pašalintas.'
   susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Aleksotas; mentioned_place: Kaunas'
   pagrindžia:
-    - c-181989
-
+    - c-171629
 <a id="claim-t-199482"></a>
 - t-290
   global_id: t-199482
@@ -3131,8 +3078,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Teiginys susietas su autoriaus veikalo struktūra ir mitologijos tema. Redakcinis „mums nežinomos vietos“ neperkeltas.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija'
   pagrindžia:
-    - c-181980
-
+    - c-171648
 <a id="claim-t-199486"></a>
 - t-294
   global_id: t-199486
@@ -3143,8 +3089,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Pašalinti OCR ženklai ir suformuotas aiškus subjektas. Nepridėta ankstesnio vestuvių veiksmo, nes jis fragmentiškas.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija'
   pagrindžia:
-    - c-182021
-
+    - c-171642
 <a id="claim-t-199488"></a>
 - t-296
   global_id: t-199488
@@ -3152,8 +3097,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   sudarymo_pagrindimas: 'Teiginys pilnas ir perteikia citatoje pateiktą Lietuvos narystės NATO ir ES poveikį.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Trakai; mentioned_place: Trakų pilis'
   pagrindžia:
-    - c-182064
-
+    - c-042
 <a id="claim-t-199498"></a>
 - t-305
   global_id: t-199498
@@ -3163,7 +3107,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kilmės teorija ir mitologinis aiškinimas palikti su Narbuto atribucija. OCR klaidos ir tarpai sutvarkyti.'
   pagrindžia:
-    - c-181974
+    - c-171635
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
 - susijęs iš Dniestras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-183561|Netimeras]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
@@ -13689,8 +13633,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-098
-
+    - t-180193
 - c-024
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13704,8 +13647,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-073
-
+    - t-180156
 - c-025
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13724,8 +13666,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-152
-
+    - t-180130
 - c-030
   santrauka: 'Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -13748,8 +13689,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-240
-
+    - t-180179
 - c-031
   santrauka: 'Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose bei dalį Kuršo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -13771,8 +13711,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-070
-
+    - t-180153
 - c-036
   santrauka: 'LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -13789,8 +13728,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-298
-
+    - t-180075
 - c-042
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13806,8 +13744,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-296
-
+    - t-199488
 - c-043
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13822,8 +13759,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-258
-
+    - t-180085
 - c-047
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13840,8 +13776,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-263
-
+    - t-180200
 - c-051
   santrauka: '1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -13863,8 +13798,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-101
-
+    - t-180199
 - c-055
   santrauka: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nebuvo, bet 1245–1246 m. Mindaugas jau vadintas aukščiausiuoju karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -13884,8 +13818,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-306
-
+    - t-180128
 - c-056
   santrauka: 'Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -13903,8 +13836,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-308
-
+    - t-180065
 - c-057
   santrauka: '1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -13926,8 +13858,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-180069
 - c-063
   santrauka: 'Iki Jogailos tapimo Lenkijos karaliumi 1386 m. Lietuva gali būti vadinama savotiška arba nesistemine karalyste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -13945,8 +13876,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055
-
+    - t-180132
 - c-065
   santrauka: 'Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -13970,8 +13900,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-229
-
+    - t-180169
 - c-068
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13987,8 +13916,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-283
-
+    - t-180198
 - c-070
   santrauka: 'Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -14012,8 +13940,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-061
-
+    - t-199501
 - c-072
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -14030,8 +13957,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-295
-
+    - t-180135
 - c-078
   santrauka: 'Okupantų paskirto Liaudies seimo nutarimai panaikinti Lietuvos valstybingumą ir prašytis į SSRS buvo neteisėti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -14052,8 +13978,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-326
-
+    - t-180170
 - c-081
   santrauka: '1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -14078,8 +14003,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040
-
+    - t-180110
 - c-116
   santrauka: 'Aleksandras pasiuntė į Maskvą pasiuntinius parvežti didžiosios kunigaikštytės Elenos į Lietuvą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -14099,9 +14023,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-194
-    - t-139
-
+    - t-196886
 - c-117
   santrauka: 'T. Narbuto lenkiškai parašytas veikalas išryškino etnokultūrinius lietuvių ir „koroniažų“ skirtumus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14120,8 +14042,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-192
-
 - c-118
   santrauka: 'Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškąją Aleksotą apdainuojančias dainas siejo su Kauno apylinkėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14141,8 +14061,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-261
-
 - c-119
   santrauka: 'Narbutas vaizdavo, kad Graikijos ir Romos dievai persikėlė į Lietuvą ir susiliejo su vietos bei skandinavų religijomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14167,8 +14085,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-235
-
 - c-120
   santrauka: 'Narbutas Prūsijoje buvusius žemės drebėjimus laikė argumentu, kad jie galėjo būti žinomi ir tolimesnei Lietuvai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14186,9 +14102,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-217
-    - t-300
-
+    - t-197466
 - c-121
   santrauka: 'Narbutas dievaitį Lielhuwani siejo su Lietuvos vardo kilme ir laikė jį lietuvių mitu bei pamėgtu šūkiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14211,9 +14125,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-305
-    - t-304
-
+    - t-197467
 - c-122
   santrauka: 'Narbutas rašė, kad Lietuvoje pasakojimuose aitvaras kartais nematomas užpuola moteris, o kartais prijaukintas neša gėrybes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14232,8 +14144,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-223
-
 - c-123
   santrauka: 'Narbutas tikėjimą raganomis siejo su lietuvių stabmeldystės žlugimu ir svetimų prietarų plitimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14260,8 +14170,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-255
-
 - c-124
   santrauka: 'Narbutas tikrosios Lietuvos teismų sprendimus minėjo kaip šaltinį apie liudytojų priesaikas per skrutinijas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14283,8 +14191,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-165
-
 - c-125
   santrauka: 'Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14306,8 +14212,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-294
-
 - c-126
   santrauka: 'Narbutas rašė, kad tikrojoje Lietuvoje sudegintų žmonių pelenams laikyti skirtos vietos buvo vadinamos Obelijomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14328,8 +14232,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-257
-
 - c-127
   santrauka: 'Narbutas nurodė, kad toliau pateikia smulkius kai kurių lietuvių mitologijos sričių aprašymus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14349,8 +14251,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-290
-
 - c-128
   santrauka: 'Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14384,8 +14284,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-195
-
 - c-129
   santrauka: 'Teodoras Narbutas Lietuvos susijungimą su Lenkija vertino kaip savanorišką nepriklausomybės atsisakymą ir niokojančių karų priežastį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -14408,8 +14306,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-292
-
 - c-130
   santrauka: 'Narbutas estų žodį Litalain siejo su Lietuva ir Ukmergės apskritimi, aiškindamas lietuvių bei kuršių ankstyvą gyvenimą jų žemėse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -14432,8 +14328,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-321
-
 - c-131
   santrauka: 'Teodoras Narbutas lietuvių kalbą kildino iš pelazgų kalbos šakos kartu su graikų ir lotynų kalbomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -14453,9 +14347,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-214
-    - t-146
-
+    - t-197889
 - c-132
   santrauka: 'Narbutas Nestorą laikė pirmuoju jam žinomu istoriku, paminėjusiu Lietuvą apie 860 metus ar kiek vėliau.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -14477,8 +14369,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-120
-
+    - t-192691
 - c-133
   santrauka: 'Narbutas Lietuvos sluoksnių formacijoje išskyrė įvairialypius jai nebūdingus akmenis, nes joje nematė panašių uolienų sluoksnių ar kalnų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -14509,8 +14400,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-121
-
+    - t-192692
 - c-134
   santrauka: 'Tadas Voliankis Narbutui atsiuntė Lietuvoje rastos monetos piešinį ir manė, kad ji priklauso lietuviškiems paminklams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -14533,8 +14423,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-122
-
 - c-135
   santrauka: 'Narbutas rašo, kad XVI a. teismuose nuosprendžiai būdavo sakomi lietuviškai, o į knygas įrašomi rusiškai, lotyniškai arba lenkiškai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -14551,8 +14439,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-123
-
+    - t-192694
 - c-137
   santrauka: 'Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -14570,8 +14457,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-125
-
+    - t-193645
 - c-138
   santrauka: 'Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -14589,8 +14475,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-126
-
+    - t-193774
 - c-139
   santrauka: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -14606,8 +14491,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-127
-
+    - t-193775
 - c-140
   santrauka: 'Lietuvos metraštis pasakoja, kad tais pačiais metais Lietuvos žemę ištiko baisus badas ir tarp žmonių paplito prancūziškos ligos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -14629,8 +14513,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-128
-
+    - t-194030
 - c-141
   santrauka: 'Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose, gedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė ir apsaugojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -14650,8 +14533,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-129
-
+    - t-194255
 - c-142
   santrauka: 'Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ - tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14670,8 +14552,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-130
-
+    - t-194737
 - c-143
   santrauka: 'Tokiu viešpačiu karaliumi Vladislovu ir jo broliais Dievas apdovanojo Lietuvą būtent ta da, kai jam prireikė stebuklingu būdu atversti tą užkietėjusią stabmeldiškais ir manichėjiškais paklydimais šalį ir įžiebti joje tikėjimo šviesą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14694,9 +14575,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-131
-    - t-143
-
+    - t-197469
 - c-148
   santrauka: 'Leidinio aiškinime tolimesnioji Lietuvos istorija Platesniajame sąvade dėstoma pagal XV a. pabaigos Trumpojo sąvado antrąją redakciją.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -14719,8 +14598,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-138
-
+    - t-196885
 - c-149
   santrauka: 'Neturime jokio pa tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka bindavo karalių kūnus, parištus ant aukso grandinių .'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14739,8 +14617,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-142
-
+    - t-197468
 - c-150
   santrauka: 'Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš ties amžių, pasilikome sau dar daug tyrimų, ketindami juos išdėstyti kitame tome; tad ši tomą galima laikyti pasirengimu tam, apie ką dar kalbėsime.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14772,8 +14649,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-144
-
+    - t-197470
 - c-151
   santrauka: 'Italijoje jis įstojo į vienuolyną, o sugrįžęs į tė vynę ir susidūręs su religiniais sąmaiščiais, kilusiais dėl Huso moky mo, jis išvyko į Lenkiją, o iš ten karalius Vladislovas Jogaila 1392 metais nusiuntė jį, kaip pasiryžusį skelbti Lietuvoje krikščionių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -14793,8 +14669,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-145
-
+    - t-197471
 - c-152
   santrauka: 'Tačiau iš kur kilęs šis pavadinimas, dabar nepradėsime nagrinėti, kad nekartotume to, apie ką rašėme šio veikalo pirmo tomo straipsniuose „Lietuva“ ir „Lietuvanis“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -14812,8 +14687,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-147
-
+    - t-197890
 - c-153
   santrauka: 'Bene geriausiai ją apibūdina 1829 metais „Dziennik Warszawski“ išspaus dintas Dionizo Poškos straipsnis „Keletas įžanginių žo džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is toriją“2.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -14833,8 +14707,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-148
-
+    - t-197891
 ## Citatos
 
 - id: c-13427
@@ -14855,7 +14728,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199489
-
 - id: c-163696
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14884,7 +14756,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180176
-
 - id: c-163697
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14915,7 +14786,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180066
-
 - id: c-163698
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -14937,7 +14807,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180139
-
 - id: c-163700
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14966,7 +14835,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180131
-
 - id: c-163703
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -14992,7 +14860,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180124
-
 - id: c-163704
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15013,7 +14880,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180095
-
 - id: c-163705
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15036,7 +14902,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180068
-
 - id: c-163706
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15061,7 +14926,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180117
-
 - id: c-163707
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15082,7 +14946,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180094
-
 - id: c-163708
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15108,7 +14971,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180164
-
 - id: c-163709
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15134,7 +14996,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180104
-
 - id: c-163711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15154,7 +15015,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180146
-
 - id: c-163712
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15172,7 +15032,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180166
-
 - id: c-163717
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -15211,7 +15070,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180070
-
 - id: c-163718
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15249,7 +15107,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180158
-
 - id: c-163725
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15272,7 +15129,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180072
-
 - id: c-163726
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15292,7 +15148,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180107
-
 - id: c-163728
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15313,7 +15168,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180086
-
 - id: c-163729
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15336,7 +15190,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180123
-
 - id: c-163732
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15359,7 +15212,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180151
-
 - id: c-163734
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15378,7 +15230,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180201
-
 - id: c-163735
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15398,7 +15249,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180126
-
 - id: c-163738
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -15421,7 +15271,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180098
-
 - id: c-163739
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15458,7 +15307,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180115
-
 - id: c-163740
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15489,7 +15337,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180080
-
 - id: c-163741
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15518,7 +15365,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180138
-
 - id: c-163743
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15549,7 +15395,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180129
-
 - id: c-163747
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15572,7 +15417,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180154
-
 - id: c-163748
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15588,7 +15432,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180140
-
 - id: c-163751
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15611,7 +15454,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180119
-
 - id: c-163753
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15633,7 +15475,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180079
-
 - id: c-163754
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15657,7 +15498,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180171
-
 - id: c-163756
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15691,7 +15531,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180091
-
 - id: c-163757
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15716,7 +15555,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180175
-
 - id: c-163758
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15742,7 +15580,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180142
-
 - id: c-163764
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15774,7 +15611,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180096
-
 - id: c-163765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15813,7 +15649,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180109
-
 - id: c-163768
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15844,7 +15679,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180162
-
 - id: c-163769
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15865,7 +15699,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180181
-
 - id: c-163770
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -15892,7 +15725,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180100
-
 - id: c-163772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15911,7 +15743,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180180
-
 - id: c-163774
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15932,7 +15763,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180090
-
 - id: c-163775
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -15958,7 +15788,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180159
-
 - id: c-163780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -15982,7 +15811,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180183
-
 - id: c-163783
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16004,7 +15832,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180149
-
 - id: c-163784
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16026,7 +15853,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180189
-
 - id: c-163786
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16049,7 +15875,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180092
-
 - id: c-163787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16074,7 +15899,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180101
-
 - id: c-163788
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16120,7 +15944,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180071
-
 - id: c-163790
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16159,7 +15982,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180083
-
 - id: c-163792
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -16180,7 +16002,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180118
-
 - id: c-163796
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16207,7 +16028,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180157
-
 - id: c-163797
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16242,7 +16062,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180152
-
 - id: c-163798
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16262,7 +16081,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180082
-
 - id: c-163799
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -16285,7 +16103,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180184
-
 - id: c-163800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16309,7 +16126,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180137
-
 - id: c-163801
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16333,7 +16149,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180099
-
 - id: c-163804
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16360,7 +16175,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180084
-
 - id: c-163808
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16380,7 +16194,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180078
-
 - id: c-163809
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16402,7 +16215,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180155
-
 - id: c-163813
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16421,7 +16233,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180173
-
 - id: c-163815
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16445,7 +16256,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180192
-
 - id: c-163816
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16469,7 +16279,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180088
-
 - id: c-163818
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -16489,7 +16298,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180097
-
 - id: c-163819
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -16513,7 +16321,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180195
-
 - id: c-163822
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -16533,7 +16340,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180116
-
 - id: c-163824
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -16555,7 +16361,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180105
-
 - id: c-167243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -16601,7 +16406,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180121
-
 - id: c-168368
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16634,7 +16438,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185007
-
 - id: c-168369
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16660,7 +16463,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185008
-
 - id: c-168370
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16703,7 +16505,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185009
-
 - id: c-168371
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16730,7 +16531,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185010
-
 - id: c-168373
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16773,7 +16573,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185012
-
 - id: c-168374
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16819,7 +16618,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindzia:
     - t-185013
     - t-196705
-
 - id: c-168376
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16859,7 +16657,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185015
-
 - id: c-168377
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16896,7 +16693,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindzia:
     - t-185016
     - t-196706
-
 - id: c-168379
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16932,7 +16728,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185018
-
 - id: c-168380
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16956,7 +16751,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185019
-
 - id: c-176143
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -16986,7 +16780,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193421
-
 - id: c-178852
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -17012,7 +16805,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindzia:
     - t-196700
     - t-199396
-
 - id: c-178853
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -17041,7 +16833,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindzia:
     - t-196701
     - t-199357
-
 - id: c-178854
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -17065,7 +16856,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196703
-
 - id: c-178855
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -17102,7 +16892,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196704
-
 - id: c-181915
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17123,7 +16912,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199433
-
 - id: c-181918
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -17216,7 +17004,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199477
-
 - id: c-181922
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17240,7 +17027,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199383
-
 - id: c-181924
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -17261,7 +17047,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187595
-
 - id: c-181927
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -17290,7 +17075,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199527
-
 - id: c-181929
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17319,7 +17103,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199344
-
 - id: c-181932
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -17340,7 +17123,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199376
-
 - id: c-181935
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -17374,7 +17156,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199464
-
 - id: c-181937
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17447,7 +17228,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199345
-
 - id: c-181941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -17533,7 +17313,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199501
-
 - id: c-181944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -17601,7 +17380,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199451
-
 - id: c-181949
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -17712,7 +17490,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199437
-
 - id: c-181963
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17761,7 +17538,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199355
-
 - id: c-181965
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -17856,7 +17632,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199409
-
 - id: c-181969
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18028,7 +17803,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199420
-
 - id: c-181986
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -18047,7 +17821,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199380
-
 - id: c-181991
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18097,7 +17870,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199518
-
 - id: c-181995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -18119,7 +17891,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199347
-
 - id: c-181997
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18163,7 +17934,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199401
-
 - id: c-182000
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18221,7 +17991,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199447
-
 - id: c-182006
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -18240,7 +18009,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199366
-
 - id: c-182007
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -18259,7 +18027,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199353
-
 - id: c-182008
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -18277,7 +18044,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199361
-
 - id: c-182009
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -18368,7 +18134,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199469
-
 - id: c-182015
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -18390,7 +18155,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199346
-
 - id: c-182016
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -18409,7 +18173,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199476
-
 - id: c-182017
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18468,7 +18231,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199369
-
 - id: c-182024
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -18504,7 +18266,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199391
-
 - id: c-182026
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18556,7 +18317,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199483
-
 - id: c-182029
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -18577,7 +18337,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199406
-
 - id: c-182031
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18619,7 +18378,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199359
-
 - id: c-182034
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18729,7 +18487,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199491
-
 - id: c-182042
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -18810,7 +18567,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199431
-
 - id: c-182049
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -18924,7 +18680,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199436
-
 - id: c-182059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -18946,7 +18701,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199416
-
 - id: c-182060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -18967,7 +18721,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199485
-
 - id: c-182061
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19012,7 +18765,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199471
-
 - id: c-182068
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -19029,7 +18781,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199348
-
 - id: c-182070
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -19071,7 +18822,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199473
-
 - id: c-182075
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19124,7 +18874,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199426
-
 - id: c-182079
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19184,7 +18933,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199358
-
 - id: c-182086
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19281,7 +19029,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199424
-
 - id: c-182092
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -19352,7 +19099,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200895
-
 - id: c-184239
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -19386,7 +19132,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200896
-
 - id: c-184429
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -19406,7 +19151,388 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201079
+- id: c-170543
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Lietuvos didy­
+    sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas
+    didįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9  par­
+    vežti didžiosios kunigaikštytės Elenos: Vilniaus kašte­
+    lioną, Gardino vietininką kunigaikštį Aleksandrą Jur-
+    jevičių2 0 , Trakų kaštelioną, Polocko vietininką poną
+    Jurjevičių Zaberezinskį2 I, ir Breslaujos vietininką po­
+    no
 
+    ## Puslapis 145
+
+    ną Jurijų Zenovjevičių 2 2 , raštininką, Stakliškių laiky­
+    toją poną Fedkų Hrihorovičių.
+    Jie nuvažiavo ir paėmė didžiąją kunigaikštytę Ele­
+    ną, parvežė ją j Lietuvą. O su ja vyko pasiuntiniai, at­
+    siųsti jos tėvo, Maskvos didžiojo kunigaikščio Ivano
+    Vasiljevičiaus: kunigaikštis, vardu Semionas Riapo-
+    lovskis, Michailas Rusalka, Ivanas Skuratovas, dijokas
+    Vasilijus Kulešinas2 3 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187596
+- id: c-171628
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
+  citata_originali: |
+    T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
+    kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
+    tojų) skirtumus. „Lenkų istorikai ir istorijos tyrėjai visuomet
+    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
+    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
+    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199382
+- id: c-171629
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­
+    da davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo
+    nimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi
+    16
+    Žr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -
+    V., 1968.-T. I.-P. 1118.
+    31
+
+    ## Puslapis 31
+
+    Aleksotu, tai dainas, kuriose apdainuojamas lietuviškosios
+    Aleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199453
+- id: c-171632
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
+  citata_originali: |
+    Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
+    tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
+    ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
+    čią beveik visas menkiausias smulkmenas.
+    Net atrodo, kad Graikijos ir senosios Romos dievai, išgui­
+    ti iš pietų, persikėlė į Lietuvos kraštus ir, mokslo šviesą atneš­
+    dami, susitaikė su senovine vietos tikyba. Su šių dviejų religijų
+    sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
+    plaikos kilo mitologija, kurią imamės išdėstyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199425
+- id: c-171634
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
+  citata_originali: |
+    Šio dievo garbei buvo švenčiama šventė apie gruodžio 25
+    1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
+    dangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­
+    mesnei Lietuvai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199407
+- id: c-171635
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 166."
+  citata_originali: |
+    Dėl šių priežasčių dievaitisLie-
+    lhuwani (Lietuvonis) visuomet buvo lietuvių mitas ir pamėg­
+    tas šūkis, kaip skandinavųFrej (Frėjus). Taigi labai galėjo būti,
+    kad tas pamėgtas šūkis ir buvo priežastis, dėl kurios buvo pri­
+    imtas bendras tautos pavadinimas Lietuva (IJethima).
+    Srutis ir Mėletėlė
+    (Strutis i M iechutele)
+    Dievaitis su savo drauge; jie globojo augalus, tinkamus
+    amatams, ypač dažymui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199498
+- id: c-171637
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
+  citata_originali: |
+    Dar ir dabar jį tiki tamsūs žmonės“14 15.
+    Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
+    matomas užpuola miegančias moteris, kitą kartą prijaukintas
+    pasirodo aitvaro (skraidančio ugnies meteoro) pavidalu. Įlen­
+    da į klėtis, senoms, taupioms šeimininkėms išneša grietinę,
+    duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
+    terims arba mergaitėms, duoda net pinigų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199413
+- id: c-171639
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 302"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 302."
+  citata_originali: |
+    Kuo daugiau tikėta jų buvimu, tuo labiau
+    artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
+    prietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai
+    įrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­
+    giausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­
+    dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,
+    o vietinių nepripažįsta, jog šitiek daug moka.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199446
+- id: c-171641
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
+  citata_originali: |
+    Arntas (Arndt) 17 pa-
+    teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
+    miečių jų senoviniu papročiu: kad tapčiau juodas kaip anglis,
+    subyrėčiau kaip žemės dulkės, kad virsčiau akmeniu. Šaltinis
+    yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
+    siremiantys skrutinijomis, arba tardymais, kurių metu liudy­
+    tojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­
+    kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
+    17 Lieflandische Geschichte (1757 metų leidimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199354
+- id: c-171642
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 352"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 352."
+  citata_originali: |
+    Tuo tarpu sužadėtinę įvesdavo į trobą, vežėjas nu­
+    šokdavo nuo stalelio, pasiimdavo savo rankšluostį, o ant stale­
+    lio pasodindavo sužadėtinę. Tuoj prasidėdavo jungtuvės,
+    f
+    Įkijungtuviniuose papročiuose, be abejo, buvo skirtumų,
+    nelygu kurios jie buvo tautos iš įvairių, sudariusių lietuvių gentį,
+    ir jie kito pareinamai nuo vietos aplinkybių; pagaliau pats lai­
+    kas daug ką pakeitė. Aprašysime naujesnius pastebėjimus iš
+    Pietų Lietuvos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199486
+- id: c-171646
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
+  citata_originali: |
+    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
+    Obelijomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199448
+- id: c-171648
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Religijos valdžia yra didelė
+    ir buvo vyriausia. Prūsijai ir Livonijai praradus nepriklauso­
+    mybę, tų kvailysčių sumažėjo, ir pamažu stabmeldystės griu­
+    vėsiuose ėmė įsitvirtinti krikščionybė, kol 1387 metais Dievas
+    visą tautą pašaukė priimti šventąjį tikėjimą“.
+    Toliau autorius pateikia kai kurių lietuvių mitologijos sri-
+    393
+
+    ## Puslapis 393
+
+    čių smulkius aprašymus; iš jų tas vietas, kurios mums šiaip ne­
+    buvo žinomos, išdėstėme anksčiau įvairiuose straipsniuose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199482
+- id: c-171650
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 395"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 395."
+  citata_originali: |
+    Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
+    delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
+    rybės.
+    Iš šito rankraščio pasisemiame žinių apie pirminį krikščio­
+    nybės paplitimą Lietuvoje; XI amžiuje krikščionybė tikriau­
+    siai buvo paplitusi tik labai menkai, nes lietuvių vyriausiųjų
+    žynių valdžia gyvavo nepajudinama iki XIII amžiaus vidurio;
+    tuomet prūsai suklupo prieš kryžiuočius, panašiai Livonija su
+    Kuršu, pačioje Lietuvoje tų pačių riterių puolimai darėsi bai­
+    sesni, lietuviai kunigaikščiai savo žvilgsnius ėmė labiau kreipti
+    į rusų kraštus, o jų savitarpio kovos sudrebino vidinę valstybės
+    sandarą; pagaliau užkariavus Minską, Naugarduką, Pinską ir
+    dalį Voluinės, susidarė glaudesni ryšiai su Rusia; kitame pa­
+    kraštyje glaudžiau su Lietuva susijo Polockas ir Padauguvio
+    Rusia. Susidarius tokiai padėčiai, rusų tikėjimo cerkvės galėjo
+    paplisti Lietuvoje, ir gausėjo krikščionybės išpažinėjų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199385
+- id: c-175458
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    Kalbant apie istorinius seno­
+    vės šaltinius, negalima nepaminėti naujesnių, bet ir
+    čia iškyla nemalonių prisiminimų. Lietuva, susijungusi
+    30
+
+    ## Puslapis 30
+
+    su Lenkija, savanoriškai atsisakė savo nepriklausomybės,
+    pateko į lenkų bevaldystės sąmyšį, kuris atėmė iš jos
+    išorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,
+    padarė ją niokojančių karų grobiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192688
+- id: c-175459
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
+  citata_originali: |
+    Sutiksime net
+    ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
+    alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai,
+    gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius
+    vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
+    ri dabar sudaro Ukmergės apskritį*. Bet iš viso to nega­
+    lima daryti jokios kitos išvados, o tik tą, kurią jau minė­
+    jome, būtent jog lietuvių ir kuršių jų dabartinėse žemėse
+    gyventa anksčiau, negu atvykėliai alanai davė pradžią
+    šių lydinių susidarymui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192689
+- id: c-175460
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
+  citata_originali: |
+    Pelazgų kalba yra viena iš seniausių
+    šakų, iš kurios išsivystė graikų, lotynų ir lietuvių kalbos.
+    Šią giminystę geriausiai įrodo grynas lietuvių dialektas,
+    išlikęs Lietuvos viduryje, kur net ir asmenvardžiai, tikros
+    lietuviškos pavardės stulbinamai panašios į romėnų.
+    201
+    Kildinimas iš pelazgų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192690
+- id: c-175463
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 489"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
+  citata_originali: |
+    Moneta labai plona, labai apgadinta ir išliko
+    lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti
+    Krūminės medalį). Panašios monetos piešinį man atsiuntė p/onas/
+    Tad/as/ Voliankis. Ji buvo rasta Lietuvoje ir, jo nuomone, pri­
+    klauso lietuviškiems paminklams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192693
+- id: c-177134
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 393"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 393."
+  citata_originali: |
+    Jeigu Apvaizda nori atsilyginti
+    tautoms, suteikdama joms laimės dovaną, ji duoda joms šven­
+    tus, išmintingus ir dorus valdovus. Tokiu viešpačiu karaliumi
+    Vladislovu ir jo broliais Dievas apdovanojo Lietuvą būtent ta­
+    da, kai jam prireikė stebuklingu būdu atversti tą užkietėjusią
+    stabmeldiškais ir manichėjiškais paklydimais šalį ir įžiebti joje
+    tikėjimo šviesą. Pasakiau „stebuklingu būdu“, kadangi apaš­
+    tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
+    kinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių
+    riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
+    patrauklumas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194738
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Netimeras]], [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/asmenys/Žygimantas Senasis]]
 - Buvo valdoma: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Jogailaičių dinastija]], [[objektai/grupes/Lietuvos partizanai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Šventaragis]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas Senasis]]

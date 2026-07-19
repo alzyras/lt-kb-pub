@@ -51,7 +51,7 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171925
-
+    - c-001
 <a id="claim-t-192711"></a>
 - t-002
   global_id: t-192711
@@ -72,6 +72,7 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175481
+    - c-002
 - susijęs iš [[objektai/grupes/Gelonai.md#claim-t-189488|Gelonai]]: Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo tėvynėje turėjo trečią šventąją Ross upę, tapatintą su Oskolu.
 - susijęs iš [[objektai/paprociai/Budinų upės pašventinimas indų papročiu.md#claim-t-193030|Budinų upės pašventinimas indų papročiu]]: Narbutas budinams priskiria paprotį naujame krašte pašventinti upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.
 - susijęs iš Oskolo upės slėnis: Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir iš to sprendė, kad gelonai gyveno Starobelsko apskrityje.
@@ -98,8 +99,7 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189036
 - c-002
   santrauka: 'Teodoro Narbuto aiškinimu, budinai naujame krašte indų papročiu pašventino upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -118,8 +118,7 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192711
 ## Citatos
 
 - id: c-171925
@@ -149,7 +148,6 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189036
-
 - id: c-175481
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

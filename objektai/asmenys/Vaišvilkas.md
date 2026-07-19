@@ -223,7 +223,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   pagrindzia:
     - t-185952
     - t-193483
-
 - id: c-169315
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -266,7 +265,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   pagrindzia:
     - t-185954
     - t-193485
-
 - id: c-169316
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -287,7 +285,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   pagrindzia:
     - t-185955
     - t-193486
-
 - id: c-176183
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -324,7 +321,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   pagrindzia:
     - t-193484
     - t-196618
-
 - id: c-176626
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -344,7 +340,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194001
-
 - id: c-176627
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -364,7 +359,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194002
-
 - id: c-176628
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -382,7 +376,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194003
-
 - id: c-178802
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

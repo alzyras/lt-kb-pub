@@ -86,6 +86,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42015
-
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/J. Šarauskas]]

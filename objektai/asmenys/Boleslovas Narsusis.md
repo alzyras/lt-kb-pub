@@ -113,7 +113,6 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186000
-
 - id: c-174082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

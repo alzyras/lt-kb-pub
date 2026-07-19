@@ -109,6 +109,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-003
+    - t-186601
+    - t-186602
+    - t-186603

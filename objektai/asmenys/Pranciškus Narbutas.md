@@ -76,7 +76,7 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys apie Pranciškų Narbutą. Jis tiksliai apima citatoje nurodytą išėjimą į miškus ir pasitraukimą į užsienį."
   pagrindžia:
     - c-170887
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį.'
@@ -96,8 +96,7 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-187904
 ## Citatos
 
 - id: c-170887

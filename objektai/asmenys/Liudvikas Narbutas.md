@@ -82,4 +82,4 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187898
+    - t-187899

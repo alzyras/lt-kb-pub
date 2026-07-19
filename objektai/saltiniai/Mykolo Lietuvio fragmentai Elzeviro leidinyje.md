@@ -48,7 +48,7 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i≈
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrind≈æia:
     - c-173401
-
+    - c-001
 <a id="claim-t-197354"></a>
 - t-002
   global_id: t-197354
@@ -79,8 +79,7 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i≈
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrind≈æia:
-    - t-001
-
+    - t-190518
 ## Citatos
 
 - id: c-173401
@@ -104,7 +103,6 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i≈
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190518
-
 - id: c-179148
   autorius: "Teodoras Narbutas"
   ≈°altinis: "Teodoras Narbutas, Lietuvi≈≥ tautos istorija, t. 1 (1998 m.)"

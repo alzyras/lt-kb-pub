@@ -87,7 +87,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07660
-
 - id: c-09594
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

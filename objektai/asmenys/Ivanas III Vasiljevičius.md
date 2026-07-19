@@ -68,4 +68,4 @@ Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į Tverę; Tverė buvo a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194109

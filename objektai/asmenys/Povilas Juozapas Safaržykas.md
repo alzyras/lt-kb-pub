@@ -121,7 +121,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173990
-
+    - c-004
 <a id="claim-t-192600"></a>
 - t-005
   global_id: t-192600
@@ -162,8 +162,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-191108
 ## Citatos
 
 - id: c-173986
@@ -187,7 +186,6 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191104
-
 - id: c-173987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -209,7 +207,6 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191105
-
 - id: c-173989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -236,7 +233,6 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191107
-
 - id: c-173990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -259,7 +255,6 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191108
-
 - id: c-175371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

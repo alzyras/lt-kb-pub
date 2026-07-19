@@ -120,7 +120,6 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86027
-
 - id: c-82006
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -148,7 +147,6 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86028
-
 - id: c-82007
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

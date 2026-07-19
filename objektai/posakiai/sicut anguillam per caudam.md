@@ -51,7 +51,7 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33493
-
+    - c-167731
 ## Citatos
 
 - id: c-33493
@@ -76,7 +76,6 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31568
-
 - id: c-167731
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

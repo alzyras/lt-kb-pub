@@ -86,7 +86,6 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03056
-
 - id: c-175903
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

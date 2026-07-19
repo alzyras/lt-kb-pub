@@ -127,7 +127,6 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   pagrindzia:
     - t-76526
     - t-76527
-
 - id: c-74092
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

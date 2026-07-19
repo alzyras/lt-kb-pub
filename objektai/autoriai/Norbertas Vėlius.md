@@ -67,7 +67,7 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170750
-
+    - c-001
 <a id="claim-t-188051"></a>
 - t-002
   global_id: t-188051
@@ -103,7 +103,7 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170750
-
+    - c-001
 <a id="claim-t-194450"></a>
 - t-004
   global_id: t-194450
@@ -146,9 +146,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-001
-
+    - t-188050
+    - t-188052
 ## Citatos
 
 - id: c-170750
@@ -177,7 +176,6 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
   pagrindzia:
     - t-188050
     - t-188052
-
 - id: c-171065
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -196,7 +194,6 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188051
-
 - id: c-176939
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

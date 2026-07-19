@@ -98,7 +98,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-154431
-
+    - c-166552
 <a id="claim-t-169734"></a>
 - t-004
   global_id: t-169734
@@ -155,7 +155,6 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169734
-
 - id: c-154431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -176,7 +175,6 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169733
-
 - id: c-154433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -200,7 +198,6 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169731
-
 - id: c-154434
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -221,7 +218,6 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169732
-
 - id: c-166552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

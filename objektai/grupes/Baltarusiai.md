@@ -169,7 +169,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187870
-
 - id: c-170851
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -191,7 +190,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187872
-
 - id: c-170852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -218,6 +216,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187871
-
 ## Ryšiai
 - Baltarusiai gyveno [[objektai/vietos/Polesė]]

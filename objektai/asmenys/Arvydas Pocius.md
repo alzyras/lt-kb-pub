@@ -73,7 +73,7 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Arvydą Pocių, laiką ir ginkluotę."
   pagrindžia:
     - c-44293
-
+    - c-44292
 ## Citatos
 
 - id: c-44292
@@ -114,7 +114,6 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40043
-
 - id: c-167119
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

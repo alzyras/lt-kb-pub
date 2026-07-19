@@ -49,7 +49,7 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171846
-
+    - c-001
 <a id="claim-t-188958"></a>
 - t-002
   global_id: t-188958
@@ -109,8 +109,7 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188957
 ## Citatos
 
 - id: c-171846
@@ -136,7 +135,6 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188957
-
 - id: c-171847
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -155,7 +153,6 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188958
-
 - id: c-171848
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -155,13 +155,11 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 
 <a id="claim-t-101613"></a>
 - t-002
-  global_id: t-101613
   teiginys: 'Prancūzija Georges''o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda nutrūkusiu šaltinio fragmentu.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vokietija'
   pagrindžia:
-    - c-004
-
+    - c-25016
 ## Citatos
 
 - id: c-25013
@@ -187,7 +185,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101614
-
 - id: c-25014
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -211,7 +208,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101613
-
 - id: c-25015
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -237,7 +233,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101611
-
 - id: c-25016
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -258,8 +253,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101612
-
+    - t-101615
+    - t-002
 - id: c-166872
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -283,7 +278,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183477
-
 - id: c-166873
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

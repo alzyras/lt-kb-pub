@@ -42,7 +42,7 @@ Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Pi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177166
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kitaip juos vadindavo piktukais nuo Piktas'', netoli Vilniaus yra Piktukonių (Piktukance) kaimas.'
@@ -59,8 +59,7 @@ Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Pi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194770
 ## Citatos
 
 - id: c-177166

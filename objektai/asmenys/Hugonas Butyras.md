@@ -59,7 +59,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   temporalinis_llm_pakomentavimas: "Citata pateikia aiškų biografinį faktą apie kilmę ir tarnybą."
   pagrindžia:
     - c-60777
-
+    - c-001
 <a id="claim-t-60146"></a>
 - t-002
   global_id: t-60146
@@ -104,8 +104,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60145
 ## Citatos
 
 - id: c-60777
@@ -126,7 +125,6 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60145
-
 - id: c-60778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

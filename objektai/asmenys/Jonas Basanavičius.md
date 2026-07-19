@@ -180,7 +180,6 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78004
-
 - id: c-75320
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -211,7 +210,6 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78006
-
 - id: c-75321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -240,7 +238,6 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78005
-
 - id: c-184233
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
   šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
@@ -267,6 +264,5 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200890
-
 ## Ryšiai
 - Jonas Basanavičius gyveno [[objektai/vietos/Praha]]

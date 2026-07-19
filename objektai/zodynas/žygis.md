@@ -38,6 +38,7 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-69442
+    - c-166392
 - susijęs iš [[objektai/asmenys/Burnašas.md#claim-t-80731|Burnašas]]: Mengli-Girėjaus jaunesnieji sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą.
 - susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191944|Darijus]]: Narbutas Darijaus nesėkmingam žygiui priskyrė didelę įtaką Skitijos vidaus gyvenimui ir jos artėjimui prie žlugimo.
 - susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30226|Ediga]]: Edigą Vytautas siekė pašalinti iš Aukso Ordos valdžios ir vietoje jo pasodinti Tochtamišą, tačiau žygis baigėsi nesėkmingai.
@@ -238,7 +239,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   patikimumo_saltinis: ai
   pagrindzia:
     - t-70429
-
 - id: c-166392
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

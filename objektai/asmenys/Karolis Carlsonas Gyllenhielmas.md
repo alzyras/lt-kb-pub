@@ -115,7 +115,6 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79075
-
 - id: c-76171
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -135,7 +134,6 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79074
-
 - id: c-76172
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

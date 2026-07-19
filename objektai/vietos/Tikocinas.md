@@ -129,6 +129,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168519
+    - c-005
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54989|Petras Goštautas]]: Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
 - susijęs iš [[objektai/ivykiai/Šv. Pranciškaus ordino brolių nukankinimas Vilniuje.md#claim-t-185792|Šv. Pranciškaus ordino brolių nukankinimas Vilniuje]]: Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.
@@ -195,8 +196,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-185158
 ## Citatos
 
 - id: c-81839
@@ -252,7 +252,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85860
-
 - id: c-81840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -279,7 +278,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85859
-
 - id: c-81841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -302,7 +300,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85858
-
 - id: c-81842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -335,7 +332,6 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85857
-
 - id: c-168519
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -372,6 +368,5 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185158
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Petras Goštautas]]

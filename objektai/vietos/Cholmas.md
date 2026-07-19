@@ -75,6 +75,5 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36173
-
 ## Ryšiai
 - Užėmė Cholmą: [[objektai/grupes/Radvilos]]

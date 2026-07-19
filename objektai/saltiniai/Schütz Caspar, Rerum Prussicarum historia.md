@@ -50,7 +50,7 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173404
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gdanske.'
@@ -64,8 +64,7 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190521
 ## Citatos
 
 - id: c-173404

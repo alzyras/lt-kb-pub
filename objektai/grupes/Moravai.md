@@ -51,6 +51,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-35585
+    - c-167608
 - susijęs iš [[objektai/asmenys/Karolis.md#claim-t-186124|Karolis]]: Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatorius, atvyko su moravais į kovą.
 ## Citatos
 
@@ -73,7 +74,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34360
-
 - id: c-167608
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -72,8 +72,7 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
   sudarymo_pagrindimas: 'Teiginys paliktas kaip Narbuto nuoroda į kito autoriaus rinkinį, nes citata pati pabrėžia neaiškų šaltinį. Nepridėta, kad suteikimas tikrai įvyko.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-174188
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino herbo suteikimą Krunevičiui.'
@@ -95,8 +94,7 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191306
 ## Citatos
 
 - id: c-174189

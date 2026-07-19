@@ -72,4 +72,4 @@ Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189096

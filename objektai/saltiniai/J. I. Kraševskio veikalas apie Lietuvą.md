@@ -48,7 +48,7 @@ Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173421
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.'
@@ -67,8 +67,7 @@ Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190538
 ## Citatos
 
 - id: c-173421

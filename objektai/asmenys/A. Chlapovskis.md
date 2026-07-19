@@ -88,7 +88,6 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39466
-
 - id: c-41270
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

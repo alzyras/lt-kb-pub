@@ -172,7 +172,6 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101650
-
 - id: c-21736
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -191,7 +190,6 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101651
-
 - id: c-21737
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -213,7 +211,6 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   pagrindzia:
     - t-101649
     - t-101652
-
 - id: c-25096
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -232,7 +229,6 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101648
-
 - id: c-166936
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -122,7 +122,6 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
   pagrindzia:
     - t-192844
     - t-197896
-
 - id: c-175615
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

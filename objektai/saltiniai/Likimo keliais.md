@@ -95,7 +95,6 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36078
-
 - id: c-38421
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -118,7 +117,6 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36080
-
 - id: c-38422
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -85,6 +85,5 @@ Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60347
-
 ## Ryšiai
 - Jonas iš Liuksemburgo surengė žygį į [[objektai/vietos/Prūsija]]

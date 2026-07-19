@@ -733,7 +733,8 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-183618
-
+    - c-183611
+    - c-32545
 <a id="claim-t-200328"></a>
 - t-038
   global_id: t-200328
@@ -793,7 +794,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-183599
-
+    - c-029
 <a id="claim-t-200350"></a>
 - t-041
   global_id: t-200350
@@ -1155,8 +1156,7 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-069
-
+    - t-200347
 ## Citatos
 
 - id: c-21492
@@ -1184,7 +1184,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181150
-
 - id: c-32547
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1201,7 +1200,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200355
-
 - id: c-32548
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1220,7 +1218,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200350
-
 - id: c-44028
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1248,7 +1245,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181144
-
 - id: c-164682
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1274,7 +1270,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindzia:
     - t-181111
     - t-181118
-
 - id: c-164683
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1297,7 +1292,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindzia:
     - t-181136
     - t-181148
-
 - id: c-164684
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1321,7 +1315,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindzia:
     - t-181129
     - t-181139
-
 - id: c-164685
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1344,7 +1337,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181128
-
 - id: c-164686
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1368,7 +1360,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindzia:
     - t-181127
     - t-181155
-
 - id: c-164687
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1388,7 +1379,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181110
-
 - id: c-164690
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1409,7 +1399,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindzia:
     - t-181113
     - t-181138
-
 - id: c-164691
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1438,7 +1427,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindzia:
     - t-181126
     - t-181146
-
 - id: c-164692
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1461,7 +1449,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181132
-
 - id: c-164695
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1484,7 +1471,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   pagrindzia:
     - t-181125
     - t-181131
-
 - id: c-164696
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1503,7 +1489,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181115
-
 - id: c-164697
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1533,7 +1518,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181156
-
 - id: c-164703
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1557,7 +1541,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181124
-
 - id: c-164705
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1576,7 +1559,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181121
-
 - id: c-164709
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1603,7 +1585,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181143
-
 - id: c-164710
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1638,7 +1619,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181149
-
 - id: c-164712
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1662,7 +1642,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181145
-
 - id: c-164713
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1685,7 +1664,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181140
-
 - id: c-164716
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1712,7 +1690,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181123
-
 - id: c-164724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1729,7 +1706,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181153
-
 - id: c-167695
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1749,7 +1725,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184324
-
 - id: c-168562
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1782,7 +1757,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185201
-
 - id: c-168563
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1815,7 +1789,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185202
-
 - id: c-170626
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1846,7 +1819,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187685
-
 - id: c-175548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1869,7 +1841,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192778
-
 - id: c-175983
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1891,7 +1862,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193250
-
 - id: c-175984
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1908,7 +1878,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193251
-
 - id: c-183582
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2034,7 +2003,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200353
-
 - id: c-183588
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2095,7 +2063,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200328
-
 - id: c-183592
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2275,7 +2242,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200347
-
 - id: c-183600
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2351,7 +2317,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200364
-
 - id: c-183603
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2475,7 +2440,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200367
-
 - id: c-183611
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2508,7 +2472,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200361
-
 - id: c-183615
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2591,7 +2554,6 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200321
-
 - id: c-183619
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2632,7 +2594,23 @@ Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugoma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200345
-
+- id: c-32545
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tačiau Strėvos kau­
+    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
+    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
+    Aiškiai perdėtais ordino kronikų duomenimis^11 , lietuvių pusėje esą
+    žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
+    Strėvoje, kai pati upė yra nesunkiai perbrendama.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200321
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Švitrigaila]]
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

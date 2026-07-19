@@ -76,7 +76,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   pagrindzia:
     - t-07705
     - t-07706
-
 - id: c-09635
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

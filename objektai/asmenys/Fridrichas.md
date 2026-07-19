@@ -182,7 +182,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87673
-
 - id: c-168059
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -213,7 +212,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184698
-
 - id: c-184334
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -236,6 +234,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200984
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Feletėjas]]

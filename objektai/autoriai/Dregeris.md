@@ -85,7 +85,6 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191637
-
 - id: c-174520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

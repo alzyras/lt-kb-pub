@@ -45,6 +45,8 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59787
+    - c-001
+    - c-002
 - susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60000|Surminas]]: Surminas paliko pilį ir prisiekė ateityje nelaukti, kol Ordino broliai užpuls kurią nors pilį.
 - susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.).md#claim-t-62830|Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]: Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.
 - susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70948|Kolainių pilies puolimas (1290 m.)]]: Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.
@@ -65,8 +67,7 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59155
 - c-002
   santrauka: 'Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -81,8 +82,7 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-59155
 ## Citatos
 
 - id: c-59787
@@ -103,7 +103,6 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59155
-
 - id: c-167424
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

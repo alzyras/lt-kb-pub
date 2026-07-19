@@ -49,7 +49,7 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172001
-
+    - c-001
 <a id="claim-t-189114"></a>
 - t-002
   global_id: t-189114
@@ -96,8 +96,7 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189113
 ## Citatos
 
 - id: c-172001
@@ -124,7 +123,6 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189113
-
 - id: c-172002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -148,7 +146,6 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189114
-
 - id: c-179149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -60,6 +60,7 @@ Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karali
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173084
+    - c-001
 - susijęs iš [[objektai/asmenys/Paulius Spritas.md#claim-t-190196|Paulius Spritas]]: Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą, kad Prūsijos lietuviai Pergrubei aukas atnašavo iki 1530 metų.
 - susijęs iš [[objektai/asmenys/Tavernjė.md#claim-t-190214|Tavernjė]]: Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado tam tikrą Motinos žemės kulto panašybę.
 - susijęs iš [[objektai/grupes/Prūsijos lietuviai.md#claim-t-189461|Prūsijos lietuviai]]: Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų, kaip liudija Karaliaučiaus bažnyčios Agenda.
@@ -84,8 +85,7 @@ Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karali
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190201
 ## Citatos
 
 - id: c-173084

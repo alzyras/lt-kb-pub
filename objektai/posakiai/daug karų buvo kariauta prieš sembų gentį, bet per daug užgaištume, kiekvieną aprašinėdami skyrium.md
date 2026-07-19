@@ -117,7 +117,6 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   pagrindzia:
     - t-89580
     - t-89582
-
 - id: c-85523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -139,7 +138,6 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89579
-
 - id: c-179016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

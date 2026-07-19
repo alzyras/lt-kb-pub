@@ -58,7 +58,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie „Jedinstvo“ vaidmenį rengiamame perversme."
   pagrindžia:
     - c-42682
-
+    - c-167046
 <a id="claim-t-65205"></a>
 - t-002
   global_id: t-65205
@@ -149,7 +149,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65206
-
 - id: c-42681
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -180,7 +179,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65205
-
 - id: c-42682
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -202,7 +200,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65204
-
 - id: c-42683
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -224,7 +221,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65207
-
 - id: c-166520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -244,7 +240,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183135
-
 - id: c-167046
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

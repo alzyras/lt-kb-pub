@@ -45,7 +45,7 @@ Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM,
   semantiniai_rysiai: "Paštuvos valsčius priklausė Nemunas (0.60)"
   pagrindžia:
     - c-61377
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.'
@@ -62,8 +62,7 @@ Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60745
 ## Citatos
 
 - id: c-61377

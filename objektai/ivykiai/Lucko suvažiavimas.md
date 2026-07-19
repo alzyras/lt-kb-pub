@@ -129,7 +129,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176087
-
+    - c-003
 <a id="claim-t-200708"></a>
 - t-005
   global_id: t-200708
@@ -187,8 +187,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-193360
 ## Citatos
 
 - id: c-23136
@@ -220,7 +219,6 @@ Nenurodyta
   pagrindzia:
     - t-75250
     - t-75251
-
 - id: c-73097
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -248,7 +246,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75249
-
 - id: c-176087
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -278,7 +275,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193360
-
 - id: c-184053
   autorius: "Rimvydas Laužikas"
   šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"

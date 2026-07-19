@@ -300,7 +300,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-107740
-
 - id: c-22375
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -321,7 +320,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   pagrindzia:
     - t-107737
     - t-107743
-
 - id: c-22376
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -342,7 +340,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-107736
-
 - id: c-100008
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -363,7 +360,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-107733
-
 - id: c-100009
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -382,7 +378,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-107742
-
 - id: c-100010
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -401,7 +396,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-107738
-
 - id: c-100011
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -424,7 +418,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   pagrindzia:
     - t-107734
     - t-107739
-
 - id: c-100013
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -444,7 +437,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-107741
-
 - id: c-100014
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -462,7 +454,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-107744
-
 - id: c-166292
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

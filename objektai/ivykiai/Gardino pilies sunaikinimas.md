@@ -93,7 +93,7 @@ Nenurodyta
   pagrindžia:
     - c-63581
     - c-63583
-
+    - c-002
 <a id="claim-t-196940"></a>
 - t-003
   global_id: t-196940
@@ -136,8 +136,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62784
 - c-003
   santrauka: 'Po Gardino pilies sudeginimo 1800 vyrų nusiaubė jos apylinkes ir grįžo su dideliu grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -158,9 +157,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-004
-
 ## Citatos
 
 - id: c-63580
@@ -187,7 +183,6 @@ Nenurodyta
   pagrindzia:
     - t-62783
     - t-196940
-
 - id: c-63581
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -214,7 +209,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62784
-
 - id: c-63583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -81,7 +81,7 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   susije_objektai: 'llm_object: Polesė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; llm_object: [[objektai/grupes/Jotvingiai|Jotvingiai]]'
   semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] valdė teritoriją Polesė'
   pagrindžia:
-    - c-175492
+    - c-002
 - susijęs iš Johanno Voigto Prūsijos istorija: Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį.
 - susijęs iš Lietuvos kronika: Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir primetė gyventojams savo paskirtą valdovą.
 - susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-190930|Narimantas (Pinsko kunigaikštis)]]: Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį.
@@ -128,8 +128,7 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192722
 ## Citatos
 
 - id: c-28435
@@ -150,7 +149,6 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28531
-
 - id: c-175493
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -171,7 +169,6 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192723
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Lenkai]]
 - Puolė Polesę: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

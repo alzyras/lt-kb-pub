@@ -146,7 +146,6 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99302
-
 - id: c-93370
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -167,7 +166,6 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99304
-
 - id: c-93371
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -188,7 +186,6 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99305
-
 - id: c-184460
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

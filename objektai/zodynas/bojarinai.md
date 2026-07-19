@@ -116,7 +116,6 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86459
-
 - id: c-82439
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

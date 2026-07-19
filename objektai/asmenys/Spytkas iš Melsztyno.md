@@ -70,7 +70,6 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30384
-
 ## Ryšiai
 - Spytkas iš Melsztyno valdė [[objektai/vietos/Podolė]]
 - Spytkas iš Melsztyno mirė [[objektai/vietos/Vorskla]]

@@ -188,7 +188,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   temporalinis_llm_pakomentavimas: "Pradinis teiginys pernelyg ilgas; citata palaiko glaustesnį enciklopedinį sakinį."
   pagrindžia:
     - c-161503
-
+    - c-161515
 <a id="claim-t-177665"></a>
 - t-008
   global_id: t-177665
@@ -595,8 +595,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-182336
-
+    - c-182334
 <a id="claim-t-199553"></a>
 - t-031
   global_id: t-199553
@@ -642,7 +641,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182339
-
+    - c-170547
 <a id="claim-t-199564"></a>
 - t-033
   global_id: t-199564
@@ -811,7 +810,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182308
-
+    - c-161513
 <a id="claim-t-199584"></a>
 - t-043
   global_id: t-199584
@@ -1163,7 +1162,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177658
-
 - id: c-32204
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1181,7 +1179,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindzia:
     - t-177676
     - t-177680
-
 - id: c-34241
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1200,7 +1197,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177655
-
 - id: c-34242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1217,7 +1213,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177677
-
 - id: c-34243
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1251,7 +1246,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199594
-
 - id: c-161499
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1269,7 +1263,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177679
-
 - id: c-161502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1303,7 +1296,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177661
-
 - id: c-161503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1332,7 +1324,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177662
-
 - id: c-161506
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1354,7 +1345,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177671
-
 - id: c-161507
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1381,7 +1371,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindzia:
     - t-177651
     - t-177675
-
 - id: c-161515
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1438,7 +1427,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindzia:
     - t-177653
     - t-177668
-
 - id: c-161521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1466,7 +1454,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindzia:
     - t-177652
     - t-177682
-
 - id: c-161522
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1486,7 +1473,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177666
-
 - id: c-161523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1517,7 +1503,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177681
-
 - id: c-161525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1548,7 +1533,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-177665
-
 - id: c-167245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1566,7 +1550,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183860
-
 - id: c-168391
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1607,7 +1590,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185030
-
 - id: c-168392
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1629,7 +1611,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindzia:
     - t-185031
     - t-196712
-
 - id: c-168393
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1660,7 +1641,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185032
-
 - id: c-168394
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1691,7 +1671,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185033
-
 - id: c-175954
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1709,7 +1688,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193210
-
 - id: c-176317
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1729,7 +1707,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193647
-
 - id: c-176430
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1749,7 +1726,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193777
-
 - id: c-178859
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1773,7 +1749,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196713
-
 - id: c-178860
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1802,7 +1777,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196714
-
 - id: c-182307
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1841,7 +1815,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199583
-
 - id: c-182309
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1938,7 +1911,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindzia:
     - t-199564
     - t-199576
-
 - id: c-182314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1997,7 +1969,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindzia:
     - t-199570
     - t-199584
-
 - id: c-182320
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2014,7 +1985,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199587
-
 - id: c-182321
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2029,7 +1999,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199592
-
 - id: c-182322
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2050,7 +2019,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199553
-
 - id: c-182323
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2151,7 +2119,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199580
-
 - id: c-182332
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2194,8 +2161,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199549
-
+    - t-177647
 - id: c-182335
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2215,7 +2181,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199575
-
 - id: c-182337
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2237,7 +2202,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindzia:
     - t-199574
     - t-199579
-
 - id: c-182338
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2277,7 +2241,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199557
-
 - id: c-182340
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2295,7 +2258,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindzia:
     - t-199569
     - t-199577
-
 - id: c-182342
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2341,7 +2303,43 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200716
-
+- id: c-161513
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    situs sukiršino ir įdrąsino, jog jie, nepripažindami nei bažny­
+    tinės nei pasaulinės valdžios ir linkdami prie komunizmo, grė­
+    sė ne tik viduje galutinai įsigalėti, bet savo tendencijomis ir
+    ginkluotais puldinėjimais pasidarė gana pavojingi kaimyni­
+    nėms valstybėms. Šis pavojus ir turėjo būt aptartas suvažia­
+    vime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau­
+    sio mėn. 6 d. Lucke^1 ).
+  citata_rodoma: "Šis pavojus ir turėjo būt aptartas suvažia­\nvime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau­\nsio mėn. 6 d. Lucke^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199583
+- id: c-170547
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Šiapus Jieseldos5  upės
+    kunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­
+    ko kunigaikštį bei visą rusų karo jėgą6 . Tiktai kuni­
+    gaikštis Mstislavas su nedidele palyda spėjo pabėgti
+    į Lucko miestą. O didysis kunigaikštis Skirmantas už­
+    ėmė Pinsko miestą7  ir Turovo miestą".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-199557
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo kelionės vieta: [[objektai/asmenys/Mstislavas Romanovičius]]

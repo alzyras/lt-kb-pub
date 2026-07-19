@@ -68,6 +68,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170022
+    - c-001
 - susijęs iš Vilniaus Plikasis kalnas: Narbutas rašė, kad pirmieji misionieriai pranciškonai ant Vilniaus Plikojo kalno pastatė tris kryžius kaip savo misijos ženklą.
 - susijęs iš [[objektai/asmenys/Antonijus Bosija.md#claim-t-190129|Antonijus Bosija]]: Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapio statulą su į kryžių panašiu ženklu.
 - susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-184051|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
@@ -422,8 +423,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186839
 ## Citatos
 
 - id: c-170022
@@ -460,6 +460,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186839
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Pranciškonų ordinas]]

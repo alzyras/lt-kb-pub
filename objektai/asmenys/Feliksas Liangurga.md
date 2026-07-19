@@ -106,7 +106,6 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87500
-
 - id: c-83479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

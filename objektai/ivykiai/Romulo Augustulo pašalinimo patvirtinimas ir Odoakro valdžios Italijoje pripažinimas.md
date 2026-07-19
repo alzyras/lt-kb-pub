@@ -168,9 +168,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-005
-
 - c-003
   santrauka: 'Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje po tenykščio imperatoriaus mirties.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -195,9 +192,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-006
-
 ## Citatos
 
 - id: c-173915
@@ -224,7 +218,6 @@ Nenurodyta
   pagrindzia:
     - t-191033
     - t-197550
-
 - id: c-173916
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -255,7 +248,6 @@ Nenurodyta
   pagrindzia:
     - t-191034
     - t-197551
-
 - id: c-173917
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

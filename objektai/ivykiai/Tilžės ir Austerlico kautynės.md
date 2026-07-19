@@ -71,7 +71,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172515
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse ir buvo sužeistas.'
@@ -87,8 +87,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189632
 ## Citatos
 
 - id: c-172515

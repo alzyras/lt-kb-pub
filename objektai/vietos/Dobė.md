@@ -81,6 +81,5 @@ Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiem�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32137
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

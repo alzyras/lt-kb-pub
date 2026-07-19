@@ -190,7 +190,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171348
-
+    - c-006
 <a id="claim-t-197326"></a>
 - t-008
   global_id: t-197326
@@ -238,8 +238,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
 - c-006
   santrauka: 'Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -256,8 +254,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-188458
 ## Citatos
 
 - id: c-157300
@@ -286,7 +283,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   pagrindzia:
     - t-172960
     - t-172962
-
 - id: c-157304
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -317,7 +313,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172956
-
 - id: c-157305
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -339,7 +334,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172961
-
 - id: c-157306
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -364,7 +358,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-172957
     - t-172959
     - t-172963
-
 - id: c-171348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -386,7 +379,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188458
-
 - id: c-179132
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

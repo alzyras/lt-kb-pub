@@ -49,7 +49,7 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174452
-
+    - c-001
 <a id="claim-t-191571"></a>
 - t-002
   global_id: t-191571
@@ -91,8 +91,7 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191570
 ## Citatos
 
 - id: c-174452
@@ -117,7 +116,6 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191570
-
 - id: c-174453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

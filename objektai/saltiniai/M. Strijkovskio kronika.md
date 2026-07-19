@@ -413,7 +413,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171383
-
+    - c-017
 <a id="claim-t-188494"></a>
 - t-021
   global_id: t-188494
@@ -453,7 +453,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171385
-
+    - c-019
 <a id="claim-t-188496"></a>
 - t-023
   global_id: t-188496
@@ -473,7 +473,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171386
-
+    - c-020
 <a id="claim-t-188497"></a>
 - t-024
   global_id: t-188497
@@ -493,7 +493,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171387
-
+    - c-021
 <a id="claim-t-190827"></a>
 - t-025
   global_id: t-190827
@@ -535,7 +535,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173710
-
+    - c-023
 <a id="claim-t-190829"></a>
 - t-027
   global_id: t-190829
@@ -556,7 +556,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173711
-
+    - c-024
 <a id="claim-t-190830"></a>
 - t-028
   global_id: t-190830
@@ -577,7 +577,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173712
-
+    - c-025
 <a id="claim-t-190831"></a>
 - t-029
   global_id: t-190831
@@ -659,8 +659,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027
-
+    - t-188493
 - c-019
   santrauka: 'Narbutas nurodo, kad Strijkovskis Vilniaus Perkūno šventykloje prie Katedros mini atskirą koplyčią, kurioje laikyti gyvi šliužai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -678,8 +677,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029
-
+    - t-188495
 - c-020
   santrauka: 'Narbutas remiasi Strijkovskiu teigdamas, kad medinis milžino išvaizdos Kukovaičio stabas stovėjo ant kalno prie Deltuvos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -694,8 +692,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030
-
+    - t-188496
 - c-021
   santrauka: 'Narbutas aiškina, kad Strijkovskis apie lietuvių aukštąsias pareigas rašė plačiau, nes esą turėjo daugiau istorijos šaltinių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -720,8 +717,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031
-
+    - t-188497
 - c-023
   santrauka: 'Teodoro Narbuto vertinimu, Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė jo spragas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -741,8 +737,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033
-
+    - t-190828
 - c-024
   santrauka: 'Teodoras Narbutas rašo, kad Strijkovskis savo kronikoje rėmėsi istoriniais šaltiniais, kuriais patvirtino aptariamą pasakojimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -762,8 +757,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034
-
+    - t-190829
 - c-025
   santrauka: 'Teodoras Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus apie kimbrų epochos potvynį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -790,8 +784,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035
-
+    - t-190830
 ## Citatos
 
 - id: c-55249
@@ -826,7 +819,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55221
-
 - id: c-55250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -860,7 +852,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-55222
     - t-172993
     - t-194210
-
 - id: c-55251
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -895,7 +886,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55223
-
 - id: c-55252
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -932,7 +922,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55224
-
 - id: c-55253
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -959,7 +948,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55225
-
 - id: c-157329
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -980,7 +968,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173001
-
 - id: c-157330
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1005,8 +992,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172991
-
+    - t-173007
 - id: c-157335
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1034,7 +1020,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173006
-
 - id: c-157336
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1056,7 +1041,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173004
-
 - id: c-157337
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1079,7 +1063,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindzia:
     - t-55220
     - t-172992
-
 - id: c-157339
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1126,7 +1109,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindzia:
     - t-55226
     - t-173003
-
 - id: c-157343
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1149,7 +1131,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172997
-
 - id: c-157344
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1170,7 +1151,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-173005
-
 - id: c-157345
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1197,7 +1177,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172995
-
 - id: c-171381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1213,7 +1192,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188491
-
 - id: c-171382
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1234,7 +1212,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188492
-
 - id: c-171383
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1259,7 +1236,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188493
-
 - id: c-171384
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1279,7 +1255,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188494
-
 - id: c-171385
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1300,7 +1275,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188495
-
 - id: c-171386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1320,7 +1294,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188496
-
 - id: c-171387
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1348,7 +1321,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188497
-
 - id: c-173709
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1377,7 +1349,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190827
-
 - id: c-173710
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1408,7 +1379,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190828
-
 - id: c-173711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1433,7 +1403,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190829
-
 - id: c-173712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1461,7 +1430,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   pagrindzia:
     - t-190830
     - t-197682
-
 - id: c-173713
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1490,7 +1458,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190831
-
 - id: c-179146
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

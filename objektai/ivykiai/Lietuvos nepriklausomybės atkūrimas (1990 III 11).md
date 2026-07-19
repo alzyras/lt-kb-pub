@@ -214,7 +214,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75165
-
 - id: c-23062
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -234,7 +233,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75163
-
 - id: c-23063
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -264,7 +262,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75166
-
 - id: c-23064
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -288,7 +285,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75167
-
 - id: c-73061
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -308,7 +304,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75164
-
 - id: c-73062
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -334,7 +329,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75162
-
 - id: c-166637
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

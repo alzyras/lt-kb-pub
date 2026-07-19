@@ -53,7 +53,7 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-167434
-
+    - c-002
 <a id="claim-t-60099"></a>
 - t-002
   global_id: t-60099
@@ -70,7 +70,7 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60730
-
+    - c-001
 <a id="claim-t-194478"></a>
 - t-005
   global_id: t-194478
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60730
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,10 +103,8 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-004
-    - t-005
-
+    - t-60099
+    - t-194478
 - c-002
   santrauka: 'Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą, kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -126,9 +124,7 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-001
-
+    - t-60098
 ## Citatos
 
 - id: c-60730
@@ -162,7 +158,6 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   pagrindzia:
     - t-60099
     - t-194478
-
 - id: c-167434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

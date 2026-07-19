@@ -67,7 +67,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170731
-
+    - c-001
 <a id="claim-t-188038"></a>
 - t-002
   global_id: t-188038
@@ -86,7 +86,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170733
-
+    - c-003
 <a id="claim-t-188039"></a>
 - t-003
   global_id: t-188039
@@ -108,7 +108,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-170732
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Įvadiniame straipsnyje „Lietuvių tautos istorija“ vadinama Lietuvos istoriografijos paminklu ir lietuvių tautos kultūriniu palikimu.'
@@ -127,8 +127,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188037
 - c-002
   santrauka: '1998 m. pirmasis „Lietuvių tautos istorijos“ tomas verstas iš 1835 m. Vilniuje išleisto Narbuto „Mitologia Litewska“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -151,8 +150,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188039
 - c-003
   santrauka: 'Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -182,8 +180,7 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188038
 ## Citatos
 
 - id: c-170731
@@ -208,7 +205,6 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188037
-
 - id: c-170732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -229,7 +225,6 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188039
-
 - id: c-170733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

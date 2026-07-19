@@ -141,7 +141,6 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171658
-
 - id: c-156139
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -160,7 +159,6 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171659
-
 - id: c-166424
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

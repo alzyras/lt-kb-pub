@@ -58,7 +58,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas sakinys ir tiksliai remiasi citata."
   pagrindžia:
     - c-160818
-
+    - c-167669
 <a id="claim-t-176866"></a>
 - t-002
   global_id: t-176866
@@ -134,7 +134,6 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176866
-
 - id: c-160817
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -155,7 +154,6 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176867
-
 - id: c-160818
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -179,7 +177,6 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176865
-
 - id: c-160819
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -200,7 +197,6 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176869
-
 - id: c-167669
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

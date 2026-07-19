@@ -49,7 +49,7 @@ Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171965
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernave, dukterimi.'
@@ -74,8 +74,7 @@ Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189076
 ## Citatos
 
 - id: c-171965

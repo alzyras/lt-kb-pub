@@ -57,7 +57,7 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174380
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo autorius, kurio veikalai išliko fragmentais.'
@@ -88,8 +88,7 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191498
 ## Citatos
 
 - id: c-174380

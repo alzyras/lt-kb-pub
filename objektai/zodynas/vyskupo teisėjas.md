@@ -97,7 +97,6 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42524
-
 - id: c-45557
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

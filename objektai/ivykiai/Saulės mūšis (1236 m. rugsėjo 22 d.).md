@@ -247,7 +247,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10287
-
 - id: c-11908
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -265,7 +264,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10288
-
 - id: c-11909
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -284,7 +282,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10289
-
 - id: c-11910
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -310,7 +307,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10290
-
 - id: c-66984
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -328,7 +324,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66880
-
 - id: c-66986
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -362,7 +357,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66879
-
 - id: c-66987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -383,7 +377,6 @@ Nenurodyta
   pagrindzia:
     - t-66879
     - t-66882
-
 - id: c-66988
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

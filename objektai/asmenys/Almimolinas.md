@@ -69,7 +69,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60235
-
 ## Ryšiai
 - Almimolinas buvo valdovas [[objektai/grupes/Saracėnai]]
 - Almimolinas keliavo į [[objektai/vietos/Ispanija]]

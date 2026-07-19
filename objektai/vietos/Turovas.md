@@ -98,6 +98,5 @@ Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178310
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Pisimantas]]

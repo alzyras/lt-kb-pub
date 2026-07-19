@@ -117,7 +117,7 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   sudarymo_pagrindimas: 'Hipotezė suformuluota kaip Narbuto svarstymas, ne kaip faktas. Nepridėta alternatyvi nuomonė apie chiomitus.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Geninai|Geninai]]; mentioned_group: [[objektai/grupes/Graikai|Graikai]]; mentioned_place: Bizantija; mentioned_place: Kijevas; mentioned_place: Salos'
   pagrindžia:
-    - c-175718
+    - c-004
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190875|Herodotas]]: Teodoro Narbuto pasakojime Herodotas Skitijoje teiravosi apie gintaringas vietas, o boristeniečiai jam minėjo šiaurės vakarų jūrą.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190713|Herodotas]]: Teodoro Narbuto pasakojime Herodotas, keliaudamas po Skitiją, teiravosi boristeniečių apie gintaringas vietas.
 - susijęs iš Skitija: Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra.
@@ -146,8 +146,7 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192948
 ## Citatos
 
 - id: c-175715
@@ -172,7 +171,6 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192945
-
 - id: c-175716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -193,7 +191,6 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192946
-
 - id: c-175717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

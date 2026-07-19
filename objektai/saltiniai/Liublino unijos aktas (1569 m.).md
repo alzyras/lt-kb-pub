@@ -182,7 +182,6 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169907
-
 - id: c-154589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -212,7 +211,6 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169908
-
 - id: c-154590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -237,7 +235,6 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169906
-
 - id: c-154591
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -265,7 +262,6 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169903
-
 - id: c-154593
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -284,7 +280,6 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169905
-
 - id: c-176272
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

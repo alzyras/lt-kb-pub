@@ -422,7 +422,6 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
   pagrindzia:
     - t-54948
     - t-54950
-
 - id: c-55502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -452,7 +451,6 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
   pagrindzia:
     - t-54951
     - t-194222
-
 - id: c-55504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -473,7 +471,6 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54953
-
 - id: c-55505
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -500,7 +497,6 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54954
-
 - id: c-55506
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -544,7 +540,6 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
   pagrindzia:
     - t-54955
     - t-173122
-
 - id: c-157457
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -572,7 +567,6 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
     - t-54948
     - t-54949
     - t-173121
-
 - id: c-157460
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -599,7 +593,6 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
   pagrindzia:
     - t-54952
     - t-173119
-
 - id: c-168033
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -642,7 +635,6 @@ Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184672
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Augustas]], [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
 - Sutuoktiniai: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

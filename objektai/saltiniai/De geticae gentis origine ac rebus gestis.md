@@ -87,7 +87,7 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173705
-
+    - c-003
 <a id="claim-t-197668"></a>
 - t-004
   global_id: t-197668
@@ -123,8 +123,7 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190823
 ## Citatos
 
 - id: c-84393
@@ -164,7 +163,6 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88414
-
 - id: c-173704
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -183,7 +181,6 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190822
-
 - id: c-173705
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -209,7 +206,6 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190823
-
 - id: c-179288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

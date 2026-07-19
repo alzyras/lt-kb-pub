@@ -207,7 +207,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170253
-
 - id: c-154919
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -229,7 +228,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170249
-
 - id: c-154921
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -252,7 +250,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170248
-
 - id: c-154922
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -272,7 +269,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170246
-
 - id: c-154923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -297,7 +293,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170247
-
 - id: c-154924
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -318,7 +313,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170250
-
 - id: c-154926
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -340,7 +334,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-170245
-
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/asmenys/Borisas Jelcinas]]
 - Vytautas Landsbergis sudarė sutartį su [[objektai/asmenys/Borisas Jelcinas]]

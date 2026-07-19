@@ -56,7 +56,7 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-22411
-
+    - c-166517
 <a id="claim-t-19706"></a>
 - t-002
   global_id: t-19706
@@ -98,7 +98,6 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19705
-
 - id: c-22412
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -119,7 +118,6 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19706
-
 - id: c-166517
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

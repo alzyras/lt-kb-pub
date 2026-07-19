@@ -95,7 +95,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172778
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas vaizdavo, kad liaudis jėzuitų pamokymus priėmė nuolankiai ir nesipriešino šventųjų ąžuolų bei girių kirtimui.'
@@ -114,8 +114,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189895
 ## Citatos
 
 - id: c-172777
@@ -137,7 +136,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189894
-
 - id: c-172778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

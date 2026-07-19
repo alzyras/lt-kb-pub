@@ -44,7 +44,7 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61893
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ mašinraštis su E. Kraštinaičio šifruotu tekstu nurodytas MAB RS fonde F 129-1338/5.'
@@ -58,8 +58,7 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61261
 ## Citatos
 
 - id: c-61893

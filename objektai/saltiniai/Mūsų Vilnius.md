@@ -89,7 +89,6 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21210
-
 - id: c-166771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -117,7 +117,6 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18809
-
 - id: c-21583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -137,7 +136,6 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18808
-
 - id: c-166916
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -48,6 +48,7 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172335
+    - c-001
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189996|Frydrichas Stenderis]]: Narbutas rašo, kad Stenderis barstukų vardą kildino iš latviškų žodžių „Berhns“ ir „Stuhke“.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190277|Frydrichas Stenderis]]: Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190636|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.
@@ -83,8 +84,7 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189448
 ## Citatos
 
 - id: c-172335

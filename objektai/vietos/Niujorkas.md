@@ -124,7 +124,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68825
-
 - id: c-68311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -153,6 +152,5 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68826
-
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

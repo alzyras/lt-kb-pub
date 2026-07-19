@@ -58,7 +58,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-175818
-
+    - c-175817
 <a id="claim-t-194677"></a>
 - t-003
   global_id: t-194677
@@ -72,7 +72,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177074
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas teigia, kad yra žmogus Dievo siųstas iš dangaus, Jo lietuviškoje krūtinėje šventoji ugnis liepsnoja, - 8 Gazeta Warszawska.'
@@ -88,8 +88,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194677
 ## Citatos
 
 - id: c-175817
@@ -114,7 +113,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193049
-
+    - t-193050
 - id: c-175818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -137,7 +136,6 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193050
-
 - id: c-177074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

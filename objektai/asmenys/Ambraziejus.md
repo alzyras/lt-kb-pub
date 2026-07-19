@@ -64,4 +64,4 @@ Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191365

@@ -58,7 +58,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172691
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mažąją namų auką aprašo kaip apeigą, kurią prieš kiekvieną puotos valgį atlikdavo namų šeimininkas, šeimos tėvas arba vyriausias dalyvis.'
@@ -76,8 +76,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189808
 ## Citatos
 
 - id: c-172691

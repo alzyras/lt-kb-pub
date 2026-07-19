@@ -101,7 +101,6 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82550
-
 - id: c-79029
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -121,6 +120,5 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82552
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

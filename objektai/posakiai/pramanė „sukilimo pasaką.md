@@ -70,7 +70,6 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67306
-
 - id: c-67264
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

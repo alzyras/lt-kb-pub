@@ -52,7 +52,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59287
-
+    - c-002
 <a id="claim-t-58655"></a>
 - t-002
   global_id: t-58655
@@ -70,6 +70,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59286
+    - c-001
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59871|Meinhardas Saksas iš Kverfurto]]: 1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184679|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59871|Meinhardas Saksas iš Kverfurto]]: 1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.
@@ -106,8 +107,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58655
 - c-002
   santrauka: '1294 metais magistras Meinhardas užėmė Mazovijos kunigaikščio Boleslovo pilį Viznoje ir ją iš pamatų sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,8 +129,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58654
 ## Citatos
 
 - id: c-59286
@@ -156,7 +155,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58655
-
 - id: c-59287
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -180,6 +178,5 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58654
-
 ## Ryšiai
 - Užėmė Vizną: [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]

@@ -57,7 +57,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai sieja šią nuomonę su M. Perlbachu."
   pagrindžia:
     - c-159300
-
+    - c-002
 <a id="claim-t-175146"></a>
 - t-002
   global_id: t-175146
@@ -111,8 +111,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-175145
 ## Citatos
 
 - id: c-159299
@@ -152,7 +151,6 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175146
-
 - id: c-159300
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -172,7 +170,6 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175145
-
 - id: c-159302
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

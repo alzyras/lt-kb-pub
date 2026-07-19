@@ -91,7 +91,6 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179571
-
 - id: c-163258
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -122,7 +122,6 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185409
-
 - id: c-170476
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -156,7 +155,6 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187526
-
 - id: c-178922
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

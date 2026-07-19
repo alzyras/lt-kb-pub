@@ -79,7 +79,6 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193303
-
 - id: c-184271
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

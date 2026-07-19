@@ -53,7 +53,7 @@ Dusburgietis teigia, kad pakarklis P.
   temporalinis_llm_pakomentavimas: "Citata nurodo šio leidinio autorių, pavadinimą ir leidimo metus."
   pagrindžia:
     - c-61845
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'P. Pakarklio „Mažoji Lietuva vokiečių mokslo šviesoje“ išleistas 1935 m.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad pakarklis P.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61213
 ## Citatos
 
 - id: c-61845

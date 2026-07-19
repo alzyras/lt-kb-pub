@@ -46,7 +46,7 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
   semantiniai_rysiai: "Lenkai puolė Lietuviai (0.87)"
   pagrindžia:
     - c-45239
-
+    - c-167180
 ## Citatos
 
 - id: c-45239
@@ -67,7 +67,6 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41968
-
 - id: c-167180
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

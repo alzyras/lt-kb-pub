@@ -108,7 +108,6 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193738
-
 - id: c-44876
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -137,7 +136,6 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41207
-
 - id: c-176403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

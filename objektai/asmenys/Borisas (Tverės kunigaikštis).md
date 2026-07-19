@@ -104,7 +104,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sutelktas į Borisą kaip Marijos tėvą ir pašalinti OCR triukšmai. Nepridėta nieko už vedybų, tikėjimo pakeitimo ir vardo suteikimo ribų.'
   pagrindžia:
-    - c-176524
+    - c-003
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-179639|Karijotas]]: Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.
@@ -139,8 +139,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-193899
 ## Citatos
 
 - id: c-83575
@@ -182,7 +181,6 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87596
-
 - id: c-83576
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -211,7 +209,6 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87597
-
 - id: c-176525
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -238,6 +235,5 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193900
-
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Sofija (Švitrigailos žmona)]]

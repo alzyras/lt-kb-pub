@@ -79,6 +79,5 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86152
-
 ## Ryšiai
 - Puolė Memelį: [[objektai/grupes/Žemaičiai]]

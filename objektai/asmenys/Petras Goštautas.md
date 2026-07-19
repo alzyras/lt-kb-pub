@@ -446,7 +446,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   pagrindzia:
     - t-54991
     - t-173209
-
 - id: c-55535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -479,7 +478,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   pagrindzia:
     - t-54992
     - t-173211
-
 - id: c-157534
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -510,7 +508,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   pagrindzia:
     - t-54990
     - t-173210
-
 - id: c-157537
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -551,7 +548,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   pagrindzia:
     - t-54989
     - t-173208
-
 - id: c-157538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -578,7 +574,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-54987
     - t-54988
     - t-173207
-
 - id: c-157540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -621,7 +616,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   pagrindzia:
     - t-54993
     - t-173205
-
 - id: c-168181
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -659,7 +653,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184820
-
 - id: c-168182
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -694,7 +687,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184821
-
 - id: c-168183
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -719,7 +711,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184822
-
 - id: c-168184
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -746,7 +737,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184823
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Surminas]]
 - Paskyrė Petras Goštautą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

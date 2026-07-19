@@ -125,7 +125,6 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86486
-
 - id: c-82464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -157,7 +156,6 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86485
-
 - id: c-82465
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -76,7 +76,7 @@ Nenurodyta
   pagrindžia:
     - c-63772
     - c-63773
-
+    - c-002
 <a id="claim-t-62909"></a>
 - t-002
   global_id: t-62909
@@ -129,8 +129,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62908
 ## Citatos
 
 - id: c-63772
@@ -159,7 +158,6 @@ Nenurodyta
     - t-62908
     - t-62909
     - t-196966
-
 - id: c-63773
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

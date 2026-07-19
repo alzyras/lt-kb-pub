@@ -184,7 +184,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Legendinis etimologinis aiškinimas paliktas su Lietuvos metraščio atribucija. Nepridėta nieko daugiau už citatoje nurodytą vardų kilmės pasakojimą.'
   pagrindžia:
-    - c-176563
+    - c-006
 - susijęs iš [[objektai/asmenys/Kūnas.md#claim-t-186135|Kūnas]]: Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.
 - susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-188600|Pajauta]]: Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.
 - susijęs iš [[objektai/asmenys/Zivinbudas.md#claim-t-190222|Zivinbudas]]: Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą.
@@ -224,8 +224,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-193938
 ## Citatos
 
 - id: c-169366
@@ -254,7 +253,6 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186005
-
 - id: c-169367
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -284,7 +282,6 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186006
-
 - id: c-171453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -308,7 +305,6 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188564
-
 - id: c-171454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -328,7 +324,6 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188565
-
 - id: c-173787
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -358,7 +353,6 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   pagrindzia:
     - t-190905
     - t-197769
-
 - id: c-184351
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -392,7 +386,6 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201001
-
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Pajauta]]
 - Kernius buvo palaidotas [[objektai/vietos/Deltuva]]

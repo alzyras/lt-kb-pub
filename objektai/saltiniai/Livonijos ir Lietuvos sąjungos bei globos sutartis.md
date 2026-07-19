@@ -125,7 +125,6 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
   pagrindzia:
     - t-186300
     - t-196358
-
 - id: c-178647
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -154,7 +153,6 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196357
-
 - id: c-178648
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

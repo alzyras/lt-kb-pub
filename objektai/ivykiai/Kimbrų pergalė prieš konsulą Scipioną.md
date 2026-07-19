@@ -108,6 +108,5 @@ Nenurodyta
   pagrindzia:
     - t-191870
     - t-197546
-
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Kimbrai]]

@@ -502,7 +502,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   pagrindzia:
     - t-113353
     - t-113354
-
 - id: c-26835
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -526,7 +525,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113357
-
 - id: c-26836
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -549,7 +547,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - t-113358
     - t-113367
     - t-113368
-
 - id: c-26837
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -578,7 +575,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113356
-
 - id: c-26838
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -596,7 +592,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113363
-
 - id: c-104616
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -629,7 +624,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   pagrindzia:
     - t-113352
     - t-113360
-
 - id: c-104618
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -650,7 +644,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113359
-
 - id: c-104622
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -675,7 +668,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113366
-
 - id: c-104624
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -692,7 +684,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113369
-
 - id: c-104625
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -716,7 +707,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113370
-
 - id: c-104626
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -740,7 +730,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113365
-
 - id: c-104627
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -767,7 +756,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   pagrindzia:
     - t-113355
     - t-113361
-
 - id: c-104628
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -789,7 +777,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113371
-
 - id: c-171250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -810,7 +797,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188357
-
 - id: c-176245
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -829,7 +815,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193566
-
 - id: c-176788
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

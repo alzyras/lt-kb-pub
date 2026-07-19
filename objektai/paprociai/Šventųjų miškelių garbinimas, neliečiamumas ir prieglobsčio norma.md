@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172785
-
+    - c-001
 <a id="claim-t-189903"></a>
 - t-002
   global_id: t-189903
@@ -78,7 +78,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172786
-
+    - c-002
 <a id="claim-t-194641"></a>
 - t-003
   global_id: t-194641
@@ -92,7 +92,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177039
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas šventuosius miškelius aiškina kaip pirmąsias sueigų, visuomeninio gyvenimo ir religinių vizijų vietas, tapusias pirmąja tautų šventykla.'
@@ -117,8 +117,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189902
 - c-002
   santrauka: 'Narbutas rašo, kad šventuosiuose miškeliuose nederėjo medžioti ar gaudyti gyvūnų, o persekiojami žmonės ten rasdavę prieglobstį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -141,8 +140,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189903
 - c-003
   santrauka: 'Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų randame nuolat minimus miškus: kartais kalbama apie mišką su kovarniais, tai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -171,8 +169,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194641
 ## Citatos
 
 - id: c-172785
@@ -206,7 +203,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189902
-
 - id: c-172786
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -232,7 +228,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189903
-
 - id: c-177039
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

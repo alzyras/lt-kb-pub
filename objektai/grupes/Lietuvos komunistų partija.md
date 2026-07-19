@@ -365,7 +365,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78374
-
 - id: c-22611
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -385,7 +384,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78364
-
 - id: c-22613
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -406,7 +404,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   pagrindzia:
     - t-78353
     - t-78362
-
 - id: c-22614
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -431,7 +428,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78366
-
 - id: c-22615
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -453,7 +449,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78367
-
 - id: c-42833
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -480,7 +475,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78361
-
 - id: c-42834
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -499,7 +493,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78365
-
 - id: c-75645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -526,7 +519,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78354
-
 - id: c-75646
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -566,7 +558,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78358
-
 - id: c-75647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -588,7 +579,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78360
-
 - id: c-75648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -609,7 +599,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78355
-
 - id: c-75650
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -628,7 +617,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78357
-
 - id: c-75656
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -650,7 +638,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78352
-
 - id: c-75658
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -674,7 +661,6 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78373
-
 - id: c-176233
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

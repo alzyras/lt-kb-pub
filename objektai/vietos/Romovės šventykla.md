@@ -115,7 +115,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171797
-
+    - c-004
 <a id="claim-t-194749"></a>
 - t-005
   global_id: t-194749
@@ -129,7 +129,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177145
-
+    - c-005
 <a id="claim-t-197477"></a>
 - t-006
   global_id: t-197477
@@ -186,8 +186,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188908
 - c-005
   santrauka: 'Tad paskaitykime dabar pačios seno vinės šventyklos aprašymą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -204,8 +203,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-194749
 ## Citatos
 
 - id: c-171793
@@ -229,7 +227,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188904
-
 - id: c-171794
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -249,7 +246,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   pagrindzia:
     - t-188905
     - t-197477
-
 - id: c-171795
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -269,7 +265,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   pagrindzia:
     - t-188906
     - t-197478
-
 - id: c-171797
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -291,7 +286,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188908
-
 - id: c-177145
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -313,7 +307,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194749
-
 - id: c-179211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

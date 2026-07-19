@@ -41,7 +41,7 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176716
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal '', |Vytautas su Jogailai užsuko į Drucką2 ir pietavo pas Drucko kunigaikštį Semioną Dimitrijevičių3 .'
@@ -59,8 +59,7 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194103
 ## Citatos
 
 - id: c-176716

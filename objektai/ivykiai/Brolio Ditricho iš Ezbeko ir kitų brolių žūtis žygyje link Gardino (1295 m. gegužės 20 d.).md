@@ -137,9 +137,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-66716
@@ -168,7 +165,6 @@ Nenurodyta
   pagrindzia:
     - t-66504
     - t-196933
-
 - id: c-66717
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

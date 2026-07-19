@@ -192,7 +192,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58392
-
 - id: c-59024
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -211,7 +210,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58393
-
 - id: c-59025
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -234,7 +232,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58394
-
 - id: c-59026
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -256,7 +253,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58391
-
 - id: c-167574
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -274,7 +270,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184189
-
 - id: c-168437
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -299,7 +294,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185076
-
 ## Ryšiai
 - Puolė Pagraudę: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
 - Buvo žygio kryptis: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]

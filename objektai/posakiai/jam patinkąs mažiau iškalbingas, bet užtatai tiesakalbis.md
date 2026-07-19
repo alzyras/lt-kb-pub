@@ -96,7 +96,6 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-11662
-
 - id: c-177342
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

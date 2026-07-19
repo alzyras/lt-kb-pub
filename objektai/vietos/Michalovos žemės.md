@@ -89,7 +89,6 @@ Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36407
-
 - id: c-38569
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

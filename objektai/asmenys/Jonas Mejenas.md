@@ -101,7 +101,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40223
-
 - id: c-167132
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -136,6 +135,5 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40224
-
 ## Ryšiai
 - Jonas Mejenas gynė [[objektai/vietos/Vilnius]]

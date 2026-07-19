@@ -149,7 +149,6 @@ Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeroni
     - t-200506
     - t-200507
     - t-200508
-
 - id: c-184046
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"

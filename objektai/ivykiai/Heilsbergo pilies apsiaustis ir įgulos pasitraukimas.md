@@ -89,7 +89,7 @@ Nenurodyta
   pagrindžia:
     - c-63602
     - c-63604
-
+    - c-001
 <a id="claim-t-196944"></a>
 - t-003
   global_id: t-196944
@@ -119,8 +119,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62799
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -138,10 +137,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-63602
@@ -163,7 +158,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62799
-
 - id: c-63604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

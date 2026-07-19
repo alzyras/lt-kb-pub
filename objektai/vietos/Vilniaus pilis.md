@@ -308,7 +308,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174218
-
 - id: c-158408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -343,7 +342,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174214
-
 - id: c-158409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -364,7 +362,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174221
-
 - id: c-158411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -393,7 +390,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174224
-
 - id: c-158412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -418,7 +414,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174212
-
 - id: c-158413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -441,7 +436,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174223
-
 - id: c-158414
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -471,7 +465,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174220
-
 - id: c-158415
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -496,7 +489,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174217
-
 - id: c-158417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -524,7 +516,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174222
-
 - id: c-158418
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -560,7 +551,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174216
-
 - id: c-158419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -588,7 +578,6 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-174219
-
 - id: c-176860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -625,6 +614,5 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194267
-
 ## Ryšiai
 - Puolė Vilniaus pilį: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

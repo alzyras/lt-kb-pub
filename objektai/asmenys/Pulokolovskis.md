@@ -77,4 +77,4 @@ Magistrato valdininkas Pulokolovskis 1818 m. Kaune, valydamas Perkūno namais va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-190205

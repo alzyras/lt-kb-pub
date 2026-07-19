@@ -53,6 +53,7 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
   vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
   pagrindžia:
     - c-73345
+    - c-73346
 - susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-183533|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų Rusijoje buvo žinoma nuostata pretenduoti į LDK žemes kaip į tariamą istorinį paveldą.
 - susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-18932|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų buvo žinoma nuostata pretenduoti į LDK žemes kaip tariamą Rusijai priklausantį paveldą.
 - susijęs iš [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos.md#claim-t-67064|Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]: Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi „lenkų pradų naikinimo“ politikos.
@@ -112,4 +113,4 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75626
+    - t-75627

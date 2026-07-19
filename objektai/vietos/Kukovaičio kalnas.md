@@ -60,7 +60,7 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171815
-
+    - c-001
 <a id="claim-t-188927"></a>
 - t-002
   global_id: t-188927
@@ -102,7 +102,7 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171817
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo palaidotas lietuvių kunigaikštis Kukovaitis.'
@@ -125,8 +125,7 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188926
 - c-003
   santrauka: 'Narbutas rašo, kad ant Kukovaičio kalno nebebuvo šventyklos ar stabo pėdsakų, o atminimas tebegyvavo kaimo pasakojimuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -143,8 +142,7 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188928
 ## Citatos
 
 - id: c-171815
@@ -172,7 +170,6 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188926
-
 - id: c-171816
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -189,7 +186,6 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188927
-
 - id: c-171817
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

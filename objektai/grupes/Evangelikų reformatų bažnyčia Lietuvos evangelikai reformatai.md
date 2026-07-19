@@ -162,7 +162,6 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   pagrindzia:
     - t-101239
     - t-183129
-
 - id: c-166515
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -182,7 +181,6 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   pagrindzia:
     - t-101238
     - t-183130
-
 - id: c-176215
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

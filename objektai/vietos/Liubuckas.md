@@ -57,7 +57,7 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-170312
-
+    - c-001
 <a id="claim-t-187256"></a>
 - t-003
   global_id: t-187256
@@ -78,7 +78,7 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas sakinys apie Liubucko lokalizaciją. Jis remiasi aiškinamąja pastaba ir neprideda vertinimų ar metraščio interpretacijų."
   pagrindžia:
     - c-170312
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -95,9 +95,8 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
+    - t-187254
+    - t-187256
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -113,8 +112,6 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-170312

@@ -53,7 +53,7 @@ Dusburgietis teigia, kad remeika J.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61902
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad remeika J.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61270
 ## Citatos
 
 - id: c-61902

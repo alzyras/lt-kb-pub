@@ -281,7 +281,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101469
-
 - id: c-22644
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -302,7 +301,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101466
-
 - id: c-22645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -322,7 +320,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101475
-
 - id: c-22646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -344,7 +341,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   pagrindzia:
     - t-101471
     - t-101472
-
 - id: c-22647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -368,7 +364,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-101467
     - t-101470
     - t-101474
-
 - id: c-22648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -389,7 +384,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101476
-
 - id: c-22649
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -411,7 +405,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   pagrindzia:
     - t-101468
     - t-101473
-
 - id: c-166553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

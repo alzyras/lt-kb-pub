@@ -109,7 +109,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86432
-
 - id: c-82410
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -134,7 +133,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86431
-
 - id: c-82411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

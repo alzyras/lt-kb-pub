@@ -67,4 +67,4 @@ Narbutas laikė labiau tikėtina, kad Jonas Rivijus kai kuriuos kronikos dalykus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-190104

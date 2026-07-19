@@ -104,7 +104,6 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60573
-
 - id: c-61204
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -126,7 +125,6 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60572
-
 - id: c-61205
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

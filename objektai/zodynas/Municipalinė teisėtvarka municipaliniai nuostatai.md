@@ -90,7 +90,6 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86564
-
 - id: c-82543
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

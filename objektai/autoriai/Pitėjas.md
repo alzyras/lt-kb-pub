@@ -195,9 +195,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-008
-
 - c-005
   santrauka: 'Teodoras Narbutas rašo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas tokį pavadinimą laikė neseniai pradėtu vartoti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -219,8 +216,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-174428
@@ -249,7 +244,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   pagrindzia:
     - t-191546
     - t-197634
-
 - id: c-174429
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -268,7 +262,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191547
-
 - id: c-174430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -289,7 +282,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191548
-
 - id: c-174431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -312,7 +304,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   pagrindzia:
     - t-191549
     - t-197635
-
 - id: c-179270
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -338,7 +329,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197632
-
 - id: c-179271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

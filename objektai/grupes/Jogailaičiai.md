@@ -206,7 +206,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110664
-
 - id: c-102461
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -235,7 +234,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   pagrindzia:
     - t-110662
     - t-110663
-
 - id: c-102463
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -259,7 +257,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-110661
-
 - id: c-176217
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -280,7 +277,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193537
-
 - id: c-184100
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -300,6 +296,5 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200755
-
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Motiejus Huniadis]]

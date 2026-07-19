@@ -48,7 +48,7 @@ Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169474
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vytautui dėl imperatoriaus siūlymų.'
@@ -73,8 +73,7 @@ Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186113
 ## Citatos
 
 - id: c-169474

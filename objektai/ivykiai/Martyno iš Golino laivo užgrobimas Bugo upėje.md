@@ -62,7 +62,7 @@ Nenurodyta
   semantiniai_rysiai: "Martynas iš Golino keliavo į Torunė (0.78)"
   pagrindžia:
     - c-62993
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Martynas iš Golino prie Bugo upės užpuolė prekių laivą, išžudė upeivius ir atplukdė laivą į Torunę.'
@@ -84,8 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62393
 ## Citatos
 
 - id: c-62993

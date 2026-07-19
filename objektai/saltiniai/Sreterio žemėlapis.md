@@ -54,7 +54,7 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją."
   pagrindžia:
     - c-61927
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'XVIII–XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61295
 ## Citatos
 
 - id: c-61927

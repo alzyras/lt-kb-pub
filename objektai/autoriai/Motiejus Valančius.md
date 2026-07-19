@@ -286,8 +286,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-163227
@@ -310,7 +308,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179553
-
 - id: c-163229
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -331,7 +328,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179554
-
 - id: c-163230
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -353,7 +349,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179551
-
 - id: c-163231
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -372,7 +367,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00060
-
 - id: c-163233
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -395,7 +389,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00061
-
 - id: c-163234
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -416,7 +409,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179555
-
 - id: c-163235
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -440,7 +432,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00058
-
 - id: c-163236
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -459,7 +450,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00056
-
 - id: c-163237
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

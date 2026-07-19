@@ -116,7 +116,6 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84712
-
 - id: c-80847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

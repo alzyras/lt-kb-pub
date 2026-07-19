@@ -47,13 +47,11 @@ Kas norėtų labiau įsigilinti, teskaito: Vo­ yage dans les Steps d'Astrakhan 
 
 <a id="claim-t-88497"></a>
 - t-001
-  global_id: t-88497
   teiginys: 'Jeanas Potockis veikale „Voyage dans les Steps d''Astrakhan et du Caucase“ minimas kaip papildomas šaltinis apie totorius.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra bibliografinis fragmentas su OCR triukšmu, bet citata palaiko ribotą faktą apie veikalo paminėjimą.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
-    - c-001
-
+    - c-84476
 ## Citatos
 
 - id: c-84476
@@ -79,3 +77,4 @@ Kas norėtų labiau įsigilinti, teskaito: Vo­ yage dans les Steps d'Astrakhan 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88497
+    - t-001

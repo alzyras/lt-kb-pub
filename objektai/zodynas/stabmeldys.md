@@ -115,7 +115,6 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42510
-
 - id: c-45549
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -136,7 +135,6 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42511
-
 - id: c-45550
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

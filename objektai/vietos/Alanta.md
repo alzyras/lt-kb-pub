@@ -103,7 +103,6 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85927
-
 - id: c-81908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -157,6 +156,5 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85926
-
 ## Ryšiai
 - Alanta priklausė [[objektai/asmenys/Gabrielius Bekešas]]

@@ -48,6 +48,7 @@ Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171898
+    - c-001
 - susijęs iš [[objektai/asmenys/Minas.md#claim-t-190185|Minas]]: Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines apeigas.
 - susijęs iš Trakija: Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu sias slaptas apeigas.
 - susijęs iš [[objektai/asmenys/Inachas.md#claim-t-190158|Inachas]]: Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosčiusias slaptas apeigas.
@@ -73,8 +74,7 @@ Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189009
 ## Citatos
 
 - id: c-171898

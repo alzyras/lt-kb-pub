@@ -56,7 +56,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173221
-
+    - c-001
 <a id="claim-t-190339"></a>
 - t-002
   global_id: t-190339
@@ -77,7 +77,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173222
-
+    - c-002
 <a id="claim-t-194668"></a>
 - t-003
   global_id: t-194668
@@ -91,7 +91,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177065
-
+    - c-003
 <a id="claim-t-197323"></a>
 - t-004
   global_id: t-197323
@@ -129,8 +129,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190338
 - c-002
   santrauka: 'Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -148,8 +147,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190339
 - c-003
   santrauka: 'Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že mės viešpačiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -171,8 +169,7 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194668
 ## Citatos
 
 - id: c-173221
@@ -196,7 +193,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190338
-
 - id: c-173222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -225,7 +221,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190339
-
 - id: c-177065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -253,7 +248,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194668
-
 - id: c-179130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

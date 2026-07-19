@@ -116,8 +116,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-50178
-
+    - t-50179
 - id: c-43738
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,6 +139,5 @@ media_all_json: |-
   pagrindzia:
     - t-50180
     - t-50181
-
 ## Ryšiai
 - Puolė Perloją: [[objektai/grupes/Marcinkonių batalionas]]

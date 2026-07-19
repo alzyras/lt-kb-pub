@@ -44,6 +44,7 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60891
+    - c-001
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-184056|Divanas]]: Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59912|Divanas]]: Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.
 - susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
@@ -62,8 +63,7 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60259
 ## Citatos
 
 - id: c-60891

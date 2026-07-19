@@ -153,7 +153,6 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19029
-
 - id: c-21786
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -173,7 +172,6 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19028
-
 - id: c-21787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -194,7 +192,6 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19026
-
 - id: c-21788
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -214,7 +211,6 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19027
-
 - id: c-21789
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -239,7 +235,6 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19030
-
 ## Ryšiai
 - Juozas Urbšys keliavo į [[objektai/vietos/Kaunas]], [[objektai/vietos/Maskva]]
 - Juozas Urbšys siuntė į [[objektai/vietos/Maskva]]

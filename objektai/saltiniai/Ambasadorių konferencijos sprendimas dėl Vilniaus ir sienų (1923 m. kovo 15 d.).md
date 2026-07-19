@@ -127,7 +127,6 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
   pagrindzia:
     - t-21001
     - t-21002
-
 - id: c-166747
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -89,6 +89,7 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175377
+    - c-003
 - susijęs iš [[objektai/asmenys/Hanonas.md#claim-t-191406|Hanonas]]: Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir palei Afrikos krantus nuplaukė iki Bajadoro kyšulio.
 - susijęs iš [[objektai/asmenys/Christiaan Barnard.md#claim-t-18867|Christiaan Barnard]]: Christiaanas Barnardas 1967 m. Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
 - susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
@@ -183,8 +184,7 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192606
 ## Citatos
 
 - id: c-35389
@@ -208,7 +208,6 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34164
-
 - id: c-171551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -229,7 +228,6 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188662
-
 - id: c-175377
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

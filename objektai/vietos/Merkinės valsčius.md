@@ -81,4 +81,4 @@ Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valst
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-188956

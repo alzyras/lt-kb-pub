@@ -70,6 +70,5 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40305
-
 ## Ryšiai
 - Leontijus Bennigsenas puolė [[objektai/grupes/Lietuviai]]

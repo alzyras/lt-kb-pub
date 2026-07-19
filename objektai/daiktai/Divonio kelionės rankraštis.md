@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175780
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu.'
@@ -83,8 +83,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-193010
 ## Citatos
 
 - id: c-175780

@@ -127,8 +127,7 @@ media_all_json: |-
   susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Minskas; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva; llm_object: Lietuva'
   semantiniai_rysiai: 'Gardino gubernija priklausė Lietuva'
   pagrindžia:
-    - c-171587
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbutas istorinę Lietuvą siejo su Vilniaus, Kauno, Gardino ir Minsko gubernijomis.'
@@ -148,8 +147,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-188698
 ## Citatos
 
 - id: c-24125
@@ -172,7 +170,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101724
-
 - id: c-24126
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -194,7 +191,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101723
-
 - id: c-95150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

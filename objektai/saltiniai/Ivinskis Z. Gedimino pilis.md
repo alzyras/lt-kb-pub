@@ -74,7 +74,7 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61613
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne.'
@@ -90,8 +90,7 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60982
 ## Citatos
 
 - id: c-61613
@@ -115,7 +114,6 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60982
-
 - id: c-61614
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

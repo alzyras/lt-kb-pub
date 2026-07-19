@@ -209,7 +209,6 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   pagrindzia:
     - t-79078
     - t-79082
-
 - id: c-42066
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -233,7 +232,6 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   pagrindzia:
     - t-79076
     - t-79081
-
 - id: c-42067
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -252,7 +250,6 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79079
-
 - id: c-76173
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -271,7 +268,6 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79080
-
 - id: c-76176
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -292,6 +288,5 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79077
-
 ## Ryšiai
 - Karolis IX buvo valdovas [[objektai/vietos/Švedija]]

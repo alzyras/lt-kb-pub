@@ -146,7 +146,6 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88134
-
 - id: c-84111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -179,7 +178,6 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88135
-
 - id: c-84112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -211,7 +209,6 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88132
-
 - id: c-84113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -242,7 +239,6 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88131
-
 - id: c-84114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

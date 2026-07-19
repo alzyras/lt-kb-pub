@@ -103,7 +103,6 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87420
-
 - id: c-83399
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

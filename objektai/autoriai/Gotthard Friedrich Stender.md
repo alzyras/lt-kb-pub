@@ -50,7 +50,7 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174507
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.'
@@ -82,8 +82,6 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Gotthardo Friedricho Stenderio „Lettische Grammatik“ buvo išleista Braunšveige 1761 metais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -104,8 +102,7 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191625
 ## Citatos
 
 - id: c-174507

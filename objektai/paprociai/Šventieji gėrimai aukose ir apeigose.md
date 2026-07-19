@@ -139,9 +139,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-004
-
 ## Citatos
 
 - id: c-172671
@@ -170,7 +167,6 @@ Nenurodyta
   pagrindzia:
     - t-189788
     - t-197271
-
 - id: c-177037
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -193,7 +189,6 @@ Nenurodyta
   pagrindzia:
     - t-194639
     - t-197272
-
 - id: c-177038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

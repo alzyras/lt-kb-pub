@@ -137,7 +137,6 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
     - t-63616
     - t-184076
     - t-194486
-
 - id: c-64619
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -165,7 +164,6 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63617
-
 ## Ryšiai
 - Henrikas (Meiseno markgrafas) keliavo į [[objektai/vietos/Prūsija]]
 - Henrikas (Meiseno markgrafas) rėmė [[objektai/grupes/Kryžiuočių ordinas]]

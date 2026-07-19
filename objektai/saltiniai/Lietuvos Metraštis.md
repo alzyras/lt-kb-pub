@@ -123,7 +123,6 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67443
-
 - id: c-67343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -147,7 +146,6 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67444
-
 - id: c-67344
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -161,7 +159,6 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67445
-
 - id: c-176411
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

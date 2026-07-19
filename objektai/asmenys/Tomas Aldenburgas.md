@@ -107,7 +107,6 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87584
-
 - id: c-83564
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

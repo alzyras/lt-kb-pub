@@ -114,7 +114,6 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63475
-
 - id: c-41825
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -138,7 +137,6 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63477
-
 - id: c-41826
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

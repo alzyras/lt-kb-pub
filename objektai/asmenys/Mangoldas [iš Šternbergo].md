@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
   semantiniai_rysiai: "Mangoldas [iš Šternbergo] puolė Kresmena (0.88); Mangoldas [iš Šternbergo] puolė Sūduva (0.82)"
   pagrindžia:
     - c-60802
-
+    - c-002
 <a id="claim-t-60170"></a>
 - t-002
   global_id: t-60170
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
   semantiniai_rysiai: "Mangoldas [iš Šternbergo] valdė Prūsija (0.82)"
   pagrindžia:
     - c-60801
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mangoldas iš Šternbergo buvo vienuoliktasis Prūsijos magistras ir vadovavo Prūsijos žemei beveik dvejus metus.'
@@ -91,8 +91,7 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60170
 - c-002
   santrauka: 'Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -111,8 +110,7 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60169
 ## Citatos
 
 - id: c-60801
@@ -136,7 +134,6 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60170
-
 - id: c-60802
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

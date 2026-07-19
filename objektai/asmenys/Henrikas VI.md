@@ -117,7 +117,6 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63621
-
 - id: c-167469
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

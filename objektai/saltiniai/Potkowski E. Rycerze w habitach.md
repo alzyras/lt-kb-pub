@@ -53,7 +53,7 @@ Dusburgietis teigia, kad potkowski E.
   temporalinis_llm_pakomentavimas: "Citata palaiko autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61869
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'E. Potkowskio veikalas „Rycerze w habitach“ išleistas Varšuvoje 1974 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad potkowski E.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61237
 ## Citatos
 
 - id: c-61869

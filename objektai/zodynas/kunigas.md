@@ -269,7 +269,6 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32787
-
 - id: c-34162
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

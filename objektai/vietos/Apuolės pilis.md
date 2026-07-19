@@ -118,7 +118,6 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47985
-
 - id: c-31938
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -141,6 +140,5 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   pagrindzia:
     - t-47983
     - t-47984
-
 ## Ryšiai
 - Užėmė Apuolės pilį (pilis): [[objektai/grupes/Švedai]]

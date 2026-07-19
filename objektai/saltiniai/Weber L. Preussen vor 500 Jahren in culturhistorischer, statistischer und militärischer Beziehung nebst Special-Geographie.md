@@ -104,7 +104,6 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61019
-
 - id: c-61651
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

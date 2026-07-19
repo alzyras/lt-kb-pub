@@ -71,7 +71,6 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-93129
-
 - id: c-88526
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -111,7 +111,6 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72627
-
 - id: c-71025
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -134,7 +133,6 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   pagrindzia:
     - t-72625
     - t-72626
-
 - id: c-166327
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

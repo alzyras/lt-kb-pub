@@ -57,7 +57,7 @@ Teodoras Narbutas, remdamasis „Dziennik Warszawski“ 1829 m. Nr. 44, herulus 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174636
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoras Narbutas, remdamasis „Dziennik Warszawski“ 1829 m. Nr. 44, herulus siūlė vadinti gerulais.'
@@ -72,8 +72,7 @@ Teodoras Narbutas, remdamasis „Dziennik Warszawski“ 1829 m. Nr. 44, herulus 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191754
 ## Citatos
 
 - id: c-174636

@@ -242,7 +242,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54971
-
 - id: c-55516
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -286,7 +285,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54972
-
 - id: c-55517
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -332,7 +330,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54973
-
 - id: c-55518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -366,7 +363,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54974
-
 - id: c-78789
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -397,7 +393,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82312
-
 - id: c-78790
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -425,7 +420,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82311
-
 - id: c-78791
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -461,6 +455,5 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   pagrindzia:
     - t-54970
     - t-82313
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Alanta]]

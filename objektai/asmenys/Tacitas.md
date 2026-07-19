@@ -123,7 +123,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173859
-
+    - c-004
 <a id="claim-t-190978"></a>
 - t-005
   global_id: t-190978
@@ -145,7 +145,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173860
-
+    - c-005
 <a id="claim-t-194722"></a>
 - t-006
   global_id: t-194722
@@ -158,7 +158,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177118
-
+    - c-006
 <a id="claim-t-197820"></a>
 - t-007
   global_id: t-197820
@@ -193,8 +193,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190977
 - c-005
   santrauka: 'Narbutas rašo, kad Tacitas jazigus laikė ne ramiais žemdirbiais, o karinga gentimi, turėjusia rinktinę raitąją armiją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -212,8 +211,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190978
 - c-006
   santrauka: 'Tacitas žinojo apie šią žynių klasę, kadangi juos vadina miesto žyniais .'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -229,8 +227,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-194722
 ## Citatos
 
 - id: c-75376
@@ -250,7 +247,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78071
-
 - id: c-173857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -270,7 +266,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190975
-
 - id: c-173858
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -293,7 +288,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190976
-
 - id: c-173859
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -322,7 +316,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190977
-
 - id: c-173860
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -348,7 +341,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190978
-
 - id: c-177118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -378,7 +370,6 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194722
-
 - id: c-179353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

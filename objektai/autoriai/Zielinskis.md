@@ -49,7 +49,7 @@ Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1 1 Histoire de Pologn
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177289
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1 1 Histoire de Pologne par Zielinski.'
@@ -63,8 +63,7 @@ Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1 1 Histoire de Pologn
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194893
 ## Citatos
 
 - id: c-177289

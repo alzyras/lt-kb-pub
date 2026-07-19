@@ -53,7 +53,7 @@ Dusburgietis teigia, kad kosman M.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia leidinio pavadinimą, autorių ir leidimo metus."
   pagrindžia:
     - c-61734
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Kosmano veikalas „Drogi zaniku pogaństwa u Bałtów“ išleistas Vroclave, Varšuvoje, Krokuvoje ir Gdanske 1976 m.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad kosman M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61102
 ## Citatos
 
 - id: c-61734

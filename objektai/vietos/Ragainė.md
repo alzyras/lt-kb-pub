@@ -885,7 +885,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169145
-
 - id: c-153886
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -903,7 +902,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169165
-
 - id: c-153887
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -931,7 +929,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169164
-
 - id: c-153888
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -952,7 +949,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169148
-
 - id: c-153889
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -976,7 +972,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169158
-
 - id: c-153890
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1001,7 +996,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169159
-
 - id: c-153892
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1021,7 +1015,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169163
-
 - id: c-153893
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1044,7 +1037,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169162
-
 - id: c-153894
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1080,7 +1072,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindzia:
     - t-169149
     - t-169150
-
 - id: c-153895
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1100,7 +1091,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindzia:
     - t-169146
     - t-169154
-
 - id: c-153896
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1127,7 +1117,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169157
-
 - id: c-153897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1147,7 +1136,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169155
-
 - id: c-153898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1168,7 +1156,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindzia:
     - t-169153
     - t-169161
-
 - id: c-153899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1189,7 +1176,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-169160
     - t-184194
     - t-194546
-
 - id: c-153900
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1211,7 +1197,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169147
-
 - id: c-153901
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1233,7 +1218,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169144
-
 - id: c-153904
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1252,7 +1236,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169152
-
 - id: c-153905
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1271,7 +1254,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169156
-
 - id: c-168479
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1302,7 +1284,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185118
-
 - id: c-168481
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1338,7 +1319,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindzia:
     - t-185120
     - t-196735
-
 - id: c-175506
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1358,7 +1338,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindzia:
     - t-192736
     - t-197912
-
 - id: c-175507
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1376,7 +1355,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192737
-
 - id: c-178878
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1399,7 +1377,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196736
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Draika]]
 - Puolė Ragainę: [[objektai/grupes/Lietuviai]]

@@ -87,7 +87,6 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88067
-
 - id: c-84047
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

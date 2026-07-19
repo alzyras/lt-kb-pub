@@ -93,7 +93,6 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79217
-
 - id: c-76281
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

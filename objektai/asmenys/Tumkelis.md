@@ -55,7 +55,7 @@ Antspaudą pridėjo Tumkelis (Tumkiel) 1528 metais.
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173130
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Antspaudą pridėjo Tumkelis (Tumkiel) 1528 metais.'
@@ -70,8 +70,7 @@ Antspaudą pridėjo Tumkelis (Tumkiel) 1528 metais.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190247
 ## Citatos
 
 - id: c-173130

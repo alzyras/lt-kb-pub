@@ -79,7 +79,7 @@ Nenurodyta
   semantiniai_rysiai: "Sembai puolė Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas (0.72)"
   pagrindžia:
     - c-85312
-
+    - c-002
 <a id="claim-t-89361"></a>
 - t-003
   global_id: t-89361
@@ -97,7 +97,7 @@ Nenurodyta
   semantiniai_rysiai: "Sembai puolė Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas (0.70)"
   pagrindžia:
     - c-85312
-
+    - c-002
 <a id="claim-t-194383"></a>
 - t-004
   global_id: t-194383
@@ -110,7 +110,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85312
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -130,10 +130,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-003
-    - t-004
-
+    - t-89360
+    - t-89361
+    - t-194383
 ## Citatos
 
 - id: c-85311
@@ -157,7 +156,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89359
-
 - id: c-85312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

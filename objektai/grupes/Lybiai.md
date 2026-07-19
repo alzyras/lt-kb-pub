@@ -87,26 +87,7 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   semantiniai_rysiai: "Lybiai gyveno Dauguva (0.80); Lybiai gyveno Kuršas (0.80); Lybiai gyveno Latvija (0.76)"
   pagrindžia:
     - c-91416
-
-<a id="claim-t-193117"></a>
-- t-004
-  global_id: t-193117
-  teiginys: "Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
     - c-175877
-- susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05162|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.
-- susijęs iš [[objektai/daiktai/Balnas.md#claim-t-08282|Balnas]]: Balnai buvo daromi iš vieno medžio, be šikšnų ir geležies, su medžio kilpomis.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175543|Kalavijuočių ordinas]]: Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.
-- susijęs iš Klaipėda: Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
-- susijęs iš Klaipėda: Žemaičiai, laikydami savo įtakoje pajūrio plotą, netrukus ėmė puldinėti Klaipėdą.
-- susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
 ## Citatos
 
 - id: c-91416
@@ -131,7 +112,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96813
-
 - id: c-91417
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -154,7 +134,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96812
-
 - id: c-91418
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -175,7 +154,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96811
-
 - id: c-175877
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -193,7 +171,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-193117
-
+    - t-96813
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Vokiečių pirkliai]]

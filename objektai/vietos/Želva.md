@@ -162,7 +162,6 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172065
-
 - id: c-156489
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -192,7 +191,6 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172066
-
 - id: c-156490
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -215,7 +213,6 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172063
-
 - id: c-156492
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -240,7 +237,6 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172064
-
 ## Ryšiai
 - Gimimo vieta: [[objektai/asmenys/Aaron Klug]]
 - Užėmė Želvą: [[objektai/grupes/Lenkai]]

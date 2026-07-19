@@ -49,7 +49,7 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172035
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo manymu, kilo kai kurie anksčiau aptarti lietuvių dievaičiai.'
@@ -75,8 +75,6 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Narbutas lietuvių mitologijoje saulę ir mėnulį laikė svarbiausiais dangaus kūnais, kurių vaikais aiškino kitus dangaus kūnus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -95,8 +93,7 @@ Narbutas dangaus kūnų sudievinimą aiškino kaip šaltinį, iš kurio, jo many
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189147
 ## Citatos
 
 - id: c-172035

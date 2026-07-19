@@ -82,9 +82,6 @@ Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-174203

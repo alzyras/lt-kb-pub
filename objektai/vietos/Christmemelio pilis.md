@@ -49,7 +49,7 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
   semantiniai_rysiai: "Kryžiuočių ordinas puolė Christmemelio pilis (pilis) (0.96)"
   pagrindžia:
     - c-168623
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų.'
@@ -74,8 +74,7 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185262
 ## Citatos
 
 - id: c-168623
@@ -109,6 +108,5 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185262
-
 ## Ryšiai
 - Puolė Christmemelio pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

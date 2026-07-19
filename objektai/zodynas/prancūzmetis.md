@@ -83,7 +83,6 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03125
-
 - id: c-175907
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

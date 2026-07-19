@@ -176,7 +176,6 @@ Nenurodyta
   pagrindzia:
     - t-97135
     - t-97137
-
 - id: c-31420
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -201,7 +200,6 @@ Nenurodyta
   pagrindzia:
     - t-97134
     - t-97138
-
 - id: c-91648
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159323
-
+    - c-005
 <a id="claim-t-175165"></a>
 - t-002
   global_id: t-175165
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   temporalinis_llm_pakomentavimas: "Citata remia ir tapatinimą, ir jo ribotumą; pradinis teiginys nutrūkęs."
   pagrindžia:
     - c-159317
-
+    - c-001
 <a id="claim-t-175166"></a>
 - t-003
   global_id: t-175166
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159319
-
+    - c-003
 <a id="claim-t-175167"></a>
 - t-004
   global_id: t-175167
@@ -132,8 +132,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-175165
 - c-003
   santrauka: 'H. ir G. Mortensenų veikalas nurodomas kaip darbas, kuriame Pagraudės ieškota labiau į rytus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -149,8 +148,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-175166
 - c-005
   santrauka: 'Bebirvaitės pilis lokalizuojama prie Bebirvos upelio ir Bebirvų kaimo, netoli Raseinių–Šilinės kelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -165,8 +163,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-175164
 ## Citatos
 
 - id: c-159317
@@ -191,7 +188,6 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175165
-
 - id: c-159318
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -212,7 +208,6 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175169
-
 - id: c-159319
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -235,7 +230,6 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175166
-
 - id: c-159320
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -250,7 +244,6 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175167
-
 - id: c-159323
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -126,7 +126,6 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   pagrindzia:
     - t-89590
     - t-89591
-
 - id: c-176944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -148,7 +147,6 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   pagrindzia:
     - t-194470
     - t-197048
-
 - id: c-179018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

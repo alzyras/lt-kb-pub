@@ -103,7 +103,6 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88351
-
 - id: c-84330
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

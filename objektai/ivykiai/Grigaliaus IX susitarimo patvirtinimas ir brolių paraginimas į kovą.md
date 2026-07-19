@@ -74,7 +74,7 @@ Nenurodyta
   pagrindžia:
     - c-63599
     - c-63600
-
+    - c-001
 <a id="claim-t-62797"></a>
 - t-002
   global_id: t-62797
@@ -94,7 +94,8 @@ Nenurodyta
   pagrindžia:
     - c-63599
     - c-63601
-
+    - c-001
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -115,9 +116,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-62796
+    - t-62797
 - c-003
   santrauka: 'Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -133,8 +133,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-62797
 ## Citatos
 
 - id: c-63599
@@ -161,7 +160,6 @@ Nenurodyta
   pagrindzia:
     - t-62796
     - t-62797
-
 - id: c-63600
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -185,7 +183,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62796
-
 - id: c-63601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -68,4 +68,4 @@ Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-191505

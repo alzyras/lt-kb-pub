@@ -86,7 +86,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66955
-
 - id: c-67044
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

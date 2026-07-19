@@ -81,7 +81,6 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22213
-
 - id: c-176281
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -45,7 +45,7 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-23974
-
+    - c-166777
 ## Citatos
 
 - id: c-23974
@@ -72,7 +72,6 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21272
-
 - id: c-166777
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

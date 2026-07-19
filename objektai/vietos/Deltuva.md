@@ -91,6 +91,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171573
+    - c-002
 - susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186006|Kernius]]: Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188593|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį milžino išvaizdos Kukovaičio stabą.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190642|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą.
@@ -132,8 +133,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188684
 ## Citatos
 
 - id: c-111138
@@ -156,7 +156,6 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   pagrindzia:
     - t-121296
     - t-121297
-
 - id: c-171573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -182,6 +181,5 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188684
-
 ## Ryšiai
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Kernius]]

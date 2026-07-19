@@ -232,8 +232,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
-    - c-170421
-
+    - c-005
 <a id="claim-t-193830"></a>
 - t-014
   global_id: t-193830
@@ -243,7 +242,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Valdovo titulas paliktas su atribucija, nes šiam profiliui titulavimas jautrus. Nepridėta platesnio teiginio apie Sich-Achmetą.'
   pagrindžia:
-    - c-176474
+    - c-010
 - susijęs iš [[objektai/ivykiai/Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą.md#claim-t-186780|Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)]]: 1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą.md#claim-t-186781|Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)]]: 1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186784|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: 1501 m. rugpjūtį Aukso orda įsiveržė į buvusias LDK teritorijas Desnos baseine, 1500 m. prijungtas prie Maskvos Didžiosios Kunigaikštystės.
@@ -268,8 +267,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-187443
 - c-010
   santrauka: 'Komentare Achmatas vadinamas Aukso ordos chanu, 1459–1481 m. valdžiusiu Kazimiero Jogailaičio sąjungininku ir 1480 m. žygiavusiu prie Ugros.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -289,8 +287,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-
+    - t-193830
 ## Citatos
 
 - id: c-31031
@@ -311,8 +308,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-187437
-
+    - t-187446
 - id: c-42637
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -332,7 +328,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187447
-
 - id: c-42638
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -354,7 +349,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187444
-
 - id: c-170420
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -376,7 +370,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187441
-
 - id: c-170422
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -397,7 +390,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   pagrindzia:
     - t-187435
     - t-187439
-
 - id: c-170423
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -423,7 +415,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187438
-
 - id: c-170424
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -450,7 +441,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187440
-
 - id: c-170425
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -471,7 +461,6 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187436
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Kijevas]]
 - Aukso orda puolė [[objektai/vietos/Lietuva]]

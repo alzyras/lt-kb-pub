@@ -102,7 +102,6 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66289
-
 - id: c-66589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

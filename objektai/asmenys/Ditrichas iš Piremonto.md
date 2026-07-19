@@ -44,6 +44,7 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60899
+    - c-001
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58797|pilėnas pilėnai]]: Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams.
 ## Reikšmingi paminėjimai
 - c-001
@@ -64,8 +65,7 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60267
 ## Citatos
 
 - id: c-60899

@@ -87,6 +87,5 @@ Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193317
-
 ## Ryšiai
 - Lietuvos luomai gynė [[objektai/vietos/Livonija]]

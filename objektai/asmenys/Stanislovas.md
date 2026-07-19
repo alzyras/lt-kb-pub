@@ -140,7 +140,6 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
   pagrindzia:
     - t-186017
     - t-196593
-
 - id: c-169379
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

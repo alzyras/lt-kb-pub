@@ -107,7 +107,6 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79491
-
 - id: c-76477
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

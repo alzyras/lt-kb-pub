@@ -94,7 +94,6 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60125
-
 - id: c-184344
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

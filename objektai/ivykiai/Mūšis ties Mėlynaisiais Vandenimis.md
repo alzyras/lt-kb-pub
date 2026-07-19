@@ -94,8 +94,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikimumo vertinimas paliktas su komentaro atribucija. Pridėtas tik citatoje esantis datos neapibrėžtumas, be papildomų datavimo argumentų.'
   pagrindžia:
-    - c-169932
-
+    - c-001
 <a id="claim-t-186696"></a>
 - t-003
   global_id: t-186696
@@ -107,8 +106,7 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Datavimo nesutarimas suformuluotas kaip komentare pateikiama pozicija. Nepridėta jokių papildomų vietos ar poveikio Podolei interpretacijų.'
   pagrindžia:
-    - c-169932
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -127,9 +125,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
+    - t-186694
+    - t-186696
 ## Citatos
 
 - id: c-169933

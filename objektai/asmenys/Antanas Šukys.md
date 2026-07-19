@@ -114,7 +114,6 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40033
-
 - id: c-167116
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

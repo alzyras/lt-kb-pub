@@ -74,7 +74,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-177107
-
+    - c-002
 <a id="claim-t-194913"></a>
 - t-003
   global_id: t-194913
@@ -87,6 +87,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177309
+    - c-003
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108295|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas, 1400–1407 m. valdęs Vilniaus dieceziją.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108308|Pranciškonų ordinas]]: Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.
 ## Reikšmingi paminėjimai
@@ -108,8 +109,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194711
 - c-003
   santrauka: 'Jonas I nurodo šv.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -126,8 +126,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194913
 ## Citatos
 
 - id: c-83687
@@ -154,7 +153,6 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87708
-
 - id: c-177107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -181,7 +179,6 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194711
-
 - id: c-177309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -204,7 +201,6 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194913
-
 - id: c-179329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

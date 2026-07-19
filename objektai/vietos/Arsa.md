@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59060
-
+    - c-002
 <a id="claim-t-58428"></a>
 - t-002
   global_id: t-58428
@@ -80,6 +80,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59061
+    - c-003
 - susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186044|Henrikas fon Plockė]]: Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.
 - susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185520|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.
 - susijęs iš Naugardukas: Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą.
@@ -98,8 +99,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58427
 - c-003
   santrauka: 'Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -118,8 +118,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-58429
 ## Citatos
 
 - id: c-59059
@@ -138,7 +137,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58428
-
 - id: c-59060
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -158,7 +156,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58427
-
 - id: c-59061
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

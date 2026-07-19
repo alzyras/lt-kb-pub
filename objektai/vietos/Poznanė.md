@@ -391,7 +391,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114861
-
 - id: c-105859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -420,7 +419,6 @@ media_all_json: |-
   pagrindzia:
     - t-114858
     - t-114864
-
 - id: c-105860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -443,7 +441,6 @@ media_all_json: |-
   pagrindzia:
     - t-114853
     - t-114863
-
 - id: c-105861
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -461,7 +458,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114851
-
 - id: c-105862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -485,7 +481,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114852
-
 - id: c-105863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -516,7 +511,6 @@ media_all_json: |-
   pagrindzia:
     - t-114855
     - t-114860
-
 - id: c-105865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -539,7 +533,6 @@ media_all_json: |-
   pagrindzia:
     - t-114856
     - t-114857
-
 - id: c-105868
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -568,7 +561,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114862
-
 - id: c-177372
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

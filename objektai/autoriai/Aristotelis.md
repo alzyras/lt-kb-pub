@@ -70,7 +70,7 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174516
-
+    - c-002
 <a id="claim-t-197581"></a>
 - t-003
   global_id: t-197581
@@ -103,9 +103,6 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 - c-002
   santrauka: 'Teodoras Narbutas Aristotelį mini tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą ir pateikė įrodymų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -132,8 +129,7 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191634
 ## Citatos
 
 - id: c-174515
@@ -162,7 +158,6 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
   pagrindzia:
     - t-191633
     - t-197581
-
 - id: c-174516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

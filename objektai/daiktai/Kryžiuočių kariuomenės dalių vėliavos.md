@@ -127,8 +127,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys išlaiko būtąją atribuciją Bychovco kronikai, nes kalbama apie kronikos liudijimą dėl trofėjinių vėliavų. Nepridėta, kad vėliavos tikrai išliko ar buvo fiziškai patikrintos.'
   pagrindžia:
-    - c-170010
-
+    - c-005
 <a id="claim-t-186823"></a>
 - t-002
   global_id: t-186823
@@ -140,8 +139,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys, tiesiogiai paremtas citata.'
   pagrindžia:
-    - c-170007
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.'
@@ -158,8 +156,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-186823
 - c-005
   santrauka: 'Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -180,8 +177,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186822
 ## Citatos
 
 - id: c-170006
@@ -202,7 +198,6 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186824
-
 - id: c-170008
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -220,7 +215,6 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186825
-
 - id: c-170009
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -131,4 +131,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45472
-    - t-45473
+    - t-45475

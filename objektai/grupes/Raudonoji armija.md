@@ -58,7 +58,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-22714
-
+    - c-166564
 <a id="claim-t-78428"></a>
 - t-002
   global_id: t-78428
@@ -237,7 +237,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78433
-
 - id: c-22710
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -259,7 +258,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78436
-
 - id: c-22712
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -282,7 +280,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78432
-
 - id: c-22713
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -304,7 +301,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78435
-
 - id: c-22714
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -323,7 +319,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78427
-
 - id: c-22715
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -347,7 +342,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78430
-
 - id: c-22716
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -375,7 +369,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   pagrindzia:
     - t-78428
     - t-193560
-
 - id: c-166563
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -395,7 +388,6 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78429
-
 - id: c-166564
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -98,7 +98,6 @@ Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o si
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58859
-
 - id: c-59491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

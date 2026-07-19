@@ -117,7 +117,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08031
-
 - id: c-10473
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -136,7 +135,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08029
-
 - id: c-10474
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

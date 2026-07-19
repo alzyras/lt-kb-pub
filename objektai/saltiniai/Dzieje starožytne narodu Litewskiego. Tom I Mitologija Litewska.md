@@ -51,7 +51,7 @@ T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173394
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių oficialių recenzijų.'
@@ -72,8 +72,7 @@ T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190511
 ## Citatos
 
 - id: c-173394

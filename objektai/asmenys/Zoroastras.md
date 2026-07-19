@@ -48,6 +48,7 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173003
+    - c-001
 - susijęs iš [[objektai/grupes/Gvebrai.md#claim-t-189517|Gvebrai]]: Gvebrus Narbutas apibūdino kaip Zoroastro mokymo išpažinėjus, ugnyje įžiūrinčius Dievą arba pasaulio visatos sielą.
 - susijęs iš [[objektai/paprociai/Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime.md#claim-t-189816|Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime]]: Narbuto aiškinime seniausioji lietuvių religija buvo azijinė ir indiška, joje pagal budistų ir zoroastriečių taisykles garbinti dangaus kūnai ir elementai.
 - susijęs iš [[objektai/asmenys/Inachas.md#claim-t-190158|Inachas]]: Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosčiusias slaptas apeigas.
@@ -77,8 +78,7 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190120
 ## Citatos
 
 - id: c-173003

@@ -57,7 +57,7 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir priklausomas nuo konteksto; citata palaiko glaustą sakinį apie Stanteko veiksmą."
   pagrindžia:
     - c-61070
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Stantekas, sunkiai sužeistas susidūręs su sembų sargyba, pranešė maldininkams apie pasalą.'
@@ -78,8 +78,7 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60438
 ## Citatos
 
 - id: c-61070

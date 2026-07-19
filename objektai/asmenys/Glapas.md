@@ -130,7 +130,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   semantiniai_rysiai: "Varmiai paskyrė Glapas (0.95)"
   pagrindžia:
     - c-85728
-
+    - c-004
 <a id="claim-t-184072"></a>
 - t-006
   global_id: t-184072
@@ -237,8 +237,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-89793
 ## Citatos
 
 - id: c-85724
@@ -259,7 +258,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   pagrindzia:
     - t-89789
     - t-89790
-
 - id: c-85725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -278,7 +276,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89792
-
 - id: c-85727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -302,7 +299,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   pagrindzia:
     - t-89791
     - t-197083
-
 - id: c-85728
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -325,7 +321,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89793
-
 - id: c-167457
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -343,7 +338,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184072
-
 - id: c-184341
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -369,7 +363,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200991
-
 - id: c-184342
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -389,7 +382,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200992
-
 - id: c-184343
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -410,7 +402,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200993
-
 ## Ryšiai
 - Paskyrė Glapą: [[objektai/grupes/Varmiai]]
 - Glapas užėmė [[objektai/vietos/Brandenburgo pilis]]

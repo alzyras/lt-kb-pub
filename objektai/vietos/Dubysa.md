@@ -119,7 +119,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163458
-
+    - c-163470
 <a id="claim-t-179809"></a>
 - t-005
   global_id: t-179809
@@ -419,6 +419,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171576
+    - c-016
 - susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
 - susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97458|Kaributas]]: Kaributas pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.
@@ -547,8 +548,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022
-
+    - t-188687
 ## Citatos
 
 - id: c-37358
@@ -570,7 +570,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179807
-
 - id: c-163454
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -592,7 +591,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindzia:
     - t-179809
     - t-179824
-
 - id: c-163456
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -624,8 +622,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-179812
-
+    - t-179819
 - id: c-163457
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -651,7 +648,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindzia:
     - t-179816
     - t-179817
-
 - id: c-163458
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -672,7 +668,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179808
-
 - id: c-163459
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -717,7 +712,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179814
-
 - id: c-163460
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -737,7 +731,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindzia:
     - t-179806
     - t-179823
-
 - id: c-163463
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -757,7 +750,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179822
-
 - id: c-163464
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -777,7 +769,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindzia:
     - t-179813
     - t-179820
-
 - id: c-163467
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -800,7 +791,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179818
-
 - id: c-163469
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -825,7 +815,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindzia:
     - t-179804
     - t-179826
-
 - id: c-163470
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -864,7 +853,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179821
-
 - id: c-163474
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -886,7 +874,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179815
-
 - id: c-168310
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -913,7 +900,6 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184949
-
 - id: c-171576
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

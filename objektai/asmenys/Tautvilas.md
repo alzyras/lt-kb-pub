@@ -275,7 +275,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-180031
-
+    - c-111042
 <a id="claim-t-201036"></a>
 - t-015
   global_id: t-201036
@@ -329,7 +329,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-121172
-
 - id: c-42260
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -347,7 +346,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-121176
-
 - id: c-111042
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -398,7 +396,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-121175
-
+    - t-198237
 - id: c-111044
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -418,7 +416,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-121173
-
 - id: c-168201
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -446,7 +443,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   pagrindzia:
     - t-184840
     - t-196598
-
 - id: c-176613
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -466,7 +462,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193988
-
 - id: c-176616
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -489,7 +484,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196871
-
 - id: c-178788
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -521,7 +515,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   pagrindzia:
     - t-196599
     - t-198228
-
 - id: c-178951
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -543,7 +536,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196870
-
 - id: c-180024
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -573,7 +565,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198232
-
 - id: c-180026
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -651,7 +642,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198230
-
 - id: c-180030
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -718,7 +708,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-198237
-
 - id: c-180032
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -765,7 +754,6 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201036
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Sąjungininkai: [[objektai/grupes/Rygos vokiečiai]]

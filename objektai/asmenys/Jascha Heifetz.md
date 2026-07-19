@@ -99,6 +99,5 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26445
-
 ## Ryšiai
 - Jascha Heifetz gimė [[objektai/vietos/Vilnius]]

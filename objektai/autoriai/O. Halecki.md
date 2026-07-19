@@ -214,7 +214,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179564
-
 - id: c-163238
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -233,7 +232,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179562
-
 - id: c-163239
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -255,7 +253,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179558
-
 - id: c-163240
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -275,7 +272,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179557
-
 - id: c-163241
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -301,7 +297,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179561
-
 - id: c-163242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -319,7 +314,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179562
-
 - id: c-163243
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -339,7 +333,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179563
-
 - id: c-163244
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -361,7 +354,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179559
-
 - id: c-163245
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

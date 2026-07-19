@@ -150,7 +150,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   pagrindzia:
     - t-186007
     - t-196540
-
 - id: c-169369
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -185,7 +184,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   pagrindzia:
     - t-186008
     - t-196541
-
 - id: c-178753
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -214,7 +212,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196539
-
 - id: c-178754
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

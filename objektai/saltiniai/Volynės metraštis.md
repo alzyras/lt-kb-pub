@@ -52,7 +52,7 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   semantiniai_rysiai: "Mstivojus užėmė Pomeranija (0.74)"
   pagrindžia:
     - c-61646
-
+    - c-001
 <a id="claim-t-61015"></a>
 - t-002
   global_id: t-61015
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė buvo nutrūkusi; citata pagrindžia pavadinimo formą metraštyje."
   pagrindžia:
     - c-61647
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.'
@@ -91,8 +91,7 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61014
 - c-002
   santrauka: 'Volynės metraštyje teritorija Crasim minima forma Krismence.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,8 +105,7 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-61015
 ## Citatos
 
 - id: c-61646
@@ -135,7 +133,6 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61014
-
 - id: c-61647
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

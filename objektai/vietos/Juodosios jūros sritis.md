@@ -86,7 +86,6 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28525
-
 - id: c-167756
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

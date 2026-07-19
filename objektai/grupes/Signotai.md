@@ -50,6 +50,7 @@ Narbutas Signotus apibūdina kaip Atrimpo arba Gardaičio žynius, kurių pavadi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172351
+    - c-001
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189977|Kristoforas Hartknochas]]: Pasak Hartknocho, senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją, todėl signotai buvo laikomi vienuoliais.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189978|Kristoforas Hartknochas]]: Narbutas rašo, kad Hartknochas signotus aiškino kaip bendruomenėje su tam tikromis teisėmis gyvenusius dvasininkus.
 - susijęs iš [[objektai/zodynas/Signotai Signotas.md#claim-t-189209|Signotai Signotas]]: Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių būta pajūrio srityse.
@@ -73,8 +74,7 @@ Narbutas Signotus apibūdina kaip Atrimpo arba Gardaičio žynius, kurių pavadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189464
 ## Citatos
 
 - id: c-172351

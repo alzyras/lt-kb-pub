@@ -14,6 +14,8 @@ import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
 import { BuildCtx, WorkerSerializableBuildCtx } from "../util/ctx"
 import { styleText } from "util"
+import { isObjectPage } from "../util/citationFilter"
+import { collectEvidenceIntegrityIssues } from "../util/evidenceIntegrity"
 
 export type QuartzMdProcessor = Processor<MDRoot, MDRoot, MDRoot>
 export type QuartzHtmlProcessor = Processor<undefined, MDRoot, HTMLRoot>
@@ -93,6 +95,23 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
 
         // strip leading and trailing whitespace
         file.value = file.value.toString().trim()
+
+        const relativePath = path.posix.relative(argv.directory, fp)
+        if (isObjectPage(relativePath)) {
+          const integrityErrors = collectEvidenceIntegrityIssues(file.value.toString()).filter(
+            (issue) => issue.severity === "error",
+          )
+          if (integrityErrors.length > 0) {
+            const summary = integrityErrors
+              .slice(0, 8)
+              .map(
+                (issue) =>
+                  `${issue.code}:${issue.entryId}${issue.relatedId ? `->${issue.relatedId}` : ""}`,
+              )
+              .join(", ")
+            throw new Error(`Evidence integrity failed for ${relativePath}: ${summary}`)
+          }
+        }
 
         // Text -> Text transforms
         for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {

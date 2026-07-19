@@ -75,7 +75,6 @@ Vartojamos formos: `ūkės vilkėjomis`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07653
-
 - id: c-09585
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"

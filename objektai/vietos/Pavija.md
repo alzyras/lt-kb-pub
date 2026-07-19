@@ -110,7 +110,6 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
   pagrindzia:
     - t-192849
     - t-197906
-
 - id: c-175620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -129,6 +128,5 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192850
-
 ## Ryšiai
 - Apgulė Paviją: [[objektai/asmenys/Odoakras]]

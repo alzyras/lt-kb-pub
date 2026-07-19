@@ -71,7 +71,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60369
-
+    - c-002
 <a id="claim-t-59737"></a>
 - t-002
   global_id: t-59737
@@ -173,9 +173,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-006
-
 - c-002
   santrauka: 'Skomantas su visais savo namais bei šeimyna pasidavė krikščionių tikėjimui ir broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -194,8 +191,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59736
 ## Citatos
 
 - id: c-60368
@@ -222,7 +218,6 @@ Nenurodyta
   pagrindzia:
     - t-59738
     - t-196984
-
 - id: c-60369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -246,7 +241,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59736
-
 - id: c-60370
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -49,6 +49,7 @@ Pasak Narbuto cituojamo Plutarcho, atėniečių prijaukinti žalčiai dalyvaudav
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172400
+    - c-001
 - susijęs iš [[objektai/autoriai/Plutarchas.md#claim-t-190402|Plutarchas]]: Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei.
 - susijęs iš [[objektai/grupes/Romėnai.md#claim-t-188326|Romėnai]]: Narbutas nurodė, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu.
 - susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189372|Senovės romėnai]]: Narbutas rašo, kad romėnai turėjo dievaitį Famulą, kuris žmonėms apsireikšdavo žalčiu.
@@ -69,8 +70,7 @@ Pasak Narbuto cituojamo Plutarcho, atėniečių prijaukinti žalčiai dalyvaudav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189512
 ## Citatos
 
 - id: c-172400

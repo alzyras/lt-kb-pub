@@ -377,7 +377,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184225
-
 - id: c-166023
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -407,7 +406,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182593
-
 - id: c-166024
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -427,7 +425,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182592
-
 - id: c-166025
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -450,7 +447,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182594
-
 - id: c-166572
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -467,7 +463,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183185
-
 - id: c-176242
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

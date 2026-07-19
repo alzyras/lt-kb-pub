@@ -121,7 +121,6 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79348
-
 - id: c-166410
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -140,7 +139,6 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183017
-
 - id: c-176419
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

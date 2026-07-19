@@ -49,7 +49,7 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172098
-
+    - c-001
 <a id="claim-t-189211"></a>
 - t-002
   global_id: t-189211
@@ -113,7 +113,7 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172101
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo manymu, kilo visuomeninis gyvenimas ir religinės vizijos.'
@@ -138,8 +138,7 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189210
 - c-004
   santrauka: 'Narbutas nurodo, kad Vilniuje šventasis miškas buvęs prie Vilnios ir Neries santakos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -154,8 +153,7 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-189213
 ## Citatos
 
 - id: c-172098
@@ -189,7 +187,6 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189210
-
 - id: c-172099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -215,7 +212,6 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189211
-
 - id: c-172100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -237,7 +233,6 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189212
-
 - id: c-172101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

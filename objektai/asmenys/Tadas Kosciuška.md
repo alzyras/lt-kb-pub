@@ -128,7 +128,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82740
-
 - id: c-79180
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -147,7 +146,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82742
-
 - id: c-79181
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -175,7 +173,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82738
-
 - id: c-79183
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

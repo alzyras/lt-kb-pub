@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia tikėjimą, kuriuo citatoje grindžiamos šv. Kazimierui priskirtos pergalės."
   pagrindžia:
     - c-23300
-
+    - c-166678
 ## Citatos
 
 - id: c-23300
@@ -93,7 +93,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20576
-
 - id: c-166678
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -110,7 +110,6 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88170
-
 - id: c-84150
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

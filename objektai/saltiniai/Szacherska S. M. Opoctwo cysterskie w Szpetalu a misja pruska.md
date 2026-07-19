@@ -53,7 +53,7 @@ Dusburgietis teigia, kad szacherska S.
   temporalinis_llm_pakomentavimas: "Citata patvirtina autorę, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61936
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'S. M. Szacherskos veikalas „Opoctwo cysterskie w Szpetalu a misja pruska“ išleistas Varšuvoje 1960 m.'
@@ -67,8 +67,7 @@ Dusburgietis teigia, kad szacherska S.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61304
 ## Citatos
 
 - id: c-61936

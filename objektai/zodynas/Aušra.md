@@ -49,6 +49,7 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172167
+    - c-001
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188557|Janas Lasickis]]: Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.
 - susijęs iš [[objektai/asmenys/Konstantinas Sirvydas.md#claim-t-188573|Konstantinas Sirvydas (kunigas, XVII a.)]]: Narbutas nurodo, kad kunigas Konstantinas Sirvydas Aušrą vadino Aurora.
 - susijęs iš [[objektai/zodynas/Bežlėja Vakarinė.md#claim-t-189280|Bežlėja Vakarinė]]: Pasak Lasickio, Bežlėja, kitaip Vakarinė, buvo vakaro deivė, kartu su Aušra tarnavusi saulei.
@@ -75,8 +76,7 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189279
 ## Citatos
 
 - id: c-172167

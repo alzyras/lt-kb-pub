@@ -90,7 +90,6 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67581
-
 - id: c-67430
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

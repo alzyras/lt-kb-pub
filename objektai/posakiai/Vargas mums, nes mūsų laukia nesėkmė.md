@@ -45,7 +45,7 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59798
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvių kariuomenei grįžtant, burtus metęs lietuvis sušuko: „Vargas mums, nes mūsų laukia nesėkmė.“'
@@ -64,8 +64,7 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-59166
 ## Citatos
 
 - id: c-59798

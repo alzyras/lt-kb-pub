@@ -102,7 +102,6 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30591
-
 - id: c-32913
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

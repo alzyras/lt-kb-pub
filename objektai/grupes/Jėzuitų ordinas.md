@@ -105,7 +105,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą."
   pagrindžia:
     - c-156531
-
+    - c-156544
 <a id="claim-t-172110"></a>
 - t-004
   global_id: t-172110
@@ -125,7 +125,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis ir susietas su jėzuitų ordino švietimo sistema."
   pagrindžia:
     - c-156532
-
+    - c-156548
 <a id="claim-t-172112"></a>
 - t-005
   global_id: t-172112
@@ -641,7 +641,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172110
-
 - id: c-156535
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -660,7 +659,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172113
-
 - id: c-156536
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -683,7 +681,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172118
-
 - id: c-156537
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -706,7 +703,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172117
-
 - id: c-156539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -728,7 +724,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindzia:
     - t-172126
     - t-172127
-
 - id: c-156541
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -749,7 +744,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172129
-
 - id: c-156542
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -773,7 +767,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172115
-
 - id: c-156543
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -798,7 +791,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172112
-
 - id: c-156544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -827,8 +819,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-172109
-
+    - t-172132
 - id: c-156545
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -850,7 +841,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172130
-
 - id: c-156546
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -874,7 +864,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172108
-
 - id: c-156548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -918,7 +907,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172119
-
 - id: c-156550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -946,7 +934,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172120
-
 - id: c-156551
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -966,7 +953,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172131
-
 - id: c-156552
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -991,7 +977,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172122
-
 - id: c-156553
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1010,7 +995,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindzia:
     - t-172107
     - t-172128
-
 - id: c-167207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1031,7 +1015,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183822
-
 - id: c-171092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1051,7 +1034,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188198
-
 - id: c-171093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1071,7 +1053,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188199
-
 - id: c-171094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1094,7 +1075,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188200
-
 - id: c-171095
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1117,7 +1097,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188201
-
 - id: c-171096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1144,7 +1123,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188202
-
 - id: c-171097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1163,7 +1141,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188203
-
 - id: c-175858
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1182,7 +1159,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193094
-
 - id: c-176042
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1208,7 +1184,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193314
-
 - id: c-176967
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1238,7 +1213,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194567
-
 - id: c-184101
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1262,6 +1236,5 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200756
-
 ## Ryšiai
 - Jėzuitų ordinas keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

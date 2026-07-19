@@ -182,7 +182,6 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94356
-
 - id: c-89489
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -202,7 +201,6 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94357
-
 - id: c-89490
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -224,7 +222,6 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94355
-
 - id: c-89491
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -245,7 +242,6 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-94354
-
 - id: c-168364
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -283,6 +279,5 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185003
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Zemislovas]]

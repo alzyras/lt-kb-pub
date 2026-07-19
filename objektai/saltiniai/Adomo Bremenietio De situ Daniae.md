@@ -54,7 +54,7 @@ Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusios krašt
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174648
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusios kraštu, bet jo nepriskyrė Prūsijos provincijoms.'
@@ -75,8 +75,7 @@ Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusios krašt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191766
 ## Citatos
 
 - id: c-174648

@@ -66,7 +66,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174596
-
+    - c-001
 <a id="claim-t-191918"></a>
 - t-002
   global_id: t-191918
@@ -116,7 +116,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174801
-
+    - c-003
 <a id="claim-t-193594"></a>
 - t-004
   global_id: t-193594
@@ -161,8 +161,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191714
 - c-003
   santrauka: 'Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -182,8 +181,7 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191919
 ## Citatos
 
 - id: c-174596
@@ -210,7 +208,6 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   pagrindzia:
     - t-191714
     - t-197670
-
 - id: c-174800
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -237,7 +234,6 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191918
-
 - id: c-174801
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -264,7 +260,6 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191919
-
 - id: c-176269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -140,7 +140,6 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195005
-
 - id: c-177386
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -167,7 +166,6 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   pagrindzia:
     - t-195004
     - t-196559
-
 - id: c-177387
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -193,7 +191,6 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195002
-
 - id: c-177388
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -214,7 +211,6 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195003
-
 - id: c-178765
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

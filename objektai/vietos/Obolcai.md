@@ -41,7 +41,7 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168654
-
+    - c-001
 <a id="claim-t-193452"></a>
 - t-002
   global_id: t-193452
@@ -54,7 +54,7 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168654
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandras, sužinojęs apie pralaimėjimą prie Bobro upės, įtaisė karo stovyklą Obolcuose.'
@@ -76,9 +76,8 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-185293
+    - t-193452
 ## Citatos
 
 - id: c-168654

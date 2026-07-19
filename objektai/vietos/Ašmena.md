@@ -514,7 +514,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176933
-
 - id: c-31954
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -535,7 +534,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindzia:
     - t-176936
     - t-176944
-
 - id: c-160874
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -557,7 +555,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176941
-
 - id: c-160875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -581,7 +578,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176937
-
 - id: c-160876
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -612,7 +608,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindzia:
     - t-176950
     - t-176954
-
 - id: c-160877
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -630,7 +625,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176943
-
 - id: c-160880
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -652,7 +646,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176947
-
 - id: c-160881
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -675,7 +668,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176953
-
 - id: c-160882
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -703,7 +695,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindzia:
     - t-176932
     - t-176945
-
 - id: c-160883
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -735,7 +726,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindzia:
     - t-176939
     - t-176942
-
 - id: c-160888
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -785,7 +775,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176952
-
 - id: c-160891
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -807,7 +796,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176938
-
 - id: c-160892
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -826,7 +814,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176948
-
 - id: c-168286
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -850,7 +837,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184925
-
 - id: c-175917
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -873,7 +859,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193168
-
 ## Ryšiai
 - Užėmė Ašmeną: [[objektai/asmenys/Švitrigaila]]
 - Ašmena priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

@@ -69,8 +69,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Kilmės aiškinimas paliktas su Narbuto atribucija. Pašalinti puslapio numerio ir OCR triukšmo fragmentai.'
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Rogės|Rogės]]; mentioned_place: Kaimas'
   pagrindžia:
-    - c-172748
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Ragučio vardą kildino iš žodžio „Ragutas“, nes per vasario šventę dievo stabas ar atvaizdas būdavo vežiojamas rogėmis.'
@@ -98,8 +97,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189865
 ## Citatos
 
 - id: c-177029

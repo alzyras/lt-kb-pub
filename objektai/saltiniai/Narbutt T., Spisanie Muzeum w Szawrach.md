@@ -59,8 +59,7 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
   sudarymo_pagrindimas: 'Patikslintas muziejaus pavadinimas pagal citatą ir pašalinta perteklinė nuoroda į Narbutą. Nepridėta duomenų apie konkrečius radinius.'
   susije_objektai: 'mentioned_place: Viena; mentioned_place: Šaurų dvaras'
   pagrindžia:
-    - c-174587
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Obelių kapinyno radiniai Saurų dvaro muziejuje užėmė vieną garbingiausių vietų.'
@@ -79,8 +78,7 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191705
 ## Citatos
 
 - id: c-174586

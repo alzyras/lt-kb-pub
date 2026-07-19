@@ -76,7 +76,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Reikia pakeisti neaiškų įvardį konkrečiu asmeniu ir sutrumpinti sakinį."
   pagrindžia:
     - c-43153
-
+    - c-167082
 <a id="claim-t-67077"></a>
 - t-002
   global_id: t-67077
@@ -119,7 +119,6 @@ Nenurodyta
   pagrindzia:
     - t-67075
     - t-67077
-
 - id: c-167082
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

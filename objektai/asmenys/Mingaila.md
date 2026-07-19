@@ -173,7 +173,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   sudarymo_pagrindimas: 'Pašalintas perteklinis deivės titulas, paliekant aiškų įvykį apie Mingailą. Nepridėtas vėlesnis statulėlės sunaikinimas, nes jis yra atskiras veiksmas.'
   susije_objektai: 'mentioned_place: Kaunas; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
-    - c-173804
+    - c-005
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
@@ -205,8 +205,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190922
 ## Citatos
 
 - id: c-83771
@@ -230,7 +229,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87792
-
 - id: c-168151
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -276,7 +274,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184790
-
 - id: c-168152
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -300,7 +297,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184791
-
 - id: c-171474
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -324,7 +320,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188585
-
 - id: c-179180
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -345,7 +340,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197426
-
 - id: c-179181
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -365,7 +359,6 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197427
-
 - id: c-184366
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -385,6 +378,5 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201016
-
 ## Ryšiai
 - Mingaila puolė [[objektai/grupes/Polockiečiai]]

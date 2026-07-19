@@ -114,7 +114,6 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63788
-
 - id: c-173783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -135,7 +134,6 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190901
-
 - id: c-179331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

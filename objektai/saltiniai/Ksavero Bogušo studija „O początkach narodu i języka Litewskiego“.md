@@ -64,4 +64,4 @@ Narbutas Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę mini ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-190513

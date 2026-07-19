@@ -46,7 +46,7 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59307
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ašeradė) Akmena (Jūros intakas), u.'
@@ -61,8 +61,7 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58675
 ## Citatos
 
 - id: c-59307

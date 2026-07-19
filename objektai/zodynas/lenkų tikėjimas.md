@@ -64,4 +64,4 @@ Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-187551

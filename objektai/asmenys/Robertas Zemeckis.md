@@ -84,6 +84,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19204
-
 ## Ryšiai
 - Robertas Zemeckis gimė [[objektai/vietos/Čikaga]]

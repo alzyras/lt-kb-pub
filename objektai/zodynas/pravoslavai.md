@@ -106,7 +106,6 @@ media_all_json: |-
   pagrindzia:
     - t-11775
     - t-11777
-
 - id: c-14706
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

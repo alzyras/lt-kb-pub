@@ -70,6 +70,7 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174049
+    - c-002
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192400|Gotai]]: Narbutas mini senovės tyrinėtojų nuomonę, kad gotai buvo giminingi alanams dar asų arba Odino amžiuje.
 - susijęs iš [[objektai/grupes/Skitai.md#claim-t-192461|Skitai]]: Narbutas rašė, kad Šiaurės tautų sagos skandinavų protėvių atvykimą siejo su Skitijos puse ir Odino vadovavimu.
 - susijęs iš [[objektai/grupes/Keltai.md#claim-t-192985|Keltai]]: Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovės Šiaurės Europos tautoms.
@@ -96,8 +97,7 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191167
 ## Citatos
 
 - id: c-174048
@@ -122,7 +122,6 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191166
-
 - id: c-174049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -61,7 +61,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173941
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto perteikiamame mite Fajetono bičiulis Cignas iš sielvarto virto gulbinu Eridano ežere.'
@@ -82,8 +82,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191059
 ## Citatos
 
 - id: c-173941

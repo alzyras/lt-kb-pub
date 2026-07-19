@@ -150,7 +150,6 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32381
-
 - id: c-32261
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -170,7 +169,6 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32382
-
 - id: c-33961
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -191,7 +189,6 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32383
-
 - id: c-33962
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -211,7 +208,6 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32384
-
 ## Ryšiai
 - Puolė Nalšėnai: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/grupes/Pskoviečiai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]

@@ -94,7 +94,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pakankamai tiksliai perteikia citatos faktą."
   pagrindžia:
     - c-169102
-
+    - c-169101
 ## Citatos
 
 - id: c-169101
@@ -127,7 +127,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185740
-
+    - t-185741
 - id: c-169102
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

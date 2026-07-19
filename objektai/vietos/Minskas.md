@@ -293,7 +293,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-168411
-
+    - c-014
 <a id="claim-t-185051"></a>
 - t-015
   global_id: t-185051
@@ -443,8 +443,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-
+    - t-185050
 ## Citatos
 
 - id: c-43646
@@ -475,7 +474,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180324
-
 - id: c-163943
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -496,7 +494,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180332
-
 - id: c-163944
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -520,8 +517,7 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-180321
-
+    - t-180329
 - id: c-163945
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -540,7 +536,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180320
-
 - id: c-163947
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -567,7 +562,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180323
-
 - id: c-163948
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -587,7 +581,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180326
-
 - id: c-163949
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -611,7 +604,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180319
-
 - id: c-163950
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -657,7 +649,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180328
-
 - id: c-163951
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -680,7 +671,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180333
-
 - id: c-163953
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -706,7 +696,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180322
-
 - id: c-163956
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -727,7 +716,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-180330
-
 - id: c-168409
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -757,7 +745,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185048
-
 - id: c-168410
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -783,7 +770,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185049
-
 - id: c-168411
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -814,7 +800,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185050
-
 - id: c-168412
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -835,6 +820,5 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185051
-
 ## Ryšiai
 - Užėmė Minską: [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]]

@@ -119,7 +119,6 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58747
-
 - id: c-184127
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -140,6 +139,5 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200782
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Zigfridas iš Foichtvangeno]]

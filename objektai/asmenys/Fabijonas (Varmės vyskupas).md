@@ -95,6 +95,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87667
-
 ## Ryšiai
 - Paskyrė Fabijoną (Varmės vyskupas): [[objektai/grupes/Varmės kapitula]]

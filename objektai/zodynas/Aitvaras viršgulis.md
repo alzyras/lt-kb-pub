@@ -135,9 +135,6 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-004
-
 ## Citatos
 
 - id: c-171998
@@ -162,7 +159,6 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
   pagrindzia:
     - t-189110
     - t-197356
-
 - id: c-171999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -186,7 +182,6 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
   pagrindzia:
     - t-189111
     - t-197357
-
 - id: c-172000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

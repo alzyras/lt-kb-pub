@@ -174,7 +174,6 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195247
-
 - id: c-177614
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -192,7 +191,6 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195250
-
 - id: c-177615
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -210,7 +208,6 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195249
-
 - id: c-177616
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -233,7 +230,6 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195251
-
 - id: c-177617
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"
@@ -251,7 +247,6 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195252
-
 - id: c-177618
   autorius: "A. Sabaliauskas"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — A. Sabaliauskas, „A. a. prof. A. R. Niemi“"

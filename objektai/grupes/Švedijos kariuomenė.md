@@ -114,7 +114,6 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41213
-
 - id: c-44881
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -136,7 +135,6 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41214
-
 ## Ryšiai
 - Švedijos kariuomenė apgulė [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
 - Švedijos kariuomenė užėmė [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Paidė]], [[objektai/vietos/Viljandis]]

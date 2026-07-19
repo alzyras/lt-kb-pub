@@ -128,7 +128,6 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171548
-
 - id: c-11233
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -144,7 +143,6 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171549
-
 - id: c-167090
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -180,7 +178,6 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171550
-
 - id: c-179004
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

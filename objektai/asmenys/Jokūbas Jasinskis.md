@@ -130,7 +130,6 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63710
-
 - id: c-21732
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -150,7 +149,6 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63711
-
 - id: c-42007
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -181,7 +179,6 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63708
-
 - id: c-176417
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -201,6 +198,5 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193759
-
 ## Ryšiai
 - Jokūbas Jasinskis mirė [[objektai/vietos/Varšuva]]

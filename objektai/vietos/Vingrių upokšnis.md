@@ -93,7 +93,6 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86265
-
 - id: c-82244
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

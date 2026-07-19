@@ -133,7 +133,6 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
   pagrindzia:
     - t-192141
     - t-192142
-
 - id: c-175347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

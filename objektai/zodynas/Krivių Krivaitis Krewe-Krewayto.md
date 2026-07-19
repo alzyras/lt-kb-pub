@@ -50,7 +50,7 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172152
-
+    - c-001
 <a id="claim-t-194686"></a>
 - t-002
   global_id: t-194686
@@ -64,7 +64,7 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177083
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiškusiu žynių žynį.'
@@ -85,8 +85,7 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189264
 - c-002
   santrauka: 'Pasak jo, Kre ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego rijos teisėjais arba žyniais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -104,8 +103,7 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194686
 ## Citatos
 
 - id: c-172152
@@ -133,7 +131,6 @@ Narbutas „Krewe-Krewejto“ laiko tiksliu vyriausiojo žynio pavadinimu, reiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189264
-
 - id: c-177083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

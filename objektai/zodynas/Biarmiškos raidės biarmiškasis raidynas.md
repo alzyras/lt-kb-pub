@@ -63,4 +63,4 @@ Narbutas rašo, kad mažo sidabrinio pinigėlio įdubusioje pusėje užrašas bi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-189355

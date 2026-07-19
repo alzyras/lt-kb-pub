@@ -310,7 +310,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-160234
-
+    - c-167714
 <a id="claim-t-176211"></a>
 - t-015
   global_id: t-176211
@@ -563,8 +563,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023
-
 ## Citatos
 
 - id: c-10308
@@ -582,7 +580,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08355
-
 - id: c-10309
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -603,7 +600,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08356
-
 - id: c-10310
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -621,7 +617,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08357
-
 - id: c-14345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -640,7 +635,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12340
-
 - id: c-14349
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -656,7 +650,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12344
-
 - id: c-36751
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -679,7 +672,6 @@ Nenurodyta
   pagrindzia:
     - t-12341
     - t-176212
-
 - id: c-42581
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -700,7 +692,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10167
-
 - id: c-42582
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -722,7 +713,6 @@ Nenurodyta
   pagrindzia:
     - t-10168
     - t-176211
-
 - id: c-160234
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -739,7 +729,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176210
-
 - id: c-160235
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -758,7 +747,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176213
-
 - id: c-160236
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -778,7 +766,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12343
-
 - id: c-160237
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -799,7 +786,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176214
-
 - id: c-160238
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -832,7 +818,6 @@ Nenurodyta
   pagrindzia:
     - t-10166
     - t-176217
-
 - id: c-160239
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -856,7 +841,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176216
-
 - id: c-160240
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -873,7 +857,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176206
-
 - id: c-160241
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -891,7 +874,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176207
-
 - id: c-160245
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -911,7 +893,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176209
-
 - id: c-160246
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -935,7 +916,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176215
-
 - id: c-167714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

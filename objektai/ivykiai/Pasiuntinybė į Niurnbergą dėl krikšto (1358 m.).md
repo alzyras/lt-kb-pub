@@ -118,7 +118,6 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66816
-
 - id: c-14180
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

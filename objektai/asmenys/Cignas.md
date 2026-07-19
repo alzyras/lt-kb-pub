@@ -50,6 +50,7 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174264
+    - c-001
 - susijęs iš [[objektai/ivykiai/Fajetono kritimas į Eridaną ir Heliadų virtimas.md#claim-t-191059|Fajetono kritimas į Eridaną ir Heliadų virtimas]]: Narbuto perteikiamame mite Fajetono bičiulis Cignas iš sielvarto virto gulbinu Eridano ežere.
 - susijęs iš [[objektai/asmenys/Radlofas.md#claim-t-191974|Radlofas]]: Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų.
 - susijęs iš [[objektai/autoriai/Radlofas.md#claim-t-191618|Radlofas]]: Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius.
@@ -77,8 +78,7 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191382
 ## Citatos
 
 - id: c-174264

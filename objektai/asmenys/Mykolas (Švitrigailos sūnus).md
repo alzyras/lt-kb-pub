@@ -78,6 +78,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87798
-
 ## Ryšiai
 - Mykolas (Švitrigailos sūnus) mirė [[objektai/vietos/Maskva]]

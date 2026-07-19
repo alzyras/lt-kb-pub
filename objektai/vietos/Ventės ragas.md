@@ -103,6 +103,5 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
   pagrindzia:
     - t-80308
     - t-80309
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

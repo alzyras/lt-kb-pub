@@ -118,7 +118,6 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88167
-
 - id: c-84145
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -178,7 +177,6 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88165
-
 - id: c-84146
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

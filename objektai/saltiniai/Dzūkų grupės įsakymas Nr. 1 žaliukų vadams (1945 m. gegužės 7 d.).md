@@ -87,7 +87,6 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171529
-
 - id: c-11216
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

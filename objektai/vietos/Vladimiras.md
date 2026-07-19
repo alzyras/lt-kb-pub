@@ -164,7 +164,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194989
-
 - id: c-32556
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -182,7 +181,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181161
-
 - id: c-168565
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -214,7 +212,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185204
-
 - id: c-184466
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -241,7 +238,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201116
-
 ## Ryšiai
 - Apgulė Vladimirą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Užėmė Vladimirą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

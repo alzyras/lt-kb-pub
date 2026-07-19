@@ -107,7 +107,6 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41999
-
 - id: c-168438
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -164,6 +163,5 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185077
-
 ## Ryšiai
 - Užėmė Paidę: [[objektai/grupes/Švedijos kariuomenė]]

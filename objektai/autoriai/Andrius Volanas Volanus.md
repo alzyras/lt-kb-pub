@@ -93,7 +93,6 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88051
-
 - id: c-84031
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

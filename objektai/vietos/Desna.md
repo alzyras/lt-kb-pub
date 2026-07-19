@@ -147,8 +147,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
 - c-004
   santrauka: 'Narbutas Gero ir Hipakyrio upes tapatino su Desna ir Seimu, kurios, jo aiškinimu, susiliejusios įtekėdavo į Dnepro vagą netoli Kijevo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -169,8 +167,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
 - c-005
   santrauka: 'Narbutas aiškino, kad Pripetės vaga į kairiąją Dnepro šaką įsiliedavo priešais Desnos žiotis arba kiek žemiau.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -196,9 +192,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-006
-
 ## Citatos
 
 - id: c-02645
@@ -220,7 +213,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-02407
-
 - id: c-175406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -240,7 +232,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192636
-
 - id: c-175409
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

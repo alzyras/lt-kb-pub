@@ -83,7 +83,6 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67579
-
 - id: c-67428
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -104,7 +103,6 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67577
-
 - id: c-67429
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -83,7 +83,6 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03052
-
 - id: c-175902
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -75,6 +75,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163225
+    - c-002
 - susijęs iš [[objektai/autoriai/Jučas, M.md#claim-t-30718|Jučas, M]]: M. Jučas parašė 1959 m. Vilniuje išleistą darbą „Žalgirio mūšis“.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
 - susijęs iš Krikščionybės kelias Lietuvon: Z. Ivinskio „Krikščionybės kelias Lietuvon“ paskelbtas 1938 m. TK 5-ajame numeryje, p. 273–311.
@@ -100,8 +101,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-179550
 ## Citatos
 
 - id: c-22159
@@ -118,7 +118,6 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-179549
-
 - id: c-163225
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

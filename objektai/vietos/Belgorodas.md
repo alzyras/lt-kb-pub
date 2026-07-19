@@ -49,6 +49,7 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
   semantiniai_rysiai: "Gediminas užėmė Brianskas (0.94); Gediminas užėmė Perejeslavlis (0.94)"
   pagrindžia:
     - c-168640
+    - c-001
 - susijęs iš [[objektai/asmenys/Aleksandras Gvaninis.md#claim-t-191362|Aleksandras Gvaninis]]: Narbutas remiasi Aleksandru Gvaniniu, kuris Klerkei, arba Bialohrodo, pilį siejo su Belgorodo totorių vardu.
 - susijęs iš [[objektai/asmenys/Ksaveras Bogušas.md#claim-t-190916|Ksaveras Bogušas]]: Teodoro Narbuto teigimu, Ksaveras Bogušas lygino Belgorodo totorių herulišką dialektą su latviams artimu dialektu.
 - susijęs iš [[objektai/autoriai/Gotthard Friedrich Stender.md#claim-t-191624|Gotthard Friedrich Stender]]: Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
@@ -89,8 +90,7 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185279
 ## Citatos
 
 - id: c-168640

@@ -171,7 +171,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79042
-
 - id: c-76142
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -191,7 +190,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79043
-
 - id: c-76144
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -216,7 +214,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79047
-
 - id: c-76146
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -233,7 +230,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79046
-
 - id: c-76147
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -252,7 +248,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79044
-
 ## Ryšiai
 - Jonas Karolis Katkevičius keliavo į [[objektai/vietos/Livonija]]
 - Jonas Karolis Katkevičius kariavo prieš [[objektai/grupes/Švedai]]

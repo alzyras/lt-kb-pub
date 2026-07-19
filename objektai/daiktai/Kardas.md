@@ -264,7 +264,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92972
-
 - id: c-88397
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -286,7 +285,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92970
-
 - id: c-88398
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -307,7 +305,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92967
-
 - id: c-88399
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -326,7 +323,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92975
-
 - id: c-88400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -347,7 +343,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92969
-
 - id: c-88401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -365,7 +360,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92971
-
 - id: c-88402
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -387,7 +381,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92968
-
 - id: c-88404
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -409,7 +402,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92974
-
 - id: c-184290
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

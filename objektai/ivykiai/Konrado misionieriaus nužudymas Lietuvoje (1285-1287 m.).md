@@ -72,7 +72,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai atitinka citatą."
   pagrindžia:
     - c-62892
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė.'
@@ -90,8 +90,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62330
 ## Citatos
 
 - id: c-62892

@@ -106,7 +106,6 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30884
-
 - id: c-33083
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

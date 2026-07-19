@@ -103,7 +103,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173770
-
+    - c-003
 <a id="claim-t-190889"></a>
 - t-004
   global_id: t-190889
@@ -145,7 +145,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173772
-
+    - c-005
 <a id="claim-t-190892"></a>
 - t-007
   global_id: t-190892
@@ -166,7 +166,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173774
-
+    - c-007
 <a id="claim-t-190893"></a>
 - t-006
   global_id: t-190893
@@ -252,8 +252,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190888
 - c-004
   santrauka: 'Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -275,9 +274,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-    - t-010
-
 - c-005
   santrauka: 'III priede Narbutas pateikė Johano Foigto ištrauką apie dingusį Vitiemdijos kraštą ir Aistmarių ploto išsiplėtimą į rytus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -308,8 +304,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190890
 - c-007
   santrauka: 'Pasak Narbuto, Johanas Foigtas manė, kad Salavija senais pagonių laikais buvo kitas Lietuvos kraštas, vadintas Pusne.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -326,8 +321,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-190892
 ## Citatos
 
 - id: c-172915
@@ -351,7 +345,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190032
-
 - id: c-173769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -374,7 +367,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190887
-
 - id: c-173770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -397,7 +389,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190888
-
 - id: c-173771
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -425,7 +416,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   pagrindzia:
     - t-190889
     - t-197756
-
 - id: c-173772
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -456,7 +446,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190890
-
 - id: c-173774
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -479,7 +468,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190892
-
 - id: c-173775
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -504,7 +492,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   pagrindzia:
     - t-190893
     - t-197759
-
 - id: c-179327
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -525,7 +512,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197757
-
 - id: c-179328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

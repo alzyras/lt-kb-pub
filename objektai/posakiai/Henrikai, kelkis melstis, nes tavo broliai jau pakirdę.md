@@ -50,7 +50,7 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59726
-
+    - c-167413
 <a id="claim-t-197044"></a>
 - t-002
   global_id: t-197044
@@ -91,7 +91,6 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
   pagrindzia:
     - t-59094
     - t-197044
-
 - id: c-167413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

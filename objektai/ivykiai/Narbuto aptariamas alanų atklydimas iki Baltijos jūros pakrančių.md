@@ -63,8 +63,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Sakinys aiškiai perteikia Narbuto aiškinimą apie alanus, stavanus ir galindus. Interpretacinė dalis jau atribuuota, papildomų chronologinių detalių nepridėta.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_place: Europa; mentioned_place: Stavanija'
   pagrindžia:
-    - c-173914
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės.'
@@ -95,8 +94,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191032
 ## Citatos
 
 - id: c-179240

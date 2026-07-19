@@ -97,7 +97,7 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   temporalinis_llm_pakomentavimas: "Citata pagrindžia konkretų veiksmą, susijusį su pilimi."
   pagrindžia:
     - c-87482
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.'
@@ -122,8 +122,7 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-91841
 ## Citatos
 
 - id: c-87480
@@ -148,7 +147,6 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   pagrindzia:
     - t-91839
     - t-91840
-
 - id: c-87482
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

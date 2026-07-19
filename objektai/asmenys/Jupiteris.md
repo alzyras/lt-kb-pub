@@ -76,6 +76,5 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191424
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Targitas]]

@@ -79,6 +79,5 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58716
-
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Albrechtas (Pamedės vyskupas)]]

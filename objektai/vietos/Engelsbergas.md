@@ -95,7 +95,6 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58547
-
 - id: c-167537
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

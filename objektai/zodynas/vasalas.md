@@ -177,7 +177,6 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111384
-
 - id: c-102992
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -205,7 +204,6 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111385
-
 - id: c-102993
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -230,7 +228,6 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111383
-
 - id: c-102994
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -249,7 +246,6 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111382
-
 - id: c-102995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -269,7 +265,6 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111386
-
 - id: c-166385
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -54,6 +54,7 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
   temporalinis_llm_pakomentavimas: "Citata palaiko glaustą faktą apie Tolede rastą knygą."
   pagrindžia:
     - c-59370
+    - c-001
 - susijęs iš [[objektai/ivykiai/Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.).md#claim-t-91920|Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.)]]: 1232 m. Tolede žydas rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
 - susijęs iš Tolede surasta akmeninė knyga: Pasak Dusburgiečio kronikos, 1232 m. Tolede žydas rado akmenyje iškaltą knygą hebrajų, graikų ir lotynų kalbomis.
 - susijęs iš Ispanija: 1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.
@@ -79,8 +80,7 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58738
 ## Citatos
 
 - id: c-59370

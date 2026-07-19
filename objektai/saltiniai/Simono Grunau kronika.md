@@ -106,7 +106,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-175826
-
+    - c-002
 <a id="claim-t-193060"></a>
 - t-006
   global_id: t-193060
@@ -127,7 +127,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   temporalinis_llm_pakomentavimas: "Mitologinis apeigos pasakojimas suformuluotas kaip Narbuto perteikta Grunau žinia. Nepridėta platesnių išvadų apie lietuvių religiją ar išpažinties tikrumą."
   pagrindžia:
     - c-175827
-
+    - c-003
 <a id="claim-t-193061"></a>
 - t-007
   global_id: t-193061
@@ -189,8 +189,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-193059
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -206,8 +205,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-193060
 ## Citatos
 
 - id: c-175825
@@ -233,7 +231,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     - t-23411
     - t-23412
     - t-26928
-
 - id: c-175826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -268,7 +265,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   pagrindzia:
     - t-193059
     - t-197355
-
 - id: c-175827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -290,7 +286,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193060
-
 - id: c-175828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -310,7 +305,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193061
-
 - id: c-179009
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

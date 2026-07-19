@@ -42,6 +42,7 @@ Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172221
+    - c-001
 - susijęs iš [[objektai/zodynas/Žemės motina Sutektas mejtas.md#claim-t-189363|Žemės motina Sutektas mejtas]]: Narbutas Žemės motiną (Žemines Mahti) aprašo kaip požemio deivę, gyvenusią žemės viduryje, o Sutektas mejtas vadina jos nemariomis patarnautojomis.
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,8 +63,7 @@ Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189334
 ## Citatos
 
 - id: c-172221

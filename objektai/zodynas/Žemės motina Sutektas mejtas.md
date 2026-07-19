@@ -49,7 +49,7 @@ Narbutas Žemės motiną (Žemines Mahti) aprašo kaip požemio deivę, gyvenusi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172250
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Žemės motiną (Žemines Mahti) aprašo kaip požemio deivę, gyvenusią žemės viduryje, o Sutektas mejtas vadina jos nemariomis patarnautojomis.'
@@ -69,8 +69,7 @@ Narbutas Žemės motiną (Žemines Mahti) aprašo kaip požemio deivę, gyvenusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189363
 ## Citatos
 
 - id: c-172250

@@ -97,7 +97,6 @@ Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28672
-
 - id: c-178546
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -123,6 +122,5 @@ Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196127
-
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/grupes/Lenkai]]

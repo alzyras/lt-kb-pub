@@ -84,7 +84,7 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171798
-
+    - c-001
 <a id="claim-t-197482"></a>
 - t-002
   global_id: t-197482
@@ -142,8 +142,7 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188909
 ## Citatos
 
 - id: c-171798
@@ -166,7 +165,6 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188909
-
 - id: c-179212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -191,7 +189,6 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197482
-
 - id: c-179213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -220,7 +217,6 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197483
-
 - id: c-179214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

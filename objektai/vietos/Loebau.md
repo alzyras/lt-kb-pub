@@ -88,7 +88,6 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28395
-
 - id: c-167760
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

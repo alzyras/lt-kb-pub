@@ -130,7 +130,6 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-172045
-
 - id: c-167772
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -149,6 +148,5 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184407
-
 ## Ryšiai
 - Užėmė Zaslavlį: [[objektai/grupes/Totoriai]]

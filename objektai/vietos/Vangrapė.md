@@ -39,7 +39,7 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59281
-
+    - c-002
 <a id="claim-t-58649"></a>
 - t-002
   global_id: t-58649
@@ -49,6 +49,7 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59280
+    - c-001
 - susijęs iš [[objektai/autoriai/Basanavičius J.md#claim-t-64568|Basanavičius J]]: Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.
 - susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių.
 - susijęs iš Arsa: Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).
@@ -76,8 +77,7 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-58649
 - c-002
   santrauka: 'Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -92,8 +92,7 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58648
 ## Citatos
 
 - id: c-59280
@@ -117,7 +116,6 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58649
-
 - id: c-59281
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

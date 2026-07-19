@@ -260,7 +260,6 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86104
-
 - id: c-168494
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -290,7 +289,6 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185133
-
 - id: c-168495
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -322,7 +320,6 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   pagrindzia:
     - t-185134
     - t-196741
-
 - id: c-168496
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -361,7 +358,6 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185135
-
 - id: c-168497
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -397,7 +393,6 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185136
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kaributas]]
 - Buvo kelionės vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Kazimieras Jogailaitis]]

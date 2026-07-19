@@ -99,7 +99,6 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191806
-
 - id: c-174689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

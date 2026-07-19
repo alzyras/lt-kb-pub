@@ -123,9 +123,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-
 ## Citatos
 
 - id: c-173938
@@ -158,7 +155,6 @@ Nenurodyta
   pagrindzia:
     - t-191056
     - t-197561
-
 - id: c-173939
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -92,4 +92,4 @@ Aleksandravičius E., Kulakauskas A.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45593
-    - t-45594
+    - t-45595

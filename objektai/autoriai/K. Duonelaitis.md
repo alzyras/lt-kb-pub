@@ -102,7 +102,6 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-00047
-
 - id: c-00109
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

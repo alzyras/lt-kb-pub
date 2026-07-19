@@ -100,7 +100,6 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21933
-
 - id: c-171763
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -187,7 +187,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113192
-
 - id: c-104471
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -213,7 +212,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113191
-
 - id: c-167057
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -238,7 +236,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183665
-
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]]
 - Mongolai puolė [[objektai/vietos/Lietuva]]

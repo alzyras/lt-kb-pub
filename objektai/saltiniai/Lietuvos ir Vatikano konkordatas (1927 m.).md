@@ -97,7 +97,6 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75476
-
 - id: c-23876
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -122,4 +121,4 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-75474
+    - t-75475

@@ -98,7 +98,6 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171953
-
 - id: c-167017
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

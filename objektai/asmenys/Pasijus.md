@@ -50,7 +50,7 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174335
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu.'
@@ -72,8 +72,7 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191453
 ## Citatos
 
 - id: c-174335
@@ -99,6 +98,5 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191453
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Paiakas]]

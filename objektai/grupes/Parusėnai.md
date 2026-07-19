@@ -99,7 +99,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07846
-
 - id: c-10080
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -117,7 +116,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07846
-
 - id: c-10081
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -137,7 +135,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-07847
-
 ## Ryšiai
 - Puolė Parusėnai: [[objektai/grupes/Lenkai]]
 - Parusėnai kariavo prieš [[objektai/grupes/Vokiečiai]]

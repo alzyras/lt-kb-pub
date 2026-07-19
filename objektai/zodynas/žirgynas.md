@@ -78,7 +78,6 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-03238
-
 - id: c-03476
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

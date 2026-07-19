@@ -209,7 +209,6 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60003
-
 - id: c-60634
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -228,7 +227,6 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60000
-
 - id: c-60635
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -253,7 +251,6 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60001
-
 - id: c-167516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -275,7 +272,6 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60002
-
 - id: c-168198
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -314,7 +310,6 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   pagrindzia:
     - t-184837
     - t-196596
-
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Skaldonis]]
 - Surminas gynė [[objektai/vietos/Kolainiai]], [[objektai/vietos/Kolainių pilis|Kolainių pilis (pilis)]]

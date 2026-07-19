@@ -90,9 +90,6 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-59567

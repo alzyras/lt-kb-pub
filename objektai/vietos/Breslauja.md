@@ -179,7 +179,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - t-187201
     - t-187203
     - t-187204
-
 - id: c-170277
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -204,7 +203,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187202
-
 - id: c-170278
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -255,6 +253,5 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187205
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

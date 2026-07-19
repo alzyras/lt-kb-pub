@@ -280,7 +280,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-24428
-
+    - c-166474
 <a id="claim-t-178123"></a>
 - t-013
   global_id: t-178123
@@ -609,8 +609,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis laiko fragmentas, pridėta paremta data."
   vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
-    - c-182715
-
+    - c-43782
+    - c-161901
 <a id="claim-t-178148"></a>
 - t-031
   global_id: t-178148
@@ -712,7 +712,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182737
-
+    - c-182700
 <a id="claim-t-199803"></a>
 - t-058
   global_id: t-199803
@@ -736,7 +736,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182703
-
+    - c-041
 <a id="claim-t-199805"></a>
 - t-038
   global_id: t-199805
@@ -805,8 +805,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-182700
-
+    - c-027
 <a id="claim-t-199813"></a>
 - t-043
   global_id: t-199813
@@ -826,7 +825,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37678
-
+    - c-182732
 <a id="claim-t-199816"></a>
 - t-044
   global_id: t-199816
@@ -889,8 +888,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-182700
-
+    - c-027
 <a id="claim-t-199835"></a>
 - t-048
   global_id: t-199835
@@ -940,7 +938,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182737
-
+    - c-182700
 <a id="claim-t-199849"></a>
 - t-051
   global_id: t-199849
@@ -1241,9 +1239,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-    - t-014
-
+    - t-199812
+    - t-199831
 - c-040
   santrauka: 'Pskove Daumantas sėkmingai vadovavo pskoviečių jėgoms prieš Livoniją, o viena gynybinė siena vadinta jo vardu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1274,8 +1271,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-058
-
 - c-041
   santrauka: 'Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1298,8 +1293,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059
-
+    - t-199803
 ## Citatos
 
 - id: c-24425
@@ -1323,7 +1317,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-178113
     - t-178154
-
 - id: c-24426
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1344,7 +1337,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-178138
     - t-178148
-
 - id: c-24428
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1363,7 +1355,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178121
-
 - id: c-37678
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1384,7 +1375,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199813
-
 - id: c-43783
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1417,7 +1407,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-178132
     - t-178139
-
 - id: c-161891
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1440,7 +1429,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178103
-
 - id: c-161892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1459,7 +1447,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178112
-
 - id: c-161893
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1481,7 +1468,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-178145
     - t-178153
-
 - id: c-161895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1504,7 +1490,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178117
-
 - id: c-161896
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1521,7 +1506,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178109
-
 - id: c-161901
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1546,8 +1530,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178147
-
+    - t-178110
 - id: c-161902
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1585,7 +1568,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-178137
     - t-178142
-
 - id: c-161904
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1606,7 +1588,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178124
-
 - id: c-161905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1635,7 +1616,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-178128
     - t-178136
-
 - id: c-161910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1666,7 +1646,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-178125
     - t-178127
-
 - id: c-161915
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1695,7 +1674,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-178130
     - t-178134
-
 - id: c-161917
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1716,7 +1694,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178123
-
 - id: c-161920
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1736,7 +1713,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178105
-
 - id: c-161923
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1788,7 +1764,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-178135
     - t-178156
-
 - id: c-161925
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1812,8 +1787,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-178126
-
+    - t-178129
 - id: c-161928
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1834,7 +1808,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178143
-
 - id: c-161930
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1854,7 +1827,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178107
-
 - id: c-161931
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1875,7 +1847,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178116
-
 - id: c-161933
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1896,7 +1867,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178118
-
 - id: c-161935
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1920,7 +1890,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178120
-
 - id: c-161937
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1940,7 +1909,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178106
-
 - id: c-166474
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1996,9 +1964,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199812
-    - t-199831
-
+    - t-199797
+    - t-199839
 - id: c-182701
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2064,7 +2031,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199803
-
 - id: c-182704
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2138,7 +2104,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-199830
     - t-199849
-
 - id: c-182707
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2214,7 +2179,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-199805
     - t-199807
-
 - id: c-182712
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2297,7 +2261,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199816
-
 - id: c-182717
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2371,7 +2334,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-199823
     - t-199838
-
 - id: c-182721
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2586,8 +2548,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-199794
-
+    - t-199817
 - id: c-182730
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2613,7 +2574,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-199810
-
 - id: c-182731
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2678,7 +2638,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-199811
     - t-199835
-
 - id: c-182735
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2737,7 +2696,27 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindzia:
     - t-199797
     - t-199839
+- id: c-43782
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    ## Puslapis 95
 
+    Rugpjūčio pabaigoje jungtinės pajė-
+    gos pasiekė labai gerai įtvirtintą Pskovo
+    miestą. Pskovą juosė 9 km ilgio, 4-5 m sto-
+    rio ir 12 m aukščio išorinė mūro siena su
+    27 bokštais. Miesto viduje buvo Daumanto
+    kremlius - vidinė pilis, atskiros miesto
+    dalys taip pat buvo apjuostos gynybinėmis
+    sienomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178110
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Jurijus Vytutaitis]]
 - Puolė Pskovą: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

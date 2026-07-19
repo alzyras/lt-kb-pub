@@ -62,7 +62,8 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174970
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šalavijoje svarbesni reikalai buvo aptariami vyresniųjų susirinkimuose, o karo metu vadai skirti pagal vasalų kiekį ir tinkamumą.'
@@ -83,8 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192103
 - c-002
   santrauka: 'Šalavijoje svarbesni reikalai buvo aptariami vyresniųjų susirinkimuose, o karo metu vadai skirti pagal vasalų kiekį ir tinkamumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -111,8 +111,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192103
 ## Citatos
 
 - id: c-174970
@@ -140,7 +139,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192103
-
 - id: c-175303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

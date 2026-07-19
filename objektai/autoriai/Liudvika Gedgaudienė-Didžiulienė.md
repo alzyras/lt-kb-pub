@@ -85,7 +85,6 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64707
-
 - id: c-11415
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -109,7 +108,6 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64707
-
 - id: c-42434
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

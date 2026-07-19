@@ -49,6 +49,7 @@ Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip krait�
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174301
+    - c-001
 - susijęs iš [[objektai/asmenys/Flamoras.md#claim-t-191396|Flamoras]]: Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kaip kraitį jam davė Aldejaborgą bei jo apylinkes.
 - susijęs iš [[objektai/asmenys/Sturlaugas Darbštusis.md#claim-t-191472|Sturlaugas Darbštusis]]: Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nužudė Ingvarą, o Ingigerdą išleido už Flamoro.
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192042|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu.
@@ -81,8 +82,7 @@ Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip krait�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191419
 ## Citatos
 
 - id: c-174301
@@ -112,7 +112,6 @@ Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip krait�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191419
-
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Flamoras]]
 - Sutuoktiniai: [[objektai/asmenys/Flamoras]]

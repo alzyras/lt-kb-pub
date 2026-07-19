@@ -101,7 +101,6 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
   pagrindzia:
     - t-190368
     - t-197320
-
 - id: c-173252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

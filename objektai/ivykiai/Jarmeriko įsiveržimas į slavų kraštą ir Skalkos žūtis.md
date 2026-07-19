@@ -99,6 +99,5 @@ Nenurodyta
   pagrindzia:
     - t-191064
     - t-197542
-
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Jarmerikas]]

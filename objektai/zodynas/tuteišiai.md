@@ -88,7 +88,7 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-48525
-
+    - c-26787
 ## Citatos
 
 - id: c-26787
@@ -131,7 +131,6 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45859
-
 - id: c-48525
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

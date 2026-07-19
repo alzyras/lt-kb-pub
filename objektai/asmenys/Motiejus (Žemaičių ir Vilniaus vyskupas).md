@@ -151,7 +151,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176552
-
 - id: c-36470
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -171,7 +170,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176555
-
 - id: c-160555
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -193,7 +191,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176551
-
 - id: c-160556
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -214,7 +211,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176554
-
 - id: c-160558
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -45,6 +45,7 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61068
+    - c-001
 - susijęs iš [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą.md#claim-t-89366|Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]: Kitos Sūduvos dalies vadas Skurda su savo žmonėmis pasitraukė į Lietuvos žemę.
 - susijęs iš [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą.md#claim-t-89367|Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]: Gedetas su savo namais, šeimyna ir 1500 sūduvių pasitraukė pas brolius ir priėmė krikštą, o Skurda su žmonėmis išvyko į Lietuvą.
 ## Reikšmingi paminėjimai
@@ -65,8 +66,7 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60436
 ## Citatos
 
 - id: c-61068

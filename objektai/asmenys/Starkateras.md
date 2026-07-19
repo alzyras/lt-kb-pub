@@ -50,7 +50,7 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174199
-
+    - c-001
 <a id="claim-t-191318"></a>
 - t-002
   global_id: t-191318
@@ -129,8 +129,7 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191317
 ## Citatos
 
 - id: c-174199
@@ -160,7 +159,6 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191317
-
 - id: c-174200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -181,7 +179,6 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191318
-
 - id: c-174201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -203,6 +200,5 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191319
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sterverkas]]

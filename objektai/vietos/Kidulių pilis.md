@@ -55,7 +55,7 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171841
-
+    - c-001
 <a id="claim-t-188953"></a>
 - t-002
   global_id: t-188953
@@ -76,7 +76,7 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171842
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo labai seną mūro pilį.'
@@ -96,8 +96,7 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188952
 - c-002
   santrauka: 'Narbutas iliustracijų sąraše nurodė, kad Kidulių pilyje rasta lipdyta jo vadintos dievaitės Perkūnaitėlės statulėlė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -124,8 +123,7 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188953
 ## Citatos
 
 - id: c-171841
@@ -148,7 +146,6 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188952
-
 - id: c-171842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

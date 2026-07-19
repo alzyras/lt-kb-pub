@@ -106,7 +106,6 @@ Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61003
-
 - id: c-61635
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

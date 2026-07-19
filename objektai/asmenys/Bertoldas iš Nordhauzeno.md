@@ -46,6 +46,7 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
   semantiniai_rysiai: "Bertoldas iš Nordhauzeno gyveno Kulmas (0.93)"
   pagrindžia:
     - c-60883
+    - c-001
 - susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,8 +68,7 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60251
 ## Citatos
 
 - id: c-60883
@@ -94,6 +94,5 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60251
-
 ## Ryšiai
 - Bertoldas iš Nordhauzeno gyveno [[objektai/vietos/Kulmas]]

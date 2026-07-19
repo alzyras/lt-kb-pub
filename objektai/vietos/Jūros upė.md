@@ -68,7 +68,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171592
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Pajūrio kaimą, kurio fetišu vadino Dievaitį, tikriausiai lokalizavo Raseinių apskrityje prie Jūros upės.'
@@ -91,8 +91,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188703
 ## Citatos
 
 - id: c-28263
@@ -115,7 +114,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-28359
-
 - id: c-171592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

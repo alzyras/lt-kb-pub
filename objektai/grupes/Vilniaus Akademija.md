@@ -97,7 +97,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31370
-
 - id: c-33365
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

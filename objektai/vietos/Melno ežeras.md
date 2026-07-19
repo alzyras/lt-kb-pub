@@ -98,7 +98,6 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68691
-
 - id: c-68206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

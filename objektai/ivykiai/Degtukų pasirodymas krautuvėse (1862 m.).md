@@ -133,7 +133,6 @@ Nenurodyta
   pagrindzia:
     - t-195609
     - t-195610
-
 - id: c-178013
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

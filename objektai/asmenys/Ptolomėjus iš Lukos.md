@@ -56,7 +56,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, informatyvus ir paremtas citata."
   pagrindžia:
     - c-61053
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ptolomėjus iš Lukos buvo Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašęs bažnyčios istoriją „Analai“.'
@@ -73,8 +73,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60421
 ## Citatos
 
 - id: c-61053

@@ -43,7 +43,7 @@ Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia prid�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177163
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką: lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko miestas.'
@@ -64,8 +64,7 @@ Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia prid�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194767
 ## Citatos
 
 - id: c-177163

@@ -91,7 +91,6 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58671
-
 - id: c-59304
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

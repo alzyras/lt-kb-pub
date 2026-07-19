@@ -151,7 +151,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   pagrindzia:
     - t-195206
     - t-195208
-
 - id: c-177570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -174,7 +173,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195205
-
 - id: c-177571
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -196,7 +194,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195210
-
 - id: c-177572
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -224,7 +221,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195207
-
 - id: c-177573
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -249,7 +245,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195210
-
 - id: c-177574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

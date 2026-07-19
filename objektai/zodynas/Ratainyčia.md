@@ -49,6 +49,7 @@ Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172211
+    - c-001
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188558|Janas Lasickis]]: Narbutas cituoja Lasickio posakį „Kur tikėjimas, ten ir rezultatas“ prie Ratainyčios aprašymo.
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,8 +68,7 @@ Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189324
 ## Citatos
 
 - id: c-172211

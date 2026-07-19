@@ -42,7 +42,7 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177248
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas 5 Senas lietuviškų dainų vertimų rankraštis.'
@@ -61,8 +61,7 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194852
 ## Citatos
 
 - id: c-177248

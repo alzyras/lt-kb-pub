@@ -184,7 +184,6 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55069
-
 - id: c-55890
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -228,7 +227,6 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   pagrindzia:
     - t-55070
     - t-55071
-
 - id: c-55891
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -252,7 +250,6 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   pagrindzia:
     - t-55072
     - t-55073
-
 - id: c-78239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

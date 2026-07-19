@@ -48,7 +48,7 @@ Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169695
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu.'
@@ -74,8 +74,7 @@ Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186334
 ## Citatos
 
 - id: c-169695

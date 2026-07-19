@@ -715,7 +715,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
     - t-176088
     - t-176094
     - t-176103
-
 - id: c-160130
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -742,7 +741,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176077
     - t-176080
-
 - id: c-160131
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -773,7 +771,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176084
     - t-176095
-
 - id: c-160132
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -803,7 +800,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176089
     - t-176098
-
 - id: c-160133
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -830,7 +826,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176096
     - t-176099
-
 - id: c-160134
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -881,7 +876,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176104
-
 - id: c-160135
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -906,7 +900,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176107
-
 - id: c-160136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -941,7 +934,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176071
     - t-176102
-
 - id: c-160137
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -965,8 +957,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176083
-
+    - t-176087
 - id: c-160138
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1013,7 +1004,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176093
-
 - id: c-160139
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1035,7 +1025,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176081
     - t-176090
-
 - id: c-160140
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1056,7 +1045,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176086
-
 - id: c-160143
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1109,7 +1097,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176085
-
 - id: c-160146
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1161,7 +1148,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176072
-
 - id: c-160147
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1195,7 +1181,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176074
     - t-176100
-
 - id: c-160150
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1226,7 +1211,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176079
     - t-176105
-
 - id: c-160153
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1247,7 +1231,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176082
-
 - id: c-160157
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1274,7 +1257,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176075
-
 - id: c-160158
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1315,7 +1297,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176076
     - t-176092
-
 - id: c-160160
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1343,7 +1324,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   pagrindzia:
     - t-176097
     - t-176106
-
 - id: c-160161
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1367,7 +1347,6 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176101
-
 - id: c-160162
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

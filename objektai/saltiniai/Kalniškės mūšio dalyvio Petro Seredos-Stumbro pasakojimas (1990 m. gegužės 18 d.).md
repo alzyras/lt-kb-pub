@@ -122,7 +122,6 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78855
-
 - id: c-43260
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

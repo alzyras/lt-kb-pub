@@ -82,7 +82,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172491
-
+    - c-003
 <a id="claim-t-197233"></a>
 - t-002
   global_id: t-197233
@@ -139,8 +139,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
 - c-003
   santrauka: 'Narbutas rašo, kad Vladislovo Jogailos ir jo brolių rūpesčiu Bažnyčia Lietuvoje priėmė 5 635 500 atverstų stabmeldžių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -163,8 +161,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-189608
 ## Citatos
 
 - id: c-172490
@@ -192,7 +189,6 @@ Nenurodyta
   pagrindzia:
     - t-189607
     - t-197233
-
 - id: c-172491
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -225,7 +221,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189608
-
 - id: c-179077
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

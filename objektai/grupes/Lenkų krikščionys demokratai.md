@@ -87,7 +87,6 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74516
-
 - id: c-72551
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -57,7 +57,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172796
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto pasakojime Deivės Valdytojos vasaros naktimis nužengdavo į slėnius prie upių ir ežerų, kur garbintojai joms įrengdavo akmenimis apdėtas aikšteles.'
@@ -80,8 +80,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189913
 ## Citatos
 
 - id: c-172796

@@ -107,7 +107,6 @@ Kojelavičius atsargiai siejo italų ateivių atvykimą į Lietuvą su bėgimu i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185426
-
 - id: c-176041
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"

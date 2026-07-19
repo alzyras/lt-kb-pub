@@ -112,7 +112,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68824
-
 - id: c-68309
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -135,6 +134,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-68823
-
 ## Ryšiai
 - Niešava priklausė [[objektai/vietos/Lenkija]]

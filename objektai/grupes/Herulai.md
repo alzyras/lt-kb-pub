@@ -313,8 +313,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   sudarymo_pagrindimas: 'Pašalintas OCR ir išnašos triukšmas, subjektas išskleistas kaip herulai. Motyvų ir papročių aiškinimas paliktas su Narbuto atribucija.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Kojalavičius|Kojalavičius]]'
   pagrindžia:
-    - c-171089
-
+    - c-008
 <a id="claim-t-192407"></a>
 - t-011
   global_id: t-192407
@@ -326,7 +325,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_place: Isteris; mentioned_place: Vysla; llm_object: Europa'
   semantiniai_rysiai: '[[objektai/grupes/Herulai|Herulai]] gyveno Europa'
   pagrindžia:
-    - c-175201
+    - c-011
 - susijęs iš Ravena: 493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
 - susijęs iš [[objektai/ivykiai/Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m.md#claim-t-191037|Teodoriko ir Odoakro taika, Odoakro nužudymas ir Ravenos herulų skerdynės 493 m]]: Narbutas rašo, kad 493 m. kovo 5 d. gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė.
 - susijęs iš [[objektai/grupes/Galai druidai.md#claim-t-189514|Galai druidai]]: Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas panašumą bendra senovės religijų ir tautų kilme.
@@ -465,8 +464,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188195
 - c-011
   santrauka: 'Narbutas vaizduoja, kad susiklosčius aplinkybėms herulams tarsi buvo lemta įkurti naują valstybę Vidurio Europoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -492,8 +490,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-192407
 ## Citatos
 
 - id: c-82773
@@ -526,7 +523,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86794
-
 - id: c-167836
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -559,7 +555,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   pagrindzia:
     - t-184475
     - t-196075
-
 - id: c-167837
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -585,7 +580,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184476
-
 - id: c-167838
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -611,7 +605,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184477
-
 - id: c-171086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -642,7 +635,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188192
-
 - id: c-171087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -666,7 +658,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188193
-
 - id: c-171088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -692,7 +683,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188194
-
 - id: c-171090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -716,7 +706,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188196
-
 - id: c-171091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -737,7 +726,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188197
-
 - id: c-175202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -756,7 +744,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192408
-
 - id: c-175203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -781,7 +768,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192409
-
 - id: c-179222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -800,7 +786,6 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197504
-
 ## Ryšiai
 - Priešai: [[objektai/grupes/Gotai]]
 - Turėjo valdovą: [[objektai/asmenys/Odoakras]]

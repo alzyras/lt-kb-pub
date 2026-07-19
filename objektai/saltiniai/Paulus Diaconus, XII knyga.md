@@ -41,7 +41,7 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177294
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus.'
@@ -61,8 +61,7 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194898
 ## Citatos
 
 - id: c-177294

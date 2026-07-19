@@ -132,7 +132,6 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-85941
-
 ## Ryšiai
 - Puolė Pilaitę: [[objektai/grupes/Pagudėnai]]
 - Gyvenamoji vieta: [[objektai/asmenys/Pipinas]]

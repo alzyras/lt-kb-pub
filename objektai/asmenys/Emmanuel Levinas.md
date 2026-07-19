@@ -95,6 +95,5 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18885
-
 ## Ryšiai
 - Emmanuel Levinas gimė [[objektai/vietos/Kaunas]]

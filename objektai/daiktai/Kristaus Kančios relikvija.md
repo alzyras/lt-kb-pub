@@ -101,8 +101,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Legendos ir religinio objekto pasakojimas turi būti atribuuotas, o sakinys sutrauktas.'
   susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Lenkija; mentioned_place: Sandomiras; mentioned_place: Volynė; llm_object: Sandomiras'
   pagrindžia:
-    - c-170043
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.'
@@ -124,8 +123,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-186861
 ## Citatos
 
 - id: c-170044
@@ -150,7 +148,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186860
-
 - id: c-170045
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

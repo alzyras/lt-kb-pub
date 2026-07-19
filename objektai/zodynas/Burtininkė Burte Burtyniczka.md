@@ -49,7 +49,7 @@ Narbutas burtininkę Burte apibrėžė kaip lietuvių bardę Burtyniczka, kuri s
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172176
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas burtininkę Burte apibrėžė kaip lietuvių bardę Burtyniczka, kuri sakydavo eiles, dainuodavo ir pranašaudavo.'
@@ -65,8 +65,7 @@ Narbutas burtininkę Burte apibrėžė kaip lietuvių bardę Burtyniczka, kuri s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189288
 ## Citatos
 
 - id: c-172176

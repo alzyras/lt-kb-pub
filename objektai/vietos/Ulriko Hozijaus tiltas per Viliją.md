@@ -115,7 +115,6 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86155
-
 - id: c-82134
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -137,7 +136,6 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86154
-
 - id: c-176854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

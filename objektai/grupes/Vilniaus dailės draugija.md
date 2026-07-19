@@ -89,7 +89,6 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75019
-
 - id: c-72954
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

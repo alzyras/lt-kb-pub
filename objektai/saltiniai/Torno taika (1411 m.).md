@@ -102,7 +102,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36116
-
 - id: c-38437
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -118,7 +118,6 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88196
-
 - id: c-84175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -142,7 +141,6 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88195
-
 - id: c-84176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

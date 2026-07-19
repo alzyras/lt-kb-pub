@@ -49,7 +49,7 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173446
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės.'
@@ -64,8 +64,7 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190563
 ## Citatos
 
 - id: c-173446

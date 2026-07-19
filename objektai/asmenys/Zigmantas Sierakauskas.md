@@ -176,7 +176,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64425
-
 - id: c-22087
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -198,7 +197,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64422
-
 - id: c-42347
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -219,7 +217,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64424
-
 - id: c-42348
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -240,7 +237,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64423
-
 - id: c-42349
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -265,7 +261,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64421
-
 - id: c-42350
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -289,7 +284,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-64420
-
 ## Ryšiai
 - Zigmantas Sierakauskas mirė [[objektai/vietos/Vilnius]]
 - Zigmantas Sierakauskas paskyrė [[objektai/asmenys/Antanas Mackevičius]]

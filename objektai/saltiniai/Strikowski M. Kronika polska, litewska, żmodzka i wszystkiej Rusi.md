@@ -46,7 +46,7 @@ Dusburgietis teigia, kad strikowski M.
   temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61933
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Strikowskio „Kronika polska, litewska, żmodzka i wszystkiej Rusi“ išleista Karaliaučiuje 1582 m.'
@@ -60,8 +60,7 @@ Dusburgietis teigia, kad strikowski M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61301
 ## Citatos
 
 - id: c-61933

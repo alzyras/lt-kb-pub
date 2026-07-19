@@ -94,7 +94,6 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195645
-
 - id: c-178047
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

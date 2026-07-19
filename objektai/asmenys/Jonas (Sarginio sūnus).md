@@ -75,9 +75,6 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
 ## Citatos
 
 - id: c-60975
@@ -103,6 +100,5 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   pagrindzia:
     - t-60343
     - t-197106
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Belichovas]]

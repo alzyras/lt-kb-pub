@@ -93,7 +93,6 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40875
-
 - id: c-44732
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

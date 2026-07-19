@@ -100,7 +100,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175229
-
+    - c-003
 <a id="claim-t-194575"></a>
 - t-004
   global_id: t-194575
@@ -113,6 +113,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-176974
+    - c-004
 - susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190288|Tadas Volianskis]]: Narbutas perteikė Tado Volianskio pastabą, kad Smilginio 1475 m. antspaudo žąsis primena Pabaltijo slavų būrimą žirgu.
 - susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190805|Tadas Volianskis]]: Teodoras Narbutas rašo, kad Tadas Volianskis antspaudo žąsį siejo su Pabaltijo slavų būrimu, kuriam naudotas žirgas.
 - susijęs iš [[objektai/paprociai/Kurcho garbinimas Pabaltijo slavų ir galimai kuršių kontekste.md#claim-t-193032|Kurcho garbinimas Pabaltijo slavų ir galimai kuršių kontekste]]: Narbutas rašo, kad Pabaltijo slavai garbino Kurchą, kurį medaliono aprašymas siejo su derliumi, vaisiais ir daržininkyste.
@@ -144,8 +145,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192435
 - c-004
   santrauka: 'Pabaltijo slavai taip pat garbino Kurką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -163,8 +163,7 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-194575
 ## Citatos
 
 - id: c-172346
@@ -185,7 +184,6 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189459
-
 - id: c-172347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -203,7 +201,6 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189460
-
 - id: c-175229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -225,7 +222,6 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192435
-
 - id: c-176974
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

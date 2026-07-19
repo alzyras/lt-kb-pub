@@ -119,7 +119,6 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40632
-
 - id: c-44612
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -145,7 +144,6 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40634
-
 - id: c-167087
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

@@ -157,7 +157,6 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183545
-
 - id: c-167225
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -184,7 +183,6 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183840
-
 - id: c-167480
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -205,6 +203,5 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184095
-
 ## Ryšiai
 - Jonas XXII (arkivyskupas, XIV a.) siuntė į [[objektai/vietos/Livonija]]

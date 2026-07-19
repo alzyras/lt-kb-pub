@@ -151,7 +151,6 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101620
-
 - id: c-23627
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -176,7 +175,6 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
     - t-101621
     - t-101622
     - t-193615
-
 - id: c-166887
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

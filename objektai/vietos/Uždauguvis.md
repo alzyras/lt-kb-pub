@@ -71,6 +71,5 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36637
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Toloma]]

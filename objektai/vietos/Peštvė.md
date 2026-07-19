@@ -125,7 +125,6 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32446
-
 - id: c-33993
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -145,7 +144,6 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32447
-
 - id: c-33994
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

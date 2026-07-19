@@ -49,7 +49,7 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172216
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiems atneša grūdų ir pripila malant.'
@@ -65,8 +65,7 @@ Narbutas Rungį aprašė kaip malūnininkų prisijaukintą dievaitį, kuris jiem
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189329
 ## Citatos
 
 - id: c-172216

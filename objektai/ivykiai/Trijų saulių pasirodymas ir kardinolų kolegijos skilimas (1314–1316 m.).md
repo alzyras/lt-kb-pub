@@ -75,7 +75,8 @@ Nenurodyta
   pagrindžia:
     - c-63821
     - c-63822
-
+    - c-002
+    - c-003
 <a id="claim-t-62942"></a>
 - t-002
   global_id: t-62942
@@ -112,8 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62941
 - c-003
   santrauka: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -131,8 +131,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62941
 ## Citatos
 
 - id: c-63820
@@ -153,7 +152,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62942
-
 - id: c-63821
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -177,7 +175,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62941
-
 - id: c-63822
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

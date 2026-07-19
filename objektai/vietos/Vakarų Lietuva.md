@@ -111,7 +111,6 @@ Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42238
-
 - id: c-176436
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

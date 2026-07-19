@@ -105,7 +105,6 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86500
-
 - id: c-82478
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -128,7 +127,6 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86499
-
 - id: c-82479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

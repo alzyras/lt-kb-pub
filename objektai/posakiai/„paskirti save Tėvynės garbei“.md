@@ -45,7 +45,7 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-23658
-
+    - c-166894
 ## Citatos
 
 - id: c-23658
@@ -67,7 +67,6 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-20932
-
 - id: c-166894
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -98,7 +98,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86538
-
 - id: c-82517
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

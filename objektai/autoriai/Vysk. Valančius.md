@@ -79,7 +79,6 @@ Valančiaus, VAIKŲ KNYGELĖ.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-96060
-
 - id: c-178071
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

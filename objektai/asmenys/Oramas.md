@@ -64,7 +64,6 @@ Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-
+    - t-191451
 ## Ryšiai
 - Oramas buvo valdovas [[objektai/vietos/Krymas]]

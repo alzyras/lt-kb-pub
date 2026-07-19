@@ -45,7 +45,7 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61107
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Štaubemelis minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.'
@@ -65,8 +65,7 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60475
 ## Citatos
 
 - id: c-61107

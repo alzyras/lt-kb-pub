@@ -56,7 +56,7 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44874
-
+    - c-167062
 ## Citatos
 
 - id: c-44874
@@ -78,7 +78,6 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41205
-
 - id: c-167062
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

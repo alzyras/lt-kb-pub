@@ -47,7 +47,8 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-184025
-
+    - c-184026
+    - c-184027
 <a id="claim-t-200631"></a>
 - t-002
   global_id: t-200631
@@ -59,7 +60,8 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-184029
-
+    - c-184026
+    - c-184027
 <a id="claim-t-200632"></a>
 - t-003
   global_id: t-200632
@@ -78,7 +80,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-184029
-
+    - c-184026
 <a id="claim-t-200667"></a>
 - t-004
   global_id: t-200667
@@ -170,7 +172,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200667
-
 - id: c-184025
   redaktorius: "A. Šapoka"
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -189,7 +190,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200630
-
 - id: c-184026
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -251,7 +251,6 @@ media_all_json: |-
   pagrindzia:
     - t-200631
     - t-200632
-
 - id: c-184043
   autorius: "Domininkas Burba"
   šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"

@@ -69,7 +69,7 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173362
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad kunigas Sirvydas savo žodyne Aitvarą vadino lietuviškai Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.'
@@ -92,8 +92,7 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190479
 ## Citatos
 
 - id: c-173361
@@ -114,7 +113,6 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190478
-
 - id: c-173362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

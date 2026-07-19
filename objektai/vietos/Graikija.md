@@ -49,6 +49,7 @@ Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vie
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171838
+    - c-001
 - susijęs iš [[objektai/asmenys/Agatemeras.md#claim-t-192585|Agatemeras]]: Narbutas Agatemerą pateikia kaip senovės graikų rašytojų pavyzdį, maniusių, kad žemė yra apvali, o jos viduryje buvo Graikija.
 - susijęs iš [[objektai/asmenys/Borėjas.md#claim-t-191258|Borėjas]]: Graikų padavimuose Borėjas buvo karalius ir įžymus krašto į šiaurę nuo Graikijos valdovas, kurio dukra Boristenė pagimdė Targitą.
 - susijęs iš [[objektai/asmenys/Melampas.md#claim-t-190182|Melampas]]: Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, apie 1380 m. pr. Kr. pirmuoju Graikijoje įvedusiu Bakcho garbinimą.
@@ -91,8 +92,7 @@ Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188949
 ## Citatos
 
 - id: c-171838

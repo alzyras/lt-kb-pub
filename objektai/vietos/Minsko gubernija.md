@@ -60,4 +60,4 @@ Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194766

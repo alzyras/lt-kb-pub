@@ -116,7 +116,6 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78056
-
 - id: c-21712
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

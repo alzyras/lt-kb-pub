@@ -115,7 +115,6 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22057
-
 - id: c-24742
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -135,7 +134,6 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22056
-
 - id: c-166791
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

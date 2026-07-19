@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172791
-
+    - c-001
 <a id="claim-t-189909"></a>
 - t-002
   global_id: t-189909
@@ -85,7 +85,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172792
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad žymių mirusiųjų laidotuvėse su didiku kartais laidodavo tarnus, arklius, šunis ir sakalus, o dažniau juos vesdavo ant laužo.'
@@ -109,8 +109,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189908
 - c-002
   santrauka: 'Narbuto aprašymu, ant laidotuvių laužo su žymaus mirusiojo kūnu kraudavo daiktus, kurie jam gyvenime buvo malonūs, reikalingi ar puošnūs.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -129,8 +128,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189909
 ## Citatos
 
 - id: c-172791
@@ -158,7 +156,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189908
-
 - id: c-172792
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -56,7 +56,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177208
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Paimdavo į saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31 Vėjininkai (Wejones) Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama sis savais pastebėjimais, ką buvo matęs savo akimis.'
@@ -82,8 +82,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194812
 ## Citatos
 
 - id: c-177208

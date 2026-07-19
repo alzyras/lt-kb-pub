@@ -123,7 +123,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173586
-
+    - c-004
 <a id="claim-t-190706"></a>
 - t-005
   global_id: t-190706
@@ -381,7 +381,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173601
-
+    - c-018
 <a id="claim-t-190720"></a>
 - t-019
   global_id: t-190720
@@ -650,8 +650,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
 - t-024
   teiginys: 'Herodotas buvo teigiama, jog čia kalbama apie čigonus, tačiau šiandien to daryli jau nebegalima, nes jų istorija gerai žinoma''’1''.'
   pagrindžia:
-    - c-024
-
+    - c-177275
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Herodotas minėjo, kad tisagetai gyvenę toliau į šiaurę, už gelonų gyvenamo krašto.'
@@ -672,8 +671,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-190704
 - c-011
   santrauka: 'Herodotas, Talis, Aristotelis, Teofrastas ir Pitėjas Masilietis žinojo gintarą bei jo savybes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -694,9 +692,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-    - t-028
-
 - c-018
   santrauka: 'Teodoras Narbutas Herodoto darbuose rado seniausių žinių apie Meotų jūrą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -716,8 +711,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-
+    - t-190719
 - c-019
   santrauka: 'Teodoro Narbuto vertinimu, Herodoto aprašymuose yra nemažai neaiškių vietų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -742,9 +736,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-    - t-034
-
 - c-020
   santrauka: 'Teodoro Narbuto vertinimu, Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -771,9 +762,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-    - t-035
-
 - c-022
   santrauka: 'Teodoras Narbutas nurodė iki tol rėmęsis Herodoto pasakojimu apie kelionę nuo Maetis ežero į žemyno gilumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -793,9 +781,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022
-    - t-037
-
 ## Citatos
 
 - id: c-173198
@@ -819,7 +804,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190315
-
 - id: c-173199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -846,7 +830,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190316
-
 - id: c-173200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -871,7 +854,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190317
-
 - id: c-173586
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -894,7 +876,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190704
-
 - id: c-173588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -915,7 +896,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-190706
     - t-197593
-
 - id: c-173589
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -938,7 +918,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-190707
     - t-197594
-
 - id: c-173590
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -960,7 +939,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190708
-
 - id: c-173591
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -984,7 +962,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190709
-
 - id: c-173592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1006,7 +983,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190710
-
 - id: c-173594
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1033,7 +1009,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-190712
     - t-197595
-
 - id: c-173595
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1058,7 +1033,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190713
-
 - id: c-173596
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1079,7 +1053,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190714
-
 - id: c-173597
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1103,7 +1076,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-190715
     - t-197597
-
 - id: c-173598
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1129,7 +1101,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-190716
     - t-197598
-
 - id: c-173599
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1153,7 +1124,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-190717
     - t-197600
-
 - id: c-173601
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1180,7 +1150,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190719
-
 - id: c-173602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1208,7 +1177,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-190720
     - t-197601
-
 - id: c-173603
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1242,7 +1210,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-190721
     - t-197602
-
 - id: c-173604
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1271,7 +1238,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-190722
     - t-197603
-
 - id: c-175313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1296,7 +1262,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   pagrindzia:
     - t-192525
     - t-197604
-
 - id: c-177274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1320,7 +1285,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194878
-
 - id: c-177275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1339,7 +1303,7 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194879
-
+    - t-024
 - id: c-179111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1358,7 +1322,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197298
-
 - id: c-179256
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1381,7 +1344,6 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197596
-
 - id: c-179257
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

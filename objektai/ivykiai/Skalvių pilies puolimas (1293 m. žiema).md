@@ -72,7 +72,8 @@ Nenurodyta
   pagrindžia:
     - c-63791
     - c-63792
-
+    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.'
@@ -94,8 +95,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62921
 - c-002
   santrauka: '1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -113,8 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62921
 ## Citatos
 
 - id: c-63791
@@ -143,7 +142,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62921
-
 - id: c-63792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-86145
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ašeradė) Akmena (Jūros intakas), u.'
@@ -63,8 +63,7 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-90278
 ## Citatos
 
 - id: c-86145

@@ -52,6 +52,7 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   semantiniai_rysiai: "Kristijonas valdė Lanzanija (0.74)"
   pagrindžia:
     - c-59396
+    - c-001
 - susijęs iš [[objektai/ivykiai/Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas.md#claim-t-59559|Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas]]: Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.
 - susijęs iš 1216 m. vasario 18 d. popiežiaus patvirtinti Lubavos ir Lanzanijos užrašymai: 1216 m. vasario 18 d. popiežius patvirtino Lubavos ir Lanzanijos užrašymus vyskupui Kristijonui.
 - susijęs iš Lubavos žemė: Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.
@@ -70,8 +71,7 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58764
 ## Citatos
 
 - id: c-59396

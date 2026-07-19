@@ -175,7 +175,6 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54450
-
 - id: c-55329
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -201,7 +200,6 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
     - t-54446
     - t-54447
     - t-54448
-
 - id: c-55330
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

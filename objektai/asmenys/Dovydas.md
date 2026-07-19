@@ -216,7 +216,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82261
-
 - id: c-168054
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -247,7 +246,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   pagrindzia:
     - t-184693
     - t-196443
-
 - id: c-176531
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -272,7 +270,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196820
-
 - id: c-179021
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -297,7 +294,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197069
-
 - id: c-179022
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -322,7 +318,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197070
-
 - id: c-184332
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -352,6 +347,5 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200982
-
 ## Ryšiai
 - Dovydas surengė žygį į [[objektai/vietos/Dobrynė]]

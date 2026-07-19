@@ -126,7 +126,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12253
-
 - id: c-13917
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -143,7 +142,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12253
-
 - id: c-13918
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

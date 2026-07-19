@@ -82,6 +82,5 @@ Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86811
-
 ## Ryšiai
 - Maskvos, totorių ir valakų pirkliai keliavo į [[objektai/vietos/Vilnius]]

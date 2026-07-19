@@ -90,7 +90,7 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174605
-
+    - c-003
 <a id="claim-t-197686"></a>
 - t-004
   global_id: t-197686
@@ -120,8 +120,7 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-191723
 ## Citatos
 
 - id: c-174603
@@ -151,7 +150,6 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   pagrindzia:
     - t-191721
     - t-197686
-
 - id: c-174604
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -173,7 +171,6 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191722
-
 - id: c-174605
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

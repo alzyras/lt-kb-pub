@@ -54,7 +54,7 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174627
-
+    - c-001
 <a id="claim-t-194895"></a>
 - t-002
   global_id: t-194895
@@ -68,7 +68,7 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177291
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nutolusi „taip, kaip dangus ir žemė“.'
@@ -91,8 +91,7 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191745
 - c-002
   santrauka: 'Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -113,8 +112,7 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-194895
 ## Citatos
 
 - id: c-174627
@@ -146,7 +144,6 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191745
-
 - id: c-177291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

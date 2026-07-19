@@ -93,7 +93,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40173
-
 - id: c-44370
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -122,6 +121,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40172
-
 ## Ryšiai
 - J. Šarauskas siuntė į [[objektai/vietos/Paobeliai]]

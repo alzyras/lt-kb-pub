@@ -102,7 +102,6 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72362
-
 - id: c-70763
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -122,7 +121,6 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72361
-
 - id: c-70764
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

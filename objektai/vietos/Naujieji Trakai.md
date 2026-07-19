@@ -103,7 +103,6 @@ Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187269
-
 - id: c-171666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

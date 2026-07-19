@@ -178,7 +178,6 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-54395
-
 - id: c-55235
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -214,7 +213,6 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
   pagrindzia:
     - t-54393
     - t-54394
-
 - id: c-55236
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

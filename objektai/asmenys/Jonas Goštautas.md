@@ -148,7 +148,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Nutrūkęs tekstas paverstas aiškiu veiksmu ir rezultatu apie Goštautą. Karinis konfliktas ir kronikos pasakojimas palikti su atribucija.'
   pagrindžia:
-    - c-176553
+    - c-005
 - susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš Voložinas: Voložine Goštautą pasiekė žinia apie Žygimanto mirtį.
@@ -185,8 +185,7 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-
+    - t-193928
 ## Citatos
 
 - id: c-169341
@@ -220,7 +219,6 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185980
-
 - id: c-169342
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -240,7 +238,6 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   pagrindzia:
     - t-185981
     - t-193497
-
 - id: c-176551
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -277,7 +274,6 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193926
-
 - id: c-176552
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -311,7 +307,6 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
   pagrindzia:
     - t-193927
     - t-196832
-
 - id: c-176554
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

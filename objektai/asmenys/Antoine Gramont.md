@@ -111,7 +111,6 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40034
-
 - id: c-44285
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -140,7 +139,6 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40035
-
 - id: c-176416
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

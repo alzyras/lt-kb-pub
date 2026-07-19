@@ -82,7 +82,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-107536
-
+    - c-004
 <a id="claim-t-116728"></a>
 - t-003
   global_id: t-116728
@@ -102,7 +102,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   temporalinis_llm_pakomentavimas: "Reikia aiškesnio faktinio predikato apie note objektą."
   pagrindžia:
     - c-107549
-
+    - c-015
 <a id="claim-t-116729"></a>
 - t-004
   global_id: t-116729
@@ -471,8 +471,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-116727
 - c-015
   santrauka: 'XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -494,8 +493,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-116728
 ## Citatos
 
 - id: c-107533
@@ -517,7 +515,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindzia:
     - t-116741
     - t-116744
-
 - id: c-107534
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -543,7 +540,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116738
-
 - id: c-107535
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -563,7 +559,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116729
-
 - id: c-107536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -588,7 +583,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116727
-
 - id: c-107537
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -610,7 +604,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116735
-
 - id: c-107538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -642,7 +635,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116732
-
 - id: c-107539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -674,7 +666,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindzia:
     - t-116736
     - t-116740
-
 - id: c-107540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -701,7 +692,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116743
-
 - id: c-107542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -719,7 +709,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116726
-
 - id: c-107543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -750,7 +739,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116745
-
 - id: c-107544
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -768,7 +756,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116730
-
 - id: c-107546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -789,7 +776,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116742
-
 - id: c-107547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -807,7 +793,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116739
-
 - id: c-107548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -833,7 +818,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116734
-
 - id: c-107549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -863,7 +847,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116728
-
 - id: c-107550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -884,7 +867,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116733
-
 - id: c-107551
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -911,7 +893,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116737
-
 - id: c-107552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -931,7 +912,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-116731
-
 - id: c-166299
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

@@ -59,7 +59,7 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173223
-
+    - c-001
 <a id="claim-t-190341"></a>
 - t-002
   global_id: t-190341
@@ -104,8 +104,7 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190340
 ## Citatos
 
 - id: c-173223
@@ -132,7 +131,6 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190340
-
 - id: c-173224
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -150,7 +148,6 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190341
-
 - id: c-179136
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

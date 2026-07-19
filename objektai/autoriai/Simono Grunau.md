@@ -111,7 +111,6 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30983
-
 - id: c-33141
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -131,7 +130,6 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30982
-
 - id: c-33142
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

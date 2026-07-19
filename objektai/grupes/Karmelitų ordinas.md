@@ -95,7 +95,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112560
-
 - id: c-103938
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

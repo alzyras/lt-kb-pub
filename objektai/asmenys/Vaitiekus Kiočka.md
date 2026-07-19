@@ -83,10 +83,6 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-
 ## Citatos
 
 - id: c-169623

@@ -59,7 +59,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
   pagrindžia:
     - c-72809
-
+    - c-166555
 <a id="claim-t-74802"></a>
 - t-002
   global_id: t-74802
@@ -131,8 +131,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-74803
-
+    - t-74804
 - id: c-72809
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -151,7 +150,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74801
-
 - id: c-166554
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -171,7 +169,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74802
-
 - id: c-166555
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

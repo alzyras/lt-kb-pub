@@ -66,4 +66,4 @@ Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-194159

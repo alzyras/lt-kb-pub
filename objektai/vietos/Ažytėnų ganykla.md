@@ -82,7 +82,6 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195478
-
 - id: c-177900
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

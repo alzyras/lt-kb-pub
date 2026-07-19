@@ -137,7 +137,6 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
   pagrindzia:
     - t-70055
     - t-70056
-
 - id: c-14678
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

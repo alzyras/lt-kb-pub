@@ -55,7 +55,7 @@ Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro mu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171826
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro muziejuje.'
@@ -75,8 +75,7 @@ Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro mu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188937
 ## Citatos
 
 - id: c-171826

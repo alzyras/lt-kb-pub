@@ -66,7 +66,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   pagrindžia:
     - c-64125
     - c-64127
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Prūsai po ilgų grumtynių sugriovė Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba užmušė.'
@@ -87,8 +87,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-63149
 ## Citatos
 
 - id: c-64124
@@ -113,7 +112,6 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63148
-
 - id: c-64125
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -137,7 +135,6 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63149
-
 - id: c-64126
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -160,7 +157,6 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63148
-
 - id: c-64127
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

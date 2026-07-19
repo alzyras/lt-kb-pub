@@ -175,7 +175,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78880
-
 - id: c-44151
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -202,7 +201,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   pagrindzia:
     - t-78878
     - t-78879
-
 - id: c-75996
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -228,7 +226,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   pagrindzia:
     - t-78877
     - t-78880
-
 - id: c-170469
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

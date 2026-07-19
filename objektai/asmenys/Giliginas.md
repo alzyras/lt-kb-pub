@@ -89,7 +89,6 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186041
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Romuntas]]
 - Tėvai: [[objektai/asmenys/Germantas]]

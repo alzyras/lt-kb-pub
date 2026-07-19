@@ -162,7 +162,6 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05440
-
 - id: c-05569
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -183,7 +182,6 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05441
-
 - id: c-05570
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -201,7 +199,6 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05442
-
 - id: c-05571
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -220,7 +217,6 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-05442
-
 - id: c-167726
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

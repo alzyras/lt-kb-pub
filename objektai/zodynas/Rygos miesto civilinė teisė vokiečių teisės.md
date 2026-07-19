@@ -114,7 +114,6 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86570
-
 - id: c-82550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

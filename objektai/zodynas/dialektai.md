@@ -63,7 +63,7 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175030
-
+    - c-001
 <a id="claim-t-192144"></a>
 - t-002
   global_id: t-192144
@@ -82,6 +82,7 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175030
+    - c-001
 - susijęs iš [[objektai/zodynas/upė.md#claim-t-192230|upė]]: Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,9 +106,8 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-
+    - t-192143
+    - t-192144
 ## Citatos
 
 - id: c-175030

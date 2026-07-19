@@ -63,4 +63,4 @@ Teodoro Narbuto aiškinimu, lygumų ir klampių pelkynų kraštas galėjo vadint
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-192924

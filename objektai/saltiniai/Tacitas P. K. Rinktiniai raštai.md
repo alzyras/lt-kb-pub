@@ -72,7 +72,7 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį leidimo faktą."
   pagrindžia:
     - c-61641
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'P. K. Tacito „Rinktiniai raštai“ išleisti Vilniuje 1972 m.'
@@ -85,8 +85,7 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-61009
 ## Citatos
 
 - id: c-61640
@@ -110,7 +109,6 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-61008
-
 - id: c-61641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

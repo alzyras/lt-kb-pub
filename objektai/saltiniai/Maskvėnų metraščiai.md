@@ -47,7 +47,7 @@ Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, i
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169701
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V atstovą grafą Leonardą ir karaliaus Ferdinando atstovą Zigmantą Herberšteiną.'
@@ -66,8 +66,7 @@ Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186340
 ## Citatos
 
 - id: c-169701

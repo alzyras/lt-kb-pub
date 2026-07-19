@@ -50,7 +50,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174006
-
+    - c-001
 <a id="claim-t-191126"></a>
 - t-002
   global_id: t-191126
@@ -115,7 +115,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174011
-
+    - c-004
 <a id="claim-t-191944"></a>
 - t-005
   global_id: t-191944
@@ -136,7 +136,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-174826
-
+    - c-005
 <a id="claim-t-191945"></a>
 - t-006
   global_id: t-191945
@@ -204,8 +204,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191124
 - c-004
   santrauka: 'Narbutas manė, kad skitų žemdirbiai koloniją prie Dnepro įkūrė dar prieš Darijaus puolimą prieš Skitiją V a. pr. Kr. pradžioje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -224,8 +223,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-191129
 - c-005
   santrauka: 'Narbutas Darijaus nesėkmingam žygiui priskyrė didelę įtaką Skitijos vidaus gyvenimui ir jos artėjimui prie žlugimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -248,8 +246,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-191944
 ## Citatos
 
 - id: c-174006
@@ -279,7 +276,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191124
-
 - id: c-174008
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -304,7 +300,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191126
-
 - id: c-174009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -323,7 +318,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191127
-
 - id: c-174011
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -348,7 +342,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191129
-
 - id: c-174826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -384,7 +377,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191944
-
 - id: c-174827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -413,7 +405,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191945
-
 ## Ryšiai
 - Darijus surengė žygį į [[objektai/ivykiai/Darijaus žygis prieš skitus]], [[objektai/vietos/Skitija]]
 - Darijus kariavo prieš [[objektai/asmenys/Indatiras]]

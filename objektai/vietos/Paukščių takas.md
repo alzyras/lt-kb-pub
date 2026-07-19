@@ -49,7 +49,7 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171929
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, šiauriniame Paukščių tako gale.'
@@ -70,8 +70,7 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189040
 ## Citatos
 
 - id: c-171929

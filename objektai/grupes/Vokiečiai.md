@@ -132,7 +132,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   semantiniai_rysiai: "Vokiečiai kariavo prieš Lietuviai (0.72)"
   pagrindžia:
     - c-36958
-
+    - c-167611
 <a id="claim-t-117311"></a>
 - t-006
   global_id: t-117311
@@ -185,7 +185,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36963
-
+    - c-108024
 <a id="claim-t-117317"></a>
 - t-009
   global_id: t-117317
@@ -1690,7 +1690,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117310
-
 - id: c-36959
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1711,7 +1710,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117307
-
 - id: c-36960
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1736,7 +1734,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   pagrindzia:
     - t-117311
     - t-117314
-
 - id: c-36962
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1755,8 +1752,7 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-117309
-
+    - t-117313
 - id: c-36963
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1777,7 +1773,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117315
-
 - id: c-36964
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1801,7 +1796,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   pagrindzia:
     - t-117306
     - t-117318
-
 - id: c-108018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1820,7 +1814,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117319
-
 - id: c-108019
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1838,7 +1831,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117308
-
 - id: c-108020
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1856,7 +1848,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-117317
-
 - id: c-108024
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1892,7 +1883,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183197
-
 - id: c-167611
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1943,7 +1933,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184587
-
 - id: c-167949
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1985,7 +1974,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184588
-
 - id: c-171251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2008,7 +1996,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188358
-
 - id: c-171252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2043,7 +2030,6 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188359
-
 ## Ryšiai
 - Puolė Vokiečiai: [[objektai/asmenys/Jonas Olesnickis]], [[objektai/grupes/Lietuviai]]
 - Kariavo prieš: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Parusėnai]]

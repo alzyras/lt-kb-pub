@@ -93,7 +93,6 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194093
-
 - id: c-178926
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -113,7 +112,6 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196813
-
 - id: c-179301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

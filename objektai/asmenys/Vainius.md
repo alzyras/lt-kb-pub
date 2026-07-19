@@ -58,7 +58,7 @@ Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173099
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio Vytenio sūnus iš antrosios žmonos.'
@@ -80,8 +80,7 @@ Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190216
 ## Citatos
 
 - id: c-173099

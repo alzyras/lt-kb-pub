@@ -195,7 +195,6 @@ media_all_json: |-
   pagrindzia:
     - t-171929
     - t-171933
-
 - id: c-156380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -227,7 +226,6 @@ media_all_json: |-
   pagrindzia:
     - t-171926
     - t-171930
-
 - id: c-156381
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -257,7 +255,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171927
-
 - id: c-156384
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -283,7 +280,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171924
-
 - id: c-176431
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

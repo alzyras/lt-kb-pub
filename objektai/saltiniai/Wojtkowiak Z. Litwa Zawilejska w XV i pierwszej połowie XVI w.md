@@ -53,7 +53,7 @@ Dusburgietis teigia, kad wojtkowiak Z.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį faktą apie leidinį."
   pagrindžia:
     - c-62002
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Z. Wojtkowiako knyga apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje išleista Poznanėje 1980 m.'
@@ -66,8 +66,7 @@ Dusburgietis teigia, kad wojtkowiak Z.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61370
 ## Citatos
 
 - id: c-62002

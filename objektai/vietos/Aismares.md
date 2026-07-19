@@ -119,7 +119,6 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58514
-
 - id: c-59145
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -135,7 +134,6 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58513
-
 - id: c-59146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

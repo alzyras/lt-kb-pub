@@ -50,6 +50,7 @@ Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakra
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174152
+    - c-001
 - susijęs iš [[objektai/asmenys/Avitas.md#claim-t-191371|Avitas]]: Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., Ricimerui įsakius, atsisakė aukšto posto.
 - susijęs iš [[objektai/asmenys/Ricimeras.md#claim-t-191311|Ricimeras]]: Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdžią į savo rankas, Avitui sėdint imperatoriaus soste.
 ## Reikšmingi paminėjimai
@@ -77,8 +78,7 @@ Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191270
 ## Citatos
 
 - id: c-174152

@@ -94,8 +94,7 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dubrovna; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]'
   semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]; [[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]'
   pagrindžia:
-    - c-169894
-
+    - c-002
 <a id="claim-t-186605"></a>
 - t-002
   global_id: t-186605
@@ -104,8 +103,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Priešo veiksmų vaizdavimas tinkamai atribuuotas šaltiniui.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dubrovna; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
-    - c-169894
-
+    - c-002
 <a id="claim-t-186606"></a>
 - t-003
   global_id: t-186606
@@ -114,8 +112,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir šaltiniui atribuuotas.'
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
-    - c-169893
-
+    - c-001
 <a id="claim-t-186607"></a>
 - t-004
   global_id: t-186607
@@ -124,8 +121,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Pataisyta klaidinga didžioji raidė ir išlaikyta šaltinio atribucija.'
   susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Dubrovna; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lenkija; llm_object: Lietuva'
   pagrindžia:
-    - c-169893
-
+    - c-001
 <a id="claim-t-193850"></a>
 - t-005
   global_id: t-193850
@@ -135,8 +131,7 @@ Nenurodyta
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Žali OCR antraštės ir lūžiai pakeisti rišliu sakiniu apie karo pradžią. Atribucija palikta, nes kronika vartoja titulą ir chronikinę dataciją.'
   pagrindžia:
-    - c-169894
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -163,9 +158,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-    - t-004
-
+    - t-186606
+    - t-186607
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -199,10 +193,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-002
-    - t-005
-
+    - t-186604
+    - t-186605
+    - t-193850
 ## Citatos
 
 - id: c-176491
@@ -237,7 +230,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193851
-
 - id: c-178907
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

@@ -57,7 +57,7 @@ Dusburgietis teigia, kad vileišis V.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį V. Vileišio veikalo įrašą."
   pagrindžia:
     - c-63392
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. Vileišis yra 1935 m. Kaune išleisto veikalo „Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje“ autorius.'
@@ -72,8 +72,7 @@ Dusburgietis teigia, kad vileišis V.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62662
 ## Citatos
 
 - id: c-63392

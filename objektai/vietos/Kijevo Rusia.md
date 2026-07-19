@@ -285,7 +285,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-168485
-
+    - c-008
 <a id="claim-t-185125"></a>
 - t-012
   global_id: t-185125
@@ -326,6 +326,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168487
+    - c-010
 - susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176283|Algirdas (Lietuvos valdovas)]]: Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.
@@ -389,8 +390,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-185124
 - c-010
   santrauka: 'Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -412,8 +412,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-
+    - t-185126
 ## Citatos
 
 - id: c-26798
@@ -436,7 +435,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     - t-83617
     - t-83624
     - t-83625
-
 - id: c-26799
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -455,7 +453,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83622
-
 - id: c-79904
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -484,7 +481,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83620
-
 - id: c-79905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -516,7 +512,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   pagrindzia:
     - t-83616
     - t-83623
-
 - id: c-79907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -541,7 +536,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   pagrindzia:
     - t-83627
     - t-83628
-
 - id: c-79910
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -562,7 +556,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83618
-
 - id: c-79912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -587,7 +580,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83619
-
 - id: c-168485
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -614,7 +606,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185124
-
 - id: c-168486
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -646,7 +637,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185125
-
 - id: c-168487
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -680,7 +670,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185126
-
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jaroslavas]]
 - Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]

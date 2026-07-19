@@ -64,7 +64,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172550
-
+    - c-001
 <a id="claim-t-189668"></a>
 - t-002
   global_id: t-189668
@@ -78,7 +78,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172551
-
+    - c-002
 <a id="claim-t-197246"></a>
 - t-003
   global_id: t-197246
@@ -109,8 +109,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189667
 - c-002
   santrauka: 'Narbutas spėjo, kad senovės lietuvių pasiuntinys nešdavosi ženklintą lazdą, vadintą Lazda nusiuntimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -127,8 +126,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189668
 ## Citatos
 
 - id: c-172550
@@ -152,7 +150,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189667
-
 - id: c-172551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -176,7 +173,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189668
-
 - id: c-179084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

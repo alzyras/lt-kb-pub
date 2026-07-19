@@ -94,7 +94,6 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188972
-
 - id: c-171862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

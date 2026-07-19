@@ -71,7 +71,7 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174783
-
+    - c-002
 <a id="claim-t-197327"></a>
 - t-003
   global_id: t-197327
@@ -112,8 +112,7 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-191901
 ## Citatos
 
 - id: c-173239
@@ -137,7 +136,6 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190356
-
 - id: c-174783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -168,7 +166,6 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191901
-
 - id: c-179133
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

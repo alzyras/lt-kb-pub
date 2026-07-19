@@ -80,7 +80,6 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87643
-
 ## Ryšiai
 - Chariničius keliavo į [[objektai/vietos/Vilnius]]
 - Chariničius sudarė sutartį su [[objektai/asmenys/Švitrigaila]]

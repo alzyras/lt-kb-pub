@@ -161,7 +161,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55235
-
 - id: c-55651
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -190,7 +189,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55236
-
 - id: c-55652
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -227,7 +225,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55237
-
 - id: c-55653
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -263,7 +260,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-55238
-
 - id: c-78541
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -240,7 +240,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-160912
-
+    - c-24084
 <a id="claim-t-176969"></a>
 - t-011
   global_id: t-176969
@@ -819,7 +819,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   pagrindzia:
     - t-176971
     - t-176980
-
 - id: c-37308
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -845,7 +844,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
     - t-176962
     - t-176963
     - t-176967
-
 - id: c-46460
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -866,7 +864,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   pagrindzia:
     - t-176959
     - t-176970
-
 - id: c-46461
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -892,7 +889,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176964
-
 - id: c-160895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -916,7 +912,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176982
-
 - id: c-160897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -943,7 +938,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176979
-
 - id: c-160899
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -971,7 +965,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   pagrindzia:
     - t-176974
     - t-176986
-
 - id: c-160902
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -998,7 +991,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   pagrindzia:
     - t-176955
     - t-176978
-
 - id: c-160903
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1023,8 +1015,7 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-176975
-
+    - t-176984
 - id: c-160904
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1047,7 +1038,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176977
-
 - id: c-160905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1073,7 +1063,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176965
-
 - id: c-160906
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1096,7 +1085,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   pagrindzia:
     - t-176969
     - t-176972
-
 - id: c-160908
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1116,7 +1104,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176966
-
 - id: c-160910
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1138,7 +1125,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176976
-
 - id: c-160912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1161,7 +1147,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176968
-
 - id: c-160913
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1188,7 +1173,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176973
-
 - id: c-160914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1207,7 +1191,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176985
-
 - id: c-160916
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1227,7 +1210,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-176960
-
 - id: c-170517
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1253,7 +1235,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187568
-
 - id: c-175395
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -1275,7 +1256,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192625
-
 - id: c-175922
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1295,7 +1275,6 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193175
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Šach Achmedas]]
 - Apgulė Brastą: [[objektai/grupes/Švedai]]

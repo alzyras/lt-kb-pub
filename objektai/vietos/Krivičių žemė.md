@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
   semantiniai_rysiai: "Krivičiai gyveno Naugardukas (0.91)"
   pagrindžia:
     - c-59211
-
+    - c-002
 <a id="claim-t-58579"></a>
 - t-002
   global_id: t-58579
@@ -89,8 +89,7 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58578
 ## Citatos
 
 - id: c-59210
@@ -111,7 +110,6 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58579
-
 - id: c-59211
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

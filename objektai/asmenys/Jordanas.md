@@ -146,7 +146,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173966
-
+    - c-005
 <a id="claim-t-191085"></a>
 - t-006
   global_id: t-191085
@@ -268,8 +268,7 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-191084
 ## Citatos
 
 - id: c-173961
@@ -296,7 +295,6 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191079
-
 - id: c-173963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -321,7 +319,6 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191081
-
 - id: c-173964
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -344,7 +341,6 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191082
-
 - id: c-173965
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -368,7 +364,6 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191083
-
 - id: c-173966
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -394,7 +389,6 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191084
-
 - id: c-173967
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -420,7 +414,6 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   pagrindzia:
     - t-191085
     - t-197763
-
 - id: c-173968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -445,7 +438,6 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191086
-
 - id: c-173969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -464,7 +456,6 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191087
-
 - id: c-174836
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

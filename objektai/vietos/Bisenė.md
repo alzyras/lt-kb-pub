@@ -215,7 +215,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58382
-
 - id: c-59012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -235,7 +234,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58379
-
 - id: c-59013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -255,7 +253,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58380
-
 - id: c-59014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -276,7 +273,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58381
-
 - id: c-178834
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -299,7 +295,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196676
-
 ## Ryšiai
 - Puolė Bisenę: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Notangai]]
 - Apgulė Bisenę: [[objektai/asmenys/Henrikas iš Plockės]], [[objektai/grupes/Kryžiuočių ordinas]]

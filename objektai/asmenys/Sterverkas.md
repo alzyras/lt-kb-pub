@@ -49,6 +49,7 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174864
+    - c-001
 - susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191317|Starkateras]]: Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku.
 - susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191239|Vyresnysis Starkateras]]: Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko sūnumi ir vyresniojo Starkatero anūku.
 - susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191317|Starkateras]]: Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku.
@@ -82,8 +83,7 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191982
 ## Citatos
 
 - id: c-174864
@@ -113,6 +113,5 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191982
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Starkateras]]

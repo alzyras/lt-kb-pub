@@ -221,7 +221,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01471
-
 - id: c-166324
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

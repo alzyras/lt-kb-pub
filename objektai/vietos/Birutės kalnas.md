@@ -84,6 +84,5 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76196
-
 ## Ryšiai
 - Birutės kalnas priklausė [[objektai/vietos/Palanga]]

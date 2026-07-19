@@ -88,7 +88,6 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86143
-
 - id: c-82122
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

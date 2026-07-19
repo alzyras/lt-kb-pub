@@ -81,7 +81,7 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas Konstantino Karijotaičio kontekstas ir sutvarkytas OCR tekstas. Vertinimas paliktas kaip komentaro pozicija, nepridedant daugiau už citatą.'
   pagrindžia:
-    - c-176565
+    - c-003
 - susijęs iš [[objektai/asmenys/Konstantinas (Karijotaitis).md#claim-t-29032|Konstantinas (Karijotaitis)]]: Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.
 ## Reikšmingi paminėjimai
 - c-003
@@ -99,8 +99,7 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-193940
 ## Citatos
 
 - id: c-169416
@@ -128,7 +127,6 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186055
-
 - id: c-176564
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

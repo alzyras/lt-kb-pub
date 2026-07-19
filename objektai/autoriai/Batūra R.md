@@ -75,7 +75,7 @@ Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, 
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-87581
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '191—192; Batūra R., Karinė..., р.'
@@ -93,8 +93,7 @@ Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-91941
 ## Citatos
 
 - id: c-87581
@@ -121,7 +120,6 @@ Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-91941
-
 - id: c-87582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

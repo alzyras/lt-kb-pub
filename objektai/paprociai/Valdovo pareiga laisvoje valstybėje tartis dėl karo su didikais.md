@@ -63,7 +63,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169261
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Augustas Ivanui aiškino, kad laisvų žmonių valstybėje valdovas įstatymų verčiamas skaitytis su kitų nuomone dėl karo.'
@@ -84,8 +84,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-185900
 ## Citatos
 
 - id: c-169261

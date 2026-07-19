@@ -121,7 +121,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175524
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: '1839 m. Teodoras Narbutas gavo imperatoriaus dovaną po „Lietuvių mitologijos“ įvertinimo Peterburge.'
@@ -141,8 +141,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-192754
 ## Citatos
 
 - id: c-175131
@@ -171,7 +170,6 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192333
-
 - id: c-175132
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -195,7 +193,6 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192332
-
 - id: c-175133
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -212,7 +209,6 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192334
-
 - id: c-175524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

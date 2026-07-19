@@ -69,7 +69,7 @@ Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis 
   sudarymo_pagrindimas: 'Išskleistas atribucijos veikėjas, nes teiginys apie sistemai priskirtą požiūrį yra interpretacinis. Nepridėta Humbolto aiškinimo apie Žemės karštį.'
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]'
   pagrindžia:
-    - c-174307
+    - c-001
 - susijęs iš Jurgis de Buffonas, Gamtos istorija: Jurgis de Biufonas buvo prancūzų gamtininkas, Paryžiaus botanikos sodo direktorius ir 1749–1788 m. leistos „Gamtos istorijos“ autorius.
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,8 +91,7 @@ Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191425
 ## Citatos
 
 - id: c-174308

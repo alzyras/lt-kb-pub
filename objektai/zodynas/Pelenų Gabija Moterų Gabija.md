@@ -49,7 +49,7 @@ Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį g
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172158
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį globojusią ir nuo gaisrų saugojusią deivę.'
@@ -71,8 +71,7 @@ Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189270
 - c-002
   santrauka: 'Narbutas rašė, kad Pelenų Gabijos moterys šaukdavosi kūrendamos namų krosnis, o Moterų Gabijos - kepėjai, siekę sėkmingos duonos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -96,8 +95,6 @@ Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-172158

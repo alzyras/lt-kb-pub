@@ -151,7 +151,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65968
-
 - id: c-166317
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -171,7 +170,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   pagrindzia:
     - t-65967
     - t-182914
-
 - id: c-166318
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -202,7 +200,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182915
-
 - id: c-184103
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"

@@ -103,7 +103,6 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86475
-
 - id: c-82454
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

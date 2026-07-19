@@ -105,7 +105,6 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36020
-
 - id: c-38392
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

@@ -57,7 +57,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177199
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigia, kad vėlė, išskrendanti iš karsto peteliškės sparnais, turėjo būti dievo Patelo ženklas; šitoks ženklas (25-asis piešinys) yra IV lentelėje.'
@@ -76,8 +76,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-194803
 ## Citatos
 
 - id: c-177199

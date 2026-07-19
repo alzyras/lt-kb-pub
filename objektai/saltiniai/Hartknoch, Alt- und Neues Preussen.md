@@ -86,7 +86,6 @@ Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190498
-
 - id: c-179290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

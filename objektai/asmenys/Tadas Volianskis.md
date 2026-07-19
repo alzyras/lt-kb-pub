@@ -201,7 +201,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173862
-
+    - c-009
 <a id="claim-t-190981"></a>
 - t-008
   global_id: t-190981
@@ -243,7 +243,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173864
-
+    - c-011
 <a id="claim-t-190983"></a>
 - t-012
   global_id: t-190983
@@ -264,7 +264,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173865
-
+    - c-012
 <a id="claim-t-190984"></a>
 - t-013
   global_id: t-190984
@@ -285,7 +285,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173866
-
+    - c-013
 <a id="claim-t-197444"></a>
 - t-010
   global_id: t-197444
@@ -351,8 +351,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-
+    - t-190980
 - c-011
   santrauka: 'Tadas Volianskis Narbutui atsiuntė panašios monetos piešinį ir manė, kad Lietuvoje rasta moneta priklauso lietuviškiems paminklams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -368,8 +367,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-
+    - t-190982
 - c-012
   santrauka: 'Narbutas rašo, kad trečiame veikalo tome turėjo būti aptartas Tado Volianskio naujas Henenbergerio užrašo aiškinimas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -387,8 +385,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-
+    - t-190983
 - c-013
   santrauka: 'Narbutas nurodo, kad runų užrašas reiškė Vaidevučio vardą pagal Tado Volianskio šifruotę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -404,8 +401,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-
+    - t-190984
 ## Citatos
 
 - id: c-172868
@@ -430,7 +426,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189985
-
 - id: c-172869
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -449,7 +444,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189986
-
 - id: c-172870
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -470,7 +464,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189987
-
 - id: c-172871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -488,7 +481,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189988
-
 - id: c-172873
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -513,7 +505,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189990
-
 - id: c-172874
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -536,7 +527,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189991
-
 - id: c-173861
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -556,7 +546,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190979
-
 - id: c-173862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -578,7 +567,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190980
-
 - id: c-173863
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -598,7 +586,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   pagrindzia:
     - t-190981
     - t-197822
-
 - id: c-173864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -624,7 +611,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190982
-
 - id: c-173865
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -649,7 +635,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190983
-
 - id: c-173866
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -674,7 +659,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190984
-
 - id: c-179191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -696,7 +680,6 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197444
-
 - id: c-179354
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

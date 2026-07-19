@@ -49,7 +49,7 @@ Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174172
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose kartu su žymesniais ponais.'
@@ -70,8 +70,7 @@ Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191290
 ## Citatos
 
 - id: c-174172

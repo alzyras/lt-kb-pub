@@ -89,7 +89,6 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-18846
-
 - id: c-166920
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

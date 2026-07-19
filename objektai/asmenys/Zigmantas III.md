@@ -120,7 +120,6 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87594
-
 - id: c-171541
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -140,7 +139,6 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188652
-
 - id: c-176843
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -163,6 +161,5 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194247
-
 ## Ryšiai
 - Zigmantas III buvo valdovas [[objektai/grupes/Abiejų Tautų Respublika]]

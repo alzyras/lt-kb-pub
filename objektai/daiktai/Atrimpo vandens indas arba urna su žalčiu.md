@@ -78,7 +78,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170988
-
+    - c-002
 <a id="claim-t-188374"></a>
 - t-003
   global_id: t-188374
@@ -92,6 +92,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171268
+    - c-003
 - susijęs iš [[objektai/autoriai/Liudvikas Adomas Jucevičius.md#claim-t-188441|Liudvikas Adomas Jucevičius]]: Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“.
 - susijęs iš [[objektai/zodynas/Atlimpas Atrimpas Potrimpos.md#claim-t-189145|Atlimpas Atrimpas Potrimpos]]: Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą, kuriame buvo laikomas vandens žaltys.
 ## Reikšmingi paminėjimai
@@ -112,8 +113,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187981
 - c-003
   santrauka: 'Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą indą arba urną su vandeniu, kurioje laikomas vandens žaltys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -132,8 +132,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-188374
 ## Citatos
 
 - id: c-170987
@@ -157,7 +156,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187980
-
 - id: c-170988
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -180,7 +178,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187981
-
 - id: c-171268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

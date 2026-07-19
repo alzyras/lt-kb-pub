@@ -81,6 +81,5 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-15332
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuvos Užnemunė]]

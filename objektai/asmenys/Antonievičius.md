@@ -108,7 +108,6 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40037
-
 - id: c-44287
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -133,7 +132,6 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40038
-
 - id: c-44288
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

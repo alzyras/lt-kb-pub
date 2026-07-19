@@ -120,7 +120,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88072
-
 - id: c-184297
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

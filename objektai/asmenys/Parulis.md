@@ -77,6 +77,5 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87926
-
 ## Ryšiai
 - Parulis gyveno [[objektai/vietos/Vilnius]]

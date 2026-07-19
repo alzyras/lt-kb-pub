@@ -121,7 +121,6 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63837
-
 - id: c-42086
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -145,7 +144,6 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63836
-
 - id: c-42087
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

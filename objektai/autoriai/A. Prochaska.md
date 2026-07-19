@@ -131,7 +131,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Bibliografinis fragmentas perrašytas į sakinį apie A. Prochaskos veikalo naudojimą citatoje. Nepridėta teiginių apie paties autoriaus interpretaciją.'
   pagrindžia:
-    - c-176503
+    - c-005
 - susijęs iš Codex epistolaris Vitoldi, magni ducis Lithuaniae: Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179520|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska savo raštų gausumu apie XIV-XV a. Lietuvą pralenkė kitus lenkų istorikus.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179524|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska rašė apie XIV-XV a. Lietuvą, išleido Vytauto Didžiojo aktų kodeksą ir parašė Jogailos bei Vytauto monografijas.
@@ -150,8 +150,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-193876
 ## Citatos
 
 - id: c-30421
@@ -176,7 +175,6 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   pagrindzia:
     - t-47869
     - t-47871
-
 - id: c-50241
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -203,7 +201,6 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47868
-
 - id: c-50242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -224,7 +221,6 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-47870
-
 - id: c-50244
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

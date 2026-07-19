@@ -48,7 +48,7 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
   semantiniai_rysiai: "Antspaudas priklausė Katilas (0.98)"
   pagrindžia:
     - c-173115
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Antspaudas priklausė Katilui (Koczel) 1617 metais.'
@@ -63,8 +63,7 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190232
 ## Citatos
 
 - id: c-173115
@@ -86,6 +85,5 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190232
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Antspaudas]]

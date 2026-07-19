@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
   temporalinis_llm_pakomentavimas: "Teiginys per ilgas ir negramatiškas, bet citata remia aiškų faktą apie legendinį radinį."
   pagrindžia:
     - c-61950
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Dusburgiečio kronikos, 1232 m. Tolede žydas rado akmenyje iškaltą knygą hebrajų, graikų ir lotynų kalbomis.'
@@ -74,8 +74,7 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61318
 ## Citatos
 
 - id: c-61950

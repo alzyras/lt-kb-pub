@@ -195,7 +195,6 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58401
-
 - id: c-59033
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -220,7 +219,6 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58400
-
 - id: c-59034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -246,7 +244,6 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58402
-
 - id: c-168445
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -282,7 +279,6 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   pagrindzia:
     - t-185084
     - t-196726
-
 - id: c-178870
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -309,6 +305,5 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196725
-
 ## Ryšiai
 - Puolė Pieštvę: [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]

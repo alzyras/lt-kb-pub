@@ -123,7 +123,6 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190235
-
 - id: c-174849
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -146,7 +145,6 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191967
-
 - id: c-179338
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -166,6 +164,5 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197787
-
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Herbas]]

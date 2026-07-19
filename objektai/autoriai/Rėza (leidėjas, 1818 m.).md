@@ -87,7 +87,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171360
-
+    - c-002
 <a id="claim-t-188471"></a>
 - t-003
   global_id: t-188471
@@ -129,7 +129,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171362
-
+    - c-004
 <a id="claim-t-194672"></a>
 - t-005
   global_id: t-194672
@@ -142,7 +142,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-177069
-
+    - c-006
 <a id="claim-t-197336"></a>
 - t-006
   global_id: t-197336
@@ -175,8 +175,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-188470
 - c-004
   santrauka: 'Narbutas nurodo, kad Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų viršuje sukreivintų lazdų paprotį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -201,8 +200,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-188472
 - c-006
   santrauka: 'Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10 10 Rėza.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -217,8 +215,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-194672
 ## Citatos
 
 - id: c-13629
@@ -240,7 +237,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-11077
-
 - id: c-171360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -263,7 +259,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188470
-
 - id: c-171361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -284,7 +279,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188471
-
 - id: c-171362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -312,7 +306,6 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188472
-
 - id: c-177069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

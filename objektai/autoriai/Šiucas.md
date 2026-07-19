@@ -56,7 +56,7 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173207
-
+    - c-001
 <a id="claim-t-197344"></a>
 - t-002
   global_id: t-197344
@@ -85,8 +85,7 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190324
 ## Citatos
 
 - id: c-173207
@@ -108,7 +107,6 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190324
-
 - id: c-179142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

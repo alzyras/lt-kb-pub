@@ -107,7 +107,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87932
-
 - id: c-168215
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -129,6 +128,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184854
-
 ## Ryšiai
 - Vasilijus Vasiljevičius keliavo į [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

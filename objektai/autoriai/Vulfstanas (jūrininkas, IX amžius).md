@@ -136,7 +136,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173702
-
+    - c-005
 <a id="claim-t-191911"></a>
 - t-006
   global_id: t-191911
@@ -150,7 +150,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174793
-
+    - c-006
 <a id="claim-t-197658"></a>
 - t-007
   global_id: t-197658
@@ -222,8 +222,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-190820
 - c-006
   santrauka: 'Narbutas rašė, kad keliautojas Vulfstanas jau minėjo vietos ponus, turėjusius savarankiškas valdas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -239,8 +238,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-
+    - t-191911
 ## Citatos
 
 - id: c-64412
@@ -262,7 +260,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63357
-
 - id: c-171375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -285,7 +282,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188485
-
 - id: c-171376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -307,7 +303,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188486
-
 - id: c-173701
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -329,7 +324,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190819
-
 - id: c-173702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -354,7 +348,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   pagrindzia:
     - t-190820
     - t-197658
-
 - id: c-174793
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -376,7 +369,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   pagrindzia:
     - t-191911
     - t-197659
-
 - id: c-184298
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
@@ -401,7 +393,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200948
-
 - id: c-184299
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."

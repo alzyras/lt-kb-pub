@@ -134,7 +134,6 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-65147
-
 - id: c-166510
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -154,7 +153,6 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183125
-
 - id: c-166511
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

@@ -129,7 +129,6 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
   pagrindzia:
     - t-55001
     - t-81901
-
 - id: c-78432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

@@ -213,6 +213,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į pilną sakinį, aiškiai įvardijant Simoną Stanevičių, laiško datą ir Raseinius. Neįvardytas pats teiginys, nes citata jo turinio nepateikia."
   pagrindžia:
     - c-171707
+    - c-008
 - susijęs iš [[objektai/grupes/Hiriai ir hendai.md#claim-t-189544|Hiriai ir hendai]]: Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno hiriai ir hendai, Raseinių bei Upytės apskrityse.
 - susijęs iš [[objektai/grupes/Bermontininkai.md#claim-t-40868|Bermontininkai]]: Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
@@ -328,8 +329,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-
+    - t-188818
 ## Citatos
 
 - id: c-32377
@@ -347,7 +347,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184395
-
 - id: c-32378
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -368,7 +367,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184396
-
 - id: c-166232
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -389,7 +387,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182825
-
 - id: c-166475
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -411,7 +408,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183087
-
 - id: c-167189
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -438,7 +434,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183804
-
 - id: c-167692
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -459,7 +454,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184321
-
 - id: c-168482
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -487,7 +481,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185121
-
 - id: c-171707
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -509,7 +502,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188818
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Bermontininkai]]
 - Gyvenamoji vieta: [[objektai/grupes/Hiriai ir hendai]]

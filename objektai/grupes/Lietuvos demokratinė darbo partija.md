@@ -106,7 +106,6 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169680
-
 - id: c-154381
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

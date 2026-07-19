@@ -49,7 +49,7 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173261
-
+    - c-001
 <a id="claim-t-190379"></a>
 - t-002
   global_id: t-190379
@@ -70,6 +70,7 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173262
+    - c-002
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188318|Prūsai]]: Narbutas rašo, kad Prūsijos kronikininkai aprašo tautinį senovės prūsų herbą, kurio kilmę sieja su Vaidevučio laikais.
 - susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.
 - susijęs iš Prūsija: Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.
@@ -92,8 +93,7 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190378
 - c-002
   santrauka: 'Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -117,8 +117,7 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-190379
 ## Citatos
 
 - id: c-173261
@@ -147,7 +146,6 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190378
-
 - id: c-173262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

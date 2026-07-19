@@ -59,7 +59,8 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   temporalinis_llm_pakomentavimas: "Pradinis sakinys nutrūkęs ir prasideda kontekstiniu žodžiu; citata remia aiškesnę formuluotę."
   pagrindžia:
     - c-60685
-
+    - c-002
+    - c-167493
 <a id="claim-t-60054"></a>
 - t-002
   global_id: t-60054
@@ -111,8 +112,7 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60052
 ## Citatos
 
 - id: c-60684
@@ -133,7 +133,6 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60054
-
 - id: c-60685
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -155,7 +154,6 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60052
-
 - id: c-60686
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -181,7 +179,6 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194503
-
 - id: c-167493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

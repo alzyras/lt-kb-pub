@@ -141,7 +141,6 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
   pagrindzia:
     - t-189126
     - t-197361
-
 - id: c-172016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -164,7 +163,6 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189128
-
 - id: c-177079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

@@ -51,7 +51,7 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171825
-
+    - c-001
 <a id="claim-t-192665"></a>
 - t-002
   global_id: t-192665
@@ -109,8 +109,7 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-188936
 ## Citatos
 
 - id: c-171825
@@ -137,7 +136,6 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188936
-
 - id: c-175435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

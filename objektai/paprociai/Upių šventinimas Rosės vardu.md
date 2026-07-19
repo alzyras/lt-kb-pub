@@ -87,7 +87,8 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174960
-
+    - c-001
+    - c-003
 <a id="claim-t-192516"></a>
 - t-003
   global_id: t-192516
@@ -132,8 +133,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-192092
 - c-003
   santrauka: 'Pasak Narbuto, Volkovysko apylinkių upė buvo pavadinta religiniu vardu Ros, kuris išliko nepakitęs.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -153,8 +153,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-192092
 ## Citatos
 
 - id: c-174960
@@ -185,7 +184,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192092
-
 - id: c-174961
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -211,7 +209,6 @@ Nenurodyta
   pagrindzia:
     - t-192091
     - t-192516
-
 - id: c-175304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -95,7 +95,6 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58873
-
 - id: c-59505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -57,7 +57,7 @@ Dusburgietis teigia, kad schmalstieg W.
   temporalinis_llm_pakomentavimas: "Bibliografinis įrašas aiškiai nurodo autorių, knygos temą, vietą ir metus."
   pagrindžia:
     - c-61417
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'W. R. Schmalstiegas 1974 m. Londone išleido knygą apie trijų katekizmų senosios prūsų kalbos fonologiją ir morfologiją.'
@@ -71,8 +71,7 @@ Dusburgietis teigia, kad schmalstieg W.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60785
 ## Citatos
 
 - id: c-61417

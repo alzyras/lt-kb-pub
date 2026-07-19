@@ -76,7 +76,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-170906
-
+    - c-002
 <a id="claim-t-187919"></a>
 - t-003
   global_id: t-187919
@@ -95,7 +95,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-170907
-
+    - c-003
 <a id="claim-t-190625"></a>
 - t-004
   global_id: t-190625
@@ -187,8 +187,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-187918
 - c-003
   santrauka: 'Narbutas rašė, kad Gvaninis ir Meletijus Ukapirmą lygino su Perkūnu, nes šis laikytas dangaus ir žemės viešpačiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -210,8 +209,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-187919
 ## Citatos
 
 - id: c-170905
@@ -247,7 +245,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187917
-
 - id: c-170906
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -272,7 +269,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187918
-
 - id: c-170907
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -300,7 +296,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187919
-
 - id: c-173508
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -322,7 +317,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190625
-
 - id: c-173509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -341,7 +335,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190626
-
 - id: c-173571
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -363,7 +356,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190689
-
 - id: c-179098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

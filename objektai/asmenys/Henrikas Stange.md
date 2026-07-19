@@ -73,6 +73,5 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60319
-
 ## Ryšiai
 - Henrikas Stange surengė žygį į [[objektai/vietos/Semba]]

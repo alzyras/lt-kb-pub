@@ -103,7 +103,6 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40238
-
 - id: c-167134
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

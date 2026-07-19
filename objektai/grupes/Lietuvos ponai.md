@@ -58,6 +58,7 @@ Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaik�
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172383
+    - c-001
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
 - susijęs iš [[objektai/asmenys/Liutauras.md#claim-t-190106|Liutauras]]: Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė Liutaurą užimti ir vietininko teisėmis valdyti Polocką.
 - susijęs iš [[objektai/grupes/Livonijos riteriai.md#claim-t-189480|Livonijos riteriai]]: Narbutas Gediminą vaizduoja kaip Ariogaloje iškilusį kovotoją su kryžiuočiais ir Livonijos riteriais.
@@ -83,8 +84,7 @@ Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189495
 ## Citatos
 
 - id: c-172383
@@ -108,6 +108,5 @@ Narbutas rašė, kad Lietuvos ponai 1316 m. sausį Lietuvos didžiuoju kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189495
-
 ## Ryšiai
 - Lietuvos ponai paskyrė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

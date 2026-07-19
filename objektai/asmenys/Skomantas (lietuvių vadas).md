@@ -77,6 +77,5 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40424
-
 ## Ryšiai
 - Skomantas (lietuvių vadas) puolė [[objektai/vietos/Kulmas]]

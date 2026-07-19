@@ -48,7 +48,7 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169534
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.'
@@ -81,8 +81,7 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186173
 ## Citatos
 
 - id: c-169534

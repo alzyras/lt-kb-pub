@@ -47,7 +47,7 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59217
-
+    - c-002
 <a id="claim-t-58585"></a>
 - t-002
   global_id: t-58585
@@ -85,8 +85,7 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58584
 ## Citatos
 
 - id: c-59216
@@ -111,7 +110,6 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58585
-
 - id: c-59217
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

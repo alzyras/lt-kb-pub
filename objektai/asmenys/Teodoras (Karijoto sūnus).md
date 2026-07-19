@@ -72,6 +72,5 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35291
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Karijotas]]

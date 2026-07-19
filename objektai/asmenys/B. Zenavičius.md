@@ -82,7 +82,6 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40058
-
 - id: c-44304
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

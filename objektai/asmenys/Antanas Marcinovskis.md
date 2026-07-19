@@ -105,8 +105,7 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, išskleistas subjektas ir veiksmas. Nepridėta neaiški ministro tapatybė.'
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Antanas Marcinovskis|Antanas Marcinovskis]]; mentioned_place: Vilnius'
   pagrindžia:
-    - c-172904
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir leidėjas, kuriam Tadas Bulgarinas buvo pasiuntęs monetą perduoti Narbutui.'
@@ -132,8 +131,7 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-190021
 ## Citatos
 
 - id: c-172902
@@ -166,7 +164,6 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190019
-
 - id: c-172903
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -184,7 +181,6 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190020
-
 - id: c-179300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

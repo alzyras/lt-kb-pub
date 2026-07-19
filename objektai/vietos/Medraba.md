@@ -101,7 +101,6 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58594
-
 - id: c-167570
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

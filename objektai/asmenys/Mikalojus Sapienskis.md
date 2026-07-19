@@ -83,7 +83,6 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35230
-
 - id: c-38096
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"

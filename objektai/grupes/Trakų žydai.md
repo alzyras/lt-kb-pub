@@ -84,6 +84,5 @@ Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiem
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86716
-
 ## Ryšiai
 - Trakų žydai gyveno [[objektai/vietos/Trakai]]

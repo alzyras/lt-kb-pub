@@ -114,7 +114,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85347
-
+    - c-001
 <a id="claim-t-89392"></a>
 - t-004
   global_id: t-89392
@@ -155,7 +155,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-85351
-
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis rašė apie prūsų ir sūduvių kariuomenę, nors Henriko iš Hohenlohės pranešimas nurodė lietuvius ir prūsus.'
@@ -172,8 +172,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-89391
 - c-004
   santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino Kryžiuočių ordino pajėgas Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -190,8 +189,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-
+    - t-89393
 ## Citatos
 
 - id: c-85347
@@ -213,7 +211,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89391
-
 - id: c-85348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -233,7 +230,6 @@ Nenurodyta
   pagrindzia:
     - t-89390
     - t-89392
-
 - id: c-85349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -252,7 +248,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89389
-
 - id: c-85351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

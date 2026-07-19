@@ -89,7 +89,6 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30931
-
 - id: c-33111
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

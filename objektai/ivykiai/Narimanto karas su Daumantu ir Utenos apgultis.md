@@ -53,7 +53,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-178589
-
+    - c-168986
 <a id="claim-t-196229"></a>
 - t-002
   global_id: t-196229
@@ -107,3 +107,29 @@ Nenurodyta
   pagrindzia:
     - t-185625
     - t-196229
+- id: c-168986
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 140."
+  citata_originali: |
+    To­
+    dėl valdovas buvo priverstas griebtis ginklo ir pradėti
+    karą su broliu. Jis apgulė Uteną, kadangi ten buvo
+    pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­
+    mės atvirame kovos lauke, nes labiau buvo linkęs prie
+    piktadarybių nei prie karo. Kadangi nė sienos nega­
+    lėjo ilgiau jo apsaugoti, nes matė, jog bus priverstas
+    neišvengiamai pasiduoti arba dėl apsupties, arba dėl
+    bado, kai nebegaus maisto, jis stengėsi kelti saviškiams
+    nuotaiką viltimi, jog skubiai ateisianti artimųjų pa­
+    galba; tuo tarpu pats, nieko gero nesitikėdamas, paža­
+    dėjęs greitai atvykti su kariuomene ir pralaužti ap­
+    supimą, nakčia, išleistas iš pilies, paspruko per supan­
+    čiųjų eiles.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185625

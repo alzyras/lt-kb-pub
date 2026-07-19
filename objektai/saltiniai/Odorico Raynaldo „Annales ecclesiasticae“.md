@@ -47,7 +47,7 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173435
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų.'
@@ -64,8 +64,7 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190552
 ## Citatos
 
 - id: c-173435

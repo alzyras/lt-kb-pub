@@ -49,7 +49,7 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173341
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms.'
@@ -69,8 +69,7 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190458
 ## Citatos
 
 - id: c-173341

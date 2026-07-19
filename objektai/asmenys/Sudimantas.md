@@ -108,7 +108,6 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87583
-
 - id: c-83562
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

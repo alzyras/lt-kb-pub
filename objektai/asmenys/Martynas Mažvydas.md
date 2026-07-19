@@ -117,7 +117,6 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19127
-
 - id: c-21875
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -143,7 +142,6 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19126
-
 - id: c-21876
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

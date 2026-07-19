@@ -48,7 +48,7 @@ Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lie
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174672
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lietuva“ dalies „Metamorfozės lietuvių mitologijoje“.'
@@ -64,8 +64,7 @@ Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-191790
 ## Citatos
 
 - id: c-174672

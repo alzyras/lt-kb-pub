@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   semantiniai_rysiai: "Mėrūniškis priklausė Sūduva (0.82)"
   pagrindžia:
     - c-59232
-
+    - c-001
 <a id="claim-t-58601"></a>
 - t-002
   global_id: t-58601
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59232
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -96,10 +96,8 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-    - t-003
-    - t-004
-
+    - t-58600
+    - t-194544
 ## Citatos
 
 - id: c-59232
@@ -126,7 +124,6 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   pagrindzia:
     - t-58600
     - t-194544
-
 - id: c-59233
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

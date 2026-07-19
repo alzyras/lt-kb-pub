@@ -175,7 +175,6 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86721
-
 - id: c-82697
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -231,7 +230,6 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86719
-
 - id: c-82698
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -254,7 +252,6 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86718
-
 - id: c-82699
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -274,7 +271,6 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86717
-
 - id: c-82700
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"

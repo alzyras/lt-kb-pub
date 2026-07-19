@@ -48,6 +48,7 @@ Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosči
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173041
+    - c-001
 - susijęs iš [[objektai/asmenys/Kadmas.md#claim-t-190169|Kadmas]]: Narbutas rašo, kad Kadmas ir Inachas pas graikus įvedė jau susiklosčiusias slaptas apeigas.
 - susijęs iš [[objektai/asmenys/Minas.md#claim-t-190185|Minas]]: Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines apeigas.
 - susijęs iš [[objektai/asmenys/Orfėjas.md#claim-t-190192|Orfėjas]]: Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau susiklosčiusias slaptas religines apeigas.
@@ -72,8 +73,7 @@ Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190158
 ## Citatos
 
 - id: c-173041

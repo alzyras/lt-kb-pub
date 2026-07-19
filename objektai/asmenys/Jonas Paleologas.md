@@ -73,6 +73,5 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35152
-
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Manuelis]]

@@ -54,7 +54,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   semantiniai_rysiai: "Albrechtas iš Hageno gynė Skalviai (0.63)"
   pagrindžia:
     - c-60638
-
+    - c-003
 <a id="claim-t-60005"></a>
 - t-002
   global_id: t-60005
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Albrechtą iš Hageno ir atitinka citatą."
   pagrindžia:
     - c-60637
-
+    - c-002
 <a id="claim-t-60006"></a>
 - t-003
   global_id: t-60006
@@ -129,8 +129,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-60005
 - c-003
   santrauka: 'Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -149,8 +148,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-60004
 ## Citatos
 
 - id: c-60636
@@ -175,7 +173,6 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60006
-
 - id: c-60637
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -202,7 +199,6 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60005
-
 - id: c-60638
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -229,6 +225,5 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60004
-
 ## Ryšiai
 - Albrechtas iš Hageno puolė [[objektai/asmenys/Sudargas]]

@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   temporalinis_llm_pakomentavimas: "Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes."
   pagrindžia:
     - c-59113
-
+    - c-001
 <a id="claim-t-58483"></a>
 - t-002
   global_id: t-58483
@@ -98,8 +98,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-58481
 ## Citatos
 
 - id: c-59113
@@ -128,7 +127,6 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58481
-
 - id: c-59114
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -148,6 +146,5 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58483
-
 ## Ryšiai
 - Apgulė Traupeiną: [[objektai/grupes/Pagudėnai]]

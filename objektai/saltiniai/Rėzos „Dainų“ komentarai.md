@@ -48,7 +48,7 @@ Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūs
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173441
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūsų šalyje vadinto „Bier“ ir apibūdinamas kaip saldesnis bei šviesesnis.'
@@ -65,8 +65,7 @@ Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190558
 ## Citatos
 
 - id: c-173441

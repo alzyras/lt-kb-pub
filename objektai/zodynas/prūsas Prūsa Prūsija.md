@@ -158,7 +158,6 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58793
-
 - id: c-59425
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -179,7 +178,6 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58795
-
 - id: c-59426
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -196,7 +194,6 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58792
-
 - id: c-59427
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -216,7 +213,6 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58796
-
 - id: c-59428
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

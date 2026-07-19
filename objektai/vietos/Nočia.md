@@ -55,6 +55,7 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171919
+    - c-001
 - susijęs iš Ragutėniškiai: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su jo aptartu moterų žynių Ragutienių pavadinimu.
 - susijęs iš Lydos apskritis: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu.
 - susijęs iš Lydos apskritis: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu.
@@ -84,8 +85,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189030
 ## Citatos
 
 - id: c-171919

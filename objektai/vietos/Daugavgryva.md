@@ -145,7 +145,6 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   pagrindzia:
     - t-49646
     - t-49648
-
 - id: c-43374
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -161,6 +160,5 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-49647
-
 ## Ryšiai
 - Puolė Daugavgryvą: [[objektai/asmenys/Jonas Karolis Chodkevičius]]

@@ -55,7 +55,7 @@ Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo ded
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172122
-
+    - c-001
 <a id="claim-t-189235"></a>
 - t-002
   global_id: t-189235
@@ -76,7 +76,7 @@ Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo ded
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172123
-
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo dedami sudegintų žmonių pelenai.'
@@ -100,8 +100,7 @@ Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo ded
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189234
 - c-002
   santrauka: 'Narbutas mano, kad žymių žmonių apeigų pelenai ir likučiai būdavo pernešami į Obeliją, kur per daugelį metų susidarydavo pilkapiai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -120,8 +119,7 @@ Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo ded
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-189235
 ## Citatos
 
 - id: c-172122
@@ -149,7 +147,6 @@ Narbutas Obelijomis vadina senąsias vietas Tikrojoje Lietuvoje, kur būdavo ded
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189234
-
 - id: c-172123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

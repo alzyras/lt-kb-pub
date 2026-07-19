@@ -83,7 +83,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170096
-
+    - c-003
 <a id="claim-t-186919"></a>
 - t-002
   global_id: t-186919
@@ -105,6 +105,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170095
+    - c-002
 - susijęs iš [[objektai/daiktai/Platesniojo sąvado nuorašai.md#claim-t-186812|Platesniojo sąvado nuorašai]]: Komentare nurodoma, kad Platesnysis sąvadas ir kiti Lietuvos metraštinės literatūros paminklai plito rankraštiniais nuorašais.
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187454|Palemonas]]: Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą.
 - susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186921|nuorašas]]: Plačiau buvo žinomi bent 222 šių tekstų nuorašai.
@@ -127,8 +128,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-186919
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -144,8 +144,7 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186916
 ## Citatos
 
 - id: c-170095
@@ -174,7 +173,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186919
-
 - id: c-170096
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

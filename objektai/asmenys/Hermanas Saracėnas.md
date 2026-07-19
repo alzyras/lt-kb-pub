@@ -98,7 +98,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60554
-
+    - c-003
 <a id="claim-t-59924"></a>
 - t-005
   global_id: t-59924
@@ -108,7 +108,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60553
-
+    - c-002
 <a id="claim-t-194492"></a>
 - t-008
   global_id: t-194492
@@ -121,7 +121,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60553
-
+    - c-002
 <a id="claim-t-194493"></a>
 - t-007
   global_id: t-194493
@@ -169,10 +169,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-    - t-006
-    - t-008
-
+    - t-59924
+    - t-194492
 - c-003
   santrauka: 'Pasakojime Mergelė Marija ne kartą slapta ir draugiškai kalbėjosi su Hermanu Saracėnu, jau priimtu į Teutonų ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -193,8 +191,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-
+    - t-59923
 ## Citatos
 
 - id: c-60552
@@ -214,7 +211,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   pagrindzia:
     - t-59922
     - t-197102
-
 - id: c-60553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -241,7 +237,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   pagrindzia:
     - t-59924
     - t-194492
-
 - id: c-60554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -267,7 +262,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59923
-
 - id: c-60555
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -287,7 +281,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59921
-
 - id: c-60556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

@@ -58,7 +58,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   temporalinis_llm_pakomentavimas: "Citata pagrindžia teiginį apie Henriko Latvio kronikos reikšmę, bet pradinis tekstas yra triukšmingas ir per ilgas."
   pagrindžia:
     - c-156013
-
+    - c-003
 <a id="claim-t-171491"></a>
 - t-002
   global_id: t-171491
@@ -141,8 +141,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-171490
 ## Citatos
 
 - id: c-156011
@@ -170,7 +169,6 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171493
-
 - id: c-156012
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -192,7 +190,6 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171491
-
 - id: c-156013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -222,7 +219,6 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-171490
-
 - id: c-171292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

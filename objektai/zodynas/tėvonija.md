@@ -48,7 +48,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   semantiniai_rysiai: "Lietuva priklausė Lenkija (0.76)"
   pagrindžia:
     - c-25024
-
+    - c-166875
 <a id="claim-t-22336"></a>
 - t-002
   global_id: t-22336
@@ -183,7 +183,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22335
-
 - id: c-25025
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -206,7 +205,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-22336
-
 - id: c-166875
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -250,7 +248,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183482
-
 - id: c-168000
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -277,7 +274,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184639
-
 - id: c-168001
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -311,7 +307,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184640
-
 - id: c-170480
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"

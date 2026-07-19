@@ -95,7 +95,7 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-43169
-
+    - c-44948
 ## Citatos
 
 - id: c-43169
@@ -137,8 +137,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-41430
-
+    - t-41431
 - id: c-44949
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

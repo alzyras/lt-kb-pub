@@ -97,7 +97,6 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189220
-
 - id: c-172109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"

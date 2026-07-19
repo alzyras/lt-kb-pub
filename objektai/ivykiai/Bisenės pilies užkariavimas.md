@@ -61,7 +61,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-66712
-
+    - c-002
 <a id="claim-t-66500"></a>
 - t-002
   global_id: t-66500
@@ -78,7 +78,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-66711
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kita kariuomenės dalis nusiaubė Bisenės pilies apylinkes ugnimi ir su dideliu grobiu sugrįžo atgal.'
@@ -96,8 +96,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
+    - t-66500
 - c-002
   santrauka: 'Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -116,8 +115,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-66499
 ## Citatos
 
 - id: c-66711
@@ -143,7 +141,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66500
-
 - id: c-66712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"

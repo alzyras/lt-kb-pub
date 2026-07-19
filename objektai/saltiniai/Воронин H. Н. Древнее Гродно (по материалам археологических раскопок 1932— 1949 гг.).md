@@ -55,7 +55,7 @@ Dusburgietis teigia, kad воронин H.
   temporalinis_llm_pakomentavimas: "Citata pagrindžia temą, šaltinių pobūdį, leidimo vietą ir metus."
   pagrindžia:
     - c-62044
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'N. N. Voronino darbas apie senąjį Gardiną rėmėsi 1932-1949 m. archeologinių kasinėjimų medžiaga ir išleistas Maskvoje 1954 m.'
@@ -69,8 +69,7 @@ Dusburgietis teigia, kad воронин H.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-61412
 ## Citatos
 
 - id: c-62044

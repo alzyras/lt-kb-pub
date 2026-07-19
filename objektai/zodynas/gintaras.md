@@ -83,7 +83,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177298
-
+    - c-003
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Kocebus teisingai vadina gintarą saulės akmeniu, se novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos4.'
@@ -109,8 +109,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-
+    - t-194902
 ## Citatos
 
 - id: c-175690
@@ -145,7 +144,6 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192920
-
 - id: c-175691
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -172,7 +170,6 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192921
-
 - id: c-177298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"

@@ -49,7 +49,7 @@ Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangi
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172403
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangius daiktus sekė senovės galais ir skandinavais.'
@@ -69,8 +69,7 @@ Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-189515
 ## Citatos
 
 - id: c-172403

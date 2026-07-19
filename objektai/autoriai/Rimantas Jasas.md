@@ -63,6 +63,7 @@ Rimantas Jasas parengė 1971 m. lietuvišką Bychovco kronikos leidimą: išvert
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169801
+    - c-001
 - susijęs iš [[objektai/autoriai/R. Jasas.md#claim-t-64832|R. Jasas]]: R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.
 - susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): 1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
@@ -96,8 +97,7 @@ Rimantas Jasas parengė 1971 m. lietuvišką Bychovco kronikos leidimą: išvert
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-186453
 ## Citatos
 
 - id: c-169801

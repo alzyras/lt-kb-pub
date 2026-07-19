@@ -114,7 +114,6 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82775
-
 - id: c-79208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -138,7 +137,6 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82773
-
 - id: c-79209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -162,6 +160,5 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82774
-
 ## Ryšiai
 - Urbonas VI paskyrė [[objektai/asmenys/Dobrogostas]]

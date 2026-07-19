@@ -97,7 +97,6 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36467
-
 - id: c-167688
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -119,6 +118,5 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184317
-
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

@@ -60,7 +60,7 @@ Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ bu
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173412
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ buvo išleista Vilniuje 1826 m. keturiais tomais.'
@@ -75,8 +75,7 @@ Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ bu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-190529
 ## Citatos
 
 - id: c-173412

@@ -98,7 +98,6 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-53891
-
 - id: c-54903
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -121,7 +120,6 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-53890
-
 - id: c-54904
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"

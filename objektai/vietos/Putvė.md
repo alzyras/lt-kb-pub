@@ -89,7 +89,6 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32490
-
 - id: c-34017
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -109,6 +108,5 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32491
-
 ## Ryšiai
 - Putvė priklausė [[objektai/vietos/Karšuva]]

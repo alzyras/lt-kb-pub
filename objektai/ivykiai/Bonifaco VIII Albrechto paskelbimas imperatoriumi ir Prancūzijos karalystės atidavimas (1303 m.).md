@@ -74,7 +74,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai paremtas citatos duomenimis."
   pagrindžia:
     - c-63527
-
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
@@ -91,8 +91,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-62748
 ## Citatos
 
 - id: c-63527

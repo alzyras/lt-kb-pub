@@ -249,7 +249,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   semantiniai_rysiai: "Olyka priklausė Voluinė (0.92)"
   pagrindžia:
     - c-46844
-
+    - c-103778
 <a id="claim-t-112348"></a>
 - t-012
   global_id: t-112348
@@ -708,7 +708,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112363
-
 - id: c-21498
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -730,7 +729,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindzia:
     - t-112340
     - t-112352
-
 - id: c-46843
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -751,7 +749,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindzia:
     - t-112346
     - t-112348
-
 - id: c-46844
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -790,7 +787,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112362
-
 - id: c-103758
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -811,7 +807,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112349
-
 - id: c-103759
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -832,7 +827,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112344
-
 - id: c-103760
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -857,8 +851,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112341
-
+    - t-112357
 - id: c-103762
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -878,7 +871,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112337
-
 - id: c-103764
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -901,7 +893,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindzia:
     - t-112351
     - t-112358
-
 - id: c-103765
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -924,7 +915,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112360
-
 - id: c-103766
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -962,7 +952,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindzia:
     - t-112336
     - t-112343
-
 - id: c-103767
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -984,7 +973,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112356
-
 - id: c-103768
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1007,7 +995,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112365
-
 - id: c-103771
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1026,7 +1013,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112342
-
 - id: c-103772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1046,7 +1032,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112338
-
 - id: c-103773
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1077,7 +1062,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindzia:
     - t-112354
     - t-112364
-
 - id: c-103775
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1094,7 +1078,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112345
-
 - id: c-103777
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1119,7 +1102,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112359
-
 - id: c-103778
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1139,8 +1121,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-112347
-
+    - t-112353
 - id: c-171760
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1162,7 +1143,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188871
-
 - id: c-175986
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1179,7 +1159,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193253
-
 - id: c-175987
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1204,7 +1183,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193254
-
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]
 - Turėjo priklausinį: [[objektai/vietos/Luckas]], [[objektai/vietos/Olyka]], [[objektai/vietos/Podbužo dvaras]]

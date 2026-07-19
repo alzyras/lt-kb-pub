@@ -198,7 +198,6 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78009
-
 - id: c-75323
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -217,7 +216,6 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78007
-
 - id: c-75324
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -237,7 +235,6 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78008
-
 - id: c-75325
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -261,7 +258,6 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78011
-
 - id: c-75326
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

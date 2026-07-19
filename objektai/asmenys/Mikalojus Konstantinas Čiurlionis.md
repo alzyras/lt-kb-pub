@@ -204,8 +204,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-101690
-
+    - t-101694
 - id: c-16723
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -227,7 +226,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   pagrindzia:
     - t-101691
     - t-101692
-
 - id: c-16724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -254,7 +252,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   pagrindzia:
     - t-101693
     - t-101695
-
 - id: c-21889
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -278,7 +275,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_saltinis: ai
   pagrindzia:
     - t-101689
-
 - id: c-95138
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"

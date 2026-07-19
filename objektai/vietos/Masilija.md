@@ -48,6 +48,7 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175653
+    - c-001
 - susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191131|Pitėjas Masilietis]]: Pitėjas Masilietis, Masilijos astronomas ir jūrų keliautojas, apie 340 m. pr. Kr. išplaukė iš Masilijos uosto į Atlanto vandenyną.
 - susijęs iš [[objektai/autoriai/Pitėjas.md#claim-t-191547|Pitėjas]]: Teodoras Narbutas Pitėją vadina Masilijos astronomu ir jūrų keliautoju, apie 340 m. pr. Kr. išplaukusiu į Atlantą.
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192956|Masiliečiai]]: Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo iki Tarteso tų pačių prekių kaip kartaginiečiai.
@@ -78,8 +79,7 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-
+    - t-192883
 ## Citatos
 
 - id: c-175653

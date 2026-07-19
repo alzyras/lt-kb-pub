@@ -205,7 +205,6 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     - t-113890
     - t-113891
     - t-113892
-
 - id: c-42143
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -222,7 +221,6 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113897
-
 - id: c-105074
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -246,7 +244,6 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113895
-
 - id: c-105076
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -276,7 +273,6 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113893
-
 - id: c-105077
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -294,7 +290,6 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113894
-
 - id: c-105078
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -315,6 +310,5 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-113896
-
 ## Ryšiai
 - Mikalojus Radvila Rudasis rėmė [[objektai/grupes/Vilniaus pirkliai]]

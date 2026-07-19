@@ -98,7 +98,6 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30677
-
 - id: c-32968
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

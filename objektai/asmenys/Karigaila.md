@@ -167,7 +167,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63796
-
 - id: c-36407
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -191,7 +190,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63795
-
 - id: c-64734
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -215,7 +213,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63794
-
 - id: c-64735
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -234,7 +231,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63793
-
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vasilijus Čartoriskis]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
