@@ -101,3 +101,7 @@ console.log(
     2,
   ),
 )
+
+if (unsupportedReferences > 0 || textMismatchReferences > 0) {
+  process.exitCode = 1
+}
